@@ -89,13 +89,28 @@ if (fs.existsSync(dataPath)) {
                     alt={article.title}
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"
+                    onerror="this.closest('.card').querySelector('.img-fallback')?.classList.remove('hidden'); this.parentElement.classList.add('hidden');"
                   />
                 </div>
-              ) : (
-                <div class="aspect-[16/9] bg-[var(--bg-secondary)] flex items-center justify-center text-4xl">
-                  {categories.find((c: any) => c.id === article.category)?.icon || '📰'}
+              ) : null}
+              <div class:list={[
+                "img-fallback aspect-[16/9] relative overflow-hidden flex flex-col items-center justify-center",
+                article.image ? "hidden" : "",
+                article.category === 'world' ? 'bg-gradient-to-br from-blue-500 via-indigo-500 to-purple-600' :
+                article.category === 'china' ? 'bg-gradient-to-br from-rose-500 via-red-500 to-orange-500' :
+                article.category === 'tech' ? 'bg-gradient-to-br from-violet-500 via-purple-500 to-fuchsia-600' :
+                'bg-gradient-to-br from-emerald-500 via-teal-500 to-cyan-600'
+              ]}>
+                <div class="absolute inset-0 opacity-10">
+                  <div class="absolute top-4 left-4 w-24 h-24 rounded-full border-2 border-white/30"></div>
+                  <div class="absolute bottom-6 right-6 w-16 h-16 rounded-full border-2 border-white/20"></div>
+                  <div class="absolute top-1/2 right-1/4 w-8 h-8 rounded-full bg-white/10"></div>
                 </div>
-              )}
+                <span class="text-4xl mb-2 drop-shadow-lg relative z-10">
+                  {categories.find((c: any) => c.id === article.category)?.icon || '📰'}
+                </span>
+                <span class="text-white/90 text-sm font-medium tracking-wide relative z-10">{article.source}</span>
+              </div>
               <div class="p-4">
                 <div class="flex items-center gap-2 mb-2">
                   <span class={`category-badge ${
