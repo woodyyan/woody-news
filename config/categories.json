@@ -1,0 +1,86 @@
+{
+  "categories": [
+    {
+      "id": "world",
+      "name": "国际要闻",
+      "icon": "🌍",
+      "sources": [
+        {
+          "name": "Google News (World)",
+          "type": "rss",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXigAQ?ceid=US:en&oc=3",
+          "lang": "en"
+        },
+        {
+          "name": "BBC World",
+          "type": "rss",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "lang": "en"
+        },
+        {
+          "name": "NYTimes World",
+          "type": "rss",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "lang": "en"
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "国内要闻",
+      "icon": "🏠",
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "type": "rss",
+          "url": "https://feedx.net/rss/thepaper.xml",
+          "lang": "zh"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技新闻",
+      "icon": "💻",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "type": "rss",
+          "url": "https://techcrunch.com/feed/",
+          "lang": "en"
+        },
+        {
+          "name": "The Verge",
+          "type": "rss",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "lang": "en"
+        },
+        {
+          "name": "36氪",
+          "type": "rss",
+          "url": "https://36kr.com/feed",
+          "lang": "zh"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "商业新闻",
+      "icon": "📈",
+      "sources": [
+        {
+          "name": "Google News (Business)",
+          "type": "rss",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXigAQ?ceid=US:en&oc=3",
+          "lang": "en"
+        },
+        {
+          "name": "Bloomberg",
+          "type": "rss",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "lang": "en"
+        }
+      ]
+    }
+  ]
+}

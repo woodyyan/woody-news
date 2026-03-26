@@ -1,0 +1,43 @@
+name: Fetch News
+
+on:
+  schedule:
+    # 每天 UTC 0:00 和 12:00（北京时间 08:00 和 20:00）
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+    # 支持手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch news
+        run: cd scripts && python fetch_news.py
+        env:
+          VOLCENGINE_API_KEY: ${{ secrets.VOLCENGINE_API_KEY }}
+          VOLCENGINE_BASE_URL: ${{ secrets.VOLCENGINE_BASE_URL }}
+          VOLCENGINE_MODEL: ${{ secrets.VOLCENGINE_MODEL }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "📰 Update news $(date +%Y-%m-%d)"
+          git push

@@ -1,0 +1,237 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// 读取分类配置
+const categoriesPath = path.join(process.cwd(), 'config/categories.json');
+const categoriesData = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
+const categories = categoriesData.categories;
+
+// 获取今天的日期
+const today = new Date().toISOString().split('T')[0];
+
+// 读取今日新闻数据
+let articles: any[] = [];
+let newsDate = today;
+const todayDataPath = path.join(process.cwd(), `data/${today}.json`);
+
+if (fs.existsSync(todayDataPath)) {
+  const data = JSON.parse(fs.readFileSync(todayDataPath, 'utf-8'));
+  articles = data.articles || [];
+  newsDate = data.date || today;
+}
+
+// 读取日期索引（用于往期新闻）
+let availableDates: string[] = [];
+const indexPath = path.join(process.cwd(), 'data/index.json');
+if (fs.existsSync(indexPath)) {
+  const indexData = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+  availableDates = (indexData.dates || []).filter((d: string) => d !== today);
+}
+
+// 如果今天没有数据，尝试读取最新的
+if (articles.length === 0 && availableDates.length > 0) {
+  const latestDate = availableDates[0];
+  const latestPath = path.join(process.cwd(), `data/${latestDate}.json`);
+  if (fs.existsSync(latestPath)) {
+    const data = JSON.parse(fs.readFileSync(latestPath, 'utf-8'));
+    articles = data.articles || [];
+    newsDate = data.date || latestDate;
+  }
+}
+---
+
+<Layout title="Woody News — 每日新闻">
+  <Header />
+
+  <main class="max-w-5xl mx-auto px-4 sm:px-6 py-6">
+    {/* 日期显示 */}
+    <div class="mb-6">
+      <p class="text-sm text-[var(--text-muted)]">
+        {newsDate} · 共 <span id="article-count">{articles.length}</span> 条新闻
+      </p>
+    </div>
+
+    {/* 分类 Tab */}
+    <nav class="flex gap-1 mb-8 overflow-x-auto pb-2 scrollbar-hide border-b border-[var(--border-color)]" id="category-tabs">
+      <button
+        class="tab-btn tab-active px-4 py-2 text-sm whitespace-nowrap transition-colors rounded-t-lg"
+        data-category="all"
+      >
+        全部
+      </button>
+      {categories.map((cat: any) => (
+        <button
+          class="tab-btn px-4 py-2 text-sm whitespace-nowrap text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-t-lg"
+          data-category={cat.id}
+        >
+          <span class="mr-1">{cat.icon}</span>{cat.name}
+        </button>
+      ))}
+    </nav>
+
+    {/* 新闻列表 */}
+    {articles.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5" id="news-grid">
+        {articles.map((article: any) => (
+          <article
+            class="card group cursor-pointer"
+            data-category={article.category}
+          >
+            <a href={article.link} target="_blank" rel="noopener noreferrer" class="block">
+              {/* 图片区域 */}
+              {article.image ? (
+                <div class="aspect-[16/9] overflow-hidden bg-[var(--bg-secondary)]">
+                  <img
+                    src={article.image}
+                    alt={article.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.parentElement.innerHTML='<div class=\'w-full h-full flex items-center justify-center text-4xl bg-[var(--bg-secondary)]\'>' + (this.closest('[data-category]')?.dataset.category === 'world' ? '🌍' : this.closest('[data-category]')?.dataset.category === 'china' ? '🏠' : this.closest('[data-category]')?.dataset.category === 'tech' ? '💻' : '📈') + '</div>'"
+                  />
+                </div>
+              ) : (
+                <div class="aspect-[16/9] bg-[var(--bg-secondary)] flex items-center justify-center text-4xl">
+                  {categories.find((c: any) => c.id === article.category)?.icon || '📰'}
+                </div>
+              )}
+
+              {/* 内容区域 */}
+              <div class="p-4">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class={`category-badge ${
+                    article.category === 'world' ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300' :
+                    article.category === 'china' ? 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300' :
+                    article.category === 'tech' ? 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300' :
+                    'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300'
+                  }`}>
+                    {categories.find((c: any) => c.id === article.category)?.name || article.category}
+                  </span>
+                  {article.lang === 'en' && (
+                    <span class="tag-translated" title="已从英文翻译">译</span>
+                  )}
+                </div>
+
+                <h2 class="text-base font-semibold leading-snug mb-2 text-[var(--text-primary)] group-hover:text-[var(--accent)] transition-colors line-clamp-2">
+                  {article.title}
+                </h2>
+
+                {/* 原文标题（仅翻译新闻） */}
+                {article.lang === 'en' && article.title_original && (
+                  <p class="text-xs text-[var(--text-muted)] mb-2 line-clamp-1 italic">
+                    {article.title_original}
+                  </p>
+                )}
+
+                <p class="text-sm text-[var(--text-secondary)] leading-relaxed mb-3 line-clamp-3">
+                  {article.summary}
+                </p>
+
+                <div class="flex items-center justify-between text-xs text-[var(--text-muted)]">
+                  <span class="flex items-center gap-1">
+                    <span>{article.source}</span>
+                  </span>
+                  <time datetime={article.published_at}>
+                    {new Date(article.published_at).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}
+                  </time>
+                </div>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20">
+        <div class="text-5xl mb-4">📭</div>
+        <p class="text-lg text-[var(--text-secondary)]">今日暂无新闻</p>
+        <p class="text-sm text-[var(--text-muted)] mt-2">新闻将在每天 08:00 和 20:00 自动更新</p>
+      </div>
+    )}
+
+    {/* 往期新闻 */}
+    {availableDates.length > 0 && (
+      <section class="mt-16">
+        <h2 class="text-lg font-semibold mb-4 flex items-center gap-2">
+          <span>📅</span>
+          <span>往期新闻</span>
+        </h2>
+        <div class="flex flex-wrap gap-2">
+          {availableDates.slice(0, 30).map((date: string) => (
+            <a
+              href={`/archive/${date}`}
+              class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
+            >
+              {date}
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </main>
+
+  <Footer />
+</Layout>
+
+<script is:inline>
+  // 分类 Tab 过滤逻辑
+  const tabs = document.querySelectorAll('.tab-btn');
+  const cards = document.querySelectorAll('#news-grid [data-category]');
+  const countEl = document.getElementById('article-count');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      // 更新 Tab 样式
+      tabs.forEach(t => {
+        t.classList.remove('tab-active');
+        t.classList.add('text-[var(--text-secondary)]');
+      });
+      tab.classList.add('tab-active');
+      tab.classList.remove('text-[var(--text-secondary)]');
+
+      // 过滤卡片
+      const category = tab.dataset.category;
+      let visibleCount = 0;
+      cards.forEach(card => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (countEl) countEl.textContent = visibleCount.toString();
+    });
+  });
+</script>
+
+<style>
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+</style>
