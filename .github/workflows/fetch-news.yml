@@ -41,3 +41,6 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "📰 Update news $(date +%Y-%m-%d)"
           git push
+
+      - name: Trigger Vercel deploy
+        run: curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
