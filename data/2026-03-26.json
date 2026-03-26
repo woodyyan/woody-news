@@ -3,19 +3,6 @@
   "updated_at": "2026-03-26T23:31:16.172352+08:00",
   "articles": [
     {
-      "id": "a7c1e5f3",
-      "title": "联合国安理会通过新决议，呼吁全面加强全球网络安全合作",
-      "title_original": "UN Security Council Passes New Resolution on Global Cybersecurity Cooperation",
-      "summary": "联合国安理会一致通过一项新决议，要求各成员国加强网络安全领域的国际合作。决议呼吁建立全球网络事件响应机制，设立信息共享平台，并对关键基础设施的网络攻击行为采取更严厉的制裁措施。这是安理会首次就网络安全通过具有约束力的决议。",
-      "summary_original": "The UN Security Council has unanimously passed a new resolution calling for enhanced international cooperation on cybersecurity.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
-      "link": "https://www.bbc.com/news/world-cyber-resolution",
-      "category": "world",
-      "source": "BBC News",
-      "lang": "en",
-      "published_at": "2026-03-26T16:00:00Z"
-    },
-    {
       "id": "106e7b77",
       "title": "伊朗战事实时更新：特朗普结合外交与威慑向伊朗施压",
       "title_original": "Iran War Live Updates: Trump Mixes Diplomacy and Threats in Effort to Pressure Iran",
@@ -53,19 +40,6 @@
       "source": "The Verge",
       "lang": "en",
       "published_at": "2026-03-26T15:01:59+00:00"
-    },
-    {
-      "id": "c9e3a7b5",
-      "title": "特斯拉发布全自动驾驶出租车 Cybercab，首批城市年内上线",
-      "title_original": "Tesla Unveils Cybercab Autonomous Taxi, Launching in Select Cities This Year",
-      "summary": "特斯拉正式发布无人驾驶出租车 Cybercab，车内无方向盘和踏板，完全依靠 AI 自动驾驶。首批服务将在奥斯汀和旧金山启动，每英里定价约 0.5 美元，远低于 Uber 等传统网约车。马斯克称这标志着「个人交通的终结和共享出行时代的开始」。",
-      "summary_original": "Tesla has officially unveiled the Cybercab, a fully autonomous taxi with no steering wheel or pedals.",
-      "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80",
-      "link": "https://techcrunch.com/2026/03/26/tesla-cybercab",
-      "category": "business",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-03-26T15:00:00Z"
     },
     {
       "id": "d4f5262a",
@@ -157,19 +131,6 @@
       "source": "BBC World",
       "lang": "en",
       "published_at": "2026-03-26T14:31:23+00:00"
-    },
-    {
-      "id": "d4f8a1b2",
-      "title": "OpenAI 发布 GPT-6，推理与代码能力大幅跃升",
-      "title_original": "OpenAI Launches GPT-6 with Major Reasoning and Coding Breakthroughs",
-      "summary": "OpenAI 正式发布新一代大语言模型 GPT-6，在数学推理、代码生成和多语言理解方面实现显著突破。基准测试显示，GPT-6 综合性能较前代提升约 40%，推理速度提升 2 倍，同时大幅降低了幻觉率。该模型已向 ChatGPT Plus 用户开放。",
-      "summary_original": "OpenAI today unveiled GPT-6, its latest large language model featuring significant improvements in mathematical reasoning, code generation, and multilingual understanding.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      "link": "https://techcrunch.com/2026/03/26/openai-gpt6",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-03-26T14:30:00Z"
     },
     {
       "id": "8b41a701",
@@ -328,19 +289,6 @@
       "published_at": "2026-03-26T13:01:54+00:00"
     },
     {
-      "id": "e1a5c9d7",
-      "title": "英伟达市值突破 5 万亿美元，超越苹果成全球市值最高公司",
-      "title_original": "Nvidia Surpasses $5 Trillion Market Cap, Overtakes Apple as World's Most Valuable Company",
-      "summary": "英伟达股价再创新高，市值正式突破 5 万亿美元大关，超越苹果成为全球市值最高的上市公司。受 AI 芯片需求持续爆发驱动，英伟达上季度营收同比增长 78%，数据中心业务贡献了超过 80% 的收入。华尔街分析师普遍认为 AI 基础设施投资周期仍处于早期阶段。",
-      "summary_original": "Nvidia has officially surpassed the $5 trillion market cap milestone, overtaking Apple as the world's most valuable publicly traded company.",
-      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&q=80",
-      "link": "https://www.bloomberg.com/nvidia-5t-market-cap",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-03-26T13:00:00Z"
-    },
-    {
       "id": "58a5b1a2",
       "title": "WhatsApp现已可基于用户对话生成AI回复草稿",
       "title_original": "WhatsApp can now draft AI-generated responses based on your conversations",
@@ -443,19 +391,6 @@
       "source": "36氪",
       "lang": "zh",
       "published_at": "2026-03-26T12:00:31+00:00"
-    },
-    {
-      "id": "e5a9c3d1",
-      "title": "苹果 WWDC 2026 定档 6 月 9 日，AI 功能将成最大看点",
-      "title_original": "Apple Announces WWDC 2026 for June 9, AI Features Expected to Dominate",
-      "summary": "苹果公司宣布 WWDC 2026 将于 6 月 9 日至 13 日在 Apple Park 举行。业内预计本次大会将重点展示全新 AI 功能，包括 Siri 大幅升级、系统级智能助手以及开发者 AI 工具链。iOS 20 和 macOS 17 也将在大会上首次亮相。",
-      "summary_original": "Apple has announced WWDC 2026 will take place June 9-13 at Apple Park, with AI features expected to be the centerpiece of the event.",
-      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80",
-      "link": "https://www.theverge.com/2026/3/26/apple-wwdc-2026",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-03-26T12:00:00Z"
     },
     {
       "id": "8ba3ea30",
@@ -575,19 +510,6 @@
       "published_at": "2026-03-26T11:13:38+00:00"
     },
     {
-      "id": "a3c7e1f9",
-      "title": "SpaceX 星舰第七次试飞成功实现整箭回收，人类火星计划迈出关键一步",
-      "title_original": "SpaceX Starship Achieves Full Stack Recovery on Seventh Test Flight",
-      "summary": "SpaceX 星舰在第七次试飞中首次实现助推器和飞船的完整回收。助推器成功返回发射台被机械臂捕获，飞船在印度洋精准溅落后被回收船打捞。马斯克表示这证明星舰具备完全复用能力，计划在 2027 年执行首次无人火星货运任务。",
-      "summary_original": "SpaceX's Starship achieved its first full stack recovery during its seventh test flight, with both the booster and ship successfully recovered.",
-      "image": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?w=800&q=80",
-      "link": "https://www.bbc.com/news/science-spacex-starship",
-      "category": "world",
-      "source": "BBC News",
-      "lang": "en",
-      "published_at": "2026-03-26T11:00:00Z"
-    },
-    {
       "id": "7bc7395f",
       "title": "津巴布韦称15名本国公民遭诱骗为俄作战后身亡",
       "title_original": "Zimbabwe says 15 nationals killed after being lured to fight for Russia",
@@ -612,19 +534,6 @@
       "source": "36氪",
       "lang": "zh",
       "published_at": "2026-03-26T10:41:30+00:00"
-    },
-    {
-      "id": "f6b0d4e2",
-      "title": "36氪独家：字节跳动内部孵化 AI 硬件项目，年内或推出首款产品",
-      "title_original": null,
-      "summary": "据 36氪独家获悉，字节跳动正在内部秘密孵化一个 AI 硬件项目，团队规模已超 200 人。消息人士透露，该项目聚焦 AI 可穿戴设备，首款产品可能是一款具备实时翻译和智能助手功能的 AI 眼镜，预计年内发布。",
-      "summary_original": null,
-      "image": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?w=800&q=80",
-      "link": "https://36kr.com/p/example-bytedance-ai",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-03-26T10:30:00Z"
     },
     {
       "id": "8f54c06f",
@@ -705,19 +614,6 @@
       "published_at": "2026-03-26T09:01:03+00:00"
     },
     {
-      "id": "b8d2f6a4",
-      "title": "欧盟与东盟签署历史性自由贸易协定",
-      "title_original": "EU and ASEAN Sign Historic Free Trade Agreement",
-      "summary": "经过五年谈判，欧盟与东盟在雅加达正式签署全面自由贸易协定。该协定将在未来十年逐步消除双方约 95% 的关税壁垒，覆盖商品贸易、服务贸易、数字经济和可持续发展等领域。分析认为这将重塑亚欧贸易格局，惠及超 11 亿人口。",
-      "summary_original": "The European Union and ASEAN have signed a comprehensive free trade agreement in Jakarta after five years of negotiations.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-      "link": "https://www.nytimes.com/2026/03/26/eu-asean-trade",
-      "category": "world",
-      "source": "NYTimes",
-      "lang": "en",
-      "published_at": "2026-03-26T09:00:00Z"
-    },
-    {
       "id": "dd6dec69",
       "title": "鲜为人知的克罗地亚初创公司获优步助力进军自动驾驶出租车市场",
       "title_original": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
@@ -731,19 +627,6 @@
       "published_at": "2026-03-26T08:15:00+00:00"
     },
     {
-      "id": "d0f4b8c6",
-      "title": "国内新能源汽车一季度销量突破 300 万辆，同比增长 42%",
-      "title_original": null,
-      "summary": "中国汽车工业协会数据显示，2026 年一季度国内新能源汽车累计销量达 312 万辆，同比增长 42%，渗透率首次突破 55%。其中比亚迪以 89 万辆蝉联销冠，问界和小米汽车增速最为迅猛。分析人士指出，补贴退坡后市场依然强劲，说明消费者购买动力已从政策驱动转向产品驱动。",
-      "summary_original": null,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
-      "link": "https://36kr.com/p/example-ev-sales",
-      "category": "china",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-03-26T08:00:00Z"
-    },
-    {
       "id": "7c9bfc94",
       "title": "特朗普确认与习近平的会晤因伊朗战事推迟至五月",
       "title_original": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
@@ -755,19 +638,6 @@
       "source": "BBC World",
       "lang": "en",
       "published_at": "2026-03-26T07:34:55+00:00"
-    },
-    {
-      "id": "f2b6d0e8",
-      "title": "长三角一体化重大进展：沪苏浙皖签署数据共享框架协议",
-      "title_original": null,
-      "summary": "上海、江苏、浙江、安徽四省市在上海签署了长三角数据共享框架协议，将在政务服务、交通出行、医疗健康和营商环境四个领域率先实现数据互通。这意味着未来长三角居民可以跨省办理超 200 项政务事项，医保结算和交通执法信息也将实时共享。",
-      "summary_original": null,
-      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&q=80",
-      "link": "https://www.thepaper.cn/example-yangtze-delta",
-      "category": "china",
-      "source": "澎湃新闻",
-      "lang": "zh",
-      "published_at": "2026-03-26T07:00:00Z"
     },
     {
       "id": "697aa523",

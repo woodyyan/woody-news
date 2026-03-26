@@ -58,6 +58,31 @@ def generate_id(link: str) -> str:
     return hashlib.md5(link.encode()).hexdigest()[:8]
 
 
+def _resolve_google_news_link(link: str) -> str:
+    """解析 Google News 跳转链接，提取真实 URL"""
+    if "news.google.com" not in link:
+        return link
+
+    try:
+        # Google News RSS 链接中有时包含真实 URL 参数
+        from urllib.parse import urlparse, parse_qs
+        parsed = urlparse(link)
+        # 有些 Google News 链接的真实 URL 在 query 参数中
+        qs = parse_qs(parsed.query)
+        if "url" in qs:
+            return qs["url"][0]
+
+        # 尝试通过 HTTP HEAD 请求获取重定向后的真实 URL
+        with httpx.Client(timeout=10, follow_redirects=True, headers=HEADERS) as client:
+            resp = client.head(link)
+            if resp.url and str(resp.url) != link:
+                return str(resp.url)
+    except Exception as e:
+        logger.warning(f"  ⚠️ 解析 Google News 链接失败: {e}")
+
+    return link
+
+
 def fetch_rss(source: dict, category_id: str) -> list[dict]:
     """抓取单个 RSS 源的新闻"""
     url = source["url"]
@@ -79,6 +104,9 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
             link = entry.get("link", "")
             if not link:
                 continue
+
+            # 解析 Google News 跳转链接
+            link = _resolve_google_news_link(link)
 
             # 提取图片
             image = _extract_image(entry)
