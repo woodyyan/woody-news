@@ -227,8 +227,8 @@ def process_articles(raw_articles: list[dict]) -> list[dict]:
 
 
 def load_existing_ids() -> set:
-    """读取今天已有的新闻 ID，用于去重"""
-    data_path = DATA_DIR / f"{TODAY}.json"
+    """读取当前期次已有的新闻 ID，用于去重"""
+    data_path = DATA_DIR / f"{TODAY}-{EDITION}.json"
     if data_path.exists():
         with open(data_path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -237,11 +237,11 @@ def load_existing_ids() -> set:
 
 
 def save_data(articles: list[dict]):
-    """保存新闻数据到 JSON 文件"""
+    """保存新闻数据到 JSON 文件（每期独立文件）"""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    data_path = DATA_DIR / f"{TODAY}.json"
+    data_path = DATA_DIR / f"{TODAY}-{EDITION}.json"
 
-    # 如果今天已有数据，合并
+    # 如果当前期次已有数据，合并
     existing = []
     if data_path.exists():
         with open(data_path, "r", encoding="utf-8") as f:
@@ -261,6 +261,7 @@ def save_data(articles: list[dict]):
 
     output = {
         "date": TODAY,
+        "edition": EDITION,
         "updated_at": datetime.now(BJT).isoformat(),
         "articles": all_articles,
     }
@@ -272,19 +273,37 @@ def save_data(articles: list[dict]):
 
 
 def update_index():
-    """更新日期索引文件"""
+    """更新索引文件，记录所有可用的期次"""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 扫描所有数据文件
-    dates = sorted(
-        [f.stem for f in DATA_DIR.glob("????-??-??.json")],
-        reverse=True,
-    )
+    # 扫描所有数据文件（新格式: YYYY-MM-DD-edition.json，旧格式: YYYY-MM-DD.json）
+    editions = []
+    for f in DATA_DIR.glob("*.json"):
+        if f.name == "index.json":
+            continue
+        stem = f.stem  # e.g. "2026-03-27-evening" or "2026-03-26"
+        parts = stem.rsplit("-", 1)
+        if parts[-1] in ("morning", "evening"):
+            date = stem[:-len(parts[-1])-1]
+            edition = parts[-1]
+        else:
+            date = stem
+            edition = "all"
+        editions.append({"date": date, "edition": edition, "file": f.name})
+
+    # 按日期倒序，同日 evening 在 morning 前
+    edition_order = {"evening": 0, "morning": 1, "all": 2}
+    editions.sort(key=lambda x: (-int(x["date"].replace("-", "")), edition_order.get(x["edition"], 9)))
 
     index = {
-        "dates": dates,
-        "latest": dates[0] if dates else None,
+        "editions": editions,
+        "latest": editions[0]["file"].replace(".json", "") if editions else None,
     }
+
+    with open(INDEX_PATH, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    logger.info(f"📋 索引已更新，共 {len(editions)} 期")
 
     with open(INDEX_PATH, "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
@@ -293,7 +312,8 @@ def update_index():
 
 
 def main():
-    logger.info(f"🚀 Woody News 采集开始 — {TODAY}")
+    edition_label = "早报" if EDITION == "morning" else "晚报"
+    logger.info(f"🚀 Woody News 采集开始 — {TODAY} {edition_label}")
     logger.info(f"{'=' * 50}")
 
     # 1. 加载配置

@@ -10,36 +10,58 @@ const categoriesPath = path.join(process.cwd(), 'config/categories.json');
 const categoriesData = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
 const categories = categoriesData.categories;
 
-// 读取日期索引
+// 读取索引
 const indexPath = path.join(process.cwd(), 'data/index.json');
-let availableDates: string[] = [];
+let editions: any[] = [];
 if (fs.existsSync(indexPath)) {
   const indexData = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
-  availableDates = indexData.dates || [];
+  editions = indexData.editions || [];
+  // 兼容旧格式
+  if (!editions.length && indexData.dates) {
+    editions = indexData.dates.map((d: string) => ({ date: d, edition: 'all', file: d + '.json' }));
+  }
 }
 
-// 生成所有日期的静态路径
+// 生成所有期次的静态路径
 export function getStaticPaths() {
   const indexPath2 = path.join(process.cwd(), 'data/index.json');
   if (!fs.existsSync(indexPath2)) return [];
   const indexData = JSON.parse(fs.readFileSync(indexPath2, 'utf-8'));
-  return (indexData.dates || []).map((date: string) => ({
-    params: { date },
+  const eds = indexData.editions || [];
+  const paths = eds.map((e: any) => ({
+    params: { date: e.file.replace('.json', '') },
   }));
+  // 兼容旧格式
+  if (!eds.length && indexData.dates) {
+    return indexData.dates.map((d: string) => ({ params: { date: d } }));
+  }
+  return paths;
 }
 
 const { date } = Astro.params;
 
-// 读取对应日期的新闻
+// 读取对应期次的新闻
 let articles: any[] = [];
+let newsDate = '';
+let edition = '';
 const dataPath = path.join(process.cwd(), `data/${date}.json`);
 if (fs.existsSync(dataPath)) {
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
   articles = data.articles || [];
+  newsDate = data.date || date;
+  edition = data.edition || '';
 }
+
+// 其他期次
+const currentKey = date;
+const otherEditions = editions.filter((e: any) => e.file.replace('.json', '') !== currentKey);
+
+// 期次标签
+const editionLabel = edition === 'morning' ? '早报' : edition === 'evening' ? '晚报' : '';
+const editionIcon = edition === 'morning' ? '☀️' : edition === 'evening' ? '🌙' : '📰';
 ---
 
-<Layout title={`${date} 新闻 — Woody News`}>
+<Layout title={`${newsDate || date} ${editionLabel} — Woody News`}>
   <Header />
 
   <main class="max-w-5xl mx-auto px-4 sm:px-6 py-6">
@@ -47,17 +69,19 @@ if (fs.existsSync(dataPath)) {
     <nav class="mb-6 flex items-center gap-2 text-sm text-[var(--text-muted)]">
       <a href="/" class="hover:text-[var(--accent)] transition-colors">首页</a>
       <span>›</span>
-      <span class="text-[var(--text-primary)]">{date}</span>
+      <span class="text-[var(--text-primary)]">往期新闻</span>
     </nav>
 
     {/* 日期 & 统计 */}
     <div class="mb-6">
       <h1 class="text-2xl font-bold mb-1">
         {(() => {
-          const d = new Date(date + 'T00:00:00');
+          const dateStr = newsDate || date;
+          const d = new Date(dateStr + 'T00:00:00');
           const weekdays = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
           return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
         })()}
+        {editionLabel && <span class="ml-2 inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-sm font-medium bg-[var(--tag-bg)] text-[var(--tag-text)]">{editionIcon} {editionLabel}</span>}
       </h1>
       <p class="text-sm text-[var(--text-muted)]">
         共 <span id="article-count">{articles.length}</span> 条新闻
@@ -84,27 +108,8 @@ if (fs.existsSync(dataPath)) {
 
     {/* 新闻列表 */}
     {articles.length > 0 ? (
-      <div id="news-container">
-        {(() => {
-          const eveningArticles = articles.filter((a: any) => a.edition === 'evening');
-          const morningArticles = articles.filter((a: any) => a.edition === 'morning');
-          const noEdition = articles.filter((a: any) => !a.edition);
-          const groups: { key: string; label: string; icon: string; items: any[] }[] = [];
-          if (eveningArticles.length > 0) groups.push({ key: 'evening', label: '晚报', icon: '🌙', items: eveningArticles });
-          if (morningArticles.length > 0) groups.push({ key: 'morning', label: '早报', icon: '☀️', items: morningArticles });
-          if (noEdition.length > 0) groups.push({ key: 'none', label: '新闻', icon: '📰', items: noEdition });
-          return groups.map((group) => (
-            <div class="mb-10" data-edition={group.key}>
-              {groups.length > 1 && (
-                <div class="flex items-center gap-3 mb-5">
-                  <span class="text-lg">{group.icon}</span>
-                  <span class="text-base font-semibold text-[var(--text-primary)]">{group.label}</span>
-                  <span class="text-xs text-[var(--text-muted)]">{group.items.length} 条</span>
-                  <div class="flex-1 h-px bg-[var(--border-color)]"></div>
-                </div>
-              )}
-              <div class="grid grid-cols-1 md:grid-cols-2 gap-5 news-grid">
-                {group.items.map((article: any) => (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5" id="news-grid">
+        {articles.map((article: any) => (
           <article class="card group cursor-pointer" data-category={article.category}>
             <a href={article.link} target="_blank" rel="noopener noreferrer" class="block">
               {article.image ? (
@@ -170,35 +175,33 @@ if (fs.existsSync(dataPath)) {
               </div>
             </a>
           </article>
-                ))}
-              </div>
-            </div>
-          ));
-        })()}
+        ))}
       </div>
     ) : (
       <div class="text-center py-20">
         <div class="text-5xl mb-4">📭</div>
-        <p class="text-lg text-[var(--text-secondary)]">该日期暂无新闻数据</p>
+        <p class="text-lg text-[var(--text-secondary)]">该期暂无新闻数据</p>
       </div>
     )}
 
-    {/* 其他日期 */}
-    {availableDates.length > 1 && (
+    {/* 其他期次 */}
+    {otherEditions.length > 0 && (
       <section class="mt-16">
         <h2 class="text-lg font-semibold mb-4 flex items-center gap-2">
-          <span>📅</span><span>其他日期</span>
+          <span>📅</span><span>其他期次</span>
         </h2>
         <div class="flex flex-wrap gap-2">
-          {availableDates.filter(d => d !== date).slice(0, 30).map((dateStr: string) => {
-            const dt = new Date(dateStr + 'T00:00:00');
+          {otherEditions.slice(0, 30).map((e: any) => {
+            const dt = new Date(e.date + 'T00:00:00');
             const weekdays = ['周日','周一','周二','周三','周四','周五','周六'];
+            const eLabel = e.edition === 'morning' ? '☀️早报' : e.edition === 'evening' ? '🌙晚报' : '';
+            const key = e.file.replace('.json', '');
             return (
             <a
-              href={`/archive/${dateStr}`}
+              href={`/archive/${key}`}
               class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
             >
-              {`${dt.getMonth()+1}月${dt.getDate()}日（${weekdays[dt.getDay()]}）`}
+              {`${dt.getMonth()+1}月${dt.getDate()}日（${weekdays[dt.getDay()]}）${eLabel}`}
             </a>
             );
           })}
@@ -212,8 +215,7 @@ if (fs.existsSync(dataPath)) {
 
 <script is:inline>
   const tabs = document.querySelectorAll('.tab-btn');
-  const cards = document.querySelectorAll('.news-grid [data-category]');
-  const editionGroups = document.querySelectorAll('[data-edition]');
+  const cards = document.querySelectorAll('#news-grid [data-category]');
   const countEl = document.getElementById('article-count');
 
   tabs.forEach(tab => {
@@ -233,10 +235,6 @@ if (fs.existsSync(dataPath)) {
         } else {
           card.style.display = 'none';
         }
-      });
-      editionGroups.forEach(group => {
-        const visibleCards = group.querySelectorAll('.news-grid [data-category]:not([style*="display: none"])');
-        group.style.display = visibleCards.length > 0 ? '' : 'none';
       });
       if (countEl) countEl.textContent = visibleCount.toString();
     });
