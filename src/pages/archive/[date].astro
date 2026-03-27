@@ -84,8 +84,27 @@ if (fs.existsSync(dataPath)) {
 
     {/* 新闻列表 */}
     {articles.length > 0 ? (
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-5" id="news-grid">
-        {articles.map((article: any) => (
+      <div id="news-container">
+        {(() => {
+          const eveningArticles = articles.filter((a: any) => a.edition === 'evening');
+          const morningArticles = articles.filter((a: any) => a.edition === 'morning');
+          const noEdition = articles.filter((a: any) => !a.edition);
+          const groups: { key: string; label: string; icon: string; items: any[] }[] = [];
+          if (eveningArticles.length > 0) groups.push({ key: 'evening', label: '晚报', icon: '🌙', items: eveningArticles });
+          if (morningArticles.length > 0) groups.push({ key: 'morning', label: '早报', icon: '☀️', items: morningArticles });
+          if (noEdition.length > 0) groups.push({ key: 'none', label: '新闻', icon: '📰', items: noEdition });
+          return groups.map((group) => (
+            <div class="mb-10" data-edition={group.key}>
+              {groups.length > 1 && (
+                <div class="flex items-center gap-3 mb-5">
+                  <span class="text-lg">{group.icon}</span>
+                  <span class="text-base font-semibold text-[var(--text-primary)]">{group.label}</span>
+                  <span class="text-xs text-[var(--text-muted)]">{group.items.length} 条</span>
+                  <div class="flex-1 h-px bg-[var(--border-color)]"></div>
+                </div>
+              )}
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-5 news-grid">
+                {group.items.map((article: any) => (
           <article class="card group cursor-pointer" data-category={article.category}>
             <a href={article.link} target="_blank" rel="noopener noreferrer" class="block">
               {article.image ? (
@@ -151,7 +170,11 @@ if (fs.existsSync(dataPath)) {
               </div>
             </a>
           </article>
-        ))}
+                ))}
+              </div>
+            </div>
+          ));
+        })()}
       </div>
     ) : (
       <div class="text-center py-20">
@@ -189,7 +212,8 @@ if (fs.existsSync(dataPath)) {
 
 <script is:inline>
   const tabs = document.querySelectorAll('.tab-btn');
-  const cards = document.querySelectorAll('#news-grid [data-category]');
+  const cards = document.querySelectorAll('.news-grid [data-category]');
+  const editionGroups = document.querySelectorAll('[data-edition]');
   const countEl = document.getElementById('article-count');
 
   tabs.forEach(tab => {
@@ -209,6 +233,10 @@ if (fs.existsSync(dataPath)) {
         } else {
           card.style.display = 'none';
         }
+      });
+      editionGroups.forEach(group => {
+        const visibleCards = group.querySelectorAll('.news-grid [data-category]:not([style*="display: none"])');
+        group.style.display = visibleCards.length > 0 ? '' : 'none';
       });
       if (countEl) countEl.textContent = visibleCount.toString();
     });

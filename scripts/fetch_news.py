@@ -34,6 +34,10 @@ INDEX_PATH = DATA_DIR / "index.json"
 # 北京时间
 BJT = timezone(timedelta(hours=8))
 TODAY = datetime.now(BJT).strftime("%Y-%m-%d")
+NOW_HOUR = datetime.now(BJT).hour
+
+# 判断当前采集时段：14点前为早报，14点后为晚报
+EDITION = "morning" if NOW_HOUR < 14 else "evening"
 
 # 每个分类最多抓取的新闻数
 MAX_PER_SOURCE = 10
@@ -215,6 +219,7 @@ def process_articles(raw_articles: list[dict]) -> list[dict]:
             "source": raw["source"],
             "lang": raw["lang"],
             "published_at": raw["published_at"],
+            "edition": EDITION,
         }
         processed.append(article)
 
