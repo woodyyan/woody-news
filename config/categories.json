@@ -31,9 +31,21 @@
       "icon": "🏠",
       "sources": [
         {
-          "name": "澎湃新闻",
+          "name": "Google News (中国)",
           "type": "rss",
-          "url": "https://feedx.net/rss/thepaper.xml",
+          "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+          "lang": "zh"
+        },
+        {
+          "name": "36氪",
+          "type": "rss",
+          "url": "https://36kr.com/feed",
+          "lang": "zh"
+        },
+        {
+          "name": "Google News (中国-商业)",
+          "type": "rss",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
           "lang": "zh"
         }
       ]
