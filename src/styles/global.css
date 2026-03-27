@@ -17,16 +17,16 @@
   }
 
   .dark {
-    --bg-primary: #0f172a;
-    --bg-secondary: #1e293b;
-    --bg-card: #1e293b;
-    --text-primary: #f1f5f9;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
-    --border-color: #334155;
-    --accent: #38aaf8;
-    --tag-bg: #0c406e;
-    --tag-text: #7dc8fc;
+    --bg-primary: #171717;
+    --bg-secondary: #212121;
+    --bg-card: #1c1c1c;
+    --text-primary: #ededec;
+    --text-secondary: #a3a3a2;
+    --text-muted: #6b6b6a;
+    --border-color: #2e2e2d;
+    --accent: #e2a861;
+    --tag-bg: #352a1a;
+    --tag-text: #e2a861;
   }
 
   html {
@@ -57,7 +57,8 @@
   }
 
   .dark .card:hover {
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    border-color: #3a3a39;
   }
 
   .tab-active {

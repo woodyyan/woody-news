@@ -121,10 +121,10 @@ if (articles.length === 0 && availableDates.length > 0) {
               <div class="p-4">
                 <div class="flex items-center gap-2 mb-2">
                   <span class={`category-badge ${
-                    article.category === 'world' ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300' :
-                    article.category === 'china' ? 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300' :
-                    article.category === 'tech' ? 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300' :
-                    'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300'
+                    article.category === 'world' ? 'bg-blue-100 text-blue-700 dark:bg-blue-950/60 dark:text-blue-400' :
+                    article.category === 'china' ? 'bg-red-100 text-red-700 dark:bg-red-950/60 dark:text-red-400' :
+                    article.category === 'tech' ? 'bg-purple-100 text-purple-700 dark:bg-purple-950/60 dark:text-purple-400' :
+                    'bg-green-100 text-green-700 dark:bg-green-950/60 dark:text-green-400'
                   }`}>
                     {categories.find((c: any) => c.id === article.category)?.name || article.category}
                   </span>
