@@ -51,7 +51,11 @@ if (articles.length === 0 && availableDates.length > 0) {
     {/* 日期显示 */}
     <div class="mb-6">
       <p class="text-sm text-[var(--text-muted)]">
-        {newsDate} · 共 <span id="article-count">{articles.length}</span> 条新闻
+        {(() => {
+          const d = new Date(newsDate + 'T00:00:00');
+          const weekdays = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+          return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+        })()} · 共 <span id="article-count">{articles.length}</span> 条新闻
       </p>
     </div>
 
@@ -173,14 +177,18 @@ if (articles.length === 0 && availableDates.length > 0) {
           <span>往期新闻</span>
         </h2>
         <div class="flex flex-wrap gap-2">
-          {availableDates.slice(0, 30).map((date: string) => (
+          {availableDates.slice(0, 30).map((date: string) => {
+            const d = new Date(date + 'T00:00:00');
+            const weekdays = ['周日','周一','周二','周三','周四','周五','周六'];
+            return (
             <a
               href={`/archive/${date}`}
               class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
             >
-              {date}
+              {`${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`}
             </a>
-          ))}
+            );
+          })}
         </div>
       </section>
     )}

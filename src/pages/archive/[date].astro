@@ -52,7 +52,13 @@ if (fs.existsSync(dataPath)) {
 
     {/* 日期 & 统计 */}
     <div class="mb-6">
-      <h1 class="text-2xl font-bold mb-1">{date}</h1>
+      <h1 class="text-2xl font-bold mb-1">
+        {(() => {
+          const d = new Date(date + 'T00:00:00');
+          const weekdays = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+          return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+        })()}
+      </h1>
       <p class="text-sm text-[var(--text-muted)]">
         共 <span id="article-count">{articles.length}</span> 条新闻
       </p>
@@ -161,14 +167,18 @@ if (fs.existsSync(dataPath)) {
           <span>📅</span><span>其他日期</span>
         </h2>
         <div class="flex flex-wrap gap-2">
-          {availableDates.filter(d => d !== date).slice(0, 30).map((d: string) => (
+          {availableDates.filter(d => d !== date).slice(0, 30).map((dateStr: string) => {
+            const dt = new Date(dateStr + 'T00:00:00');
+            const weekdays = ['周日','周一','周二','周三','周四','周五','周六'];
+            return (
             <a
-              href={`/archive/${d}`}
+              href={`/archive/${dateStr}`}
               class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
             >
-              {d}
+              {`${dt.getMonth()+1}月${dt.getDate()}日（${weekdays[dt.getDay()]}）`}
             </a>
-          ))}
+            );
+          })}
         </div>
       </section>
     )}
