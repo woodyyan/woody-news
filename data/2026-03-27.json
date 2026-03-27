@@ -1,7 +1,59 @@
 {
   "date": "2026-03-27",
-  "updated_at": "2026-03-27T09:36:48.083253+08:00",
+  "updated_at": "2026-03-27T10:03:02.164516+08:00",
   "articles": [
+    {
+      "id": "c723f69d",
+      "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+      "title_original": null,
+      "summary": "智能庭院机器人品牌汉阳科技Yarbo完成近2亿元新一轮融资，投资方涵盖财务投资机构、产业资本与地方政府引导基金，融资将用于技术研发、产品迭代与全球市场拓展。其面向中小户型的新品M系列模块化庭院机器人，海外首发众筹6小时认筹额破150万美元，目前品牌正加速全球化布局。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260326/v2_269d821f8f7b4ed38b118ca197e486b0@6022551_oswg3416981oswg2556oswg1426_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3736563677396994?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-03-27T02:00:00+00:00"
+    },
+    {
+      "id": "43b40694",
+      "title": "为超百家具身智能企业提供核心零部件，「知行机器人」连续完成两轮近亿元融资 | 36氪首发",
+      "title_original": null,
+      "summary": "灵巧手及具身智能核心零部件提供商苏州知行机器人，连续完成B+、B++两轮累计近亿元融资，本轮由山东威达领投，多家机构跟投，资金将用于产品研发、数据采集与全球市场拓展，目前已为超百家头部具身智能企业供货，是国内产品谱系最全的末端执行器厂商之一。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_b94cfe24e2034168a01aa380e5365986@5688585_oswg102015oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3740523277517063?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-03-27T01:37:35+00:00"
+    },
+    {
+      "id": "5e620f27",
+      "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
+      "title_original": null,
+      "summary": "硬氪独家获悉，云鲸联合创始人吴一昊确认即将离职，他将卸任公司管理职务，仅保留首席战略顾问一职，创业新项目暂处保密阶段。吴一昊陪伴云鲸从初创成长为估值超百亿的扫地机器人独角兽，目前已有多名云鲸核心人员出走创业，吴一昊离开后云鲸或迎来组织调整。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3736574177345799?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-03-27T01:35:51+00:00"
+    },
+    {
+      "id": "72915344",
+      "title": "戴维·萨克斯不再担任AI沙皇，下一步动向公布",
+      "title_original": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "summary": "戴维·萨克斯已不再担任美国AI事务核心负责人一职。相较于美国第二届特朗普政府成立之初，卸任后的萨克斯将远离开华盛顿权力核心，其后续的任职动向也引发外界广泛关注。",
+      "summary_original": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-03-27T01:26:40+00:00"
+    },
     {
       "id": "cc04af85",
       "title": "Anthropic就国防部相关事件诉特朗普政府 赢得法院禁制令",
@@ -14,6 +66,19 @@
       "source": "TechCrunch",
       "lang": "en",
       "published_at": "2026-03-27T01:18:38+00:00"
+    },
+    {
+      "id": "f7cdfa5d",
+      "title": "中国万科、碧桂园应对持续楼市逆风",
+      "title_original": "China Vanke, Country Garden Navigate Persistent Property Headwinds",
+      "summary": "万科、碧桂园、中国海外发展三家房企将于下周公布最新业绩。中国房地产市场持续疲软，将成为拖累三家房企本次业绩表现的主要因素，当前国内地产行业仍面临持续下行压力，头部房企正积极应对行业困境。",
+      "summary_original": "Persistent weakness in China’s housing market will be the main drag when property developers China Vanke Co., Country Garden Holdings Co. and China Overseas Land &amp; Investment Ltd. report next week.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_8k0cQOg1iA/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-27/china-vanke-country-garden-navigate-persistent-property-headwinds",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-03-27T01:04:24+00:00"
     },
     {
       "id": "106e7b77",
@@ -716,71 +781,6 @@
       "source": "36氪",
       "lang": "zh",
       "published_at": "2026-03-26T11:28:26+00:00"
-    },
-    {
-      "id": "ca399df9",
-      "title": "AI首次进入微信首页，Clawbot想在你的工作流里占座",
-      "title_original": null,
-      "summary": "2026年3月OpenClaw引发的龙虾AI热潮持续，微信首次将AI引入首页，推出处于灰测阶段的Clawbot插件，该插件仅作为各类龙虾类AI智能体的接入通道，不掌握额外系统权限。微信此举核心是抢占AI时代入口，守住自身超级入口地位，嵌入用户日常工作流。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://36kr.com/p/3739641264177155?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-03-26T10:41:30+00:00"
-    },
-    {
-      "id": "8f54c06f",
-      "title": "巴基斯坦试图在伊朗问题扮演调停者 印度似遭边缘化",
-      "title_original": "India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran",
-      "summary": "巴基斯坦试图在伊朗相关事务中扮演和平调停者，印度在此进程中似乎被边缘化。在美国总统特朗普与印度总理通电话数小时前，美国官员已敦促印度聚焦共同目标，搁置彼此分歧。",
-      "summary_original": "Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.",
-      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/26INT-INDIA-IRAN-PAKISTAN-zjtv/26INT-INDIA-IRAN-PAKISTAN-zjtv-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/03/26/world/asia/india-pakistan-iran-trump-modi.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-03-26T09:44:20+00:00"
-    },
-    {
-      "id": "afe7ec8b",
-      "title": "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
-      "title_original": null,
-      "summary": "3月24日，平安好医生公布2025全年业绩，全年收入54.68亿元同比增13.7%，归母净利润3.8亿元同比增366.1%，实现全面盈利。公司调整业务架构为商保协同、企业健管双板块，其中企业健管收入同比大增40%，依托医险协同与科技赋能打造中国版管理式医疗新范式，机构已上调其评级与目标价。",
-      "summary_original": null,
-      "image": "https://img.36krcdn.com/hsossms/20260326/v2_70d48aa88538453d9abc6c57e4324ee9@5895246_oswg90518oswg1080oswg321_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "link": "https://36kr.com/p/3739583156961285?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-03-26T09:41:02+00:00"
-    },
-    {
-      "id": "be7faa02",
-      "title": "乌克兰农村：基本医疗沦为战争牺牲品",
-      "title_original": "In Rural Ukraine, Basic Health Care Is a Casualty of War",
-      "summary": "战争对乌克兰医疗体系造成严重破坏，该国偏远乡村的基本医疗服务陷入瘫痪，居住在孤立村庄的老年人无法获得必需药品，基本就医需求得不到满足。一名当地女性称，自己已经四年没有看过医生，乡村民众健康处境堪忧。",
-      "summary_original": "Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.",
-      "image": "https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-03-26T09:01:16+00:00"
-    },
-    {
-      "id": "697aa523",
-      "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
-      "title_original": null,
-      "summary": "3月25日，古茗发布2025年度业绩报告，全年营收约129亿元，经调整利润约25.75亿元，同比分别增长46.9%、66.9%，全年售出饮品超19亿杯；截至年末门店达13554家，低线市场布局深化，实现质效双增，多家机构给予其买入评级。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://36kr.com/p/3739345671962626?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-03-26T05:41:19+00:00"
     }
   ]
 }
