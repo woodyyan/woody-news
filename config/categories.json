@@ -37,15 +37,15 @@
           "lang": "zh"
         },
         {
-          "name": "36氪",
+          "name": "人民日报",
           "type": "rss",
-          "url": "https://36kr.com/feed",
+          "url": "https://rsshub.app/people/env/ywb",
           "lang": "zh"
         },
         {
-          "name": "Google News (中国-商业)",
+          "name": "央视新闻",
           "type": "rss",
-          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0JYcG9MVU5PR2dKRFRpZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+          "url": "https://rsshub.app/cctv/top",
           "lang": "zh"
         }
       ]
