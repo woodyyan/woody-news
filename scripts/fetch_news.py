@@ -305,11 +305,6 @@ def update_index():
 
     logger.info(f"📋 索引已更新，共 {len(editions)} 期")
 
-    with open(INDEX_PATH, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
-
-    logger.info(f"📋 索引已更新，共 {len(dates)} 个日期")
-
 
 def main():
     edition_label = "早报" if EDITION == "morning" else "晚报"
