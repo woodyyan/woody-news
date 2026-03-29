@@ -2,6 +2,11 @@
   "editions": [
     {
       "date": "2026-03-29",
+      "edition": "evening",
+      "file": "2026-03-29-evening.json"
+    },
+    {
+      "date": "2026-03-29",
       "edition": "morning",
       "file": "2026-03-29-morning.json"
     },
@@ -26,5 +31,5 @@
       "file": "2026-03-26.json"
     }
   ],
-  "latest": "2026-03-29-morning"
+  "latest": "2026-03-29-evening"
 }
