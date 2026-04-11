@@ -2,15 +2,14 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import NewsFeed from '../components/NewsFeed.astro';
 import fs from 'node:fs';
 import path from 'node:path';
 
-// 读取分类配置
 const categoriesPath = path.join(process.cwd(), 'config/categories.json');
 const categoriesData = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
 const categories = categoriesData.categories;
 
-// 读取索引
 const indexPath = path.join(process.cwd(), 'data/index.json');
 let editions: any[] = [];
 let latestKey = '';
@@ -18,35 +17,34 @@ if (fs.existsSync(indexPath)) {
   const indexData = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
   editions = indexData.editions || [];
   latestKey = indexData.latest || '';
-  // 兼容旧格式
+
   if (!editions.length && indexData.dates) {
-    editions = indexData.dates.map((d: string) => ({ date: d, edition: 'all', file: d + '.json' }));
+    editions = indexData.dates.map((d: string) => ({ date: d, edition: 'all', file: `${d}.json` }));
     latestKey = indexData.dates[0] || '';
   }
 }
 
-// 读取最新一期新闻
 let articles: any[] = [];
+let clusters: any[] = [];
 let newsDate = '';
 let edition = '';
+let articleCount = 0;
+let clusterCount = 0;
 
 if (latestKey) {
   const dataPath = path.join(process.cwd(), `data/${latestKey}.json`);
   if (fs.existsSync(dataPath)) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     articles = data.articles || [];
+    clusters = data.clusters || [];
     newsDate = data.date || '';
     edition = data.edition || '';
+    articleCount = data.article_count || articles.length;
+    clusterCount = data.cluster_count || clusters.length || articles.length;
   }
 }
 
-// 往期列表：排除当前期
-const pastEditions = editions.filter((e: any) => {
-  const key = e.file.replace('.json', '');
-  return key !== latestKey;
-});
-
-// 期次标签
+const pastEditions = editions.filter((e: any) => e.file.replace('.json', '') !== latestKey);
 const editionLabel = edition === 'morning' ? '早报' : edition === 'evening' ? '晚报' : '';
 const editionIcon = edition === 'morning' ? '☀️' : edition === 'evening' ? '🌙' : '📰';
 ---
@@ -55,128 +53,33 @@ const editionIcon = edition === 'morning' ? '☀️' : edition === 'evening' ? '
   <Header />
 
   <main class="max-w-5xl mx-auto px-4 sm:px-6 py-6">
-    {/* 日期 + 期次 */}
     <div class="mb-6">
-      <p class="text-sm text-[var(--text-muted)]">
+      <p class="text-sm text-[var(--text-muted)] flex flex-wrap items-center gap-y-2">
         {(() => {
           if (!newsDate) return '暂无数据';
-          const d = new Date(newsDate + 'T00:00:00');
-          const weekdays = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
-          return `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
+          const d = new Date(`${newsDate}T00:00:00`);
+          const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+          return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日（${weekdays[d.getDay()]}）`;
         })()}
-        {editionLabel && <span class="ml-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-xs font-medium bg-[var(--tag-bg)] text-[var(--tag-text)]">{editionIcon} {editionLabel}</span>}
-        <span class="ml-2">共 <span id="article-count">{articles.length}</span> 条</span>
+        {editionLabel && (
+          <span class="ml-1 inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-xs font-medium bg-[var(--tag-bg)] text-[var(--tag-text)]">
+            {editionIcon} {editionLabel}
+          </span>
+        )}
+        <span class="ml-2">
+          共 <span id="topic-count">{clusterCount}</span> 个主题 · <span id="article-count">{articleCount}</span> 条报道
+        </span>
       </p>
     </div>
 
-    {/* 分类 Tab */}
-    <nav class="flex gap-1 mb-8 overflow-x-auto pb-2 scrollbar-hide border-b border-[var(--border-color)]" id="category-tabs">
-      <button
-        class="tab-btn tab-active px-4 py-2 text-sm whitespace-nowrap transition-colors rounded-t-lg"
-        data-category="all"
-      >
-        全部
-      </button>
-      {categories.map((cat: any) => (
-        <button
-          class="tab-btn px-4 py-2 text-sm whitespace-nowrap text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-t-lg"
-          data-category={cat.id}
-        >
-          <span class="mr-1">{cat.icon}</span>{cat.name}
-        </button>
-      ))}
-    </nav>
+    <NewsFeed
+      categories={categories}
+      articles={articles}
+      clusters={clusters}
+      emptyTitle="今日暂无新闻"
+      emptyDescription="新闻将在每天 08:00 和 20:00 自动更新"
+    />
 
-    {/* 新闻列表 */}
-    {articles.length > 0 ? (
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-5" id="news-grid">
-        {articles.map((article: any) => (
-          <article
-            class="card group cursor-pointer"
-            data-category={article.category}
-          >
-            <a href={article.link} target="_blank" rel="noopener noreferrer" class="block">
-              {/* 图片区域 */}
-              {article.image ? (
-                <div class="aspect-[16/9] overflow-hidden bg-[var(--bg-secondary)]">
-                  <img
-                    src={article.image}
-                    alt={article.title}
-                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    loading="lazy"
-                    onerror="this.closest('.card').querySelector('.img-fallback')?.classList.remove('hidden'); this.parentElement.classList.add('hidden');"
-                  />
-                </div>
-              ) : null}
-              <div class:list={[
-                "img-fallback aspect-[16/9] relative overflow-hidden flex flex-col items-center justify-center",
-                article.image ? "hidden" : "",
-                article.category === 'world' ? 'bg-gradient-to-br from-blue-500 via-indigo-500 to-purple-600' :
-                article.category === 'china' ? 'bg-gradient-to-br from-rose-500 via-red-500 to-orange-500' :
-                article.category === 'tech' ? 'bg-gradient-to-br from-violet-500 via-purple-500 to-fuchsia-600' :
-                'bg-gradient-to-br from-emerald-500 via-teal-500 to-cyan-600'
-              ]}>
-                <div class="absolute inset-0 opacity-10">
-                  <div class="absolute top-4 left-4 w-24 h-24 rounded-full border-2 border-white/30"></div>
-                  <div class="absolute bottom-6 right-6 w-16 h-16 rounded-full border-2 border-white/20"></div>
-                  <div class="absolute top-1/2 right-1/4 w-8 h-8 rounded-full bg-white/10"></div>
-                </div>
-                <span class="text-4xl mb-2 drop-shadow-lg relative z-10">
-                  {categories.find((c: any) => c.id === article.category)?.icon || '📰'}
-                </span>
-                <span class="text-white/90 text-sm font-medium tracking-wide relative z-10">{article.source}</span>
-              </div>
-
-              {/* 内容区域 */}
-              <div class="p-4">
-                <div class="flex items-center gap-2 mb-2">
-                  <span class={`category-badge ${
-                    article.category === 'world' ? 'bg-blue-100 text-blue-700 dark:bg-blue-950/60 dark:text-blue-400' :
-                    article.category === 'china' ? 'bg-red-100 text-red-700 dark:bg-red-950/60 dark:text-red-400' :
-                    article.category === 'tech' ? 'bg-purple-100 text-purple-700 dark:bg-purple-950/60 dark:text-purple-400' :
-                    'bg-green-100 text-green-700 dark:bg-green-950/60 dark:text-green-400'
-                  }`}>
-                    {categories.find((c: any) => c.id === article.category)?.name || article.category}
-                  </span>
-                  {article.lang === 'en' && (
-                    <span class="tag-translated" title="已从英文翻译">译</span>
-                  )}
-                </div>
-
-                <h2 class="text-base font-semibold leading-snug mb-2 text-[var(--text-primary)] group-hover:text-[var(--accent)] transition-colors line-clamp-2">
-                  {article.title}
-                </h2>
-
-                {article.lang === 'en' && article.title_original && (
-                  <p class="text-xs text-[var(--text-muted)] mb-2 line-clamp-1 italic">
-                    {article.title_original}
-                  </p>
-                )}
-
-                <p class="text-sm text-[var(--text-secondary)] leading-relaxed mb-3 line-clamp-3">
-                  {article.summary}
-                </p>
-
-                <div class="flex items-center justify-between text-xs text-[var(--text-muted)]">
-                  <span>{article.source}</span>
-                  <time datetime={article.published_at}>
-                    {new Date(article.published_at).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}
-                  </time>
-                </div>
-              </div>
-            </a>
-          </article>
-        ))}
-      </div>
-    ) : (
-      <div class="text-center py-20">
-        <div class="text-5xl mb-4">📭</div>
-        <p class="text-lg text-[var(--text-secondary)]">今日暂无新闻</p>
-        <p class="text-sm text-[var(--text-muted)] mt-2">新闻将在每天 08:00 和 20:00 自动更新</p>
-      </div>
-    )}
-
-    {/* 往期新闻 */}
     {pastEditions.length > 0 && (
       <section class="mt-16">
         <h2 class="text-lg font-semibold mb-4 flex items-center gap-2">
@@ -185,17 +88,17 @@ const editionIcon = edition === 'morning' ? '☀️' : edition === 'evening' ? '
         </h2>
         <div class="flex flex-wrap gap-2">
           {pastEditions.slice(0, 30).map((e: any) => {
-            const d = new Date(e.date + 'T00:00:00');
-            const weekdays = ['周日','周一','周二','周三','周四','周五','周六'];
+            const d = new Date(`${e.date}T00:00:00`);
+            const weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
             const eLabel = e.edition === 'morning' ? '☀️早报' : e.edition === 'evening' ? '🌙晚报' : '';
             const key = e.file.replace('.json', '');
             return (
-            <a
-              href={`/archive/${key}`}
-              class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
-            >
-              {`${d.getMonth()+1}月${d.getDate()}日（${weekdays[d.getDay()]}）${eLabel}`}
-            </a>
+              <a
+                href={`/archive/${key}`}
+                class="px-4 py-2 text-sm rounded-lg border border-[var(--border-color)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
+              >
+                {`${d.getMonth() + 1}月${d.getDate()}日（${weekdays[d.getDay()]}）${eLabel}`}
+              </a>
             );
           })}
         </div>
@@ -205,61 +108,3 @@ const editionIcon = edition === 'morning' ? '☀️' : edition === 'evening' ? '
 
   <Footer />
 </Layout>
-
-<script is:inline>
-  const tabs = document.querySelectorAll('.tab-btn');
-  const cards = document.querySelectorAll('#news-grid [data-category]');
-  const countEl = document.getElementById('article-count');
-
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      tabs.forEach(t => {
-        t.classList.remove('tab-active');
-        t.classList.add('text-[var(--text-secondary)]');
-      });
-      tab.classList.add('tab-active');
-      tab.classList.remove('text-[var(--text-secondary)]');
-
-      const category = tab.dataset.category;
-      let visibleCount = 0;
-      cards.forEach(card => {
-        if (category === 'all' || card.dataset.category === category) {
-          card.style.display = '';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      if (countEl) countEl.textContent = visibleCount.toString();
-    });
-  });
-</script>
-
-<style>
-  .line-clamp-2 {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .line-clamp-3 {
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .line-clamp-1 {
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-</style>

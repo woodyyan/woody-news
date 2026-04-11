@@ -1,0 +1,335 @@
+---
+interface Category {
+  id: string;
+  name: string;
+  icon: string;
+}
+
+interface RelatedArticle {
+  id?: string;
+  source: string;
+  title: string;
+  link: string;
+  published_at?: string;
+}
+
+interface Cluster {
+  id: string;
+  title: string;
+  summary: string;
+  category: string;
+  image?: string | null;
+  article_count?: number;
+  source_count?: number;
+  sources?: string[];
+  articles?: RelatedArticle[];
+  published_at?: string;
+  is_merged?: boolean;
+  title_original?: string | null;
+  lang?: string;
+}
+
+interface Props {
+  categories: Category[];
+  articles: any[];
+  clusters?: Cluster[];
+  emptyTitle?: string;
+  emptyDescription?: string;
+}
+
+const {
+  categories,
+  articles = [],
+  clusters = [],
+  emptyTitle = '暂无新闻',
+  emptyDescription = '',
+} = Astro.props;
+
+const categoryMap = new Map(categories.map((item) => [item.id, item]));
+
+function getCategory(categoryId: string) {
+  return categoryMap.get(categoryId) || { id: categoryId, name: categoryId, icon: '📰' };
+}
+
+function getFallbackGradient(categoryId: string) {
+  if (categoryId === 'world') return 'bg-gradient-to-br from-blue-500 via-indigo-500 to-purple-600';
+  if (categoryId === 'china') return 'bg-gradient-to-br from-rose-500 via-red-500 to-orange-500';
+  if (categoryId === 'tech') return 'bg-gradient-to-br from-violet-500 via-purple-500 to-fuchsia-600';
+  if (categoryId === 'ai') return 'bg-gradient-to-br from-amber-500 via-orange-500 to-rose-500';
+  return 'bg-gradient-to-br from-emerald-500 via-teal-500 to-cyan-600';
+}
+
+function getCategoryBadgeClass(categoryId: string) {
+  if (categoryId === 'world') return 'bg-blue-100 text-blue-700 dark:bg-blue-950/60 dark:text-blue-400';
+  if (categoryId === 'china') return 'bg-red-100 text-red-700 dark:bg-red-950/60 dark:text-red-400';
+  if (categoryId === 'tech') return 'bg-purple-100 text-purple-700 dark:bg-purple-950/60 dark:text-purple-400';
+  if (categoryId === 'ai') return 'bg-amber-100 text-amber-700 dark:bg-amber-950/60 dark:text-amber-400';
+  return 'bg-green-100 text-green-700 dark:bg-green-950/60 dark:text-green-400';
+}
+
+const fallbackClusters: Cluster[] = articles.map((article) => ({
+  id: article.id,
+  title: article.title,
+  summary: article.summary,
+  category: article.category,
+  image: article.image,
+  article_count: 1,
+  source_count: 1,
+  sources: [article.source],
+  articles: [
+    {
+      id: article.id,
+      source: article.source,
+      title: article.title,
+      link: article.link,
+      published_at: article.published_at,
+    },
+  ],
+  published_at: article.published_at,
+  is_merged: false,
+  title_original: article.title_original,
+  lang: article.lang,
+}));
+
+const displayClusters = (clusters && clusters.length ? clusters : fallbackClusters).map((cluster) => ({
+  ...cluster,
+  article_count: cluster.article_count ?? cluster.articles?.length ?? 1,
+  source_count: cluster.source_count ?? cluster.sources?.length ?? cluster.articles?.length ?? 1,
+  sources: cluster.sources ?? (cluster.articles || []).map((item) => item.source),
+  articles: cluster.articles || [],
+}));
+
+const initialTopicCount = displayClusters.length;
+const initialArticleCount = displayClusters.reduce((sum, cluster) => sum + (cluster.article_count || 1), 0);
+---
+
+{displayClusters.length > 0 ? (
+  <>
+    <nav class="flex gap-1 mb-8 overflow-x-auto pb-2 scrollbar-hide border-b border-[var(--border-color)]" id="category-tabs">
+      <button
+        class="tab-btn tab-active px-4 py-2 text-sm whitespace-nowrap transition-colors rounded-t-lg"
+        data-category="all"
+      >
+        全部
+      </button>
+      {categories.map((cat) => (
+        <button
+          class="tab-btn px-4 py-2 text-sm whitespace-nowrap text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-t-lg"
+          data-category={cat.id}
+        >
+          <span class="mr-1">{cat.icon}</span>{cat.name}
+        </button>
+      ))}
+    </nav>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5" id="news-grid">
+      {displayClusters.map((cluster) => {
+        const category = getCategory(cluster.category);
+        const relatedArticles = cluster.articles || [];
+        const primaryArticle = relatedArticles[0];
+        return (
+          <article
+            class="card group"
+            data-cluster-card
+            data-category={cluster.category}
+            data-article-count={cluster.article_count || 1}
+          >
+            <div>
+              {cluster.image ? (
+                <div class="aspect-[16/9] overflow-hidden bg-[var(--bg-secondary)]">
+                  <img
+                    src={cluster.image}
+                    alt={cluster.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onerror="this.closest('.card').querySelector('.img-fallback')?.classList.remove('hidden'); this.parentElement.classList.add('hidden');"
+                  />
+                </div>
+              ) : null}
+
+              <div class:list={[
+                'img-fallback aspect-[16/9] relative overflow-hidden flex flex-col items-center justify-center',
+                cluster.image ? 'hidden' : '',
+                getFallbackGradient(cluster.category),
+              ]}>
+                <div class="absolute inset-0 opacity-10">
+                  <div class="absolute top-4 left-4 w-24 h-24 rounded-full border-2 border-white/30"></div>
+                  <div class="absolute bottom-6 right-6 w-16 h-16 rounded-full border-2 border-white/20"></div>
+                  <div class="absolute top-1/2 right-1/4 w-8 h-8 rounded-full bg-white/10"></div>
+                </div>
+                <span class="text-4xl mb-2 drop-shadow-lg relative z-10">{category.icon}</span>
+                <span class="text-white/90 text-sm font-medium tracking-wide relative z-10 text-center px-4">
+                  {cluster.is_merged ? `${cluster.source_count} 家媒体跟进` : (cluster.sources?.[0] || '新闻来源')}
+                </span>
+              </div>
+
+              <div class="p-4">
+                <div class="flex items-center gap-2 mb-2 flex-wrap">
+                  <span class={`category-badge ${getCategoryBadgeClass(cluster.category)}`}>
+                    {category.name}
+                  </span>
+                  {cluster.is_merged ? (
+                    <span class="tag-aggregate">已聚合</span>
+                  ) : cluster.lang === 'en' ? (
+                    <span class="tag-translated" title="已从英文翻译">译</span>
+                  ) : null}
+                </div>
+
+                <h2 class="text-base font-semibold leading-snug mb-2 text-[var(--text-primary)] group-hover:text-[var(--accent)] transition-colors line-clamp-2">
+                  {cluster.title}
+                </h2>
+
+                {!cluster.is_merged && cluster.lang === 'en' && cluster.title_original && (
+                  <p class="text-xs text-[var(--text-muted)] mb-2 line-clamp-1 italic">
+                    {cluster.title_original}
+                  </p>
+                )}
+
+                <p class="text-sm text-[var(--text-secondary)] leading-relaxed mb-3 line-clamp-3">
+                  {cluster.summary}
+                </p>
+
+                <div class="flex items-center justify-between text-xs text-[var(--text-muted)] gap-3 mb-3">
+                  <span>
+                    {cluster.is_merged
+                      ? `${cluster.source_count} 家媒体 · ${cluster.article_count} 条报道`
+                      : (cluster.sources?.[0] || '新闻来源')}
+                  </span>
+                  {cluster.published_at && (
+                    <time datetime={cluster.published_at}>
+                      {new Date(cluster.published_at).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}
+                    </time>
+                  )}
+                </div>
+
+                <div class="border-t border-[var(--border-color)] pt-3">
+                  <div class="flex items-center justify-between gap-3 mb-2">
+                    <p class="text-xs font-medium text-[var(--text-muted)]">
+                      {cluster.is_merged ? '相关报道' : '原文链接'}
+                    </p>
+                    {cluster.is_merged && (
+                      <span class="text-xs text-[var(--text-muted)]">最多展示 4 个来源</span>
+                    )}
+                  </div>
+
+                  <div class="flex flex-wrap gap-2">
+                    {relatedArticles.slice(0, 4).map((item) => (
+                      <a
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="source-pill"
+                        title={item.title}
+                      >
+                        {item.source}
+                      </a>
+                    ))}
+                    {relatedArticles.length > 4 && (
+                      <span class="source-pill source-pill-muted">+{relatedArticles.length - 4}</span>
+                    )}
+                    {!relatedArticles.length && primaryArticle && (
+                      <a
+                        href={primaryArticle.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="source-pill"
+                        title={primaryArticle.title}
+                      >
+                        查看原文
+                      </a>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        );
+      })}
+    </div>
+
+    <div id="filter-empty-state" class="hidden text-center py-16">
+      <div class="text-4xl mb-3">🗂️</div>
+      <p class="text-lg text-[var(--text-secondary)]">当前分类暂无主题</p>
+      <p class="text-sm text-[var(--text-muted)] mt-2">试试切换到其他分类看看</p>
+    </div>
+  </>
+) : (
+  <div class="text-center py-20">
+    <div class="text-5xl mb-4">📭</div>
+    <p class="text-lg text-[var(--text-secondary)]">{emptyTitle}</p>
+    {emptyDescription && <p class="text-sm text-[var(--text-muted)] mt-2">{emptyDescription}</p>}
+  </div>
+)}
+
+<script is:inline define:vars={{ initialTopicCount, initialArticleCount }}>
+  const tabs = document.querySelectorAll('.tab-btn');
+  const cards = document.querySelectorAll('[data-cluster-card]');
+  const topicCountEl = document.getElementById('topic-count');
+  const articleCountEl = document.getElementById('article-count');
+  const emptyStateEl = document.getElementById('filter-empty-state');
+
+  if (topicCountEl) topicCountEl.textContent = String(initialTopicCount);
+  if (articleCountEl) articleCountEl.textContent = String(initialArticleCount);
+
+  tabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      tabs.forEach((item) => {
+        item.classList.remove('tab-active');
+        item.classList.add('text-[var(--text-secondary)]');
+      });
+
+      tab.classList.add('tab-active');
+      tab.classList.remove('text-[var(--text-secondary)]');
+
+      const category = tab.dataset.category;
+      let visibleTopics = 0;
+      let visibleArticles = 0;
+
+      cards.forEach((card) => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = '';
+          visibleTopics += 1;
+          visibleArticles += Number(card.dataset.articleCount || '1');
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (topicCountEl) topicCountEl.textContent = String(visibleTopics);
+      if (articleCountEl) articleCountEl.textContent = String(visibleArticles);
+      if (emptyStateEl) emptyStateEl.classList.toggle('hidden', visibleTopics > 0);
+    });
+  });
+</script>
+
+<style>
+  .line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+</style>

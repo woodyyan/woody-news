@@ -843,5 +843,1569 @@
       "published_at": "2026-03-31T21:59:47+00:00",
       "edition": "evening"
     }
+  ],
+  "article_count": 60,
+  "cluster_count": 60,
+  "clusters": [
+    {
+      "id": "418c0c5e",
+      "title": "伊朗战事实时更新：特朗普斥责盟友 暗示将逐步结束战争",
+      "summary": "特朗普近日称，因盟友未能支持其对伊朗的军事行动，他正考虑退出北约。他表示，美国对伊朗的战事将在两至三周内结束，伊朗封锁霍尔木兹海峡的问题将交由其他各方解决。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo7am-cjtg/01israel-iran-promo7am-cjtg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e9d960ab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e9d960ab",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：特朗普斥责盟友 暗示将逐步结束战争",
+          "link": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
+          "published_at": "2026-04-01T12:49:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:49:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d57dd81",
+      "title": "海军上将称北约在震荡而非危机的世界中运作",
+      "summary": "彭博社消息，伊朗战事期间，唐纳德·特朗普对北约作出新的批评，在此背景下，北约转型最高盟军司令皮埃尔·范迪尔海军上将，就北约联盟的未来发展相关议题展开讨论，提出当前北约处于震荡而非危机的世界格局中运作。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRAWcA3JD7OI/v3/1200x-1.jpg",
+      "article_ids": [
+        "34cf2e75"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "34cf2e75",
+          "source": "Bloomberg",
+          "title": "海军上将称北约在震荡而非危机的世界中运作",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-01/nato-operating-in-a-world-of-shock-not-crisis-admiral-video",
+          "published_at": "2026-04-01T12:45:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:45:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e61c983",
+      "title": "维克多·施维茨谈无护城河城堡与遍地鲨鱼",
+      "summary": "全球经济已进入零边际成本时代，投资逻辑随之发生深刻改变。市场分析师维克多·施维茨围绕这一时代特征分享观点，指出当下鲜有能守住竞争优势的“护城河”，市场竞争白热化，投资者需适配新环境调整投资思路。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJHRVmXZpyqs/v20/1200x-1.jpg",
+      "article_ids": [
+        "e80d0b1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e80d0b1e",
+          "source": "Bloomberg",
+          "title": "维克多·施维茨谈无护城河城堡与遍地鲨鱼",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-04-01/viktor-shvets-on-castles-without-moats-and-lots-of-sharks",
+          "published_at": "2026-04-01T12:40:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:40:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef3e63ae",
+      "title": "人工智能可替你按下Stream Deck按键",
+      "summary": "Elgato推出Stream Deck 7.4软件更新，新增模型上下文协议（MCP）支持，允许Claude、ChatGPT、英伟达G-Assist等AI助手自动查找并激活Stream Deck按键，厌倦手动按压按键的用户，可将操作任务交给聊天AI完成。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9af8b2bb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9af8b2bb",
+          "source": "The Verge",
+          "title": "人工智能可替你按下Stream Deck按键",
+          "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+          "published_at": "2026-04-01T12:38:58+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:38:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b69ed3c",
+      "title": "据报道Nothing的AI设备计划包含智能眼镜与耳机",
+      "summary": "据消息披露，科技品牌Nothing制定了人工智能设备发展计划，拟推出智能眼镜与无线耳机两款产品。其中规划中的智能眼镜将配备摄像头、麦克风与扬声器，可连接手机与云端处理AI查询。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0f6a732c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0f6a732c",
+          "source": "TechCrunch",
+          "title": "据报道Nothing的AI设备计划包含智能眼镜与耳机",
+          "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+          "published_at": "2026-04-01T12:33:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:33:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "423bb62c",
+      "title": "墨西哥养老金巨头Afore Sura认为Banamex交易只是行业多项布局之一",
+      "summary": "作为墨西哥蓬勃发展的养老金体系中的头部参与者，Afore Sura收购了花旗集团旗下零售银行Grupo Financiero Banamex的股份。完成此次交易后，该机构计划未来在墨西哥金融领域开展更多投资布局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.bpwoQ1zvD4/v1/1200x-1.jpg",
+      "article_ids": [
+        "4c0aa985"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4c0aa985",
+          "source": "Bloomberg",
+          "title": "墨西哥养老金巨头Afore Sura认为Banamex交易只是行业多项布局之一",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/mexico-pension-giant-afore-sura-sees-banamex-deal-as-one-of-many-in-sector-cio",
+          "published_at": "2026-04-01T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1bba38b",
+      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+      "summary": "成立12年的上市两轮电动车厂商小牛电动，宣布all in AI转型，坚持“现有业务+AI”路线，依托十年积累的海量出行用户数据，自研灵犀AIOS与首款骑行AI智能体，已在新品落地，联合科技伙伴打造两轮AI出行生态，以此构筑下一个十年的竞争护城河",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_27dd5fcec23c463994ab142a433ce648@1199336245_oswg599289oswg1080oswg718_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "f6f81910"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f6f81910",
+          "source": "36氪",
+          "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+          "link": "https://36kr.com/p/3748233045541637?f=rss",
+          "published_at": "2026-04-01T12:21:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:21:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a5adeb59",
+      "title": "欧洲天然气净看涨押注创纪录 加剧价格波动",
+      "summary": "在本周全球能源市场遭遇抛售行情之前，基金等投机者已将欧洲天然气的净多头头寸推升至历史新高，规模创纪录的看涨押注进一步放大了欧洲天然气市场的价格波动。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF3O0mIbhXI4/v2/1200x-1.png",
+      "article_ids": [
+        "9838095b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9838095b",
+          "source": "Bloomberg",
+          "title": "欧洲天然气净看涨押注创纪录 加剧价格波动",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/record-net-bullish-bets-on-european-gas-add-to-price-swings",
+          "published_at": "2026-04-01T12:15:46+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:15:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "474fd4e0",
+      "title": "伊朗战事：中东冲突特朗普讲话前夕股市上涨 | 《脉搏》4月1日",
+      "summary": "彭博出品的《脉搏》4月1日节目聚焦伊朗战事相关话题，中东冲突背景下，特朗普发表相关讲话前夕股市出现上涨。该节目常驻伦敦，主打全球政经领域高端嘉宾对话，本期邀请了金融、咨询、学界多位嘉宾参与。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN_DZ2ku1tWY/v3/1200x-1.png",
+      "article_ids": [
+        "47d13a71"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "47d13a71",
+          "source": "Bloomberg",
+          "title": "伊朗战事：中东冲突特朗普讲话前夕股市上涨 | 《脉搏》4月1日",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-01/the-pulse-4-1-2026-video",
+          "published_at": "2026-04-01T12:12:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:12:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "53728786",
+      "title": "法国检察官将已挫败的美国银行袭击图谋与一亲伊朗组织关联",
+      "summary": "法国检察官将一起已被挫败的针对美国银行的袭击事件，与一个亲伊朗组织关联起来。该组织还涉嫌参与发生在比利时、英国、荷兰境内的多起针对犹太目标的袭击事件，相关调查正在推进中。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-france-attack-khjt/01int-france-attack-khjt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bcceca96"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bcceca96",
+          "source": "NYTimes World",
+          "title": "法国检察官将已挫败的美国银行袭击图谋与一亲伊朗组织关联",
+          "link": "https://www.nytimes.com/2026/04/01/world/bank-of-america-attack-pro-iranian-group.html",
+          "published_at": "2026-04-01T12:00:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:00:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c1ee40d",
+      "title": "伊朗战事为俄罗斯带来巨额大宗商品意外收益",
+      "summary": "伊朗战事已为俄罗斯带来数十亿美元的额外石油收入，俄罗斯收获的这笔意外收益远不止来自原油，天然气、谷物、铝以及化肥等多个大宗商品品类也为其带来了额外收益。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic.NGymEfglU/v1/1200x-1.jpg",
+      "article_ids": [
+        "515aa32c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "515aa32c",
+          "source": "Bloomberg",
+          "title": "伊朗战事为俄罗斯带来巨额大宗商品意外收益",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/commodity-windfalls-are-rolling-into-russia-from-war-in-iran",
+          "published_at": "2026-04-01T11:57:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:57:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "338d906f",
+      "title": "美国盘前异动个股：MSC、nCino、耐克、RH、Target Hospitality",
+      "summary": "纽约时间当日早7点46分，受市场对伊朗战事将很快结束的乐观预期推动，标普500指数期货上涨0.8%。华盛顿时间当日晚9点黄金时段，特朗普将发表全国讲话，发布相关局势最新进展。",
+      "category": "business",
+      "image": "http://assets.bwbx.io/images/iHxjyJtsCs7M/v2/1200x-1.jpg",
+      "article_ids": [
+        "385727a8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "385727a8",
+          "source": "Bloomberg",
+          "title": "美国盘前异动个股：MSC、nCino、耐克、RH、Target Hospitality",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/us-stock-futures-today-msc-ncino-nike-rh-target-hospitality",
+          "published_at": "2026-04-01T11:52:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:52:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ba5734a",
+      "title": "刚果民主共和国时隔52年晋级世界杯后宣布全国假日",
+      "summary": "这是刚果民主共和国历史上第二次晋级世界杯决赛圈，距离该国上一次闯入世界杯已经过去52年。晋级喜讯传出后，首都金沙萨迅速掀起庆祝浪潮，该国随后宣布全国放假。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c678/live/aaafecf0-2db6-11f1-934f-036468834728.jpg",
+      "article_ids": [
+        "8de092a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8de092a7",
+          "source": "BBC World",
+          "title": "刚果民主共和国时隔52年晋级世界杯后宣布全国假日",
+          "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T11:46:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:46:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a3c70d5",
+      "title": "大量自动驾驶出租车故障致中国一城市交通中断",
+      "summary": "中国某城市发生大规模自动驾驶出租车故障，该故障造成当地交通中断，共有至少100辆自动驾驶出租车受此次事件影响。针对此次故障事件的置评请求，百度方面目前尚未作出回应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92a/live/271914a0-2dbd-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "053c38ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "053c38ec",
+          "source": "BBC World",
+          "title": "大量自动驾驶出租车故障致中国一城市交通中断",
+          "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T11:34:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:34:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0a0e5771",
+      "title": "放春假了，外地娃都来玩！武汉跻身国内酒店预订热门城市 - wuhan.gov.cn",
+      "summary": "全国多地开启春假，春假与清明假期叠加激发旅游市场热潮，不少家长带娃出游，其中江苏家长出游积极性最高，武汉跻身国内酒店预订热门城市；多地推出文旅惠民、爱心托管等举措护航春假，2026年湖州安吉将对全国中小学生免门票。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e215063b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e215063b",
+          "source": "Google News (中国)",
+          "title": "放春假了，外地娃都来玩！武汉跻身国内酒店预订热门城市 - wuhan.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlMTR4OWlSTGh1WjA1OHBPT0FXZXBUOXZRWmpJWUlXelVrakY2U0ZXVEF3d3BWNTNwLWh1dnJ2aktVMG9lQ1RUVERXRWZrN0RoTnpQcVFUUUZFdnFKcmN6S1JtZGoxTWlrelVtNm1uemQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T11:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "29fb0e6a",
+      "title": "柬埔寨洗钱巨头落网",
+      "summary": "针对有组织犯罪的调查范围正不断扩大，柬埔寨一家金融集团的前董事长已被戴上手铐押解至中国，这是此次大范围调查行动中最新落网的高级别涉案人员，该嫌疑人正是柬埔寨涉洗钱领域的核心巨头。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-moneylaundering-huione-hflk/01int-moneylaundering-huione-hflk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0105e4e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0105e4e9",
+          "source": "NYTimes World",
+          "title": "柬埔寨洗钱巨头落网",
+          "link": "https://www.nytimes.com/2026/04/01/world/asia/china-cambodia-huione-extradition.html",
+          "published_at": "2026-04-01T11:00:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:00:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4666a952",
+      "title": "2026有智青年挑战赛，报名通道全面开启！",
+      "summary": "2026有智青年挑战赛报名通道已全面开启，报名截止至2026年4月30日，决赛将于2026年夏天在中国创投圈核心舞台WAVES举办。赛事设三大AI相关赛道，不关注参赛者背景，只考量产品是否能增强人类能力，面向全球符合条件的个人与创业团队开放。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_68af13b4e55647d9ad5fcd39ebfa65a4@5862220_oswg399329oswg1080oswg1623_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b932b808"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b932b808",
+          "source": "36氪",
+          "title": "2026有智青年挑战赛，报名通道全面开启！",
+          "link": "https://36kr.com/p/3748145916740100?f=rss",
+          "published_at": "2026-04-01T10:57:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:57:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d1ba6c9",
+      "title": "澳总理称伊朗战争引发的经济冲击将持续数月",
+      "summary": "澳大利亚总理安东尼·阿尔巴尼斯发表罕见电视讲话，指出伊朗战争产生的全球性影响正波及澳大利亚，这场战争带来的经济冲击将持续数月，他告知澳大利亚民众，未来几个月的形势可能并不轻松。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b9/live/37cad1e0-2db7-11f1-b692-3b8b8cac9c96.jpg",
+      "article_ids": [
+        "63cb3dd1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "63cb3dd1",
+          "source": "BBC World",
+          "title": "澳总理称伊朗战争引发的经济冲击将持续数月",
+          "link": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T10:53:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:53:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "df9e2aa9",
+      "title": "以色列对黎巴嫩南部发出信号：什叶派必须离开",
+      "summary": "黎巴嫩部分基督教与德鲁兹派领导人透露，以色列已向黎南部发布大范围疏散警告，还向部分基督教、德鲁兹派领导人施压，要求他们将所辖城镇中的什叶派穆斯林驱逐出去，向黎南部传递出明确的驱赶信号。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "070168b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "070168b6",
+          "source": "NYTimes World",
+          "title": "以色列对黎巴嫩南部发出信号：什叶派必须离开",
+          "link": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html",
+          "published_at": "2026-04-01T10:43:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:43:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1db544c",
+      "title": "百度自动驾驶出租车途中瘫痪 引发交通混乱",
+      "summary": "本周二，百度旗下多辆Apollo Go自动驾驶出租车在武汉突发故障，停在道路中无法移动。武汉警方确认已接到多起相关报警。此次故障造成乘客被困、人员滞留高速，引发交通混乱，还导致至少一起交通事故。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bdbd30aa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bdbd30aa",
+          "source": "The Verge",
+          "title": "百度自动驾驶出租车途中瘫痪 引发交通混乱",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+          "published_at": "2026-04-01T10:39:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:39:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62fd6b71",
+      "title": "以色列加大对黎巴嫩袭击力度，打击非真主党控制区域",
+      "summary": "以色列宣布有意控制黎巴嫩南部的大片区域，当前针对黎巴嫩境内的袭击仍在持续，以方已升级此次袭击的力度，打击范围拓展至并不由真主党控制的区域，地区紧张局势进一步升级。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e913/live/7a71f3c0-2da8-11f1-8469-3bd0a3d7fbf1.jpg",
+      "article_ids": [
+        "9daecba1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9daecba1",
+          "source": "BBC World",
+          "title": "以色列加大对黎巴嫩袭击力度，打击非真主党控制区域",
+          "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T10:33:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:33:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a04355d8",
+      "title": "口腔医院举办树立和践行正确政绩观学习教育读书班 - 西安交通大学新闻网",
+      "summary": "西安交通大学口腔医院举办树立和践行正确政绩观学习教育读书班，该主题是当前党的思想建设的重要内容，习近平总书记对树立和践行正确政绩观作出相关指示，人民日报、中国日报网等多家权威媒体也先后刊发相关文章，探讨该主题的实践要求与思想内涵。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "51347015"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "51347015",
+          "source": "Google News (中国)",
+          "title": "口腔医院举办树立和践行正确政绩观学习教育读书班 - 西安交通大学新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGbEdYRXJ6dThFeWhIMnB3VThkeTcxUURpVVgyX0pTTjdmY0ItOTl2R285NGJCZVRSZ1FBMERvbURuR1VnQmNWbTItbENGYnV6SllzQW82WDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T10:29:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:29:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eaaf74d7",
+      "title": "美国计划在格陵兰岛进行军事扩张",
+      "summary": "美国五角大楼正就获取北极岛屿格陵兰岛三个额外区域的使用权，与丹麦方面展开谈判，以推进在格陵兰当地的军事扩张计划，这一扩军提议遭到多名格陵兰当地民众的反对。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/31int-greenland-us-military-01-zvgk/31int-greenland-us-military-01-zvgk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4ff09f31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4ff09f31",
+          "source": "NYTimes World",
+          "title": "美国计划在格陵兰岛进行军事扩张",
+          "link": "https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html",
+          "published_at": "2026-04-01T10:26:01+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:26:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5ca49eaa",
+      "title": "习近平在参加首都义务植树活动时强调：为山川大地增添锦绣 让中国式现代化底色更加亮丽 - 西藏自治区文化和旅游厅",
+      "summary": "习近平参加首都义务植树活动，他强调要持续推进国土绿化，为山川大地增添锦绣，厚植生态底色，让中国式现代化的底色更加亮丽。此次活动中习近平总书记的重要讲话，在广大干部群众中引发热烈反响，多家主流媒体也就相关生态文明理念进行了专题解读传播。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "efd122e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "efd122e5",
+          "source": "Google News (中国)",
+          "title": "习近平在参加首都义务植树活动时强调：为山川大地增添锦绣 让中国式现代化底色更加亮丽 - 西藏自治区文化和旅游厅",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NcjdsYndMSjF2RTB1MkV0dVhzajJXMi02WGlUZzFzOVRna09VYTBRQVRvWnQxTDY4RkhuYktFZDlfbkx4SWhFQVpza3djVEVoLUI4LWtVVmU0TEduYmt5OUpFX1A3MkNRUkVzdW9XOWx5QlNEekdj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T10:24:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:24:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61b63912",
+      "title": "大规模轧空模糊市场对伊朗和平前景的判断",
+      "summary": "周二美国股市迎来10个多月来最大涨幅，乍看这源于投资者对伊朗战争即将结束的乐观情绪，实际上本次上涨的核心推动因素是大规模轧空，这一因素也掩盖了投资者对于和平即将到来究竟抱有多少信心。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLU0GXafModc/v1/1200x-1.jpg",
+      "article_ids": [
+        "ba0e8d11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ba0e8d11",
+          "source": "Bloomberg",
+          "title": "大规模轧空模糊市场对伊朗和平前景的判断",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/wall-street-traders-say-positioning-not-peace-is-driving-stocks",
+          "published_at": "2026-04-01T10:13:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:13:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7f465648",
+      "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+      "summary": "这是一期行业晚间资讯汇总，特斯拉正式停产Model S与Model X车型，马斯克称FSD 14.3版本预计本周末发布；李亚鹏控股成立云南麋鹿咖啡公司，联想公布两年内净利润率翻倍目标，宇树科技被抽中IPO首发现场检查，阿里发布图像生成模型Wan2.7-Image，韩国三月半导体出口首破300亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e796dfe9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e796dfe9",
+          "source": "36氪",
+          "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+          "link": "https://36kr.com/p/3748061455778311?f=rss",
+          "published_at": "2026-04-01T10:02:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:02:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5a2fde7",
+      "title": "界面晚报 | 中国大唐原总经理寇伟一审被判死缓；太子集团骨干李雄被押回中国 - 东方财富",
+      "summary": "界面新闻晚报发布两条重要法治要闻，其一为中国大唐原总经理寇伟相关案件一审宣判，法院依法判处其死刑缓期执行；其二为太子集团骨干成员李雄已被成功押解回中国，相关完整报道可通过东方财富在Google新闻查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "32c6f7e0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "32c6f7e0",
+          "source": "Google News (中国)",
+          "title": "界面晚报 | 中国大唐原总经理寇伟一审被判死缓；太子集团骨干李雄被押回中国 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKSmNza1Bvd3RncWh0OE5xT19SdV9GRGxJNkp6NXpETHVKbm1kTUUtM3dZQkxaZVJldGhOVng0MHZ0Y1h6X2NjdnRTRTFha2dOay0wOFBPMGdvRjJXTUFhaFl6SXdGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T10:01:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:01:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f11a2569",
+      "title": "俄军机在被占领的克里米亚坠毁 致29人死亡",
+      "summary": "一架安-26俄罗斯军用飞机在克里米亚发生坠毁事故，此次事故共计造成29人死亡。俄罗斯官方对外披露，本次坠毁事故是由飞机技术故障导致，失事飞机最终撞上一处悬崖。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/79e6a250-2d69-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "28015ccd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "28015ccd",
+          "source": "BBC World",
+          "title": "俄军机在被占领的克里米亚坠毁 致29人死亡",
+          "link": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T09:55:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T09:55:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7d34b2a9",
+      "title": "特朗普：北约是“纸老虎”，正在考虑退出北约 - chinanews.com.cn",
+      "summary": "美国前总统特朗普公开称北约是“纸老虎”，他本人正在考虑退出北约。近来多名美国政要接连就北约发声，鲁比奥称若盟友不帮忙，美国没必要留在北约，还放言没有美国北约将不复存在，美国国务卿也表示将重新审视美国与北约的关系。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ce5f2874"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ce5f2874",
+          "source": "Google News (中国)",
+          "title": "特朗普：北约是“纸老虎”，正在考虑退出北约 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkUVVDYW5YSGxNbXJycmRjUVlVelY4VjRkZV9aQ0diYjBlNGpQOWNfS0w0RXhGVEF5S3UxaEpUcFlNQ09XSnB0cjZ5ZTdMMXBYZk5yYjhMRmhpbEUtRTNybDhtMk1jbEot?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T09:44:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T09:44:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "908e3fc2",
+      "title": "布伦特原油期货一度跌至98美元，特朗普将就伊朗战争发表讲话 - 华尔街日报中文网",
+      "summary": "受美伊局势影响，国际布伦特原油期货价格一度跌至98美元。美国总统特朗普称伊朗已向美国请求停火，美国或将在两到三周内结束对伊朗战争，他将就伊朗战争发表公开讲话，目前市场正关注此次讲话是否会终结此前的原油牛市。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "70c7bef4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "70c7bef4",
+          "source": "Google News (中国)",
+          "title": "布伦特原油期货一度跌至98美元，特朗普将就伊朗战争发表讲话 - 华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdE9HYkFHMzRycDNBTzJKTW5UbWJfMmJKWHNicjhGQWw4NUphb281MzJxdmJDRHhLMG9lc1AzV1hVeHAzNFplVGhQOWNmMEtTVndBYWxXaWNYY0dhVVN4VVV5SGRlckpKeGFHSVNfbGM3WXJTMmJqeEQyX3FCZlVUdWo2bHl0bnhtUThLclV3TElXSGRrTGRlWmlzQm1mRVVJbmVwYThYM3ZHVUpo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T09:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T09:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c984e7a1",
+      "title": "俄罗斯军机在克里米亚坠毁 29人遇难",
+      "summary": "一架俄罗斯军用飞机在克里米亚发生坠毁事故，事故共造成29人不幸身亡。调查人员正对事故原因开展调查，目前初步认定，本次坠毁事故可能由飞机技术故障引发。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "3eb2b17b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3eb2b17b",
+          "source": "NYTimes World",
+          "title": "俄罗斯军机在克里米亚坠毁 29人遇难",
+          "link": "https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html",
+          "published_at": "2026-04-01T09:17:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T09:17:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "106df71d",
+      "title": "卡塔尔北部海岸附近，一艘油轮遭导弹袭击 - 华尔街见闻",
+      "summary": "多个信源消息显示，在卡塔尔北部海岸附近的卡塔尔水域内，卡塔尔能源公司旗下一艘油轮遭导弹袭击。此次袭击由伊朗发起，伊朗共发射三枚巡航导弹，卡塔尔成功拦截其中两枚，第三枚击中了这艘油轮。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d6f4033b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d6f4033b",
+          "source": "Google News (中国)",
+          "title": "卡塔尔北部海岸附近，一艘油轮遭导弹袭击 - 华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMkFrYWVEVndlMFk5WFlSTjlpS3RjVlZtRm1uX3BCZ2lXV1BLek1qMUFzVzBNXy01a0t6Z2tDdmNkMGpWWW5fSjFrbDNDelNMQjVj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T08:34:48+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T08:34:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "048d22e8",
+      "title": "“ 弘扬英烈精神 · 传承红色基因”——雅安市开展“追寻 ·2026· 清明祭英烈”系列活动 - 中国网",
+      "summary": "清明将至，多地多主体开展2026年清明祭英烈主题活动。四川雅安举办以“弘扬英烈精神·传承红色基因”为核心的“追寻·2026·清明祭英烈”系列活动，江西广信区、湘鄂赣路企、江苏常熟沙家浜、宽城职教中心等也分别举办主题祭扫纪念活动，传承红色血脉。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "782dc487"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "782dc487",
+          "source": "Google News (中国)",
+          "title": "“ 弘扬英烈精神 · 传承红色基因”——雅安市开展“追寻 ·2026· 清明祭英烈”系列活动 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91LXJxZ3JUYkxuUFl0TTBnTy1CUFZEWEN5WVFRbllGVXFNc2M1ejl5NG5GZmwxQXA1MXlIT3VuMWpaMjZtNUw0TXBMSmdFT3NZQm1GQmwyaFN5VUQxblpaVmN0eTFfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T08:34:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T08:34:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c5644673",
+      "title": "雄安大脑赋能智慧城市 打造面向未来的城市管理“超能力” - news.china.com",
+      "summary": "雄安新区设立已九年，已逐步从规划蓝图走向建设成型。多家媒体聚焦雄安发展，关注其承接疏解、城市建设、生态传承等方面成果。当前雄安正打造雄安大脑，赋能智慧城市建设，打造面向未来的新型城市管理能力。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5f5452dd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5f5452dd",
+          "source": "Google News (中国)",
+          "title": "雄安大脑赋能智慧城市 打造面向未来的城市管理“超能力” - news.china.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KOFpROTh0clhlZzIwMnJWUDZHVVV0bWpKYWFpcE8za2M5NUdGc0NueWZnbjd0U3hDR2JzTzJuYlZkNmhtUzZUV1VIS3lWbU9fRXF2OGU5c094TldKcmpTMW1SendaNGJ4XzN5V21uMHY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T08:18:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T08:18:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4788a1ce",
+      "title": "2026中国股权投资行业名册，调研启动！",
+      "summary": "36氪暗涌Waves正式启动2026中国股权投资行业名册年度调研，本次调研在原有GP、LP等机构侧调研基础上新增企业侧矩阵，共设八大类名册，将全面反映行业年度图景。调研成果将在6月WAVES新浪潮大会、9月产业未来大会发布，符合条件的机构可线上申报参与。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_3f77b57cf4d64ec5b572a1f9f28d00a2@5862220_oswg168914oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "0a023ae5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "0a023ae5",
+          "source": "36氪",
+          "title": "2026中国股权投资行业名册，调研启动！",
+          "link": "https://36kr.com/p/3747982127481345?f=rss",
+          "published_at": "2026-04-01T08:07:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T08:07:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "be062cf8",
+      "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
+      "summary": "36氪推出全新超轻量线下沙龙IP「离线聚会」，其第零期活动在北京举办，活动摒弃路演话术与商业互吹，邀请跨不同技术领域的四位不同代际创业者、投资人嘉宾，以无PPT对谈形式分享创业思考与前沿观点，回归创业本真，下一期计划4月末举办。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_f88ef4142e8b43d9957ab14dce049f92@577536001_oswg252348oswg1080oswg1423_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "7f77b74c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "7f77b74c",
+          "source": "36氪",
+          "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
+          "link": "https://36kr.com/p/3747976260174341?f=rss",
+          "published_at": "2026-04-01T08:02:20+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T08:02:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1a24abe",
+      "title": "伊朗媒体发布伊朗最高领袖致真主党领导人信件--国际 - globalpeople.com.cn",
+      "summary": "伊朗媒体对外发布伊朗最高领袖写给真主党领导人的信件，该资讯属于国际新闻，由globalpeople.com.cn发布，目前完整报道已经上线谷歌新闻平台，感兴趣的读者可直接前往谷歌新闻查看完整内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f7aec6e4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f7aec6e4",
+          "source": "Google News (中国)",
+          "title": "伊朗媒体发布伊朗最高领袖致真主党领导人信件--国际 - globalpeople.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JNFVrOFhRNnMzZWdESENyODYwNmxGOHh4ZTJwLXBuZDkyUEhSaDF3TU04TWhWM3d0ak10b3d5VmVQSkNLRzNiQXVjNXN0MEFBUS1fVmRadDRwV0l4ckItX2ttN0NPcWF6OVVHZ1VJS19FOXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T07:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T07:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a28aa77",
+      "title": "中国试图在伊朗战事中扮演调解人，能否奏效？",
+      "summary": "此前针对伊朗战事，中国官方一直保持低调回应。此次中国主动出面充当和平调解者介入局势，是中国在该问题上立场的转变，外界普遍关注中国此次调停行动最终能否取得成功。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg",
+      "article_ids": [
+        "f1ca7241"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f1ca7241",
+          "source": "BBC World",
+          "title": "中国试图在伊朗战事中扮演调解人，能否奏效？",
+          "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T07:16:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T07:16:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "803f6925",
+      "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
+      "summary": "聚焦晶圆永久键合技术及设备的国产半导体装备企业矽赫微科技（SHW），完成由元禾璞华领投的新一轮融资。该公司由半导体设备领域老兵创立，多款核心设备进入客户验证阶段，坚持正向研发，瞄准高端键合设备国产替代需求，本轮融资将用于推进量产导入与下一代产品研发。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_e94924989776452bb01d411620579331@5920579_oswg222395oswg1080oswg465_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "ffd43928"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "ffd43928",
+          "source": "36氪",
+          "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
+          "link": "https://36kr.com/p/3747870039147016?f=rss",
+          "published_at": "2026-04-01T06:11:45+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T06:11:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f9036bf",
+      "title": "梅根·西·斯塔里奥出演《红磨坊》途中被送医",
+      "summary": "美国知名说唱歌手梅根·西·斯塔里奥在纽约参演音乐剧《红磨坊》的演出过程中，突感身体严重不适，随后被送往医院接受救治，该艺人的经纪人已向美国媒体确认了这一情况。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d0/live/ef60f620-2d87-11f1-934f-036468834728.jpg",
+      "article_ids": [
+        "6700e833"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6700e833",
+          "source": "BBC World",
+          "title": "梅根·西·斯塔里奥出演《红磨坊》途中被送医",
+          "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T05:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T05:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd068370",
+      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
+      "summary": "当前我国每年约54万人发生心源性猝死，心衰患者超1200万，不良生活习惯、慢病管控不佳等推高发心血管疾病风险，公共AED急救因多种原因使用率偏低，业内正探索依托分级诊疗，结合AI技术、便携监测设备前移防控防线，提前预警干预降低风险。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a85e7f28"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "a85e7f28",
+          "source": "36氪",
+          "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
+          "link": "https://36kr.com/p/3747703171383810?f=rss",
+          "published_at": "2026-04-01T05:26:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T05:26:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c0c63ce",
+      "title": "日本离婚夫妇如今可共同监护子女",
+      "summary": "长期以来，日本都是七国集团中唯一不承认共同监护子女法律概念的国家。近期相关规定落地后，日本正式允许离婚夫妇共同享有对子女的监护权，结束了日本作为G7唯一不认可该制度合法性的历史。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f7/live/c812a080-2d7a-11f1-9d25-a9b18345b04f.jpg",
+      "article_ids": [
+        "86393af4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "86393af4",
+          "source": "BBC World",
+          "title": "日本离婚夫妇如今可共同监护子女",
+          "link": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T04:11:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T04:11:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a009da1",
+      "title": "滨海百万豪宅比邻铁皮棚屋",
+      "summary": "南非一座沿海城市正面临可负担住房短缺问题，当地优质核心滨海岸线地块多被旅游业占用，开发了大量高端滨海豪宅，大量普通民众无力承担住房成本，被迫搬迁至远离市中心的区域居住。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-safrica-housing-promo-pzlw/01int-safrica-housing-promo-pzlw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d1dc4c33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d1dc4c33",
+          "source": "NYTimes World",
+          "title": "滨海百万豪宅比邻铁皮棚屋",
+          "link": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
+          "published_at": "2026-04-01T04:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T04:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "386a8931",
+      "title": "被困波斯湾的水手",
+      "summary": "受美以对伊朗开战影响，波斯湾大片水域被划入冲突区域，数千名平民水手受波及在此被困超过一个月，受冲突封锁阻隔，这些水手无法正常驶离相关水域，目前仍滞留在战区水域中。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "cf5ffd0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "cf5ffd0e",
+          "source": "NYTimes World",
+          "title": "被困波斯湾的水手",
+          "link": "https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html",
+          "published_at": "2026-04-01T04:01:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T04:01:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42dd80f3",
+      "title": "英国监狱：无人机如优步外卖般派送违禁品",
+      "summary": "英国不少服役数十年的老旧监狱，设计建造时仅针对地面做安保设防，未考虑空中防御。如今不法分子利用无人机向狱内走私违禁品，形成了利润丰厚的走私交易，相关专家表示，这一走私活动目前难以整治。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "48c1b910"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "48c1b910",
+          "source": "NYTimes World",
+          "title": "英国监狱：无人机如优步外卖般派送违禁品",
+          "link": "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html",
+          "published_at": "2026-04-01T04:01:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T04:01:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ca1aa60c",
+      "title": "特朗普提出美国停止对伊打击时间线 铜价上涨",
+      "summary": "美国总统唐纳德·特朗普表示，美国对伊朗的战事可在两至三周内结束，该言论缓解市场情绪，此前受全球增长担忧冲击表现疲软的风险资产迎来回弹，铜价随之上行。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNVsWh2m45HA/v0/1200x-1.jpg",
+      "article_ids": [
+        "67b4beb7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "67b4beb7",
+          "source": "Bloomberg",
+          "title": "特朗普提出美国停止对伊打击时间线 铜价上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/copper-rises-as-trump-floats-timeline-for-us-to-end-iran-attacks",
+          "published_at": "2026-04-01T03:37:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T03:37:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1940dbc7",
+      "title": "36氪企业全情报：AI 舆情大数据，让投资决策快人一步",
+      "summary": "36氪联合红麦聚信推出面向普通投资者的“36氪企业全情报”微信小程序，依托17年大数据技术沉淀，融合多款主流AI大模型，抓取全网全渠道7×24小时实时舆情数据，打造具备四大核心功能的机构级投资情报工具，可帮助用户高效精准把握投资先机，后续还将持续迭代升级功能。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20241014/v2_584fe8971f83433f9c99c6f9df226dda@6091023_oswg194812oswg1438oswg409_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1",
+      "article_ids": [
+        "44276903"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "44276903",
+          "source": "36氪",
+          "title": "36氪企业全情报：AI 舆情大数据，让投资决策快人一步",
+          "link": "https://36kr.com/p/3747662784332289?f=rss",
+          "published_at": "2026-04-01T02:40:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T02:40:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "469f70cd",
+      "title": "Mercor称其遭遇与开源项目LiteLLM遭入侵相关的网络攻击",
+      "summary": "人工智能招聘初创公司Mercor确认发生一起安全事件，此次该公司遭遇的网络攻击，与开源项目LiteLLM被入侵相关。目前已有勒索黑客组织公开认领此次攻击，宣称已从Mercor的公司系统中窃取了相关数据。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "08ac6ed6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "08ac6ed6",
+          "source": "TechCrunch",
+          "title": "Mercor称其遭遇与开源项目LiteLLM遭入侵相关的网络攻击",
+          "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+          "published_at": "2026-04-01T01:42:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T01:42:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8aa11301",
+      "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+      "summary": "来自宾夕法尼亚大学的00后核心团队创立运动AI Agent智能硬件品牌PathFinder，近日完成锦秋基金独家投资的数千万元天使轮融资。团队聚焦高尔夫场景，推出带“感知-理解-决策”闭环的AI智能硬件，用纯视觉方案将成本降至传统方案千分之一，目前已获数千台行业订单，正筹备上线众筹。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260331/v2_096a6f60a7e9478daffce286ed926038@6022551_oswg320282oswg1280oswg699_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "577746a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "577746a0",
+          "source": "36氪",
+          "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+          "link": "https://36kr.com/p/3746252355535622?f=rss",
+          "published_at": "2026-04-01T01:33:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T01:33:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "33ba55b5",
+      "title": "AI agent入口的最短路径，全球首款AI笔记戒指 Vocci Ring开启预售|最前线",
+      "summary": "CES 2026期间，全球首款AI笔记戒指Vocci Ring正式亮相，目前已开启全球预售。该产品跳出智能戒指健康监测赛道，主打低摩擦全场景AI生产力功能，将控制权交予用户保障隐私安全，适配专业工作者需求，拥有硅谷背景的研发团队计划优先推广欧美市场。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260331/v2_a611c8d79f02493c9694e2102f60dced@6310669_oswg401548oswg1280oswg1280_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "9537e7bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "9537e7bc",
+          "source": "36氪",
+          "title": "AI agent入口的最短路径，全球首款AI笔记戒指 Vocci Ring开启预售|最前线",
+          "link": "https://36kr.com/p/3746892878480132?f=rss",
+          "published_at": "2026-04-01T01:30:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T01:30:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8be6c46e",
+      "title": "亚马逊春季大促最后数小时最佳购物优惠",
+      "summary": "历来三月是零售促销淡季，零售巨头亚马逊打造了第三届年度春季大促，该活动截止太平洋时间当日晚间11点59分，平台针对多款春季应季商品推出折扣优惠，试图以可观降幅吸引潜在消费者下单。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "98dfd42a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "98dfd42a",
+          "source": "The Verge",
+          "title": "亚马逊春季大促最后数小时最佳购物优惠",
+          "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+          "published_at": "2026-04-01T01:14:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T01:14:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "156ceadb",
+      "title": "丰田编织资本任命新任首席投资官与首席运营官 探寻“未来移动出行”",
+      "summary": "编织资本是丰田旗下专注成长期投资的风险投资部门，重点投资太空、网络安全、自动驾驶领域的创业项目，此次任命新任首席投资官与首席运营官，旨在推进未来移动出行领域的探索布局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2c7f5eb6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2c7f5eb6",
+          "source": "TechCrunch",
+          "title": "丰田编织资本任命新任首席投资官与首席运营官 探寻“未来移动出行”",
+          "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+          "published_at": "2026-04-01T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acf1a296",
+      "title": "2026亚马逊大型春季大促：最新优惠汇总",
+      "summary": "春季淘优惠，亚马逊大型春季大促或是绝佳时机，本次大促截止太平洋时间今晚23点59分。目前仍在持续推介本次大促的优质优惠，其中包含大促剩余时段将陆续放出的多款“开门抢”特价商品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8cae1ae8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8cae1ae8",
+          "source": "The Verge",
+          "title": "2026亚马逊大型春季大促：最新优惠汇总",
+          "link": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+          "published_at": "2026-04-01T00:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T00:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9e19d73e",
+      "title": "安特罗皮克本月霉运不断",
+      "summary": "人工智能企业安特罗皮克近期风波不断，本周之内已连续第二次发生人为操作失误，引发运营事故。接连出现的人为失误让这家公司本月诸事不顺，也暴露了其内部运营管理存在疏漏，引发外界关注。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "433b289a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "433b289a",
+          "source": "TechCrunch",
+          "title": "安特罗皮克本月霉运不断",
+          "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+          "published_at": "2026-03-31T23:58:26+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T23:58:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32d520c0",
+      "title": "亚马逊大春季促销：AirPods Pro 3价格逼近历史最低价",
+      "summary": "本月初苹果发布AirPods Max 2头戴式耳机，该产品搭载苹果H2芯片，拥有AI实时翻译、对话感知等多项新功能。AirPods Pro 3真无线耳机拥有同款功能、售价更低，目前在亚马逊大春季促销中，价格已接近历史最低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6554670c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6554670c",
+          "source": "The Verge",
+          "title": "亚马逊大春季促销：AirPods Pro 3价格逼近历史最低价",
+          "link": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
+          "published_at": "2026-03-31T23:53:47+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T23:53:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b0220861",
+      "title": "亚马逊大春季促销 安克等品牌充电器最高五折优惠",
+      "summary": "亚马逊开启大春季促销，整体力度虽不及黑色星期五，甚至不如Prime会员日，但部分品类折扣力度超出预期。目前充电配件优惠可观，安克、Twelve South、倍思等多个品牌的多款热门充电配件已迎来大幅降价。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "27db4404"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "27db4404",
+          "source": "The Verge",
+          "title": "亚马逊大春季促销 安克等品牌充电器最高五折优惠",
+          "link": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
+          "published_at": "2026-03-31T23:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T23:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5db76a15",
+      "title": "赛富时宣布Slack迎重度AI改造 新增30项功能",
+      "summary": "全球知名企业软件服务商赛富时宣布，将对协作办公工具Slack进行重度AI改造，本次更新共推出30项全新功能，改造后的Slack实用性大幅提升，能够为用户带来更优质的使用体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0355fee7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0355fee7",
+          "source": "TechCrunch",
+          "title": "赛富时宣布Slack迎重度AI改造 新增30项功能",
+          "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+          "published_at": "2026-03-31T22:46:25+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T22:46:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "38fb5787",
+      "title": "油价下跌股债齐涨：市场综述",
+      "summary": "当前市场对中东地区战争即将结束的乐观情绪持续升温，推动美国股市上行，同时带动债券价格走高，布伦特原油价格受此影响一度跌破每桶100美元，美元则创下一周以来的最大跌幅。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJYMX3XbsH3s/v0/1200x-1.png",
+      "article_ids": [
+        "184be3cc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "184be3cc",
+          "source": "Bloomberg",
+          "title": "油价下跌股债齐涨：市场综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-31/asian-stocks-set-to-track-us-rally-on-iran-hopes-markets-wrap",
+          "published_at": "2026-03-31T22:28:13+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T22:28:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90a37777",
+      "title": "克劳德代码泄露 曝出拓麻歌子风格“电子宠物”及永久在线智能代理",
+      "summary": "Anthropic推出克劳德代码2.1.88版本更新后，用户发现更新包内附带包含完整TypeScript代码库的源映射文件，一名用户在社交平台X曝光此次代码泄露事件，并上传了相关代码文件，本次泄露的代码总量超过51.2万行。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2ce7d9de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2ce7d9de",
+          "source": "The Verge",
+          "title": "克劳德代码泄露 曝出拓麻歌子风格“电子宠物”及永久在线智能代理",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+          "published_at": "2026-03-31T22:24:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T22:24:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c4065af",
+      "title": "Govee变色智能灯泡四件装仅售27美元",
+      "summary": "春季整理不止是清理杂物，也是更新居住空间的好机会，从智能照明入手更新十分简单。Govee A19型变色LED智能灯泡可快速改变家居氛围，该款灯泡优惠活动截至3月31日当日结束，活动期间四件装仅售27美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "87cca673"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "87cca673",
+          "source": "The Verge",
+          "title": "Govee变色智能灯泡四件装仅售27美元",
+          "link": "https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal",
+          "published_at": "2026-03-31T21:59:47+00:00"
+        }
+      ],
+      "published_at": "2026-03-31T21:59:47+00:00",
+      "is_merged": false
+    }
   ]
 }

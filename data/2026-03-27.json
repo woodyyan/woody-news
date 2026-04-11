@@ -829,5 +829,1569 @@
       "lang": "en",
       "published_at": "2026-03-27T00:33:44+00:00"
     }
+  ],
+  "article_count": 60,
+  "cluster_count": 60,
+  "clusters": [
+    {
+      "id": "7ffd1163",
+      "title": "约旦河西岸定居者暴力死亡人数攀升 一名巴勒斯坦人遇害",
+      "summary": "约旦河西岸定居者暴力活动持续升级，死亡人数不断上升。遇害的巴勒斯坦男子穆罕默德·马勒希，是对伊战争爆发以来本轮暴力潮中，第七名被定居者杀害的巴勒斯坦人，其死亡进一步推高了该类暴力事件的总死亡人数。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/37c70070-29c9-11f1-934f-036468834728.jpg",
+      "article_ids": [
+        "916fb131"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "916fb131",
+          "source": "BBC World",
+          "title": "约旦河西岸定居者暴力死亡人数攀升 一名巴勒斯坦人遇害",
+          "link": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T12:30:10+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:30:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acb3a0f5",
+      "title": "伊朗战事最新动态：特朗普称谈判取得进展 延长霍尔木兹海峡最后期限",
+      "summary": "美国总统特朗普此前威胁，若伊朗不在4月6日前全面重新开放核心石油航道霍尔木兹海峡，就将攻击伊朗发电厂。以色列周五对伊朗发动了更多袭击，特朗普称谈判取得进展，已延长相关最后期限。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/27mideast-carousel-01-qbvt/27mideast-carousel-01-qbvt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3358745f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3358745f",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新动态：特朗普称谈判取得进展 延长霍尔木兹海峡最后期限",
+          "link": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
+          "published_at": "2026-03-27T12:29:07+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:29:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "150c3827",
+      "title": "萨瓦娜·格思里将重返《今日秀》 其母亲搜寻工作仍在继续",
+      "summary": "美国电视主持人萨瓦娜·格思里将于四月重返美国全国广播公司（NBC）旗下的知名新闻节目《今日秀》，恢复该节目的日常主持工作。目前，针对萨瓦娜·格思里母亲的搜寻工作仍在持续进行中。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72b/live/04d245a0-2850-11f1-937e-1d8f354c3b9a.jpg",
+      "article_ids": [
+        "041ff8c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "041ff8c0",
+          "source": "BBC World",
+          "title": "萨瓦娜·格思里将重返《今日秀》 其母亲搜寻工作仍在继续",
+          "link": "https://www.bbc.com/news/articles/c79jd4x572qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T12:24:25+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:24:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7da6d259",
+      "title": "索尼将于4月上调PS5售价100美元",
+      "summary": "索尼周五发布公告宣布，自4月2日起将在全球范围内上调PlayStation 5全系列主机售价。其中标准版PS5从549.99美元涨至649.99美元，数字版从499.99美元涨至599.99美元，PS5 Pro上调至899.99美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6a468670"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6a468670",
+          "source": "The Verge",
+          "title": "索尼将于4月上调PS5售价100美元",
+          "link": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
+          "published_at": "2026-03-27T12:20:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:20:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1759a8be",
+      "title": "（走进中国乡村）从靠天吃饭到“知天而作” 科技解锁安徽新农事 - chinanews.com.cn",
+      "summary": "当前春耕生产有序推进，全国早稻生产已全面展开。安徽、湖南多地一改传统农业靠天吃饭的旧模式，依托科技赋能农业生产，走向工厂化育秧、机械化生产、智慧管控的“慧种地”，推动春耕跑出加速度，解锁新时代乡村农业生产新样貌。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "18017b17"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "18017b17",
+          "source": "Google News (中国)",
+          "title": "（走进中国乡村）从靠天吃饭到“知天而作” 科技解锁安徽新农事 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMm1YbUlONlFIcHd0MW80UG1hN1lhN0hoNk56SkxwZXBKdUQ2cW9wY3MtVWZVek40MlBINldnanhIcnVadHRtak9LOFdMQmpRRjU4YlNQajc4TlVILXQ4V0tlakVWenZx?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T12:17:26+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:17:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1695e28f",
+      "title": "温施称欧洲央行4月加息并非不可能",
+      "summary": "欧洲央行管理委员会成员、比利时央行行长皮埃尔·温施接受彭博社采访，探讨中东冲突对通胀及欧元区经济的影响，称若到4月有确凿证据显示该冲突冲击将持续，且会带来具有一定持续性的通胀大幅上涨，欧洲央行不排除4月加息。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv.6lGFuABZs/v3/1200x-1.png",
+      "article_ids": [
+        "2605e142"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2605e142",
+          "source": "Bloomberg",
+          "title": "温施称欧洲央行4月加息并非不可能",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-27/ecb-hike-in-april-not-out-of-the-question-wunsch-says-video",
+          "published_at": "2026-03-27T12:13:59+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:13:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d9c3365",
+      "title": "希腊船东再派一艘油轮通过霍尔木兹海峡",
+      "summary": "受伊朗战事影响，目前绝大多数航运企业都避走霍尔木兹海峡这一全球重要贸易航道，希腊一名船东仍再次派出一艘油轮经该海峡出航，以此表明愿意继续在此开展航运业务的态度。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.BNRE2VRlY0/v0/1200x-1.jpg",
+      "article_ids": [
+        "88b5a7c8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "88b5a7c8",
+          "source": "Bloomberg",
+          "title": "希腊船东再派一艘油轮通过霍尔木兹海峡",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/greek-shipowner-sends-yet-another-oil-tanker-out-through-hormuz",
+          "published_at": "2026-03-27T12:13:15+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:13:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dae34d37",
+      "title": "批评人士称接受安乐死离世的西班牙女性遭国家失职",
+      "summary": "西班牙女子诺埃莉亚·卡斯蒂略在与生父经历长期法律纠纷后，于周四晚间在巴塞罗那一家医院接受安乐死离世。批评人士指出，这一悲剧的发生源于国家失职，相关方面未能尽到应有的责任。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbc/live/d567f270-2939-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "2ef0eb62"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2ef0eb62",
+          "source": "BBC World",
+          "title": "批评人士称接受安乐死离世的西班牙女性遭国家失职",
+          "link": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T12:09:06+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:09:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56a3b570",
+      "title": "布拉斯科警告持续经营存困难 亏损扩大",
+      "summary": "巴西化工企业布拉斯科股份公司公布最新一季度业绩表现疲软，亏损进一步扩大。公司发出警告，若股东未能按时完成计划中的债务交易，公司将面临重大不确定性，持续经营能力存疑。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWIPeVe3zx6c/v1/1200x-1.jpg",
+      "article_ids": [
+        "423789f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "423789f0",
+          "source": "Bloomberg",
+          "title": "布拉斯科警告持续经营存困难 亏损扩大",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/braskem-warns-of-going-concern-as-quarterly-losses-widen",
+          "published_at": "2026-03-27T12:08:26+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:08:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "75bcd1fe",
+      "title": "美银哈特尼特称消费类股是战争余波后的最佳投资标的",
+      "summary": "美国银行分析师迈克尔·哈特尼特表示，当前美国正全力防范经济衰退，投资者应买入消费类股以应对“政策恐慌”行情，他认为消费类股是战争余波过后的最佳投资标的。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibTv7sWVztBs/v1/1200x-1.jpg",
+      "article_ids": [
+        "22c5222a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "22c5222a",
+          "source": "Bloomberg",
+          "title": "美银哈特尼特称消费类股是战争余波后的最佳投资标的",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/bofa-s-hartnett-says-consumer-stocks-best-play-in-policy-panic",
+          "published_at": "2026-03-27T12:08:04+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:08:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9a8dd770",
+      "title": "伊朗战事与中美贸易调查拖累股市下跌 | 《脉搏》3月27日",
+      "summary": "彭博社出品、立足伦敦的《脉搏》是一档聚焦全球商业、经济、金融与政治领域的高端访谈节目，主打独家专访与影响市场的重磅资讯。3月27日播出的本期节目，邀请了来自金融、外交等领域多家机构的多位嘉宾。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMXKPHV8JrKQ/v3/1200x-1.png",
+      "article_ids": [
+        "44e149ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "44e149ae",
+          "source": "Bloomberg",
+          "title": "伊朗战事与中美贸易调查拖累股市下跌 | 《脉搏》3月27日",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-27/the-pulse-3-27-2026-video",
+          "published_at": "2026-03-27T12:07:17+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:07:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "861c8893",
+      "title": "联合国人权高专呼吁美国完成对伊朗校园袭击事件的调查",
+      "summary": "伊朗发生一起校园袭击事件，已造成至少168人死亡，绝大多数遇难者为儿童。联合国人权高级专员沃尔克·图尔克表示，这起事件引发彻骨恐惧，他已呼吁美国完成对该袭击事件的相关调查。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg",
+      "article_ids": [
+        "4c6aa68f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4c6aa68f",
+          "source": "BBC World",
+          "title": "联合国人权高专呼吁美国完成对伊朗校园袭击事件的调查",
+          "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T12:06:18+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:06:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "699e6816",
+      "title": "全球最大离网太阳能企业签署1.5亿美元协议进入埃塞俄比亚",
+      "summary": "全球最大离网太阳能企业太阳王计划进入非洲第二人口大国埃塞俄比亚开展新能源业务，根据整体规划，企业将在2030年之前，在当地投入最高1.5亿美元用于相关业务的拓展布局。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8d0d76b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8d0d76b0",
+          "source": "Bloomberg",
+          "title": "全球最大离网太阳能企业签署1.5亿美元协议进入埃塞俄比亚",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/biggest-off-grid-solar-firm-enters-ethiopia-in-150-million-pact",
+          "published_at": "2026-03-27T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eff82208",
+      "title": "欧洲央行温施：若6月前战争未结束 大概率将加息",
+      "summary": "欧洲央行管理委员会成员皮埃尔·温施表示，若伊朗战争到6月仍未结束，欧洲央行大概率不得不采取加息行动。他同时呼吁现阶段保持耐心，等待官员评估这场战争对经济影响的规模。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i84BTV8hRapM/v1/1200x-1.jpg",
+      "article_ids": [
+        "e2cb5e1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e2cb5e1e",
+          "source": "Bloomberg",
+          "title": "欧洲央行温施：若6月前战争未结束 大概率将加息",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/ecb-s-wunsch-says-rate-hike-is-likely-if-war-isn-t-over-by-june",
+          "published_at": "2026-03-27T11:59:05+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T11:59:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0f1d59f8",
+      "title": "龙湖：2025年收入973.1亿，预计两年后完成新模式筑基",
+      "summary": "3月27日龙湖集团发布2025年度业绩报告，全年营收约973.1亿元，运营及服务业务收入占比达27.5%创历史新高，龙湖已安全度过当年偿债高峰，财务保持稳健。龙湖管理层预计，最晚2028年运营及服务收入将超地产开发，完成新发展模式筑基。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_bb2a7a1e288d4a3e8ab21eb46ef8e788@337187376_oswg1110092oswg3000oswg2181_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "f2d62b5b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f2d62b5b",
+          "source": "36氪",
+          "title": "龙湖：2025年收入973.1亿，预计两年后完成新模式筑基",
+          "link": "https://36kr.com/p/3741132856115207?f=rss",
+          "published_at": "2026-03-27T11:57:21+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T11:57:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e6ba386",
+      "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
+      "summary": "近期多领域产业与市场动态出炉：菜鸟集团与泰国正大旗下CP AXTRA签战略合作，将助力其在东盟打造即时零售物流网络；平头哥镇岳510 SSD主控芯片累计出货超50万片，已被多家存储厂商搭载；猎户星空推出AI Agent服务机器人，另有多家企业更名、娃哈哈部分工厂临时停产等消息发布。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "76a67264"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "76a67264",
+          "source": "36氪",
+          "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
+          "link": "https://36kr.com/p/3737878513844224?f=rss",
+          "published_at": "2026-03-27T11:48:29+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T11:48:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f667b593",
+      "title": "欧洲人对特朗普愤怒，却往往谅解美国民众",
+      "summary": "一代人之前，外界对美国入侵伊拉克的怒火常演变为反美情绪。如今不少欧洲人已能清晰区分对美国领导人与普通民众的态度，他们对特朗普感到愤怒，却大多对美国民众持宽容谅解的态度。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/27int-europe-trump-sentiment-jlkz/27int-europe-trump-sentiment-jlkz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0551f43b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0551f43b",
+          "source": "NYTimes World",
+          "title": "欧洲人对特朗普愤怒，却往往谅解美国民众",
+          "link": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
+          "published_at": "2026-03-27T11:46:34+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T11:46:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f02f01fe",
+      "title": "伊朗战事期间马可·卢比奥会晤七国集团同僚",
+      "summary": "美国国务卿马可·卢比奥在伊朗战事进行期间，与七国集团各成员国的同级别官员举行会晤。此次外访是卢比奥自上个月伊朗冲突爆发以来，首次开展的出国外交行程，相关动态受到国际社会关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e231/live/5dbf9ad0-29ba-11f1-b09d-e9355cd4d8ae.jpg",
+      "article_ids": [
+        "d43db0ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d43db0ea",
+          "source": "BBC World",
+          "title": "伊朗战事期间马可·卢比奥会晤七国集团同僚",
+          "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T10:41:41+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T10:41:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c7a05c3",
+      "title": "美参议院投票为国土安全部大部拨款以结束机场混乱，移民与海关执法局未获拨款",
+      "summary": "美国参议院完成深夜投票，通过为国土安全部除移民与海关执法局外的多数部门拨款，此举朝着结束持续40天的美国政府部分停摆，以及由此引发的美国机场安检排长队乱象，迈出重要一步。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ab/live/5cf32210-29c5-11f1-952c-77491ff53aff.jpg",
+      "article_ids": [
+        "e16d024c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e16d024c",
+          "source": "BBC World",
+          "title": "美参议院投票为国土安全部大部拨款以结束机场混乱，移民与海关执法局未获拨款",
+          "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T10:31:46+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T10:31:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9d2bf44",
+      "title": "广州市委原书记郭永航被查，曾长期在深圳工作 - guancha.cn",
+      "summary": "广州市委原书记郭永航被查，曾长期在深圳工作&nbsp;&nbsp;guancha.cn广州市委原书记郭永航被查 或与珠海任职期间有关&nbsp;&nbsp;china.caixin.com马兴瑞旧部郭永航 退居二线两月后落马&nbsp;&nbsp;联合早报馬興瑞「大祕」出事 廣東省政協副主席郭永航被查&nbsp;&nbsp;新唐人電視台广东省政协副主席郭永航任上被查！曾任广州市委书记&nbsp;&",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "35ffa63a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "35ffa63a",
+          "source": "Google News (中国)",
+          "title": "广州市委原书记郭永航被查，曾长期在深圳工作 - guancha.cn",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MMmF6ZDExeUdjN09NXzN2OWJoNTFWcWtKdGJQNUl6UnlTV1hDQXVrTzhMamtlQ01hXzg2a2pIcXZtUzV1R0YyNlBYY2RCbXpuRGI0cGotUXFBV1ZkOVp0UTdNRS1DZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T10:19:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T10:19:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0142e4d",
+      "title": "50佳苹果产品排名评选",
+      "summary": "为纪念苹果公司成立50周年，本次活动已选出50款广受喜爱的苹果产品，范围覆盖从初代iPhone到库乐队的各类产品。本次排名面向社区开放，普通用户也可通过指定渠道参与，为本次排名贡献自己的意见。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "39593bab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "39593bab",
+          "source": "The Verge",
+          "title": "50佳苹果产品排名评选",
+          "link": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
+          "published_at": "2026-03-27T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7801103",
+      "title": "史上50款最佳苹果产品排名方法",
+      "summary": "苹果下周将迎来成立50周年，相关媒体本周推出专题系列报道，围绕苹果的发展、产品、过往积淀与未来展开，本次专题核心为评选史上最佳苹果产品，目前排名系统已上线，主办方邀请公众参与协助完成排名。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "057dbaef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "057dbaef",
+          "source": "The Verge",
+          "title": "史上50款最佳苹果产品排名方法",
+          "link": "https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast",
+          "published_at": "2026-03-27T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd771579",
+      "title": "王沪宁主持召开全国政协主席会议 - 同花顺",
+      "summary": "王沪宁主持召开全国政协主席会议，当前仅放出该时政新闻的简短消息条目，关于此次全国政协主席会议的完整报道，可前往Google新闻平台的同花顺相关渠道查看，有需求的读者可移步对应平台获取会议的全部相关内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c5f048ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c5f048ee",
+          "source": "Google News (中国)",
+          "title": "王沪宁主持召开全国政协主席会议 - 同花顺",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNGJHT3UtNDgxa05VRVJOU24xSm1TT3RYb2tTVUZmM2pJNktjWDM3c0tGTGl6VWtnd0hwWi1XNWtCc2I1bWxDUTFua1JjSGFwRURNMmg5NlZBQU9iUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T09:42:31+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:42:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cfe66f5c",
+      "title": "阿联酋与卡塔尔因伊朗袭击相关网络视频逮捕数百人",
+      "summary": "阿联酋与卡塔尔当局发起一波逮捕行动，制止民众发布伊朗袭击相关网络视频。两国称此举出于安全风险考量，有专家分析，两国此举还源于担心相关内容会损害自身作为安全避风港的国家形象。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/27int-gulf-crackdown-1-bfcv/27int-gulf-crackdown-1-bfcv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bcb5a7aa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bcb5a7aa",
+          "source": "NYTimes World",
+          "title": "阿联酋与卡塔尔因伊朗袭击相关网络视频逮捕数百人",
+          "link": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html",
+          "published_at": "2026-03-27T09:36:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:36:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "20b1dd27",
+      "title": "‘我女儿在废墟下’：袭击平民伤亡攀升之际的德黑兰",
+      "summary": "美以对伊朗发动袭击已满一个月，当前袭击造成的平民伤亡人数持续攀升，多名德黑兰居民向英国BBC讲述了当地现状，称袭击已彻底摧毁民众的正常生活，给当地带来毁灭性打击。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg",
+      "article_ids": [
+        "d3b5fd1a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d3b5fd1a",
+          "source": "BBC World",
+          "title": "‘我女儿在废墟下’：袭击平民伤亡攀升之际的德黑兰",
+          "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T09:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee417d26",
+      "title": "习近平总书记在雄安新区考察时的重要讲话，让河北干部群众倍感温暖深受鼓舞 - 中国雄安官网",
+      "summary": "习近平总书记考察雄安新区，这是两会后的首次考察，其发表的重要讲话让河北干部群众倍感温暖、深受鼓舞，为“十五五”开局起步指明方向。各界聚焦雄安建设，提出要实现城淀辉映，统筹承接疏解与城市发展，全面提升城市建设能级，打造“未来之城”。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "89aa61e2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "89aa61e2",
+          "source": "Google News (中国)",
+          "title": "习近平总书记在雄安新区考察时的重要讲话，让河北干部群众倍感温暖深受鼓舞 - 中国雄安官网",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHY4TTZKbmRRSzgxTjVPSXI5UVpvQ0VuQUlUeXJGYVg3ZW9haW8xUDFpVlY3VldMajdDNDhMTlItQmVRV2RIYjRORW4zaTFIODVmandudjBRcVBkU085Z3BKR1dmRGRIZTZvRldCeTBIeG96eVphRWIxZ2NMSlFaRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T09:19:31+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:19:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b73ae8c7",
+      "title": "伊朗持续控制霍尔木兹海峡导致全球能源危机加剧 - 虎嗅网",
+      "summary": "近期伊朗对霍尔木兹海峡的管控，致使全球能源危机进一步加剧。伊朗已确认中国、俄罗斯、印度等多个国家的船只可安全通过该海峡，也已放行西班牙船只，目前伊朗议会正拟立法对海峡通行船只收费，全球市场由此担忧油荒会进一步爆发。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "14f444be"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "14f444be",
+          "source": "Google News (中国)",
+          "title": "伊朗持续控制霍尔木兹海峡导致全球能源危机加剧 - 虎嗅网",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14SDFaYlE5TnVQaWVWNWVtbDIyQWNYYk9ZbUFIcGdGRXRPV3EtTFo3UmVXZVpNbDVURE4zNDFMZHBIMFYtc2Z0bmt2dTdsZk5FQkFQMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T09:17:34+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:17:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0acb6704",
+      "title": "博索纳罗家族推动后 美国或将把巴西黑帮列为恐怖组织",
+      "summary": "遭监禁的巴西前总统雅伊尔·博索纳罗的儿子们发起游说后，美国特朗普政府正权衡考量，是否将巴西国内规模最大的两个贩毒黑帮列为恐怖组织，目前该事项仍处于评估阶段。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2020/03/30/world/00int-brazil-us-drugs/30Riopoliceviolence-03-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "29404ad8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "29404ad8",
+          "source": "NYTimes World",
+          "title": "博索纳罗家族推动后 美国或将把巴西黑帮列为恐怖组织",
+          "link": "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html",
+          "published_at": "2026-03-27T09:01:31+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T09:01:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0262f4b2",
+      "title": "瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线",
+      "summary": "当前全球健康健身市场快速增长，传统健身受困于留存难、效率低、同质化瓶颈，向“AI+场景+硬件”升级成行业趋势。在2026领润生态战略峰会上，领润孵化的趣冲健身展出完整自研AI智能健身生态，靠多品牌矩阵覆盖全周期用户，运营效率远超行业，探索AI健身新方向。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_7f84948588574ec99c6b303eab196da3@6022551_oswg669297oswg828oswg552_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "e53f5dc6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e53f5dc6",
+          "source": "36氪",
+          "title": "瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线",
+          "link": "https://36kr.com/p/3740892215623942?f=rss",
+          "published_at": "2026-03-27T08:28:46+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T08:28:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6013ff82",
+      "title": "韩国独裁统治时期恶名昭彰“拷打大师”李根安去世 终年88岁",
+      "summary": "88岁的前韩国警督李根安去世。李根安曾在韩国独裁统治时期任职，因犯下诸多拷打暴行恶名昭彰，获称“拷打大师”。长期以来，他的名字始终在韩国国内引发民众强烈的恐惧与憎恨。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/world/27int-skorea-lee-obit/27int-skorea-lee-obit-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "87b76f9c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "87b76f9c",
+          "source": "NYTimes World",
+          "title": "韩国独裁统治时期恶名昭彰“拷打大师”李根安去世 终年88岁",
+          "link": "https://www.nytimes.com/2026/03/27/world/asia/lee-geun-an-korea-obit.html",
+          "published_at": "2026-03-27T08:26:54+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T08:26:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dc76e159",
+      "title": "陕西中医药大学举办树立和践行正确政绩观学习教育读书班 - 教育在线",
+      "summary": "近期，多地及相关单位推进树立和践行正确政绩观学习教育：陕西中医药大学举办该主题学习教育读书班，上海以上率下一体推进相关学习教育，已实现良好开局；多家主流媒体也刊发相关内容，解读习近平总书记相关重要论述，强化学习引导。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0b82e660"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0b82e660",
+          "source": "Google News (中国)",
+          "title": "陕西中医药大学举办树立和践行正确政绩观学习教育读书班 - 教育在线",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdjdjYlFfOGZ0Y3RTQnVCMlkxSmM5bHFYVUtJTHR2Ri0xbkdmTUpqamdTaWQzU1l4c0dOVHVUYkNWNnZ1QTZCT0I0Nzd1RE9SMV9uVzY5NEkwRWItall2ckhZeUIwREZvY1N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T08:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T08:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d6fb88c",
+      "title": "从单季到全年盈利，知乎迎来估值重估",
+      "summary": "3月25日，知乎发布2025年全年业绩，首次实现非公认会计准则（Non-GAAP）全年盈利，经调整净利润为3790万元。AI赋能核心业务，强化社区正向循环，付费阅读、市场营销两大主业边际向好。当前其估值未充分体现业绩改善预期，有望迎来估值重估。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "07187440"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "07187440",
+          "source": "36氪",
+          "title": "从单季到全年盈利，知乎迎来估值重估",
+          "link": "https://36kr.com/p/3740850993037312?f=rss",
+          "published_at": "2026-03-27T08:02:11+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T08:02:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1be3f12",
+      "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
+      "summary": "当前具身智能行业正迎来数据范式迁移，第一视角真实物理交互数据成为核心赛道，清华计算机系孵化的星忆科技对标英伟达EgoScale技术路径，聚焦高精度多模态具身数据基础设施建设，近日完成千万级首轮融资，由水木创投领投。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_1bb7789316a049a1b154fe53a477d945@5507783_oswg78496oswg1080oswg537_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b638ae46"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b638ae46",
+          "source": "36氪",
+          "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
+          "link": "https://36kr.com/p/3740899945136130?f=rss",
+          "published_at": "2026-03-27T08:00:35+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T08:00:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5339d68d",
+      "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
+      "summary": "2026年3月27日，中关村论坛举办“OpenClaw（俗称龙虾）与AI开源”主题圆桌，五位来自大模型、算力、Agent领域的中国AI从业者，围绕Token经济学与Agent生态，探讨龙虾爆火后Token需求暴增带来的机遇挑战，达成需推进架构创新适配Agent时代发展的共识。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_7387d3a80303446d8f9a233cb2757910@5783683_oswg127400oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "c67e3802"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "c67e3802",
+          "source": "36氪",
+          "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
+          "link": "https://36kr.com/p/3740893801824512?f=rss",
+          "published_at": "2026-03-27T07:54:53+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T07:54:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61203ff1",
+      "title": "中共中央政治局召开会议审议《中国共产党地方委员会工作条例》 中共中央总书记习近平主持会议 - 新华网",
+      "summary": "中共中央政治局召开会议，中共中央总书记习近平主持会议，会议审议《中国共产党地方委员会工作条例》。会议明确要求，地方党委要扭住不放，狠抓中央各项决策部署落地落实，该会议相关消息由新华网等多家权威媒体发布。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5aea73bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5aea73bc",
+          "source": "Google News (中国)",
+          "title": "中共中央政治局召开会议审议《中国共产党地方委员会工作条例》 中共中央总书记习近平主持会议 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0ZrQ1VtYlVib1pOdnRvTmZCbGVRUG5CaUF0QnprbktsdmFqUWtiRFVvUl9DWThwak1RaVg4bWdVTzAyRldqZWMyWllJZ1pwcnB5ckhNWVBFOHFOc3d0dFdVTEVrUVdaM215QmtseXVSQ2h2RHFwU0V2WS0xZTZjMElfWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T07:53:21+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T07:53:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "543c9eca",
+      "title": "「龙虾」火热，硬件掘金，这里有10个最新的硬件项目",
+      "summary": "全球热门开源Agent框架OpenClaw（俗称龙虾）爆火后，深圳华强北相关适配硬件价格翻倍，海内外掀起“龙虾+硬件”创业热潮，资本纷纷入场，腾讯、小米等大厂也快速跟进。当前项目分为三类，热潮下存在泡沫争议，底层本地化离线部署需求稳定，赛道走向仍待验证。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_ed526828d8964b92bad95e496c4daf50@5783683_oswg478495oswg786oswg514_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b1a88f07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b1a88f07",
+          "source": "36氪",
+          "title": "「龙虾」火热，硬件掘金，这里有10个最新的硬件项目",
+          "link": "https://36kr.com/p/3740888543412228?f=rss",
+          "published_at": "2026-03-27T07:50:56+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T07:50:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9fc3e76",
+      "title": "封关百日看海南：外资抢滩布局自贸港 新增外企700余户 - 中国网",
+      "summary": "海南自贸港封关满百日，多家媒体聚焦其建设发展成效。外资纷纷抢滩布局自贸港，封关百日期间当地新增外资企业700余户，免签入境的外籍旅客数量较去年同期增长54%，尽显自贸港的开放吸引力与发展活力。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "58e354aa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "58e354aa",
+          "source": "Google News (中国)",
+          "title": "封关百日看海南：外资抢滩布局自贸港 新增外企700余户 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oVl9xWXV6SUxkUktNTXpSMzlYUG04aC1uR3Ntb2VfVThTWHZHQWJtUzBxbXV6RFNaU25FcklsT1d4VmJEWE5DM0lqTlNFcFpGMjdyVmMzM19xUktWQTcyY0RCUXhRQWpXU0dYZ09mOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T07:23:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T07:23:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dc08626b",
+      "title": "尼泊尔前说唱歌手宣誓就任新总理",
+      "summary": "尼泊尔前说唱歌手巴伦德拉·沙阿宣誓出任该国新一任总理。此前他在选举中获得压倒性胜利，当前尼泊尔民众普遍对国内腐败问题不满，巴伦德拉·沙阿以推动变革为竞选承诺，成功赢得选民支持。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cb/live/c6d716c0-29aa-11f1-8fb4-0b615b172a31.jpg",
+      "article_ids": [
+        "d72ccd9d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d72ccd9d",
+          "source": "BBC World",
+          "title": "尼泊尔前说唱歌手宣誓就任新总理",
+          "link": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T07:10:50+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T07:10:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "88334da0",
+      "title": "尼泊尔新总理、前说唱歌手巴伦德拉·沙阿宣誓就职",
+      "summary": "前说唱歌手巴伦德拉·沙阿已宣誓就任尼泊尔新一任总理。去年尼泊尔发生致命暴力与大规模纵火事件，相关调查报告遭泄露，要求追究相关人员责任的呼声，给这位新任总理带来不小压力。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/27-int-nepal-pm-vtqf/27-int-nepal-pm-vtqf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "626a98e4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "626a98e4",
+          "source": "NYTimes World",
+          "title": "尼泊尔新总理、前说唱歌手巴伦德拉·沙阿宣誓就职",
+          "link": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html",
+          "published_at": "2026-03-27T06:56:32+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T06:56:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ade83122",
+      "title": "6年磨一剑的《洛克王国：世界》，能否胜过当年的自己？| 产品观察",
+      "summary": "腾讯魔方工作室耗时近六年打磨的IP新作《洛克王国：世界》于3月26日上线，当前预约量突破6000万，已跻身iOS畅销榜前十。游戏既还原经典童年情怀，又适配当下市场做了精细化设计，不过仍需平衡产品与商业化，应对捉宠赛道的激烈竞争。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260326/v2_1b05554c14a44608a112883c6a6dda44@6202862_oswg727680oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "847ea4cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "847ea4cd",
+          "source": "36氪",
+          "title": "6年磨一剑的《洛克王国：世界》，能否胜过当年的自己？| 产品观察",
+          "link": "https://36kr.com/p/3739724406931465?f=rss",
+          "published_at": "2026-03-27T06:03:25+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T06:03:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9bdb5f6",
+      "title": "以色列警告伊朗称将升级袭击",
+      "summary": "中东局势升温，以色列发出警告称将对伊朗升级袭击。3月26日，黎巴嫩支持真主党运动的政党在贝鲁特伊朗大使馆外组织集会，逊尼派与什叶派穆斯林神职人员参与了此次活动，现场照片由法新社摄影师安瓦尔·阿姆罗拍摄。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il57A3E3dL7E/v0/1200x-1.jpg",
+      "article_ids": [
+        "38986081"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "38986081",
+          "source": "Bloomberg",
+          "title": "以色列警告伊朗称将升级袭击",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-03-27/live-iran-war-updates-trump-oil-markets",
+          "published_at": "2026-03-27T05:16:02+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T05:16:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "633f97f0",
+      "title": "格陵兰事件后心生警惕 法罗群岛选民投票求变",
+      "summary": "法罗群岛是隶属于丹麦的小型群岛，在特朗普就格陵兰提出相关动向后，当地选举风向发生改变，原本作为核心议题的建国讨论退居次位，如今选民更关注本土经济发展而非地缘政治，本次选举选民整体选择求变。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/27int-faroe-elections-wjzc/27int-faroe-elections-wjzc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0ae822f6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0ae822f6",
+          "source": "NYTimes World",
+          "title": "格陵兰事件后心生警惕 法罗群岛选民投票求变",
+          "link": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
+          "published_at": "2026-03-27T05:06:45+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T05:06:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cb11996",
+      "title": "海南邮政周密服务博鳌亚洲论坛2026年年会 - chinapostnews.com.cn",
+      "summary": "博鳌亚洲论坛2026年年会已顺利闭幕，海南邮政为本次年会提供了周密的保障服务。多家媒体围绕年会相关议题展开报道，多国人士受访表示，当前世界处于变局之中，博鳌为世界提供了“中国方案”，与会各界也探讨了全球发展进程中的中国机遇。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "de77c453"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "de77c453",
+          "source": "Google News (中国)",
+          "title": "海南邮政周密服务博鳌亚洲论坛2026年年会 - chinapostnews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3RZcGhxUGt4VUZqQnZfcWdndDViUm9BSU9BYWxnUFpqcmxjc19vNWtJWnBPVXpvSHJDY3gzZGwwSlpYcEwtWmFFZnRONHliUU9OZWZTc0FqWjRJZVF6YnZGWk1BVDE4OUtzRGtPdmx5RzByYTh3R25YX1dTYWhVRXNFLWNtSkVTYTZjWkprYlh0MVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-27T04:18:12+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T04:18:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ec8cf84",
+      "title": "霍尔木兹海峡静谧小镇 战火已迫近天边",
+      "summary": "阿曼位于霍尔木兹海峡附近的一块飞地，数个世纪以来一直有着奇特的双重特质：它既荒凉偏僻、与世隔绝，又紧邻全球最重要的贸易航线之一。如今这座素来宁静的城镇旁，战争的阴云已近在眼前。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/26/world/middleeast/Oman/Oman-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "64559e6d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "64559e6d",
+          "source": "NYTimes World",
+          "title": "霍尔木兹海峡静谧小镇 战火已迫近天边",
+          "link": "https://www.nytimes.com/2026/03/27/world/middleeast/khasab-oman-hormuz-strait.html",
+          "published_at": "2026-03-27T04:01:13+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T04:01:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc4ac1b2",
+      "title": "德国军方收紧社交媒体使用规定",
+      "summary": "德国联邦国防军人员此前通过在Instagram、TikTok等社交平台分享内容，帮助军队招募到了急需的新兵。不过军方官员担忧相关内容存在安全风险，因此决定收紧针对军方人员的社交媒体使用规则。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/25/world/00int-germany-military-abcd/00int-germany-military-abcd-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e32b8a08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e32b8a08",
+          "source": "NYTimes World",
+          "title": "德国军方收紧社交媒体使用规定",
+          "link": "https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html",
+          "published_at": "2026-03-27T04:01:05+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T04:01:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4cd08d68",
+      "title": "白俄罗斯领导人向朝鲜金正恩赠步枪 双方签署友好条约",
+      "summary": "白俄罗斯领导人亚历山大·卢卡申科访问朝鲜平壤，两国均为俄罗斯对乌战争的关键支持者，此次互动中双方拉近关系，会晤期间白方向金正恩赠送步枪，两国正式签署友好条约。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b494/live/0842cd10-2989-11f1-9f06-7feda6c40cec.jpg",
+      "article_ids": [
+        "c9d97b11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c9d97b11",
+          "source": "BBC World",
+          "title": "白俄罗斯领导人向朝鲜金正恩赠步枪 双方签署友好条约",
+          "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T03:14:10+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T03:14:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9262bee",
+      "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
+      "summary": "苏州市志青博材近日完成千万元天使+轮融资，由头部全钒液流电池企业融科储能领投，老股东熔拓资本跟投，资金将用于核心材料研发及工程化推进。该企业专注氢能、液流电池领域阴离子交换膜全国产化，已实现关键性能突破，目前已向20余家国内外客户交付订单。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_3e1c107b2cb540f08f14c7919af7fc6c@16805102_oswg22749oswg1000oswg623_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "d4d778e2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "d4d778e2",
+          "source": "36氪",
+          "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
+          "link": "https://36kr.com/p/3740569636962566?f=rss",
+          "published_at": "2026-03-27T02:26:56+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T02:26:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "caad53b4",
+      "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+      "summary": "智能庭院机器人品牌汉阳科技Yarbo完成近2亿元新一轮融资，投资方涵盖财务投资机构、产业资本与地方政府引导基金，融资将用于技术研发、产品迭代与全球市场拓展。其面向中小户型的新品M系列模块化庭院机器人，海外首发众筹6小时认筹额破150万美元，目前品牌正加速全球化布局。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260326/v2_269d821f8f7b4ed38b118ca197e486b0@6022551_oswg3416981oswg2556oswg1426_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "c723f69d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "c723f69d",
+          "source": "36氪",
+          "title": "智能庭院机器人Yarbo获近2亿元融资，新品众筹首发6小时破150万美金｜硬氪首发",
+          "link": "https://36kr.com/p/3736563677396994?f=rss",
+          "published_at": "2026-03-27T02:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T02:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "87f678ed",
+      "title": "为超百家具身智能企业提供核心零部件，「知行机器人」连续完成两轮近亿元融资 | 36氪首发",
+      "summary": "灵巧手及具身智能核心零部件提供商苏州知行机器人，连续完成B+、B++两轮累计近亿元融资，本轮由山东威达领投，多家机构跟投，资金将用于产品研发、数据采集与全球市场拓展，目前已为超百家头部具身智能企业供货，是国内产品谱系最全的末端执行器厂商之一。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260327/v2_b94cfe24e2034168a01aa380e5365986@5688585_oswg102015oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "43b40694"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "43b40694",
+          "source": "36氪",
+          "title": "为超百家具身智能企业提供核心零部件，「知行机器人」连续完成两轮近亿元融资 | 36氪首发",
+          "link": "https://36kr.com/p/3740523277517063?f=rss",
+          "published_at": "2026-03-27T01:37:35+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:37:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d5a093f0",
+      "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
+      "summary": "硬氪独家获悉，云鲸联合创始人吴一昊确认即将离职，他将卸任公司管理职务，仅保留首席战略顾问一职，创业新项目暂处保密阶段。吴一昊陪伴云鲸从初创成长为估值超百亿的扫地机器人独角兽，目前已有多名云鲸核心人员出走创业，吴一昊离开后云鲸或迎来组织调整。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5e620f27"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "5e620f27",
+          "source": "36氪",
+          "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
+          "link": "https://36kr.com/p/3736574177345799?f=rss",
+          "published_at": "2026-03-27T01:35:51+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:35:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "df99e46a",
+      "title": "戴维·萨克斯不再担任AI沙皇，下一步动向公布",
+      "summary": "戴维·萨克斯已不再担任美国AI事务核心负责人一职。相较于美国第二届特朗普政府成立之初，卸任后的萨克斯将远离开华盛顿权力核心，其后续的任职动向也引发外界广泛关注。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "72915344"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "72915344",
+          "source": "TechCrunch",
+          "title": "戴维·萨克斯不再担任AI沙皇，下一步动向公布",
+          "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+          "published_at": "2026-03-27T01:26:40+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:26:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97da0ebe",
+      "title": "Anthropic就国防部相关事件诉特朗普政府 赢得法院禁制令",
+      "summary": "美国人工智能企业Anthropic就与国防部相关的纠纷对特朗普政府提起法律诉讼，近日一名联邦法官作出裁决，裁定Anthropic胜诉，下令要求特朗普政府撤销近期针对这家AI公司出台的相关限制措施。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cc04af85"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "cc04af85",
+          "source": "TechCrunch",
+          "title": "Anthropic就国防部相关事件诉特朗普政府 赢得法院禁制令",
+          "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "published_at": "2026-03-27T01:18:38+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:18:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "07253f0e",
+      "title": "中国万科、碧桂园应对持续楼市逆风",
+      "summary": "万科、碧桂园、中国海外发展三家房企将于下周公布最新业绩。中国房地产市场持续疲软，将成为拖累三家房企本次业绩表现的主要因素，当前国内地产行业仍面临持续下行压力，头部房企正积极应对行业困境。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_8k0cQOg1iA/v1/1200x-1.jpg",
+      "article_ids": [
+        "f7cdfa5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f7cdfa5d",
+          "source": "Bloomberg",
+          "title": "中国万科、碧桂园应对持续楼市逆风",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/china-vanke-country-garden-navigate-persistent-property-headwinds",
+          "published_at": "2026-03-27T01:04:24+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:04:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad15faf4",
+      "title": "伊朗战事实时更新：特朗普再次延长伊朗开放海峡最后期限 否则将遭电网打击",
+      "summary": "特朗普将要求伊朗开放油轮主要运输航道的最后期限从原定周五推迟至4月6日。这一局势变动引发全球市场震荡，股市大幅下跌，国际油价上涨，伊朗局势走向牵动全球能源与金融市场。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo5p-qcvk/26israel-iran-promo5p-qcvk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "106e7b77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "106e7b77",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：特朗普再次延长伊朗开放海峡最后期限 否则将遭电网打击",
+          "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+          "published_at": "2026-03-27T01:03:53+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T01:03:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "447fc1e4",
+      "title": "台湾最大ETF无惧战情担忧 将创资金流入纪录",
+      "summary": "台湾规模最大的股票型ETF本月有望创下资金流入历史新高，本土投资者不受伊朗战事引发的全球市场动荡影响，持续大举加仓这只偏重科技板块的产品。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.1cMgUUr2UA/v3/1200x-1.png",
+      "article_ids": [
+        "388502ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "388502ec",
+          "source": "Bloomberg",
+          "title": "台湾最大ETF无惧战情担忧 将创资金流入纪录",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/taiwan-s-largest-etf-set-for-record-inflow-defying-war-angst",
+          "published_at": "2026-03-27T00:55:40+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:55:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ccb13bca",
+      "title": "阿尔巴尼斯称澳大利亚近期燃料供应安全",
+      "summary": "澳大利亚总理安东尼·阿尔巴尼斯周五公开表态，针对近期不断增多的国内汽油短缺相关报道，向感到不安的普通家庭与企业作出安抚，明确表示澳大利亚短期内燃料供应安全有保障。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNtVbiETIk4w/v1/1200x-1.jpg",
+      "article_ids": [
+        "aadf2c2f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "aadf2c2f",
+          "source": "Bloomberg",
+          "title": "阿尔巴尼斯称澳大利亚近期燃料供应安全",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/australia-s-fuel-supply-secure-in-near-term-albanese-says",
+          "published_at": "2026-03-27T00:53:39+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:53:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e0ae7a5",
+      "title": "埃斯机器人董事长谈具身智能与机器人产业",
+      "summary": "商汤科技联合创始人、埃斯机器人董事长王晓刚，在博鳌亚洲论坛期间接受彭博社记者斯蒂芬·恩格尔访问，谈及了公司打造的“世界模型”，并就人工智能与机器人行业的发展前景分享了相关观点，本次访谈内容由彭博社发布。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2_FHB49dHQs/v3/1200x-1.jpg",
+      "article_ids": [
+        "7f95ab31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7f95ab31",
+          "source": "Bloomberg",
+          "title": "埃斯机器人董事长谈具身智能与机器人产业",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-27/ace-robotics-chairman-on-embodied-ai-robotics-video",
+          "published_at": "2026-03-27T00:48:54+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:48:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5eafe80c",
+      "title": "马来西亚称伊朗已允许其部分船只通过霍尔木兹海峡",
+      "summary": "东南亚国家马来西亚的总理于周四晚间发表电视讲话称，伊朗已经允许此前受困于波斯湾的部分马来西亚船只，经由霍尔木兹海峡通行，启程返回马来西亚本国。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUP0OeIuoCxs/v1/1200x-1.jpg",
+      "article_ids": [
+        "81c919d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "81c919d0",
+          "source": "Bloomberg",
+          "title": "马来西亚称伊朗已允许其部分船只通过霍尔木兹海峡",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-27/malaysia-says-iran-has-allowed-some-of-its-ships-through-hormuz",
+          "published_at": "2026-03-27T00:43:16+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:43:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ce231f1",
+      "title": "特朗普称应伊朗请求延长对伊能源打击暂停期",
+      "summary": "美国总统特朗普再次推迟伊朗需与美达成协议否则将面临更多打击的最后期限，他称目前美伊谈判进展“非常顺利”，相关报道由彭博社记者劳拉·戴维森采写，消息来源为彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iubkSTq4qzy4/v3/1200x-1.jpg",
+      "article_ids": [
+        "377ab473"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "377ab473",
+          "source": "Bloomberg",
+          "title": "特朗普称应伊朗请求延长对伊能源打击暂停期",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-27/trump-extends-energy-hit-pause-claiming-iran-request-video",
+          "published_at": "2026-03-27T00:42:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:42:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92dd8e81",
+      "title": "法官支持Anthropic 暂时叫停五角大楼禁令",
+      "summary": "人工智能企业Anthropic与美国五角大楼对峙数周后，取得诉讼阶段性胜利。法官批准Anthropic的初步禁制令请求，在司法程序推进期间，暂时叫停将该公司列入政府黑名单的决定，美国防部此前以供应链风险为由将Anthropic列入黑名单。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "09328889"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "09328889",
+          "source": "The Verge",
+          "title": "法官支持Anthropic 暂时叫停五角大楼禁令",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "published_at": "2026-03-27T00:33:44+00:00"
+        }
+      ],
+      "published_at": "2026-03-27T00:33:44+00:00",
+      "is_merged": false
+    }
   ]
 }

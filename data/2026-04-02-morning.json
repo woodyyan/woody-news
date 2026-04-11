@@ -843,5 +843,1569 @@
       "published_at": "2026-04-01T10:57:43+00:00",
       "edition": "morning"
     }
+  ],
+  "article_count": 60,
+  "cluster_count": 60,
+  "clusters": [
+    {
+      "id": "418c0c5e",
+      "title": "伊朗战事实时更新：特朗普称军事目标\"即将完成\"",
+      "summary": "连日来围绕伊朗战事的消息说法不一，特朗普预计将把美国在伊朗开展的军事行动定性为重大成功，并重申自身判断，称这场战事可在两至三周内结束，目前相关军事目标已接近完成。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo-8pm-fmjp/01israel-iran-promo-8pm-fmjp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e9d960ab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e9d960ab",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：特朗普称军事目标\"即将完成\"",
+          "link": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
+          "published_at": "2026-04-02T01:21:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T01:21:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d796359b",
+      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+      "summary": "00后上海交大直博生陈昊带领全交大背景00后团队，创立全球首家专注具身智能扑翼机器人的深圳鹰瞰智翼。该公司近期完成千万元天使轮融资，由启高资本领投，奇绩创坛等跟投，资金将用于产品量产、技术研发与核心引擎搭建，目前已布局两条产品线。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_e9d0b71c9f3a410a9398df4fa54a974e@6221844_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "666e650d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "666e650d",
+          "source": "36氪",
+          "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+          "link": "https://36kr.com/p/3748270618919424?f=rss",
+          "published_at": "2026-04-02T01:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T01:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3696e701",
+      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
+      "summary": "36氪独家获悉，抖音生活服务完成浦燕子接任后的第二次组织架构大调整，本次按商户GMV体量拆分线上、线下部门分层管理，重点发力中小商家补齐供给短板，同时单独拆分酒旅板块，2026年目标为交易额超越美团、实现盈利。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_a2b9e365c9ea493c921718e101cb143f@5654145_oswg67989oswg1920oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "aef58e1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "aef58e1e",
+          "source": "36氪",
+          "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
+          "link": "https://36kr.com/p/3748296456143362?f=rss",
+          "published_at": "2026-04-02T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ff9b3ee",
+      "title": "马来西亚总理安瓦尔敦促打击涉燃油价格假新闻",
+      "summary": "当前全球正面临能源危机，马来西亚国内出现诸多有关燃油与电力价格的不实传言。为提振公众信心，马来西亚总理安瓦尔·易卜拉欣呼吁该国执法机构加大行动力度，打击相关不实言论。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioo9ujyEfjFo/v1/1200x-1.jpg",
+      "article_ids": [
+        "db99bb2e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "db99bb2e",
+          "source": "Bloomberg",
+          "title": "马来西亚总理安瓦尔敦促打击涉燃油价格假新闻",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-02/malaysia-s-anwar-urges-crackdown-on-fake-news-over-fuel-prices",
+          "published_at": "2026-04-02T00:49:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:49:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1db6e343",
+      "title": "瑞银称石油供应长期中断情况下美元兑日元或升至175",
+      "summary": "瑞银集团策略师表示，尽管日本官员不断释放汇率干预言论，日元跌势仍将持续。在石油供应长期中断的情景假设下，美元兑日元汇率将在今年年底攀升至175。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA7ZCQddfXAA/v2/1200x-1.png",
+      "article_ids": [
+        "55b46549"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "55b46549",
+          "source": "Bloomberg",
+          "title": "瑞银称石油供应长期中断情况下美元兑日元或升至175",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-02/ubs-says-dollar-yen-may-rise-to-175-on-extended-oil-disruption",
+          "published_at": "2026-04-02T00:28:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:28:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e8db334d",
+      "title": "NASA宇航员在历史性探月任务中进入轨道",
+      "summary": "彭博社消息，NASA的宇航员发射升空后已进入稳定轨道，开启了具有里程碑意义的探月旅程。本次任务将带领宇航员抵达距月球表面更近的位置，这是人类五十余年来从未实现过的探月进展，意义重大。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igbDZZynUR0M/v3/1200x-1.jpg",
+      "article_ids": [
+        "7a83df04"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7a83df04",
+          "source": "Bloomberg",
+          "title": "NASA宇航员在历史性探月任务中进入轨道",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-02/nasa-astronauts-reach-orbit-in-historic-moon-mission-video",
+          "published_at": "2026-04-02T00:28:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:28:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d5491fb4",
+      "title": "战事冲击新兴市场 外资追捧马来西亚债券",
+      "summary": "伊朗冲突推高国际油价，扰动多数新兴市场经济前景，作为能源出口国的马来西亚经济前景反而得到提振，目前全球投资者正持续大举涌入马来西亚债券市场，大量资金流入该国债市。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i659LI6KG15A/v3/1200x-1.png",
+      "article_ids": [
+        "b66ba1b8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b66ba1b8",
+          "source": "Bloomberg",
+          "title": "战事冲击新兴市场 外资追捧马来西亚债券",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-02/foreigners-chase-malaysian-bonds-as-war-hits-emerging-markets",
+          "published_at": "2026-04-02T00:26:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:26:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a6b270be",
+      "title": "印尼北马鲁古省附近海域发生7.6级地震 已发布海啸预警 - 新华网",
+      "summary": "多家媒体报道，印尼北马鲁古省附近的马鲁古海峡海域发生强震，不同机构监测的震级在7.4级至7.6级之间，震源深度30公里。目前相关方面已发布海啸预警，已观测到0.3米高海啸，此次地震或引发局地海啸。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "87e9e81b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "87e9e81b",
+          "source": "Google News (中国)",
+          "title": "印尼北马鲁古省附近海域发生7.6级地震 已发布海啸预警 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45dmZsTEJuU3NxLWl1YzZkbVcwTld4V0VBak83MWlvbmFSLUNUbjFxX25VVGVYUi11SGM0QmQ3VW9XNkJsR3VnN2lfR3hZNE1uWk9zVklEQjVMY2UtdER2ekRLQUFfcmx1V0twTkc3R3Y2c1hoemtPZkYtUWMzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-02T00:20:32+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:20:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1a4bf2c",
+      "title": "中国科技企业盈利创三年最差 复苏前路坎坷",
+      "summary": "中国科技企业日前公布最新季度财报，利润增速创下三年来最低水平。这一业绩表现，让原本期待科技板块股票迎来复苏行情的投资者，对该板块后续的复苏前景增添了更多疑虑。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRvW7.EIpiro/v2/1200x-1.png",
+      "article_ids": [
+        "7fe06460"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7fe06460",
+          "source": "Bloomberg",
+          "title": "中国科技企业盈利创三年最差 复苏前路坎坷",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-02/china-s-worst-tech-earnings-in-three-years-signal-tough-comeback",
+          "published_at": "2026-04-02T00:20:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:20:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5447daf8",
+      "title": "特朗普将发表全国讲话寻求战争转圜途径",
+      "summary": "霍尔木兹海峡目前基本处于关闭状态，引发全球市场动荡，世界经济增长受到威胁。特朗普定于周三晚间发表罕见的黄金时段全国讲话，将在讲话中寻求战争转圜途径，该消息来自彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iurWvniJ87Tc/v3/1200x-1.jpg",
+      "article_ids": [
+        "4d57ec91"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4d57ec91",
+          "source": "Bloomberg",
+          "title": "特朗普将发表全国讲话寻求战争转圜途径",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-02/trump-to-seek-war-off-ramp-in-address-to-nation-video",
+          "published_at": "2026-04-02T00:14:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:14:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82af29ee",
+      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+      "summary": "近期多个财经科技领域热点事件引发关注：甲骨文全球启动大规模裁员，受影响岗位约3万人；多家国内航司宣布上调燃油附加费，涨幅达5倍；SpaceX秘密提交IPO文件，估值或超1.75万亿美元；特斯拉停产Model S与Model X；重庆监管部门称未处罚禁新手购车的张雪机车。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b878d7a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b878d7a4",
+          "source": "36氪",
+          "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+          "link": "https://36kr.com/p/3748927500387072?f=rss",
+          "published_at": "2026-04-02T00:09:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-02T00:09:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c75f93bb",
+      "title": "挂钩SK海力士的杠杆ETF全球资金流入量超特斯拉微软居首",
+      "summary": "今年以来，一只跟踪韩国人工智能芯片制造商SK海力士的杠杆基金，在同类产品中资金流入量位居全球第一，超过挂钩特斯拉、微软的相关产品。此前SK海力士股价遭大幅抛售，该数据显示投资者仍持续押注这家企业的发展前景。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAAAJ1xsvXug/v3/1200x-1.png",
+      "article_ids": [
+        "13495c92"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "13495c92",
+          "source": "Bloomberg",
+          "title": "挂钩SK海力士的杠杆ETF全球资金流入量超特斯拉微软居首",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/leveraged-sk-hynix-etf-tops-global-inflows-over-tesla-microsoft",
+          "published_at": "2026-04-01T23:57:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:57:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f2b3bb60",
+      "title": "新闻8点见丨中方回应日本部署远程导弹；三部门部署核查“优思益”问题 - 新京报",
+      "summary": "新京报《新闻8点见》涵盖两大核心事件：一是日本强行部署远程导弹，撕下长期标榜的“专守防卫”伪装，此举遭到日本静冈县民众坚决反对，也引发中方严重关切，多家媒体批评其穷兵黩武；二是国内三部门已部署核查“优思益”相关问题。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "528d0974"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "528d0974",
+          "source": "Google News (中国)",
+          "title": "新闻8点见丨中方回应日本部署远程导弹；三部门部署核查“优思益”问题 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qRFJMUTgzUmd5ZkJwMjUzLTJhR0JBdHJ1RTh5OEs4dGpkVUFqcWxYcEVFR2RmMG14VDJDZmZhZjhjYkY2Xzkta0RWOFc0VFJudUhkbDBEQzA3UEFCSFRpWXpYQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T23:42:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:42:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "919ebd39",
+      "title": "投资者受困市场波动 日本企业债发行放缓",
+      "summary": "受中东战事带来的不确定性影响，投资者难以应对市场波动，日本企业债发行节奏已放缓至2023年以来的最低水平，地缘政治动荡冲击日本债券市场，推高避险情绪，放缓了当地企业的信贷融资节奏。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ildfaxgO6CHQ/v3/1200x-1.png",
+      "article_ids": [
+        "a2c4a7fa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a2c4a7fa",
+          "source": "Bloomberg",
+          "title": "投资者受困市场波动 日本企业债发行放缓",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/japan-credit-pipeline-slows-as-investors-grapple-with-volatility",
+          "published_at": "2026-04-01T23:40:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:40:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "85032399",
+      "title": "特朗普出生公民权禁令或失败 但本届政府已然走得太远",
+      "summary": "周三上午，美国最高法院就特朗普诉芭芭拉一案开庭审理，该案挑战特朗普2025年发布的禁止出生公民权行政令。大法官对特朗普政府的主张持怀疑态度，但该案能进入审理，已凸显本土主义者自特朗普首个任期以来取得了不小进展。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7951a886"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7951a886",
+          "source": "The Verge",
+          "title": "特朗普出生公民权禁令或失败 但本届政府已然走得太远",
+          "link": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+          "published_at": "2026-04-01T23:39:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:39:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8eb2b1d5",
+      "title": "省税务局推出城乡居民办税缴费“一件事”便民举措 - fujian.gov.cn",
+      "summary": "近期多省份及地区推出税收相关便民举措、开展主题活动，福建税务推出城乡居民办税缴费“一件事”便民举措，河北、四川等地启动第35个全国税收宣传月，活动聚焦税收法治公平与合规经营；此外数据显示，上海2025年离境退税销售额同比增长80.5%。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e7716dc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e7716dc5",
+          "source": "Google News (中国)",
+          "title": "省税务局推出城乡居民办税缴费“一件事”便民举措 - fujian.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fRk9iTUJWeDFOZGZCNzUzWVNCa1hNMXA2ZE9pZGFiYmhLNzdRUlhBYjJjSjFubGhDcEF2THdzYlBmUG5zWXF6bnFMY3NxbkRUUV9NTHVMSWJfbUtKLWUzRlB4VHR2dXJxMkNEeTZITzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T23:31:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:31:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "223781bb",
+      "title": "【人民日报头版】西安交通大学：传承精神火种 服务国家战略 - news.xjtu.edu.cn",
+      "summary": "人民日报头版刊发专题报道关注西安交通大学。西安交通大学即将迎来建校130周年暨西迁70周年，该校始终传承西迁精神火种，扎根西北黄土地，坚持培育优秀人才，主动服务国家战略，甘做建设大西北的排头兵，该校深港校友共同庆贺校庆。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c9e65c76"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c9e65c76",
+          "source": "Google News (中国)",
+          "title": "【人民日报头版】西安交通大学：传承精神火种 服务国家战略 - news.xjtu.edu.cn",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nS3RPX2dtT1JzMDdXUU9QM0g0aEJpbTRWMVlBRExUNkw1eGY5SnpYbVpIRmNSTXI1N2dFcTdaNlhvU0d0N0poOVN3X3V2U1ZmRmptQ05vVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T23:07:42+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:07:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "427a917e",
+      "title": "青海省人民代表大会常务委员会关于青海省县级人民代表大会常务委员会组成人员名额的决定-政务公开 - qinghai.gov.cn",
+      "summary": "青海省人民代表大会常务委员会对外公布两项决定，分别确定青海省县级人民代表大会代表名额、县级人民代表大会常务委员会组成人员名额，同时公布最新人事任免信息，任命谢宝恩为青海省自然资源厅厅长，华中为青海省发展改革委主任。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a95d046e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a95d046e",
+          "source": "Google News (中国)",
+          "title": "青海省人民代表大会常务委员会关于青海省县级人民代表大会常务委员会组成人员名额的决定-政务公开 - qinghai.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04VDZNWXZMb3hkckM2ZlQ4OUZpS3VZTklrN25Hb1VoODQ4aEZRYUpLaTlYTVpYMVBJOFRSc3Z4WTFwX2o5alBPVTRKdUwwZ3lhZ3MxYlVZLUh1dU1pMTRxSklCb25YS19QbWVZa01WcnFuQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T23:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T23:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0545bfa3",
+      "title": "去中心化金融平台Drift遭黑客盗走数百万加密货币 暂停存取款",
+      "summary": "去中心化金融平台Drift遭黑客攻击发生加密货币被盗事件后，已暂停平台存取款业务。区块链追踪人员测算，本次失窃涉案金额达数亿美元，目前该案已是2026年迄今为止规模最大的加密货币盗窃案。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7d22c693"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7d22c693",
+          "source": "TechCrunch",
+          "title": "去中心化金融平台Drift遭黑客盗走数百万加密货币 暂停存取款",
+          "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+          "published_at": "2026-04-01T22:58:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:58:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7ed6068",
+      "title": "NASA发射阿尔忒弥斯二号任务 四名宇航员奔赴月球",
+      "summary": "周三晚间，NASA阿尔忒弥斯二号任务成功发射，这是人类时隔50多年后首次将四名宇航员送往月球。该任务隶属于NASA阿尔忒弥斯计划，该计划旨在最早于2028年实现人类重返月球。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "799cf6f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "799cf6f9",
+          "source": "The Verge",
+          "title": "NASA发射阿尔忒弥斯二号任务 四名宇航员奔赴月球",
+          "link": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+          "published_at": "2026-04-01T22:44:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:44:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c8669a7",
+      "title": "市场综述：特朗普称将打击伊朗 股市下跌油价上涨",
+      "summary": "唐纳德·特朗普表态，美国将在未来两至三周对伊朗发起猛烈打击。这一地缘政治消息引发全球金融市场波动，股市出现下跌，原油价格受避险情绪影响上涨，当前市场呈现股跌油涨的走势。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij4T.l3q_X6Y/v3/1200x-1.png",
+      "article_ids": [
+        "4f83c643"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4f83c643",
+          "source": "Bloomberg",
+          "title": "市场综述：特朗普称将打击伊朗 股市下跌油价上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/asian-stocks-to-rise-on-hopes-iran-war-nearing-end-markets-wrap",
+          "published_at": "2026-04-01T22:23:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:23:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "beb59789",
+      "title": "Anthropic为移除泄露源码下架GitHub数千仓库 公司称系误操作",
+      "summary": "人工智能企业Anthropic为移除遭泄露的自身源代码，在代码托管平台GitHub上下架了数千个相关代码仓库。该公司高管确认此次下架操作属于意外事故，目前已撤回大部分下架通知。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c38b9a20"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c38b9a20",
+          "source": "TechCrunch",
+          "title": "Anthropic为移除泄露源码下架GitHub数千仓库 公司称系误操作",
+          "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "published_at": "2026-04-01T22:12:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:12:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6be9adae",
+      "title": "特朗普称霍尔木兹海峡战后将“自然开放” 油价上涨",
+      "summary": "此前油价呈下跌走势，美国前总统唐纳德·特朗普表态称，作为全球能源运输关键要道的霍尔木兹海峡将在战争结束后自然开放，同时他表示当前冲突已接近尾声，受该言论影响，油价止跌回升。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXQsIpQYk2Oo/v0/1200x-1.jpg",
+      "article_ids": [
+        "4242266a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4242266a",
+          "source": "Bloomberg",
+          "title": "特朗普称霍尔木兹海峡战后将“自然开放” 油价上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-01/latest-oil-market-news-and-analysis-for-april-2",
+          "published_at": "2026-04-01T22:07:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:07:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "656870cc",
+      "title": "坚守图强之志 作答时代命题 - 人民网教育",
+      "summary": "人民日报头版头条聚焦上海交通大学等两所交通大学建校130周年。当前上海交大围绕教育、科技、人才一体发展建言献策，打造高校最大智算平台，推进“AI+科研、管理”协同创新，在变革中激发大学创新活力，以图强之志作答新时代发展命题。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c229671f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c229671f",
+          "source": "Google News (中国)",
+          "title": "坚守图强之志 作答时代命题 - 人民网教育",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FV3pjZWpNWmZLQUQxY2I1NVozN00yMzdpdzBXeHpManlJd3Q3WU5iNTYwb2l6dWk0VjNTN2ZDNGowdlJmOHMwNEdjWnpGUlM3QjY1QmNHSXcwaTZzWWhXak9QNkYtUDNO?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T22:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T22:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3502afe7",
+      "title": "着力推进新型电网建设 加快能源结构调整优化 - epaper.scdaily.cn",
+      "summary": "多个主流财经平台刊发相关内容，国务院总理李强提出，要持续扩大绿色电力供给，着力推进新型电网建设，加快能源结构调整优化，为经济社会高质量发展提供有力支撑。业内分析认为，后续绿电的需求与价值有望持续提升，相关产业链获得市场关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "53ec02de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "53ec02de",
+          "source": "Google News (中国)",
+          "title": "着力推进新型电网建设 加快能源结构调整优化 - epaper.scdaily.cn",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NLXVhLS1QM3NJMlJGLUtYeExSdlYtNHl1ZnhHRVR0OFk5MDAxOFlIVEFyenBQbVVJM2RmLS1sY25vOHJVajN1NVRRMVFqNkNzamtBT0pJZm1odTVjRzY5WTVNSVZIRFd4UUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T21:35:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T21:35:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "adb1c580",
+      "title": "陷入困境的YC初创公司Delve声誉进一步恶化",
+      "summary": "陷入困境的YC初创公司Delve日前遭遇新指控，被指违反客户Sim.ai的开源许可协议，盗用该客户开发的工具，将其冒充为自身成果，这一负面事件让Delve本就不佳的声誉进一步受损。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1378943a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1378943a",
+          "source": "TechCrunch",
+          "title": "陷入困境的YC初创公司Delve声誉进一步恶化",
+          "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+          "published_at": "2026-04-01T21:23:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T21:23:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "53aeb922",
+      "title": "系统故障致百度自动驾驶出租车在华瘫痪",
+      "summary": "近日，百度在中国运营的自动驾驶出租车突发系统故障，引发服务全面瘫痪，多名已经上车的乘客受故障影响被困，不同乘客被困时长不同，其中被困时间最长达到两个小时。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e5468e91"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e5468e91",
+          "source": "TechCrunch",
+          "title": "系统故障致百度自动驾驶出租车在华瘫痪",
+          "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+          "published_at": "2026-04-01T21:12:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T21:12:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d3375cb5",
+      "title": "新约会应用Sonder故意设置恼人注册流程 且收效良好",
+      "summary": "全新约会应用Sonder推出，故意设置繁琐恼人的注册流程，目前这一策略收效良好。应用内用户个人资料完全非结构化，鼓励用户搭建类似情绪板或数字拼贴的内容，风格偏向社交平台MySpace，而非职场平台领英。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dbd8df94"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "dbd8df94",
+          "source": "TechCrunch",
+          "title": "新约会应用Sonder故意设置恼人注册流程 且收效良好",
+          "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+          "published_at": "2026-04-01T20:46:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T20:46:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b635c9f8",
+      "title": "一季度初创企业融资打破所有纪录",
+      "summary": "一季度初创企业融资创下季度融资历史新纪录，这一成绩主要由投向OpenAI、Anthropic、xAI、Waymo的四笔超大额融资交易推动，同时也反映出当前初创企业融资市场整体热度较高。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "536a72ba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "536a72ba",
+          "source": "TechCrunch",
+          "title": "一季度初创企业融资打破所有纪录",
+          "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+          "published_at": "2026-04-01T20:25:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T20:25:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea9398eb",
+      "title": "阿尔忒弥斯月球基地项目存法律争议",
+      "summary": "NASA计划于周三执行阿尔忒弥斯二号任务，将送四名宇航员搭乘猎户座飞船绕月飞行，任务全程共10天，完成绕月后宇航员返回地球，本次任务将测试项目所需硬件与系统，阿尔忒弥斯月球基地项目目前存在法律争议。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1fda9e36"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1fda9e36",
+          "source": "The Verge",
+          "title": "阿尔忒弥斯月球基地项目存法律争议",
+          "link": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
+          "published_at": "2026-04-01T19:05:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T19:05:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "00f6e5b5",
+      "title": "苹果为旧款iPhone和iPad发布安全修复 抵御DarkSword攻击",
+      "summary": "苹果针对一批旧款iPhone和iPad推出安全更新，可抵御与已泄露黑客工具DarkSword相关的攻击，为旧款设备补上安全漏洞，防范黑客利用该工具发起入侵，保障用户设备与个人信息安全。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ab5fbf96"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ab5fbf96",
+          "source": "TechCrunch",
+          "title": "苹果为旧款iPhone和iPad发布安全修复 抵御DarkSword攻击",
+          "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+          "published_at": "2026-04-01T19:02:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T19:02:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "df9e2aa9",
+      "title": "以色列向黎巴嫩大片区域传递信息：什叶派必须撤离",
+      "summary": "黎巴嫩多名基督教与德鲁兹派领导人透露，以色列已发布大范围撤离警告，还向他们施压，要求将什叶派穆斯林逐出黎巴嫩南部城镇，明确向黎境内大片区域传达了驱逐什叶派的立场。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "070168b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "070168b6",
+          "source": "NYTimes World",
+          "title": "以色列向黎巴嫩大片区域传递信息：什叶派必须撤离",
+          "link": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html",
+          "published_at": "2026-04-01T18:50:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T18:50:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "527917f2",
+      "title": "Meta天然气使用量激增 发电量可供应南达科他州",
+      "summary": "美国科技企业Meta打造的全新Hyperion AI数据中心，将由10座新建天然气发电厂供电。这批新增天然气发电项目的总发电量规模可观，可满足美国南达科他州全州的用电需求，凸显出AI基础设施庞大的能源消耗规模。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "104602a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "104602a7",
+          "source": "TechCrunch",
+          "title": "Meta天然气使用量激增 发电量可供应南达科他州",
+          "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+          "published_at": "2026-04-01T18:35:36+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T18:35:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac33c2bd",
+      "title": "从战乱加沙撤离 11名幼儿返家相拥泪目",
+      "summary": "十一名巴勒斯坦幼儿在加沙战争爆发初期早产，此前他们从加沙一座被围困的医院转移至埃及，近日这些幼儿已返回加沙地带的家园，目前这片区域已沦为废墟，孩子们与亲人重逢时相拥落泪。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-gaza-children-sub-new-fix-woo-zqpv/01int-gaza-children-sub-new-fix-woo-zqpv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "915b7674"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "915b7674",
+          "source": "NYTimes World",
+          "title": "从战乱加沙撤离 11名幼儿返家相拥泪目",
+          "link": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
+          "published_at": "2026-04-01T18:31:36+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T18:31:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cdbef76",
+      "title": "如今万物皆为iPhone",
+      "summary": "这是苹果公司50周年专题系列报道的组成部分。内容提到，iPhone问世近20年，当初各界就已预料它会产生巨大影响力，但其实际影响力远超各方预期，直至今日，它依旧是行业内最具分量的标杆产品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6668e0ff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6668e0ff",
+          "source": "The Verge",
+          "title": "如今万物皆为iPhone",
+          "link": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
+          "published_at": "2026-04-01T18:02:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T18:02:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e7806ae",
+      "title": "2026年愚人节：最佳与最尴尬恶作剧",
+      "summary": "早有观点指出，品牌结合愚人节做恶作剧营销，向来很少能收获好效果。2026年，凡是在社交媒体、互联网有布局，或是推出了AI聊天机器人的企业，愚人节当天实际上仅剩下四种操作可选。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "49df5467"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "49df5467",
+          "source": "The Verge",
+          "title": "2026年愚人节：最佳与最尴尬恶作剧",
+          "link": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
+          "published_at": "2026-04-01T17:59:04+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:59:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "65cfcf75",
+      "title": "起亚紧凑型纯电EV3今年将登陆美国 续航达320英里",
+      "summary": "周三，起亚在纽约国际车展宣布，旗下紧凑型纯电SUV EV3将于2026年末登陆美国市场。该车型早在2024年就已在韩国、欧洲等海外市场上市，即将进入美国的为2027款车型，标称续航可达320英里。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "69c64d2a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "69c64d2a",
+          "source": "The Verge",
+          "title": "起亚紧凑型纯电EV3今年将登陆美国 续航达320英里",
+          "link": "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch",
+          "published_at": "2026-04-01T17:50:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:50:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6cac26e",
+      "title": "雄安新区九周年 看“未来之城”都有哪些新变化？ - news.cctv.cn",
+      "summary": "雄安新区设立已满九周年，多家中央主流媒体推出相关报道，通过九图打卡、专题评论、微视频等多种形式，展现这座“未来之城”九年来的全新发展变化，解读政绩观相关要求，呈现雄安的发展活力与民生新图景。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b889ad47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b889ad47",
+          "source": "Google News (中国)",
+          "title": "雄安新区九周年 看“未来之城”都有哪些新变化？ - news.cctv.cn",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SHpuZE9ycDh4RV9UWHNqbm1WXzBUUGFqdENvQk40QWtTOGo3ZGhQbnFONDNJVUNUVHpnN1F0dlFQdmZPeW4yWnZLcWZYNm41N0Y3ZTYzaHlQdGwzcU5fdFhHNVJlcV90WWdSeG1GMDk1MHJCNWpJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T17:49:48+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:49:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3431302c",
+      "title": "种族歧视构成犯罪：巴西审判一名涉种族歧视言行的游客",
+      "summary": "一名阿根廷白人女性游客因被指控种族歧视，在巴西接受审判，若罪名成立，她可能面临多年的监禁。这起跨国案件目前已经在阿根廷和巴西两国引发了激烈的公众讨论。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/00int-brazil-argentina-racism-mtbc/00int-brazil-argentina-racism-mtbc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c8b493b9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c8b493b9",
+          "source": "NYTimes World",
+          "title": "种族歧视构成犯罪：巴西审判一名涉种族歧视言行的游客",
+          "link": "https://www.nytimes.com/2026/04/01/world/americas/brazil-argentina-tourist-racism-trial.html",
+          "published_at": "2026-04-01T17:26:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:26:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8cfbd7d6",
+      "title": "韶音OpenRun Pro 2耳机迎来数月来最低价",
+      "summary": "随着天气转暖，户外运动愈发受到青睐，骨传导耳机可让使用者听音同时保持对周边环境的感知，是跑步、步行等运动的理想装备。韶音开启春季促销，活动截止4月7日，多款产品降价，其中OpenRun Pro 2已迎来数月来最低价。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a0dd538f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a0dd538f",
+          "source": "The Verge",
+          "title": "韶音OpenRun Pro 2耳机迎来数月来最低价",
+          "link": "https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale",
+          "published_at": "2026-04-01T17:11:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:11:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cda69855",
+      "title": "Cameo与TikTok合作提升人气",
+      "summary": "定制视频服务商Cameo与海外短视频平台TikTok达成合作，推出全新功能整合。本次合作允许美国地区的创作者直接通过TikTok应用提供个性化定制视频，以此扩大平台影响力与受众覆盖，提升Cameo的人气。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d79b15d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d79b15d8",
+          "source": "TechCrunch",
+          "title": "Cameo与TikTok合作提升人气",
+          "link": "https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/",
+          "published_at": "2026-04-01T17:11:20+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:11:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f9599777",
+      "title": "特朗普将就战争发表黄金时段讲话 外界对其下一步动作存疑",
+      "summary": "目前外界对美国总统特朗普的下一步动作存疑，特朗普计划就战争相关议题发表黄金时段讲话。当前特朗普在美国国内面临越来越大的压力，舆论要求其避免卷入长期冲突。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd5/live/b65924b0-2dd7-11f1-a186-bdbec3fa8607.jpg",
+      "article_ids": [
+        "9f7941fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9f7941fd",
+          "source": "BBC World",
+          "title": "特朗普将就战争发表黄金时段讲话 外界对其下一步动作存疑",
+          "link": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T17:07:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T17:07:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9003f11d",
+      "title": "WhatsApp通知数百名安装了政府间谍软件厂商制作的假应用的用户",
+      "summary": "Meta旗下即时通讯平台WhatsApp通报，已识别出约200名受骗用户，这些用户不慎被骗安装了仿冒WhatsApp的虚假应用，该假应用实际为政府背景的意大利厂商开发的间谍软件，平台已向受影响用户发出通知。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b92bdad1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b92bdad1",
+          "source": "TechCrunch",
+          "title": "WhatsApp通知数百名安装了政府间谍软件厂商制作的假应用的用户",
+          "link": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+          "published_at": "2026-04-01T16:34:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:34:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9fd742bb",
+      "title": "特朗普最新退出北约言论对北约意味着什么？",
+      "summary": "特朗普发表涉及退出北约的最新言论，引发国际社会对北约这一军事联盟发展走向的关注。此前特朗普批评北约成员国，指责其未能支持美国在伊朗的相关目标，各方正关注相关言论将对北约产生何种影响。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg",
+      "article_ids": [
+        "3d62317e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3d62317e",
+          "source": "BBC World",
+          "title": "特朗普最新退出北约言论对北约意味着什么？",
+          "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T16:31:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:31:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c92ffee3",
+      "title": "遇难者家属挤满希腊法庭 希腊最严重列车撞车事故开审",
+      "summary": "2023年希腊发生该国史上最严重列车相撞事故，造成57人死亡。日前该事故相关审判正式启动，大量遇难者家属涌入法庭，本案共有36人被指控，预计整个审判过程将持续数年。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b342/live/338a9380-2de0-11f1-9c84-b558be249093.jpg",
+      "article_ids": [
+        "56d6b651"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "56d6b651",
+          "source": "BBC World",
+          "title": "遇难者家属挤满希腊法庭 希腊最严重列车撞车事故开审",
+          "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T16:30:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:30:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9306ddc8",
+      "title": "我将满客厅廉价宜家音箱与搜诺思、博士对比测试",
+      "summary": "测试者将满客厅廉价宜家音箱与知名音响品牌搜诺思、博士开展对比测试。其中宜家仅售10美元的Kallsup蓝牙音箱色彩丰富，音质表现优于价格预期，支持最多百台串联，虽无额外功能、音质不算惊艳，但该价位表现已十分出色。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0918b71e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0918b71e",
+          "source": "The Verge",
+          "title": "我将满客厅廉价宜家音箱与搜诺思、博士对比测试",
+          "link": "https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review",
+          "published_at": "2026-04-01T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9fd22967",
+      "title": "目击者称布隆迪一弹药库爆炸致平民死亡",
+      "summary": "周二晚间，布隆迪布琼布拉市发生剧烈爆炸，爆炸源自当地一处弹药库。据目击者消息，此次爆炸已造成平民死亡，爆炸还摧毁多处民宅，在整座城市引发了大范围的民众恐慌。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "11c3300d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "11c3300d",
+          "source": "BBC World",
+          "title": "目击者称布隆迪一弹药库爆炸致平民死亡",
+          "link": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T16:26:19+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:26:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5bcb5867",
+      "title": "Snapchat借“Reals”玩笑嘲讽Instagram多次抄袭",
+      "summary": "愚人节当天，Snap公司玩梗整活，将Snapchat平台内类似Instagram Reels的竖屏短视频板块Spotlight更名为“Reals”，发布了由联合创始人兼CEO埃文·斯皮格尔出镜的相关视频，借此嘲讽Instagram多次抄袭。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2534b068"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2534b068",
+          "source": "The Verge",
+          "title": "Snapchat借“Reals”玩笑嘲讽Instagram多次抄袭",
+          "link": "https://www.theverge.com/tech/905272/snapchat-reals-spotlight-instagram-feed-april-fools-day-2026",
+          "published_at": "2026-04-01T16:24:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:24:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a009da1",
+      "title": "体验居住开普敦：市中心七成住房供游客使用",
+      "summary": "南非沿海城市开普敦正面临可负担住房短缺问题，当地市中心七成住房供游客使用，核心地段优质房产多被游客占用，迫使许多本地居民搬迁至远离城市中心的区域居住。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-safrica-housing-promo-pzlw/01int-safrica-housing-promo-pzlw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d1dc4c33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d1dc4c33",
+          "source": "NYTimes World",
+          "title": "体验居住开普敦：市中心七成住房供游客使用",
+          "link": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
+          "published_at": "2026-04-01T16:01:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T16:01:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b88276e3",
+      "title": "法国检察官称挫败的针对美国银行袭击案与一亲伊朗组织有关",
+      "summary": "法国检察官认定，此前被挫败的一起针对美国银行的袭击阴谋，与一个亲伊朗组织存在关联。该组织还涉嫌在比利时、英国、荷兰三国，参与了一系列针对犹太目标的袭击事件。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-france-attack-khjt/01int-france-attack-khjt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "34150bf0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "34150bf0",
+          "source": "NYTimes World",
+          "title": "法国检察官称挫败的针对美国银行袭击案与一亲伊朗组织有关",
+          "link": "https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html",
+          "published_at": "2026-04-01T15:58:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T15:58:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b6dae84",
+      "title": "特朗普政府的反垄断蜜月期已结束",
+      "summary": "上周一，美国司法部代理反垄断主管奥米德·阿塞菲，在乔治华盛顿大学与媒体MLex联合举办的活动上，以经典影片《教父》中的知名台词作为演讲标题，传递出反垄断执法将转向收紧的信号，宣告特朗普政府的反垄断蜜月期正式结束。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "644236d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "644236d7",
+          "source": "The Verge",
+          "title": "特朗普政府的反垄断蜜月期已结束",
+          "link": "https://www.theverge.com/policy/905222/antitrust-trump-tech-live-nation",
+          "published_at": "2026-04-01T15:55:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T15:55:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c2b2a3a",
+      "title": "温度丨“背篓轮渡”续写温暖 - 新华网",
+      "summary": "重庆便民知名“背篓轮渡”近日完成焕新，新船“新渝忠客2180”正式启航，换船后仍保持原有票价不变，继续延续服务沿岸民众的温暖底色。建造该新船的制造企业，也实现了从濒临关门停产到手握十亿元订单的逆袭发展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f0558da7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f0558da7",
+          "source": "Google News (中国)",
+          "title": "温度丨“背篓轮渡”续写温暖 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkx2NGJXMG8xNEpBUkY2Z2VrM3dTdHd3TlJlV2RsczJFc0NoVTNnZEFPR084YXRweGU1cFpCZk11Q1Q1R3Q3SnhzWWlocm82M1h0d2prdjc2d01iMzNQOGVOMWRpZVhGZEpvLXd5OU1mcnZxUWw3ZGVDLWpkazk2NlRLc2tuUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-01T14:41:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T14:41:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b61946c",
+      "title": "南非军队进驻犯罪热点地区协助打击帮派",
+      "summary": "南非启动一项为期一年的打击帮派专项行动，已向全国九个省份中的五个部署军队，军队将进驻这些省份的犯罪热点区域，协助当地执法力量打击帮派犯罪，改善相关区域的治安状况。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604d/live/c73f2440-2dc4-11f1-b372-019434fa5473.jpg",
+      "article_ids": [
+        "d9287146"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d9287146",
+          "source": "BBC World",
+          "title": "南非军队进驻犯罪热点地区协助打击帮派",
+          "link": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T14:35:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T14:35:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "721d9a1f",
+      "title": "角逐匈牙利权力的前欧尔班盟友彼得·毛焦尔",
+      "summary": "彼得·毛焦尔曾是匈牙利领导人维克托·欧尔班的盟友，如今角逐该国权力。自欧尔班2010年首次胜选，开启至今连续四届的执政生涯以来，彼得·毛焦尔是欧尔班统治地位面临的最大威胁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/ab563050-2dbc-11f1-8717-b31b777dcd62.jpg",
+      "article_ids": [
+        "cf583b55"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cf583b55",
+          "source": "BBC World",
+          "title": "角逐匈牙利权力的前欧尔班盟友彼得·毛焦尔",
+          "link": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T13:43:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T13:43:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1bba38b",
+      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+      "summary": "成立12年的上市两轮电动车企业小牛电动，宣布all in AI转型，将其视作下一个十年的护城河。目前已在新车搭载自研小牛灵犀AIOS与面向骑行的AI智能体，坚持现有业务+AI的路线，依托十年积累的海量用户出行数据，打造更安全便捷的AI智能两轮出行体验。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_27dd5fcec23c463994ab142a433ce648@1199336245_oswg599289oswg1080oswg718_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "f6f81910"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f6f81910",
+          "source": "36氪",
+          "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+          "link": "https://36kr.com/p/3748233045541637?f=rss",
+          "published_at": "2026-04-01T12:21:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:21:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "05eee052",
+      "title": "遭受重创的意大利人直面世界杯出局的\"第三次末日\"",
+      "summary": "意大利男足连续第三次无缘世界杯正赛，这一结果令意大利举国深受打击。目前无论是普通球迷还是球队管理层，都在复盘本次世预赛征程，反思问题所在，梳理球队此次失利的原因。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfb/live/a7fefac0-2dd7-11f1-a186-bdbec3fa8607.jpg",
+      "article_ids": [
+        "d9463806"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d9463806",
+          "source": "BBC World",
+          "title": "遭受重创的意大利人直面世界杯出局的\"第三次末日\"",
+          "link": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T12:05:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T12:05:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a3c70d5",
+      "title": "大规模自动驾驶出租车故障致中国一城市交通中断",
+      "summary": "中国某城市发生大规模自动驾驶出租车故障事件，涉事的百度自动驾驶车辆至少达百辆，故障造成当地道路交通中断。针对此次故障事件，百度尚未回应外界发出的置评请求。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92a/live/271914a0-2dbd-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "053c38ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "053c38ec",
+          "source": "BBC World",
+          "title": "大规模自动驾驶出租车故障致中国一城市交通中断",
+          "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T11:34:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:34:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9afee84",
+      "title": "巴西法官叫停糖面包山滑索项目",
+      "summary": "巴西一名法官近日叫停了里约热内卢糖面包山的滑索建设项目。该项目计划连接当地热门旅游景点糖面包山与乌尔卡山，原本计划打造特色山地旅游体验，自规划推出以来便一直颇具争议。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/c6537470-2db3-11f1-927b-f98ec5617a78.jpg",
+      "article_ids": [
+        "67cca6a9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "67cca6a9",
+          "source": "BBC World",
+          "title": "巴西法官叫停糖面包山滑索项目",
+          "link": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-01T11:17:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:17:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "29fb0e6a",
+      "title": "柬埔寨一特大洗钱巨头落网",
+      "summary": "原柬埔寨某金融集团主席，当地特大洗钱犯罪核心头目，日前已被戴上手铐押解至中国。这是针对有组织犯罪的调查范围持续扩大过程中，抓获的又一名高级别犯罪人员，相关涉恶打击行动正不断推进。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/01int-moneylaundering-huione-hflk/01int-moneylaundering-huione-hflk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0105e4e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0105e4e9",
+          "source": "NYTimes World",
+          "title": "柬埔寨一特大洗钱巨头落网",
+          "link": "https://www.nytimes.com/2026/04/01/world/asia/china-cambodia-huione-extradition.html",
+          "published_at": "2026-04-01T11:00:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T11:00:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4666a952",
+      "title": "2026有智青年挑战赛，报名通道全面开启！",
+      "summary": "2026有智青年挑战赛报名通道已全面开启，截止时间为2026年4月30日，决赛将于今年夏天登上中国创投圈重要舞台WAVES。本次大赛设三个AI相关赛道，不关注参赛者背景，只要求产品能助力增强人类能力，面向全球符合条件的个人或创业团队开放。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260401/v2_68af13b4e55647d9ad5fcd39ebfa65a4@5862220_oswg399329oswg1080oswg1623_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b932b808"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b932b808",
+          "source": "36氪",
+          "title": "2026有智青年挑战赛，报名通道全面开启！",
+          "link": "https://36kr.com/p/3748145916740100?f=rss",
+          "published_at": "2026-04-01T10:57:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-01T10:57:43+00:00",
+      "is_merged": false
+    }
   ]
 }

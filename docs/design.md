@@ -12,6 +12,7 @@
 
 - **自动化采集**：GitHub Actions 每天定时抓取，无需人工干预
 - **AI 驱动**：英文新闻自动翻译，所有新闻自动生成摘要总结
+- **主题聚合**：同一期次内自动合并同主题重复报道，减少信息噪音
 - **简洁阅读**：无广告、无干扰，专注内容，适配手机
 - **零成本**：GitHub + Vercel 免费额度完全覆盖
 
@@ -140,6 +141,37 @@
 | `lang` | string | ✅ | 原始语言：`en` / `zh` |
 | `published_at` | string | ✅ | 原文发布时间 ISO 8601 |
 
+### 主题聚合字段（V1）
+
+每个期次文件在保留 `articles` 的同时，新增 `clusters`：
+
+```json
+{
+  "article_count": 60,
+  "cluster_count": 55,
+  "clusters": [
+    {
+      "id": "cluster_xxx",
+      "title": "OpenAI 发布 GPT-5 并推进企业落地",
+      "summary": "多家媒体围绕同一发布事件进行了报道，聚合后保留统一标题与摘要。",
+      "category": "ai",
+      "image": "https://...",
+      "article_ids": ["a1", "a2", "a9"],
+      "article_count": 3,
+      "source_count": 3,
+      "sources": ["TechCrunch", "The Verge", "MIT Technology Review"],
+      "articles": [
+        { "source": "TechCrunch", "title": "...", "link": "..." }
+      ],
+      "published_at": "2026-03-26T14:30:00Z",
+      "is_merged": true
+    }
+  ]
+}
+```
+
+V1 仅在**同一期次内**做聚合：早报内聚合、晚报内聚合，不跨期合并。
+
 ### 数据索引文件：`data/index.json`
 
 ```json
@@ -171,9 +203,20 @@
 5. 调用火山引擎大模型 API：
    - 英文新闻 → 翻译标题 + 生成中文总结
    - 中文新闻 → 生成精炼总结
-6. 组装 JSON 数据，写入 data/YYYY-MM-DD.json
-7. 更新 data/index.json
-8. Git commit + push
+6. 组装 JSON 数据，先保留原始 `articles`
+7. 对同一期次新闻做主题聚合，生成 `clusters`
+8. 写入 data/YYYY-MM-DD[-edition].json
+9. 更新 data/index.json
+10. Git commit + push
+```
+
+### 主题聚合策略（V1）
+
+```text
+1. 规则预筛：同分类、发布时间接近、标题/关键词相似
+2. 对候选对调用大模型，判断是否是同一主题
+3. 将同主题新闻聚类，生成统一标题、摘要、来源列表
+4. 前端优先展示 clusters，保留 articles 兜底
 ```
 
 ### 大模型 Prompt 设计
@@ -258,6 +301,8 @@ openai        # 火山引擎 API（OpenAI 兼容格式）
 ### 交互细节
 
 - 分类 Tab 切换为前端过滤，不刷新页面
+- 默认展示主题卡片，并实时显示“主题数 / 报道数”
+- 聚合主题卡片底部展示“相关报道”来源入口，可跳转各家原文
 - 英文来源新闻显示「译」标签，可展开查看原文标题
 - 新闻卡片点击跳转原文链接（新窗口打开）
 - 无图新闻使用分类对应的默认配色占位

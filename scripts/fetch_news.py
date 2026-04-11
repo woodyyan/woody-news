@@ -5,17 +5,16 @@ Woody News — 新闻采集主脚本
 
 import json
 import hashlib
-import os
-import sys
 import logging
+import re
 from datetime import datetime, timezone, timedelta
+from difflib import SequenceMatcher
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import feedparser
 import httpx
 
-from translator import translate_and_summarize
+from translator import judge_same_topic, summarize_cluster, translate_and_summarize
 
 # 日志配置
 logging.basicConfig(
@@ -43,6 +42,17 @@ EDITION = "morning" if NOW_HOUR < 14 else "evening"
 MAX_PER_SOURCE = 10
 # 总新闻上限
 MAX_TOTAL = 60
+# 同主题聚合：发布时间窗口（小时）
+CLUSTER_TIME_WINDOW_HOURS = 36
+# 模型判定阈值
+CLUSTER_CONFIDENCE_THRESHOLD = 0.85
+
+EN_STOPWORDS = {
+    "about", "after", "amid", "analyst", "announces", "article", "because", "could",
+    "from", "into", "latest", "launch", "launches", "over", "says", "said", "their",
+    "them", "this", "that", "these", "those", "update", "updates", "with", "what",
+    "when", "where", "will", "news", "china", "world", "business", "tech", "live",
+}
 
 # HTTP 请求头
 HEADERS = {
@@ -193,6 +203,188 @@ def _strip_html(text: str) -> str:
     return text
 
 
+def _normalize_text(text: str | None) -> str:
+    """归一化文本，便于做相似度判断"""
+    text = (text or "").lower()
+    text = re.sub(r"https?://\S+", " ", text)
+    text = re.sub(r"[^\w\u4e00-\u9fff]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _english_tokens(text: str) -> set[str]:
+    tokens = {token for token in re.findall(r"[a-z0-9]{3,}", text)}
+    return {token for token in tokens if token not in EN_STOPWORDS}
+
+
+def _cjk_ngrams(text: str, n: int = 4) -> set[str]:
+    cleaned = re.sub(r"[^\u4e00-\u9fff]", "", text)
+    if len(cleaned) < n:
+        return set()
+    return {cleaned[i : i + n] for i in range(len(cleaned) - n + 1)}
+
+
+def _combined_title(article: dict) -> str:
+    return " ".join(filter(None, [article.get("title"), article.get("title_original")]))
+
+
+def _combined_summary(article: dict) -> str:
+    return " ".join(filter(None, [article.get("summary"), article.get("summary_original")]))
+
+
+def _text_similarity(text_a: str, text_b: str) -> float:
+    if not text_a or not text_b:
+        return 0.0
+    return SequenceMatcher(None, text_a, text_b).ratio()
+
+
+def _keyword_overlap(article_a: dict, article_b: dict) -> int:
+    title_a = _normalize_text(_combined_title(article_a))
+    title_b = _normalize_text(_combined_title(article_b))
+    english_overlap = len(_english_tokens(title_a) & _english_tokens(title_b))
+    cjk_overlap = len(_cjk_ngrams(title_a) & _cjk_ngrams(title_b))
+    return english_overlap if english_overlap else min(cjk_overlap, 4)
+
+
+def _title_similarity(article_a: dict, article_b: dict) -> float:
+    return _text_similarity(_normalize_text(_combined_title(article_a)), _normalize_text(_combined_title(article_b)))
+
+
+def _hours_between(iso_a: str, iso_b: str) -> float:
+    dt_a = datetime.fromisoformat(iso_a)
+    dt_b = datetime.fromisoformat(iso_b)
+    return abs((dt_a - dt_b).total_seconds()) / 3600
+
+
+def _candidate_score(article_a: dict, article_b: dict) -> float:
+    title_sim = _title_similarity(article_a, article_b)
+    keyword_overlap = _keyword_overlap(article_a, article_b)
+    return max(title_sim, min(keyword_overlap / 5, 0.8))
+
+
+def _is_same_topic_candidate(article_a: dict, article_b: dict) -> bool:
+    if article_a.get("category") != article_b.get("category"):
+        return False
+
+    if _hours_between(article_a["published_at"], article_b["published_at"]) > CLUSTER_TIME_WINDOW_HOURS:
+        return False
+
+    title_sim = _title_similarity(article_a, article_b)
+    keyword_overlap = _keyword_overlap(article_a, article_b)
+
+    return (
+        title_sim >= 0.72
+        or (title_sim >= 0.58 and keyword_overlap >= 2)
+        or keyword_overlap >= 4
+    )
+
+
+def _find(parent: list[int], idx: int) -> int:
+    if parent[idx] != idx:
+        parent[idx] = _find(parent, parent[idx])
+    return parent[idx]
+
+
+def _union(parent: list[int], a: int, b: int):
+    root_a = _find(parent, a)
+    root_b = _find(parent, b)
+    if root_a != root_b:
+        parent[root_b] = root_a
+
+
+def build_clusters(articles: list[dict]) -> list[dict]:
+    """对同一期次新闻做同主题聚合，保留原始 articles 供回退使用"""
+    if not articles:
+        return []
+
+    parent = list(range(len(articles)))
+    candidates = []
+    for i in range(len(articles)):
+        for j in range(i + 1, len(articles)):
+            article_a = articles[i]
+            article_b = articles[j]
+            if _is_same_topic_candidate(article_a, article_b):
+                candidates.append((i, j, _candidate_score(article_a, article_b)))
+
+    candidates.sort(key=lambda item: item[2], reverse=True)
+    logger.info(f"🧩 主题聚合候选对：{len(candidates)}")
+
+    for i, j, score in candidates:
+        if _find(parent, i) == _find(parent, j):
+            continue
+
+        article_a = articles[i]
+        article_b = articles[j]
+        title_sim = _title_similarity(article_a, article_b)
+        strong_keyword_overlap = _keyword_overlap(article_a, article_b) >= 3
+        if title_sim >= 0.92 or (title_sim >= 0.84 and strong_keyword_overlap):
+            _union(parent, i, j)
+            logger.info(
+                f"  🔗 规则合并主题: {article_a['source']} + {article_b['source']} "
+                f"(title_sim={title_sim:.2f})"
+            )
+            continue
+
+        result = judge_same_topic(article_a, article_b)
+        if result["same_topic"] and result["confidence"] >= CLUSTER_CONFIDENCE_THRESHOLD:
+            _union(parent, i, j)
+            logger.info(
+                f"  🔗 模型合并主题: {article_a['source']} + {article_b['source']} "
+                f"(score={score:.2f}, confidence={result['confidence']:.2f})"
+            )
+
+    groups: dict[int, list[int]] = {}
+    for idx in range(len(articles)):
+        root = _find(parent, idx)
+        groups.setdefault(root, []).append(idx)
+
+    clusters = []
+    for indexes in groups.values():
+        grouped_articles = [articles[idx] for idx in indexes]
+        grouped_articles.sort(key=lambda item: item["published_at"], reverse=True)
+
+        merged = summarize_cluster(grouped_articles)
+        latest = grouped_articles[0]
+        source_order = []
+        seen_sources = set()
+        related_articles = []
+        for article in grouped_articles:
+            if article["source"] not in seen_sources:
+                seen_sources.add(article["source"])
+                source_order.append(article["source"])
+            related_articles.append(
+                {
+                    "id": article["id"],
+                    "source": article["source"],
+                    "title": article["title"],
+                    "link": article["link"],
+                    "published_at": article["published_at"],
+                }
+            )
+
+        image = next((article.get("image") for article in grouped_articles if article.get("image")), None)
+        cluster_id_seed = "|".join(sorted(article["id"] for article in grouped_articles))
+        clusters.append(
+            {
+                "id": generate_id(cluster_id_seed),
+                "title": merged.get("title") or latest["title"],
+                "summary": merged.get("summary") or latest["summary"],
+                "category": latest["category"],
+                "image": image,
+                "article_ids": [article["id"] for article in grouped_articles],
+                "article_count": len(grouped_articles),
+                "source_count": len(source_order),
+                "sources": source_order,
+                "articles": related_articles,
+                "published_at": latest["published_at"],
+                "is_merged": len(grouped_articles) > 1,
+            }
+        )
+
+    clusters.sort(key=lambda item: item["published_at"], reverse=True)
+    logger.info(f"🧩 主题聚合完成：{len(articles)} 条报道 → {len(clusters)} 个主题")
+    return clusters
+
+
 def process_articles(raw_articles: list[dict]) -> list[dict]:
     """调用 AI 翻译和摘要处理"""
     processed = []
@@ -259,17 +451,24 @@ def save_data(articles: list[dict]):
     # 限制总数
     all_articles = all_articles[:MAX_TOTAL]
 
+    clusters = build_clusters(all_articles)
+
     output = {
         "date": TODAY,
         "edition": EDITION,
         "updated_at": datetime.now(BJT).isoformat(),
+        "article_count": len(all_articles),
+        "cluster_count": len(clusters),
         "articles": all_articles,
+        "clusters": clusters,
     }
 
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    logger.info(f"💾 已保存 {len(all_articles)} 条新闻到 {data_path.name}（新增 {len(new_articles)} 条）")
+    logger.info(
+        f"💾 已保存 {len(all_articles)} 条新闻到 {data_path.name}（新增 {len(new_articles)} 条，聚合为 {len(clusters)} 个主题）"
+    )
 
 
 def update_index():

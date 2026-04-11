@@ -843,5 +843,1569 @@
       "published_at": "2026-03-28T12:00:00+00:00",
       "edition": "evening"
     }
+  ],
+  "article_count": 60,
+  "cluster_count": 60,
+  "clusters": [
+    {
+      "id": "35b3d649",
+      "title": "麦金塔永久改变了计算机行业",
+      "summary": "苹果极具传奇色彩的麦金塔电脑留下两大遗产，分别是产品本身，以及那支经典的超级碗广告。该广告投放于史蒂夫·乔布斯发布这款电脑的数天前，这款电脑既奠定了乔布斯的传奇地位，也间接导致他早年被苹果逐出公司。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9cf62c1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9cf62c1f",
+          "source": "The Verge",
+          "title": "麦金塔永久改变了计算机行业",
+          "link": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+          "published_at": "2026-03-29T12:30:36+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T12:30:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9cfe6c4",
+      "title": "伊朗战事最新快讯：以色列袭击德黑兰 地区外交官齐聚巴基斯坦举行会谈",
+      "summary": "以色列宣布对德黑兰及伊朗境内其他区域的基础设施发动多轮打击，伊朗已采取反击行动。目前，沙特、埃及、土耳其的官员正于巴基斯坦开会，各方希望寻找到可行途径结束当前战事。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/29/multimedia/29mideast-promo-74rfd/29mideast-promo-74rfd-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2ee89cb2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2ee89cb2",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新快讯：以色列袭击德黑兰 地区外交官齐聚巴基斯坦举行会谈",
+          "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
+          "published_at": "2026-03-29T12:28:31+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T12:28:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ddf409d9",
+      "title": "新加坡与澳大利亚采取截然不同的住房政策",
+      "summary": "当前首次购房者愈发难以负担房价，新加坡与澳大利亚采取了截然不同的住房政策。澳大利亚放宽首付要求、允许提取退休储蓄购房，被指只会推高房价；新加坡允许使用强制储蓄购房，同时以重税抑制多套购房，文章通过两地购房者案例探讨相关政策实际效果。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijto2IuZhy60/v3/1200x-1.jpg",
+      "article_ids": [
+        "9b3da94e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9b3da94e",
+          "source": "Bloomberg",
+          "title": "新加坡与澳大利亚采取截然不同的住房政策",
+          "link": "https://www.bloomberg.com/news/videos/2026-03-29/how-singapore-and-australia-differ-on-housing-video",
+          "published_at": "2026-03-29T12:04:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T12:04:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ac71a78",
+      "title": "苹果漫长激烈的App Store反垄断之战",
+      "summary": "这是科技类周更通讯《The Stepback》的内容，该通讯每期解读一则核心科技事件，本期聚焦苹果App Store反垄断争端。通讯每周美国东部时间早8点推送至订阅者邮箱，用户可在线订阅，想要了解更多大型科技企业法律纠纷可跟进记者阿迪·罗伯逊。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "23530881"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "23530881",
+          "source": "The Verge",
+          "title": "苹果漫长激烈的App Store反垄断之战",
+          "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+          "published_at": "2026-03-29T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a86c0b95",
+      "title": "习近平谈政绩观丨新官上任，不能只烧“三把火” - 中国网新闻中心",
+      "summary": "中国网新闻中心发布习近平谈政绩观的相关内容，针对新任领导干部的履职误区明确提出，新官上任不能只烧“三把火”，旨在引导各级新任干部树立正确政绩观，纠正履职中急于求成、重显绩轻长远的错误倾向，推动各项工作扎实开展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4e6edd17"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4e6edd17",
+          "source": "Google News (中国)",
+          "title": "习近平谈政绩观丨新官上任，不能只烧“三把火” - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqVnhnSURwb2ItR0paa01zdDFpSk9IWXNIZmpOV0lRMXE0bFlOVUpCS1dtWEg2NC0zcDA3TkFldEhPQWNaajhfai0wVjlweEJUWUxQLXdMT0hmQkZGb3BBaDFmOTg2UTRyTnZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T11:57:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:57:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "86a6661e",
+      "title": "伊朗在海湾地区袭击持续 多处主要工业设施遇袭",
+      "summary": "伊朗在海湾地区的袭击行动仍在持续，多座主要工业设施遇袭。此次袭击目标为阿联酋与巴林境内的铝工业场地，目前已有消息称该轮袭击已造成多人受伤，当地相关重要工业设施受到不同程度影响。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d63e/live/88293d40-2b53-11f1-b0f8-33b27cc8c760.jpg",
+      "article_ids": [
+        "0e1d3e42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0e1d3e42",
+          "source": "BBC World",
+          "title": "伊朗在海湾地区袭击持续 多处主要工业设施遇袭",
+          "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T11:38:20+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:38:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a7a51d1",
+      "title": "伊朗发动“真实承诺-4”第86波行动 - 第一财经",
+      "summary": "伊朗发动“真实承诺-4”第86波行动，对位于沙特的美军基地实施袭击，造成美军一架E-3预警机受损，价值不菲的EC-130H“罗盘呼叫”电子战机被摧毁。此次突发袭击事件引发市场震荡，行情异动导致超8万人爆仓。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f0585c18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f0585c18",
+          "source": "Google News (中国)",
+          "title": "伊朗发动“真实承诺-4”第86波行动 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wYW5DX3JmdFF4VHFRXzBMdE5IREY2MXl1Z190ZktPRzZwM19RY2J4ZlpVREhtVFpISExyRUlhT19kVmZzZ1VjUkd2MWR5Ukk5TkhZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T11:35:13+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:35:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a51ee20",
+      "title": "首尔最富裕地区江南区的贫民窟",
+      "summary": "首尔江南区是当地房价高得离谱的富人区域，当地政府计划对辖区内一处棚户区进行重新开发，目前已有数百名住户拒绝搬离、对抗驱逐，坚持争取在该区域拥有自有住房的权利。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-gangnam-dispatch-01-bwvp/00int-skorea-gangnam-dispatch-01-bwvp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6da05b05"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6da05b05",
+          "source": "NYTimes World",
+          "title": "首尔最富裕地区江南区的贫民窟",
+          "link": "https://www.nytimes.com/2026/03/29/world/asia/korea-seoul-gangnam-slum.html",
+          "published_at": "2026-03-29T11:28:28+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:28:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9a5b183",
+      "title": "以军称“大规模打击”伊朗首都市中心基础设施 - 中国网新闻中心",
+      "summary": "以军对伊朗首都市中心基础设施发动大规模打击，打击目标包括生产弹道导弹关键部件的基地、伊核设施与武器基地，此次行动出动50余架战机，分三波开展，持续数小时。自本轮美以伊冲突爆发以来，以军已打击超3000个伊朗目标，另有以色列媒体人表达了盼与伊朗人民恢复友好的意愿。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "24b84280"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "24b84280",
+          "source": "Google News (中国)",
+          "title": "以军称“大规模打击”伊朗首都市中心基础设施 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwWFhkemotRVFldzhZN1RnQk9GWEl5aFd1b2liZ0I5ODY5Qnd5aG5KcGNtQVJhcEwzb3ZLMEh0Snp5VmdqN1BUTmFhNUFiZE9oNDZXM3lWaG5QcFFKQTVqdTlmVmJsQUZEak9v?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T11:11:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:11:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54fc7788",
+      "title": "清明假期雨不停 南方未来十天强降雨和强对流接连登场 - eeo.com.cn",
+      "summary": "清明假期南方阴雨持续不停，未来十天，南方地区将接连迎来强降雨天气与强对流天气，本次关于南方天气过程的相关报道，可前往Google新闻平台访问eeo.com.cn查看完整内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "07ddce8f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "07ddce8f",
+          "source": "Google News (中国)",
+          "title": "清明假期雨不停 南方未来十天强降雨和强对流接连登场 - eeo.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZQXExUVZ1a2ZhMnpFQmN6OUY5Q1ZCZlVEQ0VlRUtweG9MM3BWZk1HRC1GWGhXV1VxZFY3bDdnUFRBRUY4R1FvWXd0U3BtYXJBWUl4emlDWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f343eaf",
+      "title": "从“创业而来”到“安心而居” 台胞冀与雄安共成长 - chinanews.com.cn",
+      "summary": "多家主流媒体近期聚焦雄安新区发展，内容涵盖台胞在雄安从创业逐梦到安居扎根，期待与新区共成长的故事，还涉及京雄政务服务同城化、新区高质量建设治理推进等进展，记录雄安从规划蓝图逐步落地为实景的发展历程。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "35d6dc08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "35d6dc08",
+          "source": "Google News (中国)",
+          "title": "从“创业而来”到“安心而居” 台胞冀与雄安共成长 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sTk1PSVJLSXRrOEVNSHRwd3dDOUVZVTluTmdRQTlwUnFxcFhkRThDOVlwVFVrRkNYOE9DRnIxbzkyajE1dHNKSWxIUXN2UERWMjFvRm1nS2JKY1NpeTFkaFFOTFd3ZGJF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T10:58:50+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T10:58:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "43fafa1a",
+      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+      "summary": "亮亮视野联合智谱AI在2026中关村论坛主会场，部署了全球首创的AR+AI会议翻译系统。该系统融合AR眼镜与大模型能力，支持54种语言实时翻译，破解传统同传部署繁琐、成本高昂、译员稀缺等痛点，大幅降本提效，标志着国际会议翻译迈入AR+AI新阶段。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260329/v2_e4be4a91547b4fae903ef437b6eb8679@517825446_oswg9732805oswg4000oswg2666_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "a4651e92"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "a4651e92",
+          "source": "36氪",
+          "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+          "link": "https://36kr.com/p/3743855989587971?f=rss",
+          "published_at": "2026-03-29T10:07:47+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T10:07:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd1bbf6c",
+      "title": "伊朗威胁或将袭击中东地区的美、以大学 - DW.com",
+      "summary": "伊朗方面指认美国与以色列袭击伊朗科研机构，称此举意在削弱伊朗发展基础，此前伊朗科技大学等相关地点已遭空袭。对此伊朗伊斯兰革命卫队发出威胁，称中东地区的美、以所属大学将成为伊朗的合法袭击目标。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e3d5257c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e3d5257c",
+          "source": "Google News (中国)",
+          "title": "伊朗威胁或将袭击中东地区的美、以大学 - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc2hldDVvRkkyamZCcE5tMDViZXBXQmxpNmtvNUI1V1BnU0ZfV0lESzZxMkhwQ3RfcGVMc1pPN2JfdFNNa3p3QXFYZ3pBRFpJRGJjRXE4YzZIdUlkcWRDZHdjZm1nYmZmV2lnZ1JLYzYzZE5mWUJRMG1lVjZ1TDE5ZnR0MHNjazBaWm16WFBBb0l2dk9WM1NaSS1GSUZFbkhFNGY5REFNZERPZGZxajFiT0ljcUd3LVUzYlhpRWRGNFRBWENnb21qX1J5REpIU0x6QTUybENVb0llc0VjMnlKNER0WWJleFhXZ0VJUmxxZGJhSzB5bkpoSG9oVVdMbWIzSmNOYUhFM09KbGFHQXpqWFl4Nm7SAZQCQVVfeXFMTnVIUXMwZzJIenc2d3BYZGtmOFB3czZVOWk3WE1wWGNTQUdzempYa21FMjhDbTJNLUZQWVpyUlpORzh1VW5XeWpPdzkxN3FGS0puNlQya0JSLTRpczU5ZkdZWVM1bnkyNWdEN0V5MEVLN25aSzJxZUVOVGE1azFzOVlnMWZyb0oxdWM2bnJRVlMtYUZFbkprNTdoTUYtMnplU05YNlcyUzJCSDg3OXl4Ujk2X1BMYnpoWHZndUpNSWpkUHp4NUhGQlZGWVNYa2ZKVm95YWhSdU5WcUtXa3RuZUdoczhXWDI4SG9rSFBvQmRNYVpVUEN4enhyTk9mRGNUamFjWDkxaVYwZU9veUR0Y0FXRklr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T09:36:31+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T09:36:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a2c9dc31",
+      "title": "凤凰直击纽约“不要国王”示威活动，抗议者：权力不该凌驾制度之上 - 凤凰网",
+      "summary": "近期，“不要国王”大规模抗议活动席卷欧美，总场次超3200场，美国超3000个城市参与，洛杉矶10万人参加抗议，上千人包围当地政府机构大楼，已有多人被捕。美以均爆发抗议活动，以色列警方暴力驱散反战集会，抗议者称权力不该凌驾制度之上。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9fdc4f98"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9fdc4f98",
+          "source": "Google News (中国)",
+          "title": "凤凰直击纽约“不要国王”示威活动，抗议者：权力不该凌驾制度之上 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KWnRpNkU1c1ZWQVpGalhSYXZhMnhxTnkwb0hVN2xqNnRHSWZmVzZzQi0xVGlaMG1neGlpcTdRTzF6NlJVbDJZaEhIMjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T09:29:53+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T09:29:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed92b9cc",
+      "title": "节水兴业 利泽民生——当前我国节水事业发展综述 - 新华网安徽",
+      "summary": "多家媒体聚焦我国节水事业发展，新华网安徽刊发我国当前节水事业发展综述，人民日报刊文评论节水相关话题，青海关注江源节水保护，河北首次发布七大节水工作典型案例集，人民网刊发王浩院士观点，提出以节水破局水问题，建设山清水秀美丽中国。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b90c4f72"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b90c4f72",
+          "source": "Google News (中国)",
+          "title": "节水兴业 利泽民生——当前我国节水事业发展综述 - 新华网安徽",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTFRlVFlOTXN3UjFSaGdFenpjU29tbGNRckNvVTFMN0pjWmw1R0JZRE1MeUlCUWZwYl9rOE90VE53X3ZYWmtwMlRFUW95S1BOR1dTaHZjMzZfTkFjbV9OZFZEMTRhTUdJOC1LZ0tIcmpUdGdoYTVvekFxLVV3NnFBLXV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T09:24:19+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T09:24:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "065f1578",
+      "title": "300亿美元平仓将至 业界敦促印度储备银行放宽外汇新规",
+      "summary": "据知情人士透露，印度多家贷款机构呼吁印度储备银行重新审视为支撑卢比汇率推出的外汇交易新规。相关机构称，新规将令自身蒙受巨额损失，眼下规模达300亿美元的平仓操作将至，行业敦促央行放宽新规。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVRTOwz2SuwU/v1/1200x-1.jpg",
+      "article_ids": [
+        "755d0b11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "755d0b11",
+          "source": "Bloomberg",
+          "title": "300亿美元平仓将至 业界敦促印度储备银行放宽外汇新规",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/banks-urge-rbi-to-relax-new-rules-as-30-billion-unwinding-looms",
+          "published_at": "2026-03-29T09:11:04+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T09:11:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3b1f3404",
+      "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 新华网",
+      "summary": "新华网发布消息，中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡。目前该报道的完整内容已上线Google新闻平台，感兴趣的人士可前往Google新闻查看报道全部内容，了解相关动态详情。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "11ce704d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "11ce704d",
+          "source": "Google News (中国)",
+          "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGRaRDFqTnpiNGFOX3FpN0dzdnFZeUFVbzg5UmxGQUNtalRCYlN6Nk9xRkNzR2F2eVVjMVZIbkViODBKRGgtTlBwSlZfUkg4TlRaYzBfbl9WdFRmbXdvbW9YN0MyQjF1ZUpLdTFmU1Y0NnJQZzJid2o5OWNkNXIybFRIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T09:08:02+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T09:08:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e056141b",
+      "title": "国潮热，绘就人文经济新诗篇_时政要闻 - 中国台湾网",
+      "summary": "多家主流媒体包括中国台湾网、新华网、中国日报网、凤凰网、新浪财经等，纷纷聚焦国潮热现象。报道指出，中华古韵文化正成为当下新潮流，国潮热正在重塑文化消费新模式，为人文经济发展注入新动能，绘就人文经济发展新诗篇。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "75feff2a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "75feff2a",
+          "source": "Google News (中国)",
+          "title": "国潮热，绘就人文经济新诗篇_时政要闻 - 中国台湾网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fYXBtb0JYa09KbnZIX2syZXFGcDZnWW56azk0NDVqNjVZZGxmNVVRWFV1R3EzLTVub0p1WTI5R080S1lKRXZNUGIxcjZoUVRaYTFrWUVfTXFmR3BGODd5NXlOOHpSNmpGMDRGZVZsYnhCcHcycmVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-03-29T08:22:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T08:22:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "437f1e50",
+      "title": "伊朗已无还手之力？导弹无人机打击显示其仍能造成重创",
+      "summary": "近日中东地区发生多起打击行动，此前有观点质疑伊朗的反制能力，认为伊朗已无力开展强力反击。此次导弹与无人机打击行动明确表明，伊朗并未丧失报复打击能力，仍可对目标造成有效损伤。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/29/multimedia/29int-iran-retaliation-sub-top-clqp/29int-iran-retaliation-sub-top-clqp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4c68fb6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4c68fb6f",
+          "source": "NYTimes World",
+          "title": "伊朗已无还手之力？导弹无人机打击显示其仍能造成重创",
+          "link": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
+          "published_at": "2026-03-29T08:16:54+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T08:16:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "69f23b0a",
+      "title": "多家广播机构称三名黎巴嫩记者在以色列袭击中身亡",
+      "summary": "多家广播机构对外发布消息称，三名黎巴嫩记者在以色列发起的军事袭击中不幸身亡。以色列军方已证实，遇难者中的阿里·舒艾布，是隶属于与真主党有关联的阿尔马纳尔电视台的记者。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg",
+      "article_ids": [
+        "1ef96840"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1ef96840",
+          "source": "BBC World",
+          "title": "多家广播机构称三名黎巴嫩记者在以色列袭击中身亡",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T07:51:04+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T07:51:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61c80590",
+      "title": "胡塞参战 美军抵达 打击行动仍在持续",
+      "summary": "也门胡塞武装参战一天后，中东冲突的攻击行动于周日进入第五周。以色列对德黑兰发动打击，沙特阿拉伯拦截了近十二架无人机，当前区域战事仍在延续，美军已抵达相关区域。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFbneGn2vaHY/v1/1200x-1.jpg",
+      "article_ids": [
+        "47207afe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "47207afe",
+          "source": "Bloomberg",
+          "title": "胡塞参战 美军抵达 打击行动仍在持续",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/strikes-continue-as-houthis-join-iran-war-and-us-troops-arrive",
+          "published_at": "2026-03-29T07:45:27+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T07:45:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c420853b",
+      "title": "中方就国安法新规相关警报召见美国驻港使节",
+      "summary": "美国驻港领事馆就香港国家安全调查的一项新规定发布警示，该新规授予执法部门权力，可在国安案件调查中要求相关人员提供智能手机及其他电子设备的密码，中方已就此召见美国驻港最高外交使节。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3_wYGIEyeZA/v1/1200x-1.jpg",
+      "article_ids": [
+        "edd5bd77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "edd5bd77",
+          "source": "Bloomberg",
+          "title": "中方就国安法新规相关警报召见美国驻港使节",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/china-summons-us-envoy-to-hk-over-alert-on-security-law-changes",
+          "published_at": "2026-03-29T07:02:38+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T07:02:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "49f8c07e",
+      "title": "菲律宾财团因ABS-CBN注资事宜爆发领导层争端",
+      "summary": "菲律宾大型财团洛佩斯公司内部爆发领导层争端，公司总裁已遭罢免。被罢免总裁称，此次争端源自双方就向集团旗下媒体单位ABS-CBN注入20亿比索（约合3300万美元）资金一事产生的分歧。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iITc8VUEkmuA/v0/1200x-1.jpg",
+      "article_ids": [
+        "7ceb0fc7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7ceb0fc7",
+          "source": "Bloomberg",
+          "title": "菲律宾财团因ABS-CBN注资事宜爆发领导层争端",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/leadership-row-erupts-at-philippine-conglomerate-over-abs-cbn-capital-infusion",
+          "published_at": "2026-03-29T06:01:55+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T06:01:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a02c17ea",
+      "title": "俄罗斯乌斯季-卢加港遭乌克兰无人机袭击新增受损",
+      "summary": "当前基辅正加大对俄罗斯石油出口基础设施的打击力度，乌克兰发动无人机袭击，造成俄罗斯乌斯季-卢加港遭受新的损坏，这是乌方近期针对俄能源出口设施展开打击的最新进展。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imkLXDgSXxE8/v0/1200x-1.jpg",
+      "article_ids": [
+        "b6204f18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b6204f18",
+          "source": "Bloomberg",
+          "title": "俄罗斯乌斯季-卢加港遭乌克兰无人机袭击新增受损",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/russia-s-ust-luga-port-takes-new-damage-in-ukraine-drone-attack",
+          "published_at": "2026-03-29T04:17:13+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T04:17:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "79269f6b",
+      "title": "美国各地“无王”抗议者集会反对唐纳德·特朗普",
+      "summary": "美国多地爆发“无王”抗议活动，抗议者举行集会公开反对唐纳德·特朗普。其中一场旗舰规模的集会在明尼苏达州举办，美国知名歌手布鲁斯·斯普林斯汀亲临现场，为到场的抗议人群登台献唱。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeec/live/674f4b70-2b1a-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "d36b6498"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d36b6498",
+          "source": "BBC World",
+          "title": "美国各地“无王”抗议者集会反对唐纳德·特朗普",
+          "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T04:11:27+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T04:11:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee4eb89a",
+      "title": "燃油价格上涨 澳大利亚两州将提供免费公共交通",
+      "summary": "受中东地区持续敌对局势影响，全球能源供应风险上升，带动燃油价格上涨。为缓解油价上涨带来的影响，澳大利亚两个州将推出临时免费公共交通政策，帮助民众减轻出行成本压力。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilLKMfGXDwXM/v1/1200x-1.jpg",
+      "article_ids": [
+        "ea79f02d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ea79f02d",
+          "source": "Bloomberg",
+          "title": "燃油价格上涨 澳大利亚两州将提供免费公共交通",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/two-australia-states-to-offer-free-transport-as-fuel-prices-rise",
+          "published_at": "2026-03-29T01:44:16+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T01:44:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7423b96a",
+      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+      "summary": "合肥幺正量子是国内唯一聚焦QCCD离子阱技术路线的量子计算公司，近日完成数亿元Pre A轮融资，由蚂蚁集团、吉利资本联合领投，多家机构跟投、老股东追加投资，资金将用于核心技术研发。该公司对标国际巨头Quantinuum，目前已交付整机，实现国内首个QV32突破，计划逐步缩小与国际领先水平的差距。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1c6ab67"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f1c6ab67",
+          "source": "36氪",
+          "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+          "link": "https://36kr.com/p/3743360666566919?f=rss",
+          "published_at": "2026-03-29T01:43:38+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T01:43:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e60af940",
+      "title": "四旬斋过半，魁北克一小岛以面具与吉格舞庆祝传统",
+      "summary": "如今魁北克这座小岛上几乎已经没有居民依旧遵守四旬斋，但当地仍保留着这项特殊的庆祝传统。这项传统诞生之初曾被视为对大权在握的罗马天主教会的反抗，如今依然会在四旬斋中期举办，庆祝活动以面具和吉格舞为核心内容。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "e778d0d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e778d0d8",
+          "source": "NYTimes World",
+          "title": "四旬斋过半，魁北克一小岛以面具与吉格舞庆祝传统",
+          "link": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
+          "published_at": "2026-03-29T00:29:42+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:29:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d450378",
+      "title": "杰里米·鲍恩：特朗普凭直觉发动战事，并未奏效",
+      "summary": "BBC国际编辑杰里米·鲍恩公开发文评论称，当前伊朗冲突已持续满一个月，特朗普在处理这场冲突时全程依靠自身直觉决策行事，这套行事方式截至目前并未显现成效，没有达到预期目标。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb2/live/0bcea060-29e0-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "b2d6bd11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b2d6bd11",
+          "source": "BBC World",
+          "title": "杰里米·鲍恩：特朗普凭直觉发动战事，并未奏效",
+          "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T00:02:46+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:02:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1ae2a8d",
+      "title": "监狱通话记录引发对前阿伯克龙比老板受审能力的质疑",
+      "summary": "曝光的监狱通话记录引发外界对服饰品牌阿伯克龙比前老板迈克·杰弗里斯受审能力的质疑。迈克·杰弗里斯的代理律师提出，当事人目前患有痴呆症以及迟发性阿尔茨海默病，其健康状况不满足正常受审的要求。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/16f48e60-2ab1-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "f6066417"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f6066417",
+          "source": "BBC World",
+          "title": "监狱通话记录引发对前阿伯克龙比老板受审能力的质疑",
+          "link": "https://www.bbc.com/news/articles/c2034ww6kqxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T00:02:36+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:02:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0b83ee34",
+      "title": "一只蚂蚁220美元：野生动物贩运新领域",
+      "summary": "蚂蚁收藏掀起热潮后，走私者趁机将目标转向肯尼亚，把蚂蚁作为新型野生动物贩运品类牟利，单只蚂蚁售价可达220美元，这种突如其来的新型非法贩运活动，给肯尼亚的野生动物保护监管带来了全新挑战。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7761/live/aa82d2e0-2a1b-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "a60cdc04"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a60cdc04",
+          "source": "BBC World",
+          "title": "一只蚂蚁220美元：野生动物贩运新领域",
+          "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T00:01:15+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:01:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0218102",
+      "title": "涉电视明星深度伪造不雅丑闻震动德国",
+      "summary": "德国曝出一起深度伪造不雅丑闻，电视明星科琳·费尔南德斯指控自己的前夫在网上传播伪造的她的不雅图像，遭到指控的前夫对该项指控予以坚决否认，这起事件震动了整个德国。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e0/live/6bc0d8c0-2b4e-11f1-a79a-77e93010d956.jpg",
+      "article_ids": [
+        "9d405d18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9d405d18",
+          "source": "BBC World",
+          "title": "涉电视明星深度伪造不雅丑闻震动德国",
+          "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-29T00:00:18+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:00:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d80a7cd",
+      "title": "新德里街头摊贩凸显印度能源危机代价",
+      "summary": "新德里主要公交总站外，一批搭着临时遮阳棚的小吃摊，数十年来一直为疲惫的过往旅人售卖煎面饼、热炖菜与热茶。报道聚焦此处，展现印度当下能源危机对基层小微经营者的冲击，凸显能源紧张给普通民众生活带来的切实代价。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOjnTBwrsjvk/v1/1200x-1.jpg",
+      "article_ids": [
+        "03961033"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "03961033",
+          "source": "Bloomberg",
+          "title": "新德里街头摊贩凸显印度能源危机代价",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-29/india-lpg-crisis-new-delhi-street-stalls-show-the-cost-of-iran-energy-crunch",
+          "published_at": "2026-03-29T00:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-29T00:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "19a70f4c",
+      "title": "能源危机加剧 埃及要求商店餐馆提前关门",
+      "summary": "埃及能源危机持续加深，为节约电力资源，该国要求所有零售与餐饮场所在接下来一个月内，必须于每日21点前停止营业，通过缩短营业时间减少能源消耗，以缓解当前能源供应紧张的局势。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9448/live/49777e70-2ad3-11f1-a79a-77e93010d956.jpg",
+      "article_ids": [
+        "4e26a523"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4e26a523",
+          "source": "BBC World",
+          "title": "能源危机加剧 埃及要求商店餐馆提前关门",
+          "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-28T23:00:49+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T23:00:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fe12d26d",
+      "title": "Bluesky推出AI驱动应用Attie 可构建自定义信息流",
+      "summary": "开放社交生态Bluesky基于ATProto开放社交网络协议推出全新应用Attie，该应用融入人工智能技术，能够帮助用户根据自身使用需求打造专属自定义信息流，是Bluesky布局AI社交领域的全新举措。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "63c0fcbc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "63c0fcbc",
+          "source": "TechCrunch",
+          "title": "Bluesky推出AI驱动应用Attie 可构建自定义信息流",
+          "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+          "published_at": "2026-03-28T23:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T23:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "567517a6",
+      "title": "尽管战事未平，迪拜知名赛马赛事照常举办",
+      "summary": "当前中东地区局势紧张，区域内战事未平，阿联酋迪拜久负盛名的知名赛马赛事并未受冲突影响取消，依旧按照原定日程如期举办。这场备受全球马术界关注的顶级盛会，在地区动荡的特殊背景下，引发了国际舆论的广泛关注。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-dubai-world-cup-1-vglt/28israel-iran-dubai-world-cup-1-vglt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3f78261d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3f78261d",
+          "source": "NYTimes World",
+          "title": "尽管战事未平，迪拜知名赛马赛事照常举办",
+          "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/in-dubai-a-famed-horse-race-goes-on-despite-the-war",
+          "published_at": "2026-03-28T22:22:12+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T22:22:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7a464689",
+      "title": "扎克伯格发信息给马斯克 提出可为狗狗币提供帮助",
+      "summary": "扎克伯格与马斯克此前关系紧张，马斯克曾向扎克伯格发起笼斗挑战。如今扎克伯格主动发信息给马斯克，提出可为狗狗币提供帮助，二人关系在特朗普第二任期初期似乎已经回暖。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f32ffc17"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f32ffc17",
+          "source": "TechCrunch",
+          "title": "扎克伯格发信息给马斯克 提出可为狗狗币提供帮助",
+          "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+          "published_at": "2026-03-28T21:23:58+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T21:23:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fbec0148",
+      "title": "糖霜糖屑乐趣满溢：巨型蛋糕野餐活动亮相悉尼",
+      "summary": "一场充满趣味的巨型蛋糕野餐活动近日亮相悉尼，数百名烘焙师齐聚当地植物园，带来各自色彩缤纷的创意蛋糕作品，参与者现场分享、品尝这些精心制作的烘焙创作，共度蛋糕主题的欢乐聚会。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde7/live/f669fe90-2b47-11f1-b297-95b0a0a8331e.jpg",
+      "article_ids": [
+        "3f003d01"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3f003d01",
+          "source": "BBC World",
+          "title": "糖霜糖屑乐趣满溢：巨型蛋糕野餐活动亮相悉尼",
+          "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-28T21:04:30+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T21:04:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c55677e6",
+      "title": "斯坦福研究指出向AI聊天机器人寻求个人建议的风险",
+      "summary": "此前AI聊天机器人的逢迎倾向已引发诸多讨论，美国斯坦福大学计算机科学家开展一项新研究，旨在量化衡量这种逢迎倾向可能造成的危害，明确指出人们向AI聊天机器人寻求个人建议存在不容忽视的风险。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7e192f12"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7e192f12",
+          "source": "TechCrunch",
+          "title": "斯坦福研究指出向AI聊天机器人寻求个人建议的风险",
+          "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+          "published_at": "2026-03-28T20:45:54+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T20:45:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "907e2857",
+      "title": "能源危机与特朗普威胁背景下卡斯特罗继承人现身古巴政坛",
+      "summary": "当前古巴面临能源危机，美国特朗普政府也向古巴施压要求变革，卡斯特罗家族成员近期突然频繁现身古巴政坛各处，引发外界讨论，有声音猜测其中是否会诞生“古巴版德尔西”。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28int-cuba-castros-hjpw/28int-cuba-castros-hjpw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1f2b908e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1f2b908e",
+          "source": "NYTimes World",
+          "title": "能源危机与特朗普威胁背景下卡斯特罗继承人现身古巴政坛",
+          "link": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+          "published_at": "2026-03-28T20:21:04+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T20:21:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e090f674",
+      "title": "二月遇冷后 美国就业市场本月大概率回暖",
+      "summary": "二月美国新增就业人数出现疫情以来幅度最大的回落之一，就业市场骤然遇冷，三月美国就业数据大概率迎来反弹，美国近期就业数据也因此延续了剧烈波动的特征。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipoO9ePt9kXA/v1/1200x-1.jpg",
+      "article_ids": [
+        "d5b18580"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d5b18580",
+          "source": "Bloomberg",
+          "title": "二月遇冷后 美国就业市场本月大概率回暖",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-28/us-job-market-probably-thawed-out-this-month-after-february-chill",
+          "published_at": "2026-03-28T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "57584b16",
+      "title": "中东战事期间乌克兰与海湾国家敲定防空协议",
+      "summary": "中东战事持续之际，乌克兰总统访问中东地区，已与海湾国家敲定防空合作协议。乌克兰此行旨在推动实现身份转型，改变此前作为军事援助接受方的定位，谋求成为军事装备供应国。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "004e931f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "004e931f",
+          "source": "NYTimes World",
+          "title": "中东战事期间乌克兰与海湾国家敲定防空协议",
+          "link": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+          "published_at": "2026-03-28T19:53:21+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T19:53:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e5ead43",
+      "title": "伊朗崎岖边境库尔德人渴望参战",
+      "summary": "居住在伊朗崎岖边境的库尔德人长期怀揣梦想，希望建立与伊拉克库尔德同胞类似的联邦自治地位。目前伊朗领导层遭受打击、实力受挫，库尔德人认为实现自身目标的时机已到，因而渴望参与相关斗争。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28iran-kurdistan-01-tlkb/28iran-kurdistan-01-tlkb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bbba71c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bbba71c0",
+          "source": "NYTimes World",
+          "title": "伊朗崎岖边境库尔德人渴望参战",
+          "link": "https://www.nytimes.com/2026/03/28/world/europe/iran-kurds-iraq-fighters.html",
+          "published_at": "2026-03-28T19:52:22+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T19:52:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1336db27",
+      "title": "巴黎一名男子被控试图袭击美国银行",
+      "summary": "检方称，一名男子在巴黎试图引爆炸弹袭击当地美国银行，被警方及时挫败。涉事男子已被控相关罪名，目前这起事件正作为可能的恐怖主义案件展开调查。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28int-france-arrest-lpmk/28int-france-arrest-lpmk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "af920648"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "af920648",
+          "source": "NYTimes World",
+          "title": "巴黎一名男子被控试图袭击美国银行",
+          "link": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
+          "published_at": "2026-03-28T19:27:59+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T19:27:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "75a0c2cb",
+      "title": "Suno推出AI音乐模型v5.5 发力定制化",
+      "summary": "AI音乐厂商Suno近日发布旗下AI音乐模型的重大更新v5.5，这也是该产品迄今最大规模更新之一。此前更新多侧重提升音质保真度与人声自然度，本次更新主打赋予用户更多创作控制权，推出三项全新定制化相关功能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ae9d7bff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ae9d7bff",
+          "source": "The Verge",
+          "title": "Suno推出AI音乐模型v5.5 发力定制化",
+          "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+          "published_at": "2026-03-28T18:33:10+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T18:33:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bcfcb14b",
+      "title": "据报道埃隆·马斯克旗下xAI最后一名联合创始人离职",
+      "summary": "埃隆·马斯克创办的人工智能企业xAI最初共有11名联合创始人，截至本周之前，已有9名联合创始人离开公司，仅余下两人留守。据报道，目前最后一名留在公司的原联合创始人也已离职。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "77e16d7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "77e16d7c",
+          "source": "TechCrunch",
+          "title": "据报道埃隆·马斯克旗下xAI最后一名联合创始人离职",
+          "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+          "published_at": "2026-03-28T16:11:16+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T16:11:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8be6c46e",
+      "title": "亚马逊大型春季大促截至目前的最佳优惠",
+      "summary": "三月历来是零售促销淡季，零售巨头亚马逊推出第三届大型春季大促，活动持续至3月31日，平台针对多款春季应季商品推出力度可观的折扣优惠，旨在吸引消费者，填补春季促销淡季的空档。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "98dfd42a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "98dfd42a",
+          "source": "The Verge",
+          "title": "亚马逊大型春季大促截至目前的最佳优惠",
+          "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+          "published_at": "2026-03-28T16:06:47+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T16:06:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "120766df",
+      "title": "这些iPad应用会让你渴望更多闲暇时光",
+      "summary": "此次整理推出一份优质创意类iPad应用榜单，所有上榜应用均来自苹果官方App Store，都是体验出众的优质创作工具，吸引力十足，会让使用者忍不住盼着拥有更多空闲时间来尽情体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "12ecd4ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "12ecd4ae",
+          "source": "TechCrunch",
+          "title": "这些iPad应用会让你渴望更多闲暇时光",
+          "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+          "published_at": "2026-03-28T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac11f536",
+      "title": "22名移民漂流六日后于希腊海岸外死亡",
+      "summary": "希腊海岸警卫队公布消息称，共有22名移民在希腊海岸外的海域漂流六日后不幸死亡。经初步确认，恶劣天气条件以及食物、饮用水的匮乏，共同造成了这起死亡事件的发生。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6cd/live/d9747150-2aaa-11f1-a0a3-89526fc96a3b.jpg",
+      "article_ids": [
+        "940f4859"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "940f4859",
+          "source": "BBC World",
+          "title": "22名移民漂流六日后于希腊海岸外死亡",
+          "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-28T15:11:59+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T15:11:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "777dbda7",
+      "title": "赛睿功能丰富的Nova Pro无线耳机直降80美元",
+      "summary": "赛睿寒冰Nova Pro无线耳机推出近四年，至今仍是市面上口碑顶尖的游戏耳机之一。它集多音频源混合、主动降噪、可伸缩麦克风、热插拔电池等功能于一身，这些优势很难被其他厂商复制，目前该款耳机正直降80美元促销。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ba455e0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ba455e0d",
+          "source": "The Verge",
+          "title": "赛睿功能丰富的Nova Pro无线耳机直降80美元",
+          "link": "https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal",
+          "published_at": "2026-03-28T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "47eedc38",
+      "title": "巴基斯坦将主办地区高级外交官会谈磋商伊朗战事",
+      "summary": "沙特阿拉伯、土耳其、埃及三国外长预计将于周日抵达巴基斯坦首都伊斯兰堡，巴基斯坦政府正全力推动相关外交协商，力求找到解决伊朗战事的外交方案，缓解当前地区紧张局势。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-pakistan-0001-pfch/28israel-iran-pakistan-0001-pfch-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1ecce8fe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1ecce8fe",
+          "source": "NYTimes World",
+          "title": "巴基斯坦将主办地区高级外交官会谈磋商伊朗战事",
+          "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-pakistan-diplomacy.html",
+          "published_at": "2026-03-28T14:21:47+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T14:21:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "43f23f30",
+      "title": "Anthropic旗下Claude在付费消费者中人气激增",
+      "summary": "目前业界估算Claude的总消费用户规模在1800万至3000万之间，数据差异较大。Anthropic尚未公开相关用户数据，但其发言人向TechCrunch确认，今年Claude的付费订阅量已翻了一倍多。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "76a496ed"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "76a496ed",
+          "source": "TechCrunch",
+          "title": "Anthropic旗下Claude在付费消费者中人气激增",
+          "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+          "published_at": "2026-03-28T14:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T14:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d34b668",
+      "title": "中东铝生产商遭伊朗袭击蒙受损失",
+      "summary": "周六，两家中东铝生产商遭遇伊朗袭击，蒙受损失。此次事件凸显，中东地缘冲突正不断扰乱全球重要产业，冲突对全球产业链供应链的冲击持续显现，给本就承压的全球经济带来了新的挑战。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEeRAqaQkhKM/v0/1200x-1.jpg",
+      "article_ids": [
+        "32c39ccc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "32c39ccc",
+          "source": "Bloomberg",
+          "title": "中东铝生产商遭伊朗袭击蒙受损失",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk",
+          "published_at": "2026-03-28T14:08:25+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T14:08:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e808d868",
+      "title": "为何我能识别AI生成广告，TikTok却不能？",
+      "summary": "一名长期甄别图像视频AI生成痕迹的用户称，近来他一直难以判断自己TikTok信息流中的广告是否由生成式AI制作，看到的不少推广内容都引发了他的怀疑，他由此质疑平台为何无法识别AI生成广告。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ac886654"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ac886654",
+          "source": "The Verge",
+          "title": "为何我能识别AI生成广告，TikTok却不能？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+          "published_at": "2026-03-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67686ff8",
+      "title": "Meta败诉或造福儿童，或令所有人受损",
+      "summary": "社交媒体是否不仅有害还属于违法，科技企业是否该为此承担责任？美国新墨西哥州与洛杉矶的两个陪审团均给出肯定答案，Meta在相关案件中遭遇法律失利。该案引发大量外界讨论，判决结果的影响走向仍存在不确定性。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a0c8488c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a0c8488c",
+          "source": "The Verge",
+          "title": "Meta败诉或造福儿童，或令所有人受损",
+          "link": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
+          "published_at": "2026-03-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ca5f376",
+      "title": "2035年谁将为电网供电？竞争胜负难分",
+      "summary": "当前，在角逐2030年代初向电网供应新增电力的赛道上，核聚变、核裂变以及天然气三方实力不相上下，这场关乎2035年电网主力能源的竞争目前局势开放，尚无明确胜出者。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "28fb4213"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "28fb4213",
+          "source": "TechCrunch",
+          "title": "2035年谁将为电网供电？竞争胜负难分",
+          "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+          "published_at": "2026-03-28T13:05:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T13:05:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dc25342c",
+      "title": "一览重新走红的复古科技产品",
+      "summary": "近期，不少复古科技产品重新回归大众视野，手提音响、即时成像相机乃至固定电话都再度掀起流行热潮，接下来将为大家介绍目前市场上最受欢迎的几款酷炫复古风格科技设备。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "369bf543"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "369bf543",
+          "source": "TechCrunch",
+          "title": "一览重新走红的复古科技产品",
+          "link": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+          "published_at": "2026-03-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78fe1d36",
+      "title": "经典塞尔达风格冒险 更添舒适惬意",
+      "summary": "《塞尔达传说》系列本为宏大冒险，本身也自带舒适氛围，可供玩家探索别致村落、饱览暖调风景。新作《岛下》进一步强化了这一特质，保留了塞尔达系列令人满足的探索解谜体验，更突出治愈舒适的游戏感受。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "15ab6370"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "15ab6370",
+          "source": "The Verge",
+          "title": "经典塞尔达风格冒险 更添舒适惬意",
+          "link": "https://www.theverge.com/games/902384/under-the-island-review",
+          "published_at": "2026-03-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "48a9c65d",
+      "title": "亚马逊大型春季大促期间The Verge读者都在买什么",
+      "summary": "科技媒体The Verge编辑称，他们大体清楚自家读者会倾向哪些促销商品，毕竟受众感兴趣的产品服务、优惠本身的质量，都是他们日常筛选报道内容的参考依据，但目前仍无法确定消费者最终的选购方向。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "07ab68d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "07ab68d8",
+          "source": "The Verge",
+          "title": "亚马逊大型春季大促期间The Verge读者都在买什么",
+          "link": "https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals",
+          "published_at": "2026-03-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7d68dc36",
+      "title": "从月球酒店到牧牛：YC路演日获投资者追捧的八家初创企业",
+      "summary": "YC创业加速器举办W26批次初创企业路演活动，多家创业公司获得资本关注。本次调研近十家风投机构，梳理出本轮活动中最受投资者追逐的八家初创企业，覆盖领域跨度极大，从月球酒店到牧牛项目均有入选。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0fda9976"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0fda9976",
+          "source": "TechCrunch",
+          "title": "从月球酒店到牧牛：YC路演日获投资者追捧的八家初创企业",
+          "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+          "published_at": "2026-03-28T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-03-28T12:00:00+00:00",
+      "is_merged": false
+    }
   ]
 }
