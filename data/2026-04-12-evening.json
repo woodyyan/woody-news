@@ -1,0 +1,2394 @@
+{
+  "date": "2026-04-12",
+  "edition": "evening",
+  "updated_at": "2026-04-12T21:18:23.372550+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "bc66d030",
+      "title": "伊朗战争最新实时更新：伊朗首席谈判代表称进一步和谈仍有可能",
+      "title_original": "Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible",
+      "summary": "美国副总统万斯周日表示，美国与伊朗开展的马拉松式谈判未能立即达成结束战争的协议。此前伊朗首席谈判代表曾表态，双方仍有可能举行进一步的和平谈判，相关进展备受国际关注。",
+      "summary_original": "Vice President JD Vance said Sunday that a marathon session of negotiations between the United States and Iran had failed to immediately produce an agreement to end the war.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12live-mideast-top-bmtk-promo/12live-mideast-top-bmtk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T12:27:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b38943ab",
+      "title": "秘鲁投票选举总统与两院制国会 谋求政局稳定",
+      "title_original": "Peru Casting Ballots for President, Bicameral Congress in Bid for Stability",
+      "summary": "秘鲁周日举行选举，选民将从创纪录的36名候选人中选出新任总统，同时改组立法机构。本次选举后，秘鲁立法机构将在三十多年来首次重回两院制，此次选举被寄予实现国家政局稳定的期望。",
+      "summary_original": "Peruvians are heading to the polls Sunday to elect a new president from among a record 36 candidates and to overhaul the legislature, which for the first time in over three decades will return to a bicameral system.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWlYUdeFq7Vs/v5/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T12:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b0edb324",
+      "title": "匈牙利大选投票 欧尔班前途未卜",
+      "title_original": "Orban's Fate Uncertain As Hungary Votes",
+      "summary": "匈牙利周日正在举行大选投票，已执政十六年的现任总统欧尔班，面临主要对手彼得·迈杰尔的强劲挑战。投票过程中，双方互指对方存在投票违规、假旗操作行为，彭博社欧洲记者将做客彭博周末节目讨论本次选举。",
+      "summary_original": "Hungary's President Viktor Orbán is facing a significant electoral challenge after sixteen years in office from main opponent Peter Magyar. Allegations of voting irregularities and false flag operations have emerged from both sides as voting is underway on Sunday. Bloomberg News Europe Correspondent Oliver Crook joins Christina Ruffini and Tim Stenovec on Bloomberg This Weekend to discuss the election. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irxmdJSa4O74/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-12/orban-s-fate-uncertain-as-hungary-votes-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T12:14:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "62cf5604",
+      "title": "深入探访试图打破中国矿产钳制的美国初创企业",
+      "title_original": "Inside the American Startups Trying to Break China's Mineral Chokehold",
+      "summary": "彭博社相关访谈提到，十余年来中国已实际上垄断了供给智能手机、战机等各类产品的关键矿产，美国正加紧追赶。访谈对象涵盖美国新罕布什尔州试图打破供应链钳制的初创企业负责人，以及学者、前美国驻华大使，探讨美国落后原因及创新能否助其反超。",
+      "summary_original": "For over a decade, China has quietly built effectively a monopoly on the critical minerals that power everything from smartphones to fighter jets and the US is now racing to catch up. David Westin speaks with a New Hampshire startup called Phoenix Tailings, where CEO Nick Myers is trying to break China's chokehold on the supply chain. He also talks with author David Abraham, CFR's Heidi Crebo-Rediker, and former US Ambassador to China Nicholas Burns about how the US fell so far behind, and wheth",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.Q8S.ebCWDU/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-12/can-the-us-ever-catch-up-to-china-on-rare-earths-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T12:03:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "523f7818",
+      "title": "匈牙利民众大规模投票 决定是否终结欧尔班统治并选举反对者",
+      "title_original": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
+      "summary": "本次选举将就匈牙利是否终结欧尔班统治、选举新领导人作出决定。多数民调偏向率领草根政党的彼得·毛焦尔，早期数据显示，本次选举投票率创下纪录，民众参与投票的热情极高。",
+      "summary_original": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ca/live/c2585e40-3654-11f1-879d-1b2f5c3919b8.png",
+      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T12:02:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f455aef5",
+      "title": "AI代码大战日渐升温",
+      "title_original": "The AI code wars are heating up",
+      "summary": "这是每周一期的科技领域通讯《The Stepback》推出的内容，这份通讯于美国东部时间每周早8点推送至订阅者邮箱，用户可在线订阅。本次内容围绕AI编码热潮展开，想要了解更多AI编码、氛围编码相关动态可关注作者David Pierce。",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-12T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f455aef5",
+      "title": "AI代码大战升温",
+      "title_original": "The AI code wars are heating up",
+      "summary": "科技领域每周通讯The Stepback主打拆解行业核心议题，本次将聚焦AI编码与氛围感编码热潮展开解读，由撰稿人大卫·皮尔斯出品，编码曾是AI领域的杀手级应用，订阅用户可于美国东部时间每周早8点收到推送，感兴趣的读者可在线订阅。",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-12T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ee7405b",
+      "title": "乌俄相互指责对方数百次违反停火协议",
+      "title_original": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "乌俄两国近期相互指责对方实施了数百次违反停火协议的行为，乌克兰总统泽连斯基表示，乌克兰武装部队将针对俄罗斯的攻击采取“对等”回应，双方停火共识屡遭破坏，地区局势持续紧张。",
+      "summary_original": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
+      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T11:53:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6278731e",
+      "title": "2026世界互联网大会亚太峰会将启 共话数智赋能创新发展 - 中国网新闻中心",
+      "title_original": null,
+      "summary": "2026世界互联网大会亚太峰会即将启幕，本次峰会将围绕数智赋能创新发展开展交流探讨，相关内容由中国网新闻中心发布，读者可前往Google新闻平台查看该事件的完整报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KYUJOQ3B3aVJKTHVPZjl3azVRQ1hxZV90WTFNZzhhTzA2dW1ObkpJNk0wSm5lQkd0czVTT01RVTNKS0hrU0g2UHpQTFlLUjMxSUxVVWVpcGhaYTFCQVMwXzRqU0dDLXBTYy1nS01udEg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T11:53:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "666e1a75",
+      "title": "伊斯兰堡和谈落幕，巴基斯坦下一步何去何从？",
+      "title_original": "The ‘Islamabad Peace Talks’ Are Over. What Now for Pakistan?",
+      "summary": "伊斯兰堡和谈现已结束，参与此次和谈的美国与伊朗代表团均已离开伊斯兰堡。目前停火前景尚不明朗，巴基斯坦在应对相关后续局势的同时，还需直面自身面临的诸多经济与外交挑战。",
+      "summary_original": "With the U.S. and Iranian delegations gone from Islamabad and the cease-fire uncertain, Pakistan faces its own economic and diplomatic challenges.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/asia/iran-peace-talks-pakistan.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T11:50:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7c5d5cc8",
+      "title": "一文读懂伊斯兰堡美伊谈判 - 新华网",
+      "title_original": null,
+      "summary": "新华网推出题为《一文读懂伊斯兰堡美伊谈判》的相关报道，聚焦在伊斯兰堡举行的美伊谈判，梳理解读该谈判的相关信息，帮助读者清晰掌握这一国际事件的相关情况，该报道的完整内容可前往Google新闻平台查看。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYkV5Z1RJc19ZQkZiWGxnWDJtdnM5cnFPa0FKd1hiV2lIVlZYb0NnbkU3TE5sX3k0aVRRT3JmRkJpNEN1S0YwU2pRQjdCSGVQMmlWZEZsRHZqVWZNd1NXSUJwN2J1dURsMEF5S0xuUm1nUmJNNTZDSGZxMmFlbFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T11:39:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39a08e24",
+      "title": "特朗普自曝还有“王牌”！伊朗警告：霍尔木兹海峡通行费必须以伊朗货币支付 - 凤凰网财经",
+      "title_original": null,
+      "summary": "美伊谈判即将启动，目前霍尔木兹海峡仍未开放。美国方面特朗普自曝握有应对局势的“王牌”，伊朗作出一系列强硬表态，要求该海峡通行费以伊朗货币支付，明确通航须获得伊朗许可，称世界将见证霍尔木兹海峡新格局。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nM3JsNlJGaWJXblR1X21DaGRPYTJfaThrM3ZST3pzOXpoNXZKemJPXzR4YWNmSDVENFBfLUIwOWNyYXdSeHk3czloNlBfZ0Z5?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T11:32:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4870e81b",
+      "title": "伊朗称在巴基斯坦谈判中美国只想发号施令无意谈判",
+      "title_original": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "summary": "伊朗认为美国提出的相关要求，远远超出伊朗在当前战事中取得的成果范围。专家分析，目前德黑兰正押注自身比美国更能承受后续打击，而美国并不愿意承受经济混乱带来的持续冲击。",
+      "summary_original": "Iran sees American demands as reaching far beyond what it achieved in war. Tehran is gambling that it can withstand further bombardment more than Washington is willing to sustain economic chaos, experts say.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-iran-assess-tczv/12int-iran-assess-tczv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T11:24:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "38b184a5",
+      "title": "请容我解释为何我喜爱这款无法拍摄彩色的相机",
+      "title_original": "Allow me to explain why I love this camera that can’t shoot color",
+      "summary": "作者钟爱黑白摄影与可随身携带的紧凑型相机，因此对理光GR IV黑白款相机十分青睐。该款为定焦相机，既无法变焦，也完全不能拍摄彩色，常会令普通消费者感到疑惑，作者已完成对这款相机的测试，将分享喜爱它的缘由。",
+      "summary_original": "I love black-and-white photography. I also adore compact cameras you can always have by your side. So I'm a total mark for the Ricoh GR IV Monochrome, a fixed-lens camera that can't zoom and can't record color - at all. It's a formula that makes the average person ask, \"Why?\" I've tested the GR IV [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-12T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b17197e9",
+      "title": "贾斯汀·比伯携充满怀旧感的演出压轴科切拉",
+      "title_original": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "summary": "知名歌手贾斯汀·比伯在科切拉音乐节带来主打怀旧氛围的领衔演出，演出中他大多跟着《Baby》《永不言败》等早年热门单曲的YouTube原版视频演唱，带领全场乐迷重温青春记忆。",
+      "summary_original": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d135/live/63585db0-365d-11f1-a35a-c10911d2db0e.jpg",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T10:07:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9f56e685",
+      "title": "宝莱坞之声阿莎·博斯勒辞世 享年92岁",
+      "title_original": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "summary": "享有“宝莱坞之声”美誉的印度知名歌手阿莎·博斯勒辞世，享年92岁。她的嗓音极具感染力，总能带动歌迷随之载歌载舞，作品陪伴了印度数代人成长，早已成为几代印度人共同的声音印记。",
+      "summary_original": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T10:03:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58ee7271",
+      "title": "事件投注给计划开展相关交易的华尔街公司带来难题",
+      "title_original": "Event Bets Pose a Problem for Wall Street Firms Looking to Trade",
+      "summary": "当前预测市场蓬勃发展，从耶稣再临到世界杯冠军归属，各类事件都成为投注标的，带动Polymarket、Kalshi等平台周交易量达到数十亿美元，这一快速增长的市场给有意开展相关交易的华尔街公司带来了难题。",
+      "summary_original": "Prediction markets are booming. Wagers on everything from the return of Jesus Christ to who will win the World Cup have driven weekly volumes on platforms like Polymarket and Kalshi into the billions of dollars.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMPaB4PBRN60/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/event-bets-pose-a-problem-for-wall-street-firms-looking-to-trade",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f17ca133",
+      "title": "数智农具不断“上新”、网络成为“新农资” 智慧农业为乡村插上“科技翅膀”-中新网 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "当前正值春耕生产时节，智慧农业为乡村农业发展注入新动能，各类数智农具持续更新上线，网络成为农业生产的“新农资”，各地正高质量推进春季农业生产，科技赋能的新质生产力为乡村农业发展插上“科技翅膀”，助力绘就春耕丰景。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91RnBJM2NrNGdEWFNtWVlrZzRwamRSVlBGcTFGZGJDLW84bjNQblNFR01HTlVTWGg2bWp2NjF5aXEtVzFBeHp3OHJYcl9fZWxYQW0tUm96MFpIdm5XQjVMSEZHZHVHU0ZE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T09:30:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3700ad1b",
+      "title": "美伊谈判失败 周一风险资产将承压",
+      "title_original": "Failure of US-Iran Talks Set to Weigh on Risk Assets Monday",
+      "summary": "上周末美伊围绕相关议题的谈判未能达成协议，分析师认为，这一谈判破裂的结果将在周一拖累市场整体情绪，推升市场对避险资产的需求，风险资产届时将承受明显下行压力。",
+      "summary_original": "The US and Iran’s failure to strike a peace deal over the weekend is set to weigh on market sentiment and lift demand for safe haven assets on Monday, according to analysts.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if3iBAcHk.oo/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/failure-of-us-iran-talks-set-to-weigh-on-risk-assets-monday",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T09:17:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1b55786",
+      "title": "秘鲁举行总统选举 选票列35名候选人",
+      "title_original": "Peru Votes for President, With 35 Names on the Ballot",
+      "summary": "秘鲁开启总统选举，本次选举共有35名候选人进入最终选票。多年来政治不稳定一直困扰秘鲁，该国自2021年以来已先后更迭三任总统，目前舆论普遍不看好此次选举能够解决该国长期存在的政治动荡问题。",
+      "summary_original": "Few expect the vote to resolve the political instability that has plagued the country for years. Three presidents have come and gone since 2021.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-peru-election-wtk-fpkc/12int-peru-election-wtk-fpkc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T09:02:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "184721ee",
+      "title": "深入遭以色列轰炸的黎巴嫩城市提尔",
+      "title_original": "Inside Tyre, a Lebanese City Bombarded by Israel",
+      "summary": "位于黎巴嫩沿海的提尔城，目前正遭到以色列近乎每日的轰炸。轰炸已造成当地平民伤亡，持续的炮火打破了城市的平静，迫使当地大量民众离开住所，四处寻找安全的避难场所躲避战事。",
+      "summary_original": "In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T09:02:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "13050ca7",
+      "title": "海地一旅游景点发生大规模踩踏 数十人死亡",
+      "title_original": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+      "summary": "海地北部知名旅游景点拉费雷耶尔城堡发生大规模踩踏悲剧，该景点是一座历史要塞，也是海地最具代表性的国家符号之一，此次踩踏事件已造成数十人死亡。",
+      "summary_original": "The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols.",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T09:01:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f21de4a0",
+      "title": "遭数十家急诊室拒收：韩国身陷医疗危机",
+      "title_original": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
+      "summary": "韩国拥有世界一流的医疗体系，但每年仍有数百名患者难以获得急诊救治，部分患者因找不到接诊机构导致救治延误，已经出现死亡案例，该国目前正面临严重的急诊医疗危机。",
+      "summary_original": "Hundreds of patients every year have trouble finding emergency care, even though the country has a world-class medical system. For some, the delays have been fatal.",
+      "image": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T09:00:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "115ba516",
+      "title": "第六届消博会即将举行：国际展品占比65%，超两百个系列新品发布 - thepaper.cn",
+      "title_original": null,
+      "summary": "第六届消博会即将举办，本届展会国际展品占比达65%，将发布超两百个系列新品。目前各项筹备就绪，全球好物陆续集结进场。其中海口国家高新区组织43家企业的超300件展品参展，青海也携本地特色好物亮相本届消博会。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NN0hWOEU1SXNPT1o3ZTYwNE1EYlJ5MU9vVVZWY3JHQkNBVkczZkNqWlBTdTFaam1XMEdSeUF1VjZ0RUNGY3ZwT2Z2OUpXakxEQkVkT0ltX3R1eDk1RVE1dg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T08:47:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d797c3ee",
+      "title": "“赌王”何鸿燊女儿何超蕸去世 终年60岁 - 观点网",
+      "title_original": null,
+      "summary": "\"赌王\"何鸿燊的女儿何超蕸离世，终年60岁。何超蕸生前担任信德集团执行董事，曾被何鸿燊称赞是最能帮忙的女儿，她的不幸离世引发公众关注，多家媒体相继报道此事，其与何鸿燊侄女黎芷珊的深厚友情也被外界提及。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qbkFXX0NqUlExYWdfay1BdUVEVXdKY05iVEZnTHJTMDZWenJIeElHQTREaDA0akJQWklaRUdtbHZoV19ROTFuUGU4d1NBSFNRWG1tUlRTbVFMSzVacWJuV1hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T08:28:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "26a3a167",
+      "title": "国台办选郑丽文返台前一刻抛10项惠台措施，陆委会：包装成“大礼包”的糖衣毒药 - RFI",
+      "title_original": null,
+      "summary": "习近平总书记会见中国国民党主席郑丽文后，在郑丽文返台前，中央台办受权发布十项促进两岸交流合作的惠台措施。台湾地区陆委会将该举措污蔑为包装成“大礼包”的糖衣毒药，美方也在此后再度敦促大陆与台湾地区民选当局开展对话。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNOFhmMGEzRDFhQkNyckRIc0JFSTdUYUsxTVhfY2QwVkFmYW44QlM1cW5lNWV1aWszV1psVjlxdjY5Wmd5S3ZRSXI2NEhHVFRWclhScWFzV3hwTGpXa0RTNE5JUG42b1BmYmV0Mkc1RjE1RXZDa3hqaklOUGJIN0lBbDE2OENHOGFrcXlMS2lNcTNaaDd5VEhYakZSRWJCSlgxS19wZlJDLTNiZUxMT2F1VjJ1ZUV2YktHRDc5N2ZWWE1xTUVSYm1ZZXN3TUxCLWg3RUxOanY1SF8ydEdYWTROTXJJNUdxeTFhQ2Jpd2J2RUI1VVc2TzcxTldWLV85c1pDRVpXWDUyR3gxWmtvd28zVkdsWWVQbml0WUdKYVNGMnFSd1JwcTFTRlZqX1p1THpCenEzM0U3WFhMZjBMeXBCYlBNdDE5SWNoZEtmazB6TjQxYnlNR0k5WHRPMDVzdWZjRFVCaGd4Zk4zSEN1clA3b1BXZWZERGFpOGlFQ1RjNXFkV1NmRkpPVGxLdnlCUlFkYk1ZbzlycjNjSk03dHNSNGRuc3pvcVcyaFQzdVQ4NVp0c1JzSEFBVmQwSm1DY1dDdzVfUDY5alFuRF9uc3d2QjFxVVp4QlNyV3ItMHdLWHp1c0tvblpVUWQ5MVZMY045ZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T08:24:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "98ac137c",
+      "title": "印度外汇监管机构批评银行卢比套利交易",
+      "title_original": "India Forex Regulator Criticizes Banks’ Rupee Arbitrage Trades",
+      "summary": "中东局势紧张期间印度卢比走弱，印度储备银行一名高级官员批评外汇做市商开展卢比套利交易，加剧了卢比跌势。作为印度外汇监管机构，印储行正持续释放强硬信号，以捍卫卢比汇率稳定。",
+      "summary_original": "A senior Reserve Bank of India official criticized foreign-exchange market makers for their role in aggravating the rupee’s weakness during the Middle East tensions, as the regulator keeps up its tough messaging stance in its defense of the currency.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFMAOv00uvf4/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/india-forex-regulator-criticizes-banks-rupee-arbitrage-trades",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T08:12:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e6791500",
+      "title": "学校召开专题会议推进树立和践行正确政绩观学习教育 - 南开大学新闻",
+      "title_original": null,
+      "summary": "近期，多地方多单位推进树立和践行正确政绩观学习教育：南开大学召开专题会议部署相关工作，江西省委常委参加所在部门学习教育读书班，北京市委召开理论学习中心组会议，强调将正确政绩观内化于心外化于行，多家主流媒体也刊文引导树立务实为民的正确政绩观。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12Ukw0WEF5MmZDUVlsRnV2emRuTkVNQTByb1QxZW9vczB1N1Rra0IzZDdac3VRUkRVenQwTVlZcmJqN0xxSk9tLVhNM0xqUU0yZUdfYm1nZE9sSGxaaGQxQkZ0eE5UcHVDVlk3cFpjT0draTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T07:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7d21604e",
+      "title": "海地一旅游景点发生踩踏 恐至少30人死亡",
+      "title_original": "At least 30 feared dead in crush at Haitian tourist site",
+      "summary": "海地一处旅游景点发生踩踏事故，目前恐造成至少30人死亡。海地总理表示，这起事故发生在一场有众多年轻人参与的旅游活动中，目前暂未公布更多关于事故原因、救援处置等相关细节信息。",
+      "summary_original": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
+      "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T07:22:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3c6ada3c",
+      "title": "学习新语｜形式主义根源是政绩观错位_重点推荐_HRB蓝网 - hrbtv.net",
+      "title_original": null,
+      "summary": "当前基层存在要求事事留痕、错把“痕迹”当“政绩”等形式主义问题，这类问题的根源在于党员干部政绩观错位。要持续整治形式主义为基层减负，需推动党员干部树牢正确政绩观，落实好整治形式主义为基层减负的长效机制。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpRDVoWWZZMzlkaE5lSjRXVV80TkVqSk1Tc1hNblZCVkFSNk82dUdZUFRaak9NLXpMUkRHZnZGeHpYOV9hQjgtNHBibkZTQV9PUlNSS2YzV0pTZTlUVnJrWHJReHdIUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T07:11:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4123f2e4",
+      "title": "以色列评估美伊停火可能延长 - 每日经济新闻",
+      "title_original": null,
+      "summary": "多家媒体报道，以色列评估美伊停火有可能延长，同时也在为战火重燃做准备。当前以色列在黎巴嫩发动大规模打击，拒绝与真主党讨论停火，伊朗称美国已同意在黎停火。特朗普表示不清楚美伊谈判进展，若谈判不顺利已准备好重启相关行动。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMQThmaG85Z0V6MUdzWElmaFhtaVNQSFZmSWt6YVB1TDJHUXB1SmtpbURtRGZnNmh4em5aNHZWVHJNNkRia3VuZFljTEc2V3ZmQnljaXhKanJXdGtONFp0MVdzYmNhQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-12T05:42:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "913c1577",
+      "title": "检察官调查针对加州州长候选人斯沃尔韦尔的滥权指控",
+      "title_original": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+      "summary": "近日，检察官针对加州州长候选人斯沃尔韦尔的相关指控展开调查。斯沃尔韦尔是知名度较高的民主党人，也是此次加州州长选举的热门领跑候选人，他已公开作出回应，坚决否认所有针对自己的指控。",
+      "summary_original": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg",
+      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T05:22:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "60de67e9",
+      "title": "美伊谈判破裂 油轮在霍尔木兹海峡掉头",
+      "title_original": "Oil Tankers U-Turn in Hormuz as US-Iran Talks Break Down",
+      "summary": "周日，两艘空载原油油轮试图穿过霍尔木兹海峡进入波斯湾。就在美伊和平谈判破裂、双方脆弱停火局面受到威胁之际，两艘油轮在航行最后时刻选择掉头折返，为这一全球核心能源航道增添了局势变数。",
+      "summary_original": "Two empty crude tankers attempted to make their way through the Strait of Hormuz and into the Persian Gulf on Sunday, only to make last-minute U-turns just as peace negotiations between the US and Iran broke down, threatening a fragile ceasefire.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuCUs.bC6HMs/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/two-supertankers-u-turn-in-hormuz-as-us-iran-talks-break-down",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T05:02:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8d41719d",
+      "title": "全球瞩目下匈牙利大选投票 要点一览",
+      "title_original": "What to Know as Hungary Votes in Elections Watched by the World",
+      "summary": "匈牙利将于周日举行全球瞩目的大选，现任总理欧尔班·维克托是全球民粹主义的标杆人物，当前其政治处境不容乐观，本次选举结果将产生深远影响，备受国际社会高度关注。",
+      "summary_original": "With Prime Minister Viktor Orban, a standard-bearer for global populism, in political peril, the vote on Sunday could have far-reaching implications.",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-hungary-election-wtwf-lqkw/12int-hungary-election-wtwf-lqkw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T04:01:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fe69bf5e",
+      "title": "多项民调称欧尔班将败选 投票未开始他已占优势",
+      "title_original": "Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.",
+      "summary": "多项民调预测匈牙利总理欧尔班将在选举中败选，但实际上投票尚未开始，欧尔班就已经占据优势。执掌国家16年来，欧尔班所在政党多次修改选举制度为自身谋利，导致此次选举虽自由却并非完全公平。",
+      "summary_original": "Over 16 years, Prime Minister Viktor Orban’s party has repeatedly tweaked the electoral system to its advantage, making the vote free, but not entirely fair.",
+      "image": "https://static01.nyt.com/images/2026/04/11/multimedia/11int-hungary-election-control-TOP-SWAP-vzwt/11int-hungary-election-control-TOP-SWAP-vzwt-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T04:01:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8db8dd67",
+      "title": "因情歌入狱？确有其事，歌声未歇",
+      "title_original": "Jailed for Love Songs? Yes, and Still Singing.",
+      "summary": "越南音乐人阮文洛在越南战争期间以及战后，因演绎河内古老浪漫情歌遭受迫害入狱。他从未停止歌唱，也始终不愿停下自己的歌声，即便遭遇不公待遇，依然坚守着对歌唱与音乐的热爱。",
+      "summary_original": "Nguyen Van Loc was persecuted for performing Hanoi’s old romantic music during (and after) the Vietnam War. He can’t stop. He won’t stop.",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/00vietnam-singer-profile-fbjg/00vietnam-singer-profile-fbjg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-12T04:01:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ec41249",
+      "title": "与台湾反对党会谈后中国公布对台善意举措",
+      "title_original": "China Unveils Taiwan Goodwill Steps After Opposition Talks",
+      "summary": "习近平主席与台湾反对党领袖郑丽文举行具有里程碑意义的会谈后，中国于周日正式宣布一系列对台政策措施，相关举措以向台湾展现友好善意为目的，是此次会谈后推出的重要对台政策安排。",
+      "summary_original": "China announced a series of policy measures to demonstrate “goodwill” toward Taiwan on Sunday, following a landmark meeting between President Xi Jinping and Taiwan opposition leader Cheng Li-wun.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipcRzgjtby9g/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T03:29:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d9efdcc6",
+      "title": "沃尔玛旗下Flipkart与亚马逊挤压印度即时商务初创企业",
+      "title_original": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "summary": "分析师指出，沃尔玛旗下电商平台Flipkart正持续向印度大城市以外区域扩张，还通过大额折扣招揽消费者，叠加亚马逊的市场布局，这一态势正不断挤压印度本土即时商务初创企业的生存空间，给其发展带来显著风险。",
+      "summary_original": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-12T03:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "12f157e2",
+      "title": "美伊马拉松会谈后未达成和平协议",
+      "title_original": "US, Iran Fail to Reach Peace Agreement After Marathon Talks",
+      "summary": "美伊在巴基斯坦结束的直接会谈未达成任何协议。此次对话围绕一场已持续六周的战争展开，这场战争已造成数千人死亡，扰乱全球能源供应。未达成协议的结果令脆弱停火面临风险，也为结束战争的相关努力蒙上疑云。",
+      "summary_original": "The US and Iran ended direct talks in Pakistan without an agreement, putting a fragile ceasefire at risk and raising doubts over efforts to end a six-week war that has killed thousands and disrupted global energy supplies.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izq28JcFvGk8/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-12/us-hasn-t-reached-agreement-with-iran-vance-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-12T01:37:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cd02d021",
+      "title": "幻想破灭的特朗普选民为何耗时数小时搜寻爱泼斯坦文件",
+      "title_original": "Why this disillusioned Trump voter spends hours searching Epstein files",
+      "summary": "不少特朗普支持者对特朗普前司法部长帕姆·邦迪处理爱泼斯坦相关文件的方式表达不满，一名原本支持特朗普、如今幻想破灭的选民，为此花费数小时自行搜寻相关文件，凸显出部分支持者对该案文件处理方式的不满情绪。",
+      "summary_original": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fe/live/c8e4a650-33f8-11f1-a4ee-f9cebb92412a.jpg",
+      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-12T00:30:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77d5bd87",
+      "title": "荷兰成为首个批准特斯拉监督式全自动驾驶的欧洲国家",
+      "title_original": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+      "summary": "荷兰监管机构RDW宣布，经过一年半以上的测试，正式批准特斯拉监督式全自动驾驶技术（FSD），荷兰由此成为首个允许该技术在本国道路投入使用的欧洲国家，此举或为该技术在整个欧盟的普及打开通道。",
+      "summary_original": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize the use of FSD on its roads. This could open the door to wider adoption throughout the EU. Tesla's European headquarters [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T23:22:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d1e11933",
+      "title": "卡尔希涉亚利桑那州刑事案件获临时暂停",
+      "title_original": "Kalshi wins temporary pause in Arizona criminal case",
+      "summary": "美国商品期货交易委员会周五发布公告称，该机构已赢得临时限制令，可阻止美国亚利桑那州对Kalshi（卡尔希）推进相关刑事诉讼，卡尔希涉及的该起刑事案件目前已被临时中止审理。",
+      "summary_original": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-11T21:20:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8736cdee",
+      "title": "AMC将在TikTok分21段流媒体播出《大胆》首映",
+      "title_original": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+      "summary": "美国影视平台AMC宣布，将把新作《大胆》的首映内容拆分为21段，在短视频平台TikTok上线流媒体播出。这一操作引发讨论，有观点认为这是制造话题热度的明智操作，也有观点质疑这只是模仿短内容平台Quibi的怪异尝试。",
+      "summary_original": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-11T20:32:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "daf4461e",
+      "title": "德国极右翼选择党在关键选举前通过“激进”纲领",
+      "title_original": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+      "summary": "德国极右翼政党选择党已在关键选举临近前夕通过一份“激进”竞选纲领，目前该政党在德国东部萨克森-安哈尔特州的民意调查中支持率居高不下，选情走势受到德国舆论的广泛关注。",
+      "summary_original": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0752/live/9cda8020-35c9-11f1-aa65-43b95e4e356e.jpg",
+      "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-11T18:55:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a014dbf2",
+      "title": "自称\"路西法\"的持刀男子在纽约大中央车站砍伤三人",
+      "title_original": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
+      "summary": "一名自称\"路西法\"的持刀男子在纽约大中央车站行凶，共砍伤三人。纽约市警察局表示，警方到场后要求嫌疑人放下凶器，嫌疑人无视至少20次缴械要求，最终警方开枪将嫌疑人击毙。",
+      "summary_original": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, NYPD says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d402/live/d0298e10-35d0-11f1-8c7c-0fd6b3a59753.jpg",
+      "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-11T18:08:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0d1c21e4",
+      "title": "山姆·奥尔特曼住所遇袭后回应《纽约客》煽动性报道",
+      "title_original": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "OpenAI首席执行官山姆·奥尔特曼发布一篇新博客文章，针对两起事件作出回应，其一为发生在其住所的袭击事件，其二为《纽约客》刊发的一篇深度报道，该报道对奥尔特曼的个人可信度提出了质疑。",
+      "summary_original": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-11T17:18:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0d1c21e4",
+      "title": "住所遇袭后，萨姆·奥特曼回应《纽约客》煽动性文章",
+      "title_original": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "OpenAI首席执行官萨姆·奥特曼最新发布一篇博客文章，针对两起事件作出回应，一起是近日发生在其住所的明显袭击事件，另一起是《纽约客》刊发的深度报道，该报道对萨姆·奥特曼的个人可信度提出了质疑。",
+      "summary_original": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-11T17:18:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "78e52345",
+      "title": "谷歌称Polymarket投注出现在谷歌新闻中是‘错误’",
+      "title_original": "Google says Polymarket bets showing up in News was an ‘error’",
+      "summary": "此前Polymarket的投注内容开始出现在谷歌新闻中，与正规新闻一同展示，目前相关搜索结果已不再显示。谷歌发言人表示，谷歌新闻定位是展示时事相关内容且有对应内容政策，这类内容本不该展示，此次出现是失误。",
+      "summary_original": "Polymarket bets started popping up in Google News alongside legitimate news articles. But now those results aren't showing, and Google says they were never supposed to. Spokesperson Ned Adriance told The Verge that \"Google News is designed to show sources that create content about current issues, events, and important topics, and we have policies for [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T15:07:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "40a95d31",
+      "title": "恐慌抢油潮席卷全球石油市场",
+      "title_original": "A Panicked Race for Barrels Grips the Global Oil Market",
+      "summary": "上周，投资者大多聚焦伊朗脆弱的停火局势，全球石油市场正上演一场疯狂的原油抢购，贸易商与炼油企业正在全球各地搜寻可立即交付的现货供应，市场陷入对现有原油货量的紧急争夺。",
+      "summary_original": "While investors focused on the fragile Iranian ceasefire last week, a desperate scramble for cargoes has been playing out in the oil market, as traders and refiners scour the globe for immediately available supplies.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBEMslt1mqg/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-11/the-oil-market-is-in-the-grip-of-a-panicked-race-for-barrels",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-11T15:00:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "30f20160",
+      "title": "《宝可梦冠军》开局不顺",
+      "title_original": "Pokémon Champions is off to a rough start",
+      "summary": "免费开玩的对战模拟游戏《宝可梦冠军》现已登陆Switch及Switch 2平台，今年晚些时候还将推出移动端。和此前不少在线服务型游戏一样，它上线问题频发，被大量bug困扰，部分bug甚至影响基础对战机制，开局出师不利。",
+      "summary_original": "Like many live-service games before it, Pok&#233;mon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this year), is plagued with bugs, some of which cause issues with basic battle mechanics - not great for a game that's only [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2f7c7321",
+      "title": "报道AI的文章无需使用AI艺术配图",
+      "title_original": "Your article about AI doesn’t need AI art",
+      "summary": "《纽约客》刊发OpenAI首席执行官萨姆·奥尔特曼的人物侧记，其AI生成的配图效果惊悚：奥尔特曼头部周围环绕着多个形态怪异、辨识度低、神情诡异的仿奥尔特曼面孔，由此提出，与AI相关的报道并不需要搭配AI生成的艺术内容。",
+      "summary_original": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1414147",
+      "title": "谷歌最新款Nest可视门铃迎来全年最低价",
+      "title_original": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
+      "summary": "不少人担心外出时快递包裹被偷，可视门铃可让人们随时查看配送情况，免除后顾之忧。目前谷歌第二代电池版Nest可视门铃在亚马逊等渠道降价，直降50美元，现价仅129.99美元，为该产品全年最低价。",
+      "summary_original": "If you’ve ever worried about porch pirates stealing packages while you’re away, a video doorbell can offer some peace of mind, letting you keep tabs on deliveries no matter where you are. Google offers some of the best around, and right now, its battery-powered, second-gen Nest Doorbell is available for $129.99 ($50 off) from&#160;Amazon and [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2f7c7321",
+      "title": "关于AI的文章无需使用AI艺术配图",
+      "title_original": "Your article about AI doesn’t need AI art",
+      "summary": "有观点认为，报道人工智能相关内容的文章无需使用AI生成艺术做配图。《纽约客》此前刊发OpenAI首席执行官萨姆·奥尔特曼的人物侧记，其AI生成配图效果惊悚，奥尔特曼头部周围环绕多个表情诡异、大多不像本人的无实体分身面孔。",
+      "summary_original": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cb916370",
+      "title": "尼日利亚近400人因关联伊斯兰激进分子被判刑",
+      "title_original": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+      "summary": "尼日利亚近400名与伊斯兰激进分子存在关联的人员，日前完成大规模集体审判。法官根据涉案人员的不同情节作出判决，刑期跨度从五年有期徒刑到终身监禁不等，所有涉案人员均已正式获刑。",
+      "summary_original": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ca/live/6a0959f0-35b0-11f1-bfb7-dfacb91b9fa4.jpg",
+      "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-11T14:41:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f387e603",
+      "title": "获英伟达支持的SiFive估值达36.5亿美元 主打开放AI芯片",
+      "title_original": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "summary": "获得英伟达支持的SiFive目前估值已达36.5亿美元，这家企业主打开放AI芯片，芯片设计基于RISC-V架构，不同于当前市场主流的x86与ARM架构，技术路线独具特点。",
+      "summary_original": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-11T14:03:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "65fd203d",
+      "title": "我的小鹿毛绒公仔告诉我，密茨基父亲是中情局特工",
+      "title_original": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "summary": "两周前，一名当事人正准备下班下线时，收到朋友发来的突发短信。朋友提及，网络上有传言称创作歌手密茨基的父亲是美国中情局特工，这条突如其来的消息让当事人十分吃惊。",
+      "summary_original": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "65fd203d",
+      "title": "我的小鹿毛绒公仔告诉我，Mitski的父亲是中情局特工",
+      "title_original": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "summary": "两周前，一名网友正准备下班下线时，收到朋友发来的短信，朋友提及网传歌手Mitski的父亲是美国中情局特工。这类突如其来的八卦消息一般不会让他感到困扰，但这次却让他大吃一惊。",
+      "summary_original": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-11T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "54f0c4ea",
+      "title": "无需花超50美元即可购得优质Switch 2 USB-C底座",
+      "title_original": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+      "summary": "任天堂推出的新款主机Switch 2，对第三方配件厂商而言带来诸多新变化。官方更改了手柄连接新主机的无线协议，还调整了USB-C接口的视频输出方式，这使得Switch 2发布之初，所有第三方厂商都必须从头研发相关配件。",
+      "summary_original": "Nintendo seemingly designed its latest console to be a mystery for third-party accessory makers. With the Switch 2, the company changed the wireless protocol for connecting controllers to the new system, as well as how it outputs video over USB-C, making it clear at launch that every third-party manufacturer needed to start over from scratch. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T13:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2a89603b",
+      "title": "恶魔与弹珠台堪称绝配",
+      "title_original": "Demons and pinball are a perfect match",
+      "summary": "作者称自己一直保留Wii U游戏机，只为能方便游玩经典弹珠游戏《恶魔粉碎》。多年来这款游戏已经成为他的慰藉游戏，他觉得熟悉的弹珠玩法搭配恶魔相关主题，有种难以言说的独特魅力。",
+      "summary_original": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm not entirely sure what it is, but there's something about the combination of familiar pinball [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-11T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a1b2fa60",
+      "title": "伊朗如何在网帖大战中胜白宫一筹",
+      "title_original": "How Iran out-shitposted the White House",
+      "summary": "对伊战争开打初期，美国白宫在网络上忙于发布《使命召唤》梗图、跳舞保龄球瓶这类AI生成的低质内容，伊朗官方媒体则密集推送大量德黑兰爆炸、浓烟漫天的战场现场视频，在网络舆论交锋中占据上风。",
+      "summary_original": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-11T13:00:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "ff2d74e4",
+      "title": "伊朗战争最新实时更新：伊朗首席谈判代表称进一步和谈仍有可能",
+      "summary": "美国副总统万斯周日表示，美国与伊朗开展的马拉松式谈判未能立即达成结束战争的协议。此前伊朗首席谈判代表曾表态，双方仍有可能举行进一步的和平谈判，相关进展备受国际关注。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12live-mideast-top-bmtk-promo/12live-mideast-top-bmtk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bc66d030"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bc66d030",
+          "source": "NYTimes World",
+          "title": "伊朗战争最新实时更新：伊朗首席谈判代表称进一步和谈仍有可能",
+          "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+          "published_at": "2026-04-12T12:27:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:27:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71371e24",
+      "title": "秘鲁投票选举总统与两院制国会 谋求政局稳定",
+      "summary": "秘鲁周日举行选举，选民将从创纪录的36名候选人中选出新任总统，同时改组立法机构。本次选举后，秘鲁立法机构将在三十多年来首次重回两院制，此次选举被寄予实现国家政局稳定的期望。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWlYUdeFq7Vs/v5/1200x-1.jpg",
+      "article_ids": [
+        "b38943ab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b38943ab",
+          "source": "Bloomberg",
+          "title": "秘鲁投票选举总统与两院制国会 谋求政局稳定",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability",
+          "published_at": "2026-04-12T12:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdbc8e5b",
+      "title": "匈牙利大选投票 欧尔班前途未卜",
+      "summary": "匈牙利周日正在举行大选投票，已执政十六年的现任总统欧尔班，面临主要对手彼得·迈杰尔的强劲挑战。投票过程中，双方互指对方存在投票违规、假旗操作行为，彭博社欧洲记者将做客彭博周末节目讨论本次选举。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irxmdJSa4O74/v3/1200x-1.jpg",
+      "article_ids": [
+        "b0edb324"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b0edb324",
+          "source": "Bloomberg",
+          "title": "匈牙利大选投票 欧尔班前途未卜",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-12/orban-s-fate-uncertain-as-hungary-votes-video",
+          "published_at": "2026-04-12T12:14:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:14:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "228b8d99",
+      "title": "深入探访试图打破中国矿产钳制的美国初创企业",
+      "summary": "彭博社相关访谈提到，十余年来中国已实际上垄断了供给智能手机、战机等各类产品的关键矿产，美国正加紧追赶。访谈对象涵盖美国新罕布什尔州试图打破供应链钳制的初创企业负责人，以及学者、前美国驻华大使，探讨美国落后原因及创新能否助其反超。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.Q8S.ebCWDU/v3/1200x-1.jpg",
+      "article_ids": [
+        "62cf5604"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "62cf5604",
+          "source": "Bloomberg",
+          "title": "深入探访试图打破中国矿产钳制的美国初创企业",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-12/can-the-us-ever-catch-up-to-china-on-rare-earths-video",
+          "published_at": "2026-04-12T12:03:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:03:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82daea0a",
+      "title": "匈牙利民众大规模投票 决定是否终结欧尔班统治并选举反对者",
+      "summary": "本次选举将就匈牙利是否终结欧尔班统治、选举新领导人作出决定。多数民调偏向率领草根政党的彼得·毛焦尔，早期数据显示，本次选举投票率创下纪录，民众参与投票的热情极高。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ca/live/c2585e40-3654-11f1-879d-1b2f5c3919b8.png",
+      "article_ids": [
+        "523f7818"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "523f7818",
+          "source": "BBC World",
+          "title": "匈牙利民众大规模投票 决定是否终结欧尔班统治并选举反对者",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T12:02:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:02:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ee7553d",
+      "title": "AI代码大战日渐升温",
+      "summary": "这是每周一期的科技领域通讯《The Stepback》推出的内容，这份通讯于美国东部时间每周早8点推送至订阅者邮箱，用户可在线订阅。本次内容围绕AI编码热潮展开，想要了解更多AI编码、氛围编码相关动态可关注作者David Pierce。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f455aef5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f455aef5",
+          "source": "The Verge",
+          "title": "AI代码大战日渐升温",
+          "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+          "published_at": "2026-04-12T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ee7553d",
+      "title": "AI代码大战升温",
+      "summary": "科技领域每周通讯The Stepback主打拆解行业核心议题，本次将聚焦AI编码与氛围感编码热潮展开解读，由撰稿人大卫·皮尔斯出品，编码曾是AI领域的杀手级应用，订阅用户可于美国东部时间每周早8点收到推送，感兴趣的读者可在线订阅。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f455aef5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "f455aef5",
+          "source": "The Verge AI",
+          "title": "AI代码大战升温",
+          "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+          "published_at": "2026-04-12T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e54b4b05",
+      "title": "乌俄相互指责对方数百次违反停火协议",
+      "summary": "乌俄两国近期相互指责对方实施了数百次违反停火协议的行为，乌克兰总统泽连斯基表示，乌克兰武装部队将针对俄罗斯的攻击采取“对等”回应，双方停火共识屡遭破坏，地区局势持续紧张。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
+      "article_ids": [
+        "9ee7405b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9ee7405b",
+          "source": "BBC World",
+          "title": "乌俄相互指责对方数百次违反停火协议",
+          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T11:53:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:53:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f2cd5774",
+      "title": "2026世界互联网大会亚太峰会将启 共话数智赋能创新发展 - 中国网新闻中心",
+      "summary": "2026世界互联网大会亚太峰会即将启幕，本次峰会将围绕数智赋能创新发展开展交流探讨，相关内容由中国网新闻中心发布，读者可前往Google新闻平台查看该事件的完整报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "6278731e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6278731e",
+          "source": "Google News (中国)",
+          "title": "2026世界互联网大会亚太峰会将启 共话数智赋能创新发展 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KYUJOQ3B3aVJKTHVPZjl3azVRQ1hxZV90WTFNZzhhTzA2dW1ObkpJNk0wSm5lQkd0czVTT01RVTNKS0hrU0g2UHpQTFlLUjMxSUxVVWVpcGhaYTFCQVMwXzRqU0dDLXBTYy1nS01udEg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T11:53:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:53:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f74c234f",
+      "title": "伊斯兰堡和谈落幕，巴基斯坦下一步何去何从？",
+      "summary": "伊斯兰堡和谈现已结束，参与此次和谈的美国与伊朗代表团均已离开伊斯兰堡。目前停火前景尚不明朗，巴基斯坦在应对相关后续局势的同时，还需直面自身面临的诸多经济与外交挑战。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "666e1a75"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "666e1a75",
+          "source": "NYTimes World",
+          "title": "伊斯兰堡和谈落幕，巴基斯坦下一步何去何从？",
+          "link": "https://www.nytimes.com/2026/04/12/world/asia/iran-peace-talks-pakistan.html",
+          "published_at": "2026-04-12T11:50:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:50:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7692ec11",
+      "title": "一文读懂伊斯兰堡美伊谈判 - 新华网",
+      "summary": "新华网推出题为《一文读懂伊斯兰堡美伊谈判》的相关报道，聚焦在伊斯兰堡举行的美伊谈判，梳理解读该谈判的相关信息，帮助读者清晰掌握这一国际事件的相关情况，该报道的完整内容可前往Google新闻平台查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7c5d5cc8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7c5d5cc8",
+          "source": "Google News (中国)",
+          "title": "一文读懂伊斯兰堡美伊谈判 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYkV5Z1RJc19ZQkZiWGxnWDJtdnM5cnFPa0FKd1hiV2lIVlZYb0NnbkU3TE5sX3k0aVRRT3JmRkJpNEN1S0YwU2pRQjdCSGVQMmlWZEZsRHZqVWZNd1NXSUJwN2J1dURsMEF5S0xuUm1nUmJNNTZDSGZxMmFlbFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T11:39:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:39:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ffe15d8f",
+      "title": "特朗普自曝还有“王牌”！伊朗警告：霍尔木兹海峡通行费必须以伊朗货币支付 - 凤凰网财经",
+      "summary": "美伊谈判即将启动，目前霍尔木兹海峡仍未开放。美国方面特朗普自曝握有应对局势的“王牌”，伊朗作出一系列强硬表态，要求该海峡通行费以伊朗货币支付，明确通航须获得伊朗许可，称世界将见证霍尔木兹海峡新格局。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "39a08e24"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "39a08e24",
+          "source": "Google News (中国)",
+          "title": "特朗普自曝还有“王牌”！伊朗警告：霍尔木兹海峡通行费必须以伊朗货币支付 - 凤凰网财经",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nM3JsNlJGaWJXblR1X21DaGRPYTJfaThrM3ZST3pzOXpoNXZKemJPXzR4YWNmSDVENFBfLUIwOWNyYXdSeHk3czloNlBfZ0Z5?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T11:32:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:32:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a75c563",
+      "title": "伊朗称在巴基斯坦谈判中美国只想发号施令无意谈判",
+      "summary": "伊朗认为美国提出的相关要求，远远超出伊朗在当前战事中取得的成果范围。专家分析，目前德黑兰正押注自身比美国更能承受后续打击，而美国并不愿意承受经济混乱带来的持续冲击。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-iran-assess-tczv/12int-iran-assess-tczv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4870e81b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4870e81b",
+          "source": "NYTimes World",
+          "title": "伊朗称在巴基斯坦谈判中美国只想发号施令无意谈判",
+          "link": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
+          "published_at": "2026-04-12T11:24:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:24:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "909a1dc0",
+      "title": "请容我解释为何我喜爱这款无法拍摄彩色的相机",
+      "summary": "作者钟爱黑白摄影与可随身携带的紧凑型相机，因此对理光GR IV黑白款相机十分青睐。该款为定焦相机，既无法变焦，也完全不能拍摄彩色，常会令普通消费者感到疑惑，作者已完成对这款相机的测试，将分享喜爱它的缘由。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "38b184a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "38b184a5",
+          "source": "The Verge",
+          "title": "请容我解释为何我喜爱这款无法拍摄彩色的相机",
+          "link": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+          "published_at": "2026-04-12T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "561f534c",
+      "title": "贾斯汀·比伯携充满怀旧感的演出压轴科切拉",
+      "summary": "知名歌手贾斯汀·比伯在科切拉音乐节带来主打怀旧氛围的领衔演出，演出中他大多跟着《Baby》《永不言败》等早年热门单曲的YouTube原版视频演唱，带领全场乐迷重温青春记忆。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d135/live/63585db0-365d-11f1-a35a-c10911d2db0e.jpg",
+      "article_ids": [
+        "b17197e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b17197e9",
+          "source": "BBC World",
+          "title": "贾斯汀·比伯携充满怀旧感的演出压轴科切拉",
+          "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T10:07:58+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T10:07:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f8f4795",
+      "title": "宝莱坞之声阿莎·博斯勒辞世 享年92岁",
+      "summary": "享有“宝莱坞之声”美誉的印度知名歌手阿莎·博斯勒辞世，享年92岁。她的嗓音极具感染力，总能带动歌迷随之载歌载舞，作品陪伴了印度数代人成长，早已成为几代印度人共同的声音印记。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
+      "article_ids": [
+        "9f56e685"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9f56e685",
+          "source": "BBC World",
+          "title": "宝莱坞之声阿莎·博斯勒辞世 享年92岁",
+          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T10:03:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T10:03:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "898bb3cc",
+      "title": "事件投注给计划开展相关交易的华尔街公司带来难题",
+      "summary": "当前预测市场蓬勃发展，从耶稣再临到世界杯冠军归属，各类事件都成为投注标的，带动Polymarket、Kalshi等平台周交易量达到数十亿美元，这一快速增长的市场给有意开展相关交易的华尔街公司带来了难题。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMPaB4PBRN60/v1/1200x-1.jpg",
+      "article_ids": [
+        "58ee7271"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "58ee7271",
+          "source": "Bloomberg",
+          "title": "事件投注给计划开展相关交易的华尔街公司带来难题",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/event-bets-pose-a-problem-for-wall-street-firms-looking-to-trade",
+          "published_at": "2026-04-12T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d56288c7",
+      "title": "数智农具不断“上新”、网络成为“新农资” 智慧农业为乡村插上“科技翅膀”-中新网 - chinanews.com.cn",
+      "summary": "当前正值春耕生产时节，智慧农业为乡村农业发展注入新动能，各类数智农具持续更新上线，网络成为农业生产的“新农资”，各地正高质量推进春季农业生产，科技赋能的新质生产力为乡村农业发展插上“科技翅膀”，助力绘就春耕丰景。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f17ca133"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f17ca133",
+          "source": "Google News (中国)",
+          "title": "数智农具不断“上新”、网络成为“新农资” 智慧农业为乡村插上“科技翅膀”-中新网 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91RnBJM2NrNGdEWFNtWVlrZzRwamRSVlBGcTFGZGJDLW84bjNQblNFR01HTlVTWGg2bWp2NjF5aXEtVzFBeHp3OHJYcl9fZWxYQW0tUm96MFpIdm5XQjVMSEZHZHVHU0ZE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T09:30:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:30:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad14bfd4",
+      "title": "美伊谈判失败 周一风险资产将承压",
+      "summary": "上周末美伊围绕相关议题的谈判未能达成协议，分析师认为，这一谈判破裂的结果将在周一拖累市场整体情绪，推升市场对避险资产的需求，风险资产届时将承受明显下行压力。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if3iBAcHk.oo/v1/1200x-1.jpg",
+      "article_ids": [
+        "3700ad1b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3700ad1b",
+          "source": "Bloomberg",
+          "title": "美伊谈判失败 周一风险资产将承压",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/failure-of-us-iran-talks-set-to-weigh-on-risk-assets-monday",
+          "published_at": "2026-04-12T09:17:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:17:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9cead16d",
+      "title": "秘鲁举行总统选举 选票列35名候选人",
+      "summary": "秘鲁开启总统选举，本次选举共有35名候选人进入最终选票。多年来政治不稳定一直困扰秘鲁，该国自2021年以来已先后更迭三任总统，目前舆论普遍不看好此次选举能够解决该国长期存在的政治动荡问题。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-peru-election-wtk-fpkc/12int-peru-election-wtk-fpkc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f1b55786"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f1b55786",
+          "source": "NYTimes World",
+          "title": "秘鲁举行总统选举 选票列35名候选人",
+          "link": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
+          "published_at": "2026-04-12T09:02:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:02:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b153297",
+      "title": "深入遭以色列轰炸的黎巴嫩城市提尔",
+      "summary": "位于黎巴嫩沿海的提尔城，目前正遭到以色列近乎每日的轰炸。轰炸已造成当地平民伤亡，持续的炮火打破了城市的平静，迫使当地大量民众离开住所，四处寻找安全的避难场所躲避战事。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "184721ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "184721ee",
+          "source": "NYTimes World",
+          "title": "深入遭以色列轰炸的黎巴嫩城市提尔",
+          "link": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
+          "published_at": "2026-04-12T09:02:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:02:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c083c2b",
+      "title": "海地北部知名旅游景点拉费雷耶尔城堡发生踩踏事故已致至少30人死亡",
+      "summary": "海地北部知名历史旅游景点拉费雷耶尔城堡发生大规模踩踏事故，该事故发生在有众多年轻人参与的旅游活动中，目前已造成至少30人死亡，暂未公布事故原因、救援处置等更多相关细节",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "13050ca7",
+        "7d21604e"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "13050ca7",
+          "source": "NYTimes World",
+          "title": "海地一旅游景点发生大规模踩踏 数十人死亡",
+          "link": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+          "published_at": "2026-04-12T09:01:59+00:00"
+        },
+        {
+          "id": "7d21604e",
+          "source": "BBC World",
+          "title": "海地一旅游景点发生踩踏 恐至少30人死亡",
+          "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T07:22:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:01:59+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "7e8a7f46",
+      "title": "遭数十家急诊室拒收：韩国身陷医疗危机",
+      "summary": "韩国拥有世界一流的医疗体系，但每年仍有数百名患者难以获得急诊救治，部分患者因找不到接诊机构导致救治延误，已经出现死亡案例，该国目前正面临严重的急诊医疗危机。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f21de4a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f21de4a0",
+          "source": "NYTimes World",
+          "title": "遭数十家急诊室拒收：韩国身陷医疗危机",
+          "link": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+          "published_at": "2026-04-12T09:00:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T09:00:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d674ae12",
+      "title": "第六届消博会即将举行：国际展品占比65%，超两百个系列新品发布 - thepaper.cn",
+      "summary": "第六届消博会即将举办，本届展会国际展品占比达65%，将发布超两百个系列新品。目前各项筹备就绪，全球好物陆续集结进场。其中海口国家高新区组织43家企业的超300件展品参展，青海也携本地特色好物亮相本届消博会。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "115ba516"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "115ba516",
+          "source": "Google News (中国)",
+          "title": "第六届消博会即将举行：国际展品占比65%，超两百个系列新品发布 - thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NN0hWOEU1SXNPT1o3ZTYwNE1EYlJ5MU9vVVZWY3JHQkNBVkczZkNqWlBTdTFaam1XMEdSeUF1VjZ0RUNGY3ZwT2Z2OUpXakxEQkVkT0ltX3R1eDk1RVE1dg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T08:47:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T08:47:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec1c514f",
+      "title": "“赌王”何鸿燊女儿何超蕸去世 终年60岁 - 观点网",
+      "summary": "\"赌王\"何鸿燊的女儿何超蕸离世，终年60岁。何超蕸生前担任信德集团执行董事，曾被何鸿燊称赞是最能帮忙的女儿，她的不幸离世引发公众关注，多家媒体相继报道此事，其与何鸿燊侄女黎芷珊的深厚友情也被外界提及。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d797c3ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d797c3ee",
+          "source": "Google News (中国)",
+          "title": "“赌王”何鸿燊女儿何超蕸去世 终年60岁 - 观点网",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qbkFXX0NqUlExYWdfay1BdUVEVXdKY05iVEZnTHJTMDZWenJIeElHQTREaDA0akJQWklaRUdtbHZoV19ROTFuUGU4d1NBSFNRWG1tUlRTbVFMSzVacWJuV1hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T08:28:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T08:28:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e05d7c86",
+      "title": "国台办选郑丽文返台前一刻抛10项惠台措施，陆委会：包装成“大礼包”的糖衣毒药 - RFI",
+      "summary": "习近平总书记会见中国国民党主席郑丽文后，在郑丽文返台前，中央台办受权发布十项促进两岸交流合作的惠台措施。台湾地区陆委会将该举措污蔑为包装成“大礼包”的糖衣毒药，美方也在此后再度敦促大陆与台湾地区民选当局开展对话。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "26a3a167"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "26a3a167",
+          "source": "Google News (中国)",
+          "title": "国台办选郑丽文返台前一刻抛10项惠台措施，陆委会：包装成“大礼包”的糖衣毒药 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNOFhmMGEzRDFhQkNyckRIc0JFSTdUYUsxTVhfY2QwVkFmYW44QlM1cW5lNWV1aWszV1psVjlxdjY5Wmd5S3ZRSXI2NEhHVFRWclhScWFzV3hwTGpXa0RTNE5JUG42b1BmYmV0Mkc1RjE1RXZDa3hqaklOUGJIN0lBbDE2OENHOGFrcXlMS2lNcTNaaDd5VEhYakZSRWJCSlgxS19wZlJDLTNiZUxMT2F1VjJ1ZUV2YktHRDc5N2ZWWE1xTUVSYm1ZZXN3TUxCLWg3RUxOanY1SF8ydEdYWTROTXJJNUdxeTFhQ2Jpd2J2RUI1VVc2TzcxTldWLV85c1pDRVpXWDUyR3gxWmtvd28zVkdsWWVQbml0WUdKYVNGMnFSd1JwcTFTRlZqX1p1THpCenEzM0U3WFhMZjBMeXBCYlBNdDE5SWNoZEtmazB6TjQxYnlNR0k5WHRPMDVzdWZjRFVCaGd4Zk4zSEN1clA3b1BXZWZERGFpOGlFQ1RjNXFkV1NmRkpPVGxLdnlCUlFkYk1ZbzlycjNjSk03dHNSNGRuc3pvcVcyaFQzdVQ4NVp0c1JzSEFBVmQwSm1DY1dDdzVfUDY5alFuRF9uc3d2QjFxVVp4QlNyV3ItMHdLWHp1c0tvblpVUWQ5MVZMY045ZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T08:24:27+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T08:24:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "302d512c",
+      "title": "印度外汇监管机构批评银行卢比套利交易",
+      "summary": "中东局势紧张期间印度卢比走弱，印度储备银行一名高级官员批评外汇做市商开展卢比套利交易，加剧了卢比跌势。作为印度外汇监管机构，印储行正持续释放强硬信号，以捍卫卢比汇率稳定。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFMAOv00uvf4/v0/1200x-1.jpg",
+      "article_ids": [
+        "98ac137c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "98ac137c",
+          "source": "Bloomberg",
+          "title": "印度外汇监管机构批评银行卢比套利交易",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/india-forex-regulator-criticizes-banks-rupee-arbitrage-trades",
+          "published_at": "2026-04-12T08:12:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T08:12:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9d25c3b",
+      "title": "学校召开专题会议推进树立和践行正确政绩观学习教育 - 南开大学新闻",
+      "summary": "近期，多地方多单位推进树立和践行正确政绩观学习教育：南开大学召开专题会议部署相关工作，江西省委常委参加所在部门学习教育读书班，北京市委召开理论学习中心组会议，强调将正确政绩观内化于心外化于行，多家主流媒体也刊文引导树立务实为民的正确政绩观。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e6791500"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e6791500",
+          "source": "Google News (中国)",
+          "title": "学校召开专题会议推进树立和践行正确政绩观学习教育 - 南开大学新闻",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12Ukw0WEF5MmZDUVlsRnV2emRuTkVNQTByb1QxZW9vczB1N1Rra0IzZDdac3VRUkRVenQwTVlZcmJqN0xxSk9tLVhNM0xqUU0yZUdfYm1nZE9sSGxaaGQxQkZ0eE5UcHVDVlk3cFpjT0draTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T07:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T07:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cbaed0c7",
+      "title": "学习新语｜形式主义根源是政绩观错位_重点推荐_HRB蓝网 - hrbtv.net",
+      "summary": "当前基层存在要求事事留痕、错把“痕迹”当“政绩”等形式主义问题，这类问题的根源在于党员干部政绩观错位。要持续整治形式主义为基层减负，需推动党员干部树牢正确政绩观，落实好整治形式主义为基层减负的长效机制。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3c6ada3c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3c6ada3c",
+          "source": "Google News (中国)",
+          "title": "学习新语｜形式主义根源是政绩观错位_重点推荐_HRB蓝网 - hrbtv.net",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpRDVoWWZZMzlkaE5lSjRXVV80TkVqSk1Tc1hNblZCVkFSNk82dUdZUFRaak9NLXpMUkRHZnZGeHpYOV9hQjgtNHBibkZTQV9PUlNSS2YzV0pTZTlUVnJrWHJReHdIUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T07:11:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T07:11:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef9f5726",
+      "title": "以色列评估美伊停火可能延长 - 每日经济新闻",
+      "summary": "多家媒体报道，以色列评估美伊停火有可能延长，同时也在为战火重燃做准备。当前以色列在黎巴嫩发动大规模打击，拒绝与真主党讨论停火，伊朗称美国已同意在黎停火。特朗普表示不清楚美伊谈判进展，若谈判不顺利已准备好重启相关行动。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4123f2e4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4123f2e4",
+          "source": "Google News (中国)",
+          "title": "以色列评估美伊停火可能延长 - 每日经济新闻",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMQThmaG85Z0V6MUdzWElmaFhtaVNQSFZmSWt6YVB1TDJHUXB1SmtpbURtRGZnNmh4em5aNHZWVHJNNkRia3VuZFljTEc2V3ZmQnljaXhKanJXdGtONFp0MVdzYmNhQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-12T05:42:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T05:42:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b64ace0e",
+      "title": "检察官调查针对加州州长候选人斯沃尔韦尔的滥权指控",
+      "summary": "近日，检察官针对加州州长候选人斯沃尔韦尔的相关指控展开调查。斯沃尔韦尔是知名度较高的民主党人，也是此次加州州长选举的热门领跑候选人，他已公开作出回应，坚决否认所有针对自己的指控。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg",
+      "article_ids": [
+        "913c1577"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "913c1577",
+          "source": "BBC World",
+          "title": "检察官调查针对加州州长候选人斯沃尔韦尔的滥权指控",
+          "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T05:22:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T05:22:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "841ded63",
+      "title": "美伊谈判破裂 油轮在霍尔木兹海峡掉头",
+      "summary": "周日，两艘空载原油油轮试图穿过霍尔木兹海峡进入波斯湾。就在美伊和平谈判破裂、双方脆弱停火局面受到威胁之际，两艘油轮在航行最后时刻选择掉头折返，为这一全球核心能源航道增添了局势变数。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuCUs.bC6HMs/v0/1200x-1.jpg",
+      "article_ids": [
+        "60de67e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "60de67e9",
+          "source": "Bloomberg",
+          "title": "美伊谈判破裂 油轮在霍尔木兹海峡掉头",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/two-supertankers-u-turn-in-hormuz-as-us-iran-talks-break-down",
+          "published_at": "2026-04-12T05:02:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T05:02:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "44b753d6",
+      "title": "全球瞩目下匈牙利大选投票 要点一览",
+      "summary": "匈牙利将于周日举行全球瞩目的大选，现任总理欧尔班·维克托是全球民粹主义的标杆人物，当前其政治处境不容乐观，本次选举结果将产生深远影响，备受国际社会高度关注。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/12/multimedia/12int-hungary-election-wtwf-lqkw/12int-hungary-election-wtwf-lqkw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "8d41719d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "8d41719d",
+          "source": "NYTimes World",
+          "title": "全球瞩目下匈牙利大选投票 要点一览",
+          "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html",
+          "published_at": "2026-04-12T04:01:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T04:01:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9728dc5",
+      "title": "多项民调称欧尔班将败选 投票未开始他已占优势",
+      "summary": "多项民调预测匈牙利总理欧尔班将在选举中败选，但实际上投票尚未开始，欧尔班就已经占据优势。执掌国家16年来，欧尔班所在政党多次修改选举制度为自身谋利，导致此次选举虽自由却并非完全公平。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/11/multimedia/11int-hungary-election-control-TOP-SWAP-vzwt/11int-hungary-election-control-TOP-SWAP-vzwt-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "fe69bf5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "fe69bf5e",
+          "source": "NYTimes World",
+          "title": "多项民调称欧尔班将败选 投票未开始他已占优势",
+          "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html",
+          "published_at": "2026-04-12T04:01:32+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T04:01:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c18d410",
+      "title": "因情歌入狱？确有其事，歌声未歇",
+      "summary": "越南音乐人阮文洛在越南战争期间以及战后，因演绎河内古老浪漫情歌遭受迫害入狱。他从未停止歌唱，也始终不愿停下自己的歌声，即便遭遇不公待遇，依然坚守着对歌唱与音乐的热爱。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/01/multimedia/00vietnam-singer-profile-fbjg/00vietnam-singer-profile-fbjg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "8db8dd67"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "8db8dd67",
+          "source": "NYTimes World",
+          "title": "因情歌入狱？确有其事，歌声未歇",
+          "link": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
+          "published_at": "2026-04-12T04:01:11+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T04:01:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42f14eca",
+      "title": "与台湾反对党会谈后中国公布对台善意举措",
+      "summary": "习近平主席与台湾反对党领袖郑丽文举行具有里程碑意义的会谈后，中国于周日正式宣布一系列对台政策措施，相关举措以向台湾展现友好善意为目的，是此次会谈后推出的重要对台政策安排。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipcRzgjtby9g/v0/1200x-1.jpg",
+      "article_ids": [
+        "9ec41249"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9ec41249",
+          "source": "Bloomberg",
+          "title": "与台湾反对党会谈后中国公布对台善意举措",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks",
+          "published_at": "2026-04-12T03:29:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T03:29:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "736d3b1b",
+      "title": "沃尔玛旗下Flipkart与亚马逊挤压印度即时商务初创企业",
+      "summary": "分析师指出，沃尔玛旗下电商平台Flipkart正持续向印度大城市以外区域扩张，还通过大额折扣招揽消费者，叠加亚马逊的市场布局，这一态势正不断挤压印度本土即时商务初创企业的生存空间，给其发展带来显著风险。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d9efdcc6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d9efdcc6",
+          "source": "TechCrunch",
+          "title": "沃尔玛旗下Flipkart与亚马逊挤压印度即时商务初创企业",
+          "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+          "published_at": "2026-04-12T03:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T03:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb36b484",
+      "title": "美伊马拉松会谈后未达成和平协议",
+      "summary": "美伊在巴基斯坦结束的直接会谈未达成任何协议。此次对话围绕一场已持续六周的战争展开，这场战争已造成数千人死亡，扰乱全球能源供应。未达成协议的结果令脆弱停火面临风险，也为结束战争的相关努力蒙上疑云。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izq28JcFvGk8/v3/1200x-1.png",
+      "article_ids": [
+        "12f157e2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "12f157e2",
+          "source": "Bloomberg",
+          "title": "美伊马拉松会谈后未达成和平协议",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-12/us-hasn-t-reached-agreement-with-iran-vance-says",
+          "published_at": "2026-04-12T01:37:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T01:37:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ac960d3",
+      "title": "幻想破灭的特朗普选民为何耗时数小时搜寻爱泼斯坦文件",
+      "summary": "不少特朗普支持者对特朗普前司法部长帕姆·邦迪处理爱泼斯坦相关文件的方式表达不满，一名原本支持特朗普、如今幻想破灭的选民，为此花费数小时自行搜寻相关文件，凸显出部分支持者对该案文件处理方式的不满情绪。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fe/live/c8e4a650-33f8-11f1-a4ee-f9cebb92412a.jpg",
+      "article_ids": [
+        "cd02d021"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cd02d021",
+          "source": "BBC World",
+          "title": "幻想破灭的特朗普选民为何耗时数小时搜寻爱泼斯坦文件",
+          "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-12T00:30:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-12T00:30:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cb6f1be",
+      "title": "荷兰成为首个批准特斯拉监督式全自动驾驶的欧洲国家",
+      "summary": "荷兰监管机构RDW宣布，经过一年半以上的测试，正式批准特斯拉监督式全自动驾驶技术（FSD），荷兰由此成为首个允许该技术在本国道路投入使用的欧洲国家，此举或为该技术在整个欧盟的普及打开通道。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "77d5bd87"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "77d5bd87",
+          "source": "The Verge",
+          "title": "荷兰成为首个批准特斯拉监督式全自动驾驶的欧洲国家",
+          "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+          "published_at": "2026-04-11T23:22:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T23:22:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24089edd",
+      "title": "卡尔希涉亚利桑那州刑事案件获临时暂停",
+      "summary": "美国商品期货交易委员会周五发布公告称，该机构已赢得临时限制令，可阻止美国亚利桑那州对Kalshi（卡尔希）推进相关刑事诉讼，卡尔希涉及的该起刑事案件目前已被临时中止审理。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d1e11933"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d1e11933",
+          "source": "TechCrunch",
+          "title": "卡尔希涉亚利桑那州刑事案件获临时暂停",
+          "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+          "published_at": "2026-04-11T21:20:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T21:20:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "530e6851",
+      "title": "AMC将在TikTok分21段流媒体播出《大胆》首映",
+      "summary": "美国影视平台AMC宣布，将把新作《大胆》的首映内容拆分为21段，在短视频平台TikTok上线流媒体播出。这一操作引发讨论，有观点认为这是制造话题热度的明智操作，也有观点质疑这只是模仿短内容平台Quibi的怪异尝试。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8736cdee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "8736cdee",
+          "source": "TechCrunch",
+          "title": "AMC将在TikTok分21段流媒体播出《大胆》首映",
+          "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+          "published_at": "2026-04-11T20:32:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T20:32:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ae30356",
+      "title": "德国极右翼选择党在关键选举前通过“激进”纲领",
+      "summary": "德国极右翼政党选择党已在关键选举临近前夕通过一份“激进”竞选纲领，目前该政党在德国东部萨克森-安哈尔特州的民意调查中支持率居高不下，选情走势受到德国舆论的广泛关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0752/live/9cda8020-35c9-11f1-aa65-43b95e4e356e.jpg",
+      "article_ids": [
+        "daf4461e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "daf4461e",
+          "source": "BBC World",
+          "title": "德国极右翼选择党在关键选举前通过“激进”纲领",
+          "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-11T18:55:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T18:55:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ccbc42d9",
+      "title": "自称\"路西法\"的持刀男子在纽约大中央车站砍伤三人",
+      "summary": "一名自称\"路西法\"的持刀男子在纽约大中央车站行凶，共砍伤三人。纽约市警察局表示，警方到场后要求嫌疑人放下凶器，嫌疑人无视至少20次缴械要求，最终警方开枪将嫌疑人击毙。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d402/live/d0298e10-35d0-11f1-8c7c-0fd6b3a59753.jpg",
+      "article_ids": [
+        "a014dbf2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a014dbf2",
+          "source": "BBC World",
+          "title": "自称\"路西法\"的持刀男子在纽约大中央车站砍伤三人",
+          "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-11T18:08:46+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T18:08:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "50ea327a",
+      "title": "山姆·奥尔特曼住所遇袭后回应《纽约客》煽动性报道",
+      "summary": "OpenAI首席执行官山姆·奥尔特曼发布一篇新博客文章，针对两起事件作出回应，其一为发生在其住所的袭击事件，其二为《纽约客》刊发的一篇深度报道，该报道对奥尔特曼的个人可信度提出了质疑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0d1c21e4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0d1c21e4",
+          "source": "TechCrunch",
+          "title": "山姆·奥尔特曼住所遇袭后回应《纽约客》煽动性报道",
+          "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "published_at": "2026-04-11T17:18:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T17:18:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "50ea327a",
+      "title": "住所遇袭后，萨姆·奥特曼回应《纽约客》煽动性文章",
+      "summary": "OpenAI首席执行官萨姆·奥特曼最新发布一篇博客文章，针对两起事件作出回应，一起是近日发生在其住所的明显袭击事件，另一起是《纽约客》刊发的深度报道，该报道对萨姆·奥特曼的个人可信度提出了质疑。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0d1c21e4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0d1c21e4",
+          "source": "TechCrunch AI",
+          "title": "住所遇袭后，萨姆·奥特曼回应《纽约客》煽动性文章",
+          "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "published_at": "2026-04-11T17:18:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T17:18:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "46b7b80f",
+      "title": "谷歌称Polymarket投注出现在谷歌新闻中是‘错误’",
+      "summary": "此前Polymarket的投注内容开始出现在谷歌新闻中，与正规新闻一同展示，目前相关搜索结果已不再显示。谷歌发言人表示，谷歌新闻定位是展示时事相关内容且有对应内容政策，这类内容本不该展示，此次出现是失误。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "78e52345"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "78e52345",
+          "source": "The Verge",
+          "title": "谷歌称Polymarket投注出现在谷歌新闻中是‘错误’",
+          "link": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+          "published_at": "2026-04-11T15:07:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:07:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f3e1ac6b",
+      "title": "恐慌抢油潮席卷全球石油市场",
+      "summary": "上周，投资者大多聚焦伊朗脆弱的停火局势，全球石油市场正上演一场疯狂的原油抢购，贸易商与炼油企业正在全球各地搜寻可立即交付的现货供应，市场陷入对现有原油货量的紧急争夺。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBEMslt1mqg/v1/1200x-1.jpg",
+      "article_ids": [
+        "40a95d31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "40a95d31",
+          "source": "Bloomberg",
+          "title": "恐慌抢油潮席卷全球石油市场",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-11/the-oil-market-is-in-the-grip-of-a-panicked-race-for-barrels",
+          "published_at": "2026-04-11T15:00:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:00:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0fd86c80",
+      "title": "《宝可梦冠军》开局不顺",
+      "summary": "免费开玩的对战模拟游戏《宝可梦冠军》现已登陆Switch及Switch 2平台，今年晚些时候还将推出移动端。和此前不少在线服务型游戏一样，它上线问题频发，被大量bug困扰，部分bug甚至影响基础对战机制，开局出师不利。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "30f20160"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "30f20160",
+          "source": "The Verge",
+          "title": "《宝可梦冠军》开局不顺",
+          "link": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+          "published_at": "2026-04-11T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8bfe260",
+      "title": "报道AI的文章无需使用AI艺术配图",
+      "summary": "《纽约客》刊发OpenAI首席执行官萨姆·奥尔特曼的人物侧记，其AI生成的配图效果惊悚：奥尔特曼头部周围环绕着多个形态怪异、辨识度低、神情诡异的仿奥尔特曼面孔，由此提出，与AI相关的报道并不需要搭配AI生成的艺术内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2f7c7321"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2f7c7321",
+          "source": "The Verge",
+          "title": "报道AI的文章无需使用AI艺术配图",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "published_at": "2026-04-11T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e0efceb",
+      "title": "谷歌最新款Nest可视门铃迎来全年最低价",
+      "summary": "不少人担心外出时快递包裹被偷，可视门铃可让人们随时查看配送情况，免除后顾之忧。目前谷歌第二代电池版Nest可视门铃在亚马逊等渠道降价，直降50美元，现价仅129.99美元，为该产品全年最低价。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1414147"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f1414147",
+          "source": "The Verge",
+          "title": "谷歌最新款Nest可视门铃迎来全年最低价",
+          "link": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+          "published_at": "2026-04-11T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8bfe260",
+      "title": "关于AI的文章无需使用AI艺术配图",
+      "summary": "有观点认为，报道人工智能相关内容的文章无需使用AI生成艺术做配图。《纽约客》此前刊发OpenAI首席执行官萨姆·奥尔特曼的人物侧记，其AI生成配图效果惊悚，奥尔特曼头部周围环绕多个表情诡异、大多不像本人的无实体分身面孔。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2f7c7321"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "2f7c7321",
+          "source": "The Verge AI",
+          "title": "关于AI的文章无需使用AI艺术配图",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "published_at": "2026-04-11T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "29de306b",
+      "title": "尼日利亚近400人因关联伊斯兰激进分子被判刑",
+      "summary": "尼日利亚近400名与伊斯兰激进分子存在关联的人员，日前完成大规模集体审判。法官根据涉案人员的不同情节作出判决，刑期跨度从五年有期徒刑到终身监禁不等，所有涉案人员均已正式获刑。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ca/live/6a0959f0-35b0-11f1-bfb7-dfacb91b9fa4.jpg",
+      "article_ids": [
+        "cb916370"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cb916370",
+          "source": "BBC World",
+          "title": "尼日利亚近400人因关联伊斯兰激进分子被判刑",
+          "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-11T14:41:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T14:41:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "75be42d6",
+      "title": "获英伟达支持的SiFive估值达36.5亿美元 主打开放AI芯片",
+      "summary": "获得英伟达支持的SiFive目前估值已达36.5亿美元，这家企业主打开放AI芯片，芯片设计基于RISC-V架构，不同于当前市场主流的x86与ARM架构，技术路线独具特点。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f387e603"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f387e603",
+          "source": "TechCrunch",
+          "title": "获英伟达支持的SiFive估值达36.5亿美元 主打开放AI芯片",
+          "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+          "published_at": "2026-04-11T14:03:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T14:03:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7591b243",
+      "title": "我的小鹿毛绒公仔告诉我，密茨基父亲是中情局特工",
+      "summary": "两周前，一名当事人正准备下班下线时，收到朋友发来的突发短信。朋友提及，网络上有传言称创作歌手密茨基的父亲是美国中情局特工，这条突如其来的消息让当事人十分吃惊。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "65fd203d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "65fd203d",
+          "source": "The Verge",
+          "title": "我的小鹿毛绒公仔告诉我，密茨基父亲是中情局特工",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+          "published_at": "2026-04-11T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7591b243",
+      "title": "我的小鹿毛绒公仔告诉我，Mitski的父亲是中情局特工",
+      "summary": "两周前，一名网友正准备下班下线时，收到朋友发来的短信，朋友提及网传歌手Mitski的父亲是美国中情局特工。这类突如其来的八卦消息一般不会让他感到困扰，但这次却让他大吃一惊。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "65fd203d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "65fd203d",
+          "source": "The Verge AI",
+          "title": "我的小鹿毛绒公仔告诉我，Mitski的父亲是中情局特工",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+          "published_at": "2026-04-11T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8800a28f",
+      "title": "无需花超50美元即可购得优质Switch 2 USB-C底座",
+      "summary": "任天堂推出的新款主机Switch 2，对第三方配件厂商而言带来诸多新变化。官方更改了手柄连接新主机的无线协议，还调整了USB-C接口的视频输出方式，这使得Switch 2发布之初，所有第三方厂商都必须从头研发相关配件。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "54f0c4ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "54f0c4ea",
+          "source": "The Verge",
+          "title": "无需花超50美元即可购得优质Switch 2 USB-C底座",
+          "link": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+          "published_at": "2026-04-11T13:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T13:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "952b4029",
+      "title": "恶魔与弹珠台堪称绝配",
+      "summary": "作者称自己一直保留Wii U游戏机，只为能方便游玩经典弹珠游戏《恶魔粉碎》。多年来这款游戏已经成为他的慰藉游戏，他觉得熟悉的弹珠玩法搭配恶魔相关主题，有种难以言说的独特魅力。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2a89603b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2a89603b",
+          "source": "The Verge",
+          "title": "恶魔与弹珠台堪称绝配",
+          "link": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+          "published_at": "2026-04-11T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40b08897",
+      "title": "伊朗如何在网帖大战中胜白宫一筹",
+      "summary": "对伊战争开打初期，美国白宫在网络上忙于发布《使命召唤》梗图、跳舞保龄球瓶这类AI生成的低质内容，伊朗官方媒体则密集推送大量德黑兰爆炸、浓烟漫天的战场现场视频，在网络舆论交锋中占据上风。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a1b2fa60"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a1b2fa60",
+          "source": "The Verge AI",
+          "title": "伊朗如何在网帖大战中胜白宫一筹",
+          "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+          "published_at": "2026-04-11T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-11T13:00:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
