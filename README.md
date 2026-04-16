@@ -4,7 +4,7 @@
 
 ## 特性
 
-- 🤖 **自动采集** — GitHub Actions 每天定时抓取 RSS 新闻源
+- 🤖 **自动采集** — GitHub Actions 每天定时抓取 RSS / News Sitemap 新闻源
 - 🌐 **AI 翻译** — 英文新闻自动翻译为中文，保留原文
 - ✍️ **智能摘要** — 大模型生成精炼摘要总结，非原文截断
 - 🧩 **主题聚合** — 同一期次内自动合并同主题重复报道，展示相关来源
@@ -66,6 +66,13 @@ cd scripts && python fetch_news.py
 - 策略：**规则预筛 + 大模型判定 + 聚类合并**
 - 数据结构：保留原始 `articles`，新增 `clusters` 供前端优先展示
 - 前端展示：默认显示主题卡片，并在卡片底部展示“相关报道”来源入口
+
+## 特殊来源说明
+
+- `type: "rss"`：标准 RSS/Atom 源，沿用原有抓取逻辑
+- `type: "news_sitemap"`：适用于 Google News Sitemap 形式的来源，例如 The Information
+- `route_categories`：当单一来源覆盖多个主题时，可按标题/链接规则把文章路由到 `ai` / `tech` / `business`
+- 对于仅公开标题的来源，会走“标题型摘要”策略，避免输出空摘要
 
 ## 目录结构
 

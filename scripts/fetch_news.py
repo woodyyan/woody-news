@@ -7,9 +7,11 @@ import json
 import hashlib
 import logging
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
+from urllib.parse import urlparse
 
 import feedparser
 import httpx
@@ -60,6 +62,28 @@ HEADERS = {
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
+NEWS_SITEMAP_NS = {"news": "http://www.google.com/schemas/sitemap-news/0.9"}
+AI_PATH_HINTS = ("/newsletters/ai-agenda/", "/newsletters/applied-ai/")
+BUSINESS_PATH_HINTS = ("/newsletters/dealmaker/", "/newsletters/the-information-finance/")
+AI_ROUTE_KEYWORDS = {
+    "ai", "artificial intelligence", "agent", "agents", "anthropic", "chatgpt", "claude",
+    "copilot", "foundation model", "genai", "gemini", "gpt", "inference", "llm",
+    "machine learning", "model", "models", "openai", "seedance", "siri",
+}
+TECH_ROUTE_KEYWORDS = {
+    "android", "app", "apps", "chip", "chips", "cloud", "coding", "code", "data center",
+    "developer", "developers", "device", "devices", "gpu", "hardware", "infra",
+    "infrastructure", "iphone", "platform", "robotaxi", "semiconductor", "server",
+    "software", "tool", "tools",
+}
+BUSINESS_ROUTE_KEYWORDS = {
+    "acquire", "acquires", "acquisition", "ads", "board", "ceo", "deal", "deals",
+    "finance", "financing", "fund", "funding", "funds", "investment", "investments",
+    "ipo", "ipos", "layoff", "layoffs", "market", "markets", "merger", "pricing",
+    "profit", "purchase", "raises", "raised", "raise", "revenue", "sale", "sales",
+    "stake", "valuation", "valued",
+}
+
 
 def load_config() -> dict:
     """读取分类和 RSS 源配置"""
@@ -70,6 +94,17 @@ def load_config() -> dict:
 def generate_id(link: str) -> str:
     """基于链接生成唯一 ID"""
     return hashlib.md5(link.encode()).hexdigest()[:8]
+
+
+
+def _build_request_headers(source: dict | None = None) -> dict:
+    headers = dict(HEADERS)
+    if source and source.get("user_agent"):
+        headers["User-Agent"] = source["user_agent"]
+    if source and source.get("accept"):
+        headers["Accept"] = source["accept"]
+    return headers
+
 
 
 def _resolve_google_news_link(link: str) -> str:
@@ -97,17 +132,85 @@ def _resolve_google_news_link(link: str) -> str:
     return link
 
 
+def _match_keywords(text: str, keywords: set[str]) -> int:
+    normalized_text = re.sub(r"[^a-z0-9]+", " ", text.lower())
+    padded_text = f" {normalized_text} "
+    score = 0
+    for keyword in keywords:
+        normalized_keyword = re.sub(r"[^a-z0-9]+", " ", keyword.lower()).strip()
+        if normalized_keyword and f" {normalized_keyword} " in padded_text:
+            score += 1
+    return score
+
+
+
+def _route_category(source: dict, default_category_id: str, title: str, description: str, link: str) -> str:
+    route_categories = set(source.get("route_categories", []))
+    if not route_categories:
+        return default_category_id
+
+    profile = source.get("routing_profile")
+    if profile != "the_information":
+        return default_category_id
+
+    path = urlparse(link).path.lower()
+    text = " ".join(filter(None, [title.lower(), description.lower(), path]))
+
+    if any(hint in path for hint in AI_PATH_HINTS):
+        return "ai"
+    if any(hint in path for hint in BUSINESS_PATH_HINTS):
+        return "business"
+
+    ai_score = _match_keywords(text, AI_ROUTE_KEYWORDS)
+    business_score = _match_keywords(text, BUSINESS_ROUTE_KEYWORDS)
+    tech_score = _match_keywords(text, TECH_ROUTE_KEYWORDS)
+
+    if "ai" in route_categories and ai_score >= 1:
+        return "ai"
+    if "business" in route_categories and business_score >= 2:
+        return "business"
+    if "tech" in route_categories and tech_score >= 1:
+        return "tech"
+    if "business" in route_categories and business_score >= 1:
+        return "business"
+
+    return default_category_id
+
+
+
+def _build_raw_article(
+    source: dict,
+    default_category_id: str,
+    title: str,
+    description: str,
+    image: str | None,
+    link: str,
+    published_at: str,
+) -> dict:
+    category_id = _route_category(source, default_category_id, title, description, link)
+    return {
+        "id": generate_id(link),
+        "title_raw": title,
+        "description_raw": description,
+        "image": image,
+        "link": link,
+        "category": category_id,
+        "source": source["name"],
+        "lang": source.get("lang", "en"),
+        "published_at": published_at,
+    }
+
+
+
 def fetch_rss(source: dict, category_id: str) -> list[dict]:
     """抓取单个 RSS 源的新闻"""
     url = source["url"]
     name = source["name"]
-    lang = source.get("lang", "en")
 
     logger.info(f"  正在抓取: {name} ({url[:60]}...)")
 
     try:
-        # 使用 httpx 获取 RSS 内容（更好的超时和错误处理）
-        with httpx.Client(timeout=30, follow_redirects=True, headers=HEADERS) as client:
+        with httpx.Client(timeout=30, follow_redirects=True, headers=_build_request_headers(source)) as client:
             response = client.get(url)
             response.raise_for_status()
 
@@ -119,22 +222,13 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
             if not link:
                 continue
 
-            # 解析 Google News 跳转链接
             link = _resolve_google_news_link(link)
-
-            # 提取图片
             image = _extract_image(entry)
-
-            # 提取描述
-            description = entry.get("summary", "") or entry.get("description", "")
-            # 清理 HTML 标签
-            description = _strip_html(description)
-
+            description = _strip_html(entry.get("summary", "") or entry.get("description", ""))
             title = entry.get("title", "").strip()
             if not title:
                 continue
 
-            # 提取发布时间
             published = entry.get("published_parsed") or entry.get("updated_parsed")
             if published:
                 pub_dt = datetime(*published[:6], tzinfo=timezone.utc)
@@ -142,17 +236,17 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
             else:
                 published_at = datetime.now(timezone.utc).isoformat()
 
-            articles.append({
-                "id": generate_id(link),
-                "title_raw": title,
-                "description_raw": description,
-                "image": image,
-                "link": link,
-                "category": category_id,
-                "source": name,
-                "lang": lang,
-                "published_at": published_at,
-            })
+            articles.append(
+                _build_raw_article(
+                    source=source,
+                    default_category_id=category_id,
+                    title=title,
+                    description=description,
+                    image=image,
+                    link=link,
+                    published_at=published_at,
+                )
+            )
 
         logger.info(f"  ✅ {name}: 获取到 {len(articles)} 条")
         return articles
@@ -160,6 +254,65 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
     except Exception as e:
         logger.error(f"  ❌ {name}: 抓取失败 - {e}")
         return []
+
+
+
+def fetch_news_sitemap(source: dict, category_id: str) -> list[dict]:
+    """抓取 Google News Sitemap 格式的新闻源"""
+    url = source["url"]
+    name = source["name"]
+
+    logger.info(f"  正在抓取: {name} ({url[:60]}...)")
+
+    try:
+        with httpx.Client(timeout=30, follow_redirects=True, headers=_build_request_headers(source)) as client:
+            response = client.get(url)
+            response.raise_for_status()
+
+        root = ET.fromstring(response.text)
+        articles = []
+        for url_node in root.findall("{*}url"):
+            link = (url_node.findtext("{*}loc") or "").strip()
+            title = (url_node.findtext("news:news/news:title", namespaces=NEWS_SITEMAP_NS) or "").strip()
+            published_at = (
+                url_node.findtext("news:news/news:publication_date", namespaces=NEWS_SITEMAP_NS) or ""
+            ).strip()
+            if not link or not title:
+                continue
+
+            articles.append(
+                _build_raw_article(
+                    source=source,
+                    default_category_id=category_id,
+                    title=title,
+                    description="",
+                    image=None,
+                    link=link,
+                    published_at=published_at or datetime.now(timezone.utc).isoformat(),
+                )
+            )
+
+            if len(articles) >= MAX_PER_SOURCE:
+                break
+
+        logger.info(f"  ✅ {name}: 获取到 {len(articles)} 条")
+        return articles
+
+    except Exception as e:
+        logger.error(f"  ❌ {name}: 抓取失败 - {e}")
+        return []
+
+
+
+def fetch_source(source: dict, category_id: str) -> list[dict]:
+    source_type = source.get("type", "rss")
+    if source_type == "rss":
+        return fetch_rss(source, category_id)
+    if source_type == "news_sitemap":
+        return fetch_news_sitemap(source, category_id)
+
+    logger.warning(f"  ⚠️ {source['name']}: 不支持的来源类型 {source_type}，已跳过")
+    return []
 
 
 def _extract_image(entry: dict) -> str | None:
@@ -519,12 +672,12 @@ def main():
     existing_ids = load_existing_ids()
     logger.info(f"📄 今日已有 {len(existing_ids)} 条新闻")
 
-    # 3. 抓取所有 RSS 源
+    # 3. 抓取所有新闻源
     all_raw = []
     for cat in categories:
         logger.info(f"\n📰 分类: {cat['name']} ({cat['id']})")
         for source in cat.get("sources", []):
-            articles = fetch_rss(source, cat["id"])
+            articles = fetch_source(source, cat["id"])
             # 去重
             articles = [a for a in articles if a["id"] not in existing_ids]
             all_raw.extend(articles)

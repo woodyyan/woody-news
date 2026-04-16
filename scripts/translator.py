@@ -39,6 +39,7 @@ def translate_and_summarize(title: str, description: str, lang: str) -> dict:
     根据原始语言进行翻译和摘要。
     - 英文新闻：翻译标题 + 生成中文总结
     - 中文新闻：生成精炼总结
+    - 标题型来源：在正文缺失时仅基于标题生成保守摘要
 
     返回:
         {
@@ -48,8 +49,18 @@ def translate_and_summarize(title: str, description: str, lang: str) -> dict:
             "summary_original": "原摘要（仅英文）"
         }
     """
+    description = (description or "").strip()
     if lang == "en":
+        if not description:
+            return _process_english_title_only(title)
         return _process_english(title, description)
+    if not description:
+        return {
+            "title": title,
+            "title_original": None,
+            "summary": title,
+            "summary_original": None,
+        }
     return _process_chinese(title, description)
 
 
@@ -81,6 +92,39 @@ def _process_english(title: str, description: str) -> dict:
             "summary": description[:200] if description else "",
             "summary_original": description[:500] if description else None,
         }
+
+
+def _process_english_title_only(title: str) -> dict:
+    """处理仅有标题的英文新闻：保守翻译并生成简短摘要"""
+    prompt = f"""你是一个专业的新闻编辑。当前只有新闻标题，没有正文或摘要。
+请完成以下任务：
+1. 将英文标题翻译成简洁准确的中文。
+2. 仅基于标题中明确出现的信息，用中文写一段 50-80 字的保守摘要。
+3. 不要补充标题中没有出现的细节，不要猜测原因、影响或背景。
+
+标题：{title}
+
+请严格以 JSON 格式返回，不要包含其他内容：
+{{"title": "中文标题", "summary": "中文摘要总结"}}"""
+
+    try:
+        result = _call_json_model(prompt, max_tokens=260, temperature=0.2)
+        summary = result.get("summary") or result.get("title") or title
+        return {
+            "title": result.get("title", title),
+            "title_original": title,
+            "summary": summary,
+            "summary_original": None,
+        }
+    except Exception as e:
+        logger.error(f"处理标题型英文新闻失败: {e}")
+        return {
+            "title": title,
+            "title_original": title,
+            "summary": title,
+            "summary_original": None,
+        }
+
 
 
 def _process_chinese(title: str, description: str) -> dict:

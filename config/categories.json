@@ -91,6 +91,15 @@
           "type": "rss",
           "url": "https://feeds.bloomberg.com/markets/news.rss",
           "lang": "en"
+        },
+        {
+          "name": "The Information",
+          "type": "news_sitemap",
+          "url": "https://www.theinformation.com/sitemap-news.xml",
+          "lang": "en",
+          "user_agent": "Googlebot/2.1 (+http://www.google.com/bot.html)",
+          "route_categories": ["ai", "tech", "business"],
+          "routing_profile": "the_information"
         }
       ]
     },
