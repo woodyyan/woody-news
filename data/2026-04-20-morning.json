@@ -1,0 +1,2394 @@
+{
+  "date": "2026-04-20",
+  "edition": "morning",
+  "updated_at": "2026-04-20T10:38:12.558159+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "e05370b4",
+      "title": "Vercel证实发生数据泄露 黑客标价200万美元兜售被盗数据",
+      "title_original": "Vercel Confirms Breach After Hackers List Stolen Data for $2M",
+      "summary": "黑客列出盗得的数据，标价200万美元对外出售，在此事件之后，Vercel正式确认该公司发生了数据泄露事件。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/vercel-confirms-breach-hackers-list-stolen-data-2m",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-20T01:43:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "03234f54",
+      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+      "title_original": null,
+      "summary": "自变量机器人于三月底至四月初完成近20亿元B轮融资，由小米战投、红杉中国领投，是国内唯一同时获得四家互联网大厂投资的具身智能企业。其坚持全自研端到端具身智能基础模型，近期已联合58到家推出家庭保洁商业化服务，未来将拓展多场景落地。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_2ea4bb4ac55b4337926be9f523a24925@1199336245_oswg43867oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3774502008963841?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-20T01:42:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fcaea04d",
+      "title": "特朗普称美国拦截并扣押悬挂伊朗国旗的货船",
+      "title_original": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "summary": "美国拦截并扣押一艘悬挂伊朗国旗的货船，这一事件发生在美国筹备开启第二轮对伊谈判前夕。伊朗将此次美方行动定性为“武装海盗行径”，德黑兰已誓言很快会就此采取报复行动。",
+      "summary_original": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23df/live/b411ec10-3c36-11f1-99cc-6528d02ffc7e.png",
+      "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-20T01:38:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5032cead",
+      "title": "美伊紧张局势升级 铜价从两个月高点回落",
+      "title_original": "Copper Drops From Two-Month High as US-Iran Tensions Escalate",
+      "summary": "美国在霍尔木兹海峡扣押一艘伊朗船只后，美国与伊朗之间的停火谈判陷入不确定性，双方紧张局势随之升级。受这一地缘局势变动影响，铜价从2月初以来创下的两个月最高收盘位回落。",
+      "summary_original": "Copper fell from its highest close since early February, as ceasefire talks between Washington and Tehran were thrown into uncertainty after the US seized an Iranian ship in the Strait of Hormuz.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSmWeC0SqOfk/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/copper-drops-from-two-month-high-as-us-iran-tensions-escalate",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T01:37:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9c4c9dea",
+      "title": "人工智能代币经济革命催生中国科技新赢家",
+      "title_original": "AI’s Token Economy Revolution Creates New China Tech Winners",
+      "summary": "人工智能代币经济革命浪潮下，中国的低价人工智能模型凭借价格优势正快速吸引全球各地用户，相关企业获得资本市场青睐，已经在中国本土股市催生出一批新的科技行业赢家。",
+      "summary_original": "China’s cheap artificial intelligence models are rapidly attracting global users and creating new winners in the nation’s stock market.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIkfM5E3jrm4/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/ai-s-token-economy-revolution-creates-new-china-tech-winners",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T01:28:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "47b03619",
+      "title": "伊朗战争最新快讯：美国筹备新一轮谈判期间袭击伊朗货船",
+      "title_original": "Iran War Live Updates: U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
+      "summary": "特朗普称一艘美国海军驱逐舰在阿曼湾袭击并扣押了一艘悬挂伊朗国旗的船只。白宫随后表示，正派遣包括副总统JD·万斯在内的高级代表团前往巴基斯坦，开展相关谈判。",
+      "summary_original": "President Trump said a Navy destroyer had attacked and seized an Iranian-flagged vessel in the Gulf of Oman. The White House said it is dispatching a high-level delegation, including Vice President JD Vance, to Pakistan for negotiations.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19trump-400/live-blog-20260419-iran-us-war-trump-hormuz-header-kbgp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-20T01:26:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9abf6ed6",
+      "title": "港交所收紧规则防范企业选购审计师",
+      "title_original": "Hong Kong Exchange Tightens Rules to Avoid Auditor Shopping",
+      "summary": "港交所出台新规，要求香港上市公司更换审计师必须获得股东批准。此举是香港监管层推出的监管动作，旨在强化总规模达7.5万亿美元的港股市场的公司治理，提升市场透明度。",
+      "summary_original": "Hong Kong listed companies must now obtain shareholder approval to change auditors, part of a regulatory push to bolster corporate governance and transparency in the $7.5 trillion market.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imZj3.rQ0IEM/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/hong-kong-exchange-tightens-rules-to-avoid-auditor-shopping",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T01:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dc8a7114",
+      "title": "【新思想引领新征程】筑牢网络强国基石 赋能高质量发展 - 中国网新闻中心",
+      "title_original": null,
+      "summary": "多家中央主流媒体推出“新思想引领新征程”相关报道，聚焦习近平总书记引领我国网络强国建设进程，强调要持续筑牢网络强国建设基石，推动互联网更好造福人民与世界，便利群众生产生活，赋能我国经济社会高质量发展。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVUm44UHViWlZVRFd1bXNVLXBNUTRMY3lOX2FpSXZmcWp5UHFZWU5ab1FFLXFpTTJOT29IbUdENUdkaXE5dENwNm8xZnNDNzA5cVd1ZlRaWjhuZlBQNWxNZ3B6X0FIb3Nicl9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T01:13:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "86c59b14",
+      "title": "金正恩观摩地对地战术弹道导弹试射--国际 - 人民网国际",
+      "title_original": null,
+      "summary": "朝鲜进行地对地战术弹道导弹试射，最高领导人金正恩到场观摩，试射的5枚导弹高密度命中目标。韩方监测到此次发射后举行紧急安全会议，日美韩随后要求朝鲜停止挑衅，此前韩国方面李在明推动缓和平壤关系的行动未取得成果。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtbG5PbHB2cUZYQ3JtY29XVVVtOGhYSW9QaDRnSUcyaVFwbEF6bndkZ1hyV1d2UlktZ1pmTEp0bWYyOVpBZFQ0bmpMTmYyMHVVZTFOQmVDWmx3REp0QVdxdFZzcFgydnlGNDJHMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T01:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fc89958c",
+      "title": "能源安全形势吃紧 中国重启煤制气项目",
+      "title_original": "China Revives Coal-to-Gas Projects as Energy Security Frays",
+      "summary": "当前地缘政治局势紧张升级，能源安全风险加剧，中国掀起新一轮煤制气项目投资潮，一个搁置十余年的重点知名煤制气项目将于今年启动，这批投资将帮助中国缓解燃料供应威胁，强化能源安全保障。",
+      "summary_original": "A high-profile Chinese coal-to-gas venture that lay dormant for over a decade is set to launch this year, part of a wave of investments that will allow Beijing to mitigate threats to fuel supply at a time of heightened geopolitical tensions.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFaVNkZZjxbI/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/china-revives-coal-to-gas-projects-as-energy-security-frays",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T01:03:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba8a645d",
+      "title": "摩根大通称市场认为中东冲突将走向缓和",
+      "title_original": "Markets Seeing Off-Ramp in Middle East Conflict, JPMorgan Says",
+      "summary": "摩根大通资产管理的克里·克雷格接受彭博电视台采访时表示，当前市场在一定程度上处于震荡盘整状态，投资者普遍认为中东冲突正迎来缓和。随着美国财报季开启，市场焦点正逐步转向微观基本面，相关消息源自彭博。",
+      "summary_original": "Kerry Craig of JPMorgan Asset Management says the markets are \"moving in circles to a certain degree\" but investors are seeing developments in the Middle East as \"pointing towards an off-ramp in the conflict.\" He tells Bloomberg Television that the focus is increasingly shifting to micro fundamentals given the start of earnings season in the US. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS8zvzfuvMII/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-20/markets-seeing-off-ramp-in-mideast-conflict-jpmorgan-am-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T01:00:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c02b6291",
+      "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
+      "title_original": null,
+      "summary": "36氪独家获悉，面向50-80岁活力银发群体的上海东犁退休俱乐部近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。该平台主打线上线下结合的社交生活服务，已累计服务超300万江浙沪用户，本轮资金将用于拓展服务场景、升级技术中台，投资方看好银发赛道及东犁的发展潜力。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260419/v2_6d76d0f9beb94739bd1afd353bc0338d@5748245_oswg3232621oswg4032oswg3024_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3719736708200068?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-20T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "50f1d49f",
+      "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行 - 中国网新闻中心",
+      "title_original": null,
+      "summary": "伊朗在霍尔木兹海峡划定了名为“拉腊克走廊”的新航线，规定未经许可的船舶不得通行。该消息引发市场波动，加密货币因此全线跳水。此外美媒披露，美国前总统特朗普曾召开会议，讨论与伊朗进行谈判的相关问题。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5maUZDVUxRTlNlekd4bjBOZnB2V3lwY3lzUEdXRWFLQTVPdUFSYWE2RGlzOGtRRjBPS0FWOW9oZWU0dU5YbGw1TzNBM3E3Z3l1TnBfUDBmUHlRMDltSkQ5ck1KYjlIZkRlajVz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T00:57:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea5af018",
+      "title": "中国将启动特别国债发行 发售创纪录三十年期国债",
+      "title_original": "China to Begin Special Bond Sales With Record 30-Year Offering",
+      "summary": "中国今年的超长期特别国债发行工作将于本周五正式启动，首发为创纪录的30年期特别国债，本次发行将测试市场投资者对这类超长期国债品种的需求。",
+      "summary_original": "China is kicking off its ultra-long special government bond sales this year with a record offering of 30-year notes on Friday, in a move set to test investor demand.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io5VrTnIsggo/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/china-to-begin-special-bond-sales-with-record-30-year-offering",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T00:52:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5d26e499",
+      "title": "澳大利亚养老基金负责人欧洲之行瞄准私人资产",
+      "title_original": "Australian Pension Chiefs Target Private Assets in European Trip",
+      "summary": "澳大利亚多家规模最大的养老基金将于本周前往法国和英国，新一轮发力寻求私人市场交易机会。此次行程距离这批养老基金开展类似的美国出访仅过去一个多月，是其加码布局私人资产领域投资的最新动作。",
+      "summary_original": "Australia’s biggest pension funds are heading to France and the UK this week in a fresh push for private market deals, just over a month after a similar US trip.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEKU4NQOBo6k/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-20/australian-pension-chiefs-target-private-assets-in-european-trip",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-20T00:50:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f91a15a9",
+      "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码” - 华尔街见闻",
+      "title_original": null,
+      "summary": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”&nbsp;&nbsp;华尔街见闻特朗普称美武力拦截并控制伊货船，伊朗称革命卫队海军逼退美军-观察者网&nbsp;&nbsp;guancha.cn伊朗：美军向伊朗商船开火，革命卫队海军逼退美军&nbsp;&nbsp;thepaper.cn伊朗最高联合军事指挥部：美国炮击伊朗一艘商船，违反停火协议。&nbsp;&nbsp;新浪",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KVmRabWNpZGpHTHpTNkkwcHdOV084WmNCLXNldWR3TTVtYlVTckNUQnBtUkZBWFB3U0FZWERmOUJSbUpjZVFSWnFoMXg1ZEVYZDI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T00:26:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "db68c681",
+      "title": "伊朗议长:伊美谈判期间险些冲突再起 信任未消除 - 中华网",
+      "title_original": null,
+      "summary": "伊朗议长卡利巴夫披露，伊美谈判期间双方险些再起冲突，经伊朗发出警告，美方安排军舰撤退。目前伊美间信任仍未消除，伊朗要求美国接受霍尔木兹海峡新秩序，双方距离达成最终协议仍有很长路程，有观点认为卡利巴夫是伊朗当前真正决策者。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uakh2dnd4WW5QVnhTOTFYY3NzQ0J6VWR5bl9LUUZLcHZWOXBna2VWLTI5ekNlX2FfTzNOTzBHdWVhNGRqVENBaE8wSDk1c0dlX1g1dk1oRm1SQ1lpbm02aDRNS3U4SWdDTVRGYjVEQTk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T00:21:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dabd1343",
+      "title": "助力书香京城建设和全民阅读推广 二〇二六年首都大学生系列读书活动启动 - 北京市人民政府网站",
+      "title_original": null,
+      "summary": "以习近平文化思想引领书香社会建设，主题为“书香青春阅见未来”的2026年首都大学生系列读书活动正式启动，活动旨在助力书香京城建设、推广全民阅读，获人民日报、中国日报网等多家权威媒体关注报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBncnY3S1NwT3V1VUhZY1lXNThLY1JTYjRYY1pXMmxldUgzVklwbzFVWG9QRFVHN21ob3RnRUMyOHdpU1RLb3BwQTJiY1ZUVGlUS2NhWXFiZ1BSeTVxbkwzWTFPeEIzN1lKY1JIbnBEYUotT2hFWjJfbHJLWUsxNDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-20T00:11:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ddccd71b",
+      "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+      "title_original": null,
+      "summary": "近期多领域热点频发，五一火车票开售三天来，铁路12306已拒绝抢票软件异常出票105.6万张；万达电影正式更名为儒意电影，启用新证券简称；AI企业DeepSeek启动首次外部融资，估值超680亿元；国产光纤量价齐升，价格暴涨650%。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_fc63c63d83af4f7f9429bfdc8a5fdde0@5667365_oswg2338286oswg1080oswg1528_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3774401650656001?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-20T00:02:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3b1f5a54",
+      "title": "新闻8点见丨人形机器人半马破人类纪录；12306打击恶意抢票 - 新京报",
+      "title_original": null,
+      "summary": "“五一”假期将至，京沪等高铁干线将增开夜间高铁，满足旅客旺盛的出行购票需求；铁路12306持续打击恶意抢票行为，三天内已拒绝出票105.6万张。此外，人形机器人完成半程马拉松，成绩打破人类纪录。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUFVNTmNROE9vT2txbks3UFBLVEdqSy1MVzQ2QXh3cjh2SzJ6Z2tUbG5hLXI2bzVVd2hlNGZYNi1CN2xralloSnR6YW1sa2R5bDBURFVrY3hsUDE0VUg0T3REbjI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-19T23:54:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9680a47e",
+      "title": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备 - 东方财富",
+      "title_original": null,
+      "summary": "近期美伊发生海上交锋，相关现场画面已对外公布。伊朗明确拒绝参加与美国的谈判，伊朗媒体发声表示，当前局势下美伊战火重燃的可能性高于继续谈判，伊朗已做好准备，可应对美方军事动向及可能爆发的冲突。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0elVEWFZTZHVXZi16N3NuWF8zLVJ1XzRmMk5iUXVFRUUyd2xpSWt6OVZDdVRSck5UX05lX2pqeUl4VDFUUkdiX190NUlBcUEweE9vbldFc1FSTlljRExDaVdnWHV1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-19T23:42:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c85e7f5b",
+      "title": "重庆市气象台发布气象实况通报：降雨明显减弱 趋于结束 - 华龙网",
+      "title_original": null,
+      "summary": "今年重庆迎来首场大范围暴雨，当地已启动多个层级防汛相关应急响应，其中15个区县启动防汛应急响应，全市依托2400个雨情感知设备数智赋能防汛监测。重庆市气象台发布通报称，本次降雨已明显减弱，过程趋于结束。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50TkRJVU14VzVObGdLXzA2ODlJTnJ0Um1iZ3RrV01mWml2aTB0Y3c4cEVnODlDa0U3c3BFakJNVEVPYm16cEtlMHZRX0w5Z0s3OGxhc0pWNFRhbFRUUGNPWllhaHlKT19sQng0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-19T23:29:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a3a671b0",
+      "title": "警方称路易斯安那州枪击案致八名儿童死亡",
+      "title_original": "Eight children killed in Louisiana shooting, police say",
+      "summary": "美国路易斯安那州发生一起严重枪击案件，警方表示这起枪击事件由家庭纠纷引发。此次事件共造成八名儿童不幸遇害，遇害儿童年龄跨度较大，范围在1岁到14岁之间。",
+      "summary_original": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b1/live/b4ab8540-3c3c-11f1-a902-531b59555add.jpg",
+      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T22:54:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "daabf5e1",
+      "title": "霍尔木兹海峡局势再动荡 通胀担忧升温导致金价下跌",
+      "title_original": "Gold Falls as Renewed Hormuz Disruption Stokes Inflation Concern",
+      "summary": "中东冲突已持续超过七周时间，周末霍尔木兹海峡发生船只遇袭事件，市场对能源供应中断的担忧再度发酵，通胀焦虑随之升温，受这一消息影响，黄金价格出现下跌。",
+      "summary_original": "Gold fell after vessels came under fire in the Strait of Hormuz at the weekend, renewing fears of energy-supply disruptions that have stoked inflation concerns during more than seven weeks of war in the Middle East.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7IGqeMUaM0A/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-19/gold-falls-as-renewed-hormuz-disruption-stokes-inflation-concern",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-19T22:14:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f53278a0",
+      "title": "伊朗局势紧张再现 油价上涨美元走强：市场综述",
+      "title_original": "Oil Jumps on Renewed Iran Tensions, Dollar Gains: Markets Wrap",
+      "summary": "此前受中东局势有望缓和的预期推动，市场出现纾困反弹行情，但美伊紧张局势在周末再度升级，市场避险情绪重燃，此前的反弹行情消散，最终推动油价大幅上涨，美元也随之走强。",
+      "summary_original": "Oil jumped and the dollar strengthened as a relief rally driven by hopes of easing strains in the Middle East unraveled, giving way to renewed caution after a weekend flare-up in US-Iran tensions.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUDfYt.vEj.c/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-19/us-futures-fall-oil-jumps-as-iran-tensions-worsen-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-19T22:12:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9d96924b",
+      "title": "鲁门·拉德夫有望赢得保加利亚议会选举",
+      "title_original": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "summary": "出口民调显示，鲁门·拉德夫领导的进步保加利亚得票率为37%，得票率是紧随其后的竞选对手的两倍多，大幅领先，拉德夫基本锁定本次保加利亚议会选举胜局，不过他仍需组建联合政府才能执政。",
+      "summary_original": "Exit polls put his Progressive Bulgaria on 37%, more than double the score of the closest runner-up, but he will likely need to form a coalition to govern.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad64/live/b33fc7a0-3c39-11f1-bbdd-9d760fb02d09.jpg",
+      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T22:06:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2013ccd7",
+      "title": "美国扣押伊朗船只危及谈判 油气价格飙升",
+      "title_original": "Oil and Gas Jump After US Seizure of Iranian Ship Imperils Talks",
+      "summary": "局势动荡的周末，美国海军扣押一艘伊朗船只，伊朗随后在霍尔木兹海峡向过往船只开火，并重新对该海峡实施管控。受这一事件影响，原油与天然气价格大幅飙升，相关谈判进程也因此遭遇危机。",
+      "summary_original": "Oil and natural gas prices soared after the US Navy seized an Iranian ship during a chaotic weekend that saw Tehran firing at vessels and reimposing controls in the Strait of Hormuz.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM3SxJLe4wec/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-19/latest-oil-market-news-and-analysis-for-april-20",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-19T22:03:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e5c401b3",
+      "title": "奥多比与谷歌云前往拉斯维加斯",
+      "title_original": "Adobe and Google Cloud Head to Vegas",
+      "summary": "该标题仅显示奥多比与谷歌云一同前往拉斯维加斯，未披露此次行程的具体目的、安排等更多相关内容信息",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/newsletters/the-briefing/adobe-google-cloud-head-vegas",
+      "category": "tech",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-19T22:00:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2006d342",
+      "title": "哈马斯官员称该组织准备交出部分武器",
+      "title_original": "Hamas Officials Say Group Is Ready to Hand Over Some Weapons",
+      "summary": "加沙两名哈马斯高级官员表示，该组织已准备好交出部分自动步枪及其他武器。哈马斯做出的这一让步，并未满足以色列和美国提出的相关要求，距离两方的诉求仍有差距。",
+      "summary_original": "Two senior Hamas officials in Gaza said the group was prepared to relinquish some automatic rifles and other arms, a concession that falls short of Israeli-U.S. demands.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-hamas-proposal-001-vltp/19int-hamas-proposal-001-vltp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-19T21:54:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e0862fe0",
+      "title": "OpenAI的生存之问",
+      "title_original": "OpenAI’s existential questions",
+      "summary": "近日，在最新一期名为《Equity》的财经播客节目中，主创团队围绕人工智能企业OpenAI的最新收购交易展开讨论，核心议题正是这些收购动作能否解决OpenAI当前面临的两大核心生存问题。",
+      "summary_original": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T21:24:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e0862fe0",
+      "title": "OpenAI的生存之问",
+      "title_original": "OpenAI’s existential questions",
+      "summary": "最新一期名为《Equity》的播客节目围绕人工智能公司OpenAI展开讨论，梳理了OpenAI近期完成的最新收购交易，同时探讨了这些收购举措能否解决该公司当前面临的两大核心生存问题。",
+      "summary_original": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-19T21:24:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ccde1f01",
+      "title": "伊朗高级政要告诉BBC：伊朗绝不会放弃霍尔木兹海峡控制权",
+      "title_original": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "summary": "BBC记者利斯·杜塞特采访了伊朗高级政治人物易卜拉欣·阿齐兹，阿齐兹明确表态，伊朗永远不会让出霍尔木兹海峡的控制权，这一全球至关重要的航运通道的通行决定权将由伊朗掌握。",
+      "summary_original": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf3/live/b707c190-3c38-11f1-9d5c-8ba507d7dbde.jpg",
+      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T21:09:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a6d7d39e",
+      "title": "保加利亚选民支持拉德夫领导的新政治联盟",
+      "title_original": "Bulgarian Voters Back New Political Coalition Led by Radev",
+      "summary": "保加利亚民众渴望过上其他欧洲民众享有的富裕生活，该国在此背景下举行了五年内的第八次选举。投票结果显示，多数选民支持由拉德夫领导的全新政治联盟，这一结果将对保加利亚未来的政局走向与民生发展产生影响。",
+      "summary_original": "With its citizens yearning for the kind of prosperous life enjoyed by other Europeans, Bulgaria held its eighth election in five years.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-bulgaria-election-twfq/19int-bulgaria-election-twfq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-19T20:53:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "189a01a2",
+      "title": "蓝色起源“新格伦”火箭成功实现重复使用",
+      "title_original": "Blue Origin successfully reused its New Glenn rocket",
+      "summary": "蓝色起源发射搭载AST SpaceMobile公司“蓝鸟7号”卫星的可重复使用“新格伦”火箭，本次任务仅取得部分成功。“新格伦”一级助推器无意外降落于着陆平台，这是该助推器第二次发射着陆，也让杰夫·贝索斯正式拥有可重复使用运载火箭。",
+      "summary_original": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T20:28:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "14b4d3c0",
+      "title": "云开发平台Vercel遭黑客入侵",
+      "title_original": "Cloud development platform Vercel was hacked",
+      "summary": "用于托管部署网络应用的知名开发平台Vercel被入侵，黑客正试图售卖窃取的数据。一名自称黑客组织ShinyHunters的人员在网上公布了部分失窃数据，该组织此前曾攻击Rockstar Games，公布数据包括员工姓名、邮箱地址、活动时间戳，Vercel已确认该事件。",
+      "summary_original": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T19:54:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "14b4d3c0",
+      "title": "云开发平台Vercel遭黑客入侵",
+      "title_original": "Cloud development platform Vercel was hacked",
+      "summary": "提供网络应用托管部署服务的主流云开发平台Vercel遭遇入侵，黑客正试图售卖窃取的数据。一名自称黑客组织ShinyHunters成员的人员已在线公布部分被盗数据，包含员工姓名、邮箱地址、活动时间戳，该组织此前曾入侵Rockstar Games，Vercel已确认该事件。",
+      "summary_original": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-19T19:54:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e0ab883c",
+      "title": "12个月窗口期",
+      "title_original": "The 12-month window",
+      "summary": "当前大量AI创业公司得以存在，部分原因是基础大模型尚未扩张进入它们所在的细分领域。不少业内相关从业者也调侃承认，大模型尚未进场的现状不会一直持续，这些创业公司的发展窗口期十分有限。",
+      "summary_original": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T19:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e0ab883c",
+      "title": "12个月窗口期",
+      "title_original": "The 12-month window",
+      "summary": "当前大量人工智能初创企业能够存续，部分原因在于通用大模型尚未拓展进入它们所在的细分领域。这些初创企业本身也大多调侃称，当前这种依托赛道空白的发展状态不会永远持续下去。",
+      "summary_original": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-19T19:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "77ff69f2",
+      "title": "安大略省省长道格·福特迫于抗议同意出售价值2100万的私人飞机",
+      "title_original": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+      "summary": "安大略省省长道格·福特于周五确认购入这架价值2100万的私人飞机后，遭到政治对手批评，对手将其斥为“油水专机”，指责福特脱离民众，在引发一片反对声浪后，福特最终同意出售这架私人飞机。",
+      "summary_original": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c4/live/81215e60-3c1a-11f1-9ee7-39ebe3a225a4.jpg",
+      "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T19:25:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f379a19c",
+      "title": "蓝色起源新格伦火箭第三次发射将客户卫星送入错误轨道",
+      "title_original": "Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch",
+      "summary": "蓝色起源的新型重型运载系统发生首次重大故障，旗下新格伦火箭在第三次发射任务中，未能将客户卫星送入预定轨道，此次故障可能推迟该公司助力NASA与特朗普政府实现重返月球目标的进程。",
+      "summary_original": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T19:02:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "52464a87",
+      "title": "机器人在北京半程马拉松打破人类纪录",
+      "title_original": "Robots beat human records at Beijing half-marathon",
+      "summary": "在北京举办的半程马拉松赛事中，参赛机器人打破了该项目的人类纪录。对比去年该赛事最快机器人2小时40分的完赛成绩，今年夺冠机器人的完赛成绩实现了大幅提升，可见机器人竞速能力正在快速进步。",
+      "summary_original": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T18:44:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a04c6894",
+      "title": "警员被控逃离致命枪击案现场 乌克兰警察局长辞职",
+      "title_original": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "summary": "乌克兰多名警员被指在一起致命枪击事件发生后逃离现场，引发问责风波。目前涉事警员已被官方停职，有关部门正对涉事警员的行为展开调查，乌克兰警察局长已因该事件宣布辞职。",
+      "summary_original": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f9a/live/8e252110-3c0f-11f1-9ee7-39ebe3a225a4.jpg",
+      "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T17:48:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "753e3c86",
+      "title": "蓝色起源成功降落新格伦火箭助推器",
+      "title_original": "Blue Origin Successfully Lands New Glenn Rocket Booster",
+      "summary": "蓝色起源成功完成新格伦火箭助推器的着陆作业，目前仅确认本次操作取得成功，现有信息中未披露更多与该任务相关的细节内容",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/blue-origin-successfully-lands-new-glenn-rocket-booster",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-19T17:27:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7a4e8e25",
+      "title": "火灾烧毁马来西亚一处滨海村庄大部分区域",
+      "title_original": "Fire Destroys Most of Coastal Village in Malaysia",
+      "summary": "马来西亚婆罗洲岛一处滨海村庄发生连夜火灾，该村以高脚屋搭建而成的临海聚居社区在大火中完全被烧毁、化为灰烬，此次火情破坏力极强，村庄大部分区域都在这场火灾中被摧毁。",
+      "summary_original": "A community of stilt homes on the island of Borneo was reduced to ash in an overnight blaze.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-borneo-fire-01-qlfb/19int-borneo-fire-01-qlfb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-19T16:43:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07e3823e",
+      "title": "帕兰蒂尔发布小型宣言 谴责包容性与“倒退文化”",
+      "title_original": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "summary": "美国科技企业帕兰蒂尔因与美国移民与海关执法局（ICE）合作，且将自身定位为“西方”捍卫者，其意识形态倾向正引发外界更多审视，该企业已发布一份小型宣言，公开谴责包容性理念与所谓“倒退文化”。",
+      "summary_original": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T16:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07e3823e",
+      "title": "帕兰提尔发布小型宣言抨击包容性及“倒退文化”",
+      "title_original": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "summary": "美国科技企业帕兰提尔发布一份小型宣言，公开抨击包容性以及所谓“倒退文化”。该企业因与美国移民与海关执法局合作，且以“西方”捍卫者自居，其意识形态倾向目前正遭到外界更多审视。",
+      "summary_original": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-19T16:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d29e23e9",
+      "title": "英国反恐警方调查针对犹太场所的袭击事件",
+      "title_original": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
+      "summary": "英国反恐警方正对多起针对犹太场所的袭击事件展开调查，目前调查焦点锁定一个神秘的伊斯兰组织。该组织已宣称对近期发生的多起纵火袭击负责，现有线索显示该组织可能与伊朗存在关联。",
+      "summary_original": "The police say they are focusing on a shadowy Islamic group that may have links to Iran and which has claimed responsibility for several recent arson attacks.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-uk-arson-01-vgjq/19int-uk-arson-01-vgjq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-antisemitism.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-19T16:18:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3217ffdb",
+      "title": "TechCrunch移动出行：优步进入资产最大化时代",
+      "title_original": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "TechCrunch移动出行是聚焦未来交通发展的资讯栏目，如今人工智能在交通领域发挥的作用较以往更加突出，这也是该栏目当下重点关注的方向，本期栏目核心关注优步进入资产最大化发展阶段。",
+      "summary_original": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T16:01:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3217ffdb",
+      "title": "TechCrunch出行：优步进入资产最大化时代",
+      "title_original": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "TechCrunch出行栏目是聚焦交通未来发展的资讯平台，如今人工智能在交通出行领域的作用日益凸显，栏目将比以往更多地聚焦人工智能在交通领域发挥的作用，带来交通行业相关前沿内容分享。",
+      "summary_original": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-19T16:01:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "041db639",
+      "title": "二战炸弹被引爆 数千巴黎民众撤离",
+      "title_original": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "summary": "巴黎日前发现一枚二战时期遗留的未爆炸弹，在对这枚炸弹进行无害化引爆处置作业期间，当地当局要求炸弹中心点周边450米范围内的所有居民撤离住所，此次处置共造成数千名巴黎民众紧急疏散。",
+      "summary_original": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7786/live/c2ea2070-3c06-11f1-8606-05fe34b06e1b.jpg",
+      "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T15:50:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "36e11624",
+      "title": "白宫官员：万斯将率团参加美伊谈判 - 新华网",
+      "title_original": null,
+      "summary": "多家媒体消息显示，有白宫官员称美国副总统万斯将率团赴巴基斯坦伊斯兰堡参加美伊新一轮谈判。目前谈判前景不明，特朗普对谈判态度积极，伊朗则担忧美方有诈，已表态拒绝参与会谈，还否认将举行第二轮会谈，此前两国还发生过海军交锋。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVURMMU9ZMnZCekNTT19TQlVTcDF4Y2kyaGRUZDdPTUFkcU1DMFF3N3Y3bWt0WVNyWGxBanRDdXB3LUlMZDFFbVRmMno2ZE9hUHJzZElELUVDVExRc3ZIZFYxd0w5OENuU3NuVEZLRy1pWVVxa29lTUlyY3k4V2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-19T15:38:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "112cbe6a",
+      "title": "中国十大最重要芯片设计企业",
+      "title_original": "China’s 10 Most Important Chip Design Firms",
+      "summary": "本次内容围绕中国的芯片设计企业展开相关梳理，列出了中国国内最重要的十家芯片设计企业，相关内容围绕这十家芯片设计企业展开。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/articles/chinas-10-important-chip-design-firms",
+      "category": "tech",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-19T15:00:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ae6d83d8",
+      "title": "大规模断网进入第50天 伊朗放松部分互联网限制",
+      "title_original": "Iran Eases Some Internet Restrictions, as Wider Blackout Passes 50th Day",
+      "summary": "伊朗全国范围大规模断网已持续超过50天，当局近日放松部分互联网限制。批评人士认为，伊朗此举或是在构建“分层互联网”模式，仅向政治、经济领域的特权阶层开放有限的网络接入权限，普通民众仍会受到严格网络限制。",
+      "summary_original": "Critics say Iran may be creating a “tiered internet” model, where access is limited to the politically and economically privileged.",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19israel-iran-internet-01-jhkm/19israel-iran-internet-01-jhkm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/19/world/middleeast/iran-internet-blackout-50th-day.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-19T14:58:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ec661367",
+      "title": "Nothing旗下模块化CMF Headphone Pro降至历史最低价",
+      "title_original": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "summary": "CMF是科技品牌Nothing主打平价市场的子品牌，向来因高颜值、低售价，搭载常出现在两倍价位产品上的配置收获好评。其首款头戴式无线耳机CMF Headphone Pro也延续这一定位，目前该款耳机降价促销，售价已降至历史最低。",
+      "summary_original": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Headphone Pro — the company’s first pair of over-ear wireless headphones — fit precisely in that lane, especially now that they’re on sale at [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "db9e578c",
+      "title": "《群星，我的归宿》是经典原型赛博朋克作品",
+      "title_original": "The Stars My Destination is classic proto-cyberpunk",
+      "summary": "本次推荐的科幻作品《群星，我的归宿》，由阿尔弗雷德·贝斯特创作，1956年正式出版，英国初版时书名为《老虎！老虎！》。不少观点认为这部作品是赛博朋克的前身，尽管这份推荐对部分人来说顺理成章，但推荐者此前一直未曾关注到它，还坦言对该作怀有矛盾看法。",
+      "summary_original": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some conflicted [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "40f90758",
+      "title": "谷歌正与美满电子洽谈开发新型AI推理芯片",
+      "title_original": "Google in Talks With Marvell to Build New AI Chips for Inference",
+      "summary": "谷歌正与美满电子（Marvell）进行洽谈，拟合作开发用于推理任务的新型人工智能芯片，目前相关合作事宜仍处在沟通商谈阶段。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-19T13:00:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3623a88b",
+      "title": "奥地利警方称喜宝婴儿食品罐中检出鼠药",
+      "title_original": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "summary": "奥地利警方通报，当地在喜宝品牌的婴儿食品罐中检测出鼠药，涉事产品为婴儿果泥。喜宝品牌已于周六发出警告，明确表示食用受污染的果泥存在潜在风险，严重时可能危及生命。",
+      "summary_original": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
+      "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-19T12:52:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c403f282",
+      "title": "聚变能源融资热潮初现裂痕",
+      "title_original": "Cracks are starting to form on fusion energy’s funding boom",
+      "summary": "当前聚变能源领域正迎来融资热潮，这一热潮已初现裂痕。若行业内的聚变初创企业与投资方无法友好协商解决若干核心分歧，双方之间的矛盾裂痕将会进一步加深，给聚变能源行业发展增添不确定性。",
+      "summary_original": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-19T12:51:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0c2e1e12",
+      "title": "超长续航加持 Keychron Ultra 8K成品牌迄今最佳键盘",
+      "title_original": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "summary": "Keychron拥有覆盖全面的键盘产品线，从基础全尺寸机械键盘，到左撇Alice布局、单手游戏半键盘等小众品类一应俱全，其Q、V系列一直是广受推荐的量产键盘，最新推出的Ultra 8K升级款凭借超长续航，成为品牌迄今最佳键盘产品。",
+      "summary_original": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V Ultra models - are a straightforward upgrade to the lineup, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T12:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1673cf61",
+      "title": "地方电视新闻未来走向特朗普化",
+      "title_original": "The future of local TV news has taken a Trumpian turn",
+      "summary": "这是科技领域每周通讯《回溯》的内容，该通讯每周拆解一篇科技领域核心报道，本期聚焦地方电视新闻未来转向特朗普化的话题，读者可在线订阅该通讯，也可关注蒂娜·阮的《监管者》，获取更多华盛顿科技巨头与政治博弈的相关报道。",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more stories on Big Tech versus politics in Washington, DC, follow Tina Nguyen and read Regulator. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started A long time [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-19T12:00:00+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "519a386b",
+      "title": "Vercel证实发生数据泄露 黑客标价200万美元兜售被盗数据",
+      "summary": "黑客列出盗得的数据，标价200万美元对外出售，在此事件之后，Vercel正式确认该公司发生了数据泄露事件。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e05370b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "e05370b4",
+          "source": "The Information",
+          "title": "Vercel证实发生数据泄露 黑客标价200万美元兜售被盗数据",
+          "link": "https://www.theinformation.com/briefings/vercel-confirms-breach-hackers-list-stolen-data-2m",
+          "published_at": "2026-04-20T01:43:19+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:43:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fe05be60",
+      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+      "summary": "自变量机器人于三月底至四月初完成近20亿元B轮融资，由小米战投、红杉中国领投，是国内唯一同时获得四家互联网大厂投资的具身智能企业。其坚持全自研端到端具身智能基础模型，近期已联合58到家推出家庭保洁商业化服务，未来将拓展多场景落地。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_2ea4bb4ac55b4337926be9f523a24925@1199336245_oswg43867oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "03234f54"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "03234f54",
+          "source": "36氪",
+          "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+          "link": "https://36kr.com/p/3774502008963841?f=rss",
+          "published_at": "2026-04-20T01:42:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:42:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c2658626",
+      "title": "特朗普称美国拦截并扣押悬挂伊朗国旗的货船",
+      "summary": "美国拦截并扣押一艘悬挂伊朗国旗的货船，这一事件发生在美国筹备开启第二轮对伊谈判前夕。伊朗将此次美方行动定性为“武装海盗行径”，德黑兰已誓言很快会就此采取报复行动。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23df/live/b411ec10-3c36-11f1-99cc-6528d02ffc7e.png",
+      "article_ids": [
+        "fcaea04d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fcaea04d",
+          "source": "BBC World",
+          "title": "特朗普称美国拦截并扣押悬挂伊朗国旗的货船",
+          "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-20T01:38:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:38:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a9c4852e",
+      "title": "美伊紧张局势升级 铜价从两个月高点回落",
+      "summary": "美国在霍尔木兹海峡扣押一艘伊朗船只后，美国与伊朗之间的停火谈判陷入不确定性，双方紧张局势随之升级。受这一地缘局势变动影响，铜价从2月初以来创下的两个月最高收盘位回落。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSmWeC0SqOfk/v1/1200x-1.jpg",
+      "article_ids": [
+        "5032cead"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5032cead",
+          "source": "Bloomberg",
+          "title": "美伊紧张局势升级 铜价从两个月高点回落",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/copper-drops-from-two-month-high-as-us-iran-tensions-escalate",
+          "published_at": "2026-04-20T01:37:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:37:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30963c28",
+      "title": "人工智能代币经济革命催生中国科技新赢家",
+      "summary": "人工智能代币经济革命浪潮下，中国的低价人工智能模型凭借价格优势正快速吸引全球各地用户，相关企业获得资本市场青睐，已经在中国本土股市催生出一批新的科技行业赢家。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIkfM5E3jrm4/v3/1200x-1.png",
+      "article_ids": [
+        "9c4c9dea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9c4c9dea",
+          "source": "Bloomberg",
+          "title": "人工智能代币经济革命催生中国科技新赢家",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/ai-s-token-economy-revolution-creates-new-china-tech-winners",
+          "published_at": "2026-04-20T01:28:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:28:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3691ca0f",
+      "title": "伊朗战争最新快讯：美国筹备新一轮谈判期间袭击伊朗货船",
+      "summary": "特朗普称一艘美国海军驱逐舰在阿曼湾袭击并扣押了一艘悬挂伊朗国旗的船只。白宫随后表示，正派遣包括副总统JD·万斯在内的高级代表团前往巴基斯坦，开展相关谈判。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19trump-400/live-blog-20260419-iran-us-war-trump-hormuz-header-kbgp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "47b03619"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "47b03619",
+          "source": "NYTimes World",
+          "title": "伊朗战争最新快讯：美国筹备新一轮谈判期间袭击伊朗货船",
+          "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+          "published_at": "2026-04-20T01:26:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:26:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "47419317",
+      "title": "港交所收紧规则防范企业选购审计师",
+      "summary": "港交所出台新规，要求香港上市公司更换审计师必须获得股东批准。此举是香港监管层推出的监管动作，旨在强化总规模达7.5万亿美元的港股市场的公司治理，提升市场透明度。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imZj3.rQ0IEM/v1/1200x-1.jpg",
+      "article_ids": [
+        "9abf6ed6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9abf6ed6",
+          "source": "Bloomberg",
+          "title": "港交所收紧规则防范企业选购审计师",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/hong-kong-exchange-tightens-rules-to-avoid-auditor-shopping",
+          "published_at": "2026-04-20T01:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fd2a3af4",
+      "title": "【新思想引领新征程】筑牢网络强国基石 赋能高质量发展 - 中国网新闻中心",
+      "summary": "多家中央主流媒体推出“新思想引领新征程”相关报道，聚焦习近平总书记引领我国网络强国建设进程，强调要持续筑牢网络强国建设基石，推动互联网更好造福人民与世界，便利群众生产生活，赋能我国经济社会高质量发展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "dc8a7114"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "dc8a7114",
+          "source": "Google News (中国)",
+          "title": "【新思想引领新征程】筑牢网络强国基石 赋能高质量发展 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVUm44UHViWlZVRFd1bXNVLXBNUTRMY3lOX2FpSXZmcWp5UHFZWU5ab1FFLXFpTTJOT29IbUdENUdkaXE5dENwNm8xZnNDNzA5cVd1ZlRaWjhuZlBQNWxNZ3B6X0FIb3Nicl9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T01:13:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:13:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7138736f",
+      "title": "金正恩观摩地对地战术弹道导弹试射--国际 - 人民网国际",
+      "summary": "朝鲜进行地对地战术弹道导弹试射，最高领导人金正恩到场观摩，试射的5枚导弹高密度命中目标。韩方监测到此次发射后举行紧急安全会议，日美韩随后要求朝鲜停止挑衅，此前韩国方面李在明推动缓和平壤关系的行动未取得成果。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "86c59b14"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "86c59b14",
+          "source": "Google News (中国)",
+          "title": "金正恩观摩地对地战术弹道导弹试射--国际 - 人民网国际",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtbG5PbHB2cUZYQ3JtY29XVVVtOGhYSW9QaDRnSUcyaVFwbEF6bndkZ1hyV1d2UlktZ1pmTEp0bWYyOVpBZFQ0bmpMTmYyMHVVZTFOQmVDWmx3REp0QVdxdFZzcFgydnlGNDJHMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T01:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b27c7138",
+      "title": "能源安全形势吃紧 中国重启煤制气项目",
+      "summary": "当前地缘政治局势紧张升级，能源安全风险加剧，中国掀起新一轮煤制气项目投资潮，一个搁置十余年的重点知名煤制气项目将于今年启动，这批投资将帮助中国缓解燃料供应威胁，强化能源安全保障。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFaVNkZZjxbI/v0/1200x-1.jpg",
+      "article_ids": [
+        "fc89958c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "fc89958c",
+          "source": "Bloomberg",
+          "title": "能源安全形势吃紧 中国重启煤制气项目",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/china-revives-coal-to-gas-projects-as-energy-security-frays",
+          "published_at": "2026-04-20T01:03:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:03:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "58c3743e",
+      "title": "摩根大通称市场认为中东冲突将走向缓和",
+      "summary": "摩根大通资产管理的克里·克雷格接受彭博电视台采访时表示，当前市场在一定程度上处于震荡盘整状态，投资者普遍认为中东冲突正迎来缓和。随着美国财报季开启，市场焦点正逐步转向微观基本面，相关消息源自彭博。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS8zvzfuvMII/v3/1200x-1.jpg",
+      "article_ids": [
+        "ba8a645d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ba8a645d",
+          "source": "Bloomberg",
+          "title": "摩根大通称市场认为中东冲突将走向缓和",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-20/markets-seeing-off-ramp-in-mideast-conflict-jpmorgan-am-video",
+          "published_at": "2026-04-20T01:00:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:00:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "815db235",
+      "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
+      "summary": "36氪独家获悉，面向50-80岁活力银发群体的上海东犁退休俱乐部近日完成亿元级B轮融资，由恒旭资本领投，德同资本跟投。该平台主打线上线下结合的社交生活服务，已累计服务超300万江浙沪用户，本轮资金将用于拓展服务场景、升级技术中台，投资方看好银发赛道及东犁的发展潜力。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260419/v2_6d76d0f9beb94739bd1afd353bc0338d@5748245_oswg3232621oswg4032oswg3024_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "c02b6291"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "c02b6291",
+          "source": "36氪",
+          "title": "36氪首发｜「东犁退休俱乐部」完成亿元级B轮融资，为300万活力银发族打造“线上+线下”社交生活方式",
+          "link": "https://36kr.com/p/3719736708200068?f=rss",
+          "published_at": "2026-04-20T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a153c277",
+      "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行 - 中国网新闻中心",
+      "summary": "伊朗在霍尔木兹海峡划定了名为“拉腊克走廊”的新航线，规定未经许可的船舶不得通行。该消息引发市场波动，加密货币因此全线跳水。此外美媒披露，美国前总统特朗普曾召开会议，讨论与伊朗进行谈判的相关问题。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "50f1d49f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "50f1d49f",
+          "source": "Google News (中国)",
+          "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5maUZDVUxRTlNlekd4bjBOZnB2V3lwY3lzUEdXRWFLQTVPdUFSYWE2RGlzOGtRRjBPS0FWOW9oZWU0dU5YbGw1TzNBM3E3Z3l1TnBfUDBmUHlRMDltSkQ5ck1KYjlIZkRlajVz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T00:57:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:57:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bb239e44",
+      "title": "中国将启动特别国债发行 发售创纪录三十年期国债",
+      "summary": "中国今年的超长期特别国债发行工作将于本周五正式启动，首发为创纪录的30年期特别国债，本次发行将测试市场投资者对这类超长期国债品种的需求。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io5VrTnIsggo/v0/1200x-1.jpg",
+      "article_ids": [
+        "ea5af018"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ea5af018",
+          "source": "Bloomberg",
+          "title": "中国将启动特别国债发行 发售创纪录三十年期国债",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/china-to-begin-special-bond-sales-with-record-30-year-offering",
+          "published_at": "2026-04-20T00:52:56+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:52:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f404e8e3",
+      "title": "澳大利亚养老基金负责人欧洲之行瞄准私人资产",
+      "summary": "澳大利亚多家规模最大的养老基金将于本周前往法国和英国，新一轮发力寻求私人市场交易机会。此次行程距离这批养老基金开展类似的美国出访仅过去一个多月，是其加码布局私人资产领域投资的最新动作。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEKU4NQOBo6k/v0/1200x-1.jpg",
+      "article_ids": [
+        "5d26e499"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5d26e499",
+          "source": "Bloomberg",
+          "title": "澳大利亚养老基金负责人欧洲之行瞄准私人资产",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-20/australian-pension-chiefs-target-private-assets-in-european-trip",
+          "published_at": "2026-04-20T00:50:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:50:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1d9edc5",
+      "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码” - 华尔街见闻",
+      "summary": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”&nbsp;&nbsp;华尔街见闻特朗普称美武力拦截并控制伊货船，伊朗称革命卫队海军逼退美军-观察者网&nbsp;&nbsp;guancha.cn伊朗：美军向伊朗商船开火，革命卫队海军逼退美军&nbsp;&nbsp;thepaper.cn伊朗最高联合军事指挥部：美国炮击伊朗一艘商船，违反停火协议。&nbsp;&nbsp;新浪",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f91a15a9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f91a15a9",
+          "source": "Google News (中国)",
+          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码” - 华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KVmRabWNpZGpHTHpTNkkwcHdOV084WmNCLXNldWR3TTVtYlVTckNUQnBtUkZBWFB3U0FZWERmOUJSbUpjZVFSWnFoMXg1ZEVYZDI0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T00:26:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:26:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7bf75df9",
+      "title": "伊朗议长:伊美谈判期间险些冲突再起 信任未消除 - 中华网",
+      "summary": "伊朗议长卡利巴夫披露，伊美谈判期间双方险些再起冲突，经伊朗发出警告，美方安排军舰撤退。目前伊美间信任仍未消除，伊朗要求美国接受霍尔木兹海峡新秩序，双方距离达成最终协议仍有很长路程，有观点认为卡利巴夫是伊朗当前真正决策者。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "db68c681"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "db68c681",
+          "source": "Google News (中国)",
+          "title": "伊朗议长:伊美谈判期间险些冲突再起 信任未消除 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uakh2dnd4WW5QVnhTOTFYY3NzQ0J6VWR5bl9LUUZLcHZWOXBna2VWLTI5ekNlX2FfTzNOTzBHdWVhNGRqVENBaE8wSDk1c0dlX1g1dk1oRm1SQ1lpbm02aDRNS3U4SWdDTVRGYjVEQTk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T00:21:02+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:21:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "00262146",
+      "title": "助力书香京城建设和全民阅读推广 二〇二六年首都大学生系列读书活动启动 - 北京市人民政府网站",
+      "summary": "以习近平文化思想引领书香社会建设，主题为“书香青春阅见未来”的2026年首都大学生系列读书活动正式启动，活动旨在助力书香京城建设、推广全民阅读，获人民日报、中国日报网等多家权威媒体关注报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "dabd1343"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "dabd1343",
+          "source": "Google News (中国)",
+          "title": "助力书香京城建设和全民阅读推广 二〇二六年首都大学生系列读书活动启动 - 北京市人民政府网站",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBncnY3S1NwT3V1VUhZY1lXNThLY1JTYjRYY1pXMmxldUgzVklwbzFVWG9QRFVHN21ob3RnRUMyOHdpU1RLb3BwQTJiY1ZUVGlUS2NhWXFiZ1BSeTVxbkwzWTFPeEIzN1lKY1JIbnBEYUotT2hFWjJfbHJLWUsxNDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-20T00:11:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:11:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1f0839c",
+      "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+      "summary": "近期多领域热点频发，五一火车票开售三天来，铁路12306已拒绝抢票软件异常出票105.6万张；万达电影正式更名为儒意电影，启用新证券简称；AI企业DeepSeek启动首次外部融资，估值超680亿元；国产光纤量价齐升，价格暴涨650%。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_fc63c63d83af4f7f9429bfdc8a5fdde0@5667365_oswg2338286oswg1080oswg1528_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "ddccd71b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "ddccd71b",
+          "source": "36氪",
+          "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+          "link": "https://36kr.com/p/3774401650656001?f=rss",
+          "published_at": "2026-04-20T00:02:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-20T00:02:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62afff28",
+      "title": "新闻8点见丨人形机器人半马破人类纪录；12306打击恶意抢票 - 新京报",
+      "summary": "“五一”假期将至，京沪等高铁干线将增开夜间高铁，满足旅客旺盛的出行购票需求；铁路12306持续打击恶意抢票行为，三天内已拒绝出票105.6万张。此外，人形机器人完成半程马拉松，成绩打破人类纪录。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3b1f5a54"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3b1f5a54",
+          "source": "Google News (中国)",
+          "title": "新闻8点见丨人形机器人半马破人类纪录；12306打击恶意抢票 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUFVNTmNROE9vT2txbks3UFBLVEdqSy1MVzQ2QXh3cjh2SzJ6Z2tUbG5hLXI2bzVVd2hlNGZYNi1CN2xralloSnR6YW1sa2R5bDBURFVrY3hsUDE0VUg0T3REbjI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-19T23:54:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T23:54:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "866456c1",
+      "title": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备 - 东方财富",
+      "summary": "近期美伊发生海上交锋，相关现场画面已对外公布。伊朗明确拒绝参加与美国的谈判，伊朗媒体发声表示，当前局势下美伊战火重燃的可能性高于继续谈判，伊朗已做好准备，可应对美方军事动向及可能爆发的冲突。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9680a47e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9680a47e",
+          "source": "Google News (中国)",
+          "title": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0elVEWFZTZHVXZi16N3NuWF8zLVJ1XzRmMk5iUXVFRUUyd2xpSWt6OVZDdVRSck5UX05lX2pqeUl4VDFUUkdiX190NUlBcUEweE9vbldFc1FSTlljRExDaVdnWHV1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-19T23:42:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T23:42:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdd4fc85",
+      "title": "重庆市气象台发布气象实况通报：降雨明显减弱 趋于结束 - 华龙网",
+      "summary": "今年重庆迎来首场大范围暴雨，当地已启动多个层级防汛相关应急响应，其中15个区县启动防汛应急响应，全市依托2400个雨情感知设备数智赋能防汛监测。重庆市气象台发布通报称，本次降雨已明显减弱，过程趋于结束。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c85e7f5b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c85e7f5b",
+          "source": "Google News (中国)",
+          "title": "重庆市气象台发布气象实况通报：降雨明显减弱 趋于结束 - 华龙网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50TkRJVU14VzVObGdLXzA2ODlJTnJ0Um1iZ3RrV01mWml2aTB0Y3c4cEVnODlDa0U3c3BFakJNVEVPYm16cEtlMHZRX0w5Z0s3OGxhc0pWNFRhbFRUUGNPWllhaHlKT19sQng0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-19T23:29:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T23:29:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "502e89fc",
+      "title": "警方称路易斯安那州枪击案致八名儿童死亡",
+      "summary": "美国路易斯安那州发生一起严重枪击案件，警方表示这起枪击事件由家庭纠纷引发。此次事件共造成八名儿童不幸遇害，遇害儿童年龄跨度较大，范围在1岁到14岁之间。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b1/live/b4ab8540-3c3c-11f1-a902-531b59555add.jpg",
+      "article_ids": [
+        "a3a671b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a3a671b0",
+          "source": "BBC World",
+          "title": "警方称路易斯安那州枪击案致八名儿童死亡",
+          "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T22:54:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:54:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "44c5468a",
+      "title": "霍尔木兹海峡局势再动荡 通胀担忧升温导致金价下跌",
+      "summary": "中东冲突已持续超过七周时间，周末霍尔木兹海峡发生船只遇袭事件，市场对能源供应中断的担忧再度发酵，通胀焦虑随之升温，受这一消息影响，黄金价格出现下跌。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7IGqeMUaM0A/v1/1200x-1.jpg",
+      "article_ids": [
+        "daabf5e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "daabf5e1",
+          "source": "Bloomberg",
+          "title": "霍尔木兹海峡局势再动荡 通胀担忧升温导致金价下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-19/gold-falls-as-renewed-hormuz-disruption-stokes-inflation-concern",
+          "published_at": "2026-04-19T22:14:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:14:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "335352d8",
+      "title": "伊朗局势紧张再现 油价上涨美元走强：市场综述",
+      "summary": "此前受中东局势有望缓和的预期推动，市场出现纾困反弹行情，但美伊紧张局势在周末再度升级，市场避险情绪重燃，此前的反弹行情消散，最终推动油价大幅上涨，美元也随之走强。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUDfYt.vEj.c/v1/1200x-1.jpg",
+      "article_ids": [
+        "f53278a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f53278a0",
+          "source": "Bloomberg",
+          "title": "伊朗局势紧张再现 油价上涨美元走强：市场综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-19/us-futures-fall-oil-jumps-as-iran-tensions-worsen-markets-wrap",
+          "published_at": "2026-04-19T22:12:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:12:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90817683",
+      "title": "鲁门·拉德夫有望赢得保加利亚议会选举",
+      "summary": "出口民调显示，鲁门·拉德夫领导的进步保加利亚得票率为37%，得票率是紧随其后的竞选对手的两倍多，大幅领先，拉德夫基本锁定本次保加利亚议会选举胜局，不过他仍需组建联合政府才能执政。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad64/live/b33fc7a0-3c39-11f1-bbdd-9d760fb02d09.jpg",
+      "article_ids": [
+        "9d96924b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9d96924b",
+          "source": "BBC World",
+          "title": "鲁门·拉德夫有望赢得保加利亚议会选举",
+          "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T22:06:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:06:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "440531d6",
+      "title": "美国扣押伊朗船只危及谈判 油气价格飙升",
+      "summary": "局势动荡的周末，美国海军扣押一艘伊朗船只，伊朗随后在霍尔木兹海峡向过往船只开火，并重新对该海峡实施管控。受这一事件影响，原油与天然气价格大幅飙升，相关谈判进程也因此遭遇危机。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM3SxJLe4wec/v0/1200x-1.jpg",
+      "article_ids": [
+        "2013ccd7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2013ccd7",
+          "source": "Bloomberg",
+          "title": "美国扣押伊朗船只危及谈判 油气价格飙升",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-19/latest-oil-market-news-and-analysis-for-april-20",
+          "published_at": "2026-04-19T22:03:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:03:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9a4e4f4d",
+      "title": "奥多比与谷歌云前往拉斯维加斯",
+      "summary": "该标题仅显示奥多比与谷歌云一同前往拉斯维加斯，未披露此次行程的具体目的、安排等更多相关内容信息",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e5c401b3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "e5c401b3",
+          "source": "The Information",
+          "title": "奥多比与谷歌云前往拉斯维加斯",
+          "link": "https://www.theinformation.com/newsletters/the-briefing/adobe-google-cloud-head-vegas",
+          "published_at": "2026-04-19T22:00:20+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T22:00:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "13ce1462",
+      "title": "哈马斯官员称该组织准备交出部分武器",
+      "summary": "加沙两名哈马斯高级官员表示，该组织已准备好交出部分自动步枪及其他武器。哈马斯做出的这一让步，并未满足以色列和美国提出的相关要求，距离两方的诉求仍有差距。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-hamas-proposal-001-vltp/19int-hamas-proposal-001-vltp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2006d342"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2006d342",
+          "source": "NYTimes World",
+          "title": "哈马斯官员称该组织准备交出部分武器",
+          "link": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
+          "published_at": "2026-04-19T21:54:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T21:54:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1c3085d",
+      "title": "OpenAI的生存之问",
+      "summary": "近日，在最新一期名为《Equity》的财经播客节目中，主创团队围绕人工智能企业OpenAI的最新收购交易展开讨论，核心议题正是这些收购动作能否解决OpenAI当前面临的两大核心生存问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e0862fe0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e0862fe0",
+          "source": "TechCrunch",
+          "title": "OpenAI的生存之问",
+          "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "published_at": "2026-04-19T21:24:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T21:24:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1c3085d",
+      "title": "OpenAI的生存之问",
+      "summary": "最新一期名为《Equity》的播客节目围绕人工智能公司OpenAI展开讨论，梳理了OpenAI近期完成的最新收购交易，同时探讨了这些收购举措能否解决该公司当前面临的两大核心生存问题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e0862fe0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "e0862fe0",
+          "source": "TechCrunch AI",
+          "title": "OpenAI的生存之问",
+          "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "published_at": "2026-04-19T21:24:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T21:24:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "377e8756",
+      "title": "伊朗高级政要告诉BBC：伊朗绝不会放弃霍尔木兹海峡控制权",
+      "summary": "BBC记者利斯·杜塞特采访了伊朗高级政治人物易卜拉欣·阿齐兹，阿齐兹明确表态，伊朗永远不会让出霍尔木兹海峡的控制权，这一全球至关重要的航运通道的通行决定权将由伊朗掌握。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf3/live/b707c190-3c38-11f1-9d5c-8ba507d7dbde.jpg",
+      "article_ids": [
+        "ccde1f01"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ccde1f01",
+          "source": "BBC World",
+          "title": "伊朗高级政要告诉BBC：伊朗绝不会放弃霍尔木兹海峡控制权",
+          "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T21:09:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T21:09:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "df03766d",
+      "title": "保加利亚选民支持拉德夫领导的新政治联盟",
+      "summary": "保加利亚民众渴望过上其他欧洲民众享有的富裕生活，该国在此背景下举行了五年内的第八次选举。投票结果显示，多数选民支持由拉德夫领导的全新政治联盟，这一结果将对保加利亚未来的政局走向与民生发展产生影响。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-bulgaria-election-twfq/19int-bulgaria-election-twfq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a6d7d39e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a6d7d39e",
+          "source": "NYTimes World",
+          "title": "保加利亚选民支持拉德夫领导的新政治联盟",
+          "link": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
+          "published_at": "2026-04-19T20:53:27+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T20:53:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e148d10b",
+      "title": "蓝色起源“新格伦”火箭第三次发射 一级复用成功卫星入错预定轨道",
+      "summary": "蓝色起源第三次发射搭载商业卫星的“新格伦”火箭，一级助推器成功完成第二次着陆回收，实现该型火箭重复使用，但卫星未能送入预定轨道，任务仅部分成功，此次故障或推迟其参与的美国重返月球相关进程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "189a01a2",
+        "f379a19c"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "189a01a2",
+          "source": "The Verge",
+          "title": "蓝色起源“新格伦”火箭成功实现重复使用",
+          "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+          "published_at": "2026-04-19T20:28:52+00:00"
+        },
+        {
+          "id": "f379a19c",
+          "source": "TechCrunch",
+          "title": "蓝色起源新格伦火箭第三次发射将客户卫星送入错误轨道",
+          "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+          "published_at": "2026-04-19T19:02:09+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T20:28:52+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "6aa30421",
+      "title": "云开发平台Vercel遭黑客入侵",
+      "summary": "用于托管部署网络应用的知名开发平台Vercel被入侵，黑客正试图售卖窃取的数据。一名自称黑客组织ShinyHunters的人员在网上公布了部分失窃数据，该组织此前曾攻击Rockstar Games，公布数据包括员工姓名、邮箱地址、活动时间戳，Vercel已确认该事件。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "14b4d3c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "14b4d3c0",
+          "source": "The Verge",
+          "title": "云开发平台Vercel遭黑客入侵",
+          "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "published_at": "2026-04-19T19:54:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T19:54:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6aa30421",
+      "title": "云开发平台Vercel遭黑客入侵",
+      "summary": "提供网络应用托管部署服务的主流云开发平台Vercel遭遇入侵，黑客正试图售卖窃取的数据。一名自称黑客组织ShinyHunters成员的人员已在线公布部分被盗数据，包含员工姓名、邮箱地址、活动时间戳，该组织此前曾入侵Rockstar Games，Vercel已确认该事件。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "14b4d3c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "14b4d3c0",
+          "source": "The Verge AI",
+          "title": "云开发平台Vercel遭黑客入侵",
+          "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "published_at": "2026-04-19T19:54:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T19:54:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "72f0368c",
+      "title": "12个月窗口期",
+      "summary": "当前大量AI创业公司得以存在，部分原因是基础大模型尚未扩张进入它们所在的细分领域。不少业内相关从业者也调侃承认，大模型尚未进场的现状不会一直持续，这些创业公司的发展窗口期十分有限。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e0ab883c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e0ab883c",
+          "source": "TechCrunch",
+          "title": "12个月窗口期",
+          "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "published_at": "2026-04-19T19:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T19:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "72f0368c",
+      "title": "12个月窗口期",
+      "summary": "当前大量人工智能初创企业能够存续，部分原因在于通用大模型尚未拓展进入它们所在的细分领域。这些初创企业本身也大多调侃称，当前这种依托赛道空白的发展状态不会永远持续下去。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e0ab883c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "e0ab883c",
+          "source": "TechCrunch AI",
+          "title": "12个月窗口期",
+          "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "published_at": "2026-04-19T19:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T19:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c7d14bb",
+      "title": "安大略省省长道格·福特迫于抗议同意出售价值2100万的私人飞机",
+      "summary": "安大略省省长道格·福特于周五确认购入这架价值2100万的私人飞机后，遭到政治对手批评，对手将其斥为“油水专机”，指责福特脱离民众，在引发一片反对声浪后，福特最终同意出售这架私人飞机。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c4/live/81215e60-3c1a-11f1-9ee7-39ebe3a225a4.jpg",
+      "article_ids": [
+        "77ff69f2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "77ff69f2",
+          "source": "BBC World",
+          "title": "安大略省省长道格·福特迫于抗议同意出售价值2100万的私人飞机",
+          "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T19:25:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T19:25:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4d653a38",
+      "title": "机器人在北京半程马拉松打破人类纪录",
+      "summary": "在北京举办的半程马拉松赛事中，参赛机器人打破了该项目的人类纪录。对比去年该赛事最快机器人2小时40分的完赛成绩，今年夺冠机器人的完赛成绩实现了大幅提升，可见机器人竞速能力正在快速进步。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "52464a87"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "52464a87",
+          "source": "TechCrunch",
+          "title": "机器人在北京半程马拉松打破人类纪录",
+          "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+          "published_at": "2026-04-19T18:44:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T18:44:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fd8a53e5",
+      "title": "警员被控逃离致命枪击案现场 乌克兰警察局长辞职",
+      "summary": "乌克兰多名警员被指在一起致命枪击事件发生后逃离现场，引发问责风波。目前涉事警员已被官方停职，有关部门正对涉事警员的行为展开调查，乌克兰警察局长已因该事件宣布辞职。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f9a/live/8e252110-3c0f-11f1-9ee7-39ebe3a225a4.jpg",
+      "article_ids": [
+        "a04c6894"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a04c6894",
+          "source": "BBC World",
+          "title": "警员被控逃离致命枪击案现场 乌克兰警察局长辞职",
+          "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T17:48:41+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T17:48:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2421e292",
+      "title": "蓝色起源成功降落新格伦火箭助推器",
+      "summary": "蓝色起源成功完成新格伦火箭助推器的着陆作业，目前仅确认本次操作取得成功，现有信息中未披露更多与该任务相关的细节内容",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "753e3c86"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "753e3c86",
+          "source": "The Information",
+          "title": "蓝色起源成功降落新格伦火箭助推器",
+          "link": "https://www.theinformation.com/briefings/blue-origin-successfully-lands-new-glenn-rocket-booster",
+          "published_at": "2026-04-19T17:27:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T17:27:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1cf88ddb",
+      "title": "火灾烧毁马来西亚一处滨海村庄大部分区域",
+      "summary": "马来西亚婆罗洲岛一处滨海村庄发生连夜火灾，该村以高脚屋搭建而成的临海聚居社区在大火中完全被烧毁、化为灰烬，此次火情破坏力极强，村庄大部分区域都在这场火灾中被摧毁。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-borneo-fire-01-qlfb/19int-borneo-fire-01-qlfb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7a4e8e25"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7a4e8e25",
+          "source": "NYTimes World",
+          "title": "火灾烧毁马来西亚一处滨海村庄大部分区域",
+          "link": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html",
+          "published_at": "2026-04-19T16:43:23+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:43:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "271980f3",
+      "title": "帕兰蒂尔发布小型宣言 谴责包容性与“倒退文化”",
+      "summary": "美国科技企业帕兰蒂尔因与美国移民与海关执法局（ICE）合作，且将自身定位为“西方”捍卫者，其意识形态倾向正引发外界更多审视，该企业已发布一份小型宣言，公开谴责包容性理念与所谓“倒退文化”。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "07e3823e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "07e3823e",
+          "source": "TechCrunch",
+          "title": "帕兰蒂尔发布小型宣言 谴责包容性与“倒退文化”",
+          "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+          "published_at": "2026-04-19T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "271980f3",
+      "title": "帕兰提尔发布小型宣言抨击包容性及“倒退文化”",
+      "summary": "美国科技企业帕兰提尔发布一份小型宣言，公开抨击包容性以及所谓“倒退文化”。该企业因与美国移民与海关执法局合作，且以“西方”捍卫者自居，其意识形态倾向目前正遭到外界更多审视。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "07e3823e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "07e3823e",
+          "source": "TechCrunch AI",
+          "title": "帕兰提尔发布小型宣言抨击包容性及“倒退文化”",
+          "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+          "published_at": "2026-04-19T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d55c9e23",
+      "title": "英国反恐警方调查针对犹太场所的袭击事件",
+      "summary": "英国反恐警方正对多起针对犹太场所的袭击事件展开调查，目前调查焦点锁定一个神秘的伊斯兰组织。该组织已宣称对近期发生的多起纵火袭击负责，现有线索显示该组织可能与伊朗存在关联。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19int-uk-arson-01-vgjq/19int-uk-arson-01-vgjq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d29e23e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d29e23e9",
+          "source": "NYTimes World",
+          "title": "英国反恐警方调查针对犹太场所的袭击事件",
+          "link": "https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-antisemitism.html",
+          "published_at": "2026-04-19T16:18:41+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:18:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "063bc8b3",
+      "title": "TechCrunch移动出行：优步进入资产最大化时代",
+      "summary": "TechCrunch移动出行是聚焦未来交通发展的资讯栏目，如今人工智能在交通领域发挥的作用较以往更加突出，这也是该栏目当下重点关注的方向，本期栏目核心关注优步进入资产最大化发展阶段。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3217ffdb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3217ffdb",
+          "source": "TechCrunch",
+          "title": "TechCrunch移动出行：优步进入资产最大化时代",
+          "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+          "published_at": "2026-04-19T16:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "063bc8b3",
+      "title": "TechCrunch出行：优步进入资产最大化时代",
+      "summary": "TechCrunch出行栏目是聚焦交通未来发展的资讯平台，如今人工智能在交通出行领域的作用日益凸显，栏目将比以往更多地聚焦人工智能在交通领域发挥的作用，带来交通行业相关前沿内容分享。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3217ffdb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "3217ffdb",
+          "source": "TechCrunch AI",
+          "title": "TechCrunch出行：优步进入资产最大化时代",
+          "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+          "published_at": "2026-04-19T16:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T16:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42f050be",
+      "title": "二战炸弹被引爆 数千巴黎民众撤离",
+      "summary": "巴黎日前发现一枚二战时期遗留的未爆炸弹，在对这枚炸弹进行无害化引爆处置作业期间，当地当局要求炸弹中心点周边450米范围内的所有居民撤离住所，此次处置共造成数千名巴黎民众紧急疏散。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7786/live/c2ea2070-3c06-11f1-8606-05fe34b06e1b.jpg",
+      "article_ids": [
+        "041db639"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "041db639",
+          "source": "BBC World",
+          "title": "二战炸弹被引爆 数千巴黎民众撤离",
+          "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T15:50:48+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T15:50:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1844d075",
+      "title": "白宫官员：万斯将率团参加美伊谈判 - 新华网",
+      "summary": "多家媒体消息显示，有白宫官员称美国副总统万斯将率团赴巴基斯坦伊斯兰堡参加美伊新一轮谈判。目前谈判前景不明，特朗普对谈判态度积极，伊朗则担忧美方有诈，已表态拒绝参与会谈，还否认将举行第二轮会谈，此前两国还发生过海军交锋。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "36e11624"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "36e11624",
+          "source": "Google News (中国)",
+          "title": "白宫官员：万斯将率团参加美伊谈判 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVURMMU9ZMnZCekNTT19TQlVTcDF4Y2kyaGRUZDdPTUFkcU1DMFF3N3Y3bWt0WVNyWGxBanRDdXB3LUlMZDFFbVRmMno2ZE9hUHJzZElELUVDVExRc3ZIZFYxd0w5OENuU3NuVEZLRy1pWVVxa29lTUlyY3k4V2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-19T15:38:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T15:38:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8e53d97",
+      "title": "中国十大最重要芯片设计企业",
+      "summary": "本次内容围绕中国的芯片设计企业展开相关梳理，列出了中国国内最重要的十家芯片设计企业，相关内容围绕这十家芯片设计企业展开。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "112cbe6a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "112cbe6a",
+          "source": "The Information",
+          "title": "中国十大最重要芯片设计企业",
+          "link": "https://www.theinformation.com/articles/chinas-10-important-chip-design-firms",
+          "published_at": "2026-04-19T15:00:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T15:00:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78aaa285",
+      "title": "大规模断网进入第50天 伊朗放松部分互联网限制",
+      "summary": "伊朗全国范围大规模断网已持续超过50天，当局近日放松部分互联网限制。批评人士认为，伊朗此举或是在构建“分层互联网”模式，仅向政治、经济领域的特权阶层开放有限的网络接入权限，普通民众仍会受到严格网络限制。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/19/multimedia/19israel-iran-internet-01-jhkm/19israel-iran-internet-01-jhkm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ae6d83d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ae6d83d8",
+          "source": "NYTimes World",
+          "title": "大规模断网进入第50天 伊朗放松部分互联网限制",
+          "link": "https://www.nytimes.com/2026/04/19/world/middleeast/iran-internet-blackout-50th-day.html",
+          "published_at": "2026-04-19T14:58:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T14:58:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9890eb93",
+      "title": "Nothing旗下模块化CMF Headphone Pro降至历史最低价",
+      "summary": "CMF是科技品牌Nothing主打平价市场的子品牌，向来因高颜值、低售价，搭载常出现在两倍价位产品上的配置收获好评。其首款头戴式无线耳机CMF Headphone Pro也延续这一定位，目前该款耳机降价促销，售价已降至历史最低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ec661367"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ec661367",
+          "source": "The Verge",
+          "title": "Nothing旗下模块化CMF Headphone Pro降至历史最低价",
+          "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+          "published_at": "2026-04-19T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fc10c1a9",
+      "title": "《群星，我的归宿》是经典原型赛博朋克作品",
+      "summary": "本次推荐的科幻作品《群星，我的归宿》，由阿尔弗雷德·贝斯特创作，1956年正式出版，英国初版时书名为《老虎！老虎！》。不少观点认为这部作品是赛博朋克的前身，尽管这份推荐对部分人来说顺理成章，但推荐者此前一直未曾关注到它，还坦言对该作怀有矛盾看法。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "db9e578c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "db9e578c",
+          "source": "The Verge",
+          "title": "《群星，我的归宿》是经典原型赛博朋克作品",
+          "link": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+          "published_at": "2026-04-19T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b2a26e5",
+      "title": "谷歌正与美满电子洽谈开发新型AI推理芯片",
+      "summary": "谷歌正与美满电子（Marvell）进行洽谈，拟合作开发用于推理任务的新型人工智能芯片，目前相关合作事宜仍处在沟通商谈阶段。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "40f90758"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "40f90758",
+          "source": "The Information",
+          "title": "谷歌正与美满电子洽谈开发新型AI推理芯片",
+          "link": "https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference",
+          "published_at": "2026-04-19T13:00:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T13:00:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c6a16dae",
+      "title": "奥地利警方称喜宝婴儿食品罐中检出鼠药",
+      "summary": "奥地利警方通报，当地在喜宝品牌的婴儿食品罐中检测出鼠药，涉事产品为婴儿果泥。喜宝品牌已于周六发出警告，明确表示食用受污染的果泥存在潜在风险，严重时可能危及生命。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
+      "article_ids": [
+        "3623a88b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3623a88b",
+          "source": "BBC World",
+          "title": "奥地利警方称喜宝婴儿食品罐中检出鼠药",
+          "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-19T12:52:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T12:52:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b89432a7",
+      "title": "聚变能源融资热潮初现裂痕",
+      "summary": "当前聚变能源领域正迎来融资热潮，这一热潮已初现裂痕。若行业内的聚变初创企业与投资方无法友好协商解决若干核心分歧，双方之间的矛盾裂痕将会进一步加深，给聚变能源行业发展增添不确定性。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c403f282"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c403f282",
+          "source": "TechCrunch",
+          "title": "聚变能源融资热潮初现裂痕",
+          "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+          "published_at": "2026-04-19T12:51:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T12:51:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c15d543",
+      "title": "超长续航加持 Keychron Ultra 8K成品牌迄今最佳键盘",
+      "summary": "Keychron拥有覆盖全面的键盘产品线，从基础全尺寸机械键盘，到左撇Alice布局、单手游戏半键盘等小众品类一应俱全，其Q、V系列一直是广受推荐的量产键盘，最新推出的Ultra 8K升级款凭借超长续航，成为品牌迄今最佳键盘产品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0c2e1e12"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0c2e1e12",
+          "source": "The Verge",
+          "title": "超长续航加持 Keychron Ultra 8K成品牌迄今最佳键盘",
+          "link": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+          "published_at": "2026-04-19T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "841e520c",
+      "title": "地方电视新闻未来走向特朗普化",
+      "summary": "这是科技领域每周通讯《回溯》的内容，该通讯每周拆解一篇科技领域核心报道，本期聚焦地方电视新闻未来转向特朗普化的话题，读者可在线订阅该通讯，也可关注蒂娜·阮的《监管者》，获取更多华盛顿科技巨头与政治博弈的相关报道。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1673cf61"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1673cf61",
+          "source": "The Verge",
+          "title": "地方电视新闻未来走向特朗普化",
+          "link": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+          "published_at": "2026-04-19T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-19T12:00:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
