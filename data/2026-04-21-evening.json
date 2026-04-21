@@ -1,0 +1,2411 @@
+{
+  "date": "2026-04-21",
+  "edition": "evening",
+  "updated_at": "2026-04-21T22:00:59.187069+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "5b416a70",
+      "title": "DoorDash将通过Tempo为司机提供稳定币支付服务",
+      "title_original": "DoorDash to Offer Stablecoin Payments to Drivers Using Tempo",
+      "summary": "DoorDash计划为旗下司机提供稳定币支付服务，该项服务将依托Tempo开展，相关支付服务会按计划向对应司机开放。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/doordash-offer-stablecoin-payments-drivers-using-tempo",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-21T13:00:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "828df729",
+      "title": "美国间谍法即将到期 国会议员就是否保护民众免受无证监听存分歧",
+      "title_original": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "summary": "美国702条款间谍法将于4月30日到期，历经多届美国政府的监控丑闻与权力滥用后，部分议员呼吁对该监控法律进行全面改革。即便该法到期，美国政府的监控权力也不会自动失效，目前国会议员在此问题上意见分裂。",
+      "summary_original": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires on April 30, the government's spy powers will not automatically lapse.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "db8be5db",
+      "title": "初创企业称：打造更优素食奶酪的关键是微型酿酒厂",
+      "title_original": "What’s the key to better vegan cheese? Microbreweries, one startup says",
+      "summary": "初创企业AuX Labs称，其已找到制作更优质素食奶酪的新方法，该企业认为微型酿酒厂是打造这款产品的核心，新方法制作出的素食奶酪风味口感贴近真奶酪，且售价与真奶酪持平。",
+      "summary_original": "AuX Labs says it has found a better way to make vegan cheese that tastes and feels like the real thing — and costs the same.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ad76f931",
+      "title": "Cash App瞄准全新客群：6至12岁儿童",
+      "title_original": "Cash App is targeting a new kind of customer: 6-12 year olds",
+      "summary": "科技企业一直在积极挖掘新客户，由杰克·多尔西旗下Block所有的金融科技平台Cash App，此前已面向青少年提供金融服务，本周宣布拓展青少年相关服务，将颇具潜力的新客群锁定为6至12岁儿童。",
+      "summary_original": "Tech companies are constantly on the hunt for new customers, and Cash App, the fintech company owned by Jack Dorsey&#8217;s Block, believes it has found a promising new demographic: children. The company, which already offers financial services to teens, said this week that it is expanding its youth-focused services in an effort to build a [&#8230;]",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1c1798db",
+      "title": "GRAI认为人工智能可让音乐更具社交属性，而非取代艺术家",
+      "title_original": "GRAI believes AI can make music more social, not replace artists",
+      "summary": "AI音乐初创公司GRAI提出，人工智能在音乐领域的作用并非取代艺术家，而是让音乐更具社交属性。该公司指出，音乐爱好者想要的是对现有曲目进行混音改编，而非让人工智能从零开始生成全新歌曲。",
+      "summary_original": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77b63420",
+      "title": "伊朗战事最新动态：停火临近到期 美伊谈判仍存不确定性",
+      "title_original": "Iran War Live Updates: Uncertainty Surrounds U.S.-Iran Talks as Cease-Fire Nears End",
+      "summary": "美国官员表示，副总统JD·万斯将前往巴基斯坦参与相关和谈。当前伊朗战事停火即将到期，美伊谈判仍充满变数，伊朗方面尚未确认本方谈判代表会出席本次谈判，谈判前景不明朗。",
+      "summary_original": "Vice President JD Vance was set to return to Pakistan for peace talks, U.S. officials said, though Iran has not confirmed that its negotiators will attend.",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/21israel-iran-promo/21israel-iran-promo-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T12:58:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ce008c8",
+      "title": "Switch获26亿美元银行出资承诺 保障数据中心供电",
+      "title_original": "Switch Lands $2.6 Billion of Bank Pledges to Power Data Centers",
+      "summary": "数据中心运营商Switch获得总额26亿美元的银行出资承诺，这笔资金将用于电力采购。供电问题是当前蓬勃发展的数据中心行业面临的日益严峻的挑战，也是该行业最大的成本支出项之一。",
+      "summary_original": "Switch Inc. gathered $2.6 billion of bank pledges to help the data-center operator procure electricity, a mounting challenge for the booming industry and one of its biggest costs.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWyTi5sEtNR8/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/switch-lands-2-6-billion-of-bank-pledges-to-power-data-centers",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:51:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e1ab7820",
+      "title": "美联储主席提名人凯文·沃什将在提名听证会作证",
+      "title_original": "Fed Chair Nominee Kevin Warsh to Testify at Confirmation Hearing",
+      "summary": "有消息称，美联储主席提名人凯文·沃什将在自己的提名任命听证会上出席并作证发言。本次相关报道配发的凯文·沃什肖像作品，由彭博社摄影师蒂尔尼·L·克罗斯拍摄。",
+      "summary_original": "Kevin Warsh Photographer: Tierney L. Cross/Bloomberg",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iffy6c1IALrA/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-04-21/fed-chair-nominee-kevin-warsh-s-confirmation-hearing",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:50:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "87867952",
+      "title": "SpaceX首次公开募股是押注太空未来的万亿美元豪赌",
+      "title_original": "The SpaceX IPO is a trillion-dollar gamble on the future of space",
+      "summary": "SpaceX首次公开募股即将启动，外部投资者包括普通散户，将得以首次入股这家全球最受关注也最具争议的企业。目前市场对此次IPO看法两极，有人将其视为十年一遇的绝佳投资机遇，也有人对其前景持质疑态度。",
+      "summary_original": "The great SpaceX IPO is looming, allowing outside investors - including regular Joe Schmoes, or retail investors - to buy a stake in one of the buzziest and most controversial companies on the planet for the first time. Depending on who you ask, it's either the best investment opportunity you'll see this decade or a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T12:38:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4141720a",
+      "title": "SpaceX上市前夕 大量美国IPO争相入市募资",
+      "title_original": "Flurry of US IPOs Race to Tap Market Ahead of SpaceX Debut",
+      "summary": "美国IPO市场短短数周内从萧条转向活跃，众多企业赶在SpaceX上市前抢抓市场窗口，借力当前股市的韧性开展融资，仅本月这些企业计划募资总规模最高就达173亿美元。",
+      "summary_original": "The US IPO market has gone from desolate to bustling in a matter of weeks, with companies looking to raise as much as $17.3 billion this month alone and capitalize on stocks’ resilience.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGT_jA7RyRD0/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/flurry-of-us-ipos-race-to-tap-market-ahead-of-spacex-debut",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:38:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "12da7b02",
+      "title": "美国证券交易委员会监测私人信贷领域“新兴压力”",
+      "title_original": "SEC Monitoring ‘Emerging Pressures’ in Private Credit Space",
+      "summary": "美国证券交易委员会主席保罗·阿特金斯在预先准备的发言中表示，当前私人信贷市场违约率预期上升，各类赎回请求持续涌现，该机构正对这一领域出现的“新兴压力”开展密切监测。",
+      "summary_original": "The Securities and Exchange Commission is closely monitoring the “emerging pressures” in the private credit market as redemption requests persist amid rising default-rate projections, Chairman Paul Atkins said in prepared remarks.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGy9l6y8N32k/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/sec-monitoring-emerging-pressures-in-private-credit-space",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:32:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7a028a59",
+      "title": "王毅会见老挝常务副总理沙伦赛 - 新华网",
+      "title_original": null,
+      "summary": "王毅会见老挝常务副总理沙伦赛，相关新闻由中国权威媒体新华网发布，本次会见的完整报道可在Google新闻平台查看，公众可通过该平台获取这次中老高层会见活动的全部相关内容，及时了解活动相关资讯。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmt4YjhuU1NrYW4tT1JDZkRjN1VwQVlKb05wdVd6YVJldWZiYTBQZkNBZjgwaG5vSVFFcEM3OVduQlVfN0hrcG9fcjFyYmdjOE9SV0J3Mm1vZ0NEVVNyTS1ZMk93angzNi1ENkhYQm9rOWNuM09CbHJOVzNzOUMwaEFGMzJXVGlqNHFRQjF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T12:31:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b5153c08",
+      "title": "德国梅尔茨抨击银行敌意策略 裕信银行CEO独家专访 |《脉搏》4月21日",
+      "title_original": "Germany's Merz Slams Hostile Bank Tactics; Exclusive UniCredit CEO Interview | The Pulse 4/21",
+      "summary": "彭博出品的《弗朗辛·拉克瓦的脉搏》常驻伦敦，聚焦专访全球商业、经济、金融与政治领域知名嘉宾，主打独家专访与影响市场的重磅资讯，本期邀请裕信银行CEO等多位业内嘉宾，话题涵盖德国梅尔茨抨击银行敌意策略。",
+      "summary_original": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Andrea Orcel, UniCredit, CEO; Anna Rosenberg, Amundi Investment Institute, Head of Geopolitics; Dambisa Moyo, Versaca Investments, Principal; Jimmy Muchechetere, Investec, Senior Equity Analyst. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.B81kA6_TJs/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-21/the-pulse-4-21-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:29:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "02d7310a",
+      "title": "里拉互换信号显示土耳其本次会议将暂缓加息",
+      "title_original": "Lira Swaps Signal Turkey Will Hold Off Hiking Rates This Meeting",
+      "summary": "伊朗战事停火推动油价从高点回落，通胀担忧随之缓解。挂钩土耳其里拉的互换市场动向显示，交易员已缩减对土耳其央行加息的押注，市场信号指向土耳其央行本次会议将暂缓加息。",
+      "summary_original": "Swaps tied to the Turkish lira are signaling that traders have pared bets for the central bank to raise interest rates, after the ceasefire in the Iran war pushed oil prices off their highs and eased inflation fears.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBlaAHOMoVrs/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/lira-swaps-signal-turkey-will-hold-off-hiking-rates-this-meeting",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:29:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4aeeb7bf",
+      "title": "伦敦遭遇地铁司机罢工引发运营混乱",
+      "title_original": "London Faces Disruption From Tube Drivers’ Strike",
+      "summary": "伦敦发生地铁司机罢工事件，此次争端源于劳资双方在工作条件与工时问题上存在分歧，罢工预计将导致伦敦地铁出现大范围延误，多处线路服务中断，对当地交通出行造成明显影响。",
+      "summary_original": "The dispute over working conditions and hours was expected to cause widespread delays and service outages.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-tube-fwvg/21int-uk-tube-fwvg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T12:28:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "83e178cd",
+      "title": "史无前例裁决认定匈牙利反LGBTQ法律违反欧盟价值观",
+      "title_original": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "summary": "欧盟最高法院作出史无前例的裁决，认定匈牙利出台的反LGBTQ相关法律改革，在多个层面违反欧盟价值观，同时也违背了欧盟条约确立的欧盟创始价值观，这是欧盟司法实践中首次就此类问题作出同类裁决。",
+      "summary_original": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f562/live/40ff09c0-3d75-11f1-903b-f1312705e0c9.jpg",
+      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T12:28:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8e3aa6c0",
+      "title": "万科债券延期计划获债权人支持 违约风险缓解",
+      "title_original": "Vanke Wins Backing for Bond Delay Plan, Easing Default Risk",
+      "summary": "中国房企万科一笔原定于本周四到期的人民币债券，已获得足够债权人支持，获准将偿付期限延后一年。目前深陷困境的万科，原本迫在眉睫的违约风险得到缓解，至少当前即时违约风险已消解。",
+      "summary_original": "China Vanke Co. won enough creditor backing to extend payments on a yuan bond due Thursday for a year, easing the embattled developer’s risk of an imminent default, at least for now.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie7gBrMiviwc/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/vanke-wins-backing-for-bond-delay-plan-easing-default-risk",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:25:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a224803f",
+      "title": "《下载》：降低人为噪音，洛杉矶地铁惊艳升级",
+      "title_original": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+      "summary": "这是科技类工作日通讯《下载》的今日刊，每日更新全球科技领域相关动态。本期涵盖两大核心内容，一是探讨人为噪音干扰动物生存与交流的问题，二是介绍洛杉矶令人惊艳的地铁升级项目。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-21T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "13343f31",
+      "title": "贝雅资本完成第三只私募股权基金4.5亿美元募资",
+      "title_original": "Baird Capital Raises $450 Million for Third Private Equity Fund",
+      "summary": "金融服务企业罗伯特·贝尔德公司旗下私募股权部门贝雅资本，近日完成旗下第三只私募股权基金的募资工作，总募资额达4.5亿美元，这只基金后续将对美国与英国的企业开展投资。",
+      "summary_original": "The private equity arm of financial services firm Robert W. Baird &amp; Co. has raised $450 million for a fund that will invest in companies in the US and the UK.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqm8KKHuQtdw/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/baird-capital-raises-450-million-for-third-private-equity-fund",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4f37531c",
+      "title": "苹果将再次由产品人担任CEO",
+      "title_original": "Apple will have a product guy as CEO again",
+      "summary": "苹果选定原硬件工程高级副总裁约翰·特努斯出任下一任首席执行官。即将卸任的现任CEO蒂姆·库克因物流运营方面的出色能力广受赞誉，而特努斯拥有典型的产品从业背景，近年公开曝光度正不断提升。",
+      "summary_original": "John Ternus is going to be Apple's next CEO. And while outgoing CEO Tim Cook was lauded for his approach to logistics, Ternus' history is that of a product person. Ternus, Apple's SVP of hardware engineering before being officially tapped to take over the top job, has been increasingly in the public eye to help [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T11:49:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "69608c7d",
+      "title": "梅洛尼要求特尔纳CEO二选一：730万欧元遣散费或埃尼职位",
+      "title_original": "Meloni Demands Terna CEO Choose: €7.3 Million Payout or Eni Role",
+      "summary": "意大利总理乔治亚·梅洛尼明确表态，电网运营商特尔纳即将卸任的首席执行官朱塞平娜·迪·福贾，必须在730万欧元遣散费与埃尼董事长新职位之间二选一，政府不允许她同时获得两项权益。",
+      "summary_original": "Italian Premier Giorgia Meloni said the outgoing chief executive officer of grid operator Terna SpA, Giuseppina di Foggia, should choose between a €7.3 million ($8.6 million) severance or a new role as chairwoman of ENI SpA, making clear the government’s stance that she can’t have both.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irCXr5XUUG9U/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-21/meloni-demands-terna-ceo-choose-7-3-million-payout-or-eni-role",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-21T11:48:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f9127972",
+      "title": "习近平同莫桑比克总统查波会谈 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "中国国家主席习近平同莫桑比克总统查波举行会谈，这是中莫两国间的高层外事活动，相关内容由中国共产党新闻网发布，本次会谈的完整报道已上线Google新闻平台，感兴趣的公众可前往该平台查看完整内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2clBjaF9mdE5vNFR1a3ctdjhvMkc4bHVsdVN1ZC14X2l1WkdjejJ4VlFkS0RUQXpHOWh6Rld1MUFIM0ZodmRMc3lnTW5wNi04NTY4clNMNzA5MTdjd1BrZHhINk5vVlpmbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T11:43:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c808dce4",
+      "title": "第五届全民阅读大会·阅读权益保障论坛在南昌举办 - 光明网",
+      "title_original": null,
+      "summary": "第五届全民阅读大会下设的阅读权益保障论坛、城市阅读论坛在江西南昌举办。活动现场，白岩松分享了对江西的印象，作家刘亮程提出要将家乡当成世界的原点去阅读，各方呼吁让书香融入城市血脉，推进全民阅读发展。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XLUM2X3YzUW1mZE9INko5aW1UVTcwbHhvMHZPSk9jRlE4NzliTjdiTHp5cXlXcnVHSFdHNVJmYTg3bHJ4VlpycW5RQVlmdWtURnptRVNPZUs2ZUU1ZWVJSnFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T11:39:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f4a2acb9",
+      "title": "在墨西哥车祸中身亡的美国官员涉事角色遭调查",
+      "title_original": "Role of US officials killed in crash in Mexico under scrutiny",
+      "summary": "两名美国官员在墨西哥境内遭遇车祸身亡，这起事件发生在墨西哥方面主导捣毁一处秘密毒品实验室的行动之后。目前，这两名身亡美国官员在相关事件中扮演的角色，正受到相关方面审查调查。",
+      "summary_original": "The two died in a car crash after a Mexican-led operation to destroy a clandestine drug lab.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9019/live/30a335b0-3d70-11f1-bb8a-374117ea6afa.jpg",
+      "link": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T11:37:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c65d561d",
+      "title": "泽连斯基称美国特使未访问基辅是“不尊重”行为",
+      "title_original": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+      "summary": "乌克兰总统泽连斯基对美方人员的俄乌相关行程提出不满，美国特使史蒂夫·维特科夫、美国前总统特朗普女婿贾里德·库什纳已多次前往莫斯科，却从未到访基辅，泽连斯基认为这一行为是不尊重的表现。",
+      "summary_original": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab1/live/3d4c7e80-3d74-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T11:37:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8a8d229d",
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "title_original": null,
+      "summary": "当地时间4月20日苹果宣布特纳斯接替库克出任CEO，库克转任执行董事长；4月21日星巴克中国澄清开放加盟传闻为不实信息，航旅纵横因App部分功能异常致歉抢修。此外，猛士汽车与华为发布智能越野黑科技，长安公布2030年营收目标，自变量机器人完成近20亿元B轮融资。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3776458805904129?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T11:20:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b3913f26",
+      "title": "Yelp更新AI助手 可单次对话完成咨询及餐厅或服务预订",
+      "title_original": "Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation",
+      "summary": "点评平台Yelp宣布，其更新后的人工智能助手可支持用户在同一次对话中，完成餐厅相关问题咨询，同时直接办理餐厅下单、订座或是其他相关服务的预订，无需拆分多环节操作，优化了用户使用流程。",
+      "summary_original": "Yelp said that users can ask questions about a restaurant and place an order or book a table in one conversation",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f5db886a",
+      "title": "Yelp大幅提升旗下人工智能聊天机器人实用性",
+      "title_original": "Yelp is making its AI chatbot way more useful",
+      "summary": "本地生活服务平台Yelp对旗下聊天机器人助手进行重大升级，新增一系列助力用户办事的功能，让平台更接近数字礼宾服务。这是Yelp近几个月推出的多项AI更新之一，契合行业让AI更贴合实际、更具实用性的发展趋势。",
+      "summary_original": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f5db886a",
+      "title": "Yelp大幅提升旗下AI聊天机器人实用性",
+      "title_original": "Yelp is making its AI chatbot way more useful",
+      "summary": "本地生活点评平台Yelp对旗下人工智能聊天机器人助手进行重大升级，新增一系列助力用户处理事务的功能，让平台更接近数字礼宾。这是Yelp近几个月多项AI相关更新之一，契合全行业推动AI更贴合实际需求、提升实用性的整体趋势。",
+      "summary_original": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c72338ac",
+      "title": "尼日利亚一地方君主遭绑架勒索 已有嫌犯被捕",
+      "title_original": "Arrests in Nigeria after abduction of local monarch 'held for ransom'",
+      "summary": "尼日利亚一名地方君主遭人绑架，据称绑匪目的是索要赎金。绑匪于周六闯入这名君主的宫殿实施作案，目前据信遭绑君主被绑匪关押在一处森林中，该案发生后已有涉案人员被逮捕。",
+      "summary_original": "The kidnappers raided his palace on Saturday and are believed to be holding him in a forest.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f3/live/9e1a6470-3d6f-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T10:59:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "53fca67a",
+      "title": "麦当娜悬赏寻回丢失的科切拉演出服",
+      "title_original": "Madonna offers reward for return of missing Coachella costume",
+      "summary": "歌手麦当娜在科切拉音乐节与塞布丽娜·卡彭特完成合作演出后，一组演出服饰不慎遗失。这批服饰被麦当娜称作“属于我个人历史的一部分”，目前麦当娜已发布悬赏，希望寻回这套遗失的演出服饰。",
+      "summary_original": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ff/live/0d7c4a00-3d60-11f1-a7f7-c90fc0a93ea1.jpg",
+      "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T10:29:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ec894384",
+      "title": "日本放宽武器出口规则，背离二战后和平主义",
+      "title_original": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "summary": "日本作出放宽武器出口规则的政策调整，这一举措打破了该国二战后长期奉行的和平主义原则，为日本向十多个国家出售武器扫清了道路，是日本战后军事与安全政策的一次重要转向。",
+      "summary_original": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b0/live/2e1e3780-3d7b-11f1-ac78-2112837ce2aa.png",
+      "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T10:13:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fdbe0d97",
+      "title": "蓝色能源公司获3.8亿美元融资 拟在造船厂建造电网级核反应堆",
+      "title_original": "Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards",
+      "summary": "蓝色能源公司成功筹得3.8亿美元融资，拟在造船厂建造电网级核反应堆。该企业认为，在造船厂建造核反应堆可解决核电领域的成本难题，还能帮助自身获得成本更低的融资，支撑相关项目开发建设。",
+      "summary_original": "By building reactors in shipyards, Blue Energy says it will tame nuclear power's cost problems, giving it access to cheaper financing.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-21T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c3606941",
+      "title": "探寻北极历史的线索",
+      "title_original": "Digging for clues about the North Pole’s past",
+      "summary": "一直以来，即便配备破冰船，在融冰旺季也无法保证顺利抵达北极点，需要有利风势破开冰冻洋面，船只还得闯过经多个冬季累积形成的数米厚冰层。2025年夏季，学者约亨·尼斯将前往北极点开展相关科考工作。",
+      "summary_original": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-21T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4931b911",
+      "title": "韩国外交部：日本安全政策应坚持和平宪法精神 - 京报网",
+      "title_original": null,
+      "summary": "韩国外交部就日本安全政策相关问题公开明确表态，提出日本的安全政策应当始终坚持和平宪法的核心精神。这一相关报道由京报网发布，感兴趣的读者可前往Google新闻平台查看该报道的完整内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySGdwYUVNWWJ1ODNuM25Ba054TkVYckZHNkpfck9kS2VtdHRNaHEzMkhxQUVCckZubWs1VE9Yb2VHQzNqMHhIQ2xlRjd3THVRSVhOb2RpX2lOODU4OXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T09:52:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "33c80735",
+      "title": "被解职英国官员称斯塔默办公室就大使任命施压",
+      "title_original": "Fired U.K. Official Describes ‘Pressure’ From Starmer’s Office for Envoy’s Appointment",
+      "summary": "一名遭解职的英国官员披露，英国首相斯塔默办公室就任命彼得·曼德尔森出任驻美大使一事施压，还对该任命相关的安全担忧置之不理，彼得·曼德尔森是杰弗里·爱泼斯坦的关联人物。",
+      "summary_original": "The prime minister’s office was “dismissive” of security concerns about Peter Mandelson, a Jeffrey Epstein associate who became ambassador to Washington, the official said.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-starmer-robbins-whvk/21int-uk-starmer-robbins-whvk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T09:51:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3faec9a3",
+      "title": "南非警察总监因涉争议卫生合同遭指控",
+      "title_original": "South Africa's police boss charged in connection with controversial health contract",
+      "summary": "南非警方最高负责人范尼·马塞莫拉被指控，该案关联一份引发广泛争议的卫生合同，指控指出马塞莫拉在任职期间未能履行自身职责，未对相关事务开展恰当的监督管理。",
+      "summary_original": "Fannie Masemola is accused of failing in his duties to provide proper oversight in his role.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c1/live/02bd4c60-3d59-11f1-a7f7-c90fc0a93ea1.jpg",
+      "link": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T09:42:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0a7bcb64",
+      "title": "《洋葱新闻推出新计划 拟将“信息战”改造为恶搞网站》",
+      "title_original": "The Onion launches new effort to turn Infowars into parody website",
+      "summary": "美国知名讽刺恶搞媒体《洋葱新闻》推出一项全新计划，该计划涉及洋葱获得授权接手运营亚历克斯·琼斯旗下正面临清算的公司，后续会将该公司旗下的“信息战”网站改造为恶搞性质网站。",
+      "summary_original": "The new proposal would involve the publication licensing Alex Jones's company, which faces liquidation.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/14ad4310-3d60-11f1-a7f7-c90fc0a93ea1.jpg",
+      "link": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T09:28:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a64253e5",
+      "title": "国务院：进一步扩大增值电信、生物技术、外商独资医院等领域开放试点 - 第一财经",
+      "title_original": null,
+      "summary": "国务院印发《关于推进服务业扩能提质的意见》，提出进一步扩大增值电信、生物技术、外商独资医院等领域开放试点，同时明确要加快城市停车和充换电设施建设，推动老旧设备更新改造，推出多项利好服务业发展的举措。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9memMzakQ3clliRHk1N3ZtOTZ0bEhBZ1BzNlhVczkxUURURkdHQzl6ZkJBOXA3UVNEakwxSEUwSUZMZUc2bGFmNWJvZUlnTkUtdXhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T09:23:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39e3e734",
+      "title": "陕西启动“新大众文艺——全民阅读周” - 新华网",
+      "title_original": null,
+      "summary": "多地推出全民阅读系列活动，陕西启动“新大众文艺——全民阅读周”，北京丰台推出6条“书香研学”路线，各地纷纷举办多场相关活动，引发多家媒体关注，相关活动以阅读为载体，营造书香氛围，助力赓续中华文脉。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DNVJGMXVEMHNETDlpUWJTbEtqanBRNU5NRkphV3QtcUdRampsZlluYlFJQ2lKTlc2U2dGb2RocHA2eVd5TG5QeE9FUUxhTWNUeEpVWlhjQ3V1VkZnZnN1ZDBtaV9fZHFzS2xIcUNLNUJYX1Y0SWF2Z1U0ZHg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T09:19:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "86a969b4",
+      "title": "微软Teams拟修复误触举手功能问题",
+      "title_original": "Microsoft Teams is trying to fix accidental hand-raising",
+      "summary": "不少用户曾在使用微软Teams开线上会议时，误触举手按钮打断会议，陷入尴尬处境。微软将对这款线上会议软件重新设计，把举手按钮移出主工具栏，同时允许用户自定义主工具栏显示的控制选项。",
+      "summary_original": "If you've ever had the embarrassing displeasure of interrupting a Microsoft Teams meeting by accidentally hitting the \"raise hand\" feature, then I have some good news for you. Microsoft is redesigning its online meeting software, which will move the raise hand button from the main toolbar and allow users to personalize the controls displayed there. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T09:14:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4d20137b",
+      "title": "宜家与三星承诺实现无故障Matter整合",
+      "title_original": "Ikea and Samsung promise glitch-free Matter integration",
+      "summary": "宜家此前推出的二十余款基于Thread传输的Matter智能设备自发布以来问题频发，三星称其SmartThings智能家居平台现已解决适配问题，适配后宜家的传感器、多功能遥控器可正常显示运行，还能无缝接入三星的高级智能家居自动化流程。",
+      "summary_original": "Ikea's two dozen Matter-over-Thread devices have proved problematic since launch, but Samsung says its SmartThings platform now has it all sorted. If true, it means Ikea's sensors and complex remotes should actually display correctly, function flawlessly, and plug directly into Samsung's advanced home automation routines without any issues. To achieve this, Samsung says it has [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T09:13:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ddd97a07",
+      "title": "加拿大男子在墨西哥特奥蒂瓦坎古金字塔枪击案中身亡",
+      "title_original": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "summary": "墨西哥官方通报，周一该国热门旅游景点特奥蒂瓦坎古金字塔景区发生枪击事件，造成一名加拿大人身亡，另有多人受伤，此次事件发生在墨西哥承办国际足联世界杯的数周之前。",
+      "summary_original": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/917c/live/b6940d90-3cfb-11f1-879d-1b2f5c3919b8.jpg",
+      "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T09:09:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7f37371e",
+      "title": "苹果体育现已支持通过CarPlay小组件查看赛事比分",
+      "title_original": "Apple Sports now lets you follow scores in a CarPlay widget",
+      "summary": "去年苹果推出全新iOS端苹果体育小组件时未搭载CarPlay支持，本周这一情况迎来调整。最新苹果体育更新已为CarPlay新增小组件功能，用户可直接在CarPlay的小组件界面查看自己关注的球队或联赛的实时赛事比分。",
+      "summary_original": "I was disappointed when Apple launched a new Sports iOS widget last year without CarPlay support, but I'm pleased to report that's changing this week. The latest Apple Sports update includes widget support in CarPlay, allowing you to follow live sports scores for your favorite teams or leagues all within the new widgets interface in [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/915564/apple-sports-widget-carplay",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T09:08:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39900ec1",
+      "title": "科尔号惨案如何推动美国开发新型军舰防御系统",
+      "title_original": "How the Cole Disaster Drove the U.S. to Develop New Warship Defenses",
+      "summary": "25多年前，一艘美国军舰遇袭后几乎沉没，这一事件推动美国开发新型军舰防御装备。当前正在伊朗港口执行封锁任务的美国海军驱逐舰，所搭载的正是此次袭击事件后研发列装的相关武器。",
+      "summary_original": "The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-ship-defense-1-cvjp/21int-ship-defense-1-cvjp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T09:01:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a23b0026",
+      "title": "韩国对日本高层向靖国神社供奉祭品深表失望和遗憾 - 新华网",
+      "title_original": null,
+      "summary": "日本政要高市早苗向靖国神社供奉祭品，引发各方反对。韩国政府对此深表失望与遗憾，中方已正式向日方提出严正交涉、强烈抗议。中国多家主流媒体纷纷发声批评，指出该行为属于恶意挑衅，性质恶劣，严重危害地区和平稳定。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45TlNMeXljbUxJYTFEdzY2dlN3NURLS1JlSGdEN3RYVnNoUlJpYlRjRGxTQm9MM2gwd19PdnB1T2U2Zld2VzJqZURGQVhwWmV2dzJHWUlpdmx1VTRTVWxpZGlMZWNManJOR2YxRnJCWmNDb1lDbkdKbS15ZGFqUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T08:38:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8e15e064",
+      "title": "外交部介绍中柬外长、防长“2+2”战略对话机制首次会议安排 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "中国外交部已对外介绍中柬外长、防长“2+2”战略对话机制首次会议的相关安排，相关新闻由中国新闻网发布，公众可前往谷歌新闻平台查看该新闻的完整内容，本次会议是中柬这一对话机制建立以来举办的首次会议。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VGpzb2xOS2ZZeUJ0SW9XOUpxYTBCTnZiaGZ1Y18xOXVUSlNNa2t0b1oxem1fRktsZUNKR0RxbXc4RGxYN3lZTmFtMWhuMnVwUS1YcEpNcjJfT1RfWFAtX19QTUNMbzgt?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T08:24:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d46519c5",
+      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+      "title_original": null,
+      "summary": "宠物AI科技初创公司PettiChat近期完成由藕舫天使、华旦天使联合投资的百万美元种子轮融资，推出搭载AI技术的可穿戴宠物翻译器，通过构建标注动物行为数据集与动物行为世界模型实现人宠双向沟通，目前已开启预售，未来将拓展B端应用场景。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260416/v2_aca398cac3d6448ba7376a4ad72d7641@1849_oswg793995oswg1267oswg713_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3769659305427459?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T08:19:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b3fc3eba",
+      "title": "新西兰首都遭暴雨重创后宣布进入紧急状态",
+      "title_original": "New Zealand Declares Emergency in Capital After It Was Battered by Torrential Rain",
+      "summary": "新西兰首都惠灵顿及周边地区遭遇强暴雨重创，引发山体滑坡、暴洪灾害，当地超100所学校已关闭，此次极端天气打乱当地正常秩序，新西兰已正式宣布首都地区进入紧急状态。",
+      "summary_original": "There were landslides, flash floods and the closure of more than 100 schools in Wellington and the surrounding region.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-nz-emergency-pcwz/21int-nz-emergency-pcwz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T07:42:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "20c70ec4",
+      "title": "报应来得这么快！日本最强坦克演习场突发炸膛3死1伤 - 凤凰网",
+      "title_original": null,
+      "summary": "日本自卫队被称作本国最强坦克的10式主战坦克，在演习场突发炸膛弹药爆炸事故，该事故目前已造成3人死亡、1人重伤，相关伤情仍在确认中，多家媒体已对这起突发事故进行了报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwb0theXZJclNmUnhpYkRMR2VEVEg5UDF0OExiLU82WGdKTGtZRFZhNE50VXloSTZGc3kxX3kwaVpvbnQxcWozQnhjeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-21T07:37:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8bf7fa51",
+      "title": "PlayStation年龄验证限制将落地英国游戏主机",
+      "title_original": "PlayStation&#8217;s age-gating restrictions are coming to UK consoles",
+      "summary": "索尼为遵守英国《网络安全法》，今日向PlayStation玩家通知年龄验证要求。自2026年6月起，英国与爱尔兰的PS4、PS5用户若未完成年龄验证，将无法使用语音聊天、私信、群组派对等第三方通讯服务。",
+      "summary_original": "Sony is starting to comply with the UK's Online Safety Act by notifying PlayStation players of its age verification requirements today. PS4 and PS5 owners in the UK and Ireland won't be able to participate in voice chats, messaging, parties, or other third-party communication services from June unless they verify their age. \"Beginning June 2026, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T07:11:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e6d49a94",
+      "title": "英伟达供应商胜利巨人香港上市首日暴涨60%",
+      "title_original": "Nvidia Supplier Victory Giant Surges 60% in Hong Kong Stock Debut",
+      "summary": "英伟达供应商胜利巨人在香港完成首次公开发行上市，正式登陆香港资本市场，上市首日股价大幅上涨，涨幅达到了60%。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/nvidia-supplier-victory-giant-surges-60-hong-kong-stock-debut",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-21T06:59:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d11a6e59",
+      "title": "深度求索V4发布前夕 中国月之暗面AI推出全新代码模型",
+      "title_original": "China’s Moonshot AI Launches New Coding Model Ahead of DeepSeek’s V4 Release",
+      "summary": "中国的人工智能企业月之暗面推出了一款全新的代码模型，本次推出这款新品的时间，早于深度求索V4版本的正式发布。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/chinas-moonshot-ai-launches-new-coding-model-ahead-deepseeks-v4-release",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-21T06:53:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3c0d50fe",
+      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
+      "title_original": null,
+      "summary": "4月20日晚间，国内规模第二的地产中介我爱我家发布2025年年报，公司全年营收、住房总交易金额同比下滑，归母净亏9663万元，在2024年扭亏后再度由盈转亏，亏损源于多项非经常性因素，旗下相寓租赁业务运营稳定，成为业绩压舱石。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_2c40a277c0444e4791641da6aabb50ea@337187376_oswg99317oswg1041oswg476_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3776220864103171?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T06:52:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "395e8920",
+      "title": "日本打破战后和平主义 拟扩大对外武器出口",
+      "title_original": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+      "summary": "日本认为当前自身面临来自中国的威胁上升，且主要盟友美国的动向存在不确定性，日本首相高市早苗推翻了原有武器出口限制，打破日本战后长期奉行的和平主义路线，将进一步扩大对外武器销售。",
+      "summary_original": "Prime Minister Sanae Takaichi reversed limits on arms exports as Japan faces rising threats from China and unpredictability from its main ally, the United States.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-japan-security-bftw/21int-japan-security-bftw-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-21T06:03:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8ced0b30",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "title_original": null,
+      "summary": "专注AI+母婴智能硬件生态的奇世智能CheeChips宣布完成天使轮融资，本轮资金将按比例投入技术研发、团队扩张与市场布局。该企业自研母婴专用AI大模型，已推出AI胎儿记录仪，规划多品类新品，投资方看好该赛道，企业计划打造全球智能母婴产业集群。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_0e1eb51c447e45318db013e5ada8ce7d@10269314_oswg61557oswg1358oswg906_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3774891479712514?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T04:45:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8e731e81",
+      "title": "戴森推出旅行款超音速吹风机",
+      "title_original": "Dyson’s back with a travel-size Supersonic hair dryer",
+      "summary": "十年前，戴森推出售价400美元的超音速吹风机，掀起了美发电器领域的产品竞赛。如今戴森推出尺寸更小、定价更低的旅行款超音速吹风机，售价299.99美元，专为出差、健身等出行场景的人群打造。",
+      "summary_original": "Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hair dryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel is meant for people on the go - whether that's a business trip or a jaunt to the gym [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-21T04:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "24ccc169",
+      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+      "title_original": null,
+      "summary": "南京劳尼克斯科技（智能锂电园林工具企业）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本，资金将用于产品研发、团队扩容与海外市场布局。该企业今年出货量已破万台，单月销售额超千万元，本轮融资后将加速产品迭代与渠道拓展，抓住锂电替代燃油园林工具的行业窗口期。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_2e4cbb9cb8284443a46a1666dfe35ca5@6022551_oswg6196458oswg2132oswg1406_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3774707915440897?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T01:31:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4556fec8",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "title_original": null,
+      "summary": "估值15亿美元的海外AI睡眠系统独角兽Eight Sleep，产品受马斯克等名人青睐，近日正式进入中国市场，推出起售价19999元的Pod 5智能深眠系统，为适配中国市场，给普通版用户免去海外需缴纳的199美元年度软件订阅费，主打健康科技定位，瞄准国内高端健康消费群体。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_39e8aeeef73a4dbfa1406c7cc6ebb0a0@6221844_oswg335114oswg900oswg467_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3775892441301511?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-21T01:17:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1ddcd995",
+      "title": "美国歌手D4vd对谋杀失踪少女一案不认罪",
+      "title_original": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+      "summary": "美国歌手D4vd本名戴维·安东尼·伯克，在一起失踪少女死亡案中被控谋杀，他已对谋杀指控不认罪。检方指出，由于本案性质特殊，若D4vd最终被定罪，他将面临终身监禁的刑罚。",
+      "summary_original": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d8/live/755c8010-3cf0-11f1-8ca8-b5011b776a9f.jpg",
+      "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-21T01:05:41+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "ba51c5e4",
+      "title": "DoorDash将通过Tempo为司机提供稳定币支付服务",
+      "summary": "DoorDash计划为旗下司机提供稳定币支付服务，该项服务将依托Tempo开展，相关支付服务会按计划向对应司机开放。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5b416a70"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "5b416a70",
+          "source": "The Information",
+          "title": "DoorDash将通过Tempo为司机提供稳定币支付服务",
+          "link": "https://www.theinformation.com/briefings/doordash-offer-stablecoin-payments-drivers-using-tempo",
+          "published_at": "2026-04-21T13:00:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T13:00:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1f5b67f",
+      "title": "美国间谍法即将到期 国会议员就是否保护民众免受无证监听存分歧",
+      "summary": "美国702条款间谍法将于4月30日到期，历经多届美国政府的监控丑闻与权力滥用后，部分议员呼吁对该监控法律进行全面改革。即便该法到期，美国政府的监控权力也不会自动失效，目前国会议员在此问题上意见分裂。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "828df729"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "828df729",
+          "source": "TechCrunch",
+          "title": "美国间谍法即将到期 国会议员就是否保护民众免受无证监听存分歧",
+          "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+          "published_at": "2026-04-21T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c5a86c88",
+      "title": "初创企业称：打造更优素食奶酪的关键是微型酿酒厂",
+      "summary": "初创企业AuX Labs称，其已找到制作更优质素食奶酪的新方法，该企业认为微型酿酒厂是打造这款产品的核心，新方法制作出的素食奶酪风味口感贴近真奶酪，且售价与真奶酪持平。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "db8be5db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "db8be5db",
+          "source": "TechCrunch",
+          "title": "初创企业称：打造更优素食奶酪的关键是微型酿酒厂",
+          "link": "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/",
+          "published_at": "2026-04-21T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee892335",
+      "title": "Cash App瞄准全新客群：6至12岁儿童",
+      "summary": "科技企业一直在积极挖掘新客户，由杰克·多尔西旗下Block所有的金融科技平台Cash App，此前已面向青少年提供金融服务，本周宣布拓展青少年相关服务，将颇具潜力的新客群锁定为6至12岁儿童。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ad76f931"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ad76f931",
+          "source": "TechCrunch",
+          "title": "Cash App瞄准全新客群：6至12岁儿童",
+          "link": "https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/",
+          "published_at": "2026-04-21T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d00ba00",
+      "title": "GRAI认为人工智能可让音乐更具社交属性，而非取代艺术家",
+      "summary": "AI音乐初创公司GRAI提出，人工智能在音乐领域的作用并非取代艺术家，而是让音乐更具社交属性。该公司指出，音乐爱好者想要的是对现有曲目进行混音改编，而非让人工智能从零开始生成全新歌曲。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1c1798db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1c1798db",
+          "source": "TechCrunch",
+          "title": "GRAI认为人工智能可让音乐更具社交属性，而非取代艺术家",
+          "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+          "published_at": "2026-04-21T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83b0169f",
+      "title": "伊朗战事最新动态：停火临近到期 美伊谈判仍存不确定性",
+      "summary": "美国官员表示，副总统JD·万斯将前往巴基斯坦参与相关和谈。当前伊朗战事停火即将到期，美伊谈判仍充满变数，伊朗方面尚未确认本方谈判代表会出席本次谈判，谈判前景不明朗。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/21israel-iran-promo/21israel-iran-promo-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "77b63420"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "77b63420",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新动态：停火临近到期 美伊谈判仍存不确定性",
+          "link": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
+          "published_at": "2026-04-21T12:58:42+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:58:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e9302a7",
+      "title": "Switch获26亿美元银行出资承诺 保障数据中心供电",
+      "summary": "数据中心运营商Switch获得总额26亿美元的银行出资承诺，这笔资金将用于电力采购。供电问题是当前蓬勃发展的数据中心行业面临的日益严峻的挑战，也是该行业最大的成本支出项之一。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWyTi5sEtNR8/v0/1200x-1.jpg",
+      "article_ids": [
+        "5ce008c8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5ce008c8",
+          "source": "Bloomberg",
+          "title": "Switch获26亿美元银行出资承诺 保障数据中心供电",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/switch-lands-2-6-billion-of-bank-pledges-to-power-data-centers",
+          "published_at": "2026-04-21T12:51:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:51:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "822beadd",
+      "title": "美联储主席提名人凯文·沃什将在提名听证会作证",
+      "summary": "有消息称，美联储主席提名人凯文·沃什将在自己的提名任命听证会上出席并作证发言。本次相关报道配发的凯文·沃什肖像作品，由彭博社摄影师蒂尔尼·L·克罗斯拍摄。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iffy6c1IALrA/v0/1200x-1.jpg",
+      "article_ids": [
+        "e1ab7820"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e1ab7820",
+          "source": "Bloomberg",
+          "title": "美联储主席提名人凯文·沃什将在提名听证会作证",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-04-21/fed-chair-nominee-kevin-warsh-s-confirmation-hearing",
+          "published_at": "2026-04-21T12:50:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:50:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ceb484c9",
+      "title": "SpaceX首次公开募股是押注太空未来的万亿美元豪赌",
+      "summary": "SpaceX首次公开募股即将启动，外部投资者包括普通散户，将得以首次入股这家全球最受关注也最具争议的企业。目前市场对此次IPO看法两极，有人将其视为十年一遇的绝佳投资机遇，也有人对其前景持质疑态度。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "87867952"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "87867952",
+          "source": "The Verge",
+          "title": "SpaceX首次公开募股是押注太空未来的万亿美元豪赌",
+          "link": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch",
+          "published_at": "2026-04-21T12:38:20+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:38:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "317ac9a2",
+      "title": "SpaceX上市前夕 大量美国IPO争相入市募资",
+      "summary": "美国IPO市场短短数周内从萧条转向活跃，众多企业赶在SpaceX上市前抢抓市场窗口，借力当前股市的韧性开展融资，仅本月这些企业计划募资总规模最高就达173亿美元。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGT_jA7RyRD0/v1/1200x-1.jpg",
+      "article_ids": [
+        "4141720a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4141720a",
+          "source": "Bloomberg",
+          "title": "SpaceX上市前夕 大量美国IPO争相入市募资",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/flurry-of-us-ipos-race-to-tap-market-ahead-of-spacex-debut",
+          "published_at": "2026-04-21T12:38:09+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:38:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9743ebb8",
+      "title": "美国证券交易委员会监测私人信贷领域“新兴压力”",
+      "summary": "美国证券交易委员会主席保罗·阿特金斯在预先准备的发言中表示，当前私人信贷市场违约率预期上升，各类赎回请求持续涌现，该机构正对这一领域出现的“新兴压力”开展密切监测。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGy9l6y8N32k/v0/1200x-1.jpg",
+      "article_ids": [
+        "12da7b02"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "12da7b02",
+          "source": "Bloomberg",
+          "title": "美国证券交易委员会监测私人信贷领域“新兴压力”",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/sec-monitoring-emerging-pressures-in-private-credit-space",
+          "published_at": "2026-04-21T12:32:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:32:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2be29745",
+      "title": "王毅会见老挝常务副总理沙伦赛 - 新华网",
+      "summary": "王毅会见老挝常务副总理沙伦赛，相关新闻由中国权威媒体新华网发布，本次会见的完整报道可在Google新闻平台查看，公众可通过该平台获取这次中老高层会见活动的全部相关内容，及时了解活动相关资讯。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7a028a59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7a028a59",
+          "source": "Google News (中国)",
+          "title": "王毅会见老挝常务副总理沙伦赛 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmt4YjhuU1NrYW4tT1JDZkRjN1VwQVlKb05wdVd6YVJldWZiYTBQZkNBZjgwaG5vSVFFcEM3OVduQlVfN0hrcG9fcjFyYmdjOE9SV0J3Mm1vZ0NEVVNyTS1ZMk93angzNi1ENkhYQm9rOWNuM09CbHJOVzNzOUMwaEFGMzJXVGlqNHFRQjF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T12:31:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:31:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "927cee8a",
+      "title": "德国梅尔茨抨击银行敌意策略 裕信银行CEO独家专访 |《脉搏》4月21日",
+      "summary": "彭博出品的《弗朗辛·拉克瓦的脉搏》常驻伦敦，聚焦专访全球商业、经济、金融与政治领域知名嘉宾，主打独家专访与影响市场的重磅资讯，本期邀请裕信银行CEO等多位业内嘉宾，话题涵盖德国梅尔茨抨击银行敌意策略。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.B81kA6_TJs/v3/1200x-1.png",
+      "article_ids": [
+        "b5153c08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b5153c08",
+          "source": "Bloomberg",
+          "title": "德国梅尔茨抨击银行敌意策略 裕信银行CEO独家专访 |《脉搏》4月21日",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-21/the-pulse-4-21-2026-video",
+          "published_at": "2026-04-21T12:29:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:29:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8aeb5faf",
+      "title": "里拉互换信号显示土耳其本次会议将暂缓加息",
+      "summary": "伊朗战事停火推动油价从高点回落，通胀担忧随之缓解。挂钩土耳其里拉的互换市场动向显示，交易员已缩减对土耳其央行加息的押注，市场信号指向土耳其央行本次会议将暂缓加息。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBlaAHOMoVrs/v1/1200x-1.jpg",
+      "article_ids": [
+        "02d7310a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "02d7310a",
+          "source": "Bloomberg",
+          "title": "里拉互换信号显示土耳其本次会议将暂缓加息",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/lira-swaps-signal-turkey-will-hold-off-hiking-rates-this-meeting",
+          "published_at": "2026-04-21T12:29:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:29:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cf54689",
+      "title": "伦敦遭遇地铁司机罢工引发运营混乱",
+      "summary": "伦敦发生地铁司机罢工事件，此次争端源于劳资双方在工作条件与工时问题上存在分歧，罢工预计将导致伦敦地铁出现大范围延误，多处线路服务中断，对当地交通出行造成明显影响。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-tube-fwvg/21int-uk-tube-fwvg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4aeeb7bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4aeeb7bf",
+          "source": "NYTimes World",
+          "title": "伦敦遭遇地铁司机罢工引发运营混乱",
+          "link": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+          "published_at": "2026-04-21T12:28:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:28:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "949ab0c3",
+      "title": "史无前例裁决认定匈牙利反LGBTQ法律违反欧盟价值观",
+      "summary": "欧盟最高法院作出史无前例的裁决，认定匈牙利出台的反LGBTQ相关法律改革，在多个层面违反欧盟价值观，同时也违背了欧盟条约确立的欧盟创始价值观，这是欧盟司法实践中首次就此类问题作出同类裁决。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f562/live/40ff09c0-3d75-11f1-903b-f1312705e0c9.jpg",
+      "article_ids": [
+        "83e178cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "83e178cd",
+          "source": "BBC World",
+          "title": "史无前例裁决认定匈牙利反LGBTQ法律违反欧盟价值观",
+          "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T12:28:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:28:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "309ab72e",
+      "title": "万科债券延期计划获债权人支持 违约风险缓解",
+      "summary": "中国房企万科一笔原定于本周四到期的人民币债券，已获得足够债权人支持，获准将偿付期限延后一年。目前深陷困境的万科，原本迫在眉睫的违约风险得到缓解，至少当前即时违约风险已消解。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie7gBrMiviwc/v2/1200x-1.png",
+      "article_ids": [
+        "8e3aa6c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8e3aa6c0",
+          "source": "Bloomberg",
+          "title": "万科债券延期计划获债权人支持 违约风险缓解",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/vanke-wins-backing-for-bond-delay-plan-easing-default-risk",
+          "published_at": "2026-04-21T12:25:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:25:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ad5b49e",
+      "title": "《下载》：降低人为噪音，洛杉矶地铁惊艳升级",
+      "summary": "这是科技类工作日通讯《下载》的今日刊，每日更新全球科技领域相关动态。本期涵盖两大核心内容，一是探讨人为噪音干扰动物生存与交流的问题，二是介绍洛杉矶令人惊艳的地铁升级项目。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a224803f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "a224803f",
+          "source": "MIT Technology Review",
+          "title": "《下载》：降低人为噪音，洛杉矶地铁惊艳升级",
+          "link": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+          "published_at": "2026-04-21T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5830ee79",
+      "title": "贝雅资本完成第三只私募股权基金4.5亿美元募资",
+      "summary": "金融服务企业罗伯特·贝尔德公司旗下私募股权部门贝雅资本，近日完成旗下第三只私募股权基金的募资工作，总募资额达4.5亿美元，这只基金后续将对美国与英国的企业开展投资。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqm8KKHuQtdw/v0/1200x-1.jpg",
+      "article_ids": [
+        "13343f31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "13343f31",
+          "source": "Bloomberg",
+          "title": "贝雅资本完成第三只私募股权基金4.5亿美元募资",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/baird-capital-raises-450-million-for-third-private-equity-fund",
+          "published_at": "2026-04-21T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "644b1451",
+      "title": "苹果将再次由产品人担任CEO",
+      "summary": "苹果选定原硬件工程高级副总裁约翰·特努斯出任下一任首席执行官。即将卸任的现任CEO蒂姆·库克因物流运营方面的出色能力广受赞誉，而特努斯拥有典型的产品从业背景，近年公开曝光度正不断提升。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4f37531c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4f37531c",
+          "source": "The Verge",
+          "title": "苹果将再次由产品人担任CEO",
+          "link": "https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook",
+          "published_at": "2026-04-21T11:49:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:49:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1338695f",
+      "title": "梅洛尼要求特尔纳CEO二选一：730万欧元遣散费或埃尼职位",
+      "summary": "意大利总理乔治亚·梅洛尼明确表态，电网运营商特尔纳即将卸任的首席执行官朱塞平娜·迪·福贾，必须在730万欧元遣散费与埃尼董事长新职位之间二选一，政府不允许她同时获得两项权益。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irCXr5XUUG9U/v0/1200x-1.jpg",
+      "article_ids": [
+        "69608c7d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "69608c7d",
+          "source": "Bloomberg",
+          "title": "梅洛尼要求特尔纳CEO二选一：730万欧元遣散费或埃尼职位",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-21/meloni-demands-terna-ceo-choose-7-3-million-payout-or-eni-role",
+          "published_at": "2026-04-21T11:48:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:48:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "237f3159",
+      "title": "习近平同莫桑比克总统查波会谈 - 中国共产党新闻网",
+      "summary": "中国国家主席习近平同莫桑比克总统查波举行会谈，这是中莫两国间的高层外事活动，相关内容由中国共产党新闻网发布，本次会谈的完整报道已上线Google新闻平台，感兴趣的公众可前往该平台查看完整内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f9127972"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f9127972",
+          "source": "Google News (中国)",
+          "title": "习近平同莫桑比克总统查波会谈 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2clBjaF9mdE5vNFR1a3ctdjhvMkc4bHVsdVN1ZC14X2l1WkdjejJ4VlFkS0RUQXpHOWh6Rld1MUFIM0ZodmRMc3lnTW5wNi04NTY4clNMNzA5MTdjd1BrZHhINk5vVlpmbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T11:43:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:43:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "88a17336",
+      "title": "第五届全民阅读大会·阅读权益保障论坛在南昌举办 - 光明网",
+      "summary": "第五届全民阅读大会下设的阅读权益保障论坛、城市阅读论坛在江西南昌举办。活动现场，白岩松分享了对江西的印象，作家刘亮程提出要将家乡当成世界的原点去阅读，各方呼吁让书香融入城市血脉，推进全民阅读发展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c808dce4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c808dce4",
+          "source": "Google News (中国)",
+          "title": "第五届全民阅读大会·阅读权益保障论坛在南昌举办 - 光明网",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XLUM2X3YzUW1mZE9INko5aW1UVTcwbHhvMHZPSk9jRlE4NzliTjdiTHp5cXlXcnVHSFdHNVJmYTg3bHJ4VlpycW5RQVlmdWtURnptRVNPZUs2ZUU1ZWVJSnFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T11:39:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:39:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90921989",
+      "title": "在墨西哥车祸中身亡的美国官员涉事角色遭调查",
+      "summary": "两名美国官员在墨西哥境内遭遇车祸身亡，这起事件发生在墨西哥方面主导捣毁一处秘密毒品实验室的行动之后。目前，这两名身亡美国官员在相关事件中扮演的角色，正受到相关方面审查调查。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9019/live/30a335b0-3d70-11f1-bb8a-374117ea6afa.jpg",
+      "article_ids": [
+        "f4a2acb9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f4a2acb9",
+          "source": "BBC World",
+          "title": "在墨西哥车祸中身亡的美国官员涉事角色遭调查",
+          "link": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T11:37:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:37:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "260752c7",
+      "title": "泽连斯基称美国特使未访问基辅是“不尊重”行为",
+      "summary": "乌克兰总统泽连斯基对美方人员的俄乌相关行程提出不满，美国特使史蒂夫·维特科夫、美国前总统特朗普女婿贾里德·库什纳已多次前往莫斯科，却从未到访基辅，泽连斯基认为这一行为是不尊重的表现。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab1/live/3d4c7e80-3d74-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "c65d561d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c65d561d",
+          "source": "BBC World",
+          "title": "泽连斯基称美国特使未访问基辅是“不尊重”行为",
+          "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T11:37:11+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:37:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8521b9c1",
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "summary": "当地时间4月20日苹果宣布特纳斯接替库克出任CEO，库克转任执行董事长；4月21日星巴克中国澄清开放加盟传闻为不实信息，航旅纵横因App部分功能异常致歉抢修。此外，猛士汽车与华为发布智能越野黑科技，长安公布2030年营收目标，自变量机器人完成近20亿元B轮融资。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8a8d229d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "8a8d229d",
+          "source": "36氪",
+          "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+          "link": "https://36kr.com/p/3776458805904129?f=rss",
+          "published_at": "2026-04-21T11:20:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:20:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb26932c",
+      "title": "Yelp更新AI助手 可单次对话完成咨询及餐厅或服务预订",
+      "summary": "点评平台Yelp宣布，其更新后的人工智能助手可支持用户在同一次对话中，完成餐厅相关问题咨询，同时直接办理餐厅下单、订座或是其他相关服务的预订，无需拆分多环节操作，优化了用户使用流程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b3913f26"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b3913f26",
+          "source": "TechCrunch",
+          "title": "Yelp更新AI助手 可单次对话完成咨询及餐厅或服务预订",
+          "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/",
+          "published_at": "2026-04-21T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "68be641f",
+      "title": "Yelp大幅提升旗下人工智能聊天机器人实用性",
+      "summary": "本地生活服务平台Yelp对旗下聊天机器人助手进行重大升级，新增一系列助力用户办事的功能，让平台更接近数字礼宾服务。这是Yelp近几个月推出的多项AI更新之一，契合行业让AI更贴合实际、更具实用性的发展趋势。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f5db886a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f5db886a",
+          "source": "The Verge",
+          "title": "Yelp大幅提升旗下人工智能聊天机器人实用性",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+          "published_at": "2026-04-21T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "68be641f",
+      "title": "Yelp大幅提升旗下AI聊天机器人实用性",
+      "summary": "本地生活点评平台Yelp对旗下人工智能聊天机器人助手进行重大升级，新增一系列助力用户处理事务的功能，让平台更接近数字礼宾。这是Yelp近几个月多项AI相关更新之一，契合全行业推动AI更贴合实际需求、提升实用性的整体趋势。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f5db886a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "f5db886a",
+          "source": "The Verge AI",
+          "title": "Yelp大幅提升旗下AI聊天机器人实用性",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+          "published_at": "2026-04-21T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "13f0331c",
+      "title": "尼日利亚一地方君主遭绑架勒索 已有嫌犯被捕",
+      "summary": "尼日利亚一名地方君主遭人绑架，据称绑匪目的是索要赎金。绑匪于周六闯入这名君主的宫殿实施作案，目前据信遭绑君主被绑匪关押在一处森林中，该案发生后已有涉案人员被逮捕。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f3/live/9e1a6470-3d6f-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "c72338ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c72338ac",
+          "source": "BBC World",
+          "title": "尼日利亚一地方君主遭绑架勒索 已有嫌犯被捕",
+          "link": "https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T10:59:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T10:59:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5208a79d",
+      "title": "麦当娜悬赏寻回丢失的科切拉演出服",
+      "summary": "歌手麦当娜在科切拉音乐节与塞布丽娜·卡彭特完成合作演出后，一组演出服饰不慎遗失。这批服饰被麦当娜称作“属于我个人历史的一部分”，目前麦当娜已发布悬赏，希望寻回这套遗失的演出服饰。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ff/live/0d7c4a00-3d60-11f1-a7f7-c90fc0a93ea1.jpg",
+      "article_ids": [
+        "53fca67a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "53fca67a",
+          "source": "BBC World",
+          "title": "麦当娜悬赏寻回丢失的科切拉演出服",
+          "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T10:29:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T10:29:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "63ecc620",
+      "title": "日本放宽武器出口规则，背离二战后和平主义",
+      "summary": "日本作出放宽武器出口规则的政策调整，这一举措打破了该国二战后长期奉行的和平主义原则，为日本向十多个国家出售武器扫清了道路，是日本战后军事与安全政策的一次重要转向。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b0/live/2e1e3780-3d7b-11f1-ac78-2112837ce2aa.png",
+      "article_ids": [
+        "ec894384"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ec894384",
+          "source": "BBC World",
+          "title": "日本放宽武器出口规则，背离二战后和平主义",
+          "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T10:13:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T10:13:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ca97145",
+      "title": "蓝色能源公司获3.8亿美元融资 拟在造船厂建造电网级核反应堆",
+      "summary": "蓝色能源公司成功筹得3.8亿美元融资，拟在造船厂建造电网级核反应堆。该企业认为，在造船厂建造核反应堆可解决核电领域的成本难题，还能帮助自身获得成本更低的融资，支撑相关项目开发建设。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fdbe0d97"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "fdbe0d97",
+          "source": "TechCrunch",
+          "title": "蓝色能源公司获3.8亿美元融资 拟在造船厂建造电网级核反应堆",
+          "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/",
+          "published_at": "2026-04-21T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acf985ab",
+      "title": "探寻北极历史的线索",
+      "summary": "一直以来，即便配备破冰船，在融冰旺季也无法保证顺利抵达北极点，需要有利风势破开冰冻洋面，船只还得闯过经多个冬季累积形成的数米厚冰层。2025年夏季，学者约亨·尼斯将前往北极点开展相关科考工作。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c3606941"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "c3606941",
+          "source": "MIT Technology Review",
+          "title": "探寻北极历史的线索",
+          "link": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
+          "published_at": "2026-04-21T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c3111a66",
+      "title": "韩国外交部：日本安全政策应坚持和平宪法精神 - 京报网",
+      "summary": "韩国外交部就日本安全政策相关问题公开明确表态，提出日本的安全政策应当始终坚持和平宪法的核心精神。这一相关报道由京报网发布，感兴趣的读者可前往Google新闻平台查看该报道的完整内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4931b911"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4931b911",
+          "source": "Google News (中国)",
+          "title": "韩国外交部：日本安全政策应坚持和平宪法精神 - 京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySGdwYUVNWWJ1ODNuM25Ba054TkVYckZHNkpfck9kS2VtdHRNaHEzMkhxQUVCckZubWs1VE9Yb2VHQzNqMHhIQ2xlRjd3THVRSVhOb2RpX2lOODU4OXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T09:52:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:52:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e9307b1",
+      "title": "被解职英国官员称斯塔默办公室就大使任命施压",
+      "summary": "一名遭解职的英国官员披露，英国首相斯塔默办公室就任命彼得·曼德尔森出任驻美大使一事施压，还对该任命相关的安全担忧置之不理，彼得·曼德尔森是杰弗里·爱泼斯坦的关联人物。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-uk-starmer-robbins-whvk/21int-uk-starmer-robbins-whvk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "33c80735"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "33c80735",
+          "source": "NYTimes World",
+          "title": "被解职英国官员称斯塔默办公室就大使任命施压",
+          "link": "https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html",
+          "published_at": "2026-04-21T09:51:41+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:51:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "af3bdd05",
+      "title": "南非警察总监因涉争议卫生合同遭指控",
+      "summary": "南非警方最高负责人范尼·马塞莫拉被指控，该案关联一份引发广泛争议的卫生合同，指控指出马塞莫拉在任职期间未能履行自身职责，未对相关事务开展恰当的监督管理。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c1/live/02bd4c60-3d59-11f1-a7f7-c90fc0a93ea1.jpg",
+      "article_ids": [
+        "3faec9a3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3faec9a3",
+          "source": "BBC World",
+          "title": "南非警察总监因涉争议卫生合同遭指控",
+          "link": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T09:42:46+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:42:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c3cbe31d",
+      "title": "《洋葱新闻推出新计划 拟将“信息战”改造为恶搞网站》",
+      "summary": "美国知名讽刺恶搞媒体《洋葱新闻》推出一项全新计划，该计划涉及洋葱获得授权接手运营亚历克斯·琼斯旗下正面临清算的公司，后续会将该公司旗下的“信息战”网站改造为恶搞性质网站。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/14ad4310-3d60-11f1-a7f7-c90fc0a93ea1.jpg",
+      "article_ids": [
+        "0a7bcb64"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0a7bcb64",
+          "source": "BBC World",
+          "title": "《洋葱新闻推出新计划 拟将“信息战”改造为恶搞网站》",
+          "link": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T09:28:46+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:28:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e61e13d",
+      "title": "国务院：进一步扩大增值电信、生物技术、外商独资医院等领域开放试点 - 第一财经",
+      "summary": "国务院印发《关于推进服务业扩能提质的意见》，提出进一步扩大增值电信、生物技术、外商独资医院等领域开放试点，同时明确要加快城市停车和充换电设施建设，推动老旧设备更新改造，推出多项利好服务业发展的举措。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a64253e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a64253e5",
+          "source": "Google News (中国)",
+          "title": "国务院：进一步扩大增值电信、生物技术、外商独资医院等领域开放试点 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9memMzakQ3clliRHk1N3ZtOTZ0bEhBZ1BzNlhVczkxUURURkdHQzl6ZkJBOXA3UVNEakwxSEUwSUZMZUc2bGFmNWJvZUlnTkUtdXhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T09:23:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:23:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eca52129",
+      "title": "陕西启动“新大众文艺——全民阅读周” - 新华网",
+      "summary": "多地推出全民阅读系列活动，陕西启动“新大众文艺——全民阅读周”，北京丰台推出6条“书香研学”路线，各地纷纷举办多场相关活动，引发多家媒体关注，相关活动以阅读为载体，营造书香氛围，助力赓续中华文脉。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "39e3e734"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "39e3e734",
+          "source": "Google News (中国)",
+          "title": "陕西启动“新大众文艺——全民阅读周” - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DNVJGMXVEMHNETDlpUWJTbEtqanBRNU5NRkphV3QtcUdRampsZlluYlFJQ2lKTlc2U2dGb2RocHA2eVd5TG5QeE9FUUxhTWNUeEpVWlhjQ3V1VkZnZnN1ZDBtaV9fZHFzS2xIcUNLNUJYX1Y0SWF2Z1U0ZHg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T09:19:48+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:19:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0c506f5",
+      "title": "微软Teams拟修复误触举手功能问题",
+      "summary": "不少用户曾在使用微软Teams开线上会议时，误触举手按钮打断会议，陷入尴尬处境。微软将对这款线上会议软件重新设计，把举手按钮移出主工具栏，同时允许用户自定义主工具栏显示的控制选项。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "86a969b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "86a969b4",
+          "source": "The Verge",
+          "title": "微软Teams拟修复误触举手功能问题",
+          "link": "https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix",
+          "published_at": "2026-04-21T09:14:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:14:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c05a074",
+      "title": "宜家与三星承诺实现无故障Matter整合",
+      "summary": "宜家此前推出的二十余款基于Thread传输的Matter智能设备自发布以来问题频发，三星称其SmartThings智能家居平台现已解决适配问题，适配后宜家的传感器、多功能遥控器可正常显示运行，还能无缝接入三星的高级智能家居自动化流程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4d20137b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4d20137b",
+          "source": "The Verge",
+          "title": "宜家与三星承诺实现无故障Matter整合",
+          "link": "https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration",
+          "published_at": "2026-04-21T09:13:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:13:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35156ac3",
+      "title": "加拿大男子在墨西哥特奥蒂瓦坎古金字塔枪击案中身亡",
+      "summary": "墨西哥官方通报，周一该国热门旅游景点特奥蒂瓦坎古金字塔景区发生枪击事件，造成一名加拿大人身亡，另有多人受伤，此次事件发生在墨西哥承办国际足联世界杯的数周之前。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/917c/live/b6940d90-3cfb-11f1-879d-1b2f5c3919b8.jpg",
+      "article_ids": [
+        "ddd97a07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ddd97a07",
+          "source": "BBC World",
+          "title": "加拿大男子在墨西哥特奥蒂瓦坎古金字塔枪击案中身亡",
+          "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T09:09:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:09:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9437a3ab",
+      "title": "苹果体育现已支持通过CarPlay小组件查看赛事比分",
+      "summary": "去年苹果推出全新iOS端苹果体育小组件时未搭载CarPlay支持，本周这一情况迎来调整。最新苹果体育更新已为CarPlay新增小组件功能，用户可直接在CarPlay的小组件界面查看自己关注的球队或联赛的实时赛事比分。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7f37371e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7f37371e",
+          "source": "The Verge",
+          "title": "苹果体育现已支持通过CarPlay小组件查看赛事比分",
+          "link": "https://www.theverge.com/news/915564/apple-sports-widget-carplay",
+          "published_at": "2026-04-21T09:08:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:08:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cdd1426",
+      "title": "科尔号惨案如何推动美国开发新型军舰防御系统",
+      "summary": "25多年前，一艘美国军舰遇袭后几乎沉没，这一事件推动美国开发新型军舰防御装备。当前正在伊朗港口执行封锁任务的美国海军驱逐舰，所搭载的正是此次袭击事件后研发列装的相关武器。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-ship-defense-1-cvjp/21int-ship-defense-1-cvjp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "39900ec1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "39900ec1",
+          "source": "NYTimes World",
+          "title": "科尔号惨案如何推动美国开发新型军舰防御系统",
+          "link": "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html",
+          "published_at": "2026-04-21T09:01:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T09:01:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f62f573",
+      "title": "韩国对日本高层向靖国神社供奉祭品深表失望和遗憾 - 新华网",
+      "summary": "日本政要高市早苗向靖国神社供奉祭品，引发各方反对。韩国政府对此深表失望与遗憾，中方已正式向日方提出严正交涉、强烈抗议。中国多家主流媒体纷纷发声批评，指出该行为属于恶意挑衅，性质恶劣，严重危害地区和平稳定。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a23b0026"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a23b0026",
+          "source": "Google News (中国)",
+          "title": "韩国对日本高层向靖国神社供奉祭品深表失望和遗憾 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45TlNMeXljbUxJYTFEdzY2dlN3NURLS1JlSGdEN3RYVnNoUlJpYlRjRGxTQm9MM2gwd19PdnB1T2U2Zld2VzJqZURGQVhwWmV2dzJHWUlpdmx1VTRTVWxpZGlMZWNManJOR2YxRnJCWmNDb1lDbkdKbS15ZGFqUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T08:38:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T08:38:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c573bf8e",
+      "title": "外交部介绍中柬外长、防长“2+2”战略对话机制首次会议安排 - chinanews.com.cn",
+      "summary": "中国外交部已对外介绍中柬外长、防长“2+2”战略对话机制首次会议的相关安排，相关新闻由中国新闻网发布，公众可前往谷歌新闻平台查看该新闻的完整内容，本次会议是中柬这一对话机制建立以来举办的首次会议。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8e15e064"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8e15e064",
+          "source": "Google News (中国)",
+          "title": "外交部介绍中柬外长、防长“2+2”战略对话机制首次会议安排 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VGpzb2xOS2ZZeUJ0SW9XOUpxYTBCTnZiaGZ1Y18xOXVUSlNNa2t0b1oxem1fRktsZUNKR0RxbXc4RGxYN3lZTmFtMWhuMnVwUS1YcEpNcjJfT1RfWFAtX19QTUNMbzgt?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T08:24:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T08:24:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "681ee63a",
+      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+      "summary": "宠物AI科技初创公司PettiChat近期完成由藕舫天使、华旦天使联合投资的百万美元种子轮融资，推出搭载AI技术的可穿戴宠物翻译器，通过构建标注动物行为数据集与动物行为世界模型实现人宠双向沟通，目前已开启预售，未来将拓展B端应用场景。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260416/v2_aca398cac3d6448ba7376a4ad72d7641@1849_oswg793995oswg1267oswg713_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "d46519c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "d46519c5",
+          "source": "36氪",
+          "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+          "link": "https://36kr.com/p/3769659305427459?f=rss",
+          "published_at": "2026-04-21T08:19:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T08:19:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e947a9f6",
+      "title": "新西兰首都遭暴雨重创后宣布进入紧急状态",
+      "summary": "新西兰首都惠灵顿及周边地区遭遇强暴雨重创，引发山体滑坡、暴洪灾害，当地超100所学校已关闭，此次极端天气打乱当地正常秩序，新西兰已正式宣布首都地区进入紧急状态。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-nz-emergency-pcwz/21int-nz-emergency-pcwz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b3fc3eba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b3fc3eba",
+          "source": "NYTimes World",
+          "title": "新西兰首都遭暴雨重创后宣布进入紧急状态",
+          "link": "https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html",
+          "published_at": "2026-04-21T07:42:49+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T07:42:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf11c29a",
+      "title": "报应来得这么快！日本最强坦克演习场突发炸膛3死1伤 - 凤凰网",
+      "summary": "日本自卫队被称作本国最强坦克的10式主战坦克，在演习场突发炸膛弹药爆炸事故，该事故目前已造成3人死亡、1人重伤，相关伤情仍在确认中，多家媒体已对这起突发事故进行了报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "20c70ec4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "20c70ec4",
+          "source": "Google News (中国)",
+          "title": "报应来得这么快！日本最强坦克演习场突发炸膛3死1伤 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwb0theXZJclNmUnhpYkRMR2VEVEg5UDF0OExiLU82WGdKTGtZRFZhNE50VXloSTZGc3kxX3kwaVpvbnQxcWozQnhjeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-21T07:37:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T07:37:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e13f5a74",
+      "title": "PlayStation年龄验证限制将落地英国游戏主机",
+      "summary": "索尼为遵守英国《网络安全法》，今日向PlayStation玩家通知年龄验证要求。自2026年6月起，英国与爱尔兰的PS4、PS5用户若未完成年龄验证，将无法使用语音聊天、私信、群组派对等第三方通讯服务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8bf7fa51"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8bf7fa51",
+          "source": "The Verge",
+          "title": "PlayStation年龄验证限制将落地英国游戏主机",
+          "link": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+          "published_at": "2026-04-21T07:11:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T07:11:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c43f8387",
+      "title": "英伟达供应商胜利巨人香港上市首日暴涨60%",
+      "summary": "英伟达供应商胜利巨人在香港完成首次公开发行上市，正式登陆香港资本市场，上市首日股价大幅上涨，涨幅达到了60%。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e6d49a94"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "e6d49a94",
+          "source": "The Information",
+          "title": "英伟达供应商胜利巨人香港上市首日暴涨60%",
+          "link": "https://www.theinformation.com/briefings/nvidia-supplier-victory-giant-surges-60-hong-kong-stock-debut",
+          "published_at": "2026-04-21T06:59:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T06:59:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "45b3ba12",
+      "title": "深度求索V4发布前夕 中国月之暗面AI推出全新代码模型",
+      "summary": "中国的人工智能企业月之暗面推出了一款全新的代码模型，本次推出这款新品的时间，早于深度求索V4版本的正式发布。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d11a6e59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "d11a6e59",
+          "source": "The Information",
+          "title": "深度求索V4发布前夕 中国月之暗面AI推出全新代码模型",
+          "link": "https://www.theinformation.com/briefings/chinas-moonshot-ai-launches-new-coding-model-ahead-deepseeks-v4-release",
+          "published_at": "2026-04-21T06:53:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T06:53:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff93fb99",
+      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
+      "summary": "4月20日晚间，国内规模第二的地产中介我爱我家发布2025年年报，公司全年营收、住房总交易金额同比下滑，归母净亏9663万元，在2024年扭亏后再度由盈转亏，亏损源于多项非经常性因素，旗下相寓租赁业务运营稳定，成为业绩压舱石。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_2c40a277c0444e4791641da6aabb50ea@337187376_oswg99317oswg1041oswg476_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "3c0d50fe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3c0d50fe",
+          "source": "36氪",
+          "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
+          "link": "https://36kr.com/p/3776220864103171?f=rss",
+          "published_at": "2026-04-21T06:52:49+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T06:52:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3fed5653",
+      "title": "日本打破战后和平主义 拟扩大对外武器出口",
+      "summary": "日本认为当前自身面临来自中国的威胁上升，且主要盟友美国的动向存在不确定性，日本首相高市早苗推翻了原有武器出口限制，打破日本战后长期奉行的和平主义路线，将进一步扩大对外武器销售。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-japan-security-bftw/21int-japan-security-bftw-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "395e8920"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "395e8920",
+          "source": "NYTimes World",
+          "title": "日本打破战后和平主义 拟扩大对外武器出口",
+          "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+          "published_at": "2026-04-21T06:03:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T06:03:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fdd9175a",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "summary": "专注AI+母婴智能硬件生态的奇世智能CheeChips宣布完成天使轮融资，本轮资金将按比例投入技术研发、团队扩张与市场布局。该企业自研母婴专用AI大模型，已推出AI胎儿记录仪，规划多品类新品，投资方看好该赛道，企业计划打造全球智能母婴产业集群。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_0e1eb51c447e45318db013e5ada8ce7d@10269314_oswg61557oswg1358oswg906_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "8ced0b30"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "8ced0b30",
+          "source": "36氪",
+          "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+          "link": "https://36kr.com/p/3774891479712514?f=rss",
+          "published_at": "2026-04-21T04:45:02+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T04:45:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed543fed",
+      "title": "戴森推出旅行款超音速吹风机",
+      "summary": "十年前，戴森推出售价400美元的超音速吹风机，掀起了美发电器领域的产品竞赛。如今戴森推出尺寸更小、定价更低的旅行款超音速吹风机，售价299.99美元，专为出差、健身等出行场景的人群打造。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8e731e81"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8e731e81",
+          "source": "The Verge",
+          "title": "戴森推出旅行款超音速吹风机",
+          "link": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+          "published_at": "2026-04-21T04:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T04:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed63b962",
+      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+      "summary": "南京劳尼克斯科技（智能锂电园林工具企业）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本，资金将用于产品研发、团队扩容与海外市场布局。该企业今年出货量已破万台，单月销售额超千万元，本轮融资后将加速产品迭代与渠道拓展，抓住锂电替代燃油园林工具的行业窗口期。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260420/v2_2e4cbb9cb8284443a46a1666dfe35ca5@6022551_oswg6196458oswg2132oswg1406_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "24ccc169"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "24ccc169",
+          "source": "36氪",
+          "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+          "link": "https://36kr.com/p/3774707915440897?f=rss",
+          "published_at": "2026-04-21T01:31:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T01:31:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "52471bbd",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "summary": "估值15亿美元的海外AI睡眠系统独角兽Eight Sleep，产品受马斯克等名人青睐，近日正式进入中国市场，推出起售价19999元的Pod 5智能深眠系统，为适配中国市场，给普通版用户免去海外需缴纳的199美元年度软件订阅费，主打健康科技定位，瞄准国内高端健康消费群体。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260421/v2_39e8aeeef73a4dbfa1406c7cc6ebb0a0@6221844_oswg335114oswg900oswg467_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "4556fec8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "4556fec8",
+          "source": "36氪",
+          "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+          "link": "https://36kr.com/p/3775892441301511?f=rss",
+          "published_at": "2026-04-21T01:17:02+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T01:17:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71d9cba9",
+      "title": "美国歌手D4vd对谋杀失踪少女一案不认罪",
+      "summary": "美国歌手D4vd本名戴维·安东尼·伯克，在一起失踪少女死亡案中被控谋杀，他已对谋杀指控不认罪。检方指出，由于本案性质特殊，若D4vd最终被定罪，他将面临终身监禁的刑罚。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d8/live/755c8010-3cf0-11f1-8ca8-b5011b776a9f.jpg",
+      "article_ids": [
+        "1ddcd995"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1ddcd995",
+          "source": "BBC World",
+          "title": "美国歌手D4vd对谋杀失踪少女一案不认罪",
+          "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-21T01:05:41+00:00"
+        }
+      ],
+      "published_at": "2026-04-21T01:05:41+00:00",
+      "is_merged": false
+    }
+  ]
+}
