@@ -1,0 +1,2411 @@
+{
+  "date": "2026-04-22",
+  "edition": "evening",
+  "updated_at": "2026-04-22T21:56:32.036988+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "869df07a",
+      "title": "伊朗威胁霍尔木兹并测试美国封锁（视频）",
+      "title_original": "Iran Menaces Hormuz and Tests US Blockade (Video)",
+      "summary": "这是一条附带相关视频的新闻，内容涉及伊朗对霍尔木兹发出威胁，同时对美国的封锁展开测试，相关内容以视频形式呈现。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-04-22/iran-menaces-hormuz-and-tests-us-blockade-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T13:04:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "23dd20ec",
+      "title": "人工智能产出更多潜在药物 这家初创欲筛选有价值候选",
+      "title_original": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "summary": "初创企业10x Science完成规模480万美元的种子轮融资，所筹资金将用于帮助制药研究人员解析复杂分子，从人工智能产出的大量潜在药物中，筛选出真正具备研发价值的候选对象。",
+      "summary_original": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "91ebd247",
+      "title": "快拍地图新增“地点忠诚度”徽章 可显示用户最常到访地点",
+      "title_original": "Snap Map’s new ‘Place Loyalty’ badges will show the spots you visit most often",
+      "summary": "Snap旗下快拍地图推出全新“地点忠诚度”徽章功能，若用户到访某一地点的频次进入该地点所有用户的前25%，即可在地图上看到自身排名，还可自主选择是否将该排名分享给他人。",
+      "summary_original": "If you’re in the top 25% of users who visit a certain place, you’ll see your ranking on the Snap Map and can choose to share it with others.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3db63863",
+      "title": "宝马旗舰7系迎来‘新世代’升级",
+      "title_original": "BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade",
+      "summary": "宝马早在2021年就公布了“新世代”下一代纯电架构与设计语言，众多车迷一直关注该全新技术何时会落地到品牌旗舰7系。如今这一时刻终于到来，宝马已在纽约、北京两地举办活动，正式推出经“新世代”技术升级的新款7系。",
+      "summary_original": "Ever since BMW first announced its \"Neue Klasse\" next-generation electric vehicle architecture and design language way back in 2021, the question on many fans' minds was when the new technology would reach the automaker's flagship 7 Series. Well, that moment has finally arrived. Today, at events in New York City and Beijing, BMW unveiled its [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14fd4db0",
+      "title": "年度最诡异游戏：说不清，更放不下",
+      "title_original": "The year’s weirdest game is hard to explain and even harder to put down",
+      "summary": "有评测者体验了今年推出的怪异新作《钛金法庭》，这款游戏的特点就是难以用语言描述清楚，并非存在什么缄密规则，而是它本身的混搭复古特质本就如此。评测者已沉迷其中一周，始终难以停下体验。",
+      "summary_original": "The first rule of Titanium Court is that you can't explain Titanium Court. Not because we're living under the omerta of an 8-bit Fight Club, but because it's one truth I can stand by. For the past week, I've been facing the consequences of getting isekai'd into a digital pastiche of the entire history of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "23dd20ec",
+      "title": "AI产出潜在药物数量创新高 这家初创拟筛选真正有价值者",
+      "title_original": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "summary": "当前人工智能可生成的潜在候选药物数量已经远超以往，初创企业10x Science已完成480万美元种子轮融资，所得资金将用于助力制药研究人员解析复杂分子，从海量候选中筛选出真正具备研发价值的药物。",
+      "summary_original": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "482e611d",
+      "title": "伊朗战事实时更新：特朗普延长停火后伊朗武装宣称扣押两艘船只",
+      "title_original": "Iran War Live Updates: Iranian Forces Claim Seizure of 2 Ships After Trump Extends Truce",
+      "summary": "据伊朗国家媒体报道，伊朗伊斯兰革命卫队宣称已在霍尔木兹海峡附近发动袭击并扣押两艘货船。尽管美国总统特朗普此前已经延长停火协议，相关各方仍在争夺霍尔木兹海峡这一关键国际航道的控制权。",
+      "summary_original": "Iran’s Revolutionary Guards said they had attacked and seized two cargo ships near the Strait of Hormuz, state media reported. Both sides were seeking to exert control in the waterway even as President Trump renewed a cease-fire.",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-promo-ltmf/22israel-iran-promo-ltmf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T12:58:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d99db14d",
+      "title": "印度利率决策者决定观望冲突影响",
+      "title_original": "India’s Rate Setters Decided to Wait and Watch Conflict Impact",
+      "summary": "最新公布的印度货币政策会议纪要显示，印度政策制定者已于4月决定暂停货币政策调整，以更清晰地掌握中东冲突引发的相关冲击，目前选择观望局势发展，再确定后续的政策方向。",
+      "summary_original": "India’s policy makers decided to pause in April to get a clearer picture of the shock caused by the war in the Middle East, minutes of the last meeting showed.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwp_IyeTwVHY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/india-s-rate-setters-decided-to-wait-and-watch-conflict-impact",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T12:50:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "18e1bfdd",
+      "title": "加元与油价联动性减弱 做空押注增多",
+      "title_original": "Loonie’s Weakening Ties to Oil Prices Amplifies Bets Against It",
+      "summary": "长期以来，油价上涨通常会带动加拿大元升值，加元走势与油价高度绑定的传统关系近期已发生改变。随着二者联动性不断走弱，市场上针对加元的做空押注进一步增加。",
+      "summary_original": "When oil prices surge, the Canadian dollar usually strengthens &mdash; but that dynamic has shifted.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNzpDRAwZYrI/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/loonie-s-weakening-ties-to-oil-prices-amplifies-bets-against-it",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T12:46:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d5a53863",
+      "title": "越南与韩国签署安全及核电站相关协议",
+      "title_original": "Vietnam, South Korea Ink Deals on Security, Nuclear Power Plants",
+      "summary": "越南与韩国两国领导人在河内举行会谈，会谈后双方共签署十二份合作协议，合作内容涉及安全、能源基础设施建设以及核电站项目等多个领域，将助力两国深化多领域的交流与合作。",
+      "summary_original": "Vietnam and South Korea signed twelve agreements including on security, energy infrastructure and nuclear power plants, following talks between the two nations’ leaders in Hanoi.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijl1NETHXYJg/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/vietnam-south-korea-ink-deals-on-security-nuclear-power-plants",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T12:33:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "426e9ae3",
+      "title": "法国下调增长预期 仍坚持2029年赤字目标",
+      "title_original": "France Sticks to 2029 Deficit Goal as It Trims Growth Forecasts",
+      "summary": "法国总统马克龙政府提出一项基于下调后未来三年经济增长预期的赤字削减计划，该国仍坚持原定的2029年赤字目标。更低的增长预期意味着法国管控公共财政将面临更大挑战。",
+      "summary_original": "French President Emmanuel Macron’s government presented a deficit-reduction plan based on lower growth forecasts for the next three years, which would make it more challenging for the country to get a grip on public finances.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLByUe4FhqG4/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/france-sticks-to-2029-deficit-goal-as-it-trims-growth-forecasts",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T12:33:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1616836",
+      "title": "欧盟拟向乌克兰提供1060亿美元贷款 因欧尔班推迟数月",
+      "title_original": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
+      "summary": "因匈牙利总理维克多·欧尔班的反对，欧盟拟向乌克兰提供1060亿美元贷款的计划已陷入僵局长达数月。近日，欧盟各国大使已为发放这笔乌克兰亟需的资金迈出了关键一步。",
+      "summary_original": "After months of impasse because of objections from Hungary’s prime minister, Viktor Orban, E.U. ambassadors took a critical step on the way to disbursing the much-needed money.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-eu-ukraine-loan-01-cwlg/21int-eu-ukraine-loan-01-cwlg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T12:19:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "85469e6c",
+      "title": "下载通讯：推介当下人工智能十大核心议题",
+      "title_original": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "这是工作日发行的每日科技通讯《下载通讯》的今日内容，本次推出当下人工智能十大核心议题策划。当前人工智能领域新发布层出不穷，炒作与各类警告混杂，难以分辨真正重要的内容，该策划旨在拨开乱象，梳理AI领域真正核心的议题。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a242752b",
+      "title": "2026谷歌云Next大会展出的最具看点初创企业",
+      "title_original": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "谷歌希望吸引人工智能领域初创企业入驻其谷歌云平台，已在2026年举办的年度谷歌云Next大会上，集中展出了一大批相关初创企业，此举既展现了一批新兴创新力量，也凸显谷歌云争夺AI赛道初创生态资源的布局。",
+      "summary_original": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "32e32e8a",
+      "title": "多邻国现已向免费用户开放高级学习内容",
+      "title_original": "Duolingo is now giving free users access to advanced learning content",
+      "summary": "语言学习平台多邻国调整内容开放权限，原本仅对付费订阅用户开放的高级语言学习内容，现已面向免费用户开放。免费用户无需付费订阅，即可接触学习此前仅对付费用户开放的内容，掌握对应语言技能。",
+      "summary_original": "Duolingo is opening up its advanced language learning content offering to free users, allowing them to acquire skills that were previously reserved to paid subscribers.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/duolingo-is-now-giving-free-users-access-to-advanced-learning-content-that-was-previously-reserved-for-paid-subs/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "96dad15c",
+      "title": "谷歌地图即将迎来大规模AI升级",
+      "title_original": "Google Maps is about to get a big dose of AI",
+      "summary": "谷歌计划将生成式人工智能融入旗下谷歌地图的热门功能中，这是谷歌推进产品智能化升级的重要布局，将有效提升谷歌地图的服务能力，为用户带来更智能便捷的位置服务与使用体验。",
+      "summary_original": "Generative AI is being infused into Google's popular feature within Maps.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14717484",
+      "title": "独家：谷歌通过数十亿美元新交易深化与思维机器实验室的合作",
+      "title_original": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "summary": "科技媒体TechCrunch独家获悉，米拉·穆拉蒂的思维机器实验室已与谷歌云签署价值数十亿美元的协议，谷歌云将为其提供搭载英伟达最新GB300芯片的人工智能基础设施。",
+      "summary_original": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8ea4a36a",
+      "title": "丹·克伦肖失势背后",
+      "title_original": "Behind the unraveling of Dan Crenshaw",
+      "summary": "2019年，36岁的美国得克萨斯州共和党籍新科国会议员丹·克伦肖，入选《时代》周刊\"下一代100人\"榜单。他是哈佛毕业的前海军海豹突击队成员，在阿富汗对抗塔利班时失去一目，曾是美国政坛备受瞩目的新星，如今光环褪去境遇急转直下。",
+      "summary_original": "In 2019, a 36-year-old Rep. Dan Crenshaw (R-TX), newly elected to Congress, was photographed for the inaugural Time 100 Next List, wearing a dashing eye patch and looking upwards with hope. A Harvard-educated Navy SEAL who'd lost an eye while fighting the Taliban in Afghanistan, Crenshaw was in rarefied company, listed among the magazine's candidates [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ca0afd8d",
+      "title": "谷歌云推出全新AI芯片及智能体构建工具",
+      "title_original": "Google Cloud Debuts New AI Chips, Tools for Building Agents",
+      "summary": "谷歌母公司Alphabet旗下谷歌云部门正式发布了最新一代自研张量处理单元（TPU），这款专为AI计算打造的自研芯片，旨在提升人工智能计算服务的速度与运行效率。",
+      "summary_original": "Alphabet Inc.’s Google Cloud division unveiled the latest generation of its tensor processing unit, or TPU, a homegrown chip that’s designed to make AI computing services faster and more efficient.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6eLlvpFXMEk/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a242752b",
+      "title": "2026谷歌云Next大会展出的最具看点初创企业",
+      "title_original": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "谷歌希望吸引人工智能领域初创企业入驻自身云平台，在年度大会谷歌云Next 2026上，谷歌集中展示了一大批人工智能领域初创企业，这些参展的初创项目成为本次大会的核心看点，也是谷歌云招揽AI创业项目的重要举措。",
+      "summary_original": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "96dad15c",
+      "title": "谷歌地图即将迎来大规模AI加持",
+      "title_original": "Google Maps is about to get a big dose of AI",
+      "summary": "谷歌即将把生成式人工智能技术融入旗下热门服务谷歌地图的功能中，这是谷歌针对地图服务的重大智能化升级，将为谷歌地图注入大量AI能力，有望进一步提升用户的服务使用体验。",
+      "summary_original": "Generative AI is being infused into Google's popular feature within Maps.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14717484",
+      "title": "独家：谷歌通过数十亿美元新交易深化与思考机器实验室的合作",
+      "title_original": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "summary": "科技媒体TechCrunch独家获悉，米拉·穆拉蒂旗下的思考机器实验室已与谷歌云签署价值数十亿美元的协议，谷歌云将为其提供搭载英伟达最新GB300芯片的人工智能基础设施，支撑其AI相关业务开展。",
+      "summary_original": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cd5921da",
+      "title": "世界地球日｜江苏用“生态答卷”守护美丽家园 - 新华报业网",
+      "title_original": null,
+      "summary": "世界地球日来临之际，国内多家媒体推出相关特别报道，内容涵盖辽宁启动世界地球日活动周、江苏晒出生态治理“答卷”守护家园等，还有媒体通过卫星遥感图直观展现中国生态保护成效，聚焦中国携手世界守护地球家园，展现中国的绿色担当。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vWGRSYUhMTzJIM3haZ1NXSU1IejlxU0FmSHVFMXIydjhHcFc4a0cyWUpnZ01FcTRROXd3c21uNVVIekZ2Y1dzTHo4aXZYUXcyeFRlRlR5eUp0OXB0VGN4YmdUVGtKeHo0Mnpj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T11:52:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0c8a94bb",
+      "title": "欧洲央行官员称四月决定加息为时过早",
+      "title_original": "ECB Officials Say April Is Too Early to Decide on Rate Hikes",
+      "summary": "两名欧洲央行官员近日公开表态，认为在四月就敲定加息事宜为时过早。他们表示，目前伊朗冲突带来的全部影响仍不明确，此时上调借贷成本的时机尚未成熟，不宜仓促做出加息决定。",
+      "summary_original": "Two European Central Bank officials said it’s too soon to lift borrowing costs this month as the full consequences of the Iran conflict remain unclear.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io_JbHhU34cU/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-stournaras-says-central-bank-should-wait-on-rate-hike",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T11:40:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "793ee2ae",
+      "title": "新闻8点见丨英雄回家！12位在韩中国人民志愿军烈士遗骸归国 - 新京报",
+      "title_original": null,
+      "summary": "第十三批共12位在韩中国人民志愿军烈士遗骸归国，引发国内各界关注，多家媒体纷纷对此事进行报道，内容既包含向志愿军英烈致敬的内容，也记录下老兵不愿添麻烦放弃赴沈阳迎战友、丹东民众迎接英雄等动人细节，全社会共迎英雄回家。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNRDlQQ2ZBZ2JFLVV4bEhUa2wzcTd2WlNVemZQSElBeXNJYk9LcXFNY3RHcUZZQWpUZ29RWlZFZjFIdExZMEg5alktbENnb2xRMy12aTAtSlNzN1RLcGJQMk1Va2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T11:31:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b6604b03",
+      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+      "title_original": null,
+      "summary": "中办、国办对外发布关于更高水平更高质量做好节能降碳工作的重磅意见。4月下旬，快手在杭州启动618商家大会，宣布2026年投入千亿流量扶持优质供给；OpenAI正洽谈至多15亿美元投资私募合资企业抢占企业AI市场，另有多家企业完成融资、发布AI新品，长三角一季度进出口创同期历史新高。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3774776026874375?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-22T11:26:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "64cb752d",
+      "title": "欧盟批准对乌900亿欧元贷款 输油管道重启打破僵局",
+      "title_original": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "summary": "欧盟已批准向乌克兰提供总额900亿欧元的贷款，与此同时，乌克兰宣布重新开放德鲁日巴输油管道。此前该管道对邻国匈牙利的石油供应已停滞数月，相关供应僵局因管道重启被打破。",
+      "summary_original": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40de/live/992a3f20-3e29-11f1-b55d-0f258dce1735.jpg",
+      "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T11:19:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c2e4337f",
+      "title": "利奥教皇访问行程跳过非洲数个主要天主教国家",
+      "title_original": "Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations",
+      "summary": "教皇利奥抵达非洲小型威权国家赤道几内亚，开启访非行程。此次行程跳过了非洲多个规模较大的天主教国家，非洲不少天主教徒虽对教皇访非感到兴奋，却也因自身所在国未被纳入行程略感被冷落。",
+      "summary_original": "As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out.",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-pope-africa-snubbed-1-cjhp/20int-pope-africa-snubbed-1-cjhp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T11:04:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "343fd8d7",
+      "title": "先扫一室，再扫天下",
+      "title_original": "First vacuums — then the world",
+      "summary": "不少初创企业要花费数年才能打响品牌知名度，原本知名度不高的中国扫地机器人企业追觅另辟蹊径，斥资1000万美元拿下超级碗的30秒广告位作为开局，怀揣成为全球消费电子巨头的雄心。",
+      "summary_original": "Many startups spend years trying to become a household name. Others just spend $10 million on a Super Bowl ad. That's Dreame's bet. The little-known Chinese robot vacuum company has grand ambitions to become a global consumer electronics giant and chose to run a pricey 30-second spot as its opening move. If it works, the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8d3cd9b9",
+      "title": "中国载人航天工程首批外籍航天员选拔工作顺利完成 2名巴基斯坦籍候选对象最终入选 - 人民网财经",
+      "title_original": null,
+      "summary": "中国载人航天工程首批外籍航天员选拔工作已顺利完成，最终两名巴基斯坦籍候选对象成功入选。此次选拔完成后，中国空间站将迎来首位外籍航天员进驻，这是中国载人航天工程开展国际开放合作取得的实质性进展，具备重要标志性意义。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HYXVmdHJuT056d25hR0hlNmJKLW5BLXFBdFdvSHVCcG1Fb1JpdHB2SkdsQXlsYmlENkFsbnBoUlIyRmlDNGpTUmN5dlpBVFg5Q20wQ253cHh3LTZuZ1J6SFdDZGVqMEVQSHhYV3pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T10:41:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e279b5a0",
+      "title": "赖清德拟窜访被迫取消 国台办：一个中国原则是大势所趋、大义所在、人心所向 - 新华网",
+      "title_original": null,
+      "summary": "\"台独\"分裂分子赖清德计划窜访斯威士兰（史瓦帝尼），因无法取得飞行许可被迫取消行程。国台办强调一个中国原则是大势所趋、大义所在、人心所向，外交部直指赖清德此次窜谋是自取其辱，一个中国原则得到国际社会普遍认同。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FT3NlNDFHb3BLVE9BODdfSW1jTVoyclYyT0V0QkJlOW9NSEdiOWRqMlVva1RIMF9aV05EZGxjbWczTzNRUy1hbngtS3U5MmFramJOQ2dpbmtSNWs5SjhZMFM5c2QydUhSZC1yVlVZV0UwdGk3QkpXaktIUFQ3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T10:39:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "371d7d67",
+      "title": "韩正集体会见出席全球共享发展行动论坛第三届高级别会议外方代表 - 中国驻白俄罗斯大使馆",
+      "title_original": null,
+      "summary": "韩正集体会见出席全球共享发展行动论坛第三届高级别会议的外方代表，本次事件的完整报道由中国驻白俄罗斯大使馆发布在Google新闻平台，感兴趣的读者可前往该平台查看完整内容，了解本次会见的更多相关详情。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lTGd4Rlk5YkJRRGF1YlVpam1aSEJSMktsb2RyVEFEZDhuV0dZeE8yenRYcU5QUUthVnkxTEJNV2NaSC13MnhXWHNmV1FMWTJOV3h0WXp2SjZLeVprRFpMU0I4RXU0MEN3dXN6WUFrR0pxLUlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T10:38:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "679b0a80",
+      "title": "燃油价格飙升 汉莎航空削减2万个夏季航班",
+      "title_original": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "summary": "美以与伊朗的冲突推高航空燃油价格，多家航企已相继削减航班，汉莎航空成为最新一家调整运营计划的航企，将在夏季航季削减共计2万个航班，以应对燃油成本飙升带来的运营压力。",
+      "summary_original": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e298/live/63872c10-3e43-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T10:31:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e48afa0a",
+      "title": "人工智能需强大数据编织方能释放商业价值",
+      "title_original": "AI needs a strong data fabric to deliver business value",
+      "summary": "人工智能正快速融入企业，从试验阶段转向日常应用，不少企业已在财务、供应链、人力资源、客户运营等多领域，部署智能副驾、智能代理、预测系统等各类AI工具。近期调查显示，到2025年底，将有半数企业在至少三个业务职能中应用AI。",
+      "summary_original": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T10:05:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b8951309",
+      "title": "米歇尔·金近期喜爱的三样事物",
+      "title_original": "3 things Michelle Kim is into right now",
+      "summary": "米歇尔·金分享自己当下喜爱的内容，其中重点介绍了韩国虚拟偶像女团异世界偶像。该团体由韩国虚拟主播Woowakgood打造，成员借助动作捕捉以动漫风数字形象演出，六名成员全部保持匿名，是区别于传统偶像的新型演艺形式。",
+      "summary_original": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3015e411",
+      "title": "某小镇清理野雁计划",
+      "title_original": "One town’s scheme to get rid of its geese",
+      "summary": "二月一个晴朗午后，作者和弟弟驱车途中临时停车，发现狗公园旁的草地上停留着一群加拿大雁。作者踮脚走过满地雁粪靠近后，看到其中一只雁的黑颈上套着带有GPS追踪器的白色项圈，该追踪器属于小镇清理野雁计划的一部分。",
+      "summary_original": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2b392b39",
+      "title": "大自然已不复存在",
+      "title_original": "There is no nature anymore",
+      "summary": "人们通常认为，自然是未经人类改造的岩石、野生动植物等事物。但如今地球上几乎找不到完全不受人类活动影响的区域，科学家已在巴西雨林中发现微塑料，人类活动的影响已经渗透到传统认知里的原始自然环境中。",
+      "summary_original": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b8bb1c5",
+      "title": "洛杉矶终于开启地下轨道交通建设",
+      "title_original": "Los Angeles is finally going underground",
+      "summary": "洛杉矶素来是公认的典型汽车城，面积达2200平方英里的城市发展节奏由宽阔主干道与高速路网主导。它曾拥有世界级的轨道交通系统，过去三十年来，当地一直在推进电车与地铁网络的重建工作，开启城市交通转型。",
+      "summary_original": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "650587c9",
+      "title": "中办、国办：深入实施节能产品政府强制采购和优先采购制度 - 东方财富",
+      "title_original": null,
+      "summary": "中共中央办公厅、国务院办公厅明确提出，要深入实施节能产品政府强制采购和优先采购制度，该政策可发挥政府采购的引导作用，推动节能产品推广普及，助力全社会绿色低碳转型，相关完整报道可在Google新闻平台的东方财富渠道查看。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CWXpsdmN0WmV5M3VOVHdBQW4ycUhSQnRqc2Z6MnZ6V0FnajZIN0JCUVJmVXAzMW1jejl4dWxfRGFPTFRwakNxdUJ3WVBieE5uT2RqWlZkXzA4aWR3UlE4dzFzMHFfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T09:32:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "417b9621",
+      "title": "安克推出自研芯片 将AI引入全产品线",
+      "title_original": "Anker made its own chip to bring AI to all its products",
+      "summary": "安克发布自研定制芯片，可在音频设备、移动配件、物联网设备中实现本地AI应用。这款名为Thus的处理器是全球首款存算一体神经网络AI音频芯片，较传统芯片体积更小，运行复杂计算的功耗更低。",
+      "summary_original": "Anker has announced its own custom silicon that the company says will bring local AI to audio devices, mobile accessories, and IoT devices. The Thus processor is the world's first neural-net compute-in-memory AI audio chip, which is smaller than traditional chips, and requires less power to run complex computations. That makes it an attractive solution [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T09:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ca661f78",
+      "title": "Anthropic最危险AI模型已落入不当人员之手",
+      "title_original": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "summary": "据彭博社报道，AI企业Anthropic研发的Mythos是一款功能强大的网络安全AI模型，该公司此前曾警示该模型若落入不当人员手中十分危险，目前它已被一小群未授权用户获取，一名身为Anthropic第三方承包商的匿名人员透露了相关情况。",
+      "summary_original": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-22T09:18:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ca661f78",
+      "title": "Anthropic最危险AI模型落入不当人员手中",
+      "title_original": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "summary": "彭博社披露，AI企业Anthropic开发的Mythos AI是一款功能强大的网络安全工具，该公司此前曾警示该模型若落入不当之手极具危险性，目前该模型已被一小群未授权用户访问，消息来自涉事方一名匿名的Anthropic第三方承包商。",
+      "summary_original": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-22T09:18:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7a688f83",
+      "title": "2026年福建省全民阅读活动周在福州启幕 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "2026年福建省全民阅读活动周在福州启幕，同期多地推出各类全民阅读相关活动：北京举办2026年“阅读北京”发布活动，江西鹰潭月湖区打造城市书房作为市民家门口的“精神粮仓”，多地还推出登山换“蔬”、穿汉服等多元趣味“悦读”活动，共染书香赓续文脉。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTWh3ZzQ5YXhRMjZRU1NHUVgybFU2YWRqbHIzT0NRWGQzU2c2RWFfNmk5d09KbEItcDNCM3pwLUQ2Qm5ETDZTSG1mLU5ZaERMMDA5MmJlWWZKaTlFaTBjOGFtRng5N3JZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T09:17:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "29b9eec6",
+      "title": "旅居阿联酋的伊朗侨民身陷家国两难",
+      "title_original": "Iranian Expats in U.A.E. Caught Between Home and Homeland",
+      "summary": "伊朗对阿联酋发动报复性袭击后，阿联酋境内规模庞大的伊朗侨民群体陷入尴尬处境。这些侨民长期旅居阿联酋，一边是安身生活的现居地，一边是出身故土的母国，特殊处境让他们左右为难。",
+      "summary_original": "Iran’s retaliatory attacks on the United Arab Emirates have put the U.A.E.’s large Iranian expatriate community in an uncomfortable position.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-dubai-iranians-promo/21int-dubai-iranians-1-kphw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T09:00:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ef075532",
+      "title": "驱逐威胁令俄在乌占领区营造的美好图景失色",
+      "title_original": "Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine",
+      "summary": "俄罗斯在其控制的乌克兰占领区出台一项新法律，要求当地乌克兰民众必须办理俄罗斯颁发的房屋产权证书，若不遵守将面临失去住房、被驱逐的风险，戳破了俄方此前在占领区营造的安稳向好的虚假局面。",
+      "summary_original": "A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22int-russia-mariupol-03-pgzf/22int-russia-mariupol-03-pgzf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T09:00:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2cf04a59",
+      "title": "澳大利亚天然气出口商桑托斯精简机构削减成本",
+      "title_original": "Australian Gas Exporter Santos Streamlines Firm to Cut Costs",
+      "summary": "据彭博社获悉的内部通知，澳大利亚天然气出口商桑托斯正对自身油气业务进行重组精简，以削减成本。桑托斯近年接连遭遇收购要约受阻，提升股东回报的压力不断上升，此次机构调整正是为应对这一压力。",
+      "summary_original": "Santos Ltd. is restructuring the company’s oil and gas business in order to cut costs, according to an internal notice seen by Bloomberg, after a string of stymied takeover bids in recent years that have raised pressure to increase shareholder returns.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir7kBypImVTw/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/australian-gas-exporter-santos-streamlines-business-to-cut-costs",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-22T08:46:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f43f82d1",
+      "title": "报告查明韩国战斗机相撞系飞行员拍照所致",
+      "title_original": "South Korean fighter jets collided due to pilots taking pictures, report finds",
+      "summary": "最新报告查明，韩国发生的一起战斗机相撞事故，诱因为飞行员在飞行过程中拍照。事故造成战机损坏，涉事的一名飞行员已被军方处以数千美元罚款，这笔罚款将用于承担事故产生的战机维修费用。",
+      "summary_original": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8517/live/d350fd30-3e1d-11f1-84f5-7fc596316150.jpg",
+      "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T08:35:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9774f240",
+      "title": "大国外交最前线丨将双边关系提升至新时代中莫命运共同体中莫关系迈上新台阶_新闻频道 - 厦门网",
+      "title_original": null,
+      "summary": "习近平同莫桑比克总统查波举行会谈，两国决定将双边关系提升至新时代中莫命运共同体，双方发布构建新时代中莫命运共同体的联合声明，中国国家发展改革委与莫桑比克有关部门签署三份合作文件，中莫关系迈上新台阶。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUGVoalEyRmZRd3FQUDV3R2huVFJQU3o5Mk5VYzVlRlFnWEhwM2lMQ1lMMk9QOFZoYjVDLUNNNzJjckl3bnBfNzJZRnN4WjFuMHBWM3E1OTlkWFl6NFZNSGhoMTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T08:01:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e238eb44",
+      "title": "36氪研究院 | 2026年中国银发经济产业研究报告",
+      "title_original": null,
+      "summary": "36氪研究院发布《2026年中国银发经济产业研究报告》，指出我国老龄化程度持续加深，中国银发经济已从传统基础养老保障，向覆盖“为老”“备老”的综合性产业体系扩容，增长潜力巨大。报告梳理六大核心增长赛道，构建产业发展评价体系，指明行业高质量发展方向。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260422/v2_fcfb6dd7c4ad499ab5f865d987aa758b@6292127_oswg260669oswg2392oswg1352_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3777435336807172?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-22T07:03:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "31b62a5d",
+      "title": "非洲多国撤销飞行许可后台湾地区领导人取消行程",
+      "title_original": "Taiwan president cancels trip after African countries revoke flight permits",
+      "summary": "多个非洲国家撤销台湾地区领导人出访专机的飞行许可后，该出访行程被迫取消。台湾方面声称，此举是中国大陆向非洲国家施压，要求相关国家对该专机关闭领空所致。",
+      "summary_original": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2001/live/709d01e0-3e11-11f1-bf14-b17d40018bbc.jpg",
+      "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T06:25:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "923d625e",
+      "title": "区域创新高地引领国家创新体系效能提升 - 中国社会科学院工业经济研究所",
+      "title_original": null,
+      "summary": "中国社会科学院工业经济研究所提出，区域创新高地能够引领国家创新体系效能提升。多家权威媒体围绕学习贯彻习近平新时代中国特色社会主义思想刊发相关内容，强调中国式现代化关键在科技现代化，指出核心技术靠化缘要不来，阐释推进科技自立自强的原创性贡献，彰显总书记的人民情怀。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXY29CeFUxS0JYSFh1a0VPNjNhajJTaDNYQ1dJV3puWmdnZ05GV2pKaU9LNFZKblFIdHFsSGlfTHNIdl8wVVRxWlRpajVPenh4Z0dBeDhXZmtobEpVVEFvX3ctOFFFdXBtNnVLZU5LdklIVmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T06:18:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7b6dc2b3",
+      "title": "印度三天内第二起烟花爆炸事故致十三人死亡",
+      "title_original": "Thirteen killed in second India fireworks blast in three days",
+      "summary": "印度三天内接连发生两起烟花爆炸事故，最新发生的第二起爆炸已造成13人死亡。本周早些时候，相邻的泰米尔纳德邦一处爆竹工厂发生爆炸，已造成至少25人死亡，两起爆炸共计造成至少38人死亡，损失惨重。",
+      "summary_original": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2a/live/8a776eb0-3df9-11f1-a9f3-a39646095998.jpg",
+      "link": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T05:55:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8778f21f",
+      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+      "title_original": null,
+      "summary": "杭州全域移动智能机器人企业具微科技，专注研发适配高危特种场景的轮式四足机器人，成立后两个月内接连完成4轮融资，总融资额达数亿元，获多家产业资本、国有资本强势入局。公司当前手握数亿元订单，预计2026出货上千台，融资资金将用于技术研发与场景规模化落地。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260422/v2_94510f80bacf4650a4adf2e7c8ff89de@5688585_oswg6337176oswg6000oswg3376_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3777491215913736?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-22T05:48:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8d7ee653",
+      "title": "报告称阿联酋支持的哥伦比亚雇佣兵为苏丹准军事组织提供支持",
+      "title_original": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
+      "summary": "冲突洞察小组发布研究显示，受阿联酋支持的哥伦比亚雇佣兵曾为苏丹准军事组织提供支持，该研究同时明确展现出阿联酋介入苏丹相关事务的程度，为外界了解苏丹局势的相关背景提供了新参考。",
+      "summary_original": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e52/live/1dd396e0-3e39-11f1-929e-dd2b5d4dae7a.jpg",
+      "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T04:01:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "91c34e77",
+      "title": "恐袭一周年 克什米尔小镇盼游客归来",
+      "title_original": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
+      "summary": "帕哈尔甘坐落于克什米尔，拥有陡峭峡谷、茵绿草坡与松林，是印度教朝圣活动的重要据点。该地一年前遭遇恐怖袭击，如今当地从业者盼借朝圣活动重振旅游，吸引游客重返小镇。",
+      "summary_original": "Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors.",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22india-kashmir-01-klqp/22india-kashmir-01-klqp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T04:00:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9c3f5ee2",
+      "title": "美国派飞机前往古巴接回跨性别监护权案涉事儿童",
+      "title_original": "U.S. Sends Plane to Cuba to Get Child in Transgender Custody Case",
+      "summary": "在一起跨性别监护权案件中，根据法庭文件显示，美国联邦调查局认为涉事儿童被一名跨性别家长绑架，该家长意图带孩子接受性别转变手术，美国已派出飞机前往古巴接回这名涉事儿童。",
+      "summary_original": "The F.B.I. believed the child was kidnapped by a transgender parent to potentially undergo gender transition surgery, according to court filings.",
+      "image": "https://static01.nyt.com/images/2026/05/21/multimedia/21cuba-parents-mwvz/21cuba-parents-mwvz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/21/world/americas/cuba-us-child-justice-department-transgender.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-22T03:50:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "64d6966c",
+      "title": "墨西哥官员称特奥蒂瓦坎枪击案枪手持有与美国大规模枪击案相关材料",
+      "title_original": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
+      "summary": "墨西哥官方披露特奥蒂瓦坎枪击案调查细节，涉事枪手持有与美国大规模枪击案相关的材料。该枪手曾多次到访事发的特奥蒂瓦坎考古遗址，目前调查显示，这起枪击案件应为枪手单独作案。",
+      "summary_original": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6a9/live/225875a0-3ddf-11f1-aca8-ed07a61c7b0f.jpg",
+      "link": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T03:11:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2d37b2ea",
+      "title": "视频丨日本民众举行集会反对政府修改武器出口规则_时政新闻 - 大众网",
+      "title_original": null,
+      "summary": "日本政府拟修改武器出口规则、解禁杀伤性武器出口，此举抛弃“专守防卫”原则，推动日本“再军事化”狂飙突进，暴露军事扩张野心，引发日本民众举行集会反对，多国学者及多家媒体均指出这一行为极其危险，警示其相关扩张妄动值得警惕。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SWHRIdmZETnNBYmJjUTJKdU5kZ2h1OG9JeG5ZNkVDdmlGdW5ncklhcl9ZQ18wRDlVck1CRWU1eVpFNjIxaVhyNTRnb1UzSl9pVl9lUGgxZk90dGk5cHlGVk9mamx4amw1bXJjNGU0S1FmeVo1Z1RwMXJHcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-22T02:39:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "90dd38d8",
+      "title": "红杉材料公司为布局储能业务重组 裁员10%",
+      "title_original": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "summary": "据科技媒体TechCrunch查阅到的内部邮件，红杉材料公司此次裁员10%属于团队重组动作，目的是调整内部配置，适配当前蓬勃发展的储能业务，集中资源推进该领域发展。",
+      "summary_original": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-22T00:37:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ffa70571",
+      "title": "经过一天紧张外交斡旋 特朗普为伊核协议争取时间",
+      "title_original": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "summary": "美国总统特朗普在一天紧张密集的外交活动后，做出相关决定为伊核协议争取到缓冲时间。这是特朗普短短两周内第二次放弃升级冲突的威胁，为相关协商和局势缓和留出更多空间。",
+      "summary_original": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db11/live/0b800030-3de1-11f1-93eb-a371fe7f0f0d.jpg",
+      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-22T00:32:10+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "bcb6c0ca",
+      "title": "伊朗威胁霍尔木兹并测试美国封锁（视频）",
+      "summary": "这是一条附带相关视频的新闻，内容涉及伊朗对霍尔木兹发出威胁，同时对美国的封锁展开测试，相关内容以视频形式呈现。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "869df07a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "869df07a",
+          "source": "Bloomberg",
+          "title": "伊朗威胁霍尔木兹并测试美国封锁（视频）",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-22/iran-menaces-hormuz-and-tests-us-blockade-video",
+          "published_at": "2026-04-22T13:04:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:04:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "222e3868",
+      "title": "人工智能产出更多潜在药物 这家初创欲筛选有价值候选",
+      "summary": "初创企业10x Science完成规模480万美元的种子轮融资，所筹资金将用于帮助制药研究人员解析复杂分子，从人工智能产出的大量潜在药物中，筛选出真正具备研发价值的候选对象。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "23dd20ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "23dd20ec",
+          "source": "TechCrunch",
+          "title": "人工智能产出更多潜在药物 这家初创欲筛选有价值候选",
+          "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+          "published_at": "2026-04-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d937459a",
+      "title": "快拍地图新增“地点忠诚度”徽章 可显示用户最常到访地点",
+      "summary": "Snap旗下快拍地图推出全新“地点忠诚度”徽章功能，若用户到访某一地点的频次进入该地点所有用户的前25%，即可在地图上看到自身排名，还可自主选择是否将该排名分享给他人。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "91ebd247"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "91ebd247",
+          "source": "TechCrunch",
+          "title": "快拍地图新增“地点忠诚度”徽章 可显示用户最常到访地点",
+          "link": "https://techcrunch.com/2026/04/22/snap-maps-new-place-loyalty-badges-will-show-the-spots-you-visit-most-often/",
+          "published_at": "2026-04-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "509d7cb5",
+      "title": "宝马旗舰7系迎来‘新世代’升级",
+      "summary": "宝马早在2021年就公布了“新世代”下一代纯电架构与设计语言，众多车迷一直关注该全新技术何时会落地到品牌旗舰7系。如今这一时刻终于到来，宝马已在纽约、北京两地举办活动，正式推出经“新世代”技术升级的新款7系。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3db63863"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3db63863",
+          "source": "The Verge",
+          "title": "宝马旗舰7系迎来‘新世代’升级",
+          "link": "https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs",
+          "published_at": "2026-04-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e565dc6e",
+      "title": "年度最诡异游戏：说不清，更放不下",
+      "summary": "有评测者体验了今年推出的怪异新作《钛金法庭》，这款游戏的特点就是难以用语言描述清楚，并非存在什么缄密规则，而是它本身的混搭复古特质本就如此。评测者已沉迷其中一周，始终难以停下体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "14fd4db0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "14fd4db0",
+          "source": "The Verge",
+          "title": "年度最诡异游戏：说不清，更放不下",
+          "link": "https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game",
+          "published_at": "2026-04-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "222e3868",
+      "title": "AI产出潜在药物数量创新高 这家初创拟筛选真正有价值者",
+      "summary": "当前人工智能可生成的潜在候选药物数量已经远超以往，初创企业10x Science已完成480万美元种子轮融资，所得资金将用于助力制药研究人员解析复杂分子，从海量候选中筛选出真正具备研发价值的药物。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "23dd20ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "23dd20ec",
+          "source": "TechCrunch AI",
+          "title": "AI产出潜在药物数量创新高 这家初创拟筛选真正有价值者",
+          "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+          "published_at": "2026-04-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8389202f",
+      "title": "伊朗战事实时更新：特朗普延长停火后伊朗武装宣称扣押两艘船只",
+      "summary": "据伊朗国家媒体报道，伊朗伊斯兰革命卫队宣称已在霍尔木兹海峡附近发动袭击并扣押两艘货船。尽管美国总统特朗普此前已经延长停火协议，相关各方仍在争夺霍尔木兹海峡这一关键国际航道的控制权。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-promo-ltmf/22israel-iran-promo-ltmf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "482e611d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "482e611d",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：特朗普延长停火后伊朗武装宣称扣押两艘船只",
+          "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+          "published_at": "2026-04-22T12:58:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:58:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7ba8497",
+      "title": "印度利率决策者决定观望冲突影响",
+      "summary": "最新公布的印度货币政策会议纪要显示，印度政策制定者已于4月决定暂停货币政策调整，以更清晰地掌握中东冲突引发的相关冲击，目前选择观望局势发展，再确定后续的政策方向。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwp_IyeTwVHY/v1/1200x-1.jpg",
+      "article_ids": [
+        "d99db14d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d99db14d",
+          "source": "Bloomberg",
+          "title": "印度利率决策者决定观望冲突影响",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/india-s-rate-setters-decided-to-wait-and-watch-conflict-impact",
+          "published_at": "2026-04-22T12:50:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:50:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8930d7b7",
+      "title": "加元与油价联动性减弱 做空押注增多",
+      "summary": "长期以来，油价上涨通常会带动加拿大元升值，加元走势与油价高度绑定的传统关系近期已发生改变。随着二者联动性不断走弱，市场上针对加元的做空押注进一步增加。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNzpDRAwZYrI/v3/1200x-1.png",
+      "article_ids": [
+        "18e1bfdd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "18e1bfdd",
+          "source": "Bloomberg",
+          "title": "加元与油价联动性减弱 做空押注增多",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/loonie-s-weakening-ties-to-oil-prices-amplifies-bets-against-it",
+          "published_at": "2026-04-22T12:46:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:46:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0f4d319d",
+      "title": "越南与韩国签署安全及核电站相关协议",
+      "summary": "越南与韩国两国领导人在河内举行会谈，会谈后双方共签署十二份合作协议，合作内容涉及安全、能源基础设施建设以及核电站项目等多个领域，将助力两国深化多领域的交流与合作。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijl1NETHXYJg/v1/1200x-1.jpg",
+      "article_ids": [
+        "d5a53863"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d5a53863",
+          "source": "Bloomberg",
+          "title": "越南与韩国签署安全及核电站相关协议",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/vietnam-south-korea-ink-deals-on-security-nuclear-power-plants",
+          "published_at": "2026-04-22T12:33:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:33:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8227f7b5",
+      "title": "法国下调增长预期 仍坚持2029年赤字目标",
+      "summary": "法国总统马克龙政府提出一项基于下调后未来三年经济增长预期的赤字削减计划，该国仍坚持原定的2029年赤字目标。更低的增长预期意味着法国管控公共财政将面临更大挑战。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLByUe4FhqG4/v1/1200x-1.jpg",
+      "article_ids": [
+        "426e9ae3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "426e9ae3",
+          "source": "Bloomberg",
+          "title": "法国下调增长预期 仍坚持2029年赤字目标",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/france-sticks-to-2029-deficit-goal-as-it-trims-growth-forecasts",
+          "published_at": "2026-04-22T12:33:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:33:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd54f11b",
+      "title": "欧盟拟向乌克兰提供1060亿美元贷款 因欧尔班推迟数月",
+      "summary": "因匈牙利总理维克多·欧尔班的反对，欧盟拟向乌克兰提供1060亿美元贷款的计划已陷入僵局长达数月。近日，欧盟各国大使已为发放这笔乌克兰亟需的资金迈出了关键一步。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-eu-ukraine-loan-01-cwlg/21int-eu-ukraine-loan-01-cwlg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f1616836"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f1616836",
+          "source": "NYTimes World",
+          "title": "欧盟拟向乌克兰提供1060亿美元贷款 因欧尔班推迟数月",
+          "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+          "published_at": "2026-04-22T12:19:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:19:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1664c6fa",
+      "title": "下载通讯：推介当下人工智能十大核心议题",
+      "summary": "这是工作日发行的每日科技通讯《下载通讯》的今日内容，本次推出当下人工智能十大核心议题策划。当前人工智能领域新发布层出不穷，炒作与各类警告混杂，难以分辨真正重要的内容，该策划旨在拨开乱象，梳理AI领域真正核心的议题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "85469e6c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "85469e6c",
+          "source": "MIT Technology Review",
+          "title": "下载通讯：推介当下人工智能十大核心议题",
+          "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+          "published_at": "2026-04-22T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb2dde3d",
+      "title": "2026谷歌云Next大会展出的最具看点初创企业",
+      "summary": "谷歌希望吸引人工智能领域初创企业入驻其谷歌云平台，已在2026年举办的年度谷歌云Next大会上，集中展出了一大批相关初创企业，此举既展现了一批新兴创新力量，也凸显谷歌云争夺AI赛道初创生态资源的布局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a242752b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a242752b",
+          "source": "TechCrunch",
+          "title": "2026谷歌云Next大会展出的最具看点初创企业",
+          "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "03592c7f",
+      "title": "多邻国现已向免费用户开放高级学习内容",
+      "summary": "语言学习平台多邻国调整内容开放权限，原本仅对付费订阅用户开放的高级语言学习内容，现已面向免费用户开放。免费用户无需付费订阅，即可接触学习此前仅对付费用户开放的内容，掌握对应语言技能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "32e32e8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "32e32e8a",
+          "source": "TechCrunch",
+          "title": "多邻国现已向免费用户开放高级学习内容",
+          "link": "https://techcrunch.com/2026/04/22/duolingo-is-now-giving-free-users-access-to-advanced-learning-content-that-was-previously-reserved-for-paid-subs/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f58e1413",
+      "title": "谷歌地图即将迎来大规模AI升级",
+      "summary": "谷歌计划将生成式人工智能融入旗下谷歌地图的热门功能中，这是谷歌推进产品智能化升级的重要布局，将有效提升谷歌地图的服务能力，为用户带来更智能便捷的位置服务与使用体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "96dad15c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "96dad15c",
+          "source": "TechCrunch",
+          "title": "谷歌地图即将迎来大规模AI升级",
+          "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4f88bdce",
+      "title": "独家：谷歌通过数十亿美元新交易深化与思维机器实验室的合作",
+      "summary": "科技媒体TechCrunch独家获悉，米拉·穆拉蒂的思维机器实验室已与谷歌云签署价值数十亿美元的协议，谷歌云将为其提供搭载英伟达最新GB300芯片的人工智能基础设施。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "14717484"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "14717484",
+          "source": "TechCrunch",
+          "title": "独家：谷歌通过数十亿美元新交易深化与思维机器实验室的合作",
+          "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "347bc792",
+      "title": "丹·克伦肖失势背后",
+      "summary": "2019年，36岁的美国得克萨斯州共和党籍新科国会议员丹·克伦肖，入选《时代》周刊\"下一代100人\"榜单。他是哈佛毕业的前海军海豹突击队成员，在阿富汗对抗塔利班时失去一目，曾是美国政坛备受瞩目的新星，如今光环褪去境遇急转直下。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8ea4a36a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8ea4a36a",
+          "source": "The Verge",
+          "title": "丹·克伦肖失势背后",
+          "link": "https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "be033660",
+      "title": "谷歌云推出全新AI芯片及智能体构建工具",
+      "summary": "谷歌母公司Alphabet旗下谷歌云部门正式发布了最新一代自研张量处理单元（TPU），这款专为AI计算打造的自研芯片，旨在提升人工智能计算服务的速度与运行效率。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6eLlvpFXMEk/v1/1200x-1.jpg",
+      "article_ids": [
+        "ca0afd8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ca0afd8d",
+          "source": "Bloomberg",
+          "title": "谷歌云推出全新AI芯片及智能体构建工具",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb2dde3d",
+      "title": "2026谷歌云Next大会展出的最具看点初创企业",
+      "summary": "谷歌希望吸引人工智能领域初创企业入驻自身云平台，在年度大会谷歌云Next 2026上，谷歌集中展示了一大批人工智能领域初创企业，这些参展的初创项目成为本次大会的核心看点，也是谷歌云招揽AI创业项目的重要举措。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a242752b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a242752b",
+          "source": "TechCrunch AI",
+          "title": "2026谷歌云Next大会展出的最具看点初创企业",
+          "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f58e1413",
+      "title": "谷歌地图即将迎来大规模AI加持",
+      "summary": "谷歌即将把生成式人工智能技术融入旗下热门服务谷歌地图的功能中，这是谷歌针对地图服务的重大智能化升级，将为谷歌地图注入大量AI能力，有望进一步提升用户的服务使用体验。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "96dad15c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "96dad15c",
+          "source": "TechCrunch AI",
+          "title": "谷歌地图即将迎来大规模AI加持",
+          "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4f88bdce",
+      "title": "独家：谷歌通过数十亿美元新交易深化与思考机器实验室的合作",
+      "summary": "科技媒体TechCrunch独家获悉，米拉·穆拉蒂旗下的思考机器实验室已与谷歌云签署价值数十亿美元的协议，谷歌云将为其提供搭载英伟达最新GB300芯片的人工智能基础设施，支撑其AI相关业务开展。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "14717484"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "14717484",
+          "source": "TechCrunch AI",
+          "title": "独家：谷歌通过数十亿美元新交易深化与思考机器实验室的合作",
+          "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+          "published_at": "2026-04-22T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "34611ff9",
+      "title": "世界地球日｜江苏用“生态答卷”守护美丽家园 - 新华报业网",
+      "summary": "世界地球日来临之际，国内多家媒体推出相关特别报道，内容涵盖辽宁启动世界地球日活动周、江苏晒出生态治理“答卷”守护家园等，还有媒体通过卫星遥感图直观展现中国生态保护成效，聚焦中国携手世界守护地球家园，展现中国的绿色担当。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cd5921da"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cd5921da",
+          "source": "Google News (中国)",
+          "title": "世界地球日｜江苏用“生态答卷”守护美丽家园 - 新华报业网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vWGRSYUhMTzJIM3haZ1NXSU1IejlxU0FmSHVFMXIydjhHcFc4a0cyWUpnZ01FcTRROXd3c21uNVVIekZ2Y1dzTHo4aXZYUXcyeFRlRlR5eUp0OXB0VGN4YmdUVGtKeHo0Mnpj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T11:52:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:52:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71349d24",
+      "title": "欧洲央行官员称四月决定加息为时过早",
+      "summary": "两名欧洲央行官员近日公开表态，认为在四月就敲定加息事宜为时过早。他们表示，目前伊朗冲突带来的全部影响仍不明确，此时上调借贷成本的时机尚未成熟，不宜仓促做出加息决定。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io_JbHhU34cU/v1/1200x-1.jpg",
+      "article_ids": [
+        "0c8a94bb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0c8a94bb",
+          "source": "Bloomberg",
+          "title": "欧洲央行官员称四月决定加息为时过早",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-stournaras-says-central-bank-should-wait-on-rate-hike",
+          "published_at": "2026-04-22T11:40:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:40:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7a560a4",
+      "title": "新闻8点见丨英雄回家！12位在韩中国人民志愿军烈士遗骸归国 - 新京报",
+      "summary": "第十三批共12位在韩中国人民志愿军烈士遗骸归国，引发国内各界关注，多家媒体纷纷对此事进行报道，内容既包含向志愿军英烈致敬的内容，也记录下老兵不愿添麻烦放弃赴沈阳迎战友、丹东民众迎接英雄等动人细节，全社会共迎英雄回家。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "793ee2ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "793ee2ae",
+          "source": "Google News (中国)",
+          "title": "新闻8点见丨英雄回家！12位在韩中国人民志愿军烈士遗骸归国 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNRDlQQ2ZBZ2JFLVV4bEhUa2wzcTd2WlNVemZQSElBeXNJYk9LcXFNY3RHcUZZQWpUZ29RWlZFZjFIdExZMEg5alktbENnb2xRMy12aTAtSlNzN1RLcGJQMk1Va2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T11:31:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:31:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4d3ecd29",
+      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+      "summary": "中办、国办对外发布关于更高水平更高质量做好节能降碳工作的重磅意见。4月下旬，快手在杭州启动618商家大会，宣布2026年投入千亿流量扶持优质供给；OpenAI正洽谈至多15亿美元投资私募合资企业抢占企业AI市场，另有多家企业完成融资、发布AI新品，长三角一季度进出口创同期历史新高。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b6604b03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b6604b03",
+          "source": "36氪",
+          "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+          "link": "https://36kr.com/p/3774776026874375?f=rss",
+          "published_at": "2026-04-22T11:26:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:26:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a79f0f47",
+      "title": "欧盟批准对乌900亿欧元贷款 输油管道重启打破僵局",
+      "summary": "欧盟已批准向乌克兰提供总额900亿欧元的贷款，与此同时，乌克兰宣布重新开放德鲁日巴输油管道。此前该管道对邻国匈牙利的石油供应已停滞数月，相关供应僵局因管道重启被打破。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40de/live/992a3f20-3e29-11f1-b55d-0f258dce1735.jpg",
+      "article_ids": [
+        "64cb752d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "64cb752d",
+          "source": "BBC World",
+          "title": "欧盟批准对乌900亿欧元贷款 输油管道重启打破僵局",
+          "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T11:19:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:19:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0c6995b",
+      "title": "利奥教皇访问行程跳过非洲数个主要天主教国家",
+      "summary": "教皇利奥抵达非洲小型威权国家赤道几内亚，开启访非行程。此次行程跳过了非洲多个规模较大的天主教国家，非洲不少天主教徒虽对教皇访非感到兴奋，却也因自身所在国未被纳入行程略感被冷落。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-pope-africa-snubbed-1-cjhp/20int-pope-africa-snubbed-1-cjhp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c2e4337f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c2e4337f",
+          "source": "NYTimes World",
+          "title": "利奥教皇访问行程跳过非洲数个主要天主教国家",
+          "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+          "published_at": "2026-04-22T11:04:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:04:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "750e179c",
+      "title": "先扫一室，再扫天下",
+      "summary": "不少初创企业要花费数年才能打响品牌知名度，原本知名度不高的中国扫地机器人企业追觅另辟蹊径，斥资1000万美元拿下超级碗的30秒广告位作为开局，怀揣成为全球消费电子巨头的雄心。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "343fd8d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "343fd8d7",
+          "source": "The Verge",
+          "title": "先扫一室，再扫天下",
+          "link": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
+          "published_at": "2026-04-22T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc1ddcb4",
+      "title": "中国载人航天工程首批外籍航天员选拔工作顺利完成 2名巴基斯坦籍候选对象最终入选 - 人民网财经",
+      "summary": "中国载人航天工程首批外籍航天员选拔工作已顺利完成，最终两名巴基斯坦籍候选对象成功入选。此次选拔完成后，中国空间站将迎来首位外籍航天员进驻，这是中国载人航天工程开展国际开放合作取得的实质性进展，具备重要标志性意义。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8d3cd9b9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8d3cd9b9",
+          "source": "Google News (中国)",
+          "title": "中国载人航天工程首批外籍航天员选拔工作顺利完成 2名巴基斯坦籍候选对象最终入选 - 人民网财经",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HYXVmdHJuT056d25hR0hlNmJKLW5BLXFBdFdvSHVCcG1Fb1JpdHB2SkdsQXlsYmlENkFsbnBoUlIyRmlDNGpTUmN5dlpBVFg5Q20wQ253cHh3LTZuZ1J6SFdDZGVqMEVQSHhYV3pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T10:41:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:41:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6ffd9db7",
+      "title": "赖清德拟窜访被迫取消 国台办：一个中国原则是大势所趋、大义所在、人心所向 - 新华网",
+      "summary": "\"台独\"分裂分子赖清德计划窜访斯威士兰（史瓦帝尼），因无法取得飞行许可被迫取消行程。国台办强调一个中国原则是大势所趋、大义所在、人心所向，外交部直指赖清德此次窜谋是自取其辱，一个中国原则得到国际社会普遍认同。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e279b5a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e279b5a0",
+          "source": "Google News (中国)",
+          "title": "赖清德拟窜访被迫取消 国台办：一个中国原则是大势所趋、大义所在、人心所向 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FT3NlNDFHb3BLVE9BODdfSW1jTVoyclYyT0V0QkJlOW9NSEdiOWRqMlVva1RIMF9aV05EZGxjbWczTzNRUy1hbngtS3U5MmFramJOQ2dpbmtSNWs5SjhZMFM5c2QydUhSZC1yVlVZV0UwdGk3QkpXaktIUFQ3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T10:39:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:39:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3be9fbdf",
+      "title": "韩正集体会见出席全球共享发展行动论坛第三届高级别会议外方代表 - 中国驻白俄罗斯大使馆",
+      "summary": "韩正集体会见出席全球共享发展行动论坛第三届高级别会议的外方代表，本次事件的完整报道由中国驻白俄罗斯大使馆发布在Google新闻平台，感兴趣的读者可前往该平台查看完整内容，了解本次会见的更多相关详情。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "371d7d67"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "371d7d67",
+          "source": "Google News (中国)",
+          "title": "韩正集体会见出席全球共享发展行动论坛第三届高级别会议外方代表 - 中国驻白俄罗斯大使馆",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lTGd4Rlk5YkJRRGF1YlVpam1aSEJSMktsb2RyVEFEZDhuV0dZeE8yenRYcU5QUUthVnkxTEJNV2NaSC13MnhXWHNmV1FMWTJOV3h0WXp2SjZLeVprRFpMU0I4RXU0MEN3dXN6WUFrR0pxLUlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T10:38:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:38:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3f9b3817",
+      "title": "燃油价格飙升 汉莎航空削减2万个夏季航班",
+      "summary": "美以与伊朗的冲突推高航空燃油价格，多家航企已相继削减航班，汉莎航空成为最新一家调整运营计划的航企，将在夏季航季削减共计2万个航班，以应对燃油成本飙升带来的运营压力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e298/live/63872c10-3e43-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "679b0a80"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "679b0a80",
+          "source": "BBC World",
+          "title": "燃油价格飙升 汉莎航空削减2万个夏季航班",
+          "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T10:31:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:31:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "89e864cb",
+      "title": "人工智能需强大数据编织方能释放商业价值",
+      "summary": "人工智能正快速融入企业，从试验阶段转向日常应用，不少企业已在财务、供应链、人力资源、客户运营等多领域，部署智能副驾、智能代理、预测系统等各类AI工具。近期调查显示，到2025年底，将有半数企业在至少三个业务职能中应用AI。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e48afa0a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "e48afa0a",
+          "source": "MIT Technology Review",
+          "title": "人工智能需强大数据编织方能释放商业价值",
+          "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+          "published_at": "2026-04-22T10:05:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:05:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0948e70",
+      "title": "米歇尔·金近期喜爱的三样事物",
+      "summary": "米歇尔·金分享自己当下喜爱的内容，其中重点介绍了韩国虚拟偶像女团异世界偶像。该团体由韩国虚拟主播Woowakgood打造，成员借助动作捕捉以动漫风数字形象演出，六名成员全部保持匿名，是区别于传统偶像的新型演艺形式。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b8951309"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "b8951309",
+          "source": "MIT Technology Review",
+          "title": "米歇尔·金近期喜爱的三样事物",
+          "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+          "published_at": "2026-04-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c5edc6c",
+      "title": "某小镇清理野雁计划",
+      "summary": "二月一个晴朗午后，作者和弟弟驱车途中临时停车，发现狗公园旁的草地上停留着一群加拿大雁。作者踮脚走过满地雁粪靠近后，看到其中一只雁的黑颈上套着带有GPS追踪器的白色项圈，该追踪器属于小镇清理野雁计划的一部分。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3015e411"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "3015e411",
+          "source": "MIT Technology Review",
+          "title": "某小镇清理野雁计划",
+          "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+          "published_at": "2026-04-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6298fd2a",
+      "title": "大自然已不复存在",
+      "summary": "人们通常认为，自然是未经人类改造的岩石、野生动植物等事物。但如今地球上几乎找不到完全不受人类活动影响的区域，科学家已在巴西雨林中发现微塑料，人类活动的影响已经渗透到传统认知里的原始自然环境中。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2b392b39"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "2b392b39",
+          "source": "MIT Technology Review",
+          "title": "大自然已不复存在",
+          "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+          "published_at": "2026-04-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e922b40b",
+      "title": "洛杉矶终于开启地下轨道交通建设",
+      "summary": "洛杉矶素来是公认的典型汽车城，面积达2200平方英里的城市发展节奏由宽阔主干道与高速路网主导。它曾拥有世界级的轨道交通系统，过去三十年来，当地一直在推进电车与地铁网络的重建工作，开启城市交通转型。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1b8bb1c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "1b8bb1c5",
+          "source": "MIT Technology Review",
+          "title": "洛杉矶终于开启地下轨道交通建设",
+          "link": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+          "published_at": "2026-04-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1968786",
+      "title": "中办、国办：深入实施节能产品政府强制采购和优先采购制度 - 东方财富",
+      "summary": "中共中央办公厅、国务院办公厅明确提出，要深入实施节能产品政府强制采购和优先采购制度，该政策可发挥政府采购的引导作用，推动节能产品推广普及，助力全社会绿色低碳转型，相关完整报道可在Google新闻平台的东方财富渠道查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "650587c9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "650587c9",
+          "source": "Google News (中国)",
+          "title": "中办、国办：深入实施节能产品政府强制采购和优先采购制度 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CWXpsdmN0WmV5M3VOVHdBQW4ycUhSQnRqc2Z6MnZ6V0FnajZIN0JCUVJmVXAzMW1jejl4dWxfRGFPTFRwakNxdUJ3WVBieE5uT2RqWlZkXzA4aWR3UlE4dzFzMHFfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T09:32:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:32:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "503bdc6e",
+      "title": "安克推出自研芯片 将AI引入全产品线",
+      "summary": "安克发布自研定制芯片，可在音频设备、移动配件、物联网设备中实现本地AI应用。这款名为Thus的处理器是全球首款存算一体神经网络AI音频芯片，较传统芯片体积更小，运行复杂计算的功耗更低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "417b9621"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "417b9621",
+          "source": "The Verge",
+          "title": "安克推出自研芯片 将AI引入全产品线",
+          "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+          "published_at": "2026-04-22T09:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ddbeef12",
+      "title": "Anthropic最危险AI模型已落入不当人员之手",
+      "summary": "据彭博社报道，AI企业Anthropic研发的Mythos是一款功能强大的网络安全AI模型，该公司此前曾警示该模型若落入不当人员手中十分危险，目前它已被一小群未授权用户获取，一名身为Anthropic第三方承包商的匿名人员透露了相关情况。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ca661f78"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ca661f78",
+          "source": "The Verge",
+          "title": "Anthropic最危险AI模型已落入不当人员之手",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+          "published_at": "2026-04-22T09:18:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:18:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ddbeef12",
+      "title": "Anthropic最危险AI模型落入不当人员手中",
+      "summary": "彭博社披露，AI企业Anthropic开发的Mythos AI是一款功能强大的网络安全工具，该公司此前曾警示该模型若落入不当之手极具危险性，目前该模型已被一小群未授权用户访问，消息来自涉事方一名匿名的Anthropic第三方承包商。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ca661f78"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "ca661f78",
+          "source": "The Verge AI",
+          "title": "Anthropic最危险AI模型落入不当人员手中",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+          "published_at": "2026-04-22T09:18:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:18:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b40b24e8",
+      "title": "2026年福建省全民阅读活动周在福州启幕 - chinanews.com.cn",
+      "summary": "2026年福建省全民阅读活动周在福州启幕，同期多地推出各类全民阅读相关活动：北京举办2026年“阅读北京”发布活动，江西鹰潭月湖区打造城市书房作为市民家门口的“精神粮仓”，多地还推出登山换“蔬”、穿汉服等多元趣味“悦读”活动，共染书香赓续文脉。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7a688f83"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7a688f83",
+          "source": "Google News (中国)",
+          "title": "2026年福建省全民阅读活动周在福州启幕 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTWh3ZzQ5YXhRMjZRU1NHUVgybFU2YWRqbHIzT0NRWGQzU2c2RWFfNmk5d09KbEItcDNCM3pwLUQ2Qm5ETDZTSG1mLU5ZaERMMDA5MmJlWWZKaTlFaTBjOGFtRng5N3JZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T09:17:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:17:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef26ce89",
+      "title": "旅居阿联酋的伊朗侨民身陷家国两难",
+      "summary": "伊朗对阿联酋发动报复性袭击后，阿联酋境内规模庞大的伊朗侨民群体陷入尴尬处境。这些侨民长期旅居阿联酋，一边是安身生活的现居地，一边是出身故土的母国，特殊处境让他们左右为难。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-dubai-iranians-promo/21int-dubai-iranians-1-kphw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "29b9eec6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "29b9eec6",
+          "source": "NYTimes World",
+          "title": "旅居阿联酋的伊朗侨民身陷家国两难",
+          "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html",
+          "published_at": "2026-04-22T09:00:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:00:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8befa7f5",
+      "title": "驱逐威胁令俄在乌占领区营造的美好图景失色",
+      "summary": "俄罗斯在其控制的乌克兰占领区出台一项新法律，要求当地乌克兰民众必须办理俄罗斯颁发的房屋产权证书，若不遵守将面临失去住房、被驱逐的风险，戳破了俄方此前在占领区营造的安稳向好的虚假局面。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22int-russia-mariupol-03-pgzf/22int-russia-mariupol-03-pgzf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ef075532"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ef075532",
+          "source": "NYTimes World",
+          "title": "驱逐威胁令俄在乌占领区营造的美好图景失色",
+          "link": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
+          "published_at": "2026-04-22T09:00:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T09:00:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "29318495",
+      "title": "澳大利亚天然气出口商桑托斯精简机构削减成本",
+      "summary": "据彭博社获悉的内部通知，澳大利亚天然气出口商桑托斯正对自身油气业务进行重组精简，以削减成本。桑托斯近年接连遭遇收购要约受阻，提升股东回报的压力不断上升，此次机构调整正是为应对这一压力。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir7kBypImVTw/v1/1200x-1.jpg",
+      "article_ids": [
+        "2cf04a59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2cf04a59",
+          "source": "Bloomberg",
+          "title": "澳大利亚天然气出口商桑托斯精简机构削减成本",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-22/australian-gas-exporter-santos-streamlines-business-to-cut-costs",
+          "published_at": "2026-04-22T08:46:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T08:46:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e783cc59",
+      "title": "报告查明韩国战斗机相撞系飞行员拍照所致",
+      "summary": "最新报告查明，韩国发生的一起战斗机相撞事故，诱因为飞行员在飞行过程中拍照。事故造成战机损坏，涉事的一名飞行员已被军方处以数千美元罚款，这笔罚款将用于承担事故产生的战机维修费用。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8517/live/d350fd30-3e1d-11f1-84f5-7fc596316150.jpg",
+      "article_ids": [
+        "f43f82d1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f43f82d1",
+          "source": "BBC World",
+          "title": "报告查明韩国战斗机相撞系飞行员拍照所致",
+          "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T08:35:34+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T08:35:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c978ac7c",
+      "title": "大国外交最前线丨将双边关系提升至新时代中莫命运共同体中莫关系迈上新台阶_新闻频道 - 厦门网",
+      "summary": "习近平同莫桑比克总统查波举行会谈，两国决定将双边关系提升至新时代中莫命运共同体，双方发布构建新时代中莫命运共同体的联合声明，中国国家发展改革委与莫桑比克有关部门签署三份合作文件，中莫关系迈上新台阶。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9774f240"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9774f240",
+          "source": "Google News (中国)",
+          "title": "大国外交最前线丨将双边关系提升至新时代中莫命运共同体中莫关系迈上新台阶_新闻频道 - 厦门网",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqUGVoalEyRmZRd3FQUDV3R2huVFJQU3o5Mk5VYzVlRlFnWEhwM2lMQ1lMMk9QOFZoYjVDLUNNNzJjckl3bnBfNzJZRnN4WjFuMHBWM3E1OTlkWFl6NFZNSGhoMTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T08:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T08:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5559920",
+      "title": "36氪研究院 | 2026年中国银发经济产业研究报告",
+      "summary": "36氪研究院发布《2026年中国银发经济产业研究报告》，指出我国老龄化程度持续加深，中国银发经济已从传统基础养老保障，向覆盖“为老”“备老”的综合性产业体系扩容，增长潜力巨大。报告梳理六大核心增长赛道，构建产业发展评价体系，指明行业高质量发展方向。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260422/v2_fcfb6dd7c4ad499ab5f865d987aa758b@6292127_oswg260669oswg2392oswg1352_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "e238eb44"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e238eb44",
+          "source": "36氪",
+          "title": "36氪研究院 | 2026年中国银发经济产业研究报告",
+          "link": "https://36kr.com/p/3777435336807172?f=rss",
+          "published_at": "2026-04-22T07:03:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T07:03:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb1f00eb",
+      "title": "非洲多国撤销飞行许可后台湾地区领导人取消行程",
+      "summary": "多个非洲国家撤销台湾地区领导人出访专机的飞行许可后，该出访行程被迫取消。台湾方面声称，此举是中国大陆向非洲国家施压，要求相关国家对该专机关闭领空所致。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2001/live/709d01e0-3e11-11f1-bf14-b17d40018bbc.jpg",
+      "article_ids": [
+        "31b62a5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "31b62a5d",
+          "source": "BBC World",
+          "title": "非洲多国撤销飞行许可后台湾地区领导人取消行程",
+          "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T06:25:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T06:25:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c09acabc",
+      "title": "区域创新高地引领国家创新体系效能提升 - 中国社会科学院工业经济研究所",
+      "summary": "中国社会科学院工业经济研究所提出，区域创新高地能够引领国家创新体系效能提升。多家权威媒体围绕学习贯彻习近平新时代中国特色社会主义思想刊发相关内容，强调中国式现代化关键在科技现代化，指出核心技术靠化缘要不来，阐释推进科技自立自强的原创性贡献，彰显总书记的人民情怀。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "923d625e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "923d625e",
+          "source": "Google News (中国)",
+          "title": "区域创新高地引领国家创新体系效能提升 - 中国社会科学院工业经济研究所",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXY29CeFUxS0JYSFh1a0VPNjNhajJTaDNYQ1dJV3puWmdnZ05GV2pKaU9LNFZKblFIdHFsSGlfTHNIdl8wVVRxWlRpajVPenh4Z0dBeDhXZmtobEpVVEFvX3ctOFFFdXBtNnVLZU5LdklIVmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T06:18:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T06:18:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "11df14b9",
+      "title": "印度三天内第二起烟花爆炸事故致十三人死亡",
+      "summary": "印度三天内接连发生两起烟花爆炸事故，最新发生的第二起爆炸已造成13人死亡。本周早些时候，相邻的泰米尔纳德邦一处爆竹工厂发生爆炸，已造成至少25人死亡，两起爆炸共计造成至少38人死亡，损失惨重。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2a/live/8a776eb0-3df9-11f1-a9f3-a39646095998.jpg",
+      "article_ids": [
+        "7b6dc2b3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7b6dc2b3",
+          "source": "BBC World",
+          "title": "印度三天内第二起烟花爆炸事故致十三人死亡",
+          "link": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T05:55:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T05:55:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3582952e",
+      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+      "summary": "杭州全域移动智能机器人企业具微科技，专注研发适配高危特种场景的轮式四足机器人，成立后两个月内接连完成4轮融资，总融资额达数亿元，获多家产业资本、国有资本强势入局。公司当前手握数亿元订单，预计2026出货上千台，融资资金将用于技术研发与场景规模化落地。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260422/v2_94510f80bacf4650a4adf2e7c8ff89de@5688585_oswg6337176oswg6000oswg3376_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "8778f21f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "8778f21f",
+          "source": "36氪",
+          "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+          "link": "https://36kr.com/p/3777491215913736?f=rss",
+          "published_at": "2026-04-22T05:48:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T05:48:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "737f7e27",
+      "title": "报告称阿联酋支持的哥伦比亚雇佣兵为苏丹准军事组织提供支持",
+      "summary": "冲突洞察小组发布研究显示，受阿联酋支持的哥伦比亚雇佣兵曾为苏丹准军事组织提供支持，该研究同时明确展现出阿联酋介入苏丹相关事务的程度，为外界了解苏丹局势的相关背景提供了新参考。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e52/live/1dd396e0-3e39-11f1-929e-dd2b5d4dae7a.jpg",
+      "article_ids": [
+        "8d7ee653"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8d7ee653",
+          "source": "BBC World",
+          "title": "报告称阿联酋支持的哥伦比亚雇佣兵为苏丹准军事组织提供支持",
+          "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T04:01:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T04:01:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e9b54ce",
+      "title": "恐袭一周年 克什米尔小镇盼游客归来",
+      "summary": "帕哈尔甘坐落于克什米尔，拥有陡峭峡谷、茵绿草坡与松林，是印度教朝圣活动的重要据点。该地一年前遭遇恐怖袭击，如今当地从业者盼借朝圣活动重振旅游，吸引游客重返小镇。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22india-kashmir-01-klqp/22india-kashmir-01-klqp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "91c34e77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "91c34e77",
+          "source": "NYTimes World",
+          "title": "恐袭一周年 克什米尔小镇盼游客归来",
+          "link": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
+          "published_at": "2026-04-22T04:00:09+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T04:00:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "db48936b",
+      "title": "美国派飞机前往古巴接回跨性别监护权案涉事儿童",
+      "summary": "在一起跨性别监护权案件中，根据法庭文件显示，美国联邦调查局认为涉事儿童被一名跨性别家长绑架，该家长意图带孩子接受性别转变手术，美国已派出飞机前往古巴接回这名涉事儿童。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/21/multimedia/21cuba-parents-mwvz/21cuba-parents-mwvz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "9c3f5ee2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "9c3f5ee2",
+          "source": "NYTimes World",
+          "title": "美国派飞机前往古巴接回跨性别监护权案涉事儿童",
+          "link": "https://www.nytimes.com/2026/04/21/world/americas/cuba-us-child-justice-department-transgender.html",
+          "published_at": "2026-04-22T03:50:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T03:50:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "72f91ede",
+      "title": "墨西哥官员称特奥蒂瓦坎枪击案枪手持有与美国大规模枪击案相关材料",
+      "summary": "墨西哥官方披露特奥蒂瓦坎枪击案调查细节，涉事枪手持有与美国大规模枪击案相关的材料。该枪手曾多次到访事发的特奥蒂瓦坎考古遗址，目前调查显示，这起枪击案件应为枪手单独作案。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6a9/live/225875a0-3ddf-11f1-aca8-ed07a61c7b0f.jpg",
+      "article_ids": [
+        "64d6966c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "64d6966c",
+          "source": "BBC World",
+          "title": "墨西哥官员称特奥蒂瓦坎枪击案枪手持有与美国大规模枪击案相关材料",
+          "link": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T03:11:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T03:11:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21bcd475",
+      "title": "视频丨日本民众举行集会反对政府修改武器出口规则_时政新闻 - 大众网",
+      "summary": "日本政府拟修改武器出口规则、解禁杀伤性武器出口，此举抛弃“专守防卫”原则，推动日本“再军事化”狂飙突进，暴露军事扩张野心，引发日本民众举行集会反对，多国学者及多家媒体均指出这一行为极其危险，警示其相关扩张妄动值得警惕。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "2d37b2ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2d37b2ea",
+          "source": "Google News (中国)",
+          "title": "视频丨日本民众举行集会反对政府修改武器出口规则_时政新闻 - 大众网",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SWHRIdmZETnNBYmJjUTJKdU5kZ2h1OG9JeG5ZNkVDdmlGdW5ncklhcl9ZQ18wRDlVck1CRWU1eVpFNjIxaVhyNTRnb1UzSl9pVl9lUGgxZk90dGk5cHlGVk9mamx4amw1bXJjNGU0S1FmeVo1Z1RwMXJHcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-22T02:39:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T02:39:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8440a22",
+      "title": "红杉材料公司为布局储能业务重组 裁员10%",
+      "summary": "据科技媒体TechCrunch查阅到的内部邮件，红杉材料公司此次裁员10%属于团队重组动作，目的是调整内部配置，适配当前蓬勃发展的储能业务，集中资源推进该领域发展。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "90dd38d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "90dd38d8",
+          "source": "TechCrunch",
+          "title": "红杉材料公司为布局储能业务重组 裁员10%",
+          "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+          "published_at": "2026-04-22T00:37:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T00:37:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "733cecf1",
+      "title": "经过一天紧张外交斡旋 特朗普为伊核协议争取时间",
+      "summary": "美国总统特朗普在一天紧张密集的外交活动后，做出相关决定为伊核协议争取到缓冲时间。这是特朗普短短两周内第二次放弃升级冲突的威胁，为相关协商和局势缓和留出更多空间。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db11/live/0b800030-3de1-11f1-93eb-a371fe7f0f0d.jpg",
+      "article_ids": [
+        "ffa70571"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ffa70571",
+          "source": "BBC World",
+          "title": "经过一天紧张外交斡旋 特朗普为伊核协议争取时间",
+          "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-22T00:32:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-22T00:32:10+00:00",
+      "is_merged": false
+    }
+  ]
+}
