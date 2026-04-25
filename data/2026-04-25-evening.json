@@ -1,0 +1,2411 @@
+{
+  "date": "2026-04-25",
+  "edition": "evening",
+  "updated_at": "2026-04-25T21:24:14.296217+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "a6c10ed7",
+      "title": "美国司法部结束对鲍威尔调查 为凯文·沃什铺平道路",
+      "title_original": "DOJ Drops Powell Probe, Smoothing Path for Kevin Warsh",
+      "summary": "美国司法部宣布将结束对美联储现任主席杰罗姆·鲍威尔的刑事调查，此举意在扫清阻碍凯文·沃什作为美联储主席潜在继任者获得提名确认的障碍。彭博社两名记者将在该媒体周末节目中围绕此事展开讨论。",
+      "summary_original": "The Justice Department said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, an attempt to clear the obstacle that has stalled Kevin Warsh's confirmation as his possible successor. Bloomberg News Justice Department Reporter Chris Strohm and Reporter Enda Curran join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG4gXNQBPlB8/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-25/doj-drops-powell-probe-smoothing-path-for-kevin-warsh-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T12:30:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7f6f9213",
+      "title": "比特币悄然上涨 交易员瞄准8万美元",
+      "title_original": "Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000",
+      "summary": "比特币自今年1月以来首次逼近8万美元关口，这轮悄然上涨并非由市场狂热情绪推动，动力主要来自空头回补，以及企业Strategy Inc.的持续买入增持，目前交易员已将目标价位看向8万美元。",
+      "summary_original": "Bitcoin is approaching $80,000 for the first time since January &mdash; a stealth recovery built not on euphoria but on short covering and the relentless accumulation by one company: Strategy Inc.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieLWH7eWyjyo/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f83663dc",
+      "title": "俄罗斯对乌克兰发动大规模袭击 已致七人死亡",
+      "title_original": "Seven dead in major Russian attack on Ukraine",
+      "summary": "俄罗斯对乌克兰发动大规模袭击，总计造成七人死亡。受灾最为严重的是乌克兰第聂伯罗市，当地官员通报，此次袭击中针对该市一栋居民住宅楼的打击，已造成四人死亡。",
+      "summary_original": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/e47f40a0-408c-11f1-8d6e-339f25b16267.jpg",
+      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T12:29:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a90dadf2",
+      "title": "伊朗拒绝对话，白宫向巴基斯坦派团",
+      "title_original": "White House Sends Team to Pakistan as Iran Balks at Talks",
+      "summary": "特朗普已派遣特使前往巴基斯坦，计划与伊朗官员会晤。当前这场持续八周的战事搅动全球经济，伊朗方面对结束战事的和谈前景持悲观态度。彭博社周末节目将邀请多名资深记者讨论这一局势。",
+      "summary_original": "President Donald Trump has sent envoys to Pakistan with the intention of meeting with Iranian officials, while Tehran sounded a pessimistic tone on the prospects for talks to end the eight-week war roiling the global economy. Bloomberg News Deputy UAE Bureau Chief Abeer Abu Omar, Washington Correspondent Josh Wingrove and Senior Reporter Dan Strumpf join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOsM4N1yc1Wg/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-25/trump-sends-team-to-pakistan-as-iran-balks-at-talks-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T12:24:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a9022697",
+      "title": "美联储可对Anthropic最新AI系统采取哪些措施",
+      "title_original": "What the Fed Can Do About Anthropic’s Latest System",
+      "summary": "AI企业Anthropic推出可检测严重网络安全风险的最新AI系统，该系统可脱离人类监督自主高速运行，还能检测银行软件漏洞，因能力过强暂不公开发布。美国财长与美联储主席召集大型银行高管讨论该模型带来的风险，专家正探讨相关手段能否保障金融体系安全。",
+      "summary_original": "Anthropic says its newest AI system can detect serious cybersecurity risks, but the new technology is so powerful that the company is holding back public release. The nearly autonomous system can detect banking software vulnerabilities and spawn sub-agents that operate without human oversight at unprecedented speed. Treasury Secretary Scott Bessent and Fed Chair Jay Powell took the unusual step of calling in major bank leaders to discuss the risks raised by the new model. Experts weigh in on whe",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mmXMqp_t2E/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T12:03:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b67de9f8",
+      "title": "三宅唱解答人生终极问题",
+      "title_original": "Sho Miyake answers life’s greatest questions",
+      "summary": "知名日本导演三宅唱已抵达美国，此次他带来《小，慢而稳》与《两个季节，两个陌生人》两部剧情长片。两部作品均为自然主义风格，聚焦人类渴望与他人建立联结的不安情绪，隐遁与不安是三宅唱创作中一以贯之的核心基调。",
+      "summary_original": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy human desire to relate to other people. Seclusion and unease are bedrocks to Miyake's growing filmography. \"I like these [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "73b4e3a5",
+      "title": "长久以来最令我惊艳的笔记本电脑",
+      "title_original": "The most exciting laptop I’ve seen in forever",
+      "summary": "这是The Verge内容专栏《Installer》的第125期，栏目主打推介全球优质有趣的内容，新读者可在专栏主页阅读全部往期内容，本期作者整理分享了NASA裁缝、摩擦力、“马斯克主义”、滑板车等多个议题。",
+      "summary_original": "Hi, friends! Welcome to Installer No. 125, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me cereal recommendations, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about NASA seamstresses and friction and Muskism and scooters, highlighting [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "db52e0bc",
+      "title": "全球最老牌金融机构面临全新等级风险",
+      "title_original": "World’s Oldest Financial Institutions Facing New Levels of Risk",
+      "summary": "当前全球多家历史最悠久的金融机构正面临全新等级的风险，在危机频发的金融环境下，国际货币基金组织（IMF）的重要性达到前所未有的高度，相较于以往，危机时期IMF对维护全球金融稳定的作用更为关键。",
+      "summary_original": "The IMF is more important than ever in times of crisis",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibLuX5aUWoiI/v6/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-04-25/world-s-oldest-financial-institutions-facing-new-levels-of-risk",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9a9b405d",
+      "title": "伊朗战事实时更新：威特科夫与库什纳将赴巴基斯坦就伊朗问题会谈",
+      "title_original": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
+      "summary": "这是关于伊朗战事的实时更新报道，现有消息显示，威特科夫与库什纳将前往巴基斯坦，就伊朗相关议题举行会谈。",
+      "summary_original": null,
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-promo-0445EST-tbgj/25israel-iran-promo-0445EST-tbgj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T11:58:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1e7c3457",
+      "title": "媒体：深圳一女子公交站台劝灭烟起冲突，当事人称涉事男子已道歉 - thepaper.cn",
+      "title_original": null,
+      "summary": "深圳一名女子在公交站台劝阻男子吸烟引发冲突，该事件引发多家媒体关注报道，事发后深圳警方曾表示正对该事件进行核查。目前涉事男子已向当事女子道歉，该事件引发舆论关注，还被拿来和泼奶茶事件做对比讨论。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QaGE3bnVpN0s5MVZhM3NzTm1uZ2h3QmJMWm52R1RVUk50NGtZRzdBMHY0XzlzZTVyQV82bWtaQTJKUTdjMjZXUk5LVEdjT3F4dHZrR1pyMkRjX01LSlg1WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T11:49:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b6ee687f",
+      "title": "欧洲准备应对乌克兰长期战争 尚无终战战略",
+      "title_original": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
+      "summary": "当前美国正聚焦伊朗事务，俄乌双方既无明确的获胜路径，也未找到通往谈判和解的方向。欧洲已开始为乌克兰局势走向长期战争做筹备，目前仍未形成明确的终战战略。",
+      "summary_original": "With American dealmakers wrapped up with Iran, neither Russia nor Ukraine has a clear path to victory — or toward a negotiated peace.",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-ukraine-europe-adrift-assess-mhzt/25int-ukraine-europe-adrift-assess-mhzt-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T11:46:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a00cf732",
+      "title": "武装团伙在马里发动协同袭击 多地爆发爆炸与枪击",
+      "title_original": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "summary": "武装团伙在马里全境发动协同袭击，现场爆发爆炸与枪击冲突。据目击者报告，冲突集中在该国中部与北部地区，此次袭击被认为是马里数年来规模最大的圣战组织袭击，引发各方对马里安全局势的担忧。",
+      "summary_original": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c528/live/7d4de040-4090-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T11:21:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "969926ac",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "title_original": null,
+      "summary": "工业智能化服务商海康机器人2025年全年营收突破64.52亿元，已累计服务全球超2万家客户，产品线布局完善。2026年是海康机器人成立十周年，其在杭州举办智造大会，提出“具身智造”概念，发布35余款新品，明确将持续推进AI融合与具身智能布局。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260425/v2_bc182706165341f89a4d74bf3b0755d1@5920579_oswg482514oswg890oswg594_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3782137908403457?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-25T11:15:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3433af88",
+      "title": "美国市场手机质量最差",
+      "title_original": "The US gets the worst phones",
+      "summary": "苹果与三星已主导美国手机市场多年，二者携手谷歌共同定义了智能手机的形态与能力，在移动摄影、软件、运算能力等领域不断推高行业上限，但近年来几大厂商安于现状，仅做小步迭代，不再寻求突破性创新。",
+      "summary_original": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather than [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-25T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2fca996b",
+      "title": "约旦河西岸巴勒斯坦人及加沙部分民众参与地方选举",
+      "title_original": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "summary": "巴勒斯坦本次地方选举在被占领的约旦河西岸地区以及加沙地带的一座城市举行，巴勒斯坦主要政治派别哈马斯以及其他多个政治团体并未参与本次选举，仅上述区域的选民参与了此次地方层级的投票活动。",
+      "summary_original": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc6/live/17495f90-4072-11f1-83f8-e39ccdeebf3b.jpg",
+      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T10:52:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7104fc64",
+      "title": "五一假期前夕中国发布暴雨及洪水风险预警",
+      "title_original": "China Warns of Heavy Rain, Flood Risks Ahead of May Day Holiday",
+      "summary": "中国气象部门发布预警称，4月26日至29日，中国南方多地将出现强降雨过程。部分前期已遭风暴侵袭的区域土壤含水饱和，此次降雨将进一步提升当地发生洪水、山体滑坡灾害的风险，这一预警发布于五一假期来临前夕。",
+      "summary_original": "Chinese weather authorities warned of heavy rainfall across southern regions from April 26 to April 29, with downpours expected to hit areas already saturated by earlier storms, raising the risk of flooding and landslides.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izsRq4txsUmU/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-25/china-warns-of-heavy-rain-flood-risks-ahead-of-may-day-holiday",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T10:29:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8bc998ad",
+      "title": "数千民众抗议马来西亚即将卸任的反贪机构主管",
+      "title_original": "Thousands Protest Against Outgoing Malaysian Anti-Graft Chief",
+      "summary": "本周六，数千名马来西亚民众聚集在首都吉隆坡，抗议即将卸任的反贪机构主管阿赞·巴基，并一再呼吁成立皇家调查委员会，调查针对阿赞·巴基的相关指控。",
+      "summary_original": "Thousands of Malaysians gathered in Kuala Lumpur on Saturday, reiterating calls for the establishment of a Royal Commission of Inquiry into allegations involving outgoing anti-graft chief Azam Baki.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEirjzS3qjQ4/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-25/thousands-protest-against-outgoing-malaysian-anti-graft-chief",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T10:15:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "858892af",
+      "title": "守护珠峰的精英“医生”",
+      "title_original": "The Elite ‘Doctors’ Who Care for Mount Everest",
+      "summary": "冰川封住了珠峰通往顶峰的通路，导致数百名计划登顶的登山者无法如愿登顶。专门负责维护珠峰登顶路线的“冰瀑医生”已经出动，开展通路疏通清理作业，力争尽快打通安全的登顶通道。",
+      "summary_original": "Glacial ice has sealed the gateway to Everest’s summit, keeping hundreds of climbers from reaching the top. “Icefall doctors” are on the case.",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25xp-everest-ftwv/25xp-everest-ftwv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T09:48:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da1315f2",
+      "title": "遭特朗普移民严打驱逐的85岁寡妇",
+      "title_original": "The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown",
+      "summary": "现年85岁的玛丽-泰蕾兹·罗斯-马埃是前美军士兵的法国遗孀，在特朗普政府的移民严打行动中被驱逐出境。这是她被驱逐后首次接受采访，她在采访中讲述了自己被美国移民与海关执法局拘留的经历。",
+      "summary_original": "In her first interview since being deported, Marie-Thérèse Ross-Mahé, the French widow of a former G.I., recounted her experience in ICE detention.",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T09:32:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "43f5d268",
+      "title": "中国青岛一路口横杆装十余个摄像头 当地公安致歉 - 联合早报",
+      "title_original": null,
+      "summary": "青岛一路口的监控横杆上密集安装了十余个摄像头，有说法称数量近20个，相关场景曝光后引发网民热议吐槽，该事件获得多家媒体关注报道，当地公安就此问题致歉，目前涉事路口的监控已经完成清理整改工作。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZ3pQOEhvSjBaMmlIaExmVF9NWjFzUjVDQ28tNEw1bzJveGl2ckk0cy1xZDNuUEFBSE9BZTJXcHR2Ry0tcHc2OUNpVUpRMEhDX2tJdGhITnBDU1dhbFVkLUo2MHdXb2FPMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T09:18:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7c5c921",
+      "title": "中国科学院科技创新发展中心党委副书记、主任伍浩接受审查调查 - 新华网",
+      "title_original": null,
+      "summary": "中国科学院科技创新发展中心党委副书记、主任伍浩（曾任国家发改委秘书长），正接受中央纪委国家监委纪律审查和监察调查。这一消息被新华网、央视网、新京报等多家权威媒体报道，伍浩此次被查属于周末通报的“打虎”案例，引发舆论关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52MC1NZ2d1UE4wQTRydjBVQ3NyWm53RjhpQS1Ya24xcE5YQ3JRVTFMaEozZG16Yll4dXk1ck9OYUFpVl9jZ0RBSE1xbXpDWVRXNkdkVThIRnJVdkRNTmFUSlZPZDNGd2ZyX0NuUHhvLWVIckNnUzBwX3FLWEh4Y2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T09:06:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "aec0ffa3",
+      "title": "拉卡展现叙利亚动荡过往",
+      "title_original": "Raqqa Showcases Syria’s Tumultuous Past",
+      "summary": "位于幼发拉底河畔的叙利亚城市拉卡，曾是人类文明的摇篮，近年来在接连掌权的多方势力统治下遭受严重破坏，走访人员探访发现，这座饱经磨难的城市如今正期盼着迎来改变与新生。",
+      "summary_original": "The city on the Euphrates, once a cradle of civilization, suffered under a succession of recent rulers. Our visit found it hoping for change.",
+      "image": "https://static01.nyt.com/images/2026/04/24/multimedia/24syria-raqqa-dispatch-01-hcvl/24syria-raqqa-dispatch-01-hcvl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T09:00:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c43334d7",
+      "title": "伊朗边境的食用油贸易：该国困境的缩影",
+      "title_original": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles",
+      "summary": "战争加剧了伊朗的经济危机，令国内民生受到严重冲击，基本生活物资供应承压，大量伊朗民众不得不穿越边境前往土耳其购买食用油等生活必需品，边境的食用油贸易成为当前伊朗整体困境的直观缩影。",
+      "summary_original": "The war has exacerbated Iran’s economic crisis, forcing many to cross the border into Turkey to buy the most basic goods.",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-iran-hardship-plcb/25int-iran-hardship-plcb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T08:26:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "efe5ac06",
+      "title": "美伊谈判前景不明 多国呼吁政治解决冲突 - 新华网",
+      "title_original": null,
+      "summary": "新华网发布相关报道，当前美伊围绕相关议题的谈判前景不明朗，针对美伊冲突局势，国际社会多个国家纷纷发声，一致呼吁通过政治途径解决双方矛盾冲突，完整报道可在Google新闻平台查看。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBITVNYdmhSWkRQS1ZlQVptZWFRWWFobUdVc0xlNFp0M3lIV0pIcFN6Q190ZHA4cFB2ZDYzQXNCaWVCaGk1RE9ZS2t4ZzYyS3MtUUpOTmI0bTI5ZWwyTUlNeFFkQ0lNR2pYckNicjhmNE52ZVNhV2pPTGxsa0pwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T08:16:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae762a77",
+      "title": "联播+｜这段千古佳话 习近平多次提及 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "多家媒体刊发相关报道，习近平同莫桑比克总统查波举行会谈，中莫双方签署农业标准化领域合作谅解备忘录，共同发布《中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明》，另有内容聚焦习近平多次提及的一段千古佳话。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TU0hpSURDU2tONDR2NmNueXh2MWtsanBUZE5DU1EwOTd3R2czakUwWmgzaURlRjI5UUdmWjBVUlZOb05acFFEUWJ5QnN0MXRRRHpGeE9zN2RXdE1lWlB6ZU5ITjhwb08wemVEODJ6UXgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T08:01:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a509d751",
+      "title": "近五千名跑者穿行于长城山河，北京怀柔长城100跑山赛开幕 - 新京报",
+      "title_original": null,
+      "summary": "近日北京举办两场长城主题越野跑赛事，2026凯乐石北京怀柔长城100跑山赛在雁栖湖畔启幕，共吸引近五千名跑者参赛；延庆八达岭石峡关谷环长城越野赛开赛，近两千名国内外跑者到场参赛，跑者穿行长城山河共赴越野之约。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EMm1YbHNLcDVmNGpTVWtPQXEyZFdocm5FekhyV2k3eDFQRzJJT2pPQTNCZ2pzUURXZjBXMFh1ZFN0Vm9EQldJTUhCN0J3S3ZXYWhNalRVWmNpQUlBTU1QZW10eUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T07:54:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b1a4ebb2",
+      "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "中老建交65周年之际，中国国家主席习近平同老挝人民革命党中央总书记、国家主席通伦互致贺电，习近平还会见了老挝人革党中央总书记、国家主席特使沙伦赛。双方举办多场庆祝活动，包括万象的“中老友好年”电影周、老挝国立大学的主题读书会等，续写中老友好新篇章。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mSExaS3BRSWltelUtb1ltUW5zRjJOSExlNV81YXR4bV93b1lKUHU3TjRpQi1lTzFURTVBZDlBa1kzTFh2c0tzSFdCQWo3amFRUDFVdDcwcWp0cHZ1Sm1RdWhZY2RkSHdERUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T05:51:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "081cb342",
+      "title": "【讲习所·中国与世界】习近平为义乌“换上一件大衣服” - chinanews.com.cn",
+      "title_original": null,
+      "summary": "这是中国新闻网“讲习所·中国与世界”栏目推出的相关报道，报道标题为《习近平为义乌“换上一件大衣服”》，内容围绕习近平对义乌发展作出的战略指引与规划展开，该报道的完整内容可在Google新闻平台查看。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jMFRKVm9YZ1VYQ0JTN0Y4UWxfcEJkRk14aUpXREZrVGNHVGV5ckxoTFo4enhUcm9qd3lQZDF4N3F5WkxCcWpta3pkSER6OXM2UnJfYkV3WWdOLURKY2pXMGhCVlB2YnBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T04:38:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "93626584",
+      "title": "佛罗里达一景点开业前31只树懒死亡",
+      "title_original": "31 sloths die in Florida before opening of attraction",
+      "summary": "佛罗里达一处景点开放前夕发生31只树懒死亡事件，当地当局介绍，多数树懒因存放它们的当地仓库环境不佳死亡，另有部分树懒从南美洲运输出发时就已经死亡。",
+      "summary_original": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dba/live/87570de0-3e93-11f1-b83a-1531f70021ef.jpg",
+      "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T04:02:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0b014cc5",
+      "title": "日本新型护理员：健美运动员、摔跤手与综合格斗选手",
+      "title_original": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
+      "summary": "日本养老院存在人手短缺缺口，当地目前正招募年轻运动员填补岗位空缺，入选新人包括健美运动员、职业摔跤手以及综合格斗选手，这一全新的用工模式正在重塑日本的养老护理行业。",
+      "summary_original": "Young athletes are being recruited to plug a staff shortage in Japan’s nursing homes. The results are reshaping elder care.",
+      "image": "https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-promo/00int-japan-caregivers-02-kptm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-25T04:01:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "19e8cf33",
+      "title": "消息人士称拉奇·格鲁姆将投资印度初创公司Pronto 估值达2亿美元",
+      "title_original": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "summary": "据消息人士透露，投资人拉奇·格鲁姆计划投资印度家政服务初创公司Pronto，本轮投资完成后该公司估值将达2亿美元。若融资顺利落地，这家家政初创的估值将在短短数周内翻倍。",
+      "summary_original": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-25T03:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b67ee52c",
+      "title": "习近平同佛得角总统内韦斯就中佛建交50周年互致贺电 - 新华网",
+      "title_original": null,
+      "summary": "在中国与佛得角建交50周年之际，中国国家主席习近平同佛得角总统内韦斯互致贺电，共同庆祝两国建交半个世纪。这一新闻由新华网发布，感兴趣的公众可前往Google新闻查看该新闻的完整报道内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVXQ4blRNVjJKbkxBMkw4MDB2ZXV5RVd6UEcycHZlSW5lOExlN1U2TUlrdEphOXJqUTMxYmlnTkMwSVV0LXd6UE4wOExYOE15bFc3SVR3NHVhTkxBbkthTnVZMlRxRmoxWTgzS2VjRWxfZXZnWmZRM2ZTcVFJMDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-25T03:14:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "75091cd0",
+      "title": "马来西亚任命前法官执掌该国反贪机构",
+      "title_original": "Malaysia Picks a Former Judge to Lead Its Anti-Graft Agency",
+      "summary": "马来西亚宣布任命前法官阿卜杜勒·哈利姆·阿曼出任该国反贪机构新任负责人。现任负责人阿扎姆·巴基身陷争议，其任期将于下月结束，届时阿卜杜勒·哈利姆将正式接任。",
+      "summary_original": "Malaysia named Abdul Halim Aman as the next anti-graft chief, taking over from embattled head Azam Baki when his term ends next month.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij9Na0PHIhyE/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-25/malaysia-picks-abdul-halim-bin-aman-as-its-new-anti-graft-chief",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-25T02:11:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "af19d323",
+      "title": "手握英国国民保健制度及国防合同的\"反觉醒\"科技老板宣言疯传",
+      "title_original": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+      "summary": "英国一家持有英国国民保健制度、国防领域政府合同的颇具争议科技公司，其持\"反觉醒\"立场的老板近日发布了一份针对西方未来发展的22点规划，这份宣言目前已在网络疯传，引发广泛关注。",
+      "summary_original": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/ab8ccad0-3d8d-11f1-92be-b5fcda70efcc.jpg",
+      "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T01:18:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "edcdd134",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "title_original": null,
+      "summary": "核心团队多出自微软的广州工业智能体公司智用开物，近日完成近亿元天使+轮融资，本轮由老股东瑞枫资本领投，创享投资跟投，获战略客户立讯精密相关方战略投资，这是其一年内第三轮融资。资金将用于工业语义引擎及工业岗位智能体研发，主打打通AI落地制造业场景，已获头部客户验证。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260425/v2_e7449a939a2842bbb390a7c420de400a@6221844_oswg302736oswg773oswg635_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3781548853533959?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-25T01:10:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "22fa7c57",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "title_original": null,
+      "summary": "近期多领域热点频出：马斯克旗下SpaceX拟斥资约4000多亿元收购00后创立的AI编程公司Cursor，补齐AI编程短板；中国科研人员从嫦娥五号月球样品中发现两种新月球矿物，丰富月球矿物种类库；2026美加墨世界杯决赛门票在官方转售平台标价近230万美元，另有多领域热点动态。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3781532841581576?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-25T01:01:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "929d2921",
+      "title": "卡佳·阿德勒：北约欧洲盟友反击据报美国对西班牙的威胁",
+      "title_original": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "summary": "BBC欧洲编辑卡佳·阿德勒发文称，本就持续恶化的美欧关系，在周五上午再度曝出尖锐矛盾。此次矛盾由有报道称美国向西班牙发出威胁引发，北约欧洲盟友已经针对该威胁作出了反击。",
+      "summary_original": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbe/live/62677690-4038-11f1-b55d-0f258dce1735.jpg",
+      "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-25T00:10:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae37e69c",
+      "title": "千载诗韵流淌 一城书香芬芳 — —池州市推进全民阅读厚植文化底蕴 - 长江网",
+      "title_original": null,
+      "summary": "多家媒体推出全民阅读主题相关报道，长江网报道安徽池州依托自身千载诗韵的文化积淀，推进全民阅读，厚植城市文化底蕴。此外还有建设书香中国、上海打造“宜读”城市、探讨全民阅读立法深层意义等相关报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIb0ktdWowUFFVTndkaGQxQ0EyNmFTZmJia3Z4Wl9pS0lHU3p2eHNGS251azlJaUVQMFlzbjU2VlJ2UkRqbXFIZ0gyRzd3ZmFteWxMSVRYenp2b2xFdTBaS2pCSG5MUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-24T23:58:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6f09552b",
+      "title": "史蒂夫·鲍尔默炮轰其支持过的认罪欺诈创始人：“我被骗了，感觉很蠢”",
+      "title_original": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "summary": "涉欺诈的创始人约瑟夫·桑伯格曾获史蒂夫·鲍尔默投资支持，在桑伯格认罪后的量刑阶段，鲍尔默写下措辞激烈的信件，炮轰桑伯格，称自己遭对方欺骗，为此感到懊恼，同时列明了自己作为投资者因此遭受的全部损害。",
+      "summary_original": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T23:32:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f233e437",
+      "title": "珠峰造价数百万美元洪水预警系统荒废 数千人面临风险",
+      "title_original": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+      "summary": "珠穆朗玛峰区域伊姆扎冰川湖的洪水预警系统造价达数百万美元，自2016年起就未得到任何维护，早已荒废失能。心怀恐惧的当地居民向BBC披露了这一情况，目前该区域已有数千人因预警系统失效，面临洪水灾害威胁。",
+      "summary_original": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/001b/live/825a5210-3fd4-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-24T23:28:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ad791da3",
+      "title": "英首相府称福克兰群岛主权归属英国 此前传美国拟重审相关立场",
+      "title_original": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "summary": "近日有报道称，一份美国五角大楼内部文件显示，美方可能因英国未加入伊朗战争，改变其在福克兰群岛主权问题上的原有立场。英国首相府就此回应，明确福克兰群岛主权归属英国。",
+      "summary_original": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-24T22:55:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fa1a8591",
+      "title": "据报道帕兰蒂尔正协助美国国税局调查金融犯罪",
+      "title_original": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "summary": "美国调查新闻机构《拦截》报道称，数据分析企业帕兰蒂尔正在协助美国国税局开展金融犯罪调查工作。信息显示，美国国税局最早从2018年开始，就已经在使用帕兰蒂尔开发的相关软件。",
+      "summary_original": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T21:53:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f01b2e7a",
+      "title": "深度求索新模型为何重要的三个原因",
+      "title_original": "Three reasons why DeepSeek’s new model matters",
+      "summary": "周五，中国人工智能企业深度求索发布了万众期待的全新旗舰模型V4预览版。该模型采用全新设计，可更高效处理大规模文本，能支持远超上一代长度的提示词，且延续了深度求索此前模型的开源属性。",
+      "summary_original": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-24T21:40:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "06f641a7",
+      "title": "Cohere收购合并德国初创企业 打造‘跨大西洋AI巨头’",
+      "title_original": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+      "summary": "总部位于加拿大、为受监管行业企业提供AI工具的科技公司Cohere上周五宣布，将与德国AI企业Aleph Alpha合并。Aleph Alpha同样为企业和政府开发AI系统，本次合并旨在打造‘跨大西洋AI巨头’。",
+      "summary_original": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T21:35:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "17adac94",
+      "title": "中国汽车巨头比亚迪称脱离美国市场也能蓬勃发展",
+      "title_original": "China car giant BYD says it can thrive without US",
+      "summary": "中国汽车巨头比亚迪表示，不依赖美国市场也可实现蓬勃发展。当前全球燃油价格上涨，比亚迪已做好相关布局，能够抓住全球能源转型、逐步摆脱化石燃料的发展趋势，从中获得发展机遇。",
+      "summary_original": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8597/live/4f286c70-3ff6-11f1-b7e9-5d346a313b73.jpg",
+      "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-24T21:25:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "76519a4b",
+      "title": "两名大学生获510万美元预种子融资 拟在iMessage打造AI社交网络",
+      "title_original": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "summary": "两名大学生创业打造的社交应用Series目前已在大学校园走红，该项目宣布完成510万美元预种子融资，投资方不乏科技界知名人士，项目计划在iMessage平台搭建人工智能社交网络。",
+      "summary_original": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T21:05:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "17125cb3",
+      "title": "标普展望转负面 芬兰获债务警告",
+      "title_original": "Finland Gets Debt Warning as S&amp;P Outlook Turns Negative",
+      "summary": "标普全球评级宣布，将芬兰的债务信用展望从原本的稳定下调至负面，对芬兰发出债务警告。本次评级展望调整，主要原因是芬兰这个北欧国家的整体债务规模正处于持续增长的状态。",
+      "summary_original": "S&amp;P Global Ratings cut the outlook on Finland’s debt to negative from stable, as the Nordic nation’s debt pile keeps growing.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3FiSRRdbgM/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/finland-gets-debt-warning-as-s-p-outlook-turns-negative",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-24T20:55:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9eee8ea8",
+      "title": "Meta损失人才 思考机器实验室获益",
+      "title_original": "Meta’s loss is Thinking Machines’ gain",
+      "summary": "原本科技巨头Meta持续从思考机器实验室挖走人才，这场人才互动实际为双向流动。在人员的双向交换过程中，Meta遭遇了人才损失，最终思考机器实验室成为这场人才变动中的获益方。",
+      "summary_original": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T20:52:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9eee8ea8",
+      "title": "Meta之失，思考机器之得",
+      "title_original": "Meta’s loss is Thinking Machines’ gain",
+      "summary": "一直以来，科技巨头Meta都在从思考机器实验室挖取人才，不过这场人才流动并非单向。实际上人才流向是双向的，Meta在挖走对方人才的同时，自身也有人才流入思考机器实验室，最终反倒让思考机器成为获益方。",
+      "summary_original": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-24T20:52:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7fff40a7",
+      "title": "微软允许用户单次最长暂停Windows更新35天 可无限次暂停",
+      "title_original": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
+      "summary": "此前Windows用户常被迫在玩游戏或工作繁忙时进行自动更新，微软现已向开发、实验渠道的Windows预览体验成员推出广受期待的更新调整，新增功能支持用户无限次延迟更新，单次最长可达35天。",
+      "summary_original": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Insider channels, including the ability to indefinitely delay updates up to 35 days at a time. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-24T20:45:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "084efc5a",
+      "title": "X-energy扩股IPO后上市首日股价大涨27%",
+      "title_original": "X-energy stock pops 27% on first day of trading following upsized IPO",
+      "summary": "美国核电初创企业X-energy完成扩容后的首次公开募股，正式登陆纳斯达克交易所开启公开交易。上市首日该股受到投资者热捧，大量资金涌入，股价大幅上涨，单日涨幅达到27%。",
+      "summary_original": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T20:10:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "529fcba0",
+      "title": "亚历克斯·琼斯揭露又一起重大阴谋",
+      "title_original": "Alex Jones has uncovered another massive conspiracy",
+      "summary": "长期传播阴谋论的亚历克斯·琼斯经营数十年的网络平台《信息战》，即将被讽刺报纸《洋葱》收购。琼斯在易主前爆出所谓\"阴谋\"，称《洋葱》新任创意总监、喜剧演员蒂姆·海德克尔有不为人知的过往经历，实际上相关信息早已公开可查。",
+      "summary_original": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. \"The Onion newspaper has been rocked by the discovery that their new creative director, produced [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-24T20:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cfe7bb1f",
+      "title": "创作者渴求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+      "title_original": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "summary": "面向创作者提供AI内容生成工具的ComfyUI完成3000万美元融资，公司估值达到5亿美元。该工具可赋予创作者对AI生成图像、视频与音频内容更多控制权，适配了当下创作者群体对AI生成媒体自主控制权的需求，获得资本青睐。",
+      "summary_original": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T19:49:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cfe7bb1f",
+      "title": "创作者寻求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+      "title_original": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "summary": "主打为创作者提供AI图像、音视频生成更多控制权工具的ComfyUI，近日完成3000万美元融资，公司估值达到5亿美元。当前创作者对AI生成媒体的自主掌控需求上升，带动相关AI工具企业获得资本青睐。",
+      "summary_original": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-24T19:49:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bf74a0db",
+      "title": "X在iOS推出独立XChat应用",
+      "title_original": "X launches stand-alone XChat app on iOS",
+      "summary": "社交媒体平台X近日在iOS端推出独立聊天应用XChat。这款全新应用主打私密沟通场景，可为用户提供私密聊天、自动消失消息、音频及视频通话等多项功能，满足用户的私密社交沟通需求。",
+      "summary_original": "X's new app promises private chats, disappearing messages, audio and video calls, and more.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T19:46:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "15ddedf6",
+      "title": "涉嫌泄露派拉蒙新《降世神通》电影的嫌疑人已被捕",
+      "title_original": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
+      "summary": "派拉蒙天空舞公司就其待上映动画电影《降世神通：最后的气宗》泄露上网一事启动调查，目前一名涉案嫌疑人已被警方逮捕。据《海峡时报》报道，落网嫌疑人是涉嫌上传该影片的一名26岁新加坡男子。",
+      "summary_original": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged to have uploaded the new Avatar movie (previously titled [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-24T19:45:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "632dd6a2",
+      "title": "顶尖大学网站为何出现色情内容？根源在于管理不善",
+      "title_original": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "summary": "数十所顶尖高校的数百个子域名已遭到诈骗分子劫持，被滥用于展示色情内容。相关分析指出，该问题并非源于复杂黑客攻击，核心原因是高校对官网域名日常运维管理松散粗糙，给不法分子留下了可乘之机。",
+      "summary_original": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-04-24T19:00:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b3680d0",
+      "title": "谷歌将以现金及算力形式向Anthropic投资最高400亿美元",
+      "title_original": "Google to invest up to $40B in Anthropic in cash and compute",
+      "summary": "当前AI领域竞争者竞相争夺大规模算力，谷歌计划向AI企业Anthropic投资最高400亿美元，投资形式包含现金与算力。此前Anthropic刚限量推出侧重网络安全的高性能Mythos模型，此次投资就发生在该模型发布之后。",
+      "summary_original": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-24T18:00:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b3680d0",
+      "title": "谷歌拟向Anthropic投资最高400亿美元 涵盖现金与算力",
+      "title_original": "Google to invest up to $40B in Anthropic in cash and compute",
+      "summary": "当前AI赛道各大厂商竞相争夺大规模算力资源，Anthropic推出聚焦网络安全的高性能大模型Mythos并开启有限发布后，谷歌计划向其投资最高400亿美元，投资包含现金与算力两部分。",
+      "summary_original": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-24T18:00:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "858c1c84",
+      "title": "苹果将迎新CEO，埃隆·马斯克拟600亿美元收购Cursor的原因",
+      "title_original": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "summary": "苹果即将进入发展新时代，现任CEO蒂姆·库克计划于9月卸任，将管理权交予硬件主管约翰·特努斯。特努斯接棒的是科技领域生命力极强的成熟业务，但他面临的产业生态已和库克数十年打造的局面大不相同。",
+      "summary_original": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystem than the one Cook spent decades shaping. The App [&#8230;]",
+      "image": null,
+      "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-24T17:45:57+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "8ee45d9f",
+      "title": "美国司法部结束对鲍威尔调查 为凯文·沃什铺平道路",
+      "summary": "美国司法部宣布将结束对美联储现任主席杰罗姆·鲍威尔的刑事调查，此举意在扫清阻碍凯文·沃什作为美联储主席潜在继任者获得提名确认的障碍。彭博社两名记者将在该媒体周末节目中围绕此事展开讨论。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG4gXNQBPlB8/v3/1200x-1.jpg",
+      "article_ids": [
+        "a6c10ed7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a6c10ed7",
+          "source": "Bloomberg",
+          "title": "美国司法部结束对鲍威尔调查 为凯文·沃什铺平道路",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-25/doj-drops-powell-probe-smoothing-path-for-kevin-warsh-video",
+          "published_at": "2026-04-25T12:30:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:30:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4840b3d",
+      "title": "比特币悄然上涨 交易员瞄准8万美元",
+      "summary": "比特币自今年1月以来首次逼近8万美元关口，这轮悄然上涨并非由市场狂热情绪推动，动力主要来自空头回补，以及企业Strategy Inc.的持续买入增持，目前交易员已将目标价位看向8万美元。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieLWH7eWyjyo/v1/1200x-1.jpg",
+      "article_ids": [
+        "7f6f9213"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7f6f9213",
+          "source": "Bloomberg",
+          "title": "比特币悄然上涨 交易员瞄准8万美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000",
+          "published_at": "2026-04-25T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bb521e58",
+      "title": "俄罗斯对乌克兰发动大规模袭击 已致七人死亡",
+      "summary": "俄罗斯对乌克兰发动大规模袭击，总计造成七人死亡。受灾最为严重的是乌克兰第聂伯罗市，当地官员通报，此次袭击中针对该市一栋居民住宅楼的打击，已造成四人死亡。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/e47f40a0-408c-11f1-8d6e-339f25b16267.jpg",
+      "article_ids": [
+        "f83663dc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f83663dc",
+          "source": "BBC World",
+          "title": "俄罗斯对乌克兰发动大规模袭击 已致七人死亡",
+          "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T12:29:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:29:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee2984c4",
+      "title": "伊朗拒绝对话，白宫向巴基斯坦派团",
+      "summary": "特朗普已派遣特使前往巴基斯坦，计划与伊朗官员会晤。当前这场持续八周的战事搅动全球经济，伊朗方面对结束战事的和谈前景持悲观态度。彭博社周末节目将邀请多名资深记者讨论这一局势。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOsM4N1yc1Wg/v3/1200x-1.jpg",
+      "article_ids": [
+        "a90dadf2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a90dadf2",
+          "source": "Bloomberg",
+          "title": "伊朗拒绝对话，白宫向巴基斯坦派团",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-25/trump-sends-team-to-pakistan-as-iran-balks-at-talks-video",
+          "published_at": "2026-04-25T12:24:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:24:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "188cc2d9",
+      "title": "美联储可对Anthropic最新AI系统采取哪些措施",
+      "summary": "AI企业Anthropic推出可检测严重网络安全风险的最新AI系统，该系统可脱离人类监督自主高速运行，还能检测银行软件漏洞，因能力过强暂不公开发布。美国财长与美联储主席召集大型银行高管讨论该模型带来的风险，专家正探讨相关手段能否保障金融体系安全。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mmXMqp_t2E/v3/1200x-1.jpg",
+      "article_ids": [
+        "a9022697"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a9022697",
+          "source": "Bloomberg",
+          "title": "美联储可对Anthropic最新AI系统采取哪些措施",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-25/what-the-fed-can-do-about-anthropic-s-latest-system-video",
+          "published_at": "2026-04-25T12:03:45+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:03:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "952987bc",
+      "title": "三宅唱解答人生终极问题",
+      "summary": "知名日本导演三宅唱已抵达美国，此次他带来《小，慢而稳》与《两个季节，两个陌生人》两部剧情长片。两部作品均为自然主义风格，聚焦人类渴望与他人建立联结的不安情绪，隐遁与不安是三宅唱创作中一以贯之的核心基调。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b67de9f8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b67de9f8",
+          "source": "The Verge",
+          "title": "三宅唱解答人生终极问题",
+          "link": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+          "published_at": "2026-04-25T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e35ea05b",
+      "title": "长久以来最令我惊艳的笔记本电脑",
+      "summary": "这是The Verge内容专栏《Installer》的第125期，栏目主打推介全球优质有趣的内容，新读者可在专栏主页阅读全部往期内容，本期作者整理分享了NASA裁缝、摩擦力、“马斯克主义”、滑板车等多个议题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "73b4e3a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "73b4e3a5",
+          "source": "The Verge",
+          "title": "长久以来最令我惊艳的笔记本电脑",
+          "link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+          "published_at": "2026-04-25T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "57f3234e",
+      "title": "全球最老牌金融机构面临全新等级风险",
+      "summary": "当前全球多家历史最悠久的金融机构正面临全新等级的风险，在危机频发的金融环境下，国际货币基金组织（IMF）的重要性达到前所未有的高度，相较于以往，危机时期IMF对维护全球金融稳定的作用更为关键。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibLuX5aUWoiI/v6/1200x-1.jpg",
+      "article_ids": [
+        "db52e0bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "db52e0bc",
+          "source": "Bloomberg",
+          "title": "全球最老牌金融机构面临全新等级风险",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-04-25/world-s-oldest-financial-institutions-facing-new-levels-of-risk",
+          "published_at": "2026-04-25T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "16e3e30b",
+      "title": "伊朗战事实时更新：威特科夫与库什纳将赴巴基斯坦就伊朗问题会谈",
+      "summary": "这是关于伊朗战事的实时更新报道，现有消息显示，威特科夫与库什纳将前往巴基斯坦，就伊朗相关议题举行会谈。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25israel-iran-promo-0445EST-tbgj/25israel-iran-promo-0445EST-tbgj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "9a9b405d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "9a9b405d",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：威特科夫与库什纳将赴巴基斯坦就伊朗问题会谈",
+          "link": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+          "published_at": "2026-04-25T11:58:53+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:58:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "25a6ef54",
+      "title": "媒体：深圳一女子公交站台劝灭烟起冲突，当事人称涉事男子已道歉 - thepaper.cn",
+      "summary": "深圳一名女子在公交站台劝阻男子吸烟引发冲突，该事件引发多家媒体关注报道，事发后深圳警方曾表示正对该事件进行核查。目前涉事男子已向当事女子道歉，该事件引发舆论关注，还被拿来和泼奶茶事件做对比讨论。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1e7c3457"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1e7c3457",
+          "source": "Google News (中国)",
+          "title": "媒体：深圳一女子公交站台劝灭烟起冲突，当事人称涉事男子已道歉 - thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QaGE3bnVpN0s5MVZhM3NzTm1uZ2h3QmJMWm52R1RVUk50NGtZRzdBMHY0XzlzZTVyQV82bWtaQTJKUTdjMjZXUk5LVEdjT3F4dHZrR1pyMkRjX01LSlg1WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T11:49:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:49:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0a97e9a",
+      "title": "欧洲准备应对乌克兰长期战争 尚无终战战略",
+      "summary": "当前美国正聚焦伊朗事务，俄乌双方既无明确的获胜路径，也未找到通往谈判和解的方向。欧洲已开始为乌克兰局势走向长期战争做筹备，目前仍未形成明确的终战战略。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-ukraine-europe-adrift-assess-mhzt/25int-ukraine-europe-adrift-assess-mhzt-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "b6ee687f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b6ee687f",
+          "source": "NYTimes World",
+          "title": "欧洲准备应对乌克兰长期战争 尚无终战战略",
+          "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
+          "published_at": "2026-04-25T11:46:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:46:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10138249",
+      "title": "武装团伙在马里发动协同袭击 多地爆发爆炸与枪击",
+      "summary": "武装团伙在马里全境发动协同袭击，现场爆发爆炸与枪击冲突。据目击者报告，冲突集中在该国中部与北部地区，此次袭击被认为是马里数年来规模最大的圣战组织袭击，引发各方对马里安全局势的担忧。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c528/live/7d4de040-4090-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "a00cf732"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a00cf732",
+          "source": "BBC World",
+          "title": "武装团伙在马里发动协同袭击 多地爆发爆炸与枪击",
+          "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T11:21:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:21:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1213a55d",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "summary": "工业智能化服务商海康机器人2025年全年营收突破64.52亿元，已累计服务全球超2万家客户，产品线布局完善。2026年是海康机器人成立十周年，其在杭州举办智造大会，提出“具身智造”概念，发布35余款新品，明确将持续推进AI融合与具身智能布局。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260425/v2_bc182706165341f89a4d74bf3b0755d1@5920579_oswg482514oswg890oswg594_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "969926ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "969926ac",
+          "source": "36氪",
+          "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+          "link": "https://36kr.com/p/3782137908403457?f=rss",
+          "published_at": "2026-04-25T11:15:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:15:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c648986",
+      "title": "美国市场手机质量最差",
+      "summary": "苹果与三星已主导美国手机市场多年，二者携手谷歌共同定义了智能手机的形态与能力，在移动摄影、软件、运算能力等领域不断推高行业上限，但近年来几大厂商安于现状，仅做小步迭代，不再寻求突破性创新。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3433af88"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3433af88",
+          "source": "The Verge",
+          "title": "美国市场手机质量最差",
+          "link": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+          "published_at": "2026-04-25T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4b1af915",
+      "title": "约旦河西岸巴勒斯坦人及加沙部分民众参与地方选举",
+      "summary": "巴勒斯坦本次地方选举在被占领的约旦河西岸地区以及加沙地带的一座城市举行，巴勒斯坦主要政治派别哈马斯以及其他多个政治团体并未参与本次选举，仅上述区域的选民参与了此次地方层级的投票活动。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc6/live/17495f90-4072-11f1-83f8-e39ccdeebf3b.jpg",
+      "article_ids": [
+        "2fca996b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2fca996b",
+          "source": "BBC World",
+          "title": "约旦河西岸巴勒斯坦人及加沙部分民众参与地方选举",
+          "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T10:52:27+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T10:52:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d046066a",
+      "title": "五一假期前夕中国发布暴雨及洪水风险预警",
+      "summary": "中国气象部门发布预警称，4月26日至29日，中国南方多地将出现强降雨过程。部分前期已遭风暴侵袭的区域土壤含水饱和，此次降雨将进一步提升当地发生洪水、山体滑坡灾害的风险，这一预警发布于五一假期来临前夕。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izsRq4txsUmU/v1/1200x-1.jpg",
+      "article_ids": [
+        "7104fc64"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7104fc64",
+          "source": "Bloomberg",
+          "title": "五一假期前夕中国发布暴雨及洪水风险预警",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-25/china-warns-of-heavy-rain-flood-risks-ahead-of-may-day-holiday",
+          "published_at": "2026-04-25T10:29:42+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T10:29:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92a16be7",
+      "title": "数千民众抗议马来西亚即将卸任的反贪机构主管",
+      "summary": "本周六，数千名马来西亚民众聚集在首都吉隆坡，抗议即将卸任的反贪机构主管阿赞·巴基，并一再呼吁成立皇家调查委员会，调查针对阿赞·巴基的相关指控。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEirjzS3qjQ4/v1/1200x-1.jpg",
+      "article_ids": [
+        "8bc998ad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8bc998ad",
+          "source": "Bloomberg",
+          "title": "数千民众抗议马来西亚即将卸任的反贪机构主管",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-25/thousands-protest-against-outgoing-malaysian-anti-graft-chief",
+          "published_at": "2026-04-25T10:15:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T10:15:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15a13563",
+      "title": "守护珠峰的精英“医生”",
+      "summary": "冰川封住了珠峰通往顶峰的通路，导致数百名计划登顶的登山者无法如愿登顶。专门负责维护珠峰登顶路线的“冰瀑医生”已经出动，开展通路疏通清理作业，力争尽快打通安全的登顶通道。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25xp-everest-ftwv/25xp-everest-ftwv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "858892af"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "858892af",
+          "source": "NYTimes World",
+          "title": "守护珠峰的精英“医生”",
+          "link": "https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html",
+          "published_at": "2026-04-25T09:48:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T09:48:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7a8982d6",
+      "title": "遭特朗普移民严打驱逐的85岁寡妇",
+      "summary": "现年85岁的玛丽-泰蕾兹·罗斯-马埃是前美军士兵的法国遗孀，在特朗普政府的移民严打行动中被驱逐出境。这是她被驱逐后首次接受采访，她在采访中讲述了自己被美国移民与海关执法局拘留的经历。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25france-ice-01-wtcm/25france-ice-01-wtcm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "da1315f2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "da1315f2",
+          "source": "NYTimes World",
+          "title": "遭特朗普移民严打驱逐的85岁寡妇",
+          "link": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+          "published_at": "2026-04-25T09:32:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T09:32:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aa3a83c1",
+      "title": "中国青岛一路口横杆装十余个摄像头 当地公安致歉 - 联合早报",
+      "summary": "青岛一路口的监控横杆上密集安装了十余个摄像头，有说法称数量近20个，相关场景曝光后引发网民热议吐槽，该事件获得多家媒体关注报道，当地公安就此问题致歉，目前涉事路口的监控已经完成清理整改工作。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "43f5d268"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "43f5d268",
+          "source": "Google News (中国)",
+          "title": "中国青岛一路口横杆装十余个摄像头 当地公安致歉 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZ3pQOEhvSjBaMmlIaExmVF9NWjFzUjVDQ28tNEw1bzJveGl2ckk0cy1xZDNuUEFBSE9BZTJXcHR2Ry0tcHc2OUNpVUpRMEhDX2tJdGhITnBDU1dhbFVkLUo2MHdXb2FPMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T09:18:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T09:18:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9fd934e1",
+      "title": "中国科学院科技创新发展中心党委副书记、主任伍浩接受审查调查 - 新华网",
+      "summary": "中国科学院科技创新发展中心党委副书记、主任伍浩（曾任国家发改委秘书长），正接受中央纪委国家监委纪律审查和监察调查。这一消息被新华网、央视网、新京报等多家权威媒体报道，伍浩此次被查属于周末通报的“打虎”案例，引发舆论关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a7c5c921"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a7c5c921",
+          "source": "Google News (中国)",
+          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩接受审查调查 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52MC1NZ2d1UE4wQTRydjBVQ3NyWm53RjhpQS1Ya24xcE5YQ3JRVTFMaEozZG16Yll4dXk1ck9OYUFpVl9jZ0RBSE1xbXpDWVRXNkdkVThIRnJVdkRNTmFUSlZPZDNGd2ZyX0NuUHhvLWVIckNnUzBwX3FLWEh4Y2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T09:06:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T09:06:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "033bf8f1",
+      "title": "拉卡展现叙利亚动荡过往",
+      "summary": "位于幼发拉底河畔的叙利亚城市拉卡，曾是人类文明的摇篮，近年来在接连掌权的多方势力统治下遭受严重破坏，走访人员探访发现，这座饱经磨难的城市如今正期盼着迎来改变与新生。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/24/multimedia/24syria-raqqa-dispatch-01-hcvl/24syria-raqqa-dispatch-01-hcvl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "aec0ffa3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "aec0ffa3",
+          "source": "NYTimes World",
+          "title": "拉卡展现叙利亚动荡过往",
+          "link": "https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html",
+          "published_at": "2026-04-25T09:00:28+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T09:00:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7dfc68b8",
+      "title": "伊朗边境的食用油贸易：该国困境的缩影",
+      "summary": "战争加剧了伊朗的经济危机，令国内民生受到严重冲击，基本生活物资供应承压，大量伊朗民众不得不穿越边境前往土耳其购买食用油等生活必需品，边境的食用油贸易成为当前伊朗整体困境的直观缩影。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25int-iran-hardship-plcb/25int-iran-hardship-plcb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c43334d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c43334d7",
+          "source": "NYTimes World",
+          "title": "伊朗边境的食用油贸易：该国困境的缩影",
+          "link": "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html",
+          "published_at": "2026-04-25T08:26:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T08:26:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97dec77a",
+      "title": "美伊谈判前景不明 多国呼吁政治解决冲突 - 新华网",
+      "summary": "新华网发布相关报道，当前美伊围绕相关议题的谈判前景不明朗，针对美伊冲突局势，国际社会多个国家纷纷发声，一致呼吁通过政治途径解决双方矛盾冲突，完整报道可在Google新闻平台查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "efe5ac06"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "efe5ac06",
+          "source": "Google News (中国)",
+          "title": "美伊谈判前景不明 多国呼吁政治解决冲突 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBITVNYdmhSWkRQS1ZlQVptZWFRWWFobUdVc0xlNFp0M3lIV0pIcFN6Q190ZHA4cFB2ZDYzQXNCaWVCaGk1RE9ZS2t4ZzYyS3MtUUpOTmI0bTI5ZWwyTUlNeFFkQ0lNR2pYckNicjhmNE52ZVNhV2pPTGxsa0pwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T08:16:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T08:16:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3bcc3843",
+      "title": "联播+｜这段千古佳话 习近平多次提及 - politics.people.com.cn",
+      "summary": "多家媒体刊发相关报道，习近平同莫桑比克总统查波举行会谈，中莫双方签署农业标准化领域合作谅解备忘录，共同发布《中华人民共和国和莫桑比克共和国关于构建新时代中莫命运共同体的联合声明》，另有内容聚焦习近平多次提及的一段千古佳话。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ae762a77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ae762a77",
+          "source": "Google News (中国)",
+          "title": "联播+｜这段千古佳话 习近平多次提及 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TU0hpSURDU2tONDR2NmNueXh2MWtsanBUZE5DU1EwOTd3R2czakUwWmgzaURlRjI5UUdmWjBVUlZOb05acFFEUWJ5QnN0MXRRRHpGeE9zN2RXdE1lWlB6ZU5ITjhwb08wemVEODJ6UXgyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T08:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T08:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd2cf6d2",
+      "title": "近五千名跑者穿行于长城山河，北京怀柔长城100跑山赛开幕 - 新京报",
+      "summary": "近日北京举办两场长城主题越野跑赛事，2026凯乐石北京怀柔长城100跑山赛在雁栖湖畔启幕，共吸引近五千名跑者参赛；延庆八达岭石峡关谷环长城越野赛开赛，近两千名国内外跑者到场参赛，跑者穿行长城山河共赴越野之约。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a509d751"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a509d751",
+          "source": "Google News (中国)",
+          "title": "近五千名跑者穿行于长城山河，北京怀柔长城100跑山赛开幕 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EMm1YbHNLcDVmNGpTVWtPQXEyZFdocm5FekhyV2k3eDFQRzJJT2pPQTNCZ2pzUURXZjBXMFh1ZFN0Vm9EQldJTUhCN0J3S3ZXYWhNalRVWmNpQUlBTU1QZW10eUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T07:54:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T07:54:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2a3f194",
+      "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - 中国共产党新闻网",
+      "summary": "中老建交65周年之际，中国国家主席习近平同老挝人民革命党中央总书记、国家主席通伦互致贺电，习近平还会见了老挝人革党中央总书记、国家主席特使沙伦赛。双方举办多场庆祝活动，包括万象的“中老友好年”电影周、老挝国立大学的主题读书会等，续写中老友好新篇章。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b1a4ebb2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b1a4ebb2",
+          "source": "Google News (中国)",
+          "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mSExaS3BRSWltelUtb1ltUW5zRjJOSExlNV81YXR4bV93b1lKUHU3TjRpQi1lTzFURTVBZDlBa1kzTFh2c0tzSFdCQWo3amFRUDFVdDcwcWp0cHZ1Sm1RdWhZY2RkSHdERUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T05:51:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T05:51:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a2dc8615",
+      "title": "【讲习所·中国与世界】习近平为义乌“换上一件大衣服” - chinanews.com.cn",
+      "summary": "这是中国新闻网“讲习所·中国与世界”栏目推出的相关报道，报道标题为《习近平为义乌“换上一件大衣服”》，内容围绕习近平对义乌发展作出的战略指引与规划展开，该报道的完整内容可在Google新闻平台查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "081cb342"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "081cb342",
+          "source": "Google News (中国)",
+          "title": "【讲习所·中国与世界】习近平为义乌“换上一件大衣服” - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jMFRKVm9YZ1VYQ0JTN0Y4UWxfcEJkRk14aUpXREZrVGNHVGV5ckxoTFo4enhUcm9qd3lQZDF4N3F5WkxCcWpta3pkSER6OXM2UnJfYkV3WWdOLURKY2pXMGhCVlB2YnBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T04:38:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T04:38:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c545fe67",
+      "title": "佛罗里达一景点开业前31只树懒死亡",
+      "summary": "佛罗里达一处景点开放前夕发生31只树懒死亡事件，当地当局介绍，多数树懒因存放它们的当地仓库环境不佳死亡，另有部分树懒从南美洲运输出发时就已经死亡。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dba/live/87570de0-3e93-11f1-b83a-1531f70021ef.jpg",
+      "article_ids": [
+        "93626584"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "93626584",
+          "source": "BBC World",
+          "title": "佛罗里达一景点开业前31只树懒死亡",
+          "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T04:02:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T04:02:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed81552d",
+      "title": "日本新型护理员：健美运动员、摔跤手与综合格斗选手",
+      "summary": "日本养老院存在人手短缺缺口，当地目前正招募年轻运动员填补岗位空缺，入选新人包括健美运动员、职业摔跤手以及综合格斗选手，这一全新的用工模式正在重塑日本的养老护理行业。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/15/multimedia/00int-japan-caregivers-02-promo/00int-japan-caregivers-02-kptm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0b014cc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0b014cc5",
+          "source": "NYTimes World",
+          "title": "日本新型护理员：健美运动员、摔跤手与综合格斗选手",
+          "link": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
+          "published_at": "2026-04-25T04:01:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T04:01:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ac61676",
+      "title": "消息人士称拉奇·格鲁姆将投资印度初创公司Pronto 估值达2亿美元",
+      "summary": "据消息人士透露，投资人拉奇·格鲁姆计划投资印度家政服务初创公司Pronto，本轮投资完成后该公司估值将达2亿美元。若融资顺利落地，这家家政初创的估值将在短短数周内翻倍。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "19e8cf33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "19e8cf33",
+          "source": "TechCrunch",
+          "title": "消息人士称拉奇·格鲁姆将投资印度初创公司Pronto 估值达2亿美元",
+          "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+          "published_at": "2026-04-25T03:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T03:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4168fbb7",
+      "title": "习近平同佛得角总统内韦斯就中佛建交50周年互致贺电 - 新华网",
+      "summary": "在中国与佛得角建交50周年之际，中国国家主席习近平同佛得角总统内韦斯互致贺电，共同庆祝两国建交半个世纪。这一新闻由新华网发布，感兴趣的公众可前往Google新闻查看该新闻的完整报道内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b67ee52c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b67ee52c",
+          "source": "Google News (中国)",
+          "title": "习近平同佛得角总统内韦斯就中佛建交50周年互致贺电 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVXQ4blRNVjJKbkxBMkw4MDB2ZXV5RVd6UEcycHZlSW5lOExlN1U2TUlrdEphOXJqUTMxYmlnTkMwSVV0LXd6UE4wOExYOE15bFc3SVR3NHVhTkxBbkthTnVZMlRxRmoxWTgzS2VjRWxfZXZnWmZRM2ZTcVFJMDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-25T03:14:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T03:14:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9f6b8f4d",
+      "title": "马来西亚任命前法官执掌该国反贪机构",
+      "summary": "马来西亚宣布任命前法官阿卜杜勒·哈利姆·阿曼出任该国反贪机构新任负责人。现任负责人阿扎姆·巴基身陷争议，其任期将于下月结束，届时阿卜杜勒·哈利姆将正式接任。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij9Na0PHIhyE/v0/1200x-1.jpg",
+      "article_ids": [
+        "75091cd0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "75091cd0",
+          "source": "Bloomberg",
+          "title": "马来西亚任命前法官执掌该国反贪机构",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-25/malaysia-picks-abdul-halim-bin-aman-as-its-new-anti-graft-chief",
+          "published_at": "2026-04-25T02:11:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T02:11:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f33892b7",
+      "title": "手握英国国民保健制度及国防合同的\"反觉醒\"科技老板宣言疯传",
+      "summary": "英国一家持有英国国民保健制度、国防领域政府合同的颇具争议科技公司，其持\"反觉醒\"立场的老板近日发布了一份针对西方未来发展的22点规划，这份宣言目前已在网络疯传，引发广泛关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/ab8ccad0-3d8d-11f1-92be-b5fcda70efcc.jpg",
+      "article_ids": [
+        "af19d323"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "af19d323",
+          "source": "BBC World",
+          "title": "手握英国国民保健制度及国防合同的\"反觉醒\"科技老板宣言疯传",
+          "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T01:18:33+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T01:18:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6ce8e2e",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "summary": "核心团队多出自微软的广州工业智能体公司智用开物，近日完成近亿元天使+轮融资，本轮由老股东瑞枫资本领投，创享投资跟投，获战略客户立讯精密相关方战略投资，这是其一年内第三轮融资。资金将用于工业语义引擎及工业岗位智能体研发，主打打通AI落地制造业场景，已获头部客户验证。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260425/v2_e7449a939a2842bbb390a7c420de400a@6221844_oswg302736oswg773oswg635_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "edcdd134"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "edcdd134",
+          "source": "36氪",
+          "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+          "link": "https://36kr.com/p/3781548853533959?f=rss",
+          "published_at": "2026-04-25T01:10:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T01:10:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d1cf49a",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "summary": "近期多领域热点频出：马斯克旗下SpaceX拟斥资约4000多亿元收购00后创立的AI编程公司Cursor，补齐AI编程短板；中国科研人员从嫦娥五号月球样品中发现两种新月球矿物，丰富月球矿物种类库；2026美加墨世界杯决赛门票在官方转售平台标价近230万美元，另有多领域热点动态。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "22fa7c57"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "22fa7c57",
+          "source": "36氪",
+          "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+          "link": "https://36kr.com/p/3781532841581576?f=rss",
+          "published_at": "2026-04-25T01:01:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T01:01:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "79da1c88",
+      "title": "卡佳·阿德勒：北约欧洲盟友反击据报美国对西班牙的威胁",
+      "summary": "BBC欧洲编辑卡佳·阿德勒发文称，本就持续恶化的美欧关系，在周五上午再度曝出尖锐矛盾。此次矛盾由有报道称美国向西班牙发出威胁引发，北约欧洲盟友已经针对该威胁作出了反击。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbe/live/62677690-4038-11f1-b55d-0f258dce1735.jpg",
+      "article_ids": [
+        "929d2921"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "929d2921",
+          "source": "BBC World",
+          "title": "卡佳·阿德勒：北约欧洲盟友反击据报美国对西班牙的威胁",
+          "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-25T00:10:51+00:00"
+        }
+      ],
+      "published_at": "2026-04-25T00:10:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "af04b365",
+      "title": "千载诗韵流淌 一城书香芬芳 — —池州市推进全民阅读厚植文化底蕴 - 长江网",
+      "summary": "多家媒体推出全民阅读主题相关报道，长江网报道安徽池州依托自身千载诗韵的文化积淀，推进全民阅读，厚植城市文化底蕴。此外还有建设书香中国、上海打造“宜读”城市、探讨全民阅读立法深层意义等相关报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ae37e69c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ae37e69c",
+          "source": "Google News (中国)",
+          "title": "千载诗韵流淌 一城书香芬芳 — —池州市推进全民阅读厚植文化底蕴 - 长江网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIb0ktdWowUFFVTndkaGQxQ0EyNmFTZmJia3Z4Wl9pS0lHU3p2eHNGS251azlJaUVQMFlzbjU2VlJ2UkRqbXFIZ0gyRzd3ZmFteWxMSVRYenp2b2xFdTBaS2pCSG5MUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-24T23:58:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T23:58:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5fc1893b",
+      "title": "史蒂夫·鲍尔默炮轰其支持过的认罪欺诈创始人：“我被骗了，感觉很蠢”",
+      "summary": "涉欺诈的创始人约瑟夫·桑伯格曾获史蒂夫·鲍尔默投资支持，在桑伯格认罪后的量刑阶段，鲍尔默写下措辞激烈的信件，炮轰桑伯格，称自己遭对方欺骗，为此感到懊恼，同时列明了自己作为投资者因此遭受的全部损害。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6f09552b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6f09552b",
+          "source": "TechCrunch",
+          "title": "史蒂夫·鲍尔默炮轰其支持过的认罪欺诈创始人：“我被骗了，感觉很蠢”",
+          "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "published_at": "2026-04-24T23:32:11+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T23:32:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c255eac",
+      "title": "珠峰造价数百万美元洪水预警系统荒废 数千人面临风险",
+      "summary": "珠穆朗玛峰区域伊姆扎冰川湖的洪水预警系统造价达数百万美元，自2016年起就未得到任何维护，早已荒废失能。心怀恐惧的当地居民向BBC披露了这一情况，目前该区域已有数千人因预警系统失效，面临洪水灾害威胁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/001b/live/825a5210-3fd4-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "f233e437"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f233e437",
+          "source": "BBC World",
+          "title": "珠峰造价数百万美元洪水预警系统荒废 数千人面临风险",
+          "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-24T23:28:09+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T23:28:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "771487de",
+      "title": "英首相府称福克兰群岛主权归属英国 此前传美国拟重审相关立场",
+      "summary": "近日有报道称，一份美国五角大楼内部文件显示，美方可能因英国未加入伊朗战争，改变其在福克兰群岛主权问题上的原有立场。英国首相府就此回应，明确福克兰群岛主权归属英国。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "ad791da3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ad791da3",
+          "source": "BBC World",
+          "title": "英首相府称福克兰群岛主权归属英国 此前传美国拟重审相关立场",
+          "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-24T22:55:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T22:55:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c748ce15",
+      "title": "据报道帕兰蒂尔正协助美国国税局调查金融犯罪",
+      "summary": "美国调查新闻机构《拦截》报道称，数据分析企业帕兰蒂尔正在协助美国国税局开展金融犯罪调查工作。信息显示，美国国税局最早从2018年开始，就已经在使用帕兰蒂尔开发的相关软件。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fa1a8591"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "fa1a8591",
+          "source": "TechCrunch",
+          "title": "据报道帕兰蒂尔正协助美国国税局调查金融犯罪",
+          "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+          "published_at": "2026-04-24T21:53:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T21:53:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "399d82a8",
+      "title": "深度求索新模型为何重要的三个原因",
+      "summary": "周五，中国人工智能企业深度求索发布了万众期待的全新旗舰模型V4预览版。该模型采用全新设计，可更高效处理大规模文本，能支持远超上一代长度的提示词，且延续了深度求索此前模型的开源属性。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f01b2e7a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "f01b2e7a",
+          "source": "MIT Technology Review",
+          "title": "深度求索新模型为何重要的三个原因",
+          "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+          "published_at": "2026-04-24T21:40:58+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T21:40:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bfcfedbb",
+      "title": "Cohere收购合并德国初创企业 打造‘跨大西洋AI巨头’",
+      "summary": "总部位于加拿大、为受监管行业企业提供AI工具的科技公司Cohere上周五宣布，将与德国AI企业Aleph Alpha合并。Aleph Alpha同样为企业和政府开发AI系统，本次合并旨在打造‘跨大西洋AI巨头’。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "06f641a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "06f641a7",
+          "source": "TechCrunch",
+          "title": "Cohere收购合并德国初创企业 打造‘跨大西洋AI巨头’",
+          "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+          "published_at": "2026-04-24T21:35:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T21:35:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9d6bff1a",
+      "title": "中国汽车巨头比亚迪称脱离美国市场也能蓬勃发展",
+      "summary": "中国汽车巨头比亚迪表示，不依赖美国市场也可实现蓬勃发展。当前全球燃油价格上涨，比亚迪已做好相关布局，能够抓住全球能源转型、逐步摆脱化石燃料的发展趋势，从中获得发展机遇。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8597/live/4f286c70-3ff6-11f1-b7e9-5d346a313b73.jpg",
+      "article_ids": [
+        "17adac94"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "17adac94",
+          "source": "BBC World",
+          "title": "中国汽车巨头比亚迪称脱离美国市场也能蓬勃发展",
+          "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-24T21:25:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T21:25:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "77a4cd9a",
+      "title": "两名大学生获510万美元预种子融资 拟在iMessage打造AI社交网络",
+      "summary": "两名大学生创业打造的社交应用Series目前已在大学校园走红，该项目宣布完成510万美元预种子融资，投资方不乏科技界知名人士，项目计划在iMessage平台搭建人工智能社交网络。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "76519a4b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "76519a4b",
+          "source": "TechCrunch",
+          "title": "两名大学生获510万美元预种子融资 拟在iMessage打造AI社交网络",
+          "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+          "published_at": "2026-04-24T21:05:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T21:05:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "04019e18",
+      "title": "标普展望转负面 芬兰获债务警告",
+      "summary": "标普全球评级宣布，将芬兰的债务信用展望从原本的稳定下调至负面，对芬兰发出债务警告。本次评级展望调整，主要原因是芬兰这个北欧国家的整体债务规模正处于持续增长的状态。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3FiSRRdbgM/v1/1200x-1.jpg",
+      "article_ids": [
+        "17125cb3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "17125cb3",
+          "source": "Bloomberg",
+          "title": "标普展望转负面 芬兰获债务警告",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-24/finland-gets-debt-warning-as-s-p-outlook-turns-negative",
+          "published_at": "2026-04-24T20:55:08+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:55:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ecf133a",
+      "title": "Meta损失人才 思考机器实验室获益",
+      "summary": "原本科技巨头Meta持续从思考机器实验室挖走人才，这场人才互动实际为双向流动。在人员的双向交换过程中，Meta遭遇了人才损失，最终思考机器实验室成为这场人才变动中的获益方。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9eee8ea8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9eee8ea8",
+          "source": "TechCrunch",
+          "title": "Meta损失人才 思考机器实验室获益",
+          "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "published_at": "2026-04-24T20:52:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:52:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ecf133a",
+      "title": "Meta之失，思考机器之得",
+      "summary": "一直以来，科技巨头Meta都在从思考机器实验室挖取人才，不过这场人才流动并非单向。实际上人才流向是双向的，Meta在挖走对方人才的同时，自身也有人才流入思考机器实验室，最终反倒让思考机器成为获益方。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9eee8ea8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9eee8ea8",
+          "source": "TechCrunch AI",
+          "title": "Meta之失，思考机器之得",
+          "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "published_at": "2026-04-24T20:52:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:52:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "730497d4",
+      "title": "微软允许用户单次最长暂停Windows更新35天 可无限次暂停",
+      "summary": "此前Windows用户常被迫在玩游戏或工作繁忙时进行自动更新，微软现已向开发、实验渠道的Windows预览体验成员推出广受期待的更新调整，新增功能支持用户无限次延迟更新，单次最长可达35天。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7fff40a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7fff40a7",
+          "source": "The Verge",
+          "title": "微软允许用户单次最长暂停Windows更新35天 可无限次暂停",
+          "link": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+          "published_at": "2026-04-24T20:45:58+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:45:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6eade7c",
+      "title": "X-energy扩股IPO后上市首日股价大涨27%",
+      "summary": "美国核电初创企业X-energy完成扩容后的首次公开募股，正式登陆纳斯达克交易所开启公开交易。上市首日该股受到投资者热捧，大量资金涌入，股价大幅上涨，单日涨幅达到27%。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "084efc5a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "084efc5a",
+          "source": "TechCrunch",
+          "title": "X-energy扩股IPO后上市首日股价大涨27%",
+          "link": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+          "published_at": "2026-04-24T20:10:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:10:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61857bc1",
+      "title": "亚历克斯·琼斯揭露又一起重大阴谋",
+      "summary": "长期传播阴谋论的亚历克斯·琼斯经营数十年的网络平台《信息战》，即将被讽刺报纸《洋葱》收购。琼斯在易主前爆出所谓\"阴谋\"，称《洋葱》新任创意总监、喜剧演员蒂姆·海德克尔有不为人知的过往经历，实际上相关信息早已公开可查。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "529fcba0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "529fcba0",
+          "source": "The Verge",
+          "title": "亚历克斯·琼斯揭露又一起重大阴谋",
+          "link": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
+          "published_at": "2026-04-24T20:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T20:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24c41184",
+      "title": "创作者渴求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+      "summary": "面向创作者提供AI内容生成工具的ComfyUI完成3000万美元融资，公司估值达到5亿美元。该工具可赋予创作者对AI生成图像、视频与音频内容更多控制权，适配了当下创作者群体对AI生成媒体自主控制权的需求，获得资本青睐。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cfe7bb1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "cfe7bb1f",
+          "source": "TechCrunch",
+          "title": "创作者渴求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+          "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "published_at": "2026-04-24T19:49:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T19:49:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24c41184",
+      "title": "创作者寻求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+      "summary": "主打为创作者提供AI图像、音视频生成更多控制权工具的ComfyUI，近日完成3000万美元融资，公司估值达到5亿美元。当前创作者对AI生成媒体的自主掌控需求上升，带动相关AI工具企业获得资本青睐。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cfe7bb1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "cfe7bb1f",
+          "source": "TechCrunch AI",
+          "title": "创作者寻求AI生成媒体更多控制权 ComfyUI估值达5亿美元",
+          "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "published_at": "2026-04-24T19:49:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T19:49:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a94ea115",
+      "title": "X在iOS推出独立XChat应用",
+      "summary": "社交媒体平台X近日在iOS端推出独立聊天应用XChat。这款全新应用主打私密沟通场景，可为用户提供私密聊天、自动消失消息、音频及视频通话等多项功能，满足用户的私密社交沟通需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bf74a0db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "bf74a0db",
+          "source": "TechCrunch",
+          "title": "X在iOS推出独立XChat应用",
+          "link": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+          "published_at": "2026-04-24T19:46:58+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T19:46:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d08abb80",
+      "title": "涉嫌泄露派拉蒙新《降世神通》电影的嫌疑人已被捕",
+      "summary": "派拉蒙天空舞公司就其待上映动画电影《降世神通：最后的气宗》泄露上网一事启动调查，目前一名涉案嫌疑人已被警方逮捕。据《海峡时报》报道，落网嫌疑人是涉嫌上传该影片的一名26岁新加坡男子。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "15ddedf6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "15ddedf6",
+          "source": "The Verge",
+          "title": "涉嫌泄露派拉蒙新《降世神通》电影的嫌疑人已被捕",
+          "link": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
+          "published_at": "2026-04-24T19:45:01+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T19:45:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a0bf10cb",
+      "title": "顶尖大学网站为何出现色情内容？根源在于管理不善",
+      "summary": "数十所顶尖高校的数百个子域名已遭到诈骗分子劫持，被滥用于展示色情内容。相关分析指出，该问题并非源于复杂黑客攻击，核心原因是高校对官网域名日常运维管理松散粗糙，给不法分子留下了可乘之机。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-1152x648.jpg",
+      "article_ids": [
+        "632dd6a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "632dd6a2",
+          "source": "Ars Technica",
+          "title": "顶尖大学网站为何出现色情内容？根源在于管理不善",
+          "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+          "published_at": "2026-04-24T19:00:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T19:00:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf38f7ef",
+      "title": "谷歌将以现金及算力形式向Anthropic投资最高400亿美元",
+      "summary": "当前AI领域竞争者竞相争夺大规模算力，谷歌计划向AI企业Anthropic投资最高400亿美元，投资形式包含现金与算力。此前Anthropic刚限量推出侧重网络安全的高性能Mythos模型，此次投资就发生在该模型发布之后。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1b3680d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1b3680d0",
+          "source": "TechCrunch",
+          "title": "谷歌将以现金及算力形式向Anthropic投资最高400亿美元",
+          "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "published_at": "2026-04-24T18:00:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T18:00:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf38f7ef",
+      "title": "谷歌拟向Anthropic投资最高400亿美元 涵盖现金与算力",
+      "summary": "当前AI赛道各大厂商竞相争夺大规模算力资源，Anthropic推出聚焦网络安全的高性能大模型Mythos并开启有限发布后，谷歌计划向其投资最高400亿美元，投资包含现金与算力两部分。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1b3680d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "1b3680d0",
+          "source": "TechCrunch AI",
+          "title": "谷歌拟向Anthropic投资最高400亿美元 涵盖现金与算力",
+          "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "published_at": "2026-04-24T18:00:03+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T18:00:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ba46015",
+      "title": "苹果将迎新CEO，埃隆·马斯克拟600亿美元收购Cursor的原因",
+      "summary": "苹果即将进入发展新时代，现任CEO蒂姆·库克计划于9月卸任，将管理权交予硬件主管约翰·特努斯。特努斯接棒的是科技领域生命力极强的成熟业务，但他面临的产业生态已和库克数十年打造的局面大不相同。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "858c1c84"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "858c1c84",
+          "source": "TechCrunch AI",
+          "title": "苹果将迎新CEO，埃隆·马斯克拟600亿美元收购Cursor的原因",
+          "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+          "published_at": "2026-04-24T17:45:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-24T17:45:57+00:00",
+      "is_merged": false
+    }
+  ]
+}
