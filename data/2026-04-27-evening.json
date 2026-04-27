@@ -1,0 +1,2394 @@
+{
+  "date": "2026-04-27",
+  "edition": "evening",
+  "updated_at": "2026-04-27T22:15:59.433997+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "705b1c5b",
+      "title": "经数月调查 中国否决Meta 20亿美元收购Manus交易",
+      "title_original": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "summary": "中国历经数月调查后，否决了Meta斥资20亿美元收购Manus的交易，责令Meta剥离该笔收购。该决定或给扎克伯格推进人工智能智能体领域的布局带来潜在阻碍。",
+      "summary_original": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T13:16:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "705b1c5b",
+      "title": "经数月调查 中国否决Meta20亿美元收购Manus交易",
+      "title_original": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "summary": "经长达数月的调查，中国已要求Meta终止并剥离对Manus的20亿美元收购交易。该交易是扎克伯格布局人工智能智能体领域的重要动作，此次否决将给这一发展计划带来潜在阻碍。",
+      "summary_original": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-27T13:16:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d26cae5c",
+      "title": "OpenAI或打造以AI智能体取代应用的手机",
+      "title_original": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "有行业分析师透露，OpenAI计划打造一款特殊智能手机，这款手机将以AI智能体替代传统应用，打破现有手机以应用为核心的服务模式，该产品目前预计有望于2028年投入大规模量产。",
+      "summary_original": "The phone could go in mass production in 2028, an analyst says.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T13:08:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d26cae5c",
+      "title": "OpenAI或将推出AI智能体取代应用的手机",
+      "title_original": "OpenAI could be making a phone with AI agents replacing apps",
+      "summary": "人工智能企业OpenAI正计划打造一款创新性智能手机，该机将以AI智能体替代传统手机应用。据行业分析师透露，这款特殊手机有望于2028年进入大规模量产阶段，目前暂未公布更多项目细节。",
+      "summary_original": "The phone could go in mass production in 2028, an analyst says.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-27T13:08:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2228e73d",
+      "title": "马里国防部长在伊斯兰叛乱分子袭击中身亡",
+      "title_original": "Mali’s Defense Minister Killed in Attacks by Islamist Insurgents",
+      "summary": "伊斯兰叛乱分子发动袭击，造成马里国防部长萨迪奥·卡马拉将军身亡。萨迪奥·卡马拉是马里军政府的核心人物，这一事件发生在当地所在区域暴力活动不断升级的背景下，目前马里地区安全局势正持续恶化。",
+      "summary_original": "The death of the minister, Gen. Sadio Camara, a central figure in the country’s military government, comes amid escalating violence in the region.",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-mali-wmkb/27int-mali-wmkb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-27T13:08:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e507cc19",
+      "title": "关键基础设施巨头艾创称遭黑客攻击",
+      "title_original": "Critical infrastructure giant Itron says it was hacked",
+      "summary": "美国科技巨头艾创是全球关键基础设施服务商，为数亿家庭和商业机构提供水务监测、能源监测设备以及公用事业计量表，服务覆盖大量民生相关领域，该公司日前对外宣布已遭到黑客攻击。",
+      "summary_original": "The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T13:03:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7a568248",
+      "title": "沃尔玛计划周一发售投资级债券",
+      "title_original": "Walmart Plans to Sell Investment-Grade Bonds on Monday",
+      "summary": "美国零售巨头沃尔玛公司计划于周一发售以美元计价的投资级债券，本次发售的债券最多分为五个部分推出，此次拟发行的债券全部为符合投资级信用要求的品种，相关发售工作将按既定安排如期启动。",
+      "summary_original": "Walmart Inc plans to sell dollar-denominated investment-grade bonds in as many as five parts on Monday.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWff0bjj3Gvo/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/walmart-plans-to-sell-investment-grade-bonds-on-monday",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T12:58:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3810b702",
+      "title": "红木资本计划募集10亿美元基金布局长期非流动性信贷投资",
+      "title_original": "Redwood Plans $1 Billion Fund for Long, Illiquid Credit Bets",
+      "summary": "受复杂债务操作影响，当前债务重组进程普遍被拉长，红木资本管理正寻求募集约十亿美元资金，设立专门用于持有长期限非流动性信贷投资的专项基金，布局相关信贷投资机会。",
+      "summary_original": "Redwood Capital Management is seeking to raise about $1 billion for a fund built to hold illiquid credit investments with long time horizons, as complex debt maneuvers stretch out the path to restructurings.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCVvcLvcbfC0/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/redwood-plans-1-billion-fund-for-long-illiquid-credit-bets",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T12:54:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "97e0bf8f",
+      "title": "ISS支持维权投资者后 斯沃琪集团投资者纷争升级",
+      "title_original": "Swatch Group Investor Battle Heats Up After ISS Backs Activist",
+      "summary": "斯沃琪集团目前面临新一轮投资者施压，核心代理咨询机构机构股东服务公司（ISS）建议股东，支持一名由美国维权投资者推举的董事会候选人，这一动态令斯沃琪集团的投资者纷争进一步升温。",
+      "summary_original": "The Swatch Group AG is facing renewed investor pressure after a key proxy adviser Institutional Shareholder Services recommended shareholders support a board candidate backed by a US activist.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJdGFfzreeBo/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/swatch-group-investor-battle-heats-up-after-iss-backs-activist",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T12:42:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "945c5581",
+      "title": "法国兴业银行拟推进涉及超100亿美元贷款的风险转移交易",
+      "title_original": "Societe Generale Eyes SRT Deal Tied to Over $10 Billion of Loans",
+      "summary": "法国兴业银行正考虑推出一笔与超过90亿欧元（约合105亿美元）贷款挂钩的大规模风险转移交易，若该交易达成，将成为近年来规模最大的同类交易之一。",
+      "summary_original": "Societe Generale SA is mulling a significant risk transfer tied to over €9 billion ($10.5 billion) of loans in what would be one of the largest such deals seen in recent years.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL0TD2LwJUZw/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/societe-generale-eyes-srt-deal-tied-to-over-10-billion-of-loans",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T12:41:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b116d166",
+      "title": "英特尔启动债券发售以回购爱尔兰工厂股权",
+      "title_original": "Intel Kicks Off Bond Sale to Help Buy Back Ireland Plant Stake",
+      "summary": "英特尔已启动投资级债券发售，募资所得将为一笔总额142亿美元的交易提供融资，用于回购爱尔兰一家半导体工厂的股权，帮助英特尔重新获得这家工厂的全部所有权。",
+      "summary_original": "Intel Corp. has kicked off the sale of investment-grade debt to help finance a $14.2 billion deal to retake full ownership of an Irish semiconductor plant.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRWSWPwAYNt8/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/intel-kicks-off-bond-sale-to-help-buy-back-ireland-plant-stake",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T12:39:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a674b8a5",
+      "title": "分离主义袭击后 俄武装人员确认撤出马里北部城市",
+      "title_original": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "summary": "分离主义袭击发生后，俄罗斯武装人员确认已撤出马里北部一座城市。图阿雷格族武装与伊斯兰组织携手，于周末在马里全境发动系列袭击，目前该族武装宣称已经掌控马里北部城市基达尔，当地局势因此生变。",
+      "summary_original": "Ethnic Tuareg fighters say they are in control of Kidal following a weekend of nationwide attacks, alongside Islamist groups.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2a/live/50d285b0-4235-11f1-b55d-0f258dce1735.jpg",
+      "link": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T12:36:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cbbc45a7",
+      "title": "《科技速递》：深度求索最新AI突破与世界模型构建竞赛",
+      "title_original": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "summary": "科技工作日资讯栏目《The Download》推出最新一期，内容聚焦中国AI企业深度求索的技术进展：上周五深度求索发布万众期待的全新旗舰模型V4预览版，该模型可处理更长的输入提示，其技术突破引发行业对世界模型研发竞赛的关注。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-27T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1104b378",
+      "title": "Spotify的新赛道：健身内容",
+      "title_original": "Spotify’s next frontier: fitness content",
+      "summary": "流媒体平台Spotify开辟全新内容赛道，将健身列为下一主要发展内容类别，在平台应用内面向免费用户和高级会员，推出健身训练视频、专属健身歌单以及Peloton课程等健身相关内容，发力布局健身内容领域。",
+      "summary_original": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3f303397",
+      "title": "Govee多彩吸顶灯可兼作低分辨率屏幕",
+      "title_original": "Govee’s multicolor ceiling light doubles as a low-res screen",
+      "summary": "智能照明品牌Govee近期新品发布密集，过去几周已先后推出首款太阳能灯、无线台灯和升级款LED灯墙，近日又发布全新多彩吸顶灯，该产品今日起通过品牌官方网店及亚马逊开售，售价为249.99美元。",
+      "summary_original": "The smart lighting company is having a busy month. After releasing its first solar-powered lights, a cordless table lamp, and an updated LED light wall over the past few weeks, Govee has announced a new multicolor ceiling light. Available starting today through the company's online store and Amazon for $249.99, the Govee Ceiling Light Ultra [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "44b207b3",
+      "title": "Spotify与Peloton合作推出指导性健身课程",
+      "title_original": "Spotify is partnering with Peloton for guided workouts",
+      "summary": "流媒体平台Spotify此前已尝试推出定制跑步歌单，如今进一步深耕健身领域，不仅推出定制歌单以及多位健身创作者的相关内容，还将向平台高级订阅用户开放Peloton提供的超1400节健身课程。",
+      "summary_original": "Spotify has dabbled in customized running playlists, but now it's diving more firmly into the fitness space with curated playlists and content from creators like Yoga with Kassandra, Sweaty Studio, Chloe Ting, and Pilates Body by Raven. Not only that, but Premium subscribers will have access to over 1,400 classes from Peloton. Spotify has already [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bd188110",
+      "title": "华盛顿媒体晚宴疑似枪手案情新进展",
+      "title_original": "What we're learning about suspected Washington press dinner gunman",
+      "summary": "华盛顿一场媒体晚宴发生涉枪事件，一名疑似枪手被警方逮捕，本次活动有美国总统特朗普到场出席。目前相关方面正梳理该案相关细节，这名被捕的涉案嫌疑人已确定将于周一出庭接受审理。",
+      "summary_original": "The man arrested at the event attended by President Trump is due in court on Monday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg",
+      "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T11:56:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "040494e7",
+      "title": "这会是三星即将推出的宽屏折叠手机吗",
+      "title_original": "Is this Samsung’s upcoming wide foldable?",
+      "summary": "三星据称正在研发一款宽屏折叠手机，预计将于今年晚些时候面世。爆料人、记者桑尼·狄克逊近日在网上分享图片，称图中是三星即将推出的Galaxy系列折叠产品（含Z Fold 8）的模型机，让外界得以提前窥见该机的大致外观。",
+      "summary_original": "The wide foldable phone that Samsung is reportedly developing is expected to arrive later this year, and now we may have some idea of what it will look like. Leaker and journalist Sonny Dickson has shared images online of what he says are dummy units of Samsung's upcoming Galaxy foldables, including the \"Z Fold 8 [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-27T11:52:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1262f624",
+      "title": "哥伦比亚悬赏创纪录140万美元缉拿被指制造致命爆炸袭击的叛军头目",
+      "title_original": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "summary": "哥伦比亚当局日前宣布悬赏创纪录的140万美元，抓捕一名被指控制造致命爆炸袭击的叛军头目。官方证实，绰号“马龙”的叛军头目下令发动了此次袭击，事件共造成20人死亡。",
+      "summary_original": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3435/live/f7d67d70-421d-11f1-97bd-d54feb3e8e45.jpg",
+      "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T11:42:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "407f3161",
+      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+      "title_original": null,
+      "summary": "近日，智能割草机器人企业未岚大陆第100万台产品在常州研发生产基地下线，该企业已完成马来西亚产线建设并投产，形成“中国+马来西亚”双基地布局，目前它凭借自研核心技术拿下连续两年全球无边界割草机器人零售量第一，销售网络覆盖全球40余个国家和地区。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_a42ad998120340b699511c5956253c41@6022551_oswg2637929oswg2010oswg1336_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3784879395134465?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T11:41:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f883c9a7",
+      "title": "李希会见白俄罗斯总统办公厅代表团 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "中共中央政治局常委李希在北京会见白俄罗斯总统办公厅代表团。白俄罗斯总统办公厅主任克鲁托伊此次访华，双方就深化中白合作开展洽谈，均表达了充实中白全天候伙伴关系务实内涵、巩固坚如磐石的中白传统友谊的意愿。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR1VBT2NVSGFRajdGck0zNVJrbzh4NWVidTQyQnhkOFUyekFfdUhxcEtDdmIyZExVVHJnRFF2TDJNU2Zzb3VzMWVSRWc5RGJFM205eGxWRU9vS2FXem13cUlZeHl1Q2djaDYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T11:39:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e4eeb47",
+      "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+      "title_original": null,
+      "summary": "五一假期将至，香港入境事务处预计假期约600万人次进出香港；滴滴发放近4亿元司机补贴保障出行，在全国超200城上线打车优惠。韩国证实谷歌将与其共建首尔人工智能园区；英国调查显示超六成大型企业不清楚自身敏感数据在海外被AI使用的具体情况。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3784957482523648?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T11:25:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ebb824d7",
+      "title": "大主教访问梵蒂冈期间称赞教皇反战言论",
+      "title_original": "Archbishop praises Pope's anti-war comments during Vatican visit",
+      "summary": "英格兰教会首位女性领袖萨拉·穆拉利女爵访问梵蒂冈，访问期间她与教皇利奥举行了非公开会谈。穆拉利在此次行程中公开称赞教皇发表的反战言论，这一宗教高层会面也引发了外界的关注。",
+      "summary_original": "Dame Sarah Mullally, the first female head of the Church of England, had a private discussion with Pope Leo during the trip.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/a41c84d0-422d-11f1-aed7-a5ecaff37aa4.jpg",
+      "link": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T11:19:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a2a48a13",
+      "title": "加拿大称其黄金可溯源且洁净，我们展开溯源调查",
+      "title_original": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
+      "summary": "加拿大对外宣称其出产的黄金可溯源、来源洁净合规，相关调查人员为核实这一说法展开溯源调查，最终追踪发现，相关黄金实际产自哥伦比亚一处被贩毒集团控制的矿区。",
+      "summary_original": "We ended up in a Colombian mine controlled by a drug cartel.",
+      "image": "https://static01.nyt.com/images/2026/04/22/world/00int-gold-canada/00int-gold-canada-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/27/world/americas/royal-canadian-mint-gold-drug-cartel-colombia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-27T11:04:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1dfb9eb",
+      "title": "AI设计的汽车已初具雏形",
+      "title_original": "The AI-designed car is taking shape",
+      "summary": "当前汽车设计领域已拥有诸多先进的3D可视化工具与VR雕刻平台，但传统新车设计仍起步于手绘草图，需经过多方位反复迭代修改后，再由手工转换为3D模型，如今AI设计的汽车正逐步成型。",
+      "summary_original": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-27T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1dfb9eb",
+      "title": "人工智能设计的汽车初现雏形",
+      "title_original": "The AI-designed car is taking shape",
+      "summary": "当前汽车设计领域已拥有先进3D可视化工具与VR雕刻平台，但绝大多数常规新车的设计仍始于手绘草图。传统流程中，草图需经过多方位反复迭代打磨，再手动转为3D模型，部分方案止步数字阶段，仅有部分能进入后续开发。",
+      "summary_original": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-27T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d3ea670d",
+      "title": "高市早苗称要为长期战争做准备 - 新京报",
+      "title_original": null,
+      "summary": "日本政客高市早苗公开发表言论，声称需要为长期战争提前做好相关准备，相关言论引发外界关注。这一事件相关内容由新京报报道，感兴趣的读者可前往Google新闻平台查看该报道的完整内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVcFN5NndwV3FxNWpydVFmR01UOTVBeWljakwyMkhhUW5mcnZXZFRhMmdiRG9sOHBZLXV5eHIyZW80UEh6ZnMwYkppV0h4WEVoZk9sLVE5NmoxSm1HQ3haaURWaGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T10:49:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fa3c0139",
+      "title": "中国业主争取社区控制权",
+      "title_original": "Homeowners Fight for Control of Their Community in China",
+      "summary": "部分中国业主与开发商产生纠纷，为争取社区控制权，业主们开展了一系列维权行动：他们签署请愿书、组织集会，还在卡拉OK活动期间召开策略会议，共同商议应当以多大力度向有关方面施压，推动纠纷解决，维护自身权益。",
+      "summary_original": "They signed petitions, organized rallies and held strategy sessions over karaoke, debating how far to push the authorities in their dispute with a developer.",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/00int-china-homeowners-cbzq/00int-china-homeowners-cbzq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/27/world/asia/china-homeowners-associations.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-27T10:42:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4ba1c72e",
+      "title": "查尔斯国王能否弥合英美裂痕？",
+      "title_original": "Can King Charles Help Heal the U.S.-British Rupture?",
+      "summary": "英国君主查尔斯国王将对美国进行访问，此次访问所处的英美关系局势之紧张，自苏伊士危机发生后伊丽莎白二世到访华盛顿以来尚属首次，外界普遍关注查尔斯此行能否弥合英美两国当前的关系裂痕。",
+      "summary_original": "Not since his mother, Queen Elizabeth II, traveled to Washington after the Suez Crisis has a visit by the British monarch come at such a fraught time in Anglo-American relations.",
+      "image": "https://static01.nyt.com/images/2026/04/27/world/27int-uk-royals-trump-00001/27int-uk-royals-trump-00001-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-27T10:32:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ac86a9e8",
+      "title": "这款触摸屏鼠标堪称过度设计噩梦",
+      "title_original": "This touchscreen mouse is my over-engineering nightmare",
+      "summary": "外设品牌乌龟海岸最新推出的PC外设系列主打触摸屏设计，甚至将触控屏加装在了游戏鼠标上。这款属于Command系列的MC7无线游戏鼠标售价160美元，在鼠标左侧配备了一块2.25英寸的触控显示条。",
+      "summary_original": "Turtle Beach's latest collection of PC peripherals are so focused around touchscreen displays that the company even slapped one on a gaming mouse. The $160 wireless Command Series MC7 features a 2.25-inch touch display bar on the left side of the mouse, which seems to be located in just the right position for users to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-27T10:10:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b64ebc1",
+      "title": "Meta签署协议获取太空传输的夜间太阳能",
+      "title_original": "Meta inks deal for solar power at night, beamed from space",
+      "summary": "能源企业Overview Energy与科技公司Meta签署了双方首份合作合同，内容为Meta获取由太空传输的夜间太阳能，这份合作是天基太阳能发展进程中的一小步，推动人类向天基太阳能普及应用的未来迈进。",
+      "summary_original": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b64ebc1",
+      "title": "Meta签署太空传输夜间太阳能合作协议",
+      "title_original": "Meta inks deal for solar power at night, beamed from space",
+      "summary": "能源企业Overview Energy与科技公司Meta签署双方首份合作协议，内容为获取从太空传输的夜间太阳能。天基太阳能发电目前仍处于发展初期，这一合作被认为是人类迈向天基太阳能实用化未来的一小步。",
+      "summary_original": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-27T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "edfce87f",
+      "title": "2026年4月27日外交部发言人林剑主持例行记者会 - ke.china-embassy.gov.cn",
+      "title_original": null,
+      "summary": "2026年4月27日，外交部发言人林剑主持外交部例行记者会，本次记者会相关内容原发于中国驻外使馆官方网站ke.china-embassy.gov.cn，目前完整报道可在Google新闻平台查看，有需求的受众可前往该平台浏览本次记者会的全部内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzV0RXTTJWYTkyNnowZFdyZXBxdk5ta1NScVFiWE1SS2N1SmhFZ1haTk5aQk9lMVVzU1FWaVhSSHBLTzRfV1JUT1VzTk9Fck9nSzVHdnJzWjI4TUl6ODQxeHh2QnFKbXc3Ti1YbnU3RnY0dXYwSWtpcENrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T09:46:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7fedcd84",
+      "title": "迈克尔·杰克逊传记片打破票房纪录",
+      "title_original": "Michael Jackson biopic smashes box office record",
+      "summary": "这部以迈克尔·杰克逊为主题的传记片尽管收获较差口碑评价，却在全球票房市场表现抢眼，目前已拿下总计2.17亿美元，约合1.6亿英镑的全球票房，成功打破票房纪录。",
+      "summary_original": "The film received poor reviews but has stormed the box office, taking $217m (£160m) globally.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/bf1520f0-4217-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T09:44:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "354c0a23",
+      "title": "告别屏幕沉迷，小红书把年轻人「赶出门」",
+      "title_original": null,
+      "summary": "这个春天，colorwalk（色彩漫步）在小红书走红，3月平台新增相关内容27万篇，总曝光达39亿次。该活动鼓励年轻人告别屏幕沉迷，以寻找色彩的方式重新感知日常，衍生出多样玩法，依托社区互动，帮助人们重拾对生活的敏锐与热爱。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_d8962fba90e141c2bbe13f217ce54c6f@5679941_oswg1008088oswg1080oswg821_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3784867361381633?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T09:27:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6c39c0db",
+      "title": "乍得水井纠纷升级 至少42人死亡",
+      "title_original": "At least 42 killed in Chad after water well dispute escalates",
+      "summary": "乍得当地近日发生一起因水井引发的冲突，纠纷最初发生在两个家族之间，随后矛盾不断发酵升级，逐步发展为循环往复的报复袭击，这起事件目前已造成至少42人死亡。",
+      "summary_original": "The dispute was initially between two families before escalating into a cycle of reprisal attacks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9f/live/2ffb1800-4214-11f1-9a91-2b6b858bae5e.jpg",
+      "link": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T09:20:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8be87f11",
+      "title": "安全会谈后特朗普称国王访美期间将“非常安全”",
+      "title_original": "Trump says King will be 'very safe' during US visit after security talks",
+      "summary": "此前一名枪手瞄准一场有美国总统出席的活动，由此引发外界对国王访美行程的安全担忧。在相关安全会谈后，特朗普表示国王访美期间将非常安全，尽管存在安全顾虑，本次国事访问仍将按计划推进。",
+      "summary_original": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd1/live/75057c40-421b-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T09:19:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b4c16320",
+      "title": "围绕乌克兰所谓“神圣”战事 朝俄承诺深化双边关系",
+      "title_original": "Fighting ‘Sacred’ War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
+      "summary": "朝鲜与俄罗斯共同为阵亡于俄罗斯对乌克兰战争中的朝鲜士兵揭幕了纪念碑，双方在本次活动中讨论了两国长期军事合作相关事宜，同时明确承诺，未来将进一步深化两国双边关系。",
+      "summary_original": "The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-nkorea-russia-qjvw/27int-nkorea-russia-qjvw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-27T09:10:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4673d526",
+      "title": "中国禁止Meta斥资20亿美元收购Manus",
+      "title_original": "China Blocks Meta’s $2 Billion Acquisition of Manus",
+      "summary": "本信息仅来自该新闻标题，内容显示Meta拟斥资20亿美元收购Manus，该笔收购交易已被中国禁止，无法从该标题获取更多相关细节",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/china-blocks-metas-2-billion-acquisition-manus",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-27T08:45:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fb5a4e96",
+      "title": "全民阅读活动周|书香润东宁阅读伴同行_地方聚焦 - 人民论坛网",
+      "title_original": null,
+      "summary": "近期，多家主流媒体推出一系列全民阅读相关报道：人民论坛网关注东宁“书香润东宁 阅读伴同行”全民阅读活动周，人民网报道上海“书香满城，阅启新程”阅读活动，中国日报网披露宁夏兴庆区发布全民阅读工作计划及“书香兴庆”年度服务清单，多家平台也推送了倡导全民多读书的相关内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQzRkZW1rLUs5MEktZmZraVZtTlBIQkdRUzJFd3ZCR0JGT1o0aUJGWEh2YUQtQ3YtOVNjY3ZvVmhGN2IyUmJMNWhBVmdyX2VXeWRtNTZlYXFEQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T08:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "50935b72",
+      "title": "“五一”期间广东或有大暴雨，省三防办发布防御通知 - 羊城晚报",
+      "title_original": null,
+      "summary": "\"五一\"假期广东将遭遇强降雨过程，部分时段可能出现大暴雨，局部地区还可能出现龙卷风。目前多地已发布对应气象预警：湛江发布暴雨红色预警，汕头澄海发布雷雨大风黄色预警，惠州28至29日将迎大暴雨，针对本次过程，广东省三防办已发布防御通知。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LS0hRNkRhNmRpajZ1eS1YUHM2X1Jwc1cyVUI5WFFCcS1kQ3ROOG9MeXlwTjRHcGtWWU1UWndRUVJaUXlfUDBwTkpIaExuTWJnMHBsZ0Uzb3psVXE3SXExZkd3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T08:36:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b1ce7c05",
+      "title": "津云：第三届全国大学生职业规划大赛总决赛举行 天津大学斩获3金1银 - 天津大学新闻网",
+      "title_original": null,
+      "summary": "第三届全国大学生职业规划大赛全国总决赛已收官，天津大学在本次赛事中斩获3金1银。同期，“山海寻梦”职业生涯主题实践活动在天津举办，多家主流媒体平台对本次赛事及参赛选手的相关故事进行了报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5udnRGdmNSbXo0dUhrMmRJem9vWlJTY3RDVW5MX3VfM0g0UUp5NHdDclNubkNNelItQXRtUVlNcm94bzQzQWJyS2k0NkpMbXVtLVo4ZEFrVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T08:25:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5afc1e81",
+      "title": "中国叫停Meta以20亿美元收购AI企业Manus",
+      "title_original": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
+      "summary": "中国已决定叫停Meta平台公司以20亿美元收购智能AI初创企业Manus的交易。该交易此前因涉嫌技术向美国泄露引发争议，此次终止这项颇具争议的交易，是出乎外界意料的举措。",
+      "summary_original": "China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv_EIvDRvw5k/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T08:19:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4afeee1f",
+      "title": "太阳能发电量大增 欧洲电价跌至历史新低",
+      "title_original": "Europe Power Prices Crash to Record Lows on Strong Solar Output",
+      "summary": "受太阳能发电量大幅攀升影响，叠加周末气候温和抑制用电需求，德国电价在上周日暴跌至历史最低水平，这一走势带动欧洲整体电价下探，创下有史以来的最低电价纪录。",
+      "summary_original": "German power prices plunged to record lows on Sunday as solar generation surged and mild weather curbed weekend demand.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIkq8UoWCphk/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/europe-power-prices-crash-to-record-lows-on-strong-solar-output",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T07:50:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "feef49b1",
+      "title": "外交部谈白宫记协晚宴枪击事件：中方一贯反对和谴责非法暴力行为 - 观察者",
+      "title_original": null,
+      "summary": "美国白宫记协晚宴发生枪击事件，枪手路径曝光：其通过房卡放行进入，在隔间组装枪支后直冲宴会厅。事件引发担忧，美国政治暴力日益加剧，正威胁美国民主的基本仪式。事件后特朗普借机推动4亿美元白宫宴会厅计划，中方对此表态，一贯反对和谴责非法暴力行为。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNU1WbnZnWEdGOGlNNVB3ckJSczVQbkRISkdFelMxZ3lfMkNFV0ZMOEQtMnF1aUl4cFdvc2w1a3BwTmZyaW5kMXp4SDllWEVQelZfdjA5UWpqcU1MVFc5RHhJTzQxMXlHblE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T07:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a73cc9ea",
+      "title": "伊朗高层就与美谈判分裂，特朗普停战梦碎_期市动态 - 中金在线",
+      "title_original": null,
+      "summary": "伊朗高层在是否与美国开展谈判一事上出现内部分裂，这一状况导致特朗普原本期待推进的美伊停战相关计划落空。该内容出自中金在线的期市动态栏目，完整报道可在Google新闻平台查看。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcFFIZ05mZFotM1NGdkZFUk9xNGNkRzVXNU9MbE5XX2lfMFpnV3AzWEtGUzNSbzJTdVJMbVpjQnJad0NwZFJMMmNuSlNKZ2dtMGdRclB1MW1IRjN2N0hsV2Z3RGJVSy16TU4tRjhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T07:08:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c02a5ab0",
+      "title": "威胁等级上升 索马里沿海海盗再劫持一艘船只",
+      "title_original": "Pirates seize another vessel off Somali coast as threat level increased",
+      "summary": "英国海事监测机构报告显示，过去一周内，索马里沿海海域已发生至少四起疑似海盗事件。目前海盗再次劫持一艘船只，该区域海盗活动威胁等级已上调，提醒过往航船提高警惕，加强安全防范。",
+      "summary_original": "The UK's maritime monitor reports at least four suspected piracy incidents in the past week off the coast of Somalia.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34be/live/3aec2c80-41f7-11f1-bfb9-d715fdf49550.jpg",
+      "link": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T06:53:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c0d3ebaf",
+      "title": "金正恩为乌克兰战争中阵亡的朝鲜士兵揭幕纪念碑",
+      "title_original": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+      "summary": "朝鲜最高领导人金正恩与俄罗斯国防部长安德烈·别洛乌索夫，在朝鲜平壤共同为纪念碑揭幕，这座纪念碑用以纪念在乌克兰战争中阵亡的朝鲜士兵，本次揭幕仪式正式完成了纪念设施的揭幕落成。",
+      "summary_original": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66e1/live/14490d30-41f9-11f1-bfb9-d715fdf49550.jpg",
+      "link": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T06:52:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "09a5ade5",
+      "title": "巴黎卓越工程师学院中心组召开树立和践行正确政绩观学习研讨会 - 上海交通大学 新闻网",
+      "title_original": null,
+      "summary": "近期，多地多部门围绕树立和践行正确政绩观开展相关学习教育活动，上海交通大学巴黎卓越工程师学院中心组专门召开相关学习研讨会。多家媒体关注该议题，指出政绩观问题是根本性问题，部分地区构建全链条闭环工作机制，推动学习教育落地见效，实干为民。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05dzNMWWx6U2EwRENiTVduMzFFOC01ZDM2TVFJRkw4YUpFbjdaSlpWS0ZiU28wRGJVdmZxa2dJcHh3OTlqNmZDeFZIQUhvSGFwcmo0amU2ZkJIYkJSdEgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T06:49:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cb5acb4c",
+      "title": "法国少年舔自动售卖机吸管 或将在新加坡面临监禁",
+      "title_original": "French teen who licked vending machine straw faces jail in Singapore",
+      "summary": "一名法国少年在新加坡舔公共自动售卖机的吸管后，将舔舐过程拍成视频发布到社交媒体。该行为触发相关法律追责，目前这名少年可能面临超过两年的监禁刑期。",
+      "summary_original": "The teen, who posted on social media a video of himself licking the straw, could be jailed for more than two years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1322/live/54eb3cb0-41fd-11f1-9626-31907e7084f1.jpg",
+      "link": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-27T06:40:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88c0d333",
+      "title": "伊朗外长：巴基斯坦伊斯兰堡之行“非常成功” - chinanews.com.cn",
+      "title_original": null,
+      "summary": "伊朗外长阿拉格齐访问巴基斯坦伊斯兰堡，伊方称此次访问非常成功，此访聚焦停火相关议题，伊朗外长向巴方递交了停战条件，当前仍留有谈判窗口，伊朗外长或将再次访巴探讨停火与合作。此外伊朗官员透露，美伊或于未来几天举行第二轮谈判。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvWTJJU013cldvZEhTTmc4blUzbmNxWkFVV1hqOUplV094M1ZyYzd6WUY0NkJDdk9lblYyZFd0MzBwVlF6Q2JudFFWSjZwazNoTUhuS3A2aC1SV2NhZ0lNXzczY0RsWE9i?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-27T05:46:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "103f49a2",
+      "title": "马斯克放弃针对OpenAI的欺诈指控",
+      "title_original": "Musk Drops Fraud Claims Against OpenAI",
+      "summary": "现有公开信息显示，埃隆·马斯克已经放弃了针对OpenAI提出的欺诈相关指控，目前暂未获知该事件的更多相关公开内容",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/musk-drops-fraud-claims-openai",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-27T04:09:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3814353b",
+      "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
+      "title_original": null,
+      "summary": "36氪经授权发布行业资讯，重磅发布2026春季「焦点」产品计划，本次计划共有12款产品成功入选。本次发布同步推出点音Divoom桌搭全家桶评测内容，为受众展示相关产品情况，推介本次计划选出的优质产品。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_91c1af849aa6449ca4fe893040a42664@5679941_oswg424392oswg902oswg2577_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3784491394784519?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T03:05:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8bedd74a",
+      "title": "增长步入成熟期 Truecaller面临日益增大的压力",
+      "title_original": "Truecaller faces mounting pressures as its growth matures",
+      "summary": "全球知名来电识别服务商Truecaller增长放缓，业务步入成熟期，正面临越来越大的发展压力。目前该企业正依托订阅服务、商业服务及新功能，力图在印度以外的市场维持业务发展动能。",
+      "summary_original": "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-27T03:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "853884d0",
+      "title": "马来亚银行资管：五至六年期债券仍可获得正收益",
+      "title_original": "Still Seeing Positive Returns on 5-6 Year Bonds: Maybank Asset Mgmt",
+      "summary": "据彭博社消息，马来亚银行资产管理公司的拉查娜·梅赫塔表示，今年投资者购买五至六年期债券，仅从持有收益角度来看，依旧能够获得正投资回报，这类中长期债券当前仍具备不错的盈利空间。",
+      "summary_original": "Maybank Asset Management's Rachana Mehta says that investors buying five to six year bonds can still get positive returns this year \"just from a carry perspective.\" (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3gwwpKafQI/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-27/positive-returns-on-5-6-year-bonds-maybank-asset-mgmt-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-27T02:54:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "850e087c",
+      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
+      "title_original": null,
+      "summary": "前苹果工程师李景辉创立的香港公司NEX，推出无手柄AI体感游戏机Nex Playground，依托AI算法优势主打亲子互动场景，获多个知名IP授权。2025年美国黑五当周，该产品以14%市占挤走Xbox跻身主机市场前三，预计2025年营收超1.5亿美元，2026年计划进一步拓展市场。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260426/v2_6978e54d48024567831f560b50635541@6221844_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3783828639571203?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T01:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "21632a11",
+      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+      "title_original": null,
+      "summary": "前地平线智能座舱产品线总经理孙浚凯创办、中科南京软件技术研究院孵化的智往未来，不走双足人形热门路线，聚焦仓储物流场景，以轮式双臂方案死磕占人力成本六成的拿放动作，创新算法破解落地难题，二代机型已入驻外资药企仓库，今年锁定百台出货，后续将拓展至零售、家庭服务赛道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3783824870317312?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T01:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ec36973",
+      "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
+      "title_original": null,
+      "summary": "2026年全球具身智能创业者纷纷布局家庭机器人赛道，原中国具身智能明星公司星海图首席科学家许华哲，单飞创办聚焦家庭场景的破壳机器人，公司成立一月就完成数千万美元天使轮融资，许华哲判断两年内中国将出现可用的通用家庭机器人。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_d09d958923ce4e2b8bc20b8a340ccb54@1199336245_oswg733431oswg1012oswg548_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3784365164322055?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T01:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c98ccd08",
+      "title": "报道称财富税支持者收集到足够签名获得投票资格",
+      "title_original": "Wealth Tax Backers Gather Enough Signatures for Ballot, Report Says",
+      "summary": "据报道，财富税的支持者已经收集到足够数量的签名，达到了将相关议题列入投票程序所需的签名要求。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/wealth-tax-backers-gather-enough-signatures-ballot-report-says",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-04-27T00:35:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3379457e",
+      "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
+      "title_original": null,
+      "summary": "近期多个热点事件引发关注：网传豆包提前查到2026山东事业编成绩，官方解释系测试端口被网民误进，现已正常发布成绩；东方甄选四位核心主播离职，俞敏洪致歉称是平台损失，不影响日常运营；八部门印发新规，规范花呗、白条等信贷网络营销，2026年9月起正式施行。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_35a0bd3ec2644db8a6558c8a61a49df4@5667365_oswg4446oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3784311487945735?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-27T00:03:45+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "fe218a7c",
+      "title": "经数月调查 中国否决Meta 20亿美元收购Manus交易",
+      "summary": "中国历经数月调查后，否决了Meta斥资20亿美元收购Manus的交易，责令Meta剥离该笔收购。该决定或给扎克伯格推进人工智能智能体领域的布局带来潜在阻碍。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "705b1c5b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "705b1c5b",
+          "source": "TechCrunch",
+          "title": "经数月调查 中国否决Meta 20亿美元收购Manus交易",
+          "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "published_at": "2026-04-27T13:16:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:16:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fe218a7c",
+      "title": "经数月调查 中国否决Meta20亿美元收购Manus交易",
+      "summary": "经长达数月的调查，中国已要求Meta终止并剥离对Manus的20亿美元收购交易。该交易是扎克伯格布局人工智能智能体领域的重要动作，此次否决将给这一发展计划带来潜在阻碍。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "705b1c5b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "705b1c5b",
+          "source": "TechCrunch AI",
+          "title": "经数月调查 中国否决Meta20亿美元收购Manus交易",
+          "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "published_at": "2026-04-27T13:16:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:16:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da8c1776",
+      "title": "OpenAI或打造以AI智能体取代应用的手机",
+      "summary": "有行业分析师透露，OpenAI计划打造一款特殊智能手机，这款手机将以AI智能体替代传统应用，打破现有手机以应用为核心的服务模式，该产品目前预计有望于2028年投入大规模量产。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d26cae5c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d26cae5c",
+          "source": "TechCrunch",
+          "title": "OpenAI或打造以AI智能体取代应用的手机",
+          "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "published_at": "2026-04-27T13:08:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:08:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da8c1776",
+      "title": "OpenAI或将推出AI智能体取代应用的手机",
+      "summary": "人工智能企业OpenAI正计划打造一款创新性智能手机，该机将以AI智能体替代传统手机应用。据行业分析师透露，这款特殊手机有望于2028年进入大规模量产阶段，目前暂未公布更多项目细节。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d26cae5c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d26cae5c",
+          "source": "TechCrunch AI",
+          "title": "OpenAI或将推出AI智能体取代应用的手机",
+          "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "published_at": "2026-04-27T13:08:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:08:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17cab50b",
+      "title": "马里国防部长在伊斯兰叛乱分子袭击中身亡",
+      "summary": "伊斯兰叛乱分子发动袭击，造成马里国防部长萨迪奥·卡马拉将军身亡。萨迪奥·卡马拉是马里军政府的核心人物，这一事件发生在当地所在区域暴力活动不断升级的背景下，目前马里地区安全局势正持续恶化。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-mali-wmkb/27int-mali-wmkb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2228e73d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2228e73d",
+          "source": "NYTimes World",
+          "title": "马里国防部长在伊斯兰叛乱分子袭击中身亡",
+          "link": "https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html",
+          "published_at": "2026-04-27T13:08:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:08:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "06975d52",
+      "title": "关键基础设施巨头艾创称遭黑客攻击",
+      "summary": "美国科技巨头艾创是全球关键基础设施服务商，为数亿家庭和商业机构提供水务监测、能源监测设备以及公用事业计量表，服务覆盖大量民生相关领域，该公司日前对外宣布已遭到黑客攻击。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e507cc19"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e507cc19",
+          "source": "TechCrunch",
+          "title": "关键基础设施巨头艾创称遭黑客攻击",
+          "link": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
+          "published_at": "2026-04-27T13:03:36+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T13:03:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f416c9c5",
+      "title": "沃尔玛计划周一发售投资级债券",
+      "summary": "美国零售巨头沃尔玛公司计划于周一发售以美元计价的投资级债券，本次发售的债券最多分为五个部分推出，此次拟发行的债券全部为符合投资级信用要求的品种，相关发售工作将按既定安排如期启动。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWff0bjj3Gvo/v0/1200x-1.jpg",
+      "article_ids": [
+        "7a568248"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7a568248",
+          "source": "Bloomberg",
+          "title": "沃尔玛计划周一发售投资级债券",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/walmart-plans-to-sell-investment-grade-bonds-on-monday",
+          "published_at": "2026-04-27T12:58:26+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:58:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fcac6545",
+      "title": "红木资本计划募集10亿美元基金布局长期非流动性信贷投资",
+      "summary": "受复杂债务操作影响，当前债务重组进程普遍被拉长，红木资本管理正寻求募集约十亿美元资金，设立专门用于持有长期限非流动性信贷投资的专项基金，布局相关信贷投资机会。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCVvcLvcbfC0/v1/1200x-1.jpg",
+      "article_ids": [
+        "3810b702"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3810b702",
+          "source": "Bloomberg",
+          "title": "红木资本计划募集10亿美元基金布局长期非流动性信贷投资",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/redwood-plans-1-billion-fund-for-long-illiquid-credit-bets",
+          "published_at": "2026-04-27T12:54:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:54:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "709c5be5",
+      "title": "ISS支持维权投资者后 斯沃琪集团投资者纷争升级",
+      "summary": "斯沃琪集团目前面临新一轮投资者施压，核心代理咨询机构机构股东服务公司（ISS）建议股东，支持一名由美国维权投资者推举的董事会候选人，这一动态令斯沃琪集团的投资者纷争进一步升温。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJdGFfzreeBo/v1/1200x-1.jpg",
+      "article_ids": [
+        "97e0bf8f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "97e0bf8f",
+          "source": "Bloomberg",
+          "title": "ISS支持维权投资者后 斯沃琪集团投资者纷争升级",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/swatch-group-investor-battle-heats-up-after-iss-backs-activist",
+          "published_at": "2026-04-27T12:42:49+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:42:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b8a8b59",
+      "title": "法国兴业银行拟推进涉及超100亿美元贷款的风险转移交易",
+      "summary": "法国兴业银行正考虑推出一笔与超过90亿欧元（约合105亿美元）贷款挂钩的大规模风险转移交易，若该交易达成，将成为近年来规模最大的同类交易之一。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL0TD2LwJUZw/v3/1200x-1.png",
+      "article_ids": [
+        "945c5581"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "945c5581",
+          "source": "Bloomberg",
+          "title": "法国兴业银行拟推进涉及超100亿美元贷款的风险转移交易",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/societe-generale-eyes-srt-deal-tied-to-over-10-billion-of-loans",
+          "published_at": "2026-04-27T12:41:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:41:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "869518eb",
+      "title": "英特尔启动债券发售以回购爱尔兰工厂股权",
+      "summary": "英特尔已启动投资级债券发售，募资所得将为一笔总额142亿美元的交易提供融资，用于回购爱尔兰一家半导体工厂的股权，帮助英特尔重新获得这家工厂的全部所有权。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRWSWPwAYNt8/v1/1200x-1.jpg",
+      "article_ids": [
+        "b116d166"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b116d166",
+          "source": "Bloomberg",
+          "title": "英特尔启动债券发售以回购爱尔兰工厂股权",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/intel-kicks-off-bond-sale-to-help-buy-back-ireland-plant-stake",
+          "published_at": "2026-04-27T12:39:32+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:39:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b38a0823",
+      "title": "分离主义袭击后 俄武装人员确认撤出马里北部城市",
+      "summary": "分离主义袭击发生后，俄罗斯武装人员确认已撤出马里北部一座城市。图阿雷格族武装与伊斯兰组织携手，于周末在马里全境发动系列袭击，目前该族武装宣称已经掌控马里北部城市基达尔，当地局势因此生变。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2a/live/50d285b0-4235-11f1-b55d-0f258dce1735.jpg",
+      "article_ids": [
+        "a674b8a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a674b8a5",
+          "source": "BBC World",
+          "title": "分离主义袭击后 俄武装人员确认撤出马里北部城市",
+          "link": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T12:36:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:36:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e2dac33",
+      "title": "《科技速递》：深度求索最新AI突破与世界模型构建竞赛",
+      "summary": "科技工作日资讯栏目《The Download》推出最新一期，内容聚焦中国AI企业深度求索的技术进展：上周五深度求索发布万众期待的全新旗舰模型V4预览版，该模型可处理更长的输入提示，其技术突破引发行业对世界模型研发竞赛的关注。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cbbc45a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "cbbc45a7",
+          "source": "MIT Technology Review",
+          "title": "《科技速递》：深度求索最新AI突破与世界模型构建竞赛",
+          "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+          "published_at": "2026-04-27T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "413c4f17",
+      "title": "Spotify的新赛道：健身内容",
+      "summary": "流媒体平台Spotify开辟全新内容赛道，将健身列为下一主要发展内容类别，在平台应用内面向免费用户和高级会员，推出健身训练视频、专属健身歌单以及Peloton课程等健身相关内容，发力布局健身内容领域。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1104b378"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1104b378",
+          "source": "TechCrunch",
+          "title": "Spotify的新赛道：健身内容",
+          "link": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+          "published_at": "2026-04-27T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3cfef9ef",
+      "title": "Govee多彩吸顶灯可兼作低分辨率屏幕",
+      "summary": "智能照明品牌Govee近期新品发布密集，过去几周已先后推出首款太阳能灯、无线台灯和升级款LED灯墙，近日又发布全新多彩吸顶灯，该产品今日起通过品牌官方网店及亚马逊开售，售价为249.99美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3f303397"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3f303397",
+          "source": "The Verge",
+          "title": "Govee多彩吸顶灯可兼作低分辨率屏幕",
+          "link": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+          "published_at": "2026-04-27T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aa84984a",
+      "title": "Spotify与Peloton合作推出指导性健身课程",
+      "summary": "流媒体平台Spotify此前已尝试推出定制跑步歌单，如今进一步深耕健身领域，不仅推出定制歌单以及多位健身创作者的相关内容，还将向平台高级订阅用户开放Peloton提供的超1400节健身课程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "44b207b3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "44b207b3",
+          "source": "The Verge",
+          "title": "Spotify与Peloton合作推出指导性健身课程",
+          "link": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+          "published_at": "2026-04-27T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d014ddcb",
+      "title": "华盛顿媒体晚宴疑似枪手案情新进展",
+      "summary": "华盛顿一场媒体晚宴发生涉枪事件，一名疑似枪手被警方逮捕，本次活动有美国总统特朗普到场出席。目前相关方面正梳理该案相关细节，这名被捕的涉案嫌疑人已确定将于周一出庭接受审理。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg",
+      "article_ids": [
+        "bd188110"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bd188110",
+          "source": "BBC World",
+          "title": "华盛顿媒体晚宴疑似枪手案情新进展",
+          "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T11:56:08+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:56:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0c69fd2d",
+      "title": "这会是三星即将推出的宽屏折叠手机吗",
+      "summary": "三星据称正在研发一款宽屏折叠手机，预计将于今年晚些时候面世。爆料人、记者桑尼·狄克逊近日在网上分享图片，称图中是三星即将推出的Galaxy系列折叠产品（含Z Fold 8）的模型机，让外界得以提前窥见该机的大致外观。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "040494e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "040494e7",
+          "source": "The Verge",
+          "title": "这会是三星即将推出的宽屏折叠手机吗",
+          "link": "https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak",
+          "published_at": "2026-04-27T11:52:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:52:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cad69c25",
+      "title": "哥伦比亚悬赏创纪录140万美元缉拿被指制造致命爆炸袭击的叛军头目",
+      "summary": "哥伦比亚当局日前宣布悬赏创纪录的140万美元，抓捕一名被指控制造致命爆炸袭击的叛军头目。官方证实，绰号“马龙”的叛军头目下令发动了此次袭击，事件共造成20人死亡。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3435/live/f7d67d70-421d-11f1-97bd-d54feb3e8e45.jpg",
+      "article_ids": [
+        "1262f624"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1262f624",
+          "source": "BBC World",
+          "title": "哥伦比亚悬赏创纪录140万美元缉拿被指制造致命爆炸袭击的叛军头目",
+          "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T11:42:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:42:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd06ed60",
+      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+      "summary": "近日，智能割草机器人企业未岚大陆第100万台产品在常州研发生产基地下线，该企业已完成马来西亚产线建设并投产，形成“中国+马来西亚”双基地布局，目前它凭借自研核心技术拿下连续两年全球无边界割草机器人零售量第一，销售网络覆盖全球40余个国家和地区。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_a42ad998120340b699511c5956253c41@6022551_oswg2637929oswg2010oswg1336_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "407f3161"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "407f3161",
+          "source": "36氪",
+          "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+          "link": "https://36kr.com/p/3784879395134465?f=rss",
+          "published_at": "2026-04-27T11:41:44+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:41:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40471b85",
+      "title": "李希会见白俄罗斯总统办公厅代表团 - 中国共产党新闻网",
+      "summary": "中共中央政治局常委李希在北京会见白俄罗斯总统办公厅代表团。白俄罗斯总统办公厅主任克鲁托伊此次访华，双方就深化中白合作开展洽谈，均表达了充实中白全天候伙伴关系务实内涵、巩固坚如磐石的中白传统友谊的意愿。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f883c9a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f883c9a7",
+          "source": "Google News (中国)",
+          "title": "李希会见白俄罗斯总统办公厅代表团 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR1VBT2NVSGFRajdGck0zNVJrbzh4NWVidTQyQnhkOFUyekFfdUhxcEtDdmIyZExVVHJnRFF2TDJNU2Zzb3VzMWVSRWc5RGJFM205eGxWRU9vS2FXem13cUlZeHl1Q2djaDYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T11:39:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:39:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a063c51",
+      "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+      "summary": "五一假期将至，香港入境事务处预计假期约600万人次进出香港；滴滴发放近4亿元司机补贴保障出行，在全国超200城上线打车优惠。韩国证实谷歌将与其共建首尔人工智能园区；英国调查显示超六成大型企业不清楚自身敏感数据在海外被AI使用的具体情况。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3e4eeb47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3e4eeb47",
+          "source": "36氪",
+          "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+          "link": "https://36kr.com/p/3784957482523648?f=rss",
+          "published_at": "2026-04-27T11:25:19+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:25:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e2d3a0b6",
+      "title": "大主教访问梵蒂冈期间称赞教皇反战言论",
+      "summary": "英格兰教会首位女性领袖萨拉·穆拉利女爵访问梵蒂冈，访问期间她与教皇利奥举行了非公开会谈。穆拉利在此次行程中公开称赞教皇发表的反战言论，这一宗教高层会面也引发了外界的关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1055/live/a41c84d0-422d-11f1-aed7-a5ecaff37aa4.jpg",
+      "article_ids": [
+        "ebb824d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ebb824d7",
+          "source": "BBC World",
+          "title": "大主教访问梵蒂冈期间称赞教皇反战言论",
+          "link": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T11:19:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:19:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f9cd7f2",
+      "title": "加拿大称其黄金可溯源且洁净，我们展开溯源调查",
+      "summary": "加拿大对外宣称其出产的黄金可溯源、来源洁净合规，相关调查人员为核实这一说法展开溯源调查，最终追踪发现，相关黄金实际产自哥伦比亚一处被贩毒集团控制的矿区。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/22/world/00int-gold-canada/00int-gold-canada-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a2a48a13"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a2a48a13",
+          "source": "NYTimes World",
+          "title": "加拿大称其黄金可溯源且洁净，我们展开溯源调查",
+          "link": "https://www.nytimes.com/2026/04/27/world/americas/royal-canadian-mint-gold-drug-cartel-colombia.html",
+          "published_at": "2026-04-27T11:04:36+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:04:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb6b635d",
+      "title": "AI设计的汽车已初具雏形",
+      "summary": "当前汽车设计领域已拥有诸多先进的3D可视化工具与VR雕刻平台，但传统新车设计仍起步于手绘草图，需经过多方位反复迭代修改后，再由手工转换为3D模型，如今AI设计的汽车正逐步成型。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1dfb9eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f1dfb9eb",
+          "source": "The Verge",
+          "title": "AI设计的汽车已初具雏形",
+          "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+          "published_at": "2026-04-27T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb6b635d",
+      "title": "人工智能设计的汽车初现雏形",
+      "summary": "当前汽车设计领域已拥有先进3D可视化工具与VR雕刻平台，但绝大多数常规新车的设计仍始于手绘草图。传统流程中，草图需经过多方位反复迭代打磨，再手动转为3D模型，部分方案止步数字阶段，仅有部分能进入后续开发。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f1dfb9eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "f1dfb9eb",
+          "source": "The Verge AI",
+          "title": "人工智能设计的汽车初现雏形",
+          "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+          "published_at": "2026-04-27T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "561981c9",
+      "title": "高市早苗称要为长期战争做准备 - 新京报",
+      "summary": "日本政客高市早苗公开发表言论，声称需要为长期战争提前做好相关准备，相关言论引发外界关注。这一事件相关内容由新京报报道，感兴趣的读者可前往Google新闻平台查看该报道的完整内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d3ea670d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d3ea670d",
+          "source": "Google News (中国)",
+          "title": "高市早苗称要为长期战争做准备 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVcFN5NndwV3FxNWpydVFmR01UOTVBeWljakwyMkhhUW5mcnZXZFRhMmdiRG9sOHBZLXV5eHIyZW80UEh6ZnMwYkppV0h4WEVoZk9sLVE5NmoxSm1HQ3haaURWaGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T10:49:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:49:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c42689c",
+      "title": "中国业主争取社区控制权",
+      "summary": "部分中国业主与开发商产生纠纷，为争取社区控制权，业主们开展了一系列维权行动：他们签署请愿书、组织集会，还在卡拉OK活动期间召开策略会议，共同商议应当以多大力度向有关方面施压，推动纠纷解决，维护自身权益。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/00int-china-homeowners-cbzq/00int-china-homeowners-cbzq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "fa3c0139"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "fa3c0139",
+          "source": "NYTimes World",
+          "title": "中国业主争取社区控制权",
+          "link": "https://www.nytimes.com/2026/04/27/world/asia/china-homeowners-associations.html",
+          "published_at": "2026-04-27T10:42:18+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:42:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee9a9134",
+      "title": "查尔斯国王能否弥合英美裂痕？",
+      "summary": "英国君主查尔斯国王将对美国进行访问，此次访问所处的英美关系局势之紧张，自苏伊士危机发生后伊丽莎白二世到访华盛顿以来尚属首次，外界普遍关注查尔斯此行能否弥合英美两国当前的关系裂痕。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/world/27int-uk-royals-trump-00001/27int-uk-royals-trump-00001-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4ba1c72e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4ba1c72e",
+          "source": "NYTimes World",
+          "title": "查尔斯国王能否弥合英美裂痕？",
+          "link": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+          "published_at": "2026-04-27T10:32:43+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:32:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92085343",
+      "title": "这款触摸屏鼠标堪称过度设计噩梦",
+      "summary": "外设品牌乌龟海岸最新推出的PC外设系列主打触摸屏设计，甚至将触控屏加装在了游戏鼠标上。这款属于Command系列的MC7无线游戏鼠标售价160美元，在鼠标左侧配备了一块2.25英寸的触控显示条。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ac86a9e8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ac86a9e8",
+          "source": "The Verge",
+          "title": "这款触摸屏鼠标堪称过度设计噩梦",
+          "link": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series",
+          "published_at": "2026-04-27T10:10:30+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:10:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "25810b02",
+      "title": "Meta签署协议获取太空传输的夜间太阳能",
+      "summary": "能源企业Overview Energy与科技公司Meta签署了双方首份合作合同，内容为Meta获取由太空传输的夜间太阳能，这份合作是天基太阳能发展进程中的一小步，推动人类向天基太阳能普及应用的未来迈进。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1b64ebc1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1b64ebc1",
+          "source": "TechCrunch",
+          "title": "Meta签署协议获取太空传输的夜间太阳能",
+          "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+          "published_at": "2026-04-27T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "25810b02",
+      "title": "Meta签署太空传输夜间太阳能合作协议",
+      "summary": "能源企业Overview Energy与科技公司Meta签署双方首份合作协议，内容为获取从太空传输的夜间太阳能。天基太阳能发电目前仍处于发展初期，这一合作被认为是人类迈向天基太阳能实用化未来的一小步。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1b64ebc1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "1b64ebc1",
+          "source": "TechCrunch AI",
+          "title": "Meta签署太空传输夜间太阳能合作协议",
+          "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+          "published_at": "2026-04-27T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e3c1ff74",
+      "title": "2026年4月27日外交部发言人林剑主持例行记者会 - ke.china-embassy.gov.cn",
+      "summary": "2026年4月27日，外交部发言人林剑主持外交部例行记者会，本次记者会相关内容原发于中国驻外使馆官方网站ke.china-embassy.gov.cn，目前完整报道可在Google新闻平台查看，有需求的受众可前往该平台浏览本次记者会的全部内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "edfce87f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "edfce87f",
+          "source": "Google News (中国)",
+          "title": "2026年4月27日外交部发言人林剑主持例行记者会 - ke.china-embassy.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzV0RXTTJWYTkyNnowZFdyZXBxdk5ta1NScVFiWE1SS2N1SmhFZ1haTk5aQk9lMVVzU1FWaVhSSHBLTzRfV1JUT1VzTk9Fck9nSzVHdnJzWjI4TUl6ODQxeHh2QnFKbXc3Ti1YbnU3RnY0dXYwSWtpcENrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T09:46:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:46:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e3a1edd",
+      "title": "迈克尔·杰克逊传记片打破票房纪录",
+      "summary": "这部以迈克尔·杰克逊为主题的传记片尽管收获较差口碑评价，却在全球票房市场表现抢眼，目前已拿下总计2.17亿美元，约合1.6亿英镑的全球票房，成功打破票房纪录。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/bf1520f0-4217-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "7fedcd84"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7fedcd84",
+          "source": "BBC World",
+          "title": "迈克尔·杰克逊传记片打破票房纪录",
+          "link": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T09:44:09+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:44:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8c007aec",
+      "title": "告别屏幕沉迷，小红书把年轻人「赶出门」",
+      "summary": "这个春天，colorwalk（色彩漫步）在小红书走红，3月平台新增相关内容27万篇，总曝光达39亿次。该活动鼓励年轻人告别屏幕沉迷，以寻找色彩的方式重新感知日常，衍生出多样玩法，依托社区互动，帮助人们重拾对生活的敏锐与热爱。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_d8962fba90e141c2bbe13f217ce54c6f@5679941_oswg1008088oswg1080oswg821_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "354c0a23"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "354c0a23",
+          "source": "36氪",
+          "title": "告别屏幕沉迷，小红书把年轻人「赶出门」",
+          "link": "https://36kr.com/p/3784867361381633?f=rss",
+          "published_at": "2026-04-27T09:27:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:27:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c45bf112",
+      "title": "乍得水井纠纷升级 至少42人死亡",
+      "summary": "乍得当地近日发生一起因水井引发的冲突，纠纷最初发生在两个家族之间，随后矛盾不断发酵升级，逐步发展为循环往复的报复袭击，这起事件目前已造成至少42人死亡。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9f/live/2ffb1800-4214-11f1-9a91-2b6b858bae5e.jpg",
+      "article_ids": [
+        "6c39c0db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6c39c0db",
+          "source": "BBC World",
+          "title": "乍得水井纠纷升级 至少42人死亡",
+          "link": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T09:20:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:20:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cfd08314",
+      "title": "安全会谈后特朗普称国王访美期间将“非常安全”",
+      "summary": "此前一名枪手瞄准一场有美国总统出席的活动，由此引发外界对国王访美行程的安全担忧。在相关安全会谈后，特朗普表示国王访美期间将非常安全，尽管存在安全顾虑，本次国事访问仍将按计划推进。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd1/live/75057c40-421b-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "8be87f11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8be87f11",
+          "source": "BBC World",
+          "title": "安全会谈后特朗普称国王访美期间将“非常安全”",
+          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T09:19:11+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:19:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23179ec8",
+      "title": "围绕乌克兰所谓“神圣”战事 朝俄承诺深化双边关系",
+      "summary": "朝鲜与俄罗斯共同为阵亡于俄罗斯对乌克兰战争中的朝鲜士兵揭幕了纪念碑，双方在本次活动中讨论了两国长期军事合作相关事宜，同时明确承诺，未来将进一步深化两国双边关系。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-nkorea-russia-qjvw/27int-nkorea-russia-qjvw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b4c16320"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b4c16320",
+          "source": "NYTimes World",
+          "title": "围绕乌克兰所谓“神圣”战事 朝俄承诺深化双边关系",
+          "link": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+          "published_at": "2026-04-27T09:10:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T09:10:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1bd298a4",
+      "title": "中国叫停Meta斥资20亿美元收购AI初创企业Manus的交易",
+      "summary": "Meta拟斥资20亿美元收购AI初创企业Manus，该交易此前因涉嫌技术向美国泄露引发争议，中国已叫停这笔收购交易，这一结果出乎外界此前的普遍预期。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv_EIvDRvw5k/v1/1200x-1.jpg",
+      "article_ids": [
+        "4673d526",
+        "5afc1e81"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Information",
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4673d526",
+          "source": "The Information",
+          "title": "中国禁止Meta斥资20亿美元收购Manus",
+          "link": "https://www.theinformation.com/briefings/china-blocks-metas-2-billion-acquisition-manus",
+          "published_at": "2026-04-27T08:45:56+00:00"
+        },
+        {
+          "id": "5afc1e81",
+          "source": "Bloomberg",
+          "title": "中国叫停Meta以20亿美元收购AI企业Manus",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
+          "published_at": "2026-04-27T08:19:01+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T08:45:56+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "2eae6aad",
+      "title": "全民阅读活动周|书香润东宁阅读伴同行_地方聚焦 - 人民论坛网",
+      "summary": "近期，多家主流媒体推出一系列全民阅读相关报道：人民论坛网关注东宁“书香润东宁 阅读伴同行”全民阅读活动周，人民网报道上海“书香满城，阅启新程”阅读活动，中国日报网披露宁夏兴庆区发布全民阅读工作计划及“书香兴庆”年度服务清单，多家平台也推送了倡导全民多读书的相关内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "fb5a4e96"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "fb5a4e96",
+          "source": "Google News (中国)",
+          "title": "全民阅读活动周|书香润东宁阅读伴同行_地方聚焦 - 人民论坛网",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQzRkZW1rLUs5MEktZmZraVZtTlBIQkdRUzJFd3ZCR0JGT1o0aUJGWEh2YUQtQ3YtOVNjY3ZvVmhGN2IyUmJMNWhBVmdyX2VXeWRtNTZlYXFEQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T08:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T08:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90b914fd",
+      "title": "“五一”期间广东或有大暴雨，省三防办发布防御通知 - 羊城晚报",
+      "summary": "\"五一\"假期广东将遭遇强降雨过程，部分时段可能出现大暴雨，局部地区还可能出现龙卷风。目前多地已发布对应气象预警：湛江发布暴雨红色预警，汕头澄海发布雷雨大风黄色预警，惠州28至29日将迎大暴雨，针对本次过程，广东省三防办已发布防御通知。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "50935b72"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "50935b72",
+          "source": "Google News (中国)",
+          "title": "“五一”期间广东或有大暴雨，省三防办发布防御通知 - 羊城晚报",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LS0hRNkRhNmRpajZ1eS1YUHM2X1Jwc1cyVUI5WFFCcS1kQ3ROOG9MeXlwTjRHcGtWWU1UWndRUVJaUXlfUDBwTkpIaExuTWJnMHBsZ0Uzb3psVXE3SXExZkd3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T08:36:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T08:36:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d7c14996",
+      "title": "津云：第三届全国大学生职业规划大赛总决赛举行 天津大学斩获3金1银 - 天津大学新闻网",
+      "summary": "第三届全国大学生职业规划大赛全国总决赛已收官，天津大学在本次赛事中斩获3金1银。同期，“山海寻梦”职业生涯主题实践活动在天津举办，多家主流媒体平台对本次赛事及参赛选手的相关故事进行了报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b1ce7c05"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b1ce7c05",
+          "source": "Google News (中国)",
+          "title": "津云：第三届全国大学生职业规划大赛总决赛举行 天津大学斩获3金1银 - 天津大学新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5udnRGdmNSbXo0dUhrMmRJem9vWlJTY3RDVW5MX3VfM0g0UUp5NHdDclNubkNNelItQXRtUVlNcm94bzQzQWJyS2k0NkpMbXVtLVo4ZEFrVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T08:25:35+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T08:25:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5322f8a2",
+      "title": "太阳能发电量大增 欧洲电价跌至历史新低",
+      "summary": "受太阳能发电量大幅攀升影响，叠加周末气候温和抑制用电需求，德国电价在上周日暴跌至历史最低水平，这一走势带动欧洲整体电价下探，创下有史以来的最低电价纪录。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIkq8UoWCphk/v0/1200x-1.jpg",
+      "article_ids": [
+        "4afeee1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4afeee1f",
+          "source": "Bloomberg",
+          "title": "太阳能发电量大增 欧洲电价跌至历史新低",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-27/europe-power-prices-crash-to-record-lows-on-strong-solar-output",
+          "published_at": "2026-04-27T07:50:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T07:50:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4fe930fc",
+      "title": "外交部谈白宫记协晚宴枪击事件：中方一贯反对和谴责非法暴力行为 - 观察者",
+      "summary": "美国白宫记协晚宴发生枪击事件，枪手路径曝光：其通过房卡放行进入，在隔间组装枪支后直冲宴会厅。事件引发担忧，美国政治暴力日益加剧，正威胁美国民主的基本仪式。事件后特朗普借机推动4亿美元白宫宴会厅计划，中方对此表态，一贯反对和谴责非法暴力行为。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "feef49b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "feef49b1",
+          "source": "Google News (中国)",
+          "title": "外交部谈白宫记协晚宴枪击事件：中方一贯反对和谴责非法暴力行为 - 观察者",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNU1WbnZnWEdGOGlNNVB3ckJSczVQbkRISkdFelMxZ3lfMkNFV0ZMOEQtMnF1aUl4cFdvc2w1a3BwTmZyaW5kMXp4SDllWEVQelZfdjA5UWpqcU1MVFc5RHhJTzQxMXlHblE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T07:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T07:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17fdc8a5",
+      "title": "伊朗高层就与美谈判分裂，特朗普停战梦碎_期市动态 - 中金在线",
+      "summary": "伊朗高层在是否与美国开展谈判一事上出现内部分裂，这一状况导致特朗普原本期待推进的美伊停战相关计划落空。该内容出自中金在线的期市动态栏目，完整报道可在Google新闻平台查看。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a73cc9ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a73cc9ea",
+          "source": "Google News (中国)",
+          "title": "伊朗高层就与美谈判分裂，特朗普停战梦碎_期市动态 - 中金在线",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcFFIZ05mZFotM1NGdkZFUk9xNGNkRzVXNU9MbE5XX2lfMFpnV3AzWEtGUzNSbzJTdVJMbVpjQnJad0NwZFJMMmNuSlNKZ2dtMGdRclB1MW1IRjN2N0hsV2Z3RGJVSy16TU4tRjhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T07:08:08+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T07:08:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e46ba321",
+      "title": "威胁等级上升 索马里沿海海盗再劫持一艘船只",
+      "summary": "英国海事监测机构报告显示，过去一周内，索马里沿海海域已发生至少四起疑似海盗事件。目前海盗再次劫持一艘船只，该区域海盗活动威胁等级已上调，提醒过往航船提高警惕，加强安全防范。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34be/live/3aec2c80-41f7-11f1-bfb9-d715fdf49550.jpg",
+      "article_ids": [
+        "c02a5ab0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c02a5ab0",
+          "source": "BBC World",
+          "title": "威胁等级上升 索马里沿海海盗再劫持一艘船只",
+          "link": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T06:53:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T06:53:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f243af3b",
+      "title": "金正恩为乌克兰战争中阵亡的朝鲜士兵揭幕纪念碑",
+      "summary": "朝鲜最高领导人金正恩与俄罗斯国防部长安德烈·别洛乌索夫，在朝鲜平壤共同为纪念碑揭幕，这座纪念碑用以纪念在乌克兰战争中阵亡的朝鲜士兵，本次揭幕仪式正式完成了纪念设施的揭幕落成。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66e1/live/14490d30-41f9-11f1-bfb9-d715fdf49550.jpg",
+      "article_ids": [
+        "c0d3ebaf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c0d3ebaf",
+          "source": "BBC World",
+          "title": "金正恩为乌克兰战争中阵亡的朝鲜士兵揭幕纪念碑",
+          "link": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T06:52:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T06:52:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce60cfec",
+      "title": "巴黎卓越工程师学院中心组召开树立和践行正确政绩观学习研讨会 - 上海交通大学 新闻网",
+      "summary": "近期，多地多部门围绕树立和践行正确政绩观开展相关学习教育活动，上海交通大学巴黎卓越工程师学院中心组专门召开相关学习研讨会。多家媒体关注该议题，指出政绩观问题是根本性问题，部分地区构建全链条闭环工作机制，推动学习教育落地见效，实干为民。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "09a5ade5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "09a5ade5",
+          "source": "Google News (中国)",
+          "title": "巴黎卓越工程师学院中心组召开树立和践行正确政绩观学习研讨会 - 上海交通大学 新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05dzNMWWx6U2EwRENiTVduMzFFOC01ZDM2TVFJRkw4YUpFbjdaSlpWS0ZiU28wRGJVdmZxa2dJcHh3OTlqNmZDeFZIQUhvSGFwcmo0amU2ZkJIYkJSdEgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T06:49:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T06:49:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2cdfcc8f",
+      "title": "法国少年舔自动售卖机吸管 或将在新加坡面临监禁",
+      "summary": "一名法国少年在新加坡舔公共自动售卖机的吸管后，将舔舐过程拍成视频发布到社交媒体。该行为触发相关法律追责，目前这名少年可能面临超过两年的监禁刑期。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1322/live/54eb3cb0-41fd-11f1-9626-31907e7084f1.jpg",
+      "article_ids": [
+        "cb5acb4c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cb5acb4c",
+          "source": "BBC World",
+          "title": "法国少年舔自动售卖机吸管 或将在新加坡面临监禁",
+          "link": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-27T06:40:22+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T06:40:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3dc6431c",
+      "title": "伊朗外长：巴基斯坦伊斯兰堡之行“非常成功” - chinanews.com.cn",
+      "summary": "伊朗外长阿拉格齐访问巴基斯坦伊斯兰堡，伊方称此次访问非常成功，此访聚焦停火相关议题，伊朗外长向巴方递交了停战条件，当前仍留有谈判窗口，伊朗外长或将再次访巴探讨停火与合作。此外伊朗官员透露，美伊或于未来几天举行第二轮谈判。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "88c0d333"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "88c0d333",
+          "source": "Google News (中国)",
+          "title": "伊朗外长：巴基斯坦伊斯兰堡之行“非常成功” - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvWTJJU013cldvZEhTTmc4blUzbmNxWkFVV1hqOUplV094M1ZyYzd6WUY0NkJDdk9lblYyZFd0MzBwVlF6Q2JudFFWSjZwazNoTUhuS3A2aC1SV2NhZ0lNXzczY0RsWE9i?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-27T05:46:02+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T05:46:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "618cfb4d",
+      "title": "马斯克放弃针对OpenAI的欺诈指控",
+      "summary": "现有公开信息显示，埃隆·马斯克已经放弃了针对OpenAI提出的欺诈相关指控，目前暂未获知该事件的更多相关公开内容",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "103f49a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "103f49a2",
+          "source": "The Information",
+          "title": "马斯克放弃针对OpenAI的欺诈指控",
+          "link": "https://www.theinformation.com/briefings/musk-drops-fraud-claims-openai",
+          "published_at": "2026-04-27T04:09:40+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T04:09:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2380f13",
+      "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
+      "summary": "36氪经授权发布行业资讯，重磅发布2026春季「焦点」产品计划，本次计划共有12款产品成功入选。本次发布同步推出点音Divoom桌搭全家桶评测内容，为受众展示相关产品情况，推介本次计划选出的优质产品。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_91c1af849aa6449ca4fe893040a42664@5679941_oswg424392oswg902oswg2577_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "3814353b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3814353b",
+          "source": "36氪",
+          "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
+          "link": "https://36kr.com/p/3784491394784519?f=rss",
+          "published_at": "2026-04-27T03:05:52+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T03:05:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f342bba",
+      "title": "增长步入成熟期 Truecaller面临日益增大的压力",
+      "summary": "全球知名来电识别服务商Truecaller增长放缓，业务步入成熟期，正面临越来越大的发展压力。目前该企业正依托订阅服务、商业服务及新功能，力图在印度以外的市场维持业务发展动能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8bedd74a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "8bedd74a",
+          "source": "TechCrunch",
+          "title": "增长步入成熟期 Truecaller面临日益增大的压力",
+          "link": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+          "published_at": "2026-04-27T03:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T03:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78e98581",
+      "title": "马来亚银行资管：五至六年期债券仍可获得正收益",
+      "summary": "据彭博社消息，马来亚银行资产管理公司的拉查娜·梅赫塔表示，今年投资者购买五至六年期债券，仅从持有收益角度来看，依旧能够获得正投资回报，这类中长期债券当前仍具备不错的盈利空间。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3gwwpKafQI/v3/1200x-1.jpg",
+      "article_ids": [
+        "853884d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "853884d0",
+          "source": "Bloomberg",
+          "title": "马来亚银行资管：五至六年期债券仍可获得正收益",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-27/positive-returns-on-5-6-year-bonds-maybank-asset-mgmt-video",
+          "published_at": "2026-04-27T02:54:37+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T02:54:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c9365f1",
+      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
+      "summary": "前苹果工程师李景辉创立的香港公司NEX，推出无手柄AI体感游戏机Nex Playground，依托AI算法优势主打亲子互动场景，获多个知名IP授权。2025年美国黑五当周，该产品以14%市占挤走Xbox跻身主机市场前三，预计2025年营收超1.5亿美元，2026年计划进一步拓展市场。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260426/v2_6978e54d48024567831f560b50635541@6221844_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "850e087c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "850e087c",
+          "source": "36氪",
+          "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
+          "link": "https://36kr.com/p/3783828639571203?f=rss",
+          "published_at": "2026-04-27T01:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T01:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8c7e9ee5",
+      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+      "summary": "前地平线智能座舱产品线总经理孙浚凯创办、中科南京软件技术研究院孵化的智往未来，不走双足人形热门路线，聚焦仓储物流场景，以轮式双臂方案死磕占人力成本六成的拿放动作，创新算法破解落地难题，二代机型已入驻外资药企仓库，今年锁定百台出货，后续将拓展至零售、家庭服务赛道。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "21632a11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "21632a11",
+          "source": "36氪",
+          "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+          "link": "https://36kr.com/p/3783824870317312?f=rss",
+          "published_at": "2026-04-27T01:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T01:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a77f7e3f",
+      "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
+      "summary": "2026年全球具身智能创业者纷纷布局家庭机器人赛道，原中国具身智能明星公司星海图首席科学家许华哲，单飞创办聚焦家庭场景的破壳机器人，公司成立一月就完成数千万美元天使轮融资，许华哲判断两年内中国将出现可用的通用家庭机器人。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_d09d958923ce4e2b8bc20b8a340ccb54@1199336245_oswg733431oswg1012oswg548_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "0ec36973"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "0ec36973",
+          "source": "36氪",
+          "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
+          "link": "https://36kr.com/p/3784365164322055?f=rss",
+          "published_at": "2026-04-27T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a52f234",
+      "title": "报道称财富税支持者收集到足够签名获得投票资格",
+      "summary": "据报道，财富税的支持者已经收集到足够数量的签名，达到了将相关议题列入投票程序所需的签名要求。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "c98ccd08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "c98ccd08",
+          "source": "The Information",
+          "title": "报道称财富税支持者收集到足够签名获得投票资格",
+          "link": "https://www.theinformation.com/briefings/wealth-tax-backers-gather-enough-signatures-ballot-report-says",
+          "published_at": "2026-04-27T00:35:15+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T00:35:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d46eee0e",
+      "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
+      "summary": "近期多个热点事件引发关注：网传豆包提前查到2026山东事业编成绩，官方解释系测试端口被网民误进，现已正常发布成绩；东方甄选四位核心主播离职，俞敏洪致歉称是平台损失，不影响日常运营；八部门印发新规，规范花呗、白条等信贷网络营销，2026年9月起正式施行。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260427/v2_35a0bd3ec2644db8a6558c8a61a49df4@5667365_oswg4446oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1",
+      "article_ids": [
+        "3379457e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3379457e",
+          "source": "36氪",
+          "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
+          "link": "https://36kr.com/p/3784311487945735?f=rss",
+          "published_at": "2026-04-27T00:03:45+00:00"
+        }
+      ],
+      "published_at": "2026-04-27T00:03:45+00:00",
+      "is_merged": false
+    }
+  ]
+}
