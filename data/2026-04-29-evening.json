@@ -1,0 +1,2411 @@
+{
+  "date": "2026-04-29",
+  "edition": "evening",
+  "updated_at": "2026-04-29T21:56:21.834831+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "590c2893",
+      "title": "认识Shapes：可让人类与AI加入同一群聊的应用",
+      "title_original": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "summary": "一款名为Shapes的应用推出，它参照社群聊天平台Discord打造群聊模式，核心特色在于支持AI角色和人类用户共同加入同一个群组聊天，打破了传统群聊仅人类参与的局限，带来全新的群聊交互体验。",
+      "summary_original": "Think Discord chats, but with AI characters in addition to humans.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f2f442e7",
+      "title": "泰勒·斯威夫特换脸视频在TikTok上助推诈骗活动",
+      "title_original": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "summary": "身份验证公司Copyleaks披露，诈骗分子利用AI篡改真实素材，制作泰勒·斯威夫特、蕾哈娜等名人的深度换脸视频，放置在红毯、播客、访谈等场景，在TikTok推广可疑服务，多数此类内容推销宣称给用户福利的奖励项目。",
+      "summary_original": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f2f442e7",
+      "title": "涉泰勒·斯威夫特的深度伪造内容在TikTok推广诈骗",
+      "title_original": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "summary": "身份验证企业Copyleaks透露，骗子利用AI生成包括泰勒·斯威夫特、蕾哈娜在内的名人深度伪造内容，在TikTok平台推广不法服务。这类内容多放置在红毯、播客、访谈等场景，由AI篡改真实素材制作，多数推广虚假奖励项目。",
+      "summary_original": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7be86978",
+      "title": "据报EQT准备对英国天祥集团提出改进后的收购要约",
+      "title_original": "EQT Is Said to Prepare Improved Takeover Offer for UK’s Intertek",
+      "summary": "知情人士透露，EQT AB此前两次向英国产品检测企业天祥集团提出的收购报价均遭到拒绝，目前该公司正准备向天祥集团提出新一轮改进后的收购要约。",
+      "summary_original": "EQT AB is preparing to make another improved offer for Intertek Group Plc, people familiar with the matter said, after seeing two bids rejected by the British product testing company.",
+      "image": "http://assets.bwbx.io/images/i8J9SpyHXMzE/v2/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/eqt-is-said-to-prepare-improved-takeover-offer-for-uk-s-intertek",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:56:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0566ba33",
+      "title": "特朗普1.5万亿美元国防预算遭遇共和党反对",
+      "title_original": "Trump’s $1.5 Trillion Defense Budget Faces GOP Pushback",
+      "summary": "美国总统唐纳德·特朗普提出规模达1.5万亿美元的国防预算，其中计划给五角大楼提薪44%。该预算提案目前已遭到美国两党议员反对，其中包括国会核心共和党人士。相关报道由彭博电视台记者泰勒·肯德尔推出，消息来源为彭博社。",
+      "summary_original": "President Donald Trump proposed a 44% raise for the Pentagon in his $1.5 trillion defense budget, a number that’s already facing pushback from members of both political parties, including key congressional Republicans. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iREQToeifFH4/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-29/trump-s-1-5-trillion-defense-budget-faces-gop-pushback-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:55:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4c767614",
+      "title": "抗议活动后爱尔兰政府宣布推出进一步燃油支持",
+      "title_original": "Irish government announces further fuel supports after protests",
+      "summary": "近几周爱尔兰全国范围内爆发多场抗议活动，引发社会关注。爱尔兰政府随后正式宣布，将面向国内多个行业推出进一步的燃油支持措施，以此回应相关诉求，应对当前相关领域存在的问题。",
+      "summary_original": "The Irish government has announced further fuel supports for a number of sectors after nationwide protests in recent weeks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34d/live/df3db410-351e-11f1-9f76-8dbe71e83b07.jpg",
+      "link": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T12:48:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fe034fb0",
+      "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+      "title_original": null,
+      "summary": "4月下旬，腾讯推出全新知识Agent Copilot；魔法原子在硅谷创新大会披露2036年140亿美元营收目标，多家企业公布2026年一季度业绩；两家科创企业完成融资，掌阅将推进AI短剧工业化布局，北京市监约谈8家电动自行车企业，滴滴预测五一出行需求上涨。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3787748082293766?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T12:44:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0541ed75",
+      "title": "花旗任命中东资深银行家坦尼尔担任区域最高职务",
+      "title_original": "Citi Picks Veteran Mideast Banker Tannir for Top Regional Role",
+      "summary": "花旗集团聘请海湾地区最高级别的投资银行家之一卡里姆·坦尼尔，出任其中东及非洲业务负责人，此举是花旗进一步开拓这片利润丰厚区域市场、深化业务布局的重要安排。",
+      "summary_original": "Citigroup Inc. has hired Karim Tannir, one of the most senior investment bankers in the Gulf, to lead its Middle East and Africa business as part of its efforts to make deeper inroads into a lucrative region.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLg0SvtYuooY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/citi-picks-veteran-mideast-banker-tannir-for-top-regional-role",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:40:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "86e54906",
+      "title": "阿克曼旗下潘兴50亿美元IPO勉强收官",
+      "title_original": "Ackman’s $5 Billion Pershing IPO Squeaks Across the Finish Line",
+      "summary": "对冲基金亿万富翁比尔·阿克曼效仿沃伦·巴菲特打造投资帝国的构想多年来受社交媒体热炒，如今旗下潘兴广场终于完成上市，本次上市募资达50亿美元，阿克曼接下来仍将面临新的考验。",
+      "summary_original": "Bill Ackman’s Pershing Square is finally going public after years of social media-hyping about building an empire modeled on Warren Buffett’s, and even after raising $5 billion for his vision, the hedge-fund billionaire faces another test.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.tywu.u.3Pk/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/ackman-s-5-billion-pershing-ipo-squeaks-across-the-finish-line",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:36:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "34960b3e",
+      "title": "谷歌翻译现已支持发音练习",
+      "title_original": "Google Translate now lets you practice pronunciation",
+      "summary": "谷歌翻译新增发音练习功能，方便用户练习对应语言的标准发音。目前该功能正率先在美国和印度市场推出，上线阶段支持英语、西班牙语以及印地语三种语言的发音练习服务。",
+      "summary_original": "The feature is rolling out in the U.S. and India with support for English, Spanish, and Hindi.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-29T12:34:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "839c6bc2",
+      "title": "美国核心资本货物订单创2020年以来最大涨幅",
+      "title_original": "US Core Capital Goods Orders Jump by Most Since 2020",
+      "summary": "今年3月，美国商业设备订单出现2020年年中以来最大幅度增长。受人工智能领域相关支出拉动，美国稳健的资本投资态势已经延续一整年，整体投资增长势头良好。",
+      "summary_original": "US orders for business equipment increased in March by the most since mid-2020, extending a yearlong stretch of solid capital investment fueled by spending on artificial intelligence.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifhRYyZnCshY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/us-core-capital-goods-orders-surged-in-march-by-most-since-2020",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:33:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "60e3f961",
+      "title": "学习手记丨把好经验总结好运用好 - 新华网",
+      "title_original": null,
+      "summary": "多家主流媒体聚焦浙江义乌发展，义乌从小商品起步迈向“大产品”，被世界媒体称为“世界经济晴雨表”“世界的超市”，其敢为人先、与时俱进的发展经验引发广泛关注，当前倡导要把这份发展好经验总结好、运用好，探寻义乌发展的新脉动。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkZwenVsS2ZZU29CWExYdlQ4Y0IxbDFfWnhycEV5YjV1UGRlZnZLUTZiaFl6aENHYTRpalNLcERQbUhXZVVyQmt3TTJOMnk0Y3UxQjk2M1F6OVdfNXpfd3ZBR3N2QUkzYmJDNDl3NVhBMFVoVms5cVo1SEVhVWotbG5ldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T12:29:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fb71fcd0",
+      "title": "Kalshi、Polymarket在加密货币热门交易所领域面临新对手",
+      "title_original": "Kalshi, Polymarket Face New Rival in Crypto’s Hottest Exchange",
+      "summary": "去中心化加密交易所Hyperliquid现已成为数字资产领域最活跃的交易场所之一，该平台计划新增预测市场业务，直接向Kalshi和Polymarket发起挑战，随着这一赛道快速增长，正不断吸引新竞争者入局。",
+      "summary_original": "Hyperliquid, the decentralized crypto exchange that has emerged as one of the most active trading venues in digital assets, is proposing to add prediction markets to its platform &mdash; a direct challenge to Kalshi and Polymarket as the fast-growing sector draws new competitors.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ichwOJpOvbQ0/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/kalshi-polymarket-face-new-rival-in-crypto-s-hottest-exchange",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T12:18:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f6e9fc2a",
+      "title": "科技速递：核废料储存与智能代理统筹",
+      "title_original": "The Download: storing nuclear waste and orchestrating agents",
+      "summary": "这是工作日发行的每日科技资讯通讯当日更新内容，当前核能获得跨政治阵营的罕见支持，公众认可度大幅飙升，大型科技企业纷纷注资布局，相关内容提出当下亟需制定核废料处理规划。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-29T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5777d2c6",
+      "title": "杰克·多尔西支持的Vine重启项目Divine公开发布",
+      "title_original": "Jack Dorsey-backed Vine reboot Divine launches to the public",
+      "summary": "由杰克·多尔西旗下非营利组织支持的Vine重启项目Divine现已正式面向公众开放上线。原Vine以六秒循环短视频为标志性特色，本次推出的重启项目Divine恢复了这一核心产品功能。",
+      "summary_original": "Divine, a Vine reboot backed by Jack Dorsey’s nonprofit, revives six-second looping videos.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "873970fb",
+      "title": "电动空中出租车终于起飞——只是未搭载乘客",
+      "title_original": "Electric air taxis are finally taking flight — just not with passengers",
+      "summary": "周一，Joby Aviation的一架电动空中出租车从纽约肯尼迪机场起飞，完成前往曼哈顿的未来空中出租车航线演示。本次演示天气条件理想，这款电动飞行器采用蛋形客舱，配有六个倾转旋翼螺旋桨，此次试飞并未搭载乘客。",
+      "summary_original": "It was the perfect day for an electric air taxi demonstration - albeit one without passengers. On Monday, an electric aircraft from Joby Aviation took off from JFK Airport for a flight demonstrating the company's future air taxi route to Manhattan. The aircraft - egg-shaped cabin, six tilt-rotor propellers, electric motor - made its way [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88681e05",
+      "title": "《萨罗斯》让我领教到DualSense手柄有多出色",
+      "title_original": "Saros reminded me how great the DualSense can be",
+      "summary": "DualSense手柄是索尼PS5的核心卖点之一，它除拥有亮眼的全新设计与自适应扳机配置外，其触觉反馈不同于沿用数十年的传统震动效果，能为玩家带来截然不同的全新游戏体验，《萨罗斯》让人直观感受到这款手柄的出众实力。",
+      "summary_original": "The DualSense controller was one of Sony's main selling points for the PS5. Beyond things like a striking new design and adaptive triggers, the controller's haptic feedback offered genuinely cool new experiences for games. Rumble effects had been around for decades at that point, but the DualSense offered something very different: I'm still blown away [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ee17330a",
+      "title": "时光相册丨镜头下湖北长江岸线从“化工围江”到“绿廊绵延” - 新华网",
+      "title_original": null,
+      "summary": "多家媒体聚焦报道长江大保护治理成果，曾经湖北长江岸线深陷“化工围江”的污染困局，历经近十年治理转型，如今从湖北到江西九江、江苏等长江沿线区域，岸线已摆脱污染困扰，变身水清岸绿、绿廊绵延的生态廊道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlF3eUpWNVJtZ2xRZlJfYW1UWi13c2M0UFlaSmZYakJ1MWdwN0xqd0FKVEMzR1l6dUY1T1gzU0U2NWtRUWNNeTZINHBraWlKVGRzUnNTcmJUSC1JbVpDdWo4aHdLekFiRTZlN01GOTRtdmpvS2Fhbk90TUpKSDcxLWxYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T11:47:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b4a9a28a",
+      "title": "官员称以色列‘双击式’袭击致黎巴嫩三名救援人员身亡",
+      "title_original": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+      "summary": "当地相关官员对外公布，以色列在黎巴嫩发动了“双击式”袭击，袭击于周二分多批次连续发动，这起事件总计造成五人不幸身亡，其中三名遇难者为前往现场开展工作的救援人员。",
+      "summary_original": "They are among five people officials say were killed in successive attacks on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8665/live/4ce6f8b0-43ab-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T11:46:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "33e59a8a",
+      "title": "你的PS5现已可变为Linux电脑",
+      "title_original": "Your PS5 can now transform into a Linux PC",
+      "summary": "近日一名开发者研发出可让索尼部分型号PS5主机运行Linux系统的方法。该开发者安迪·阮上个月就曾展示过移植的Ubuntu系统可在PS5上运行PC游戏，本周他已在GitHub公布安装步骤，本次改造属于软改。",
+      "summary_original": "A developer has created a method to get Linux running on some versions of Sony's PlayStation 5 console. Andy Nguyen previously showed off a ported version of Ubuntu running PC games on a PS5 last month, and he's now published the installation steps on GitHub this week. This is a soft mod, so it won't [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/920322/ps5-linux-project-exploit-install",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T11:43:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "584ce537",
+      "title": "画面显示：叛军推进之际俄准军事部队在马里发动空袭",
+      "title_original": "Russian paramilitary carried out air strikes in Mali as rebels advanced, footage shows",
+      "summary": "相关画面曝光显示，在马里叛军向前推进之际，俄罗斯准军事部队在马里发动空袭。本轮空袭发生于上周末，空袭发生的同时，俄罗斯非洲军团正从马里北部的一处关键军事基地撤出，暂未披露更多关于此次行动的后续细节。",
+      "summary_original": "Last weekend's attacks came as the Africa Corps withdrew from a key base in northern Mali.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b830/live/420f5c40-439f-11f1-b55d-0f258dce1735.png",
+      "link": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T11:24:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ac184e21",
+      "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
+      "title_original": null,
+      "summary": "2026年4月22日至24日，以“‘K型曲线’下寻找穿越分化的确定性”为主题的第20届中国投资年会在北京海淀圆满闭幕。超千名创投领域从业者齐聚，围绕市场分化格局展开多维度研讨，发布投中2025年度行业榜单，为行业穿越周期提供清晰指引。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_6746015d4bf0475181486ac30bf0e196@6381723_oswg1497945oswg2000oswg1333_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3787806140636420?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T11:20:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1367ec0e",
+      "title": "伊朗战事与邻国关系紧张背景下阿联酋走自主路线",
+      "title_original": "Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way",
+      "summary": "阿联酋退出石油输出国组织（OPEC）的决定引发中东地区震动，凸显出在当前伊朗战事、地区关系紧张的局势下，与沙特存在分歧的阿联酋，正日益明确地走上独立自主的发展道路。",
+      "summary_original": "The United Arab Emirates’ decision to leave OPEC has rocked the region, underscoring how the country, at odds with Saudi Arabia, is increasingly charting its own course.",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-emirates-politics-1-wmbl/28int-emirates-politics-1-wmbl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T11:16:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dc28630c",
+      "title": "近期一起供应链攻击为何专门针对Checkmarx与Bitwarden两家安全公司",
+      "title_original": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "summary": "近期发生一起供应链攻击，专门将目标锁定为Checkmarx和Bitwarden两家安全企业。安全领域相关方发现，相较于其他行业机构，安全服务企业本身风险暴露程度更高，格外容易成为这类攻击的针对目标。",
+      "summary_original": "Security firms find themselves especially exposed.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+      "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-04-29T11:00:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ec24889",
+      "title": "叛乱袭击发生后 法国敦促本国公民撤离马里",
+      "title_original": "France urges citizens to leave Mali after rebel attacks",
+      "summary": "马里发生叛乱袭击事件后，法国发布通告敦促本国公民撤离该国。英国也发布了类似的安全提醒，明确告知仍选择留在马里的本国公民，需自行承担逗留当地的安全风险。",
+      "summary_original": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c37/live/7c87c880-43ae-11f1-9d89-8526d1435c1c.jpg",
+      "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T10:58:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f323bbe8",
+      "title": "欧盟裁定Meta未采取足够措施禁止儿童使用脸书与Instagram",
+      "title_original": "Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU",
+      "summary": "欧盟委员会经过近两年调查，于周三发布初步裁定，认定Meta未出台充分有效的措施，阻止13岁以下儿童使用旗下社交平台脸书与Instagram，这一行为违反了欧盟《数字服务法》的相关规则。",
+      "summary_original": "Meta is breaching Europe's Digital Services Act (DSA) rules by failing to prevent children under 13 from using Facebook and Instagram, according to a preliminary decision issued by the European Commission. The Commission announced the ruling on Wednesday after an almost two-year investigation, saying that Meta doesn't have adequate measures in place to stop under-13s [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T10:46:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "805fe2d3",
+      "title": "百度无人车引发混乱后 中国暂停核发新自动驾驶出租车牌照",
+      "title_original": "China freezes new robotaxi licenses after Baidu chaos",
+      "summary": "彭博社援引不具名知情人士消息称，中国已暂停核发新自动驾驶车辆牌照。此次限制措施出台，缘于上月百度在武汉运营的数十辆自动驾驶出租车突然集体停滞，引发交通混乱，新规禁止相关企业新增无人驾驶运营车辆。",
+      "summary_original": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent companies from adding new driverless cars to their fleets, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T10:39:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "805fe2d3",
+      "title": "百度自动驾驶乱象后 中国冻结新增自动驾驶出租车牌照",
+      "title_original": "China freezes new robotaxi licenses after Baidu chaos",
+      "summary": "彭博社援引知情人士消息称，中国已暂停发放新的自动驾驶车辆牌照。此前上月，百度运营的数十辆自动驾驶出租车在武汉街头集体停滞，引发交通混乱，此次限制将禁止相关企业新增无人驾驶车辆投入运营。",
+      "summary_original": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent companies from adding new driverless cars to their fleets, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-29T10:39:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b43f175d",
+      "title": "互联网限制引发俄罗斯民众公开质疑普京举措",
+      "title_original": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+      "summary": "俄罗斯国内多个群体，从美妆网红到象征性政治反对派，都已开始公开质疑普京总统推行的互联网接入限制举措，这项针对互联网的管控政策并未获得民众认可，反而促使不同社会群体公开对相关举措提出疑问。",
+      "summary_original": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring internet access.",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28Russia-discontent-lbcp/28Russia-discontent-lbcp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T10:15:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4184293d",
+      "title": "官方通报网民反映“砀山万达霸王茶姬奶茶中喝出水银”问题调查情况 - 新华网",
+      "title_original": null,
+      "summary": "网民反映安徽砀山万达霸王茶姬售卖的奶茶中喝出疑似水银异物，事件引发关注，涉事门店将异物及原材料送检，当地市场监管部门介入调查。官方通报调查结果，确认该异物为奶茶购买人自行投放，律师称该行为最高可涉及刑事犯罪。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUw2dkdUTEhnOXNFamxYZnZlVS1CZ0U5bTBQa0N1VUxVeGhLdXNqWEc0TXd0QkdaZ1A5LVN4ZXNtWTZVZ2lFMGZicVNibVJfT3FaUDBtbXdTQTZHZXVTb0lnRGpaR0kxNmlpaGtNN044Rk5JM3JXTFJIS2dvRTQ0cDZ6WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T10:09:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb864aa9",
+      "title": "GitHub不到六小时紧急修复一处严重漏洞",
+      "title_original": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "summary": "上月，GitHub员工在不到六小时内修复了一处严重远程代码执行漏洞。该漏洞由Wiz Research利用AI模型在GitHub内部git基础设施中发现，攻击者可借此访问数百万个公开及私有代码仓库，安全团队接获漏洞赏金报告后立即启动处理。",
+      "summary_original": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T10:04:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb864aa9",
+      "title": "GitHub不到六小时紧急修复一严重漏洞",
+      "title_original": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "summary": "上个月GitHub工作人员在不到六小时内修复了一处高危远程代码执行漏洞。该漏洞由Wiz Research利用AI模型在GitHub内部git基础设施中发现，攻击者可利用它访问数百万个公开及私有代码仓库，安全团队接报后立即启动处置。",
+      "summary_original": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-29T10:04:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3878bff6",
+      "title": "科尔比·阿德科克旗下Scout AI获1亿美元融资用于训练军用模型 记者探访其训练营",
+      "title_original": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "科尔比·阿德科克旗下人工智能企业Scout AI完成1亿美元融资，资金将用于训练军用人工智能模型。该企业正开发可协助单兵操控自动驾驶车辆编队的智能代理，记者已实地探访该项目的训练场地。",
+      "summary_original": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-29T09:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3878bff6",
+      "title": "科尔比·阿德科克旗下Scout AI筹得1亿美元训练战争用途模型 本报探访其训练营",
+      "title_original": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "summary": "科尔比·阿德科克旗下人工智能企业Scout AI筹得1亿美元融资，资金将用于训练适用于战争场景的人工智能模型。探访人员实地走访了该企业的训练营地，目前团队正研发可帮助单兵控制无人自主载具集群的AI智能代理。",
+      "summary_original": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-04-29T09:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c7e67386",
+      "title": "严禁预留改装空间！雅迪、爱玛、台铃、九号等8家企业被约谈 - 羊城晚报",
+      "title_original": null,
+      "summary": "北京市场监管局约谈雅迪、爱玛、台铃、九号等八家电动自行车企业，明确“五严禁”要求，严禁车辆预留改装空间、严禁车速超过25公里/小时，严打电动自行车超标改装行为；东莞推出举报奖励政策，市民举报销售改装电动自行车每单可获200元奖励。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ca0xMWTRCMU5VeGVRVC0yclpQekw1VVJJSUNnNWJXLTY2aWJwblZwdFBPc0R3LVVkdVA5eXptbUdUNDEtclNZTUNBSF9yWVltaUZaQjRLcHM4VE5JMjB2YTBHTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T09:34:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4e8406e1",
+      "title": "通用汽车将为400万辆汽车搭载Gemini",
+      "title_original": "General Motors is adding Gemini to four million cars",
+      "summary": "通用汽车计划在美国约400万辆汽车中搭载谷歌Gemini AI助手，2022款及更新款的凯迪拉克、雪佛兰、别克、GMC内置谷歌系统的车型均可获得该升级，升级将通过OTA更新车载信息娱乐系统，于数月内逐步推送。",
+      "summary_original": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-04-29T09:14:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4e8406e1",
+      "title": "通用汽车将为400万辆汽车搭载Gemini",
+      "title_original": "General Motors is adding Gemini to four million cars",
+      "summary": "通用汽车计划在美国约400万辆车型中引入谷歌Gemini人工智能助手。2022款及更新款、内置谷歌系统的凯迪拉克、雪佛兰、别克、GMC车型均可获得此次AI升级，升级将通过OTA推送至车机系统，整个推送过程历时数月。",
+      "summary_original": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-04-29T09:14:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "62335aab",
+      "title": "小型飞机撞入澳大利亚一机场机库 致两人死亡",
+      "title_original": "Two dead after small plane crashes into Australia airport hangar",
+      "summary": "一架小型飞机在澳大利亚阿德莱德的帕拉菲尔德机场撞上机场机库后坠毁，机身在坠毁之后迅速燃起大火，这起航空事故已经造成两人死亡，目前暂未披露更多事故相关细节。",
+      "summary_original": "The aircraft burst into flames after it crashed at Parafield Airport in Adelaide.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbc/live/9c7895d0-43c6-11f1-aec0-b189b12f3c07.jpg",
+      "link": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T09:08:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "abe7db80",
+      "title": "巴拉圭称不会抛弃台湾 中国另有安排",
+      "title_original": "Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.",
+      "summary": "巴拉圭与台湾当局保持所谓“外交关系”已有数十年，中国始终坚定维护国家主权和领土完整，推动巴拉圭承认一个中国原则。目前巴拉圭称不会改变对台立场，外界关注其最终是否会作出政策调整。",
+      "summary_original": "Beijing is trying to unravel an unlikely long-distance relationship that has endured for decades. Could Paraguay be tempted to stray?",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T09:00:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7159d49a",
+      "title": "爱泼斯坦为私人岛屿“清真寺”获取伊斯兰教圣地麦加物品",
+      "title_original": "Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’",
+      "summary": "杰弗里·爱泼斯坦的相关往来信息曝光，揭开了其私人岛屿上一处不寻常建筑的细节，内容显示，爱泼斯坦依靠自身人脉，成功为这处建筑获取了来自伊斯兰教圣地麦加的挂毯。",
+      "summary_original": "Jeffrey Epstein’s messages cast light on an unusual building on his private island and show how his connections helped him secure tapestries from Mecca for it.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T09:00:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "409bdeb8",
+      "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
+      "title_original": null,
+      "summary": "36氪正式开放招募“36氪企业全情报”官方股票舆情交流社群，面向股民、理财爱好者及个股研究者，依托大数据与AI提供实时舆情速递、行情拆解、干货同步、避雷预警等信息服务，解决投资者消息闭塞等痛点，该社群明确不荐股，仅提供信息服务。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_4b634360481d423a933d487c35f56cef@5284654_oswg47362oswg282oswg275_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3787661080714497?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T08:50:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e2ea75a4",
+      "title": "国王对国会发表历史性演讲的五大要点",
+      "title_original": "Five takeaways from the King's historic address to Congress",
+      "summary": "本次梳理国王对国会发表的历史性演讲，共得出五大核心要点，演讲中部分表述能够鼓舞民主党人士，相关内容同时也引发了白宫的质疑与关注，显现出美国政坛不同阵营对此的差异化反应。",
+      "summary_original": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce6/live/05fc6d20-4380-11f1-b927-49e1f65be0b5.jpg",
+      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T08:48:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6abd76c3",
+      "title": "泡泡玛特胡健：盈利不是乐园现阶段最重要的事",
+      "title_original": null,
+      "summary": "坐落于北京朝阳公园的泡泡玛特城市乐园完成升级改造，围绕LABUBU、DIMOO两大IP打造的全新区域将于4月30日开放。该乐园客群以非亲子、非本地游客为主，开业首年即实现盈利，泡泡玛特副总裁胡健称，现阶段不将盈利作为核心目标，聚焦打磨作品、赋能IP。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_0388c8f8694849b585bf36e9ff3013e9@5654145_oswg3475837oswg1600oswg1067_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3787554697895168?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T08:33:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e52effd6",
+      "title": "36氪首发 | 主攻氢涡轮增程的全倾转eVTOL，「华喜航空」完成数千万元种子轮融资",
+      "title_original": null,
+      "summary": "华喜航空完成由民银国际独家投资的数千万元种子轮融资，资金将用于技术研发与商业化推进。该公司是全球首个氢涡轮混动eVTOL研发企业，由航空领域资深团队组建，主打千公里级长航时氢涡轮增程eVTOL，目前首款产品已获大量意向订单。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_8fd8001c6ac3492eaa513d33ac46ba8a@5654145_oswg361875oswg3096oswg1517_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3786532449312007?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T08:24:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1254e118",
+      "title": "上海合作组织绿色和可持续发展论坛开幕沈跃跃宣读习近平主席贺信 - cppcc.gov.cn",
+      "title_original": null,
+      "summary": "上海合作组织绿色和可持续发展论坛开幕，沈跃跃在开幕式上宣读了习近平主席发来的贺信。本次论坛聚焦绿色可持续发展议题，各界围绕上合框架下绿色能源合作、光伏产业出海等方向探讨绿色发展机遇，此外2026中国上海合作组织研究中心年会也于近期在京举行。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xdTJVbjdvcE8xQms0MHlmX3hZWVBDNWVzdE1nazZ6U05rRHV0YUpfamZKX3JQMUtmd2FsdGk1eWllQW1mR1pvekFYY2pNcEU3bjBFdDRHS0djR1NPMVVqeE1nMlJkajhfNDZ5Vm9FYnZXU2wz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T08:13:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "014f982f",
+      "title": "国际足联修改规则后阿富汗女足球员可重返赛场",
+      "title_original": "Afghanistan women footballers can return to competition after FIFA rule changes",
+      "summary": "国际足联修改规则批准阿富汗女足球运动员重返国际赛事，阿富汗前女足队长哈莉达·波帕尔表态称，能够重返国际赛场的阿富汗女性将成为“韧性的象征”，这一调整为当地女性运动员重回国际竞技舞台提供了可能。",
+      "summary_original": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/89291980-439b-11f1-b861-d7bf71119519.jpg",
+      "link": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-04-29T08:08:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "60838243",
+      "title": "是时候制定核废料处理计划了",
+      "title_original": "It’s time to make a plan for nuclear waste",
+      "summary": "当前美国核能获得跨政治阵营的罕见支持，科技企业为满足大型数据中心的建设需求入局核能领域，为该行业带来新一轮资金与关注热潮。正因核能迎来新发展机遇，当下正是讨论规划核废料处理这一遗留问题的合适时机。",
+      "summary_original": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-04-29T08:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b6940027",
+      "title": "外交部：中方愿同各方继续保持沟通 共同维护全球的能源安全和产供链稳定 - 第一财经",
+      "title_original": null,
+      "summary": "第一财经发布外交部相关表态，针对全球能源安全与产业链供应链稳定相关议题，中方明确表示，愿同世界各国各方继续保持密切沟通协作，合力应对全球能源领域相关挑战，共同维护全球能源安全与产供链稳定。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mX09lT1JvRVZMRWxUWVhhV093aWlhQm9JVU81XzNNekZlejB6OFNBeXhMalE0TmwwMmROc3ZXU1pSTDNKbjl2V2hsUnBScm0taEVr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T07:34:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8f0a9423",
+      "title": "韩国前总统尹锡悦涉妨碍逮捕等案二审宣判 获刑7年 - 中国网",
+      "title_original": null,
+      "summary": "韩国前总统尹锡悦涉及妨碍逮捕等案件已完成二审宣判，法院最终判处其有期徒刑7年。该事件的相关报道由中国网发布，公众若想了解事件更多详情，可前往Google新闻平台查看完整报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83X0lCSTV4UWxoQ2U1dE1hbnVyWU5tRUNrZDExLUpKYVpfTUZLOU41Y19WdFNXMWpFbWZPSzVnbGdRT284Z1pLd05FblFDUkJyckFmQkE1X25uNUlXaHplUmkxTTNYMFUyQ0RsOXFaRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T07:08:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "63832c6b",
+      "title": "国王查尔斯与卡米拉王后将访问纽约9·11纪念园",
+      "title_original": "King Charles and Queen Camilla to Visit New York’s 9/11 Memorial",
+      "summary": "英国国王查尔斯与卡米拉王后即将访问纽约，按照行程安排，二人将先在曼哈顿下城的9·11纪念园出席仪式，随后还将走访哈莱姆区一家非营利机构、纽约公共图书馆主馆以及佳士得。",
+      "summary_original": "After attending a ceremony at the memorial in Lower Manhattan, the royal couple is scheduled to visit a Harlem nonprofit, the New York Public Library’s main branch and Christie’s.",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28royal-visit-wednesday-schedule-khzt/28royal-visit-wednesday-schedule-khzt-mediumSquareAt3X-v3.jpg",
+      "link": "https://www.nytimes.com/2026/04/29/nyregion/king-charles-us-visit-new-york.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T07:05:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ac2906d",
+      "title": "西班牙通胀意外进一步加快 突破2%",
+      "title_original": "Spanish Inflation Unexpectedly Quickens Further Beyond 2%",
+      "summary": "西班牙通胀意外进一步攀升，已超出欧洲央行设定的2%政策通胀目标。受伊朗战争影响，市场原本就预期今年会上调利率，此次通胀超预期上涨进一步支撑了这一市场预期。",
+      "summary_original": "Spanish inflation unexpectedly accelerated further beyond the European Central Bank’s 2% target, supporting market expectations that interest rates will be raised this year due to the Iran war.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixPbeLMPLhk4/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/spanish-inflation-unexpectedly-quickens-further-beyond-ecb-goal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T07:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ebdb133",
+      "title": "芬兰通力同意以294亿欧元收购蒂升电梯",
+      "title_original": "Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion",
+      "summary": "芬兰企业通力集团同意以294亿欧元（约合344亿美元，含债务）收购蒂升电梯，这笔交易将令这家芬兰公司成为电梯行业的主导企业，同时也会给其竞争对手带来新的竞争压力。",
+      "summary_original": "Kone Oyj agreed to acquire TK Elevator for €29.4 billion ($34.4 billion) including debt, transforming the Finnish company into the industry’s dominant player and putting new pressure on its rivals.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_fKm04VWRDY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/finland-s-kone-agrees-to-buy-rival-tk-elevator-for-29-4-billion",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-04-29T05:51:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1fa84251",
+      "title": "王毅会见第80届联合国大会主席贝尔伯克 - 中华人民共和国常驻联合国代表团",
+      "title_original": null,
+      "summary": "第80届联合国大会主席贝尔伯克到访，中方王毅、韩正分别与其会见。王毅在会见中明确反对任何挑战联合国第2758号决议权威的言行，强调面对强权霸凌不能任由“谁拳头硬谁说了算”，中方坚定维护联合国权威，捍卫国际公平正义。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2a0Q2YjBxNTZVUkxCcC1BRl8tU182c1VhM3dHNkttb3djOWJzWmxGbVpvQ3laMmZfOFlLQTYybkd1ZXgtZW9ZVzFxZ0hVbGlZWS1UVHhBV0FXeF8wZ0plTThBYW5vX2FKal9nV2pBb2x1U09Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T05:11:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3b21686a",
+      "title": "文化和旅游部持续整治旅游市场，专家认为A级旅游景区守牌提质迫在眉睫 - 新华报业网",
+      "title_original": null,
+      "summary": "文化和旅游部正持续开展旅游市场整治工作，多个5A级景区因摆渡车问题被点名后，赶在五一前积极推进整改。专家指出，当前A级旅游景区守牌提质迫在眉睫，业内也有观点提出，国内旅游景区可引入“生产型交易”激活票务价值。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sMHluaVpjek5IbWJxaXNXVHhWcEx2WWo4TDBULWlxejVISlphaHVGUlFxVC1rUjM2Z2RST09SN29ZT0VkZTFXbmVha2RFcWtyTG5tSVdXSGN2dnZ5MnlubTVxOWFsOUdFS1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T05:07:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cd445f5e",
+      "title": "习近平：着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "中共中央政治局今年开展第二次集体学习，本次学习聚焦提高防范应对自然灾害能力这一主题。习近平总书记强调，要着力提升防范应对自然灾害的能力，切实维护人民群众的生命财产安全，相关内容获多家权威媒体刊发报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5UW9mU2k0dGZBY1Rvb1hVWENBbEdYLXBodUQwMGRIWVpxY0xZbzlIbDhiV1dWU1RlZDlnN1NWVmhOb1lDeURMbzlFM2RVNE82MndKTlNqLUtBZXBzcVpPMGVhanBUY29fR0RZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-04-29T04:54:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f91cc869",
+      "title": "黑色幽默为中东战争中的人们带来喘息",
+      "title_original": "Gallows Humor Provides Respite From Mideast Wars",
+      "summary": "中东正深陷战争冲突，当地民众承受着难以平复的伤痛。不少阿拉伯数字创作者在社交媒体发布尖锐的幽默内容，以黑色幽默应对当下冲突，为原本浓烈刺骨的伤痛注入一丝轻松，舒缓民众的压抑情绪。",
+      "summary_original": "Arab digital creators on social media are turning out edgy material to cope with the conflicts and bring levity to a pain that often feels too raw.",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-mideast-memes-lhzv/00int-mideast-memes-lhzv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T04:01:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e4619b6c",
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "title_original": null,
+      "summary": "4月28日，未来宇航在雄安发布国内首个服务卫星组网与在轨业务的FX锋行系列空间飞行器，正式切入卫星组网部署与在轨服务市场。该产品具备低成本、高可靠、快响应等特点，可提供全链条一体化解决方案。同期雄安总装测试中心落地，首飞产品已完成总装，预计今年下半年首飞。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_d76ff7e03b5649dab384d01aa666c3ca@5920579_oswg653714oswg932oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3787376553876737?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T04:00:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "edd0a0e8",
+      "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+      "title_original": null,
+      "summary": "一汽奥迪基于专属纯电PPE平台，推出A6L e-tron、Q6L e-tron两款纯电新车，覆盖中大型豪华纯电轿车与SUV市场，售价26.98万元起，顶配搭载华为乾崑智驾，全系标配800V高压架构，针对国内需求加长轴距优化车机，定价务实，标志奥迪电动化进入实质竞争阶段。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_84737b9a411f4f0b9583c43c960bf3c2@5809365_oswg239122oswg2880oswg1620_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3769086884528640?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-04-29T03:17:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f9839487",
+      "title": "印尼泼酸袭击事件令人联想起苏哈托时代的暴行",
+      "title_original": "Acid Attack in Indonesia Evokes Brutality of Suharto Era",
+      "summary": "印尼发生一起泼酸袭击事件，遇袭的受害者此前曾公开抗议军方在国内不断扩大的职权。相关活动人士表示，这起袭击的暴力性质，令人联想到该国苏哈托数十年独裁统治时期的残暴行径。",
+      "summary_original": "The victim had protested against the widening role of the military, which activists say is reminiscent of the country’s decades-long dictatorship.",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/00int-indonesia-activist-01-mcqb/00int-indonesia-activist-01-mcqb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-04-29T03:12:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "409e3ab4",
+      "title": "一家风投机构如何在日益碎片化的世界开展投资",
+      "title_original": "How one venture firm is investing in an increasingly fragmented world",
+      "summary": "地缘政治动荡给全球风险投资带来诸多挑战，投资环境的不确定性显著上升。在此背景下，风投机构Kompas VC开辟出专属细分赛道，专注投资聚焦实体领域的初创企业，以此适配当下的复杂市场环境。",
+      "summary_original": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-04-29T03:00:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "05babc59",
+      "title": "认识Shapes：可让人类与AI加入同一群聊的应用",
+      "summary": "一款名为Shapes的应用推出，它参照社群聊天平台Discord打造群聊模式，核心特色在于支持AI角色和人类用户共同加入同一个群组聊天，打破了传统群聊仅人类参与的局限，带来全新的群聊交互体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "590c2893"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "590c2893",
+          "source": "TechCrunch",
+          "title": "认识Shapes：可让人类与AI加入同一群聊的应用",
+          "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+          "published_at": "2026-04-29T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "28af2d7c",
+      "title": "泰勒·斯威夫特换脸视频在TikTok上助推诈骗活动",
+      "summary": "身份验证公司Copyleaks披露，诈骗分子利用AI篡改真实素材，制作泰勒·斯威夫特、蕾哈娜等名人的深度换脸视频，放置在红毯、播客、访谈等场景，在TikTok推广可疑服务，多数此类内容推销宣称给用户福利的奖励项目。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f2f442e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f2f442e7",
+          "source": "The Verge",
+          "title": "泰勒·斯威夫特换脸视频在TikTok上助推诈骗活动",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+          "published_at": "2026-04-29T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "28af2d7c",
+      "title": "涉泰勒·斯威夫特的深度伪造内容在TikTok推广诈骗",
+      "summary": "身份验证企业Copyleaks透露，骗子利用AI生成包括泰勒·斯威夫特、蕾哈娜在内的名人深度伪造内容，在TikTok平台推广不法服务。这类内容多放置在红毯、播客、访谈等场景，由AI篡改真实素材制作，多数推广虚假奖励项目。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f2f442e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "f2f442e7",
+          "source": "The Verge AI",
+          "title": "涉泰勒·斯威夫特的深度伪造内容在TikTok推广诈骗",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+          "published_at": "2026-04-29T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21648ebe",
+      "title": "据报EQT准备对英国天祥集团提出改进后的收购要约",
+      "summary": "知情人士透露，EQT AB此前两次向英国产品检测企业天祥集团提出的收购报价均遭到拒绝，目前该公司正准备向天祥集团提出新一轮改进后的收购要约。",
+      "category": "business",
+      "image": "http://assets.bwbx.io/images/i8J9SpyHXMzE/v2/1200x-1.jpg",
+      "article_ids": [
+        "7be86978"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7be86978",
+          "source": "Bloomberg",
+          "title": "据报EQT准备对英国天祥集团提出改进后的收购要约",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/eqt-is-said-to-prepare-improved-takeover-offer-for-uk-s-intertek",
+          "published_at": "2026-04-29T12:56:17+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:56:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "80b342d2",
+      "title": "特朗普1.5万亿美元国防预算遭遇共和党反对",
+      "summary": "美国总统唐纳德·特朗普提出规模达1.5万亿美元的国防预算，其中计划给五角大楼提薪44%。该预算提案目前已遭到美国两党议员反对，其中包括国会核心共和党人士。相关报道由彭博电视台记者泰勒·肯德尔推出，消息来源为彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iREQToeifFH4/v3/1200x-1.jpg",
+      "article_ids": [
+        "0566ba33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0566ba33",
+          "source": "Bloomberg",
+          "title": "特朗普1.5万亿美元国防预算遭遇共和党反对",
+          "link": "https://www.bloomberg.com/news/videos/2026-04-29/trump-s-1-5-trillion-defense-budget-faces-gop-pushback-video",
+          "published_at": "2026-04-29T12:55:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:55:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3e29213f",
+      "title": "抗议活动后爱尔兰政府宣布推出进一步燃油支持",
+      "summary": "近几周爱尔兰全国范围内爆发多场抗议活动，引发社会关注。爱尔兰政府随后正式宣布，将面向国内多个行业推出进一步的燃油支持措施，以此回应相关诉求，应对当前相关领域存在的问题。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34d/live/df3db410-351e-11f1-9f76-8dbe71e83b07.jpg",
+      "article_ids": [
+        "4c767614"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4c767614",
+          "source": "BBC World",
+          "title": "抗议活动后爱尔兰政府宣布推出进一步燃油支持",
+          "link": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T12:48:45+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:48:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b7bd5a70",
+      "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+      "summary": "4月下旬，腾讯推出全新知识Agent Copilot；魔法原子在硅谷创新大会披露2036年140亿美元营收目标，多家企业公布2026年一季度业绩；两家科创企业完成融资，掌阅将推进AI短剧工业化布局，北京市监约谈8家电动自行车企业，滴滴预测五一出行需求上涨。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fe034fb0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "fe034fb0",
+          "source": "36氪",
+          "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+          "link": "https://36kr.com/p/3787748082293766?f=rss",
+          "published_at": "2026-04-29T12:44:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:44:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b729489",
+      "title": "花旗任命中东资深银行家坦尼尔担任区域最高职务",
+      "summary": "花旗集团聘请海湾地区最高级别的投资银行家之一卡里姆·坦尼尔，出任其中东及非洲业务负责人，此举是花旗进一步开拓这片利润丰厚区域市场、深化业务布局的重要安排。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLg0SvtYuooY/v1/1200x-1.jpg",
+      "article_ids": [
+        "0541ed75"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0541ed75",
+          "source": "Bloomberg",
+          "title": "花旗任命中东资深银行家坦尼尔担任区域最高职务",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/citi-picks-veteran-mideast-banker-tannir-for-top-regional-role",
+          "published_at": "2026-04-29T12:40:39+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:40:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7554a6a5",
+      "title": "阿克曼旗下潘兴50亿美元IPO勉强收官",
+      "summary": "对冲基金亿万富翁比尔·阿克曼效仿沃伦·巴菲特打造投资帝国的构想多年来受社交媒体热炒，如今旗下潘兴广场终于完成上市，本次上市募资达50亿美元，阿克曼接下来仍将面临新的考验。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.tywu.u.3Pk/v1/1200x-1.jpg",
+      "article_ids": [
+        "86e54906"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "86e54906",
+          "source": "Bloomberg",
+          "title": "阿克曼旗下潘兴50亿美元IPO勉强收官",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/ackman-s-5-billion-pershing-ipo-squeaks-across-the-finish-line",
+          "published_at": "2026-04-29T12:36:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:36:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9aac72fb",
+      "title": "谷歌翻译现已支持发音练习",
+      "summary": "谷歌翻译新增发音练习功能，方便用户练习对应语言的标准发音。目前该功能正率先在美国和印度市场推出，上线阶段支持英语、西班牙语以及印地语三种语言的发音练习服务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "34960b3e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "34960b3e",
+          "source": "TechCrunch",
+          "title": "谷歌翻译现已支持发音练习",
+          "link": "https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/",
+          "published_at": "2026-04-29T12:34:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:34:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f26003aa",
+      "title": "美国核心资本货物订单创2020年以来最大涨幅",
+      "summary": "今年3月，美国商业设备订单出现2020年年中以来最大幅度增长。受人工智能领域相关支出拉动，美国稳健的资本投资态势已经延续一整年，整体投资增长势头良好。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifhRYyZnCshY/v1/1200x-1.jpg",
+      "article_ids": [
+        "839c6bc2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "839c6bc2",
+          "source": "Bloomberg",
+          "title": "美国核心资本货物订单创2020年以来最大涨幅",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/us-core-capital-goods-orders-surged-in-march-by-most-since-2020",
+          "published_at": "2026-04-29T12:33:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:33:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba702aaf",
+      "title": "学习手记丨把好经验总结好运用好 - 新华网",
+      "summary": "多家主流媒体聚焦浙江义乌发展，义乌从小商品起步迈向“大产品”，被世界媒体称为“世界经济晴雨表”“世界的超市”，其敢为人先、与时俱进的发展经验引发广泛关注，当前倡导要把这份发展好经验总结好、运用好，探寻义乌发展的新脉动。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "60e3f961"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "60e3f961",
+          "source": "Google News (中国)",
+          "title": "学习手记丨把好经验总结好运用好 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkZwenVsS2ZZU29CWExYdlQ4Y0IxbDFfWnhycEV5YjV1UGRlZnZLUTZiaFl6aENHYTRpalNLcERQbUhXZVVyQmt3TTJOMnk0Y3UxQjk2M1F6OVdfNXpfd3ZBR3N2QUkzYmJDNDl3NVhBMFVoVms5cVo1SEVhVWotbG5ldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T12:29:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:29:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01bbc6aa",
+      "title": "Kalshi、Polymarket在加密货币热门交易所领域面临新对手",
+      "summary": "去中心化加密交易所Hyperliquid现已成为数字资产领域最活跃的交易场所之一，该平台计划新增预测市场业务，直接向Kalshi和Polymarket发起挑战，随着这一赛道快速增长，正不断吸引新竞争者入局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ichwOJpOvbQ0/v1/1200x-1.jpg",
+      "article_ids": [
+        "fb71fcd0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "fb71fcd0",
+          "source": "Bloomberg",
+          "title": "Kalshi、Polymarket在加密货币热门交易所领域面临新对手",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/kalshi-polymarket-face-new-rival-in-crypto-s-hottest-exchange",
+          "published_at": "2026-04-29T12:18:50+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:18:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c59f909e",
+      "title": "科技速递：核废料储存与智能代理统筹",
+      "summary": "这是工作日发行的每日科技资讯通讯当日更新内容，当前核能获得跨政治阵营的罕见支持，公众认可度大幅飙升，大型科技企业纷纷注资布局，相关内容提出当下亟需制定核废料处理规划。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f6e9fc2a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "f6e9fc2a",
+          "source": "MIT Technology Review",
+          "title": "科技速递：核废料储存与智能代理统筹",
+          "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+          "published_at": "2026-04-29T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b67618c7",
+      "title": "杰克·多尔西支持的Vine重启项目Divine公开发布",
+      "summary": "由杰克·多尔西旗下非营利组织支持的Vine重启项目Divine现已正式面向公众开放上线。原Vine以六秒循环短视频为标志性特色，本次推出的重启项目Divine恢复了这一核心产品功能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5777d2c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5777d2c6",
+          "source": "TechCrunch",
+          "title": "杰克·多尔西支持的Vine重启项目Divine公开发布",
+          "link": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
+          "published_at": "2026-04-29T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "74806ea8",
+      "title": "电动空中出租车终于起飞——只是未搭载乘客",
+      "summary": "周一，Joby Aviation的一架电动空中出租车从纽约肯尼迪机场起飞，完成前往曼哈顿的未来空中出租车航线演示。本次演示天气条件理想，这款电动飞行器采用蛋形客舱，配有六个倾转旋翼螺旋桨，此次试飞并未搭载乘客。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "873970fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "873970fb",
+          "source": "The Verge",
+          "title": "电动空中出租车终于起飞——只是未搭载乘客",
+          "link": "https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa",
+          "published_at": "2026-04-29T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d681f22",
+      "title": "《萨罗斯》让我领教到DualSense手柄有多出色",
+      "summary": "DualSense手柄是索尼PS5的核心卖点之一，它除拥有亮眼的全新设计与自适应扳机配置外，其触觉反馈不同于沿用数十年的传统震动效果，能为玩家带来截然不同的全新游戏体验，《萨罗斯》让人直观感受到这款手柄的出众实力。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "88681e05"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "88681e05",
+          "source": "The Verge",
+          "title": "《萨罗斯》让我领教到DualSense手柄有多出色",
+          "link": "https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble",
+          "published_at": "2026-04-29T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "51936ef6",
+      "title": "时光相册丨镜头下湖北长江岸线从“化工围江”到“绿廊绵延” - 新华网",
+      "summary": "多家媒体聚焦报道长江大保护治理成果，曾经湖北长江岸线深陷“化工围江”的污染困局，历经近十年治理转型，如今从湖北到江西九江、江苏等长江沿线区域，岸线已摆脱污染困扰，变身水清岸绿、绿廊绵延的生态廊道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ee17330a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ee17330a",
+          "source": "Google News (中国)",
+          "title": "时光相册丨镜头下湖北长江岸线从“化工围江”到“绿廊绵延” - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlF3eUpWNVJtZ2xRZlJfYW1UWi13c2M0UFlaSmZYakJ1MWdwN0xqd0FKVEMzR1l6dUY1T1gzU0U2NWtRUWNNeTZINHBraWlKVGRzUnNTcmJUSC1JbVpDdWo4aHdLekFiRTZlN01GOTRtdmpvS2Fhbk90TUpKSDcxLWxYbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T11:47:10+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:47:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d9b0d9f8",
+      "title": "官员称以色列‘双击式’袭击致黎巴嫩三名救援人员身亡",
+      "summary": "当地相关官员对外公布，以色列在黎巴嫩发动了“双击式”袭击，袭击于周二分多批次连续发动，这起事件总计造成五人不幸身亡，其中三名遇难者为前往现场开展工作的救援人员。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8665/live/4ce6f8b0-43ab-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "b4a9a28a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b4a9a28a",
+          "source": "BBC World",
+          "title": "官员称以色列‘双击式’袭击致黎巴嫩三名救援人员身亡",
+          "link": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T11:46:08+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:46:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0003c7ba",
+      "title": "你的PS5现已可变为Linux电脑",
+      "summary": "近日一名开发者研发出可让索尼部分型号PS5主机运行Linux系统的方法。该开发者安迪·阮上个月就曾展示过移植的Ubuntu系统可在PS5上运行PC游戏，本周他已在GitHub公布安装步骤，本次改造属于软改。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "33e59a8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "33e59a8a",
+          "source": "The Verge",
+          "title": "你的PS5现已可变为Linux电脑",
+          "link": "https://www.theverge.com/news/920322/ps5-linux-project-exploit-install",
+          "published_at": "2026-04-29T11:43:55+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:43:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a08b4464",
+      "title": "画面显示：叛军推进之际俄准军事部队在马里发动空袭",
+      "summary": "相关画面曝光显示，在马里叛军向前推进之际，俄罗斯准军事部队在马里发动空袭。本轮空袭发生于上周末，空袭发生的同时，俄罗斯非洲军团正从马里北部的一处关键军事基地撤出，暂未披露更多关于此次行动的后续细节。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b830/live/420f5c40-439f-11f1-b55d-0f258dce1735.png",
+      "article_ids": [
+        "584ce537"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "584ce537",
+          "source": "BBC World",
+          "title": "画面显示：叛军推进之际俄准军事部队在马里发动空袭",
+          "link": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T11:24:47+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:24:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b981ab2",
+      "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
+      "summary": "2026年4月22日至24日，以“‘K型曲线’下寻找穿越分化的确定性”为主题的第20届中国投资年会在北京海淀圆满闭幕。超千名创投领域从业者齐聚，围绕市场分化格局展开多维度研讨，发布投中2025年度行业榜单，为行业穿越周期提供清晰指引。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_6746015d4bf0475181486ac30bf0e196@6381723_oswg1497945oswg2000oswg1333_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "ac184e21"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "ac184e21",
+          "source": "36氪",
+          "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
+          "link": "https://36kr.com/p/3787806140636420?f=rss",
+          "published_at": "2026-04-29T11:20:42+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:20:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5b104b9",
+      "title": "伊朗战事与邻国关系紧张背景下阿联酋走自主路线",
+      "summary": "阿联酋退出石油输出国组织（OPEC）的决定引发中东地区震动，凸显出在当前伊朗战事、地区关系紧张的局势下，与沙特存在分歧的阿联酋，正日益明确地走上独立自主的发展道路。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-emirates-politics-1-wmbl/28int-emirates-politics-1-wmbl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1367ec0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1367ec0e",
+          "source": "NYTimes World",
+          "title": "伊朗战事与邻国关系紧张背景下阿联酋走自主路线",
+          "link": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
+          "published_at": "2026-04-29T11:16:31+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:16:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d94bd5f",
+      "title": "近期一起供应链攻击为何专门针对Checkmarx与Bitwarden两家安全公司",
+      "summary": "近期发生一起供应链攻击，专门将目标锁定为Checkmarx和Bitwarden两家安全企业。安全领域相关方发现，相较于其他行业机构，安全服务企业本身风险暴露程度更高，格外容易成为这类攻击的针对目标。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+      "article_ids": [
+        "dc28630c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "dc28630c",
+          "source": "Ars Technica",
+          "title": "近期一起供应链攻击为何专门针对Checkmarx与Bitwarden两家安全公司",
+          "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+          "published_at": "2026-04-29T11:00:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T11:00:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3e004b1e",
+      "title": "叛乱袭击发生后 法国敦促本国公民撤离马里",
+      "summary": "马里发生叛乱袭击事件后，法国发布通告敦促本国公民撤离该国。英国也发布了类似的安全提醒，明确告知仍选择留在马里的本国公民，需自行承担逗留当地的安全风险。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c37/live/7c87c880-43ae-11f1-9d89-8526d1435c1c.jpg",
+      "article_ids": [
+        "0ec24889"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0ec24889",
+          "source": "BBC World",
+          "title": "叛乱袭击发生后 法国敦促本国公民撤离马里",
+          "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T10:58:36+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:58:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23d81cf7",
+      "title": "欧盟裁定Meta未采取足够措施禁止儿童使用脸书与Instagram",
+      "summary": "欧盟委员会经过近两年调查，于周三发布初步裁定，认定Meta未出台充分有效的措施，阻止13岁以下儿童使用旗下社交平台脸书与Instagram，这一行为违反了欧盟《数字服务法》的相关规则。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f323bbe8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f323bbe8",
+          "source": "The Verge",
+          "title": "欧盟裁定Meta未采取足够措施禁止儿童使用脸书与Instagram",
+          "link": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+          "published_at": "2026-04-29T10:46:24+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:46:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "026448c8",
+      "title": "百度无人车引发混乱后 中国暂停核发新自动驾驶出租车牌照",
+      "summary": "彭博社援引不具名知情人士消息称，中国已暂停核发新自动驾驶车辆牌照。此次限制措施出台，缘于上月百度在武汉运营的数十辆自动驾驶出租车突然集体停滞，引发交通混乱，新规禁止相关企业新增无人驾驶运营车辆。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "805fe2d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "805fe2d3",
+          "source": "The Verge",
+          "title": "百度无人车引发混乱后 中国暂停核发新自动驾驶出租车牌照",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+          "published_at": "2026-04-29T10:39:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:39:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "026448c8",
+      "title": "百度自动驾驶乱象后 中国冻结新增自动驾驶出租车牌照",
+      "summary": "彭博社援引知情人士消息称，中国已暂停发放新的自动驾驶车辆牌照。此前上月，百度运营的数十辆自动驾驶出租车在武汉街头集体停滞，引发交通混乱，此次限制将禁止相关企业新增无人驾驶车辆投入运营。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "805fe2d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "805fe2d3",
+          "source": "The Verge AI",
+          "title": "百度自动驾驶乱象后 中国冻结新增自动驾驶出租车牌照",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+          "published_at": "2026-04-29T10:39:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:39:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "44fa8d48",
+      "title": "互联网限制引发俄罗斯民众公开质疑普京举措",
+      "summary": "俄罗斯国内多个群体，从美妆网红到象征性政治反对派，都已开始公开质疑普京总统推行的互联网接入限制举措，这项针对互联网的管控政策并未获得民众认可，反而促使不同社会群体公开对相关举措提出疑问。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28Russia-discontent-lbcp/28Russia-discontent-lbcp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b43f175d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b43f175d",
+          "source": "NYTimes World",
+          "title": "互联网限制引发俄罗斯民众公开质疑普京举措",
+          "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+          "published_at": "2026-04-29T10:15:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:15:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7725871b",
+      "title": "官方通报网民反映“砀山万达霸王茶姬奶茶中喝出水银”问题调查情况 - 新华网",
+      "summary": "网民反映安徽砀山万达霸王茶姬售卖的奶茶中喝出疑似水银异物，事件引发关注，涉事门店将异物及原材料送检，当地市场监管部门介入调查。官方通报调查结果，确认该异物为奶茶购买人自行投放，律师称该行为最高可涉及刑事犯罪。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4184293d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4184293d",
+          "source": "Google News (中国)",
+          "title": "官方通报网民反映“砀山万达霸王茶姬奶茶中喝出水银”问题调查情况 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUw2dkdUTEhnOXNFamxYZnZlVS1CZ0U5bTBQa0N1VUxVeGhLdXNqWEc0TXd0QkdaZ1A5LVN4ZXNtWTZVZ2lFMGZicVNibVJfT3FaUDBtbXdTQTZHZXVTb0lnRGpaR0kxNmlpaGtNN044Rk5JM3JXTFJIS2dvRTQ0cDZ6WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T10:09:05+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:09:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6e9b2a04",
+      "title": "GitHub不到六小时紧急修复一处严重漏洞",
+      "summary": "上月，GitHub员工在不到六小时内修复了一处严重远程代码执行漏洞。该漏洞由Wiz Research利用AI模型在GitHub内部git基础设施中发现，攻击者可借此访问数百万个公开及私有代码仓库，安全团队接获漏洞赏金报告后立即启动处理。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bb864aa9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bb864aa9",
+          "source": "The Verge",
+          "title": "GitHub不到六小时紧急修复一处严重漏洞",
+          "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+          "published_at": "2026-04-29T10:04:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:04:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6e9b2a04",
+      "title": "GitHub不到六小时紧急修复一严重漏洞",
+      "summary": "上个月GitHub工作人员在不到六小时内修复了一处高危远程代码执行漏洞。该漏洞由Wiz Research利用AI模型在GitHub内部git基础设施中发现，攻击者可利用它访问数百万个公开及私有代码仓库，安全团队接报后立即启动处置。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "bb864aa9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "bb864aa9",
+          "source": "The Verge AI",
+          "title": "GitHub不到六小时紧急修复一严重漏洞",
+          "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+          "published_at": "2026-04-29T10:04:25+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T10:04:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8959777c",
+      "title": "科尔比·阿德科克旗下Scout AI获1亿美元融资用于训练军用模型 记者探访其训练营",
+      "summary": "科尔比·阿德科克旗下人工智能企业Scout AI完成1亿美元融资，资金将用于训练军用人工智能模型。该企业正开发可协助单兵操控自动驾驶车辆编队的智能代理，记者已实地探访该项目的训练场地。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3878bff6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3878bff6",
+          "source": "TechCrunch",
+          "title": "科尔比·阿德科克旗下Scout AI获1亿美元融资用于训练军用模型 记者探访其训练营",
+          "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+          "published_at": "2026-04-29T09:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8959777c",
+      "title": "科尔比·阿德科克旗下Scout AI筹得1亿美元训练战争用途模型 本报探访其训练营",
+      "summary": "科尔比·阿德科克旗下人工智能企业Scout AI筹得1亿美元融资，资金将用于训练适用于战争场景的人工智能模型。探访人员实地走访了该企业的训练营地，目前团队正研发可帮助单兵控制无人自主载具集群的AI智能代理。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3878bff6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "3878bff6",
+          "source": "TechCrunch AI",
+          "title": "科尔比·阿德科克旗下Scout AI筹得1亿美元训练战争用途模型 本报探访其训练营",
+          "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+          "published_at": "2026-04-29T09:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3b947138",
+      "title": "严禁预留改装空间！雅迪、爱玛、台铃、九号等8家企业被约谈 - 羊城晚报",
+      "summary": "北京市场监管局约谈雅迪、爱玛、台铃、九号等八家电动自行车企业，明确“五严禁”要求，严禁车辆预留改装空间、严禁车速超过25公里/小时，严打电动自行车超标改装行为；东莞推出举报奖励政策，市民举报销售改装电动自行车每单可获200元奖励。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c7e67386"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c7e67386",
+          "source": "Google News (中国)",
+          "title": "严禁预留改装空间！雅迪、爱玛、台铃、九号等8家企业被约谈 - 羊城晚报",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ca0xMWTRCMU5VeGVRVC0yclpQekw1VVJJSUNnNWJXLTY2aWJwblZwdFBPc0R3LVVkdVA5eXptbUdUNDEtclNZTUNBSF9yWVltaUZaQjRLcHM4VE5JMjB2YTBHTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T09:34:16+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:34:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "978b0da3",
+      "title": "通用汽车将为400万辆汽车搭载Gemini",
+      "summary": "通用汽车计划在美国约400万辆汽车中搭载谷歌Gemini AI助手，2022款及更新款的凯迪拉克、雪佛兰、别克、GMC内置谷歌系统的车型均可获得该升级，升级将通过OTA更新车载信息娱乐系统，于数月内逐步推送。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4e8406e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4e8406e1",
+          "source": "The Verge",
+          "title": "通用汽车将为400万辆汽车搭载Gemini",
+          "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+          "published_at": "2026-04-29T09:14:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:14:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "978b0da3",
+      "title": "通用汽车将为400万辆汽车搭载Gemini",
+      "summary": "通用汽车计划在美国约400万辆车型中引入谷歌Gemini人工智能助手。2022款及更新款、内置谷歌系统的凯迪拉克、雪佛兰、别克、GMC车型均可获得此次AI升级，升级将通过OTA推送至车机系统，整个推送过程历时数月。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "4e8406e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "4e8406e1",
+          "source": "The Verge AI",
+          "title": "通用汽车将为400万辆汽车搭载Gemini",
+          "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+          "published_at": "2026-04-29T09:14:38+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:14:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e3285fd",
+      "title": "小型飞机撞入澳大利亚一机场机库 致两人死亡",
+      "summary": "一架小型飞机在澳大利亚阿德莱德的帕拉菲尔德机场撞上机场机库后坠毁，机身在坠毁之后迅速燃起大火，这起航空事故已经造成两人死亡，目前暂未披露更多事故相关细节。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cbc/live/9c7895d0-43c6-11f1-aec0-b189b12f3c07.jpg",
+      "article_ids": [
+        "62335aab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "62335aab",
+          "source": "BBC World",
+          "title": "小型飞机撞入澳大利亚一机场机库 致两人死亡",
+          "link": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T09:08:07+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:08:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "81967b1f",
+      "title": "巴拉圭称不会抛弃台湾 中国另有安排",
+      "summary": "巴拉圭与台湾当局保持所谓“外交关系”已有数十年，中国始终坚定维护国家主权和领土完整，推动巴拉圭承认一个中国原则。目前巴拉圭称不会改变对台立场，外界关注其最终是否会作出政策调整。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "abe7db80"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "abe7db80",
+          "source": "NYTimes World",
+          "title": "巴拉圭称不会抛弃台湾 中国另有安排",
+          "link": "https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html",
+          "published_at": "2026-04-29T09:00:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:00:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f556ab3f",
+      "title": "爱泼斯坦为私人岛屿“清真寺”获取伊斯兰教圣地麦加物品",
+      "summary": "杰弗里·爱泼斯坦的相关往来信息曝光，揭开了其私人岛屿上一处不寻常建筑的细节，内容显示，爱泼斯坦依靠自身人脉，成功为这处建筑获取了来自伊斯兰教圣地麦加的挂毯。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "7159d49a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7159d49a",
+          "source": "NYTimes World",
+          "title": "爱泼斯坦为私人岛屿“清真寺”获取伊斯兰教圣地麦加物品",
+          "link": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
+          "published_at": "2026-04-29T09:00:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T09:00:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ca60b6b",
+      "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
+      "summary": "36氪正式开放招募“36氪企业全情报”官方股票舆情交流社群，面向股民、理财爱好者及个股研究者，依托大数据与AI提供实时舆情速递、行情拆解、干货同步、避雷预警等信息服务，解决投资者消息闭塞等痛点，该社群明确不荐股，仅提供信息服务。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_4b634360481d423a933d487c35f56cef@5284654_oswg47362oswg282oswg275_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "409bdeb8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "409bdeb8",
+          "source": "36氪",
+          "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
+          "link": "https://36kr.com/p/3787661080714497?f=rss",
+          "published_at": "2026-04-29T08:50:02+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:50:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7caa2dc4",
+      "title": "国王对国会发表历史性演讲的五大要点",
+      "summary": "本次梳理国王对国会发表的历史性演讲，共得出五大核心要点，演讲中部分表述能够鼓舞民主党人士，相关内容同时也引发了白宫的质疑与关注，显现出美国政坛不同阵营对此的差异化反应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce6/live/05fc6d20-4380-11f1-b927-49e1f65be0b5.jpg",
+      "article_ids": [
+        "e2ea75a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e2ea75a4",
+          "source": "BBC World",
+          "title": "国王对国会发表历史性演讲的五大要点",
+          "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T08:48:08+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:48:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "491ca771",
+      "title": "泡泡玛特胡健：盈利不是乐园现阶段最重要的事",
+      "summary": "坐落于北京朝阳公园的泡泡玛特城市乐园完成升级改造，围绕LABUBU、DIMOO两大IP打造的全新区域将于4月30日开放。该乐园客群以非亲子、非本地游客为主，开业首年即实现盈利，泡泡玛特副总裁胡健称，现阶段不将盈利作为核心目标，聚焦打磨作品、赋能IP。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_0388c8f8694849b585bf36e9ff3013e9@5654145_oswg3475837oswg1600oswg1067_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "6abd76c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "6abd76c3",
+          "source": "36氪",
+          "title": "泡泡玛特胡健：盈利不是乐园现阶段最重要的事",
+          "link": "https://36kr.com/p/3787554697895168?f=rss",
+          "published_at": "2026-04-29T08:33:57+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:33:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a16772c0",
+      "title": "36氪首发 | 主攻氢涡轮增程的全倾转eVTOL，「华喜航空」完成数千万元种子轮融资",
+      "summary": "华喜航空完成由民银国际独家投资的数千万元种子轮融资，资金将用于技术研发与商业化推进。该公司是全球首个氢涡轮混动eVTOL研发企业，由航空领域资深团队组建，主打千公里级长航时氢涡轮增程eVTOL，目前首款产品已获大量意向订单。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_8fd8001c6ac3492eaa513d33ac46ba8a@5654145_oswg361875oswg3096oswg1517_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "e52effd6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e52effd6",
+          "source": "36氪",
+          "title": "36氪首发 | 主攻氢涡轮增程的全倾转eVTOL，「华喜航空」完成数千万元种子轮融资",
+          "link": "https://36kr.com/p/3786532449312007?f=rss",
+          "published_at": "2026-04-29T08:24:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:24:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7f749153",
+      "title": "上海合作组织绿色和可持续发展论坛开幕沈跃跃宣读习近平主席贺信 - cppcc.gov.cn",
+      "summary": "上海合作组织绿色和可持续发展论坛开幕，沈跃跃在开幕式上宣读了习近平主席发来的贺信。本次论坛聚焦绿色可持续发展议题，各界围绕上合框架下绿色能源合作、光伏产业出海等方向探讨绿色发展机遇，此外2026中国上海合作组织研究中心年会也于近期在京举行。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1254e118"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1254e118",
+          "source": "Google News (中国)",
+          "title": "上海合作组织绿色和可持续发展论坛开幕沈跃跃宣读习近平主席贺信 - cppcc.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xdTJVbjdvcE8xQms0MHlmX3hZWVBDNWVzdE1nazZ6U05rRHV0YUpfamZKX3JQMUtmd2FsdGk1eWllQW1mR1pvekFYY2pNcEU3bjBFdDRHS0djR1NPMVVqeE1nMlJkajhfNDZ5Vm9FYnZXU2wz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T08:13:13+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:13:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ceee214",
+      "title": "国际足联修改规则后阿富汗女足球员可重返赛场",
+      "summary": "国际足联修改规则批准阿富汗女足球运动员重返国际赛事，阿富汗前女足队长哈莉达·波帕尔表态称，能够重返国际赛场的阿富汗女性将成为“韧性的象征”，这一调整为当地女性运动员重回国际竞技舞台提供了可能。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/89291980-439b-11f1-b861-d7bf71119519.jpg",
+      "article_ids": [
+        "014f982f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "014f982f",
+          "source": "BBC World",
+          "title": "国际足联修改规则后阿富汗女足球员可重返赛场",
+          "link": "https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-04-29T08:08:14+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:08:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aed255ec",
+      "title": "是时候制定核废料处理计划了",
+      "summary": "当前美国核能获得跨政治阵营的罕见支持，科技企业为满足大型数据中心的建设需求入局核能领域，为该行业带来新一轮资金与关注热潮。正因核能迎来新发展机遇，当下正是讨论规划核废料处理这一遗留问题的合适时机。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "60838243"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "60838243",
+          "source": "MIT Technology Review",
+          "title": "是时候制定核废料处理计划了",
+          "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+          "published_at": "2026-04-29T08:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T08:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f999680e",
+      "title": "外交部：中方愿同各方继续保持沟通 共同维护全球的能源安全和产供链稳定 - 第一财经",
+      "summary": "第一财经发布外交部相关表态，针对全球能源安全与产业链供应链稳定相关议题，中方明确表示，愿同世界各国各方继续保持密切沟通协作，合力应对全球能源领域相关挑战，共同维护全球能源安全与产供链稳定。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b6940027"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b6940027",
+          "source": "Google News (中国)",
+          "title": "外交部：中方愿同各方继续保持沟通 共同维护全球的能源安全和产供链稳定 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mX09lT1JvRVZMRWxUWVhhV093aWlhQm9JVU81XzNNekZlejB6OFNBeXhMalE0TmwwMmROc3ZXU1pSTDNKbjl2V2hsUnBScm0taEVr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T07:34:29+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T07:34:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b7525085",
+      "title": "韩国前总统尹锡悦涉妨碍逮捕等案二审宣判 获刑7年 - 中国网",
+      "summary": "韩国前总统尹锡悦涉及妨碍逮捕等案件已完成二审宣判，法院最终判处其有期徒刑7年。该事件的相关报道由中国网发布，公众若想了解事件更多详情，可前往Google新闻平台查看完整报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8f0a9423"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8f0a9423",
+          "source": "Google News (中国)",
+          "title": "韩国前总统尹锡悦涉妨碍逮捕等案二审宣判 获刑7年 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83X0lCSTV4UWxoQ2U1dE1hbnVyWU5tRUNrZDExLUpKYVpfTUZLOU41Y19WdFNXMWpFbWZPSzVnbGdRT284Z1pLd05FblFDUkJyckFmQkE1X25uNUlXaHplUmkxTTNYMFUyQ0RsOXFaRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T07:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T07:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "009d57a1",
+      "title": "国王查尔斯与卡米拉王后将访问纽约9·11纪念园",
+      "summary": "英国国王查尔斯与卡米拉王后即将访问纽约，按照行程安排，二人将先在曼哈顿下城的9·11纪念园出席仪式，随后还将走访哈莱姆区一家非营利机构、纽约公共图书馆主馆以及佳士得。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28royal-visit-wednesday-schedule-khzt/28royal-visit-wednesday-schedule-khzt-mediumSquareAt3X-v3.jpg",
+      "article_ids": [
+        "63832c6b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "63832c6b",
+          "source": "NYTimes World",
+          "title": "国王查尔斯与卡米拉王后将访问纽约9·11纪念园",
+          "link": "https://www.nytimes.com/2026/04/29/nyregion/king-charles-us-visit-new-york.html",
+          "published_at": "2026-04-29T07:05:27+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T07:05:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6148608c",
+      "title": "西班牙通胀意外进一步加快 突破2%",
+      "summary": "西班牙通胀意外进一步攀升，已超出欧洲央行设定的2%政策通胀目标。受伊朗战争影响，市场原本就预期今年会上调利率，此次通胀超预期上涨进一步支撑了这一市场预期。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixPbeLMPLhk4/v1/1200x-1.jpg",
+      "article_ids": [
+        "9ac2906d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9ac2906d",
+          "source": "Bloomberg",
+          "title": "西班牙通胀意外进一步加快 突破2%",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/spanish-inflation-unexpectedly-quickens-further-beyond-ecb-goal",
+          "published_at": "2026-04-29T07:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T07:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9968878",
+      "title": "芬兰通力同意以294亿欧元收购蒂升电梯",
+      "summary": "芬兰企业通力集团同意以294亿欧元（约合344亿美元，含债务）收购蒂升电梯，这笔交易将令这家芬兰公司成为电梯行业的主导企业，同时也会给其竞争对手带来新的竞争压力。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_fKm04VWRDY/v1/1200x-1.jpg",
+      "article_ids": [
+        "5ebdb133"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5ebdb133",
+          "source": "Bloomberg",
+          "title": "芬兰通力同意以294亿欧元收购蒂升电梯",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-29/finland-s-kone-agrees-to-buy-rival-tk-elevator-for-29-4-billion",
+          "published_at": "2026-04-29T05:51:20+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T05:51:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1008464",
+      "title": "王毅会见第80届联合国大会主席贝尔伯克 - 中华人民共和国常驻联合国代表团",
+      "summary": "第80届联合国大会主席贝尔伯克到访，中方王毅、韩正分别与其会见。王毅在会见中明确反对任何挑战联合国第2758号决议权威的言行，强调面对强权霸凌不能任由“谁拳头硬谁说了算”，中方坚定维护联合国权威，捍卫国际公平正义。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1fa84251"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1fa84251",
+          "source": "Google News (中国)",
+          "title": "王毅会见第80届联合国大会主席贝尔伯克 - 中华人民共和国常驻联合国代表团",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2a0Q2YjBxNTZVUkxCcC1BRl8tU182c1VhM3dHNkttb3djOWJzWmxGbVpvQ3laMmZfOFlLQTYybkd1ZXgtZW9ZVzFxZ0hVbGlZWS1UVHhBV0FXeF8wZ0plTThBYW5vX2FKal9nV2pBb2x1U09Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T05:11:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T05:11:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d911e993",
+      "title": "文化和旅游部持续整治旅游市场，专家认为A级旅游景区守牌提质迫在眉睫 - 新华报业网",
+      "summary": "文化和旅游部正持续开展旅游市场整治工作，多个5A级景区因摆渡车问题被点名后，赶在五一前积极推进整改。专家指出，当前A级旅游景区守牌提质迫在眉睫，业内也有观点提出，国内旅游景区可引入“生产型交易”激活票务价值。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3b21686a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3b21686a",
+          "source": "Google News (中国)",
+          "title": "文化和旅游部持续整治旅游市场，专家认为A级旅游景区守牌提质迫在眉睫 - 新华报业网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sMHluaVpjek5IbWJxaXNXVHhWcEx2WWo4TDBULWlxejVISlphaHVGUlFxVC1rUjM2Z2RST09SN29ZT0VkZTFXbmVha2RFcWtyTG5tSVdXSGN2dnZ5MnlubTVxOWFsOUdFS1h3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T05:07:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T05:07:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c5b04c36",
+      "title": "习近平：着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全 - 中国共产党新闻网",
+      "summary": "中共中央政治局今年开展第二次集体学习，本次学习聚焦提高防范应对自然灾害能力这一主题。习近平总书记强调，要着力提升防范应对自然灾害的能力，切实维护人民群众的生命财产安全，相关内容获多家权威媒体刊发报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cd445f5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cd445f5e",
+          "source": "Google News (中国)",
+          "title": "习近平：着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5UW9mU2k0dGZBY1Rvb1hVWENBbEdYLXBodUQwMGRIWVpxY0xZbzlIbDhiV1dWU1RlZDlnN1NWVmhOb1lDeURMbzlFM2RVNE82MndKTlNqLUtBZXBzcVpPMGVhanBUY29fR0RZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-04-29T04:54:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T04:54:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7fda60da",
+      "title": "黑色幽默为中东战争中的人们带来喘息",
+      "summary": "中东正深陷战争冲突，当地民众承受着难以平复的伤痛。不少阿拉伯数字创作者在社交媒体发布尖锐的幽默内容，以黑色幽默应对当下冲突，为原本浓烈刺骨的伤痛注入一丝轻松，舒缓民众的压抑情绪。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-mideast-memes-lhzv/00int-mideast-memes-lhzv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f91cc869"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f91cc869",
+          "source": "NYTimes World",
+          "title": "黑色幽默为中东战争中的人们带来喘息",
+          "link": "https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html",
+          "published_at": "2026-04-29T04:01:06+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T04:01:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31452543",
+      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+      "summary": "4月28日，未来宇航在雄安发布国内首个服务卫星组网与在轨业务的FX锋行系列空间飞行器，正式切入卫星组网部署与在轨服务市场。该产品具备低成本、高可靠、快响应等特点，可提供全链条一体化解决方案。同期雄安总装测试中心落地，首飞产品已完成总装，预计今年下半年首飞。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_d76ff7e03b5649dab384d01aa666c3ca@5920579_oswg653714oswg932oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "e4619b6c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e4619b6c",
+          "source": "36氪",
+          "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+          "link": "https://36kr.com/p/3787376553876737?f=rss",
+          "published_at": "2026-04-29T04:00:21+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T04:00:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8165ee9",
+      "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+      "summary": "一汽奥迪基于专属纯电PPE平台，推出A6L e-tron、Q6L e-tron两款纯电新车，覆盖中大型豪华纯电轿车与SUV市场，售价26.98万元起，顶配搭载华为乾崑智驾，全系标配800V高压架构，针对国内需求加长轴距优化车机，定价务实，标志奥迪电动化进入实质竞争阶段。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260429/v2_84737b9a411f4f0b9583c43c960bf3c2@5809365_oswg239122oswg2880oswg1620_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "edd0a0e8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "edd0a0e8",
+          "source": "36氪",
+          "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+          "link": "https://36kr.com/p/3769086884528640?f=rss",
+          "published_at": "2026-04-29T03:17:59+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T03:17:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd3fab46",
+      "title": "印尼泼酸袭击事件令人联想起苏哈托时代的暴行",
+      "summary": "印尼发生一起泼酸袭击事件，遇袭的受害者此前曾公开抗议军方在国内不断扩大的职权。相关活动人士表示，这起袭击的暴力性质，令人联想到该国苏哈托数十年独裁统治时期的残暴行径。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/00int-indonesia-activist-01-mcqb/00int-indonesia-activist-01-mcqb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f9839487"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f9839487",
+          "source": "NYTimes World",
+          "title": "印尼泼酸袭击事件令人联想起苏哈托时代的暴行",
+          "link": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
+          "published_at": "2026-04-29T03:12:54+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T03:12:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfa53edc",
+      "title": "一家风投机构如何在日益碎片化的世界开展投资",
+      "summary": "地缘政治动荡给全球风险投资带来诸多挑战，投资环境的不确定性显著上升。在此背景下，风投机构Kompas VC开辟出专属细分赛道，专注投资聚焦实体领域的初创企业，以此适配当下的复杂市场环境。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "409e3ab4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "409e3ab4",
+          "source": "TechCrunch",
+          "title": "一家风投机构如何在日益碎片化的世界开展投资",
+          "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+          "published_at": "2026-04-29T03:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-04-29T03:00:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
