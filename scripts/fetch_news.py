@@ -224,6 +224,11 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
 
             link = _resolve_google_news_link(link)
             image = _extract_image(entry)
+            # 补全相对路径的图片 URL（人民日报 RSS 的图片是相对路径）
+            if image and image.startswith("/"):
+                parsed = urlparse(source["url"])
+                base = f"{parsed.scheme}://{parsed.netloc}"
+                image = base + image
             description = _strip_html(entry.get("summary", "") or entry.get("description", ""))
             title = entry.get("title", "").strip()
             if not title:

@@ -37,15 +37,9 @@
           "lang": "zh"
         },
         {
-          "name": "人民日报",
+          "name": "人民日报 (官方)",
           "type": "rss",
-          "url": "https://rsshub.app/people/env/ywb",
-          "lang": "zh"
-        },
-        {
-          "name": "央视新闻",
-          "type": "rss",
-          "url": "https://rsshub.app/cctv/top",
+          "url": "http://www.people.com.cn/rss/politics.xml",
           "lang": "zh"
         }
       ]
