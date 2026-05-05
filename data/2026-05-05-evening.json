@@ -1,0 +1,2394 @@
+{
+  "date": "2026-05-05",
+  "edition": "evening",
+  "updated_at": "2026-05-05T22:02:11.084774+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "cc0aade5",
+      "title": "研究人员诱导AI Claude给出爆炸物制造方法",
+      "title_original": "Researchers gaslit Claude into giving instructions to build explosives",
+      "summary": "Anthropic多年来一直将自身打造为安全人工智能企业，AI红队公司Mindgard的一项新安全研究已分享给The Verge。研究显示，Claude精心塑造的助人特性本身就是漏洞，研究人员成功诱导其输出色情内容、恶意代码、爆炸物制造方法等违规内容。",
+      "summary_original": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, malicious code, and instructions for building explosives, and other prohibited [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T13:13:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cc0aade5",
+      "title": "研究人员诱导Claude给出制造炸药的方法",
+      "title_original": "Researchers gaslit Claude into giving instructions to build explosives",
+      "summary": "一向以安全AI企业自居的Anthropic，旗下AI Claude被曝出存在安全漏洞。AI红队公司Mindgard的最新研究显示，研究人员成功诱导其生成色情内容、恶意代码、炸药制造方法等多项违规内容，该研究已分享给科技媒体The Verge。",
+      "summary_original": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, malicious code, and instructions for building explosives, and other prohibited [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-05T13:13:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc0a81f9",
+      "title": "谷歌AI架构师“免费住”在马斯克脑中",
+      "title_original": "Google’s AI architect lived rent-free in Elon Musk’s head",
+      "summary": "马斯克与阿尔特曼的官司开庭已约一周，包括OpenAI总裁格雷格·布罗克曼、马斯克亲信贾里德·伯查尔以及马斯克本人在内的多位科技界核心人物已露面，谷歌深度思维CEO德米斯·哈萨比斯作为本案最受关注的人物之一，目前仍处于事件边缘。",
+      "summary_original": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google DeepMind. Hassabis is the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T13:11:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc0a81f9",
+      "title": "谷歌AI架构师一直萦绕在埃隆·马斯克心头",
+      "title_original": "Google’s AI architect lived rent-free in Elon Musk’s head",
+      "summary": "埃隆·马斯克与奥尔特曼的官司开庭已有一周，包括OpenAI总裁格雷格·布洛克曼、马斯克心腹贾里德·伯查尔以及马斯克本人在内的多位科技界权势人物已现身参与庭审，谷歌DeepMind首席执行官戴米斯·哈萨比斯作为该案最受关注的核心人物之一，目前仍游离在庭审边缘。",
+      "summary_original": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google DeepMind. Hassabis is the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-05T13:11:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a9b41a4d",
+      "title": "解读：阿联酋与沙特阿拉伯日益加深的裂痕",
+      "title_original": "The Growing Rift Between the UAE and Saudi Arabia, Explained",
+      "summary": "两国官方均表示双方之间的竞争属于健康良性的范畴，然而当前阿联酋与沙特阿拉伯在能源配额、地区冲突，以及各自对中东的不同发展愿景等多项议题上，双边紧张局势正持续升级。",
+      "summary_original": "Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.",
+      "image": "https://static01.nyt.com/images/2026/04/30/multimedia/30int-uae-saudi-rift-wtk-1-khwt/30int-uae-saudi-rift-wtk-1-khwt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T13:04:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e6857c6d",
+      "title": "伊朗战事最新快讯：赫格塞思称美军在海峡的军事行动属防御性且临时性",
+      "title_original": "Iran War Live Updates: Hegseth Calls U.S. Military Effort in Strait Defensive and Temporary",
+      "summary": "伊朗一名官员指责美国违反停火协议，此前伊朗武装部队对美国海军引导通过霍尔木兹海峡的船只开火，目前美国国防部长皮特·赫格塞思与丹·凯恩将军正召开相关新闻发布会介绍情况。",
+      "summary_original": "An Iranian official accused the United States of violating a cease-fire after Iranian forces fired at vessels that the U.S. Navy was guiding through the Strait of Hormuz. Defense Secretary Pete Hegseth and Gen. Dan Caine are holding a news conference.",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05live-iran-war-header-bcgj-promo/05live-iran-war-header-bcgj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T13:01:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0e74ed9c",
+      "title": "亚马逊押注基于诺奖技术的除湿可削减自身能耗",
+      "title_original": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
+      "summary": "全球电商巨头亚马逊计划为旗下各类商用建筑采购一款新型暖通空调系统，该系统应用了基于诺贝尔奖技术的除湿方案，亚马逊希望借此大幅降低自身运营过程中的能源消耗。",
+      "summary_original": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e6a064f4",
+      "title": "探秘福特攻关平价电动汽车技术的实验室",
+      "title_original": "Inside the lab where Ford is trying to crack the code on cheap EVs",
+      "summary": "福特目前对其电动汽车未来发展释放的信号并不清晰。去年二月外界曾获悉其通用电动汽车UEV项目，随后福特却叫停了被认为是迄今较为成功的电动皮卡F-150 Lightning项目，当下整体电动汽车行业环境也并未给福特相关规划提供有利支持。",
+      "summary_original": "Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regarded as one of the more successful electric pickup trucks to date. The climate surrounding electric vehicles hasn't helped, either, between [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "29c3624d",
+      "title": "阿斯彭W酒店业主拟出售 该滑雪胜地此类交易罕见",
+      "title_original": "W Hotel Aspen Owner Eyes Sale in Ski Resort Where Deals Are Rare",
+      "summary": "美国投资机构北岭资本正为阿斯彭W酒店寻找买家，该酒店位于美国科罗拉多州高端滑雪小镇阿斯彭的雪场旁，此次交易将是该滑雪胜地自2010年以来的首笔此类交易，当地这类滑雪度假酒店交易十分罕见。",
+      "summary_original": "Northridge Capital is seeking a buyer for the W Hotel Aspen, a sale that would be the first for a slopeside resort in the upscale Colorado town since 2010.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9qrImrssAOA/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/w-hotel-aspen-owner-eyes-sale-in-ski-resort-where-deals-are-rare",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6940a589",
+      "title": "多米尼加抗议活动中断加拿大金矿项目",
+      "title_original": "Dominican Republic Protests Derail Canadian Gold Mining Project",
+      "summary": "因国内爆发大规模民众抗议，多米尼加共和国叫停了加拿大高德奎斯特矿业公司旗下罗梅罗金矿项目的开发工作，此前因该事件停牌的公司股票，按计划将于周二恢复交易。",
+      "summary_original": "Trading of Canada’s Goldquest Mining Corp is scheduled to resume Tuesday after the Dominican Republic halted development of its Romero gold mine project in the wake of mass protests.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5d_Igunjrj4/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/dominican-republic-protests-derail-canadian-gold-mining-project",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:47:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d18d80a4",
+      "title": "特朗普曾承诺委内瑞拉问题问责透明 秘密石油交易仍存续",
+      "title_original": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+      "summary": "特朗普政府官员及其委内瑞拉盟友曾承诺，将开启全新问责时代，释放委内瑞拉蕴藏的海量石油财富。但目前委内瑞拉石油产业仍极不透明，此前承诺的问责并未落地，相关秘密交易依旧存续。",
+      "summary_original": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole.",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/00int-venezuela-oil-promo/00int-venezuela-oil-gclh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T12:39:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3caa0397",
+      "title": "Coinbase拟在全面重组中裁员14%",
+      "title_original": "Coinbase to lay off 14% of staff as part of broader restructuring",
+      "summary": "知名加密货币交易平台Coinbase计划裁减14%的员工，此次裁员属于平台全面重组计划的一部分。本次重组旨在应对市场波动，同时扩大AI工具的应用范围，以此提升平台的整体运营效率。",
+      "summary_original": "The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-05T12:35:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4fd67c7f",
+      "title": "战争冲击旅游业 马尔代夫最大银行寻求发行美元伊斯兰债券",
+      "title_original": "Maldives’ Biggest Bank Seeks Dollar Sukuk as War Hits Tourism",
+      "summary": "马尔代夫最大银行马尔代夫PLC正举办全球投资者会议，评估市场对其首次进军国际资本市场发债的需求，该行计划发行美元伊斯兰债券，相关交易将帮助支撑马尔代夫核心支柱旅游业，抵御中东冲突带来的不利影响。",
+      "summary_original": "Bank of Maldives Plc is holding global investor meetings to gauge appetite for what would be its first foray into international capital markets, a transaction that may help buttress the island nation’s key tourism industry against fallout from the Middle East.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/maldives-biggest-bank-seeks-dollar-sukuk-as-war-hits-tourism",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:32:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ec291c91",
+      "title": "米尔肯研究所全球会议最新动态",
+      "title_original": "Updates From Milken Institute Global Conference",
+      "summary": "米尔肯研究所全球会议在美国加利福尼亚州比弗利山庄举办，多名与会发言者参与了本次会议设置的专题小组讨论环节，本次活动的相关现场画面由彭博社摄影师劳伦·贾斯蒂斯拍摄记录。",
+      "summary_original": "Speakers participate in a panel discussion during the Milken Institute Global Conference in Beverly Hills, California. Photographer: Lauren Justice/Bloomberg",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4deRcPJUjU/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-05-05/milken-institute-global-conference-may-5",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:30:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "891eb340",
+      "title": "欧央行拉加德敦促欧洲减少能源进口依赖",
+      "title_original": "ECB’s Lagarde Urges Europe to Reduce Energy-Import Dependency",
+      "summary": "欧洲央行行长克里斯蒂娜·拉加德表示，伊朗战争引发能源价格大幅飙升，这应当为欧洲敲响警钟，欧洲需抓住这个契机调整能源结构，减少对化石燃料的使用，同时降低自身对能源进口的依赖程度。",
+      "summary_original": "European Central Bank President Christine Lagarde said soaring energy costs due to the Iran war should act as a wake-up call for Europe to reduce its reliance on fossil fuels and energy imports.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itG39D_3ENWk/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/ecb-s-lagarde-urges-europe-to-reduce-energy-import-dependency",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2510cf31",
+      "title": "世卫组织称汉坦病毒或已在邮轮乘客间传播",
+      "title_original": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+      "summary": "汉坦病毒通常极少在人与人之间发生传播，世界卫生组织通报，一艘邮轮上已确诊两例汉坦病毒感染病例，截至目前已有三人死亡，该病毒或已在这艘邮轮的乘客之间发生传播。",
+      "summary_original": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb9/live/e3e0d720-4876-11f1-b010-8f8612d9ae2e.jpg",
+      "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T12:27:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e7c12862",
+      "title": "泽连斯基谴责俄罗斯停火前夕发动打击的“十足虚伪行径”",
+      "title_original": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
+      "summary": "俄罗斯提出将于5月8日、9日在俄乌战场实施停火，乌克兰方面则表示己方将提前停止军事行动，这意味着任何破坏停火行为的责任都将归于俄罗斯。泽连斯基已就俄罗斯在停火前夕发动打击一事对俄予以谴责。",
+      "summary_original": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/529dbe90-4871-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T12:15:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c523e0bc",
+      "title": "彭博观点嘉宾称伊朗战事重启风险“高得不合常理” | 《脉搏》节目 5月5日",
+      "title_original": "'Irrationally High' Risk of Iran War Restarting: Bloomberg Opinion's Champion | The Pulse 5/5",
+      "summary": "彭博旗下《弗朗辛·拉克瓦的脉搏》节目立足伦敦，聚焦全球政经、商业与金融领域，专访各界知名嘉宾，带来独家访谈与影响市场的重磅资讯，本期邀请了四家机构的高管及资深研究员做客。",
+      "summary_original": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Vivek Paul, BlackRock Investment Institute, Portfolio Research Global Head; Yu Jie, Chatham House, Asia-Pacific Programme Senior Research Fellow; Ester Baiget, Novonesis, President & CEO; Massimo Battaini, Prysmian, CEO",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUFy7WlRJmHM/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-05/the-pulse-5-5-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:10:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "798ce4a3",
+      "title": "《科技速递》：马斯克诉奥特曼庭审内幕及人工智能与民主",
+      "title_original": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "summary": "作为聚焦全球科技动态的工作日通讯《科技速递》的当日推送，本次内容围绕人工智能领域两大巨头埃隆·马斯克与萨姆·奥特曼的诉讼展开，披露该案第一周庭审的相关情况，同时还涵盖人工智能与民主相关议题。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-05-05T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14a1d646",
+      "title": "石油交易商以小众利差押注应对伊朗战争影响",
+      "title_original": "Oil Traders Navigate Iran War Impacts With Niche Spread Bets",
+      "summary": "美伊战争已进入第三个月，新晋全球最大原油出口国伊朗正面临满足全球原油需求的前所未有的压力。在此局势下，石油交易商正针对美国原油库存可能出现的不同结果对冲风险，通过小众利差押注应对战争带来的影响。",
+      "summary_original": "With the US-Iran war creeping into its third month, oil traders are hedging against divergent outcomes tied to US inventories as the newly anointed top crude exporter faces unprecedented pressure to meet global demand.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLvwL6wcQaGY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/oil-traders-navigate-iran-war-impacts-with-niche-spread-bets",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T12:08:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "02c64860",
+      "title": "a16z加密部门为新基金募得22亿美元",
+      "title_original": "a16z Crypto Raises $2.2 Billion for New Fund",
+      "summary": "a16z加密部门完成了新基金的募资工作，本次为该新基金募集到的资金总金额达到22亿美元，暂未披露更多相关细节信息。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/a16z-crypto-raises-2-2-billion-new-fund",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-05-05T12:00:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1b53d914",
+      "title": "Moment Energy获4000万美元融资 拟用电动车电池满足“无限电力需求”",
+      "title_original": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
+      "summary": "初创企业Moment Energy完成4000万美元融资，其首席执行官爱德华·蒋接受TechCrunch采访时透露，该企业对电动汽车电池的改造再利用做出了创新性调整，将依托这项技术满足市场庞大的电力需求。",
+      "summary_original": "The startup has put a spin on repurposing EV batteries, CEO Edward Chiang told TechCrunch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-05T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "28b86459",
+      "title": "Bose推出全新家用音箱 挑战Sonos",
+      "title_original": "Bose takes a swing at Sonos with its new home speakers",
+      "summary": "上周四，Bose在纽约曼哈顿上西区一处样板房展示了品牌全新家用智能音箱产品。目前Sonos在家用智能音响市场占据优势地位，Bose此次推出新品直接针对竞争对手，意图抢占更多家用音响市场份额。",
+      "summary_original": "Last Thursday, in a staged home on the Upper West Side of Manhattan, I sat on a couch that was a bit too low and a tad too deep in front of a small, beige-colored smart speaker sitting on the middle of a trio of arched midcentury storage cabinets. On either side of the smart [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e293a7f9",
+      "title": "张国清赶赴湖南长沙浏阳市烟花厂爆炸事故现场指导应急救援处置工作 - 新京报",
+      "title_original": null,
+      "summary": "湖南长沙浏阳市发生烟花厂爆炸事故，张国清已赶赴事故现场，指导开展事故的应急救援与处置工作。这一消息由新京报发布，公众可前往Google新闻平台查看事件的完整报道，获取事故救援处置的更多相关详情。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3Wl8wLVJiT244UWJZMEJhdW9HR1VJTlhUNFE0aWtFWEx5VGhvUm02dUxQaWJlNGdlX2dkNmhUTnR2WGRCR2stNlAwX05lcXNVd1l3bzlfemdzdWJsdWJNUDlQREk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T11:50:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "17648db5",
+      "title": "美军中央司令部：美军“乔治·H·W·布什”号航空母舰正在穿越阿拉伯海 - 第一财经",
+      "title_original": null,
+      "summary": "美军中央司令部对外发布消息称，美军“乔治·H·W·布什”号航空母舰正在穿越阿拉伯海。该事件相关报道由第一财经推出，感兴趣的公众可前往Google新闻平台，查看这一事件的完整报道内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GRUJPV0FySFNRQkptSFFtdThYOXlmaC1kV3FWem1BMlk5UnRkQURXYnRoSHY2cTdPTV9RcGhydXBralZ1NUY3bUlTcjBRZFF3cGsw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T11:29:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f4dc2fb9",
+      "title": "伊朗外长阿拉格齐将访华 - 新华网",
+      "title_original": null,
+      "summary": "新华网对外发布消息，伊朗外长阿拉格齐将要对中国进行访问，这是近期中伊之间一项重要的外事活动安排，对该访问事件感兴趣的受众，可以前往Google新闻平台查看相关的完整报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISFh1Snh0OTM1SlZadHFYenNrQUw3UkkyNzlrci11SnR4UjZTNzlWUjRzaGg0cU1FdnhrZzdGbmVsZlg2Qmdtd3E1Z29xR3hXOUc2SVhodllGMkk0ZUE4VzZOT0RrdlZ0eEJTLXZwd3RXd3ExZ21VbFFuZzctSGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T11:25:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1e45b57b",
+      "title": "“五一”假期全社会跨区域人员流动量预计超15亿人次 日均比2025年同期增长4% - 东方财富",
+      "title_original": null,
+      "summary": "今年“五一”假期，全社会跨区域人员流动量预计超15亿人次，日均较2025年同期增长4%，有望创历史新高。多部门协同护航，筑牢文旅交通安全与服务双防线，大规模流动带动城市开启假期消费转化战，假期末期南宁已迎来返程高峰。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWnF4RUpFeTVIVlotX0RDeFhQZndSUW1MSVhWVXAxeXFvYnNJdDJhWW9pUFBZczF2QlNMeUt3THhvWGx3YWd3VzlWd3h5S3RVanVoZmU2RlFnSVBmU2tnSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T11:20:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a1921346",
+      "title": "脸书与Instagram使用AI骨骼结构分析识别儿童照片",
+      "title_original": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+      "summary": "周二，脸书与Instagram的母公司Meta发布博客公布，平台将采用AI骨骼结构分析，作为检测、移除13岁以下用户的新方式。该AI系统会扫描平台上的照片与视频，借助身高、骨骼等视觉线索识别儿童相关内容。",
+      "summary_original": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"general themes and visual cues,\" including height and bone [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d383f961",
+      "title": "2026“五一”假期全省接待游客4706.9万人次，实现旅游收入297.7亿元 - 珠海网",
+      "title_original": null,
+      "summary": "2026年“五一”假期，广东省累计接待游客4706.9万人次，实现旅游收入297.7亿元。当地文旅市场活力与品质双升，文旅消费迎来热潮，其中假期第二日，全省4A级及以上景区接待游客394.2万人次，同比增长5.2%。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RnBrcmFLMkg3NlY1U1VOUWtwZ0JfNEZHZUxKU1g5eGFPU3dGNjIxcldKZV9mdTRocEJnNm1EaWRQNTQ0WXRwYTJ4d1d6MGdXR292M1A0dWg3SS1pU29CSnl2dEtFZF9hRjdSNElmN1JYajFWTmlF?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T10:59:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "37900555",
+      "title": "德国莱比锡市一汽车冲入人群 致两人死亡多人受伤",
+      "title_original": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "summary": "德国莱比锡市发生一起汽车冲入人群的事件，目前已造成两人死亡、另有多人受伤。德国当地当局发布消息称，事件发生后，一名33岁的涉事德国公民已经被拘留。",
+      "summary_original": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37c6/live/4d360ea0-4883-11f1-b55d-0f258dce1735.jpg",
+      "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T10:56:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "23edf6ac",
+      "title": "太火爆！两天涌入50万人！你来了吗？ - 中国吉林网",
+      "title_original": null,
+      "summary": "多地近期推出创新文旅项目激活消费，其中吉林长春动植物公园的西游夜游活动十分火爆，两天共涌入50万游客；长春还通过改造工业遗迹、推出沉浸式NPC互动推动文旅升级，五一期间北京京西也推出主题活动引爆全城。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uZXZzYWd6SVRyQWxIcGZ1ZHF1RDBQcGNTQTc2WGJRN0VPcHlieFUtdzlmRV9OQTRzRXFGZGZ0ZDVlcFJfcDBBM19FLXl3elFFWHZFOHIxWmtTU3JIM0hSdmZKMHVQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T10:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f937593c",
+      "title": "暴发汉坦病毒的邮轮仍滞留海上",
+      "title_original": "Cruise Ship Struck by Hantavirus Remains at Sea",
+      "summary": "MV Hondius号邮轮在大西洋发生汉坦病毒感染事件，现已造成3人死亡，至少3人染病。佛得角当局未批准该邮轮靠岸，不允许船上乘客下船，涉事邮轮目前仍滞留海上。",
+      "summary_original": "Passengers on the MV Hondius have not received permission from the authorities in Cape Verde, in the Atlantic Ocean, to disembark. Three people have died and at least three others were ill.",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05int-cruise-virus-fthv/05int-cruise-virus-fthv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T10:23:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2f73fdaf",
+      "title": "飞猪、小红书发布“五一”出行趋势洞察：七成用户基于兴趣选目的地 AI咨询量显著攀升 - 经济参考报",
+      "title_original": null,
+      "summary": "飞猪、小红书发布“五一”出行趋势洞察显示，七成用户基于兴趣选择目的地，出行AI咨询量显著攀升。今年“五一”文旅消费火热，呈现错峰多元特征，出行市场从单点火爆转向全域共赢，成功点燃县域文旅发展新引擎，多地跻身热门目的地行列。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmN4Z0J1ZG93eklRbVI0d0lzdHA4V2JJd3FBb2YwNnNlQWdsY2R2V2pNN2NXMGh3bHJZN19rbUkycVI1cjZYazJVdWViNmcyLS0tZk1mbnNndV9QajRPeExhcUdUTkgyM2s5c2RLRjlfNURGREFuVGpMS0JtOHh4cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T10:22:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "36a127c5",
+      "title": "哥伦比亚瓦斯爆炸致九名煤矿工人死亡",
+      "title_original": "Nine coal miners die in gas explosion in Colombia",
+      "summary": "哥伦比亚苏塔陶萨地区发生煤矿瓦斯爆炸事故，事故已造成九名煤矿工人不幸死亡。该地区曾于2023年发生过另一起致命矿难，此次爆炸是该地点发生的最新一起煤矿安全事故。",
+      "summary_original": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6b/live/df51bea0-4861-11f1-9db4-19df36ab272c.jpg",
+      "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T10:09:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8bc99aee",
+      "title": "谷歌DeepMind员工因AI军事合同组建工会",
+      "title_original": "Google DeepMind workers are unionizing over AI military contracts",
+      "summary": "谷歌DeepMind总部员工投票组建工会，旨在阻止该人工智能企业的技术被以色列和美国军方使用。员工周二致信谷歌管理层，要求认可通信工人工会与联合工会为其共同代表，此次投票支持率高达98%。",
+      "summary_original": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T10:08:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8bc99aee",
+      "title": "谷歌DeepMind员工因AI军事合同组建工会",
+      "title_original": "Google DeepMind workers are unionizing over AI military contracts",
+      "summary": "谷歌DeepMind总部员工投票决定组建工会，旨在阻止该人工智能企业的技术被美国及以色列军方使用。员工周二致信谷歌管理层，要求认可通信工人工会与Unite工会为其联合代表，此次投票支持率达98%。",
+      "summary_original": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-05T10:08:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a6bf1870",
+      "title": "节后首个工作日4/9限行，早晚高峰交通压力大，建议错峰出行 - 京报网",
+      "title_original": null,
+      "summary": "五一假期北京天气多变，整体以晴到多云为主，5月2日有阵雨；假期后首个工作日尾号4、9限行，当日北京有雨有风，后续气温先升后降，最高可达28-29℃，随后将直降8℃并伴有降雨。节后首个工作日北京早晚高峰交通压力大，建议公众错峰出行。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6QVgtUHdkYS1HU3FHYktaN0FfUXpUbUV0eEJ4Y2N5U0hEcE9meFpjcnN5ZHVFUVZqdmJqZ29LV05HRkR2WE1uSmNNbml1emEwT3BKV0lXWkp2ODN1aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T09:56:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e095c9ac",
+      "title": "法国最后两只圈养虎鲸命运未卜",
+      "title_original": "The Uncertain Fate of France’s Last Two Captive Orcas",
+      "summary": "法国仅存的两只圈养虎鲸目前受困于一处废弃海洋公园，相关方需就它们的最终去向做出决定。当前可供选择的方案有两种，一是将两只虎鲸转移至其他海洋公园，二是将它们放归开放水域保护区，二者命运目前悬而未决。",
+      "summary_original": "France must decide what to do with two orcas marooned at a deserted marine park: move them to another park, or release them into an open-water sanctuary.",
+      "image": "https://static01.nyt.com/images/2026/05/04/multimedia/04France-orcas-01-wbvm/04France-orcas-01-wbvm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/europe/france-orcas-killer-whales.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T09:52:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ed0f815a",
+      "title": "微软终于移除Windows小组件中的垃圾MSN资讯流",
+      "title_original": "Microsoft is finally ditching the junk MSN feed in Windows widgets",
+      "summary": "两年多前微软就已允许Windows 11用户禁用MSN新闻资讯流，近日微软宣布，很快将对系统小组件进行调整，默认隐藏该垃圾资讯流，以此优化小组件使用体验，让小组件界面更加简洁干净。",
+      "summary_original": "Microsoft is finally giving up on showing the junk feed of MSN news when you open the widgets feature in Windows 11. After allowing Windows 11 users to disable the MSN feed more than two years ago, Microsoft says it will soon hide it by default as part of an effort to make widgets \"quiet [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T09:46:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5e88e68c",
+      "title": "中国一烟花爆竹厂爆炸 致至少26人死亡",
+      "title_original": "Fireworks Factory Explosion in China Kills at Least 26",
+      "summary": "中国一家烟花爆竹厂发生爆炸事故，事故已造成至少26人死亡，另有数十名人员受伤。此次爆炸事故伤亡惨重，是近年来中国国内发生的致死人数最多的安全生产事故之一。",
+      "summary_original": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years.",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05int-china-explosion-zbfq/05int-china-explosion-zbfq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T09:03:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c9dd6bc7",
+      "title": "利用人工智能强化民主的蓝图",
+      "title_original": "A blueprint for using AI to strengthen democracy",
+      "summary": "信息传播方式的变革每隔数百年就会重塑社会治理形态。此前印刷机普及大众识字，推动宗教改革与代议制政府诞生；电报赋能大国治理，催生现代官僚国家；广播媒体打造了全国性共享受众，如今提出了借助人工智能强化民主的发展蓝图。",
+      "summary_original": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-05-05T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "033e3455",
+      "title": "美国称霍尔木兹冲突后美伊停火仍有效",
+      "title_original": "US Says Iran Ceasefire Still in Place After Clashes Over Hormuz",
+      "summary": "霍尔木兹海峡发生船只冲突，同时发生了针对阿拉伯联合酋长国的导弹袭击。在这一系列冲突发生一天后，美国表态称与伊朗的停火仍然有效，同时淡化了美伊重启全面战争的可能性。",
+      "summary_original": "The US played down the prospect of a return to active war with Iran after a day of clashes involving ships in the Strait of Hormuz and missile strikes against the United Arab Emirates.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7PHe08XnBOY/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/us-iran-ceasefire-holds-after-hormuz-clashes-and-uae-strikes-mosec4nt",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T08:46:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14e351a3",
+      "title": "罕见彗星现身新西兰、澳大利亚及南非上空",
+      "title_original": "Rare Comet Appears Over New Zealand, Australia and South Africa",
+      "summary": "一颗编号为C/2025 R3 PANSTARRS（泛星）的罕见彗星，目前已经出现在新西兰、澳大利亚与南非上空，上述地区的天文观测爱好者可以借助望远镜观测到这颗稀有彗星。",
+      "summary_original": "Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T08:38:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b771928c",
+      "title": "焦点访谈丨实干笃行新征程 不负韶华书写青春答卷 - 中国日报网",
+      "title_original": null,
+      "summary": "多家主流媒体包括中国日报网、光明网、新华网、中国青年网等，围绕新时代青年奋斗建功主题，呼应《焦点访谈》“实干笃行新征程 不负韶华书写青春答卷”的议题，传递习近平总书记对青年学子的殷切期待，展现青春在岗位绽放的奋斗风采，号召广大青年建功新征程。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcEZSN25Ua2RtSHVlREwxRjhFR0FLeTBOaEZzQnROWmJsUDdsdExYVExfUVQzMEdBVllDZ1Jsd1pld1FlaXZCRHplOHVmOWsyTXhKYmhEQjU2d0o1WXNicHRjelpKUGdIM2tzR0NuQmhiem1TNzdKX3R6Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T07:40:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0c4bb0af",
+      "title": "‘风趣’巨星震惊对手 重塑印度一邦政治格局",
+      "title_original": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "summary": "在印度泰米尔纳德邦的最新选举中，电影明星维杰打破了质疑者的预判，几乎横扫整个选情，取得远超外界预期的亮眼成绩。这一结果打破了该邦原有的政治秩序，重塑了当地的政治格局。",
+      "summary_original": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d533/live/ce89afb0-4866-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T07:32:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c654062e",
+      "title": "Alphabet重返欧洲债市开展最新AI超大型债券交易",
+      "title_original": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
+      "summary": "谷歌母公司Alphabet日前发行其有史以来规模最大的欧元计价债券，同时进入加拿大元债务市场。该公司数月前刚完成其他币种的破纪录交易，此次发债凸显其AI布局雄心带来的庞大融资需求。",
+      "summary_original": "Alphabet Inc. is selling its biggest-ever euro-denominated bond and tapping the Canadian dollar debt market just months after record-breaking deals in other currencies, showing the huge funding needs of its ambitions in artificial intelligence.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVXFUibXkLOo/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-05/alphabet-kicks-off-six-tranche-euro-debt-offering",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-05T06:36:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b3bfab5c",
+      "title": "”五一”返程客流高位运行 西安铁路局加开232列旅客列车 - 西部网",
+      "title_original": null,
+      "summary": "“五一”假期迎来返程高峰，全国铁路客流高位运行，单日预计发送旅客2300万人次，合计加开旅客列车2225列，其中西安铁路局加开232列，南铁五天预计发送旅客超780万人次，受大风影响部分返京列车晚点，交通部门正全力做好服务保障。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jMnhwN0lQazFYVWJUalh4aVdqNGw3emExRU1Xck9zWktWdEhUal9EQXJRcGdEVS10aElGVWtBdkFiRVJyRGNlMHNFYmd0c2Q2cGFzQ042RTZiY0M5em9VVllROVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-05T06:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "10b23e40",
+      "title": "中国一烟花厂爆炸致26人死亡",
+      "title_original": "Explosion at China fireworks factory kills 26 people",
+      "summary": "据中国官方媒体报道，湖南省境内一家烟花厂发生爆炸事故，本次事故已造成26人死亡，另有61人在事故中不同程度受伤，目前关于事故的具体成因、后续救援处置等相关信息暂未对外公布更多细节。",
+      "summary_original": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/c47dcee0-4832-11f1-a015-7171d6e89aef.jpg",
+      "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T06:06:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a643ad35",
+      "title": "澳大利亚知名作家就涉儿童剥削材料相关指控认罪",
+      "title_original": "Popular Australian author pleads guilty over child exploitation material",
+      "summary": "创作了《贾斯珀·琼斯》与《朗特》两部作品的澳大利亚知名作家，今年一月在其位于珀斯的住所被警方突袭逮捕，目前已就涉及儿童剥削材料的相关指控认罪。",
+      "summary_original": "The Jasper Jones and Runt author was arrested in January during a police raid at his Perth home.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11a/live/bb1c56e0-4856-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T05:28:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4f09e73b",
+      "title": "报告称中国致命空难由燃油切断引发",
+      "title_original": "Deadly China plane crash was caused by fuel cut-off, says report",
+      "summary": "一份报告认定，2022年中国发生的致命空难失事原因为燃油切断。涉事飞机为波音737客机，失事时飞机坠毁于中国一处山坡，机上全部132名人员在这起事故中遇难。",
+      "summary_original": "The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg",
+      "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T04:25:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "48ecb889",
+      "title": "本年度Met Gala最受热议造型",
+      "title_original": "The most talked-about looks at this year's Met Gala",
+      "summary": "大都会艺术博物馆慈善晚宴（Met Gala）正式公布2026年筹款活动的主题为“服装艺术”，该主题将聚焦探索时尚，挖掘时尚作为一种具象可感的实体艺术形式的独特属性，本届活动的嘉宾造型也引发大众广泛热议。",
+      "summary_original": "The theme for 2026 Met Gala fundraiser is \"Costume Art\", exploring fashion as an embodied art form.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b67/live/a8e7b610-484f-11f1-bd52-e755d604ece4.png",
+      "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T04:05:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1d1c01f0",
+      "title": "开普敦骑行：关于种族隔离的启示",
+      "title_original": "What a Bike Ride in Cape Town Taught Me About Apartheid",
+      "summary": "一名《纽约时报》记者参与了开普敦的骑行团体活动，本次规划的骑行路线，旨在打破开普敦至今仍遗留的种族与经济壁垒。记者通过此次亲身体验，对南非种族隔离制度及其相关影响获得了更为深刻的切身认知。",
+      "summary_original": "A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town’s lingering racial and economic barriers.",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-safrica-bikeride-promo-hjtv/00int-safrica-bikeride-promo-hjtv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T04:01:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "46e941c4",
+      "title": "台湾可向乌克兰借鉴 双方非官方联系正不断加深",
+      "title_original": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing.",
+      "summary": "台湾与乌克兰不存在官方层面的外交及军事联系，当前由企业高管和志愿者牵头形成的松散网络，正在弥合双方官方交流的空白，推动二者非官方层面的联系持续增长，有观点认为台湾可从中获得借鉴。",
+      "summary_original": "The governments have no official diplomatic or military ties. But a loose network led by company executives and volunteers is bridging some of that gulf.",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-ukraine-taiwan-01-chvt/00int-ukraine-taiwan-01-chvt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-05T04:01:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2d00a23f",
+      "title": "工人担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+      "title_original": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "summary": "当前不少劳动者担忧人工智能会挤压就业空间，引发失业焦虑。针对AI将大规模消灭人类岗位的说法，英伟达首席执行官黄仁勋认为，AI取代工作的威胁被极大夸大，AI实际上正在创造数量庞大的工作岗位。",
+      "summary_original": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-05T03:31:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2d00a23f",
+      "title": "从业者担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+      "title_original": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "summary": "当下不少劳动者担忧AI会取代自身工作，冲击就业市场。英伟达首席执行官黄仁勋认为，AI会扼杀大量工作岗位的说法被严重夸大，他指出AI实际上正在创造数量庞大的新工作岗位。",
+      "summary_original": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-05T03:31:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "978a83ee",
+      "title": "澳大利亚海岸外游艇沉没 三名死者中含救援人员",
+      "title_original": "Rescuers among three dead after yacht sinks off Australian coast",
+      "summary": "澳大利亚近海海域发生游艇沉没事故，事故共造成三人死亡，死者中包含两名志愿救援人员。两名遇难救援人员年龄分别为78岁和62岁，他们的船只在凶险恶劣的海况中翻覆，最终不幸遇难。",
+      "summary_original": "Volunteer rescuers aged 78 and 62 died after their boat rolled during \"treacherous\" conditions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b5/live/bb6b37d0-4822-11f1-bd52-e755d604ece4.jpg",
+      "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-05T02:40:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "df9f368d",
+      "title": "地热初创公司Fervo能源拟IPO 最高募资13亿美元",
+      "title_original": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "summary": "增强型地热领域初创企业Fervo能源计划启动首次公开募股，本次IPO最高募资规模可达13亿美元，若顺利完成发行，该公司的整体估值最高将达到65亿美元。",
+      "summary_original": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-05T00:13:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bd1afd30",
+      "title": "2026年40款最佳母亲节礼物推荐",
+      "title_original": "The 40 best Mother’s Day gift ideas for 2026",
+      "summary": "妈妈们日常打理繁忙家务，照料身边众人，每天都花大量时间为他人付出。2026年母亲节为5月10日，正是回馈母亲的契机，本次整理汇总了40款涵盖实用器具与轻奢好物的礼物，可帮助减轻母亲的生活负担。",
+      "summary_original": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are designed to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-05T00:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dc9c97fd",
+      "title": "Valve两日进口50吨游戏机",
+      "title_original": "Valve just imported 50 tons of game consoles in two days",
+      "summary": "据科技媒体The Verge查阅的进口记录显示，Valve在4月30日至5月1日两天内，向美国进口了约50吨标注为“游戏机”的货物。目前Valve的Steam主机具体发售时间尚未公布，但业内推测该主机正式推出已临近，不会让玩家久等。",
+      "summary_original": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records viewed by The Verge. That's on top of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-04T23:58:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f55dfe02",
+      "title": "OpenAI总裁应对所有问询，唯独拒答一问",
+      "title_original": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "summary": "埃隆·马斯克起诉OpenAI一案中，目前对马斯克一方最有力的证物是OpenAI总裁格雷格·布罗克曼的日记，布罗克曼本人近日出庭作证，本次出庭程序反常，先交叉询问后直接询问，他应对自如却拒答关键问题。",
+      "summary_original": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-04T23:49:33+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "e42d07dc",
+      "title": "研究人员诱导AI Claude给出爆炸物制造方法",
+      "summary": "Anthropic多年来一直将自身打造为安全人工智能企业，AI红队公司Mindgard的一项新安全研究已分享给The Verge。研究显示，Claude精心塑造的助人特性本身就是漏洞，研究人员成功诱导其输出色情内容、恶意代码、爆炸物制造方法等违规内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cc0aade5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "cc0aade5",
+          "source": "The Verge",
+          "title": "研究人员诱导AI Claude给出爆炸物制造方法",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+          "published_at": "2026-05-05T13:13:08+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:13:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e42d07dc",
+      "title": "研究人员诱导Claude给出制造炸药的方法",
+      "summary": "一向以安全AI企业自居的Anthropic，旗下AI Claude被曝出存在安全漏洞。AI红队公司Mindgard的最新研究显示，研究人员成功诱导其生成色情内容、恶意代码、炸药制造方法等多项违规内容，该研究已分享给科技媒体The Verge。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cc0aade5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "cc0aade5",
+          "source": "The Verge AI",
+          "title": "研究人员诱导Claude给出制造炸药的方法",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+          "published_at": "2026-05-05T13:13:08+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:13:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc1d7712",
+      "title": "谷歌AI架构师“免费住”在马斯克脑中",
+      "summary": "马斯克与阿尔特曼的官司开庭已约一周，包括OpenAI总裁格雷格·布罗克曼、马斯克亲信贾里德·伯查尔以及马斯克本人在内的多位科技界核心人物已露面，谷歌深度思维CEO德米斯·哈萨比斯作为本案最受关注的人物之一，目前仍处于事件边缘。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fc0a81f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "fc0a81f9",
+          "source": "The Verge",
+          "title": "谷歌AI架构师“免费住”在马斯克脑中",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+          "published_at": "2026-05-05T13:11:58+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:11:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc1d7712",
+      "title": "谷歌AI架构师一直萦绕在埃隆·马斯克心头",
+      "summary": "埃隆·马斯克与奥尔特曼的官司开庭已有一周，包括OpenAI总裁格雷格·布洛克曼、马斯克心腹贾里德·伯查尔以及马斯克本人在内的多位科技界权势人物已现身参与庭审，谷歌DeepMind首席执行官戴米斯·哈萨比斯作为该案最受关注的核心人物之一，目前仍游离在庭审边缘。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "fc0a81f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "fc0a81f9",
+          "source": "The Verge AI",
+          "title": "谷歌AI架构师一直萦绕在埃隆·马斯克心头",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+          "published_at": "2026-05-05T13:11:58+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:11:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cca36789",
+      "title": "解读：阿联酋与沙特阿拉伯日益加深的裂痕",
+      "summary": "两国官方均表示双方之间的竞争属于健康良性的范畴，然而当前阿联酋与沙特阿拉伯在能源配额、地区冲突，以及各自对中东的不同发展愿景等多项议题上，双边紧张局势正持续升级。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/30/multimedia/30int-uae-saudi-rift-wtk-1-khwt/30int-uae-saudi-rift-wtk-1-khwt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a9b41a4d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a9b41a4d",
+          "source": "NYTimes World",
+          "title": "解读：阿联酋与沙特阿拉伯日益加深的裂痕",
+          "link": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+          "published_at": "2026-05-05T13:04:11+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:04:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f597ebce",
+      "title": "伊朗战事最新快讯：赫格塞思称美军在海峡的军事行动属防御性且临时性",
+      "summary": "伊朗一名官员指责美国违反停火协议，此前伊朗武装部队对美国海军引导通过霍尔木兹海峡的船只开火，目前美国国防部长皮特·赫格塞思与丹·凯恩将军正召开相关新闻发布会介绍情况。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05live-iran-war-header-bcgj-promo/05live-iran-war-header-bcgj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e6857c6d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e6857c6d",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新快讯：赫格塞思称美军在海峡的军事行动属防御性且临时性",
+          "link": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+          "published_at": "2026-05-05T13:01:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:01:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfadb4c2",
+      "title": "亚马逊押注基于诺奖技术的除湿可削减自身能耗",
+      "summary": "全球电商巨头亚马逊计划为旗下各类商用建筑采购一款新型暖通空调系统，该系统应用了基于诺贝尔奖技术的除湿方案，亚马逊希望借此大幅降低自身运营过程中的能源消耗。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0e74ed9c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0e74ed9c",
+          "source": "TechCrunch",
+          "title": "亚马逊押注基于诺奖技术的除湿可削减自身能耗",
+          "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
+          "published_at": "2026-05-05T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfc69943",
+      "title": "探秘福特攻关平价电动汽车技术的实验室",
+      "summary": "福特目前对其电动汽车未来发展释放的信号并不清晰。去年二月外界曾获悉其通用电动汽车UEV项目，随后福特却叫停了被认为是迄今较为成功的电动皮卡F-150 Lightning项目，当下整体电动汽车行业环境也并未给福特相关规划提供有利支持。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e6a064f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e6a064f4",
+          "source": "The Verge",
+          "title": "探秘福特攻关平价电动汽车技术的实验室",
+          "link": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach",
+          "published_at": "2026-05-05T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d9df9c2a",
+      "title": "阿斯彭W酒店业主拟出售 该滑雪胜地此类交易罕见",
+      "summary": "美国投资机构北岭资本正为阿斯彭W酒店寻找买家，该酒店位于美国科罗拉多州高端滑雪小镇阿斯彭的雪场旁，此次交易将是该滑雪胜地自2010年以来的首笔此类交易，当地这类滑雪度假酒店交易十分罕见。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9qrImrssAOA/v1/1200x-1.jpg",
+      "article_ids": [
+        "29c3624d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "29c3624d",
+          "source": "Bloomberg",
+          "title": "阿斯彭W酒店业主拟出售 该滑雪胜地此类交易罕见",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/w-hotel-aspen-owner-eyes-sale-in-ski-resort-where-deals-are-rare",
+          "published_at": "2026-05-05T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed54c72d",
+      "title": "多米尼加抗议活动中断加拿大金矿项目",
+      "summary": "因国内爆发大规模民众抗议，多米尼加共和国叫停了加拿大高德奎斯特矿业公司旗下罗梅罗金矿项目的开发工作，此前因该事件停牌的公司股票，按计划将于周二恢复交易。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5d_Igunjrj4/v0/1200x-1.jpg",
+      "article_ids": [
+        "6940a589"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "6940a589",
+          "source": "Bloomberg",
+          "title": "多米尼加抗议活动中断加拿大金矿项目",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/dominican-republic-protests-derail-canadian-gold-mining-project",
+          "published_at": "2026-05-05T12:47:16+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:47:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "04b9716d",
+      "title": "特朗普曾承诺委内瑞拉问题问责透明 秘密石油交易仍存续",
+      "summary": "特朗普政府官员及其委内瑞拉盟友曾承诺，将开启全新问责时代，释放委内瑞拉蕴藏的海量石油财富。但目前委内瑞拉石油产业仍极不透明，此前承诺的问责并未落地，相关秘密交易依旧存续。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/00int-venezuela-oil-promo/00int-venezuela-oil-gclh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d18d80a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d18d80a4",
+          "source": "NYTimes World",
+          "title": "特朗普曾承诺委内瑞拉问题问责透明 秘密石油交易仍存续",
+          "link": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+          "published_at": "2026-05-05T12:39:22+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:39:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1a76afa0",
+      "title": "Coinbase拟在全面重组中裁员14%",
+      "summary": "知名加密货币交易平台Coinbase计划裁减14%的员工，此次裁员属于平台全面重组计划的一部分。本次重组旨在应对市场波动，同时扩大AI工具的应用范围，以此提升平台的整体运营效率。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3caa0397"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3caa0397",
+          "source": "TechCrunch",
+          "title": "Coinbase拟在全面重组中裁员14%",
+          "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
+          "published_at": "2026-05-05T12:35:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:35:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9e2fb154",
+      "title": "战争冲击旅游业 马尔代夫最大银行寻求发行美元伊斯兰债券",
+      "summary": "马尔代夫最大银行马尔代夫PLC正举办全球投资者会议，评估市场对其首次进军国际资本市场发债的需求，该行计划发行美元伊斯兰债券，相关交易将帮助支撑马尔代夫核心支柱旅游业，抵御中东冲突带来的不利影响。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4fd67c7f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4fd67c7f",
+          "source": "Bloomberg",
+          "title": "战争冲击旅游业 马尔代夫最大银行寻求发行美元伊斯兰债券",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/maldives-biggest-bank-seeks-dollar-sukuk-as-war-hits-tourism",
+          "published_at": "2026-05-05T12:32:28+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:32:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "63e1d282",
+      "title": "米尔肯研究所全球会议最新动态",
+      "summary": "米尔肯研究所全球会议在美国加利福尼亚州比弗利山庄举办，多名与会发言者参与了本次会议设置的专题小组讨论环节，本次活动的相关现场画面由彭博社摄影师劳伦·贾斯蒂斯拍摄记录。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4deRcPJUjU/v0/1200x-1.jpg",
+      "article_ids": [
+        "ec291c91"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ec291c91",
+          "source": "Bloomberg",
+          "title": "米尔肯研究所全球会议最新动态",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-05-05/milken-institute-global-conference-may-5",
+          "published_at": "2026-05-05T12:30:19+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:30:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "372b3f58",
+      "title": "欧央行拉加德敦促欧洲减少能源进口依赖",
+      "summary": "欧洲央行行长克里斯蒂娜·拉加德表示，伊朗战争引发能源价格大幅飙升，这应当为欧洲敲响警钟，欧洲需抓住这个契机调整能源结构，减少对化石燃料的使用，同时降低自身对能源进口的依赖程度。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itG39D_3ENWk/v0/1200x-1.jpg",
+      "article_ids": [
+        "891eb340"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "891eb340",
+          "source": "Bloomberg",
+          "title": "欧央行拉加德敦促欧洲减少能源进口依赖",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/ecb-s-lagarde-urges-europe-to-reduce-energy-import-dependency",
+          "published_at": "2026-05-05T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ff03cc3",
+      "title": "世卫组织称汉坦病毒或已在邮轮乘客间传播",
+      "summary": "汉坦病毒通常极少在人与人之间发生传播，世界卫生组织通报，一艘邮轮上已确诊两例汉坦病毒感染病例，截至目前已有三人死亡，该病毒或已在这艘邮轮的乘客之间发生传播。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb9/live/e3e0d720-4876-11f1-b010-8f8612d9ae2e.jpg",
+      "article_ids": [
+        "2510cf31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2510cf31",
+          "source": "BBC World",
+          "title": "世卫组织称汉坦病毒或已在邮轮乘客间传播",
+          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T12:27:34+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:27:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d9a5844f",
+      "title": "泽连斯基谴责俄罗斯停火前夕发动打击的“十足虚伪行径”",
+      "summary": "俄罗斯提出将于5月8日、9日在俄乌战场实施停火，乌克兰方面则表示己方将提前停止军事行动，这意味着任何破坏停火行为的责任都将归于俄罗斯。泽连斯基已就俄罗斯在停火前夕发动打击一事对俄予以谴责。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/529dbe90-4871-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "e7c12862"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e7c12862",
+          "source": "BBC World",
+          "title": "泽连斯基谴责俄罗斯停火前夕发动打击的“十足虚伪行径”",
+          "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T12:15:45+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:15:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6cbb22f",
+      "title": "彭博观点嘉宾称伊朗战事重启风险“高得不合常理” | 《脉搏》节目 5月5日",
+      "summary": "彭博旗下《弗朗辛·拉克瓦的脉搏》节目立足伦敦，聚焦全球政经、商业与金融领域，专访各界知名嘉宾，带来独家访谈与影响市场的重磅资讯，本期邀请了四家机构的高管及资深研究员做客。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUFy7WlRJmHM/v3/1200x-1.png",
+      "article_ids": [
+        "c523e0bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "c523e0bc",
+          "source": "Bloomberg",
+          "title": "彭博观点嘉宾称伊朗战事重启风险“高得不合常理” | 《脉搏》节目 5月5日",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-05/the-pulse-5-5-2026-video",
+          "published_at": "2026-05-05T12:10:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:10:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ebe94112",
+      "title": "《科技速递》：马斯克诉奥特曼庭审内幕及人工智能与民主",
+      "summary": "作为聚焦全球科技动态的工作日通讯《科技速递》的当日推送，本次内容围绕人工智能领域两大巨头埃隆·马斯克与萨姆·奥特曼的诉讼展开，披露该案第一周庭审的相关情况，同时还涵盖人工智能与民主相关议题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "798ce4a3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "798ce4a3",
+          "source": "MIT Technology Review",
+          "title": "《科技速递》：马斯克诉奥特曼庭审内幕及人工智能与民主",
+          "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+          "published_at": "2026-05-05T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ae5b0fe0",
+      "title": "石油交易商以小众利差押注应对伊朗战争影响",
+      "summary": "美伊战争已进入第三个月，新晋全球最大原油出口国伊朗正面临满足全球原油需求的前所未有的压力。在此局势下，石油交易商正针对美国原油库存可能出现的不同结果对冲风险，通过小众利差押注应对战争带来的影响。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLvwL6wcQaGY/v1/1200x-1.jpg",
+      "article_ids": [
+        "14a1d646"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "14a1d646",
+          "source": "Bloomberg",
+          "title": "石油交易商以小众利差押注应对伊朗战争影响",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/oil-traders-navigate-iran-war-impacts-with-niche-spread-bets",
+          "published_at": "2026-05-05T12:08:14+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:08:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "60546ea3",
+      "title": "a16z加密部门为新基金募得22亿美元",
+      "summary": "a16z加密部门完成了新基金的募资工作，本次为该新基金募集到的资金总金额达到22亿美元，暂未披露更多相关细节信息。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "02c64860"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "02c64860",
+          "source": "The Information",
+          "title": "a16z加密部门为新基金募得22亿美元",
+          "link": "https://www.theinformation.com/briefings/a16z-crypto-raises-2-2-billion-new-fund",
+          "published_at": "2026-05-05T12:00:53+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:00:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f2ef726",
+      "title": "Moment Energy获4000万美元融资 拟用电动车电池满足“无限电力需求”",
+      "summary": "初创企业Moment Energy完成4000万美元融资，其首席执行官爱德华·蒋接受TechCrunch采访时透露，该企业对电动汽车电池的改造再利用做出了创新性调整，将依托这项技术满足市场庞大的电力需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1b53d914"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1b53d914",
+          "source": "TechCrunch",
+          "title": "Moment Energy获4000万美元融资 拟用电动车电池满足“无限电力需求”",
+          "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
+          "published_at": "2026-05-05T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "87c5dbca",
+      "title": "Bose推出全新家用音箱 挑战Sonos",
+      "summary": "上周四，Bose在纽约曼哈顿上西区一处样板房展示了品牌全新家用智能音箱产品。目前Sonos在家用智能音响市场占据优势地位，Bose此次推出新品直接针对竞争对手，意图抢占更多家用音响市场份额。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "28b86459"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "28b86459",
+          "source": "The Verge",
+          "title": "Bose推出全新家用音箱 挑战Sonos",
+          "link": "https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen",
+          "published_at": "2026-05-05T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21d00791",
+      "title": "张国清赶赴湖南长沙浏阳市烟花厂爆炸事故现场指导应急救援处置工作 - 新京报",
+      "summary": "湖南长沙浏阳市发生烟花厂爆炸事故，张国清已赶赴事故现场，指导开展事故的应急救援与处置工作。这一消息由新京报发布，公众可前往Google新闻平台查看事件的完整报道，获取事故救援处置的更多相关详情。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e293a7f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e293a7f9",
+          "source": "Google News (中国)",
+          "title": "张国清赶赴湖南长沙浏阳市烟花厂爆炸事故现场指导应急救援处置工作 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3Wl8wLVJiT244UWJZMEJhdW9HR1VJTlhUNFE0aWtFWEx5VGhvUm02dUxQaWJlNGdlX2dkNmhUTnR2WGRCR2stNlAwX05lcXNVd1l3bzlfemdzdWJsdWJNUDlQREk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T11:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T11:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "445e2458",
+      "title": "美军中央司令部：美军“乔治·H·W·布什”号航空母舰正在穿越阿拉伯海 - 第一财经",
+      "summary": "美军中央司令部对外发布消息称，美军“乔治·H·W·布什”号航空母舰正在穿越阿拉伯海。该事件相关报道由第一财经推出，感兴趣的公众可前往Google新闻平台，查看这一事件的完整报道内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "17648db5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "17648db5",
+          "source": "Google News (中国)",
+          "title": "美军中央司令部：美军“乔治·H·W·布什”号航空母舰正在穿越阿拉伯海 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GRUJPV0FySFNRQkptSFFtdThYOXlmaC1kV3FWem1BMlk5UnRkQURXYnRoSHY2cTdPTV9RcGhydXBralZ1NUY3bUlTcjBRZFF3cGsw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T11:29:58+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T11:29:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "03496968",
+      "title": "伊朗外长阿拉格齐将访华 - 新华网",
+      "summary": "新华网对外发布消息，伊朗外长阿拉格齐将要对中国进行访问，这是近期中伊之间一项重要的外事活动安排，对该访问事件感兴趣的受众，可以前往Google新闻平台查看相关的完整报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f4dc2fb9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f4dc2fb9",
+          "source": "Google News (中国)",
+          "title": "伊朗外长阿拉格齐将访华 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBISFh1Snh0OTM1SlZadHFYenNrQUw3UkkyNzlrci11SnR4UjZTNzlWUjRzaGg0cU1FdnhrZzdGbmVsZlg2Qmdtd3E1Z29xR3hXOUc2SVhodllGMkk0ZUE4VzZOT0RrdlZ0eEJTLXZwd3RXd3ExZ21VbFFuZzctSGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T11:25:52+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T11:25:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac5befdc",
+      "title": "“五一”假期全社会跨区域人员流动量预计超15亿人次 日均比2025年同期增长4% - 东方财富",
+      "summary": "今年“五一”假期，全社会跨区域人员流动量预计超15亿人次，日均较2025年同期增长4%，有望创历史新高。多部门协同护航，筑牢文旅交通安全与服务双防线，大规模流动带动城市开启假期消费转化战，假期末期南宁已迎来返程高峰。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1e45b57b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1e45b57b",
+          "source": "Google News (中国)",
+          "title": "“五一”假期全社会跨区域人员流动量预计超15亿人次 日均比2025年同期增长4% - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWnF4RUpFeTVIVlotX0RDeFhQZndSUW1MSVhWVXAxeXFvYnNJdDJhWW9pUFBZczF2QlNMeUt3THhvWGx3YWd3VzlWd3h5S3RVanVoZmU2RlFnSVBmU2tnSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T11:20:32+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T11:20:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b70c1fa4",
+      "title": "脸书与Instagram使用AI骨骼结构分析识别儿童照片",
+      "summary": "周二，脸书与Instagram的母公司Meta发布博客公布，平台将采用AI骨骼结构分析，作为检测、移除13岁以下用户的新方式。该AI系统会扫描平台上的照片与视频，借助身高、骨骼等视觉线索识别儿童相关内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a1921346"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a1921346",
+          "source": "The Verge",
+          "title": "脸书与Instagram使用AI骨骼结构分析识别儿童照片",
+          "link": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+          "published_at": "2026-05-05T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dca6ed8f",
+      "title": "2026“五一”假期全省接待游客4706.9万人次，实现旅游收入297.7亿元 - 珠海网",
+      "summary": "2026年“五一”假期，广东省累计接待游客4706.9万人次，实现旅游收入297.7亿元。当地文旅市场活力与品质双升，文旅消费迎来热潮，其中假期第二日，全省4A级及以上景区接待游客394.2万人次，同比增长5.2%。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d383f961"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d383f961",
+          "source": "Google News (中国)",
+          "title": "2026“五一”假期全省接待游客4706.9万人次，实现旅游收入297.7亿元 - 珠海网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RnBrcmFLMkg3NlY1U1VOUWtwZ0JfNEZHZUxKU1g5eGFPU3dGNjIxcldKZV9mdTRocEJnNm1EaWRQNTQ0WXRwYTJ4d1d6MGdXR292M1A0dWg3SS1pU29CSnl2dEtFZF9hRjdSNElmN1JYajFWTmlF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T10:59:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:59:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c5f93d3f",
+      "title": "德国莱比锡市一汽车冲入人群 致两人死亡多人受伤",
+      "summary": "德国莱比锡市发生一起汽车冲入人群的事件，目前已造成两人死亡、另有多人受伤。德国当地当局发布消息称，事件发生后，一名33岁的涉事德国公民已经被拘留。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37c6/live/4d360ea0-4883-11f1-b55d-0f258dce1735.jpg",
+      "article_ids": [
+        "37900555"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "37900555",
+          "source": "BBC World",
+          "title": "德国莱比锡市一汽车冲入人群 致两人死亡多人受伤",
+          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T10:56:53+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:56:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4729f6f7",
+      "title": "太火爆！两天涌入50万人！你来了吗？ - 中国吉林网",
+      "summary": "多地近期推出创新文旅项目激活消费，其中吉林长春动植物公园的西游夜游活动十分火爆，两天共涌入50万游客；长春还通过改造工业遗迹、推出沉浸式NPC互动推动文旅升级，五一期间北京京西也推出主题活动引爆全城。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "23edf6ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "23edf6ac",
+          "source": "Google News (中国)",
+          "title": "太火爆！两天涌入50万人！你来了吗？ - 中国吉林网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uZXZzYWd6SVRyQWxIcGZ1ZHF1RDBQcGNTQTc2WGJRN0VPcHlieFUtdzlmRV9OQTRzRXFGZGZ0ZDVlcFJfcDBBM19FLXl3elFFWHZFOHIxWmtTU3JIM0hSdmZKMHVQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T10:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a6d474aa",
+      "title": "暴发汉坦病毒的邮轮仍滞留海上",
+      "summary": "MV Hondius号邮轮在大西洋发生汉坦病毒感染事件，现已造成3人死亡，至少3人染病。佛得角当局未批准该邮轮靠岸，不允许船上乘客下船，涉事邮轮目前仍滞留海上。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05int-cruise-virus-fthv/05int-cruise-virus-fthv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f937593c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f937593c",
+          "source": "NYTimes World",
+          "title": "暴发汉坦病毒的邮轮仍滞留海上",
+          "link": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
+          "published_at": "2026-05-05T10:23:35+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:23:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad45abe2",
+      "title": "飞猪、小红书发布“五一”出行趋势洞察：七成用户基于兴趣选目的地 AI咨询量显著攀升 - 经济参考报",
+      "summary": "飞猪、小红书发布“五一”出行趋势洞察显示，七成用户基于兴趣选择目的地，出行AI咨询量显著攀升。今年“五一”文旅消费火热，呈现错峰多元特征，出行市场从单点火爆转向全域共赢，成功点燃县域文旅发展新引擎，多地跻身热门目的地行列。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "2f73fdaf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2f73fdaf",
+          "source": "Google News (中国)",
+          "title": "飞猪、小红书发布“五一”出行趋势洞察：七成用户基于兴趣选目的地 AI咨询量显著攀升 - 经济参考报",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmN4Z0J1ZG93eklRbVI0d0lzdHA4V2JJd3FBb2YwNnNlQWdsY2R2V2pNN2NXMGh3bHJZN19rbUkycVI1cjZYazJVdWViNmcyLS0tZk1mbnNndV9QajRPeExhcUdUTkgyM2s5c2RLRjlfNURGREFuVGpMS0JtOHh4cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T10:22:09+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:22:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c48d50b",
+      "title": "哥伦比亚瓦斯爆炸致九名煤矿工人死亡",
+      "summary": "哥伦比亚苏塔陶萨地区发生煤矿瓦斯爆炸事故，事故已造成九名煤矿工人不幸死亡。该地区曾于2023年发生过另一起致命矿难，此次爆炸是该地点发生的最新一起煤矿安全事故。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6b/live/df51bea0-4861-11f1-9db4-19df36ab272c.jpg",
+      "article_ids": [
+        "36a127c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "36a127c5",
+          "source": "BBC World",
+          "title": "哥伦比亚瓦斯爆炸致九名煤矿工人死亡",
+          "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T10:09:23+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:09:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a071af15",
+      "title": "谷歌DeepMind员工因AI军事合同组建工会",
+      "summary": "谷歌DeepMind总部员工投票组建工会，旨在阻止该人工智能企业的技术被以色列和美国军方使用。员工周二致信谷歌管理层，要求认可通信工人工会与联合工会为其共同代表，此次投票支持率高达98%。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8bc99aee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8bc99aee",
+          "source": "The Verge",
+          "title": "谷歌DeepMind员工因AI军事合同组建工会",
+          "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+          "published_at": "2026-05-05T10:08:33+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:08:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a071af15",
+      "title": "谷歌DeepMind员工因AI军事合同组建工会",
+      "summary": "谷歌DeepMind总部员工投票决定组建工会，旨在阻止该人工智能企业的技术被美国及以色列军方使用。员工周二致信谷歌管理层，要求认可通信工人工会与Unite工会为其联合代表，此次投票支持率达98%。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "8bc99aee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "8bc99aee",
+          "source": "The Verge AI",
+          "title": "谷歌DeepMind员工因AI军事合同组建工会",
+          "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+          "published_at": "2026-05-05T10:08:33+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T10:08:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "80eecdbc",
+      "title": "节后首个工作日4/9限行，早晚高峰交通压力大，建议错峰出行 - 京报网",
+      "summary": "五一假期北京天气多变，整体以晴到多云为主，5月2日有阵雨；假期后首个工作日尾号4、9限行，当日北京有雨有风，后续气温先升后降，最高可达28-29℃，随后将直降8℃并伴有降雨。节后首个工作日北京早晚高峰交通压力大，建议公众错峰出行。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a6bf1870"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a6bf1870",
+          "source": "Google News (中国)",
+          "title": "节后首个工作日4/9限行，早晚高峰交通压力大，建议错峰出行 - 京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6QVgtUHdkYS1HU3FHYktaN0FfUXpUbUV0eEJ4Y2N5U0hEcE9meFpjcnN5ZHVFUVZqdmJqZ29LV05HRkR2WE1uSmNNbml1emEwT3BKV0lXWkp2ODN1aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T09:56:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T09:56:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e6cd0dfa",
+      "title": "法国最后两只圈养虎鲸命运未卜",
+      "summary": "法国仅存的两只圈养虎鲸目前受困于一处废弃海洋公园，相关方需就它们的最终去向做出决定。当前可供选择的方案有两种，一是将两只虎鲸转移至其他海洋公园，二是将它们放归开放水域保护区，二者命运目前悬而未决。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/04/multimedia/04France-orcas-01-wbvm/04France-orcas-01-wbvm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e095c9ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e095c9ac",
+          "source": "NYTimes World",
+          "title": "法国最后两只圈养虎鲸命运未卜",
+          "link": "https://www.nytimes.com/2026/05/05/world/europe/france-orcas-killer-whales.html",
+          "published_at": "2026-05-05T09:52:24+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T09:52:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "41612540",
+      "title": "微软终于移除Windows小组件中的垃圾MSN资讯流",
+      "summary": "两年多前微软就已允许Windows 11用户禁用MSN新闻资讯流，近日微软宣布，很快将对系统小组件进行调整，默认隐藏该垃圾资讯流，以此优化小组件使用体验，让小组件界面更加简洁干净。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ed0f815a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ed0f815a",
+          "source": "The Verge",
+          "title": "微软终于移除Windows小组件中的垃圾MSN资讯流",
+          "link": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
+          "published_at": "2026-05-05T09:46:52+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T09:46:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "50237b73",
+      "title": "湖南一烟花爆竹厂发生爆炸 已造成至少26人死亡数十人受伤",
+      "summary": "湖南省一家烟花爆竹厂发生爆炸事故，事故造成至少26人死亡，另有61人不同程度受伤，这起爆炸事故伤亡惨重，是近年来国内致死人数最多的安全生产事故之一，目前事故成因等细节尚未公布更多信息。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/05int-china-explosion-zbfq/05int-china-explosion-zbfq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5e88e68c",
+        "10b23e40"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5e88e68c",
+          "source": "NYTimes World",
+          "title": "中国一烟花爆竹厂爆炸 致至少26人死亡",
+          "link": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+          "published_at": "2026-05-05T09:03:39+00:00"
+        },
+        {
+          "id": "10b23e40",
+          "source": "BBC World",
+          "title": "中国一烟花厂爆炸致26人死亡",
+          "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T06:06:42+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T09:03:39+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "3b42a5fc",
+      "title": "利用人工智能强化民主的蓝图",
+      "summary": "信息传播方式的变革每隔数百年就会重塑社会治理形态。此前印刷机普及大众识字，推动宗教改革与代议制政府诞生；电报赋能大国治理，催生现代官僚国家；广播媒体打造了全国性共享受众，如今提出了借助人工智能强化民主的发展蓝图。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c9dd6bc7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "c9dd6bc7",
+          "source": "MIT Technology Review",
+          "title": "利用人工智能强化民主的蓝图",
+          "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+          "published_at": "2026-05-05T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "910a0da2",
+      "title": "美国称霍尔木兹冲突后美伊停火仍有效",
+      "summary": "霍尔木兹海峡发生船只冲突，同时发生了针对阿拉伯联合酋长国的导弹袭击。在这一系列冲突发生一天后，美国表态称与伊朗的停火仍然有效，同时淡化了美伊重启全面战争的可能性。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7PHe08XnBOY/v0/1200x-1.jpg",
+      "article_ids": [
+        "033e3455"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "033e3455",
+          "source": "Bloomberg",
+          "title": "美国称霍尔木兹冲突后美伊停火仍有效",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/us-iran-ceasefire-holds-after-hormuz-clashes-and-uae-strikes-mosec4nt",
+          "published_at": "2026-05-05T08:46:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T08:46:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f4b0808f",
+      "title": "罕见彗星现身新西兰、澳大利亚及南非上空",
+      "summary": "一颗编号为C/2025 R3 PANSTARRS（泛星）的罕见彗星，目前已经出现在新西兰、澳大利亚与南非上空，上述地区的天文观测爱好者可以借助望远镜观测到这颗稀有彗星。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "14e351a3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "14e351a3",
+          "source": "NYTimes World",
+          "title": "罕见彗星现身新西兰、澳大利亚及南非上空",
+          "link": "https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html",
+          "published_at": "2026-05-05T08:38:08+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T08:38:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e077ab42",
+      "title": "焦点访谈丨实干笃行新征程 不负韶华书写青春答卷 - 中国日报网",
+      "summary": "多家主流媒体包括中国日报网、光明网、新华网、中国青年网等，围绕新时代青年奋斗建功主题，呼应《焦点访谈》“实干笃行新征程 不负韶华书写青春答卷”的议题，传递习近平总书记对青年学子的殷切期待，展现青春在岗位绽放的奋斗风采，号召广大青年建功新征程。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b771928c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b771928c",
+          "source": "Google News (中国)",
+          "title": "焦点访谈丨实干笃行新征程 不负韶华书写青春答卷 - 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rcEZSN25Ua2RtSHVlREwxRjhFR0FLeTBOaEZzQnROWmJsUDdsdExYVExfUVQzMEdBVllDZ1Jsd1pld1FlaXZCRHplOHVmOWsyTXhKYmhEQjU2d0o1WXNicHRjelpKUGdIM2tzR0NuQmhiem1TNzdKX3R6Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T07:40:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T07:40:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d4041c2",
+      "title": "‘风趣’巨星震惊对手 重塑印度一邦政治格局",
+      "summary": "在印度泰米尔纳德邦的最新选举中，电影明星维杰打破了质疑者的预判，几乎横扫整个选情，取得远超外界预期的亮眼成绩。这一结果打破了该邦原有的政治秩序，重塑了当地的政治格局。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d533/live/ce89afb0-4866-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "0c4bb0af"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0c4bb0af",
+          "source": "BBC World",
+          "title": "‘风趣’巨星震惊对手 重塑印度一邦政治格局",
+          "link": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T07:32:52+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T07:32:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d1e2d11",
+      "title": "Alphabet重返欧洲债市开展最新AI超大型债券交易",
+      "summary": "谷歌母公司Alphabet日前发行其有史以来规模最大的欧元计价债券，同时进入加拿大元债务市场。该公司数月前刚完成其他币种的破纪录交易，此次发债凸显其AI布局雄心带来的庞大融资需求。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVXFUibXkLOo/v3/1200x-1.png",
+      "article_ids": [
+        "c654062e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "c654062e",
+          "source": "Bloomberg",
+          "title": "Alphabet重返欧洲债市开展最新AI超大型债券交易",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-05/alphabet-kicks-off-six-tranche-euro-debt-offering",
+          "published_at": "2026-05-05T06:36:29+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T06:36:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c445800",
+      "title": "”五一”返程客流高位运行 西安铁路局加开232列旅客列车 - 西部网",
+      "summary": "“五一”假期迎来返程高峰，全国铁路客流高位运行，单日预计发送旅客2300万人次，合计加开旅客列车2225列，其中西安铁路局加开232列，南铁五天预计发送旅客超780万人次，受大风影响部分返京列车晚点，交通部门正全力做好服务保障。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b3bfab5c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b3bfab5c",
+          "source": "Google News (中国)",
+          "title": "”五一”返程客流高位运行 西安铁路局加开232列旅客列车 - 西部网",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jMnhwN0lQazFYVWJUalh4aVdqNGw3emExRU1Xck9zWktWdEhUal9EQXJRcGdEVS10aElGVWtBdkFiRVJyRGNlMHNFYmd0c2Q2cGFzQ042RTZiY0M5em9VVllROVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-05T06:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T06:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ffdaea8",
+      "title": "澳大利亚知名作家就涉儿童剥削材料相关指控认罪",
+      "summary": "创作了《贾斯珀·琼斯》与《朗特》两部作品的澳大利亚知名作家，今年一月在其位于珀斯的住所被警方突袭逮捕，目前已就涉及儿童剥削材料的相关指控认罪。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11a/live/bb1c56e0-4856-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "a643ad35"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a643ad35",
+          "source": "BBC World",
+          "title": "澳大利亚知名作家就涉儿童剥削材料相关指控认罪",
+          "link": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T05:28:28+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T05:28:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "788b0899",
+      "title": "报告称中国致命空难由燃油切断引发",
+      "summary": "一份报告认定，2022年中国发生的致命空难失事原因为燃油切断。涉事飞机为波音737客机，失事时飞机坠毁于中国一处山坡，机上全部132名人员在这起事故中遇难。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg",
+      "article_ids": [
+        "4f09e73b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4f09e73b",
+          "source": "BBC World",
+          "title": "报告称中国致命空难由燃油切断引发",
+          "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T04:25:49+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T04:25:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea11a089",
+      "title": "本年度Met Gala最受热议造型",
+      "summary": "大都会艺术博物馆慈善晚宴（Met Gala）正式公布2026年筹款活动的主题为“服装艺术”，该主题将聚焦探索时尚，挖掘时尚作为一种具象可感的实体艺术形式的独特属性，本届活动的嘉宾造型也引发大众广泛热议。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b67/live/a8e7b610-484f-11f1-bd52-e755d604ece4.png",
+      "article_ids": [
+        "48ecb889"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "48ecb889",
+          "source": "BBC World",
+          "title": "本年度Met Gala最受热议造型",
+          "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T04:05:39+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T04:05:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7d3b9560",
+      "title": "开普敦骑行：关于种族隔离的启示",
+      "summary": "一名《纽约时报》记者参与了开普敦的骑行团体活动，本次规划的骑行路线，旨在打破开普敦至今仍遗留的种族与经济壁垒。记者通过此次亲身体验，对南非种族隔离制度及其相关影响获得了更为深刻的切身认知。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-safrica-bikeride-promo-hjtv/00int-safrica-bikeride-promo-hjtv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1d1c01f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1d1c01f0",
+          "source": "NYTimes World",
+          "title": "开普敦骑行：关于种族隔离的启示",
+          "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
+          "published_at": "2026-05-05T04:01:16+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T04:01:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b552dd34",
+      "title": "台湾可向乌克兰借鉴 双方非官方联系正不断加深",
+      "summary": "台湾与乌克兰不存在官方层面的外交及军事联系，当前由企业高管和志愿者牵头形成的松散网络，正在弥合双方官方交流的空白，推动二者非官方层面的联系持续增长，有观点认为台湾可从中获得借鉴。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/00int-ukraine-taiwan-01-chvt/00int-ukraine-taiwan-01-chvt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "46e941c4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "46e941c4",
+          "source": "NYTimes World",
+          "title": "台湾可向乌克兰借鉴 双方非官方联系正不断加深",
+          "link": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
+          "published_at": "2026-05-05T04:01:07+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T04:01:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c0921c4",
+      "title": "工人担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+      "summary": "当前不少劳动者担忧人工智能会挤压就业空间，引发失业焦虑。针对AI将大规模消灭人类岗位的说法，英伟达首席执行官黄仁勋认为，AI取代工作的威胁被极大夸大，AI实际上正在创造数量庞大的工作岗位。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2d00a23f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2d00a23f",
+          "source": "TechCrunch",
+          "title": "工人担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+          "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "published_at": "2026-05-05T03:31:54+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T03:31:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c0921c4",
+      "title": "从业者担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+      "summary": "当下不少劳动者担忧AI会取代自身工作，冲击就业市场。英伟达首席执行官黄仁勋认为，AI会扼杀大量工作岗位的说法被严重夸大，他指出AI实际上正在创造数量庞大的新工作岗位。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2d00a23f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "2d00a23f",
+          "source": "TechCrunch AI",
+          "title": "从业者担忧AI冲击就业 英伟达黄仁勋称AI正创造大量岗位",
+          "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+          "published_at": "2026-05-05T03:31:54+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T03:31:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec6c7a4e",
+      "title": "澳大利亚海岸外游艇沉没 三名死者中含救援人员",
+      "summary": "澳大利亚近海海域发生游艇沉没事故，事故共造成三人死亡，死者中包含两名志愿救援人员。两名遇难救援人员年龄分别为78岁和62岁，他们的船只在凶险恶劣的海况中翻覆，最终不幸遇难。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1b5/live/bb6b37d0-4822-11f1-bd52-e755d604ece4.jpg",
+      "article_ids": [
+        "978a83ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "978a83ee",
+          "source": "BBC World",
+          "title": "澳大利亚海岸外游艇沉没 三名死者中含救援人员",
+          "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-05T02:40:24+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T02:40:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "69490490",
+      "title": "地热初创公司Fervo能源拟IPO 最高募资13亿美元",
+      "summary": "增强型地热领域初创企业Fervo能源计划启动首次公开募股，本次IPO最高募资规模可达13亿美元，若顺利完成发行，该公司的整体估值最高将达到65亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "df9f368d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "df9f368d",
+          "source": "TechCrunch",
+          "title": "地热初创公司Fervo能源拟IPO 最高募资13亿美元",
+          "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+          "published_at": "2026-05-05T00:13:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T00:13:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea25eb0d",
+      "title": "2026年40款最佳母亲节礼物推荐",
+      "summary": "妈妈们日常打理繁忙家务，照料身边众人，每天都花大量时间为他人付出。2026年母亲节为5月10日，正是回馈母亲的契机，本次整理汇总了40款涵盖实用器具与轻奢好物的礼物，可帮助减轻母亲的生活负担。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bd1afd30"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bd1afd30",
+          "source": "The Verge",
+          "title": "2026年40款最佳母亲节礼物推荐",
+          "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+          "published_at": "2026-05-05T00:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-05T00:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7508021",
+      "title": "Valve两日进口50吨游戏机",
+      "summary": "据科技媒体The Verge查阅的进口记录显示，Valve在4月30日至5月1日两天内，向美国进口了约50吨标注为“游戏机”的货物。目前Valve的Steam主机具体发售时间尚未公布，但业内推测该主机正式推出已临近，不会让玩家久等。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dc9c97fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dc9c97fd",
+          "source": "The Verge",
+          "title": "Valve两日进口50吨游戏机",
+          "link": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+          "published_at": "2026-05-04T23:58:44+00:00"
+        }
+      ],
+      "published_at": "2026-05-04T23:58:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d49e685a",
+      "title": "OpenAI总裁应对所有问询，唯独拒答一问",
+      "summary": "埃隆·马斯克起诉OpenAI一案中，目前对马斯克一方最有力的证物是OpenAI总裁格雷格·布罗克曼的日记，布罗克曼本人近日出庭作证，本次出庭程序反常，先交叉询问后直接询问，他应对自如却拒答关键问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f55dfe02"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f55dfe02",
+          "source": "The Verge",
+          "title": "OpenAI总裁应对所有问询，唯独拒答一问",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+          "published_at": "2026-05-04T23:49:33+00:00"
+        }
+      ],
+      "published_at": "2026-05-04T23:49:33+00:00",
+      "is_merged": false
+    }
+  ]
+}
