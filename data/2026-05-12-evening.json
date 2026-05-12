@@ -1,0 +1,2394 @@
+{
+  "date": "2026-05-12",
+  "edition": "evening",
+  "updated_at": "2026-05-12T22:50:25.169556+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "b9767025",
+      "title": "实时更新：英国斯塔默暂拒辞职要求",
+      "title_original": "Live Updates: Britain’s Starmer Defies Calls to Resign, For Now",
+      "summary": "英国工党在地方选举中遭遇惨重失利后，数十名本党议员呼吁现任首相基尔·斯塔默辞职下台。斯塔默在与内阁成员会面时明确表态，发誓将继续留任，目前顶住了要求他辞职的压力。",
+      "summary_original": "Prime Minister Keir Starmer vowed to continue in office as he met with cabinet members. Dozens of Labour Party lawmakers had urged him to step down after heavy losses in local elections.",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer-promo/12uk-starmer-headerlaunch-bqpk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T13:53:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cf967db8",
+      "title": "伊拉克超级油轮撤出美国霍尔木兹封锁线",
+      "title_original": "Iraqi Supertanker Pulls Back From US Hormuz Blockade",
+      "summary": "目前霍尔木兹海峡基本处于停运封闭状态，为数不多的通航船只多为与伊朗有关联的船只。一艘伊拉克超级油轮原本计划在此进行罕见通行，却在抵达美国设置的封锁线后撤退，此次通行最终中止。",
+      "summary_original": "The Strait of Hormuz remains largely shuttered, with Iran-linked vessels dominating what little traffic is moving across the waterway. An Iraqi supertanker’s rare passage has come to a halt after a retreat from the US naval blockade line.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6b6oDUrfw0/v1/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/hormuz-tracker-iraqi-supertanker-pulls-back-from-us-blockade",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T13:47:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bc6dc8d0",
+      "title": "亚马逊30分钟极速配送现已覆盖更多城市",
+      "title_original": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
+      "summary": "去年12月起，亚马逊在美国西雅图、费城部分地区试点30分钟极速配送服务，如今该服务正式面向美国数百万消费者开放，目前除原有试点城市外，已覆盖亚特兰大与达拉斯-沃斯堡，后续还将进一步拓展服务范围。",
+      "summary_original": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta and Dallas-Fort Worth, but will soon be expanding to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T13:34:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "abc17a88",
+      "title": "Instructure与两次入侵自身的黑客达成协议",
+      "title_original": "Instructure strikes deal with hackers who breached it twice",
+      "summary": "开发校园软件Canvas的企业Instructure宣布，已同两次入侵自身系统的黑客达成协议。不过该企业并未给出任何保证，无法确认黑客会信守承诺，不会对外泄露入侵获取的相关数据。",
+      "summary_original": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T13:34:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ed168a0b",
+      "title": "Waymo因自动驾驶出租车可驶入积水路段发起召回",
+      "title_original": "Waymo recalls robotaxis for driving on flooded roads",
+      "summary": "Alphabet旗下自动驾驶企业Waymo发起自动驾驶软件召回，本次涉及3791辆搭载Waymo第五、六代系统的自动驾驶出租车。涉事软件允许车辆驶入无法通行的积水路段，此前已有一辆无人自动驾驶出租车遭遇该问题，召回文件已提交美国国家公路交通安全管理局。",
+      "summary_original": "Waymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. In documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned company said that an unoccupied Waymo robotaxi \"encountered an untraversable flooded section of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T13:32:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "103a3694",
+      "title": "伊朗战争推高能源成本 美国通胀飙升至3.8%",
+      "title_original": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "summary": "伊朗战争引发能源成本大幅飙升，推动美国通胀攀升至3.8%，美国核心通胀指标也创下2023年5月以来的新高，此次通胀上涨的影响已传导至消费端，美国普通消费者正切身感受到物价上涨带来的压力。",
+      "summary_original": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/8172ffc0-4e00-11f1-aa37-6b8846c2f74e.jpg",
+      "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T13:32:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "965982ef",
+      "title": "美国4月CPI报告核心要点一览",
+      "title_original": "Here Are the Key Takeaways for the US CPI Report for April",
+      "summary": "美国4月消费者价格指数（CPI）报告已于本周二正式发布，CPI数据是反映美国通胀水平的核心指标，也是美联储调整货币政策的重要参考，本次汇总梳理了这份最新报告的核心要点。",
+      "summary_original": "Here are the key takeaways on the US consumer price index report for April, released Tuesday:",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCSnb7ABtJoM/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/us-cpi-report-april-2026-key-takeaways-on-inflation-consumer-price-index",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T13:30:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "18086d02",
+      "title": "Canvas平台运营方与黑客达成协议 防范被盗数据泄露",
+      "title_original": "Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data",
+      "summary": "Canvas学习管理平台所属企业Instructure宣布，已与上周入侵其系统的黑客达成协议，将防止被盗数据公开泄露。此前ShinyHunters黑客组织宣称对此次攻击负责，该组织曾威胁公开3.5TB含学生信息的被盗数据，攻击曾导致Canvas短暂下线。",
+      "summary_original": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. The ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly taken offline. The group threatened to publish 3.5 terabytes of student [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T13:23:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f7a0119f",
+      "title": "乌干达总统宣誓就职 开启创纪录第七任期",
+      "title_original": "Uganda's president sworn in for record seventh term",
+      "summary": "81岁的约韦里·穆塞韦尼已宣誓就任乌干达总统，开启创纪录的第七个总统任期。今年1月，穆塞韦尼在颇具争议的选举中胜出，得以延续其已长达40年的执政。",
+      "summary_original": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3aa/live/762a28c0-4de5-11f1-9cc8-93479330ab4b.jpg",
+      "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T13:19:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5a210ab4",
+      "title": "科技企业CGI在股价遭AI担忧重创后任命蒂姆·赫尔勒鲍斯为CEO",
+      "title_original": "Tech Firm CGI Picks Tim Hurlebaus as CEO After AI Fears Crush Share Price",
+      "summary": "加拿大IT咨询企业CGI任命新任首席执行官后，公司股价一年内累计跌幅扩大至超过40%。此次股价暴跌，主要源于市场担忧Anthropic PBC这类AI初创企业会给行业带来颠覆性冲击。",
+      "summary_original": "Shares of Canadian IT consulting firm CGI Inc. extended their losses over 40% in one year after it appointed a new chief executive officer, a slump largely due to concerns about disruption from artificial intelligence upstarts such as Anthropic PBC.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imeidmxJmKnY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/tech-firm-cgi-picks-hurlebaus-as-ceo-after-ai-fears-crush-share-price",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T13:16:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4f5ea934",
+      "title": "BuzzFeed计划拆分工作室业务以吸引投资者",
+      "title_original": "BuzzFeed Plans Split of Studios Business to Attract Investors",
+      "summary": "BuzzFeed公布了一项业务调整计划，拟拆分公司旗下的工作室业务板块，此举的核心目的是吸引投资者，相关计划内容已经对外公开。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/buzzfeed-plans-split-studios-business-attract-investors",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-05-12T13:15:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cf6825f6",
+      "title": "新闻人物丨美国总统唐纳德·特朗普 - 新华网",
+      "title_original": null,
+      "summary": "美国总统特朗普将访华，多家主流媒体围绕该行程推出相关报道，内容涉及贸易背景下此行对中美关系走向的影响探讨，有专家建议中方主动对美划出四条“互信线”，中方也对外公开了此次访华的具体安排与期待。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWGd2MW9qYW1FakMzb0htM0RITUVLTXI3YlNGQ0hsekFJeTlsV3BuS0JlTGNWN19KRWMtYkZrd043dlpSRjB2ajNKVUJXVlVlWHItTG9YVmgzd3c3cDNWTkRvd2VMOXdleDI1MHhMbTA0MUlxd2puNllsbzgyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T13:06:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2468b4bb",
+      "title": "伊朗战事最新进展：特朗普称停火“命悬一线” 长期能源危机隐现",
+      "title_original": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+      "summary": "伊朗为自身提出的和平协议诉求进行辩护，特朗普称该诉求毫无意义，并表示停火已命悬一线。特朗普同时提议暂停征收联邦汽油税，该提案需获得国会批准，当前局势也令长期能源危机逐渐显现。",
+      "summary_original": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T13:04:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce3938d1",
+      "title": "Dessn获600万美元融资 打造面向生产的设计工具",
+      "title_original": "Dessn raises $6M for its production focused design tool",
+      "summary": "新兴创业公司Dessn完成600万美元融资，所得资金将用于研发一款人工智能驱动的设计工具，该工具主打适配生产场景，可直接对接生产代码库，能更好衔接设计与生产环节，助力相关从业者提升工作效率。",
+      "summary_original": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "56eb9ed5",
+      "title": "TikTok欲实现平台种草旅行直接预订",
+      "title_original": "TikTok now wants to be the place you book the trip you just saw on TikTok",
+      "summary": "短视频平台TikTok正推进交易化转型，计划开放旅游预订服务，用户可直接在平台预订自己刷到种草的旅行产品。TikTok正系统性将内容发现引擎改造为交易层，这既能提升用户留存，也可为其所有者开辟全新收入来源。",
+      "summary_original": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4535c371",
+      "title": "人工智能将联网汽车变为坑洼探测机",
+      "title_original": "AI is turning connected cars into pothole-finding machines",
+      "summary": "车队管理公司Samsara开发出一款人工智能模型，该模型能够识别不同类型的道路坑洼，还可测算坑洼的恶化速度，这项技术可将联网汽车转化为坑洼探测设备，助力道路坑洼问题的快速排查。",
+      "summary_original": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce3938d1",
+      "title": "Dessn获600万美元融资 用于开发面向生产的设计工具",
+      "title_original": "Dessn raises $6M for its production focused design tool",
+      "summary": "新兴初创企业Dessn完成600万美元融资，所得资金将用于开发人工智能驱动的设计工具。这款工具可直接对接生产代码库，主打面向生产场景的设计服务，能够适配生产环节的相关需求。",
+      "summary_original": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "79450b13",
+      "title": "韩正同文莱王储比拉举行会谈 - 新华网",
+      "title_original": null,
+      "summary": "韩正同文莱王储比拉举行会谈，这一外事活动消息由新华网发布，用户可前往Google新闻平台，查看新华网发布的更多头条新闻与相关观点。此次会谈是中国与文莱之间的重要交往，有利于增进两国相互了解，推动双边友好关系进一步发展。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUW1GYUJDRkRLT0FRQWVLeEc3QXBqdjg3R3dQeThFMmZjRXpsai1zeDh1em5MRFlzZXBkZzJCMFhnLVhpdWg1cGlkcERBdlYtNnp3b0hsMl8wRFExZnl5OEdZNE5mckU2Ujg1TElEWkp0NmJYZ1dB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T12:50:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0bb5a0df",
+      "title": "汽油价格上涨推高通胀 美国国债维持跌势",
+      "title_original": "Treasuries Hold Losses as Rising Gas Costs Fuel Inflation",
+      "summary": "汽油价格上涨推高通胀，美国一项关键消费者物价指标涨幅超出经济学家预期，美国国债因此维持跌势，市场目前普遍押注，美联储将于明年上调利率以管控通胀。",
+      "summary_original": "Treasuries maintained their losses after a key consumer prices gauge rose more than economists’ estimates, supporting wagers that the Federal Reserve will raise interest rates next year to control inflation.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iumsVh7n8e5c/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/us-treasuries-hold-losses-as-rising-gas-costs-fuel-inflation",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T12:48:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1039d661",
+      "title": "Spotify推出Wrapped风格全听歌历史回顾功能",
+      "title_original": "Spotify’s launches a Wrapped-style recap of your entire listening history",
+      "summary": "音乐流媒体平台Spotify推出一项全新功能，该功能延续了其热门年度听歌总结项目Wrapped的风格，可为用户梳理个人全部听歌历史，展示用户截至目前听过的不重复歌曲总数量。",
+      "summary_original": "Spotify's new feature will show you the number of unique songs that you listened to until now",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T12:44:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e2f163f5",
+      "title": "彭丽媛会见联合国教科文组织总干事阿纳尼 - 中华人民共和国驻胡志明市总领事馆",
+      "title_original": null,
+      "summary": "彭丽媛会见联合国教科文组织总干事阿纳尼，相关讯息由中华人民共和国驻胡志明市总领事馆对外发布，感兴趣的公众可前往Google新闻平台，查看与该事件相关的更多头条新闻及各界观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnNITUQ0aXBTY2dOc0ZnTnJJbms1SFhycTItVzNlWDhXYi1Qbms5VXlkbURJRGxLNXY1S1lndzNyaFJ1QjVfNTlCbkZPNm96dzZfejRieEUyNFFDZkVKTTlpdm9fZzdISjNWNUJ1Slhpd1NyZllkMHY3djVadFRJdnFRZmNyQlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T12:21:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5bd425d0",
+      "title": "Spotify最新“Wrapped”覆盖用户全部听歌历史",
+      "title_original": "Spotify’s latest ‘Wrapped’ covers your entire music history",
+      "summary": "流媒体平台Spotify为庆祝品牌成立20周年，推出全新个性化听歌体验，今日起移动端用户可访问这项类Wrapped的新功能，查看自注册该服务以来从未公开过的个人完整音乐收听历史数据。",
+      "summary_original": "Spotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service. The \"Spotify 20: Your Party of the Year(s)\" experience will allow users [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T12:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8af79745",
+      "title": "《科技速递：诺奖得主谈人工智能，万物修缮的理由》",
+      "title_original": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "summary": "这是面向工作日推出的每日科技资讯刊物《科技速递》的当日刊，旨在分享全球科技领域最新动态。本期内容聚焦相关内容：2024年诺贝尔经济学奖得主达龙·阿西莫格鲁在获奖数月前曾发布相关论文，提出人工智能领域三大值得关注的方向。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-05-12T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc79b302",
+      "title": "许勤在哈尔滨市调研防灾减灾救灾工作 - 黑龙江省人民政府",
+      "title_original": null,
+      "summary": "许勤前往哈尔滨市开展防灾减灾救灾工作调研，该政务动态由黑龙江省人民政府对外发布。相关人员可前往Google新闻平台，查看黑龙江省人民政府发布的更多相关头条新闻与观点内容，了解更多该平台推送的黑龙江政务相关资讯。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wT3hSdWg5RzFLMVBuWVZSeTJRMGRDUHl2cU5fV2c3NHFVU19zUFczOENBY1ZFemRVeEVzUjZNSEtkOGJGa3Vvd1ppNmVmTmg5RjlEVkZqZ0l6VVFJWVZHakhTak5aTk5POHFoZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T11:51:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55313edf",
+      "title": "击败40家对手斩获亚马逊Ring合作 AI语音初创企业Vapi估值达5亿美元",
+      "title_original": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "summary": "人工智能语音初创企业Vapi击败40家竞争对手，拿下亚马逊Ring合作，估值达到5亿美元。如今越来越多企业将客户支持、销售通话转由AI智能代理承接，Vapi的企业业务自2025年初以来已实现十倍增长。",
+      "summary_original": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T11:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55313edf",
+      "title": "AI语音初创公司Vapi击败40对手拿下亚马逊Ring项目 估值达5亿美元",
+      "title_original": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "summary": "AI语音初创公司Vapi击败四十家竞争对手拿下亚马逊Ring项目后，公司估值达到五亿美元。自2025年初以来，随着企业将客户支持、销售通话转向AI代理，Vapi的企业业务已增长十倍。",
+      "summary_original": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-12T11:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e73de828",
+      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+      "title_original": null,
+      "summary": "本期氪星晚报收录多领域财经科技资讯，含京东等多家企业公布2026年一季度业绩，宇树科技推出全球首款量产载人机甲，智元机器人发布香港具身智能产业共创计划，同时提及日本恩格尔系数创1980年以来新高、谷歌发现黑客首次利用AI开发零日漏洞攻击工具等内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3806196073242112?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-12T11:22:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "323a4acb",
+      "title": "新华社快讯：习近平同塔吉克斯坦总统拉赫蒙共同出席合作文件签字仪式 - 中证网",
+      "title_original": null,
+      "summary": "塔吉克斯坦总统拉赫蒙开展对华相关活动，期间中国国家主席习近平同拉赫蒙举行会谈，双方共同出席两国合作文件签字仪式，拉赫蒙还到访亚投行总部。拉赫蒙称塔中关系正不断迈上新台阶，相关活动获多家权威媒体报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YUEVqZ19MSFBwQ1BKdVFITy1WU1h1N1JFV1FaQlY5RzRWWFFrQm04Q3V4U1NEVkhZaVJHT1lmbzBzSXZvOTNBdVg1akxVQ3dnMG45d1NwODVDSlBLYjFVbEdxYU5GOHBlQXFYYTdOTDVKd0gwajBWdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T11:22:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "06128af9",
+      "title": "法国拟在肯尼亚会晤非洲领导人 寻求摆脱殖民关系",
+      "title_original": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "summary": "法国拟在肯尼亚与非洲领导人举行会晤，寻求推动双方关系摆脱原有殖民框架。这是该系列会晤自上世纪70年代启动以来的首次此类安排，反映出法国对非政策思路发生了转变。",
+      "summary_original": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fe/live/b976b1a0-4d42-11f1-b2c7-71155caf7f79.jpg",
+      "link": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T11:13:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7408d880",
+      "title": "冯德莱恩：欧盟需推迟儿童接触社交媒体",
+      "title_original": "EU needs to delay social media access for children - von der Leyen",
+      "summary": "冯德莱恩在欧盟峰会上表示，欧盟需要推迟儿童接触社交媒体，以更好保护未成年人的线上安全。目前欧盟已安排专门专家小组，预计将于7月前研究拟定出保护未成年人网络安全的具体落实步骤。",
+      "summary_original": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d26/live/7afc2660-4de9-11f1-9cc8-93479330ab4b.jpg",
+      "link": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T11:00:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6be6b086",
+      "title": "如何观看今日谷歌安卓秀I/O特别场",
+      "title_original": "How to watch Google’s Android Show: I/O Edition today",
+      "summary": "谷歌I/O年度开发者大会将于一周后举办，今日将率先开启安卓秀I/O特别场活动，活动将开启线上直播，预计会提前公布本届大会将要推出的安卓生态系统多项重大亮点。",
+      "summary_original": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference. When the Android Show will happen and where you can watch it Android Show: I/O Edition will be streaming [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a0cec476",
+      "title": "eBay拒绝GameStop 560亿美元收购要约",
+      "title_original": "eBay rejects GameStop’s $56 billion acquisition bid",
+      "summary": "eBay董事会于周二致信GameStop首席执行官瑞安·科恩，正式拒绝了GameStop出价560亿美元收购该在线交易平台的要约。eBay认为该收购提案既不可信也不具吸引力，拒绝理由涉及对收购运营风险及融资安排的担忧。",
+      "summary_original": "eBay has officially rejected GameStop's offer to buy the online marketplace for $56 billion, citing concerns around \"operational risks\" and how the acquisition will be financed. In a letter to GameStop CEO Ryan Cohen on Tuesday, eBay's board of directors said it has \"concluded that your proposal is neither credible nor attractive.\" \"We have taken [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T10:55:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c5707dc4",
+      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "title_original": null,
+      "summary": "2026年5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会将在北京亦庄举办，另设杭州富阳分会场聚焦具身智能机器人。大会聚焦AI产业落地实战，将发布多项AI落地成果榜单，搭建AI供需对接平台，探索AI转化为新质生产力的落地路径。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260512/v2_4591fd407c0b45c6bfb800052af42563@6381723_oswg418818oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3806179759496711?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-12T10:52:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "81aa6e9f",
+      "title": "斯沃琪挫败维权投资者撼动哈耶克控制权堡垒的企图",
+      "title_original": "Swatch Quashes Activist Attempt to Shake Up Hayek Stronghold",
+      "summary": "瑞士钟表制造商斯沃琪集团股东第二次否决了美国维权投资者史蒂文·伍德争取董事会席位的请求，此举进一步巩固了控股方哈耶克家族对这家企业的控制权。",
+      "summary_original": "Shareholders of The Swatch Group AG rejected US activist investor Steven Wood’s push for a seat on the watchmaker’s board of directors for a second time, reinforcing the controlling Hayek family’s hold on the company.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN6qH0K3qoEQ/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/swatch-quashes-us-activist-attempt-to-shake-up-hayek-stronghold",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T10:51:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "03a35329",
+      "title": "俄罗斯持续袭击在乌克兰的美国企业 白宫保持沉默",
+      "title_original": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
+      "summary": "可口可乐、嘉吉、亿滋等多家美国企业在乌克兰的关联设施遭蓄意袭击，俄罗斯持续发动针对在乌美国企业的袭击行动，美国特朗普政府对此回应低调、始终保持沉默，这一态度已经引发外界担忧。",
+      "summary_original": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns.",
+      "image": "https://static01.nyt.com/images/2026/05/10/multimedia/00int-ukraine-us-businesses-01-pvkl/00int-ukraine-us-businesses-01-pvkl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T10:46:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b0ca955f",
+      "title": "Canvas遭黑客入侵：涉事公司付费给犯罪分子删除被盗学生数据",
+      "title_original": "Canvas hack: Company pays criminals to delete students' stolen data",
+      "summary": "Canvas平台遭黑客攻击，此次攻击干扰了全球数千所高校的正常运作。Canvas所属公司日前表示，已与发动攻击的黑客达成协议，公司将向对方支付费用，删除被黑客非法窃取的学生数据。",
+      "summary_original": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/d1a431b0-4dee-11f1-8191-8bac3ae59130.jpg",
+      "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T10:31:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5edc3c81",
+      "title": "拜城县大桥乡：科技“赋能”奏响农田序曲 - xj.chinanews.com.cn",
+      "title_original": null,
+      "summary": "当前全国多地春耕生产凸显科技赋能特色：新疆拜城县大桥乡借助卫星遥感监测作物长势、智能喷灌管控水肥；山西朔城区用北斗提速春播；浙江遂昌靠“滴滴代种”实现无人春耕作业；内蒙古呼伦贝尔以科技赋能大豆春播，各地共绘丰收好景。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUs4Qk5aRjBZbUVybnhyMDRQMlo2Njg3WVJad0xycnJlZVE3UmNFZE84U0dOc29la19UVldUR3F5MGIzNkU2VjBCRzdsOEFiRWw2WHFTUmFMZ3Mzamp5NVZUdml5XzQtWWhOeUFMUkJDQ2xRMkcxNTZrYjFVN2gzOE5DWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T10:30:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2c589d69",
+      "title": "暴雨蓝色预警继续：湖南江西福建等地局地有大暴雨 - 每日经济新闻",
+      "title_original": null,
+      "summary": "多平台权威媒体发布气象消息，暴雨蓝色预警持续生效，江南、华南及贵州等地将迎来较强降雨，湖南、江西、福建等地局地将有大暴雨，可能伴随雷暴大风等强对流天气，6号台风也引发关注；中东部热力升级华北迎高温，新疆甘肃等地将出现大风沙尘降温，相关部门已会商部署防范工作。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WQ0phdHZnQS1wTmM2S3I3M2otTkF0bmNLcnJuUWNINWM4QnFJZGZySG5pRUoyZVlGTElwald3Y2U2WXJQaVBFNDgzdXB2TFdTSHZjTHpyOUdTNVlGU0N0SWNxZHN0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T10:11:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1270d720",
+      "title": "德克萨斯州指控网飞窥探包括儿童在内的用户隐私",
+      "title_original": "Texas accuses Netflix of spying on users, including children",
+      "summary": "德克萨斯州指控流媒体平台网飞窥探包括儿童在内的用户隐私。这一诉讼发起之际，业内对自动播放这类可向用户持续推送无尽内容的平台功能的审查力度正不断加大，相关问题受到越来越多的关注。",
+      "summary_original": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8a7/live/ae66b720-4de6-11f1-9cc8-93479330ab4b.jpg",
+      "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T10:01:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b29ddefd",
+      "title": "亚马逊在全美推出30分钟送达服务",
+      "title_original": "Amazon launches 30-minute delivery across the U.S.",
+      "summary": "亚马逊推出全新的超快配送服务，覆盖美国全境。该服务可为消费者配送食品杂货、家居日用必需品以及其他各类商品，承诺30分钟内将商品送至顾客家门口，大幅提升配送时效。",
+      "summary_original": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cf71df6e",
+      "title": "快手确认旗下可灵AI视频部门寻求外部融资",
+      "title_original": "Kuaishou Confirms Seeking External Funding for Kling AI Video Unit",
+      "summary": "快手已对外确认，其旗下可灵（Kling）AI视频部门正寻求外部融资，目前仅公开确认这一事项，未披露与本次融资有关的更多具体信息。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/kuaishou-confirms-seeking-external-funding-kling-ai-video-unit",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-05-12T09:50:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ac99efc",
+      "title": "联合国卫生机构表示暂无汉坦病毒更大规模暴发迹象",
+      "title_original": "No sign of larger hantavirus outbreak, says UN health agency",
+      "summary": "联合国下属世界卫生组织负责人表示，目前暂无汉坦病毒更大规模暴发的迹象，同时发出警告，当前疫情形势仍可能发生变化，后续不排除会出现更多汉坦病毒确诊病例。",
+      "summary_original": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg",
+      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T09:35:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ee240050",
+      "title": "油价推升通胀风险 债券市场沃什交易瓦解",
+      "title_original": "Bond Market’s Warsh Trade Falls Apart as Oil Fans Inflation Risk",
+      "summary": "此前美国国债市场投资者梳理出了名为“凯文·沃什交易”的投资策略，核心逻辑是押注凯文·沃什若出任美联储主席，将会推出多次降息。如今受油价推升通胀风险影响，这套交易策略已经瓦解。",
+      "summary_original": "Not long ago, the Treasury market thought it had the Kevin Warsh trade figured out: Simply bet on the multiple interest rate cuts that the nominee had been expected to deliver if he got the job to lead the Federal Reserve.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPboATpdcRUo/v8/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/bond-market-s-warsh-trade-falls-apart-as-oil-fans-inflation-risk",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T09:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b6b0743d",
+      "title": "伊朗战事会再挫俄罗斯信誉？果真如此吗？",
+      "title_original": "The War in Iran Is Another Blow to Russia’s Credibility. Or Is It?",
+      "summary": "有观点认为伊朗战事会进一步打击俄罗斯的国际信誉，实际情况却并非如此。俄罗斯虽身陷乌克兰长期战事，还失去了叙利亚等旧日盟友，如今却受益于高企的能源价格、巧妙的舆论叙事，以及美国自身未能速胜的局面，获得了不少利好。",
+      "summary_original": "Despite its long slog in Ukraine and the loss of former allies like Syria, Russia is benefiting from costly energy, a clever narrative and America’s own failure to achieve a quick victory.",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12int-russia-assess-jqbz/12int-russia-assess-jqbz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T09:02:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "90dee2cb",
+      "title": "新型Roomba扫地机体积更小价格更低",
+      "title_original": "These new Roombas are smaller and cheaper",
+      "summary": "iRobot在推出首款搭载激光雷达的Roomba扫地机一年后，发布全新Roomba系列扫地机器人，本次共推出八款新品，在现有产品线基础上升级，定价更低，最高降幅约合270美元，新品还提升吸力，缩小机身尺寸以优化导航表现。",
+      "summary_original": "iRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums. This week, it introduced eight robot vacuums that improve on its current lineup and feature lower prices, some up to &#163;200 (about $270) cheaper. Key changes include higher suction power, a smaller overall size to better navigate [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T09:02:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "280aa950",
+      "title": "视频显示菲律宾参议员甩开执法人员 躲过国际刑事法院逮捕令",
+      "title_original": "Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant",
+      "summary": "国际刑事法院因菲律宾前总统罗德里戈·杜特尔特禁毒战争相关案件，对菲律宾参议员罗纳德·德拉罗萨发出逮捕令。曝光的现场视频显示，德拉罗萨甩开执行抓捕的人员，冲入菲律宾参议院，成功躲过了这次逮捕。",
+      "summary_original": "Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Duterte’s drug war, dashing into the Philippine Senate.",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T08:23:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "97d546c8",
+      "title": "伊朗战事冲击油墨供应 零食巨头改用黑白包装",
+      "title_original": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+      "summary": "受伊朗战事影响，霍尔木兹海峡实际关闭，严重扰乱全球能源与石化产品供应。油墨供应因此受阻，全球大型零食企业被迫调整产品包装方案，改用黑白色包装应对这一供应缺口。",
+      "summary_original": "The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg",
+      "link": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T07:46:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1f1f74e5",
+      "title": "巴基斯坦空袭康复中心致269名阿富汗人死亡 遇难者家属要求知晓原因",
+      "title_original": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
+      "summary": "3月16日，巴基斯坦对一处康复中心发动空袭造成269名阿富汗人死亡，联合国称实际死亡人数可能更高。目前各方呼吁将此次空袭作为战争罪行展开调查，遇难者家属也要求知晓事件原因。",
+      "summary_original": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/d7a0af30-4d3a-11f1-ac78-2112837ce2aa.jpg",
+      "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-12T07:31:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d3479cc9",
+      "title": "英国政治危机加剧 30年期国债收益率触及1998年以来高位",
+      "title_original": "UK 30-Year Yields Hit 1998 Levels as Political Crisis Deepens",
+      "summary": "英国债券市场暴跌，推动英国长期国债收益率升至近三十年来的最高水平。英国政治危机加剧，市场对基尔·斯塔默的首相任职前景产生猜测，重新引发外界对英国财政状况疲软的担忧。",
+      "summary_original": "The UK bond market tumbled, driving long-term bond yields back to the highest in nearly three decades, as speculation over Keir Starmer’s future as prime minister renewed concern about the weakened state of Britain’s finances.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEj6L_TCX.M8/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/gilts-slump-with-uk-prime-minister-under-pressure-to-stand-down",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T07:08:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f34974a2",
+      "title": "特朗普称美伊停火“极其脆弱”，核分歧仍难弥合 - jpchinapress.com",
+      "title_original": null,
+      "summary": "美国前总统特朗普评价当前美伊停火状态“极其脆弱”，称停火维持下去的几率仅为1%，他还怒斥伊朗对相关方案的回复是“垃圾”。目前美伊在浓缩铀处置等核议题上分歧仍难弥合，有知情人士披露，美国正考虑恢复对伊朗的军事行动。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUMtYTBybE5ySExJNnNmcmRPTlVhY3lHejhrN1BPNnV2MnpKZVhDRm83dDFRdmRFbi1leU0xdFNOcmVEWHlyWlFXUU5WMWR3WlpEdjRud1pHUWFCbDdjTHVGaGhIdGUwVTlUb2xPVnRXamQ4UGpIZ3IxY3pmXzJYUWZEc1djdU10Z0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T07:07:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da6c14b2",
+      "title": "涉汉坦病毒疫情邮轮最后一批下船人员抵达荷兰 - 中国网",
+      "title_original": null,
+      "summary": "一艘涉汉坦病毒疫情的邮轮已完成人员撤离工作，最后一批下船人员已抵达荷兰。世卫组织通报该邮轮累计确诊病例增至9例，称已采取隔离检疫措施降低传播风险，评估认为当前汉坦病毒全球传播风险为低，该事件引发多方关注讨论。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RZ0w1T045ZlA0SDgxMEhVQmN1Vlc1WXVmSTB6ZU1halVVenZuSzlNcmFXVXNPak8xSnZDWGlLT2ZCQjFhWWJrckZaTkFRRFV2dDdnWVUzbzFGMXFYb2ZZSEEyeVpYencwZWpHdUxPVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T06:31:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a065d6d2",
+      "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
+      "title_original": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
+      "summary": "Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.",
+      "summary_original": "Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T06:21:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "56179266",
+      "title": "沃达丰因德国客户流失加速股价暴跌",
+      "title_original": "Vodafone Shares Plunge as German Client Losses Accelerate",
+      "summary": "全球知名电信运营商沃达丰集团上季度在核心市场德国遭遇客户流失，且流失速度明显加快，原因主要是当地市场竞争激烈，同时公司正推动提升每用户收入，受该情况影响，沃达丰股价创下三年来最大跌幅。",
+      "summary_original": "Vodafone Group Plc shares fell the most in three years after the telecommunications operator lost clients in its key German market last quarter due to intense competition and a push to boost revenue per user.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i75huB8Ll8Q0/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/vodafone-sales-beat-as-strategic-pivot-to-main-markets-pays-off",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-12T06:08:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1cd3686f",
+      "title": "菲律宾揭发性虐待的前辅祭童 如今成为受害者代理律师",
+      "title_original": "Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims",
+      "summary": "在全民普遍笃信天主教的菲律宾，米沙尔·加查利安曾勇敢打破沉默，揭发一名牧师的性虐待行为。如今他已成为一名执业律师，专门为和他有相似遭遇的性虐待受害者提供法律帮助。",
+      "summary_original": "Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims.",
+      "image": "https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T06:08:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2fd0978b",
+      "title": "索尼升级可穿戴空调：制冷更强 更贴合颈部",
+      "title_original": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+      "summary": "索尼于2019年东京奥运会前首次推出可穿戴个人空调，日前发布该系列最新款Reon Pocket Pro Plus。这款新品是去年Pro型号的升级产品，虽未全面改造硬件，但完成多项性能升级，制冷效果更佳，佩戴也更贴合颈部。",
+      "summary_original": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-12T06:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0fcf0724",
+      "title": "伊朗终于回应核谈判条件 双方诉求差距巨大 - 中华网",
+      "title_original": null,
+      "summary": "伊朗对伊核谈判条件作出回应，双方诉求差距巨大。伊朗方面表示将在适当时候就浓缩铀相关问题作出决定。美国国务卿卢比奥在意大利罗马公开相关信息，美国前总统特朗普称伊朗的回应完全不可接受，同时拒绝了伊朗提出的结束中东冲突的最新提议。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKWUxWY1h3cTA2STlUX2FERmFnUVBLdFBmNnRXTkZ3UW1WUXN0VkJhV0EwWXdLWHBmRjNQV2E5V1VRcjdieUEtdlhIU0RSOThqZWhYVkVsMGV0MWVjT0ZzemNDWk5ZbDNONlhMckZwcmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-12T05:27:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d3b5b5ad",
+      "title": "思考机器欲打造可边说话边倾听的人工智能",
+      "title_original": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "summary": "当前市面所有人工智能均采用交替交互模式，用户完成输入后AI才生成回应。思考机器正试图改变这一现状，计划打造可同时处理用户输入、生成回应的AI模型，让人机交互更贴近打电话的自然体验，而非短信式断续交互。",
+      "summary_original": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-12T04:52:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d3b5b5ad",
+      "title": "思考机器公司欲打造可边说话边倾听的AI",
+      "title_original": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "summary": "当前所有AI都遵循用户输入完成后AI再回应的轮流交互模式，双方无法同时传递信息。科技企业思考机器公司正试图改变这一现状，计划打造可同时处理用户输入、生成回应的新型AI，让AI交互更接近实时电话通话而非逐句响应的文本对话。",
+      "summary_original": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-12T04:52:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a4c85281",
+      "title": "法国中间派领导人是否正为抵御极右翼未雨绸缪？",
+      "title_original": "Is France’s Centrist Leader Trying to Weatherproof It From the Far Right?",
+      "summary": "法国总统埃马纽埃尔·马克龙任命多名亲信盟友出任国家关键职位，这些官员将留任至明年法国总统选举结束后。一旦极右翼候选人赢得选举上台，这些留任要职的盟友能够对极右翼继任者的施政形成阻挠。",
+      "summary_original": "President Emmanuel Macron has appointed a string of allies who will remain in critical state positions after next year’s presidential election, and who could thwart a far-right successor.",
+      "image": "https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-12T04:01:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3bf3bef7",
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "title_original": null,
+      "summary": "成都雨之灵动宣布完成总额数千万人民币的天使轮及Pre-A轮融资，投资方涵盖KK集团、科大讯飞等多类机构。该公司转型后仅六个月推出AI仿生毛绒潮玩Walulu，产品开售即热销，正拓展国内外渠道，目前需尽快构建品牌壁垒应对后续竞争。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260512/v2_6e2ed08cfc904464950fd0e766cb0eb7@6202862_oswg742908oswg1080oswg563_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3805761383751427?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-12T03:46:38+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "21389e84",
+      "title": "实时更新：英国斯塔默暂拒辞职要求",
+      "summary": "英国工党在地方选举中遭遇惨重失利后，数十名本党议员呼吁现任首相基尔·斯塔默辞职下台。斯塔默在与内阁成员会面时明确表态，发誓将继续留任，目前顶住了要求他辞职的压力。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer-promo/12uk-starmer-headerlaunch-bqpk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b9767025"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b9767025",
+          "source": "NYTimes World",
+          "title": "实时更新：英国斯塔默暂拒辞职要求",
+          "link": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
+          "published_at": "2026-05-12T13:53:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:53:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ea295de",
+      "title": "伊拉克超级油轮撤出美国霍尔木兹封锁线",
+      "summary": "目前霍尔木兹海峡基本处于停运封闭状态，为数不多的通航船只多为与伊朗有关联的船只。一艘伊拉克超级油轮原本计划在此进行罕见通行，却在抵达美国设置的封锁线后撤退，此次通行最终中止。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6b6oDUrfw0/v1/1200x-1.png",
+      "article_ids": [
+        "cf967db8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "cf967db8",
+          "source": "Bloomberg",
+          "title": "伊拉克超级油轮撤出美国霍尔木兹封锁线",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/hormuz-tracker-iraqi-supertanker-pulls-back-from-us-blockade",
+          "published_at": "2026-05-12T13:47:25+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:47:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f93fd473",
+      "title": "亚马逊30分钟极速配送现已覆盖更多城市",
+      "summary": "去年12月起，亚马逊在美国西雅图、费城部分地区试点30分钟极速配送服务，如今该服务正式面向美国数百万消费者开放，目前除原有试点城市外，已覆盖亚特兰大与达拉斯-沃斯堡，后续还将进一步拓展服务范围。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bc6dc8d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bc6dc8d0",
+          "source": "The Verge",
+          "title": "亚马逊30分钟极速配送现已覆盖更多城市",
+          "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+          "published_at": "2026-05-12T13:34:12+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:34:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f59d4e6b",
+      "title": "Instructure与两次入侵自身的黑客达成协议",
+      "summary": "开发校园软件Canvas的企业Instructure宣布，已同两次入侵自身系统的黑客达成协议。不过该企业并未给出任何保证，无法确认黑客会信守承诺，不会对外泄露入侵获取的相关数据。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "abc17a88"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "abc17a88",
+          "source": "TechCrunch",
+          "title": "Instructure与两次入侵自身的黑客达成协议",
+          "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+          "published_at": "2026-05-12T13:34:04+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:34:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "112f1f9e",
+      "title": "Waymo因自动驾驶出租车可驶入积水路段发起召回",
+      "summary": "Alphabet旗下自动驾驶企业Waymo发起自动驾驶软件召回，本次涉及3791辆搭载Waymo第五、六代系统的自动驾驶出租车。涉事软件允许车辆驶入无法通行的积水路段，此前已有一辆无人自动驾驶出租车遭遇该问题，召回文件已提交美国国家公路交通安全管理局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ed168a0b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ed168a0b",
+          "source": "The Verge",
+          "title": "Waymo因自动驾驶出租车可驶入积水路段发起召回",
+          "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
+          "published_at": "2026-05-12T13:32:39+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:32:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ab260d9",
+      "title": "伊朗战争推高能源成本 美国通胀飙升至3.8%",
+      "summary": "伊朗战争引发能源成本大幅飙升，推动美国通胀攀升至3.8%，美国核心通胀指标也创下2023年5月以来的新高，此次通胀上涨的影响已传导至消费端，美国普通消费者正切身感受到物价上涨带来的压力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/8172ffc0-4e00-11f1-aa37-6b8846c2f74e.jpg",
+      "article_ids": [
+        "103a3694"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "103a3694",
+          "source": "BBC World",
+          "title": "伊朗战争推高能源成本 美国通胀飙升至3.8%",
+          "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T13:32:32+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:32:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8bf40879",
+      "title": "美国4月CPI报告核心要点一览",
+      "summary": "美国4月消费者价格指数（CPI）报告已于本周二正式发布，CPI数据是反映美国通胀水平的核心指标，也是美联储调整货币政策的重要参考，本次汇总梳理了这份最新报告的核心要点。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCSnb7ABtJoM/v0/1200x-1.jpg",
+      "article_ids": [
+        "965982ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "965982ef",
+          "source": "Bloomberg",
+          "title": "美国4月CPI报告核心要点一览",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/us-cpi-report-april-2026-key-takeaways-on-inflation-consumer-price-index",
+          "published_at": "2026-05-12T13:30:05+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:30:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf952818",
+      "title": "Canvas平台运营方与黑客达成协议 防范被盗数据泄露",
+      "summary": "Canvas学习管理平台所属企业Instructure宣布，已与上周入侵其系统的黑客达成协议，将防止被盗数据公开泄露。此前ShinyHunters黑客组织宣称对此次攻击负责，该组织曾威胁公开3.5TB含学生信息的被盗数据，攻击曾导致Canvas短暂下线。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "18086d02"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "18086d02",
+          "source": "The Verge",
+          "title": "Canvas平台运营方与黑客达成协议 防范被盗数据泄露",
+          "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+          "published_at": "2026-05-12T13:23:10+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:23:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fa8ae6d9",
+      "title": "乌干达总统宣誓就职 开启创纪录第七任期",
+      "summary": "81岁的约韦里·穆塞韦尼已宣誓就任乌干达总统，开启创纪录的第七个总统任期。今年1月，穆塞韦尼在颇具争议的选举中胜出，得以延续其已长达40年的执政。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3aa/live/762a28c0-4de5-11f1-9cc8-93479330ab4b.jpg",
+      "article_ids": [
+        "f7a0119f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f7a0119f",
+          "source": "BBC World",
+          "title": "乌干达总统宣誓就职 开启创纪录第七任期",
+          "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T13:19:47+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:19:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9f77a01",
+      "title": "科技企业CGI在股价遭AI担忧重创后任命蒂姆·赫尔勒鲍斯为CEO",
+      "summary": "加拿大IT咨询企业CGI任命新任首席执行官后，公司股价一年内累计跌幅扩大至超过40%。此次股价暴跌，主要源于市场担忧Anthropic PBC这类AI初创企业会给行业带来颠覆性冲击。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imeidmxJmKnY/v1/1200x-1.jpg",
+      "article_ids": [
+        "5a210ab4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5a210ab4",
+          "source": "Bloomberg",
+          "title": "科技企业CGI在股价遭AI担忧重创后任命蒂姆·赫尔勒鲍斯为CEO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/tech-firm-cgi-picks-hurlebaus-as-ceo-after-ai-fears-crush-share-price",
+          "published_at": "2026-05-12T13:16:18+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:16:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b8e88997",
+      "title": "BuzzFeed计划拆分工作室业务以吸引投资者",
+      "summary": "BuzzFeed公布了一项业务调整计划，拟拆分公司旗下的工作室业务板块，此举的核心目的是吸引投资者，相关计划内容已经对外公开。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4f5ea934"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "4f5ea934",
+          "source": "The Information",
+          "title": "BuzzFeed计划拆分工作室业务以吸引投资者",
+          "link": "https://www.theinformation.com/briefings/buzzfeed-plans-split-studios-business-attract-investors",
+          "published_at": "2026-05-12T13:15:27+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:15:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "163d3ae0",
+      "title": "新闻人物丨美国总统唐纳德·特朗普 - 新华网",
+      "summary": "美国总统特朗普将访华，多家主流媒体围绕该行程推出相关报道，内容涉及贸易背景下此行对中美关系走向的影响探讨，有专家建议中方主动对美划出四条“互信线”，中方也对外公开了此次访华的具体安排与期待。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cf6825f6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cf6825f6",
+          "source": "Google News (中国)",
+          "title": "新闻人物丨美国总统唐纳德·特朗普 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWGd2MW9qYW1FakMzb0htM0RITUVLTXI3YlNGQ0hsekFJeTlsV3BuS0JlTGNWN19KRWMtYkZrd043dlpSRjB2ajNKVUJXVlVlWHItTG9YVmgzd3c3cDNWTkRvd2VMOXdleDI1MHhMbTA0MUlxd2puNllsbzgyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T13:06:29+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:06:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01f2d33e",
+      "title": "伊朗战事最新进展：特朗普称停火“命悬一线” 长期能源危机隐现",
+      "summary": "伊朗为自身提出的和平协议诉求进行辩护，特朗普称该诉求毫无意义，并表示停火已命悬一线。特朗普同时提议暂停征收联邦汽油税，该提案需获得国会批准，当前局势也令长期能源危机逐渐显现。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11mideast-200-zcgk/11mideast-200-zcgk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2468b4bb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2468b4bb",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新进展：特朗普称停火“命悬一线” 长期能源危机隐现",
+          "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+          "published_at": "2026-05-12T13:04:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:04:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d7355744",
+      "title": "Dessn获600万美元融资 打造面向生产的设计工具",
+      "summary": "新兴创业公司Dessn完成600万美元融资，所得资金将用于研发一款人工智能驱动的设计工具，该工具主打适配生产场景，可直接对接生产代码库，能更好衔接设计与生产环节，助力相关从业者提升工作效率。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ce3938d1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ce3938d1",
+          "source": "TechCrunch",
+          "title": "Dessn获600万美元融资 打造面向生产的设计工具",
+          "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "published_at": "2026-05-12T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92657694",
+      "title": "TikTok欲实现平台种草旅行直接预订",
+      "summary": "短视频平台TikTok正推进交易化转型，计划开放旅游预订服务，用户可直接在平台预订自己刷到种草的旅行产品。TikTok正系统性将内容发现引擎改造为交易层，这既能提升用户留存，也可为其所有者开辟全新收入来源。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "56eb9ed5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "56eb9ed5",
+          "source": "TechCrunch",
+          "title": "TikTok欲实现平台种草旅行直接预订",
+          "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+          "published_at": "2026-05-12T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01aef32c",
+      "title": "人工智能将联网汽车变为坑洼探测机",
+      "summary": "车队管理公司Samsara开发出一款人工智能模型，该模型能够识别不同类型的道路坑洼，还可测算坑洼的恶化速度，这项技术可将联网汽车转化为坑洼探测设备，助力道路坑洼问题的快速排查。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4535c371"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "4535c371",
+          "source": "TechCrunch",
+          "title": "人工智能将联网汽车变为坑洼探测机",
+          "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+          "published_at": "2026-05-12T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d7355744",
+      "title": "Dessn获600万美元融资 用于开发面向生产的设计工具",
+      "summary": "新兴初创企业Dessn完成600万美元融资，所得资金将用于开发人工智能驱动的设计工具。这款工具可直接对接生产代码库，主打面向生产场景的设计服务，能够适配生产环节的相关需求。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ce3938d1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ce3938d1",
+          "source": "TechCrunch AI",
+          "title": "Dessn获600万美元融资 用于开发面向生产的设计工具",
+          "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "published_at": "2026-05-12T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5649d671",
+      "title": "韩正同文莱王储比拉举行会谈 - 新华网",
+      "summary": "韩正同文莱王储比拉举行会谈，这一外事活动消息由新华网发布，用户可前往Google新闻平台，查看新华网发布的更多头条新闻与相关观点。此次会谈是中国与文莱之间的重要交往，有利于增进两国相互了解，推动双边友好关系进一步发展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "79450b13"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "79450b13",
+          "source": "Google News (中国)",
+          "title": "韩正同文莱王储比拉举行会谈 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUW1GYUJDRkRLT0FRQWVLeEc3QXBqdjg3R3dQeThFMmZjRXpsai1zeDh1em5MRFlzZXBkZzJCMFhnLVhpdWg1cGlkcERBdlYtNnp3b0hsMl8wRFExZnl5OEdZNE5mckU2Ujg1TElEWkp0NmJYZ1dB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T12:50:44+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T12:50:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7c04dac",
+      "title": "汽油价格上涨推高通胀 美国国债维持跌势",
+      "summary": "汽油价格上涨推高通胀，美国一项关键消费者物价指标涨幅超出经济学家预期，美国国债因此维持跌势，市场目前普遍押注，美联储将于明年上调利率以管控通胀。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iumsVh7n8e5c/v1/1200x-1.jpg",
+      "article_ids": [
+        "0bb5a0df"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0bb5a0df",
+          "source": "Bloomberg",
+          "title": "汽油价格上涨推高通胀 美国国债维持跌势",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/us-treasuries-hold-losses-as-rising-gas-costs-fuel-inflation",
+          "published_at": "2026-05-12T12:48:18+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T12:48:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3895b92",
+      "title": "Spotify为庆祝品牌成立20周年推出Wrapped风格全听歌历史回顾功能",
+      "summary": "音乐流媒体平台Spotify为庆祝品牌成立20周年，推出全新类Wrapped功能，延续其热门年度听歌总结项目的风格，移动端用户即日起可访问，查看个人自注册以来的完整听歌历史及不重复歌曲总数。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1039d661",
+        "5bd425d0"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "TechCrunch",
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1039d661",
+          "source": "TechCrunch",
+          "title": "Spotify推出Wrapped风格全听歌历史回顾功能",
+          "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
+          "published_at": "2026-05-12T12:44:00+00:00"
+        },
+        {
+          "id": "5bd425d0",
+          "source": "The Verge",
+          "title": "Spotify最新“Wrapped”覆盖用户全部听歌历史",
+          "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+          "published_at": "2026-05-12T12:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T12:44:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "83a01feb",
+      "title": "彭丽媛会见联合国教科文组织总干事阿纳尼 - 中华人民共和国驻胡志明市总领事馆",
+      "summary": "彭丽媛会见联合国教科文组织总干事阿纳尼，相关讯息由中华人民共和国驻胡志明市总领事馆对外发布，感兴趣的公众可前往Google新闻平台，查看与该事件相关的更多头条新闻及各界观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e2f163f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e2f163f5",
+          "source": "Google News (中国)",
+          "title": "彭丽媛会见联合国教科文组织总干事阿纳尼 - 中华人民共和国驻胡志明市总领事馆",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnNITUQ0aXBTY2dOc0ZnTnJJbms1SFhycTItVzNlWDhXYi1Qbms5VXlkbURJRGxLNXY1S1lndzNyaFJ1QjVfNTlCbkZPNm96dzZfejRieEUyNFFDZkVKTTlpdm9fZzdISjNWNUJ1Slhpd1NyZllkMHY3djVadFRJdnFRZmNyQlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T12:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T12:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d66dc3b",
+      "title": "《科技速递：诺奖得主谈人工智能，万物修缮的理由》",
+      "summary": "这是面向工作日推出的每日科技资讯刊物《科技速递》的当日刊，旨在分享全球科技领域最新动态。本期内容聚焦相关内容：2024年诺贝尔经济学奖得主达龙·阿西莫格鲁在获奖数月前曾发布相关论文，提出人工智能领域三大值得关注的方向。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "8af79745"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "8af79745",
+          "source": "MIT Technology Review",
+          "title": "《科技速递：诺奖得主谈人工智能，万物修缮的理由》",
+          "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+          "published_at": "2026-05-12T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0023c06",
+      "title": "许勤在哈尔滨市调研防灾减灾救灾工作 - 黑龙江省人民政府",
+      "summary": "许勤前往哈尔滨市开展防灾减灾救灾工作调研，该政务动态由黑龙江省人民政府对外发布。相关人员可前往Google新闻平台，查看黑龙江省人民政府发布的更多相关头条新闻与观点内容，了解更多该平台推送的黑龙江政务相关资讯。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "fc79b302"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "fc79b302",
+          "source": "Google News (中国)",
+          "title": "许勤在哈尔滨市调研防灾减灾救灾工作 - 黑龙江省人民政府",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wT3hSdWg5RzFLMVBuWVZSeTJRMGRDUHl2cU5fV2c3NHFVU19zUFczOENBY1ZFemRVeEVzUjZNSEtkOGJGa3Vvd1ppNmVmTmg5RjlEVkZqZ0l6VVFJWVZHakhTak5aTk5POHFoZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T11:51:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:51:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "948d594e",
+      "title": "击败40家对手斩获亚马逊Ring合作 AI语音初创企业Vapi估值达5亿美元",
+      "summary": "人工智能语音初创企业Vapi击败40家竞争对手，拿下亚马逊Ring合作，估值达到5亿美元。如今越来越多企业将客户支持、销售通话转由AI智能代理承接，Vapi的企业业务自2025年初以来已实现十倍增长。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "55313edf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "55313edf",
+          "source": "TechCrunch",
+          "title": "击败40家对手斩获亚马逊Ring合作 AI语音初创企业Vapi估值达5亿美元",
+          "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "published_at": "2026-05-12T11:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "948d594e",
+      "title": "AI语音初创公司Vapi击败40对手拿下亚马逊Ring项目 估值达5亿美元",
+      "summary": "AI语音初创公司Vapi击败四十家竞争对手拿下亚马逊Ring项目后，公司估值达到五亿美元。自2025年初以来，随着企业将客户支持、销售通话转向AI代理，Vapi的企业业务已增长十倍。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "55313edf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "55313edf",
+          "source": "TechCrunch AI",
+          "title": "AI语音初创公司Vapi击败40对手拿下亚马逊Ring项目 估值达5亿美元",
+          "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "published_at": "2026-05-12T11:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "600a1387",
+      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+      "summary": "本期氪星晚报收录多领域财经科技资讯，含京东等多家企业公布2026年一季度业绩，宇树科技推出全球首款量产载人机甲，智元机器人发布香港具身智能产业共创计划，同时提及日本恩格尔系数创1980年以来新高、谷歌发现黑客首次利用AI开发零日漏洞攻击工具等内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e73de828"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e73de828",
+          "source": "36氪",
+          "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+          "link": "https://36kr.com/p/3806196073242112?f=rss",
+          "published_at": "2026-05-12T11:22:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:22:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c0caff0",
+      "title": "新华社快讯：习近平同塔吉克斯坦总统拉赫蒙共同出席合作文件签字仪式 - 中证网",
+      "summary": "塔吉克斯坦总统拉赫蒙开展对华相关活动，期间中国国家主席习近平同拉赫蒙举行会谈，双方共同出席两国合作文件签字仪式，拉赫蒙还到访亚投行总部。拉赫蒙称塔中关系正不断迈上新台阶，相关活动获多家权威媒体报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "323a4acb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "323a4acb",
+          "source": "Google News (中国)",
+          "title": "新华社快讯：习近平同塔吉克斯坦总统拉赫蒙共同出席合作文件签字仪式 - 中证网",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YUEVqZ19MSFBwQ1BKdVFITy1WU1h1N1JFV1FaQlY5RzRWWFFrQm04Q3V4U1NEVkhZaVJHT1lmbzBzSXZvOTNBdVg1akxVQ3dnMG45d1NwODVDSlBLYjFVbEdxYU5GOHBlQXFYYTdOTDVKd0gwajBWdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T11:22:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:22:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d56b0b45",
+      "title": "法国拟在肯尼亚会晤非洲领导人 寻求摆脱殖民关系",
+      "summary": "法国拟在肯尼亚与非洲领导人举行会晤，寻求推动双方关系摆脱原有殖民框架。这是该系列会晤自上世纪70年代启动以来的首次此类安排，反映出法国对非政策思路发生了转变。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fe/live/b976b1a0-4d42-11f1-b2c7-71155caf7f79.jpg",
+      "article_ids": [
+        "06128af9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "06128af9",
+          "source": "BBC World",
+          "title": "法国拟在肯尼亚会晤非洲领导人 寻求摆脱殖民关系",
+          "link": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T11:13:54+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:13:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "06779db7",
+      "title": "冯德莱恩：欧盟需推迟儿童接触社交媒体",
+      "summary": "冯德莱恩在欧盟峰会上表示，欧盟需要推迟儿童接触社交媒体，以更好保护未成年人的线上安全。目前欧盟已安排专门专家小组，预计将于7月前研究拟定出保护未成年人网络安全的具体落实步骤。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d26/live/7afc2660-4de9-11f1-9cc8-93479330ab4b.jpg",
+      "article_ids": [
+        "7408d880"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7408d880",
+          "source": "BBC World",
+          "title": "冯德莱恩：欧盟需推迟儿童接触社交媒体",
+          "link": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T11:00:34+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:00:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9a2c18e",
+      "title": "如何观看今日谷歌安卓秀I/O特别场",
+      "summary": "谷歌I/O年度开发者大会将于一周后举办，今日将率先开启安卓秀I/O特别场活动，活动将开启线上直播，预计会提前公布本届大会将要推出的安卓生态系统多项重大亮点。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6be6b086"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6be6b086",
+          "source": "The Verge",
+          "title": "如何观看今日谷歌安卓秀I/O特别场",
+          "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+          "published_at": "2026-05-12T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ad1d7ea",
+      "title": "eBay拒绝GameStop 560亿美元收购要约",
+      "summary": "eBay董事会于周二致信GameStop首席执行官瑞安·科恩，正式拒绝了GameStop出价560亿美元收购该在线交易平台的要约。eBay认为该收购提案既不可信也不具吸引力，拒绝理由涉及对收购运营风险及融资安排的担忧。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a0cec476"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a0cec476",
+          "source": "The Verge",
+          "title": "eBay拒绝GameStop 560亿美元收购要约",
+          "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+          "published_at": "2026-05-12T10:55:02+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:55:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82c51eb8",
+      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "summary": "2026年5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会将在北京亦庄举办，另设杭州富阳分会场聚焦具身智能机器人。大会聚焦AI产业落地实战，将发布多项AI落地成果榜单，搭建AI供需对接平台，探索AI转化为新质生产力的落地路径。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260512/v2_4591fd407c0b45c6bfb800052af42563@6381723_oswg418818oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "c5707dc4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "c5707dc4",
+          "source": "36氪",
+          "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+          "link": "https://36kr.com/p/3806179759496711?f=rss",
+          "published_at": "2026-05-12T10:52:40+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:52:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "640916fc",
+      "title": "斯沃琪挫败维权投资者撼动哈耶克控制权堡垒的企图",
+      "summary": "瑞士钟表制造商斯沃琪集团股东第二次否决了美国维权投资者史蒂文·伍德争取董事会席位的请求，此举进一步巩固了控股方哈耶克家族对这家企业的控制权。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN6qH0K3qoEQ/v1/1200x-1.jpg",
+      "article_ids": [
+        "81aa6e9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "81aa6e9f",
+          "source": "Bloomberg",
+          "title": "斯沃琪挫败维权投资者撼动哈耶克控制权堡垒的企图",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/swatch-quashes-us-activist-attempt-to-shake-up-hayek-stronghold",
+          "published_at": "2026-05-12T10:51:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:51:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aeb44972",
+      "title": "俄罗斯持续袭击在乌克兰的美国企业 白宫保持沉默",
+      "summary": "可口可乐、嘉吉、亿滋等多家美国企业在乌克兰的关联设施遭蓄意袭击，俄罗斯持续发动针对在乌美国企业的袭击行动，美国特朗普政府对此回应低调、始终保持沉默，这一态度已经引发外界担忧。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/10/multimedia/00int-ukraine-us-businesses-01-pvkl/00int-ukraine-us-businesses-01-pvkl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "03a35329"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "03a35329",
+          "source": "NYTimes World",
+          "title": "俄罗斯持续袭击在乌克兰的美国企业 白宫保持沉默",
+          "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+          "published_at": "2026-05-12T10:46:19+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:46:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0db7d96f",
+      "title": "Canvas遭黑客入侵：涉事公司付费给犯罪分子删除被盗学生数据",
+      "summary": "Canvas平台遭黑客攻击，此次攻击干扰了全球数千所高校的正常运作。Canvas所属公司日前表示，已与发动攻击的黑客达成协议，公司将向对方支付费用，删除被黑客非法窃取的学生数据。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/d1a431b0-4dee-11f1-8191-8bac3ae59130.jpg",
+      "article_ids": [
+        "b0ca955f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b0ca955f",
+          "source": "BBC World",
+          "title": "Canvas遭黑客入侵：涉事公司付费给犯罪分子删除被盗学生数据",
+          "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T10:31:23+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:31:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0cac8afd",
+      "title": "拜城县大桥乡：科技“赋能”奏响农田序曲 - xj.chinanews.com.cn",
+      "summary": "当前全国多地春耕生产凸显科技赋能特色：新疆拜城县大桥乡借助卫星遥感监测作物长势、智能喷灌管控水肥；山西朔城区用北斗提速春播；浙江遂昌靠“滴滴代种”实现无人春耕作业；内蒙古呼伦贝尔以科技赋能大豆春播，各地共绘丰收好景。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5edc3c81"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5edc3c81",
+          "source": "Google News (中国)",
+          "title": "拜城县大桥乡：科技“赋能”奏响农田序曲 - xj.chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUs4Qk5aRjBZbUVybnhyMDRQMlo2Njg3WVJad0xycnJlZVE3UmNFZE84U0dOc29la19UVldUR3F5MGIzNkU2VjBCRzdsOEFiRWw2WHFTUmFMZ3Mzamp5NVZUdml5XzQtWWhOeUFMUkJDQ2xRMkcxNTZrYjFVN2gzOE5DWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T10:30:17+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:30:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "924219f4",
+      "title": "暴雨蓝色预警继续：湖南江西福建等地局地有大暴雨 - 每日经济新闻",
+      "summary": "多平台权威媒体发布气象消息，暴雨蓝色预警持续生效，江南、华南及贵州等地将迎来较强降雨，湖南、江西、福建等地局地将有大暴雨，可能伴随雷暴大风等强对流天气，6号台风也引发关注；中东部热力升级华北迎高温，新疆甘肃等地将出现大风沙尘降温，相关部门已会商部署防范工作。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "2c589d69"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2c589d69",
+          "source": "Google News (中国)",
+          "title": "暴雨蓝色预警继续：湖南江西福建等地局地有大暴雨 - 每日经济新闻",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WQ0phdHZnQS1wTmM2S3I3M2otTkF0bmNLcnJuUWNINWM4QnFJZGZySG5pRUoyZVlGTElwald3Y2U2WXJQaVBFNDgzdXB2TFdTSHZjTHpyOUdTNVlGU0N0SWNxZHN0dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T10:11:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:11:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ae815c1",
+      "title": "德克萨斯州指控网飞窥探包括儿童在内的用户隐私",
+      "summary": "德克萨斯州指控流媒体平台网飞窥探包括儿童在内的用户隐私。这一诉讼发起之际，业内对自动播放这类可向用户持续推送无尽内容的平台功能的审查力度正不断加大，相关问题受到越来越多的关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8a7/live/ae66b720-4de6-11f1-9cc8-93479330ab4b.jpg",
+      "article_ids": [
+        "1270d720"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1270d720",
+          "source": "BBC World",
+          "title": "德克萨斯州指控网飞窥探包括儿童在内的用户隐私",
+          "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T10:01:54+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:01:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76b269fa",
+      "title": "亚马逊在全美推出30分钟送达服务",
+      "summary": "亚马逊推出全新的超快配送服务，覆盖美国全境。该服务可为消费者配送食品杂货、家居日用必需品以及其他各类商品，承诺30分钟内将商品送至顾客家门口，大幅提升配送时效。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b29ddefd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b29ddefd",
+          "source": "TechCrunch",
+          "title": "亚马逊在全美推出30分钟送达服务",
+          "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+          "published_at": "2026-05-12T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed1a6c89",
+      "title": "快手确认旗下可灵AI视频部门寻求外部融资",
+      "summary": "快手已对外确认，其旗下可灵（Kling）AI视频部门正寻求外部融资，目前仅公开确认这一事项，未披露与本次融资有关的更多具体信息。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cf71df6e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "cf71df6e",
+          "source": "The Information",
+          "title": "快手确认旗下可灵AI视频部门寻求外部融资",
+          "link": "https://www.theinformation.com/briefings/kuaishou-confirms-seeking-external-funding-kling-ai-video-unit",
+          "published_at": "2026-05-12T09:50:53+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T09:50:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec05f2a9",
+      "title": "联合国卫生机构表示暂无汉坦病毒更大规模暴发迹象",
+      "summary": "联合国下属世界卫生组织负责人表示，目前暂无汉坦病毒更大规模暴发的迹象，同时发出警告，当前疫情形势仍可能发生变化，后续不排除会出现更多汉坦病毒确诊病例。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg",
+      "article_ids": [
+        "5ac99efc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5ac99efc",
+          "source": "BBC World",
+          "title": "联合国卫生机构表示暂无汉坦病毒更大规模暴发迹象",
+          "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T09:35:32+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T09:35:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdb77716",
+      "title": "油价推升通胀风险 债券市场沃什交易瓦解",
+      "summary": "此前美国国债市场投资者梳理出了名为“凯文·沃什交易”的投资策略，核心逻辑是押注凯文·沃什若出任美联储主席，将会推出多次降息。如今受油价推升通胀风险影响，这套交易策略已经瓦解。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPboATpdcRUo/v8/1200x-1.jpg",
+      "article_ids": [
+        "ee240050"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ee240050",
+          "source": "Bloomberg",
+          "title": "油价推升通胀风险 债券市场沃什交易瓦解",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/bond-market-s-warsh-trade-falls-apart-as-oil-fans-inflation-risk",
+          "published_at": "2026-05-12T09:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T09:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d4be860",
+      "title": "伊朗战事会再挫俄罗斯信誉？果真如此吗？",
+      "summary": "有观点认为伊朗战事会进一步打击俄罗斯的国际信誉，实际情况却并非如此。俄罗斯虽身陷乌克兰长期战事，还失去了叙利亚等旧日盟友，如今却受益于高企的能源价格、巧妙的舆论叙事，以及美国自身未能速胜的局面，获得了不少利好。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12int-russia-assess-jqbz/12int-russia-assess-jqbz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b6b0743d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b6b0743d",
+          "source": "NYTimes World",
+          "title": "伊朗战事会再挫俄罗斯信誉？果真如此吗？",
+          "link": "https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html",
+          "published_at": "2026-05-12T09:02:25+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T09:02:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d5ef06e8",
+      "title": "新型Roomba扫地机体积更小价格更低",
+      "summary": "iRobot在推出首款搭载激光雷达的Roomba扫地机一年后，发布全新Roomba系列扫地机器人，本次共推出八款新品，在现有产品线基础上升级，定价更低，最高降幅约合270美元，新品还提升吸力，缩小机身尺寸以优化导航表现。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "90dee2cb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "90dee2cb",
+          "source": "The Verge",
+          "title": "新型Roomba扫地机体积更小价格更低",
+          "link": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+          "published_at": "2026-05-12T09:02:25+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T09:02:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8c1bece3",
+      "title": "视频显示菲律宾参议员甩开执法人员 躲过国际刑事法院逮捕令",
+      "summary": "国际刑事法院因菲律宾前总统罗德里戈·杜特尔特禁毒战争相关案件，对菲律宾参议员罗纳德·德拉罗萨发出逮捕令。曝光的现场视频显示，德拉罗萨甩开执行抓捕的人员，冲入菲律宾参议院，成功躲过了这次逮捕。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "280aa950"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "280aa950",
+          "source": "NYTimes World",
+          "title": "视频显示菲律宾参议员甩开执法人员 躲过国际刑事法院逮捕令",
+          "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
+          "published_at": "2026-05-12T08:23:47+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T08:23:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17d263ce",
+      "title": "伊朗战事冲击油墨供应 零食巨头改用黑白包装",
+      "summary": "受伊朗战事影响，霍尔木兹海峡实际关闭，严重扰乱全球能源与石化产品供应。油墨供应因此受阻，全球大型零食企业被迫调整产品包装方案，改用黑白色包装应对这一供应缺口。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg",
+      "article_ids": [
+        "97d546c8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "97d546c8",
+          "source": "BBC World",
+          "title": "伊朗战事冲击油墨供应 零食巨头改用黑白包装",
+          "link": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T07:46:47+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T07:46:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "442a7057",
+      "title": "巴基斯坦空袭康复中心致269名阿富汗人死亡 遇难者家属要求知晓原因",
+      "summary": "3月16日，巴基斯坦对一处康复中心发动空袭造成269名阿富汗人死亡，联合国称实际死亡人数可能更高。目前各方呼吁将此次空袭作为战争罪行展开调查，遇难者家属也要求知晓事件原因。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/d7a0af30-4d3a-11f1-ac78-2112837ce2aa.jpg",
+      "article_ids": [
+        "1f1f74e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1f1f74e5",
+          "source": "BBC World",
+          "title": "巴基斯坦空袭康复中心致269名阿富汗人死亡 遇难者家属要求知晓原因",
+          "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-12T07:31:14+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T07:31:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "72d6aeae",
+      "title": "英国政治危机加剧 30年期国债收益率触及1998年以来高位",
+      "summary": "英国债券市场暴跌，推动英国长期国债收益率升至近三十年来的最高水平。英国政治危机加剧，市场对基尔·斯塔默的首相任职前景产生猜测，重新引发外界对英国财政状况疲软的担忧。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEj6L_TCX.M8/v0/1200x-1.jpg",
+      "article_ids": [
+        "d3479cc9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d3479cc9",
+          "source": "Bloomberg",
+          "title": "英国政治危机加剧 30年期国债收益率触及1998年以来高位",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/gilts-slump-with-uk-prime-minister-under-pressure-to-stand-down",
+          "published_at": "2026-05-12T07:08:08+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T07:08:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a0087228",
+      "title": "特朗普称美伊停火“极其脆弱”，核分歧仍难弥合 - jpchinapress.com",
+      "summary": "美国前总统特朗普评价当前美伊停火状态“极其脆弱”，称停火维持下去的几率仅为1%，他还怒斥伊朗对相关方案的回复是“垃圾”。目前美伊在浓缩铀处置等核议题上分歧仍难弥合，有知情人士披露，美国正考虑恢复对伊朗的军事行动。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f34974a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f34974a2",
+          "source": "Google News (中国)",
+          "title": "特朗普称美伊停火“极其脆弱”，核分歧仍难弥合 - jpchinapress.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUMtYTBybE5ySExJNnNmcmRPTlVhY3lHejhrN1BPNnV2MnpKZVhDRm83dDFRdmRFbi1leU0xdFNOcmVEWHlyWlFXUU5WMWR3WlpEdjRud1pHUWFCbDdjTHVGaGhIdGUwVTlUb2xPVnRXamQ4UGpIZ3IxY3pmXzJYUWZEc1djdU10Z0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T07:07:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T07:07:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7fca1c61",
+      "title": "涉汉坦病毒疫情邮轮最后一批下船人员抵达荷兰 - 中国网",
+      "summary": "一艘涉汉坦病毒疫情的邮轮已完成人员撤离工作，最后一批下船人员已抵达荷兰。世卫组织通报该邮轮累计确诊病例增至9例，称已采取隔离检疫措施降低传播风险，评估认为当前汉坦病毒全球传播风险为低，该事件引发多方关注讨论。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "da6c14b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "da6c14b2",
+          "source": "Google News (中国)",
+          "title": "涉汉坦病毒疫情邮轮最后一批下船人员抵达荷兰 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RZ0w1T045ZlA0SDgxMEhVQmN1Vlc1WXVmSTB6ZU1halVVenZuSzlNcmFXVXNPak8xSnZDWGlLT2ZCQjFhWWJrckZaTkFRRFV2dDdnWVUzbzFGMXFYb2ZZSEEyeVpYencwZWpHdUxPVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T06:31:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T06:31:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c84af444",
+      "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
+      "summary": "Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a065d6d2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a065d6d2",
+          "source": "NYTimes World",
+          "title": "Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit",
+          "link": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+          "published_at": "2026-05-12T06:21:56+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T06:21:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a1be7b25",
+      "title": "沃达丰因德国客户流失加速股价暴跌",
+      "summary": "全球知名电信运营商沃达丰集团上季度在核心市场德国遭遇客户流失，且流失速度明显加快，原因主要是当地市场竞争激烈，同时公司正推动提升每用户收入，受该情况影响，沃达丰股价创下三年来最大跌幅。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i75huB8Ll8Q0/v1/1200x-1.jpg",
+      "article_ids": [
+        "56179266"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "56179266",
+          "source": "Bloomberg",
+          "title": "沃达丰因德国客户流失加速股价暴跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-12/vodafone-sales-beat-as-strategic-pivot-to-main-markets-pays-off",
+          "published_at": "2026-05-12T06:08:11+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T06:08:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f4b6c0cd",
+      "title": "菲律宾揭发性虐待的前辅祭童 如今成为受害者代理律师",
+      "summary": "在全民普遍笃信天主教的菲律宾，米沙尔·加查利安曾勇敢打破沉默，揭发一名牧师的性虐待行为。如今他已成为一名执业律师，专门为和他有相似遭遇的性虐待受害者提供法律帮助。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1cd3686f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1cd3686f",
+          "source": "NYTimes World",
+          "title": "菲律宾揭发性虐待的前辅祭童 如今成为受害者代理律师",
+          "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
+          "published_at": "2026-05-12T06:08:04+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T06:08:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da98f94c",
+      "title": "索尼升级可穿戴空调：制冷更强 更贴合颈部",
+      "summary": "索尼于2019年东京奥运会前首次推出可穿戴个人空调，日前发布该系列最新款Reon Pocket Pro Plus。这款新品是去年Pro型号的升级产品，虽未全面改造硬件，但完成多项性能升级，制冷效果更佳，佩戴也更贴合颈部。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2fd0978b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2fd0978b",
+          "source": "The Verge",
+          "title": "索尼升级可穿戴空调：制冷更强 更贴合颈部",
+          "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+          "published_at": "2026-05-12T06:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T06:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0b5085e8",
+      "title": "伊朗终于回应核谈判条件 双方诉求差距巨大 - 中华网",
+      "summary": "伊朗对伊核谈判条件作出回应，双方诉求差距巨大。伊朗方面表示将在适当时候就浓缩铀相关问题作出决定。美国国务卿卢比奥在意大利罗马公开相关信息，美国前总统特朗普称伊朗的回应完全不可接受，同时拒绝了伊朗提出的结束中东冲突的最新提议。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0fcf0724"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0fcf0724",
+          "source": "Google News (中国)",
+          "title": "伊朗终于回应核谈判条件 双方诉求差距巨大 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKWUxWY1h3cTA2STlUX2FERmFnUVBLdFBmNnRXTkZ3UW1WUXN0VkJhV0EwWXdLWHBmRjNQV2E5V1VRcjdieUEtdlhIU0RSOThqZWhYVkVsMGV0MWVjT0ZzemNDWk5ZbDNONlhMckZwcmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-12T05:27:40+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T05:27:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9180e828",
+      "title": "思考机器欲打造可边说话边倾听的人工智能",
+      "summary": "当前市面所有人工智能均采用交替交互模式，用户完成输入后AI才生成回应。思考机器正试图改变这一现状，计划打造可同时处理用户输入、生成回应的AI模型，让人机交互更贴近打电话的自然体验，而非短信式断续交互。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d3b5b5ad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d3b5b5ad",
+          "source": "TechCrunch",
+          "title": "思考机器欲打造可边说话边倾听的人工智能",
+          "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "published_at": "2026-05-12T04:52:35+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T04:52:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9180e828",
+      "title": "思考机器公司欲打造可边说话边倾听的AI",
+      "summary": "当前所有AI都遵循用户输入完成后AI再回应的轮流交互模式，双方无法同时传递信息。科技企业思考机器公司正试图改变这一现状，计划打造可同时处理用户输入、生成回应的新型AI，让AI交互更接近实时电话通话而非逐句响应的文本对话。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d3b5b5ad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d3b5b5ad",
+          "source": "TechCrunch AI",
+          "title": "思考机器公司欲打造可边说话边倾听的AI",
+          "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "published_at": "2026-05-12T04:52:35+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T04:52:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2be37132",
+      "title": "法国中间派领导人是否正为抵御极右翼未雨绸缪？",
+      "summary": "法国总统埃马纽埃尔·马克龙任命多名亲信盟友出任国家关键职位，这些官员将留任至明年法国总统选举结束后。一旦极右翼候选人赢得选举上台，这些留任要职的盟友能够对极右翼继任者的施政形成阻挠。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a4c85281"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a4c85281",
+          "source": "NYTimes World",
+          "title": "法国中间派领导人是否正为抵御极右翼未雨绸缪？",
+          "link": "https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html",
+          "published_at": "2026-05-12T04:01:06+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T04:01:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b3d1996a",
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "summary": "成都雨之灵动宣布完成总额数千万人民币的天使轮及Pre-A轮融资，投资方涵盖KK集团、科大讯飞等多类机构。该公司转型后仅六个月推出AI仿生毛绒潮玩Walulu，产品开售即热销，正拓展国内外渠道，目前需尽快构建品牌壁垒应对后续竞争。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260512/v2_6e2ed08cfc904464950fd0e766cb0eb7@6202862_oswg742908oswg1080oswg563_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "3bf3bef7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3bf3bef7",
+          "source": "36氪",
+          "title": "Walulu：用六个月撕开一条新赛道",
+          "link": "https://36kr.com/p/3805761383751427?f=rss",
+          "published_at": "2026-05-12T03:46:38+00:00"
+        }
+      ],
+      "published_at": "2026-05-12T03:46:38+00:00",
+      "is_merged": false
+    }
+  ]
+}
