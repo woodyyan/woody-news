@@ -1,0 +1,2411 @@
+{
+  "date": "2026-05-15",
+  "edition": "morning",
+  "updated_at": "2026-05-15T10:56:00.693187+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "cc59f450",
+      "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+      "title_original": null,
+      "summary": "由多位前大疆核心成员联合创立的消费级桌面CNC与智能数字制造平台无限工坊，近日宣布获得美团战投、昆仑资本、奇绩创坛投资的近亿元融资，本轮资金将用于产品研发、供应链建设及量产交付。该项目瞄准创客群体需求，计划长期打造个人创造生态。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3809919654403587?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-15T02:11:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "015cfd53",
+      "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+      "title_original": null,
+      "summary": "2026年上半年，具身智能成为当前最热门的创投赛道。数据显示，该赛道今年前四个月已完成超200笔融资交易，累计融资总规模超过550亿元，大量资本涌入印证了具身智能赛道的发展潜力，是当前资本关注度最高的领域之一。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260515/v2_48c284e812634e21a99cbb00b99468a4@5688585_oswg5167752oswg800oswg11142_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3809911566704388?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-15T02:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eeb7bb2c",
+      "title": "特朗普奉承讨好，习近平坚定果决，差异耐人寻味",
+      "title_original": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+      "summary": "不同于特朗普此前在国内发表的对华言论，特朗普在与中国国家领导人习近平接触时，措辞偏向和解。外界观察认为，互动中特朗普尽显奉承姿态，习近平立场坚定果决，二者的表现差异耐人寻味。",
+      "summary_original": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader.",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14INT-PREXY-SANGER-bfcq/14INT-PREXY-SANGER-bfcq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-15T01:59:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "15ed521f",
+      "title": "印度四年来首次上调汽油柴油价格",
+      "title_original": "India Hikes Petrol, Diesel Prices for First Time in Four Years",
+      "summary": "印度国有燃油零售商本周五上调汽油与柴油价格，这是印度四年来首次上调燃油价格。此次调价将有助于抑制燃油需求，同时减少销售方在燃油销售业务中产生的亏损。",
+      "summary_original": "Indian state fuel retailers raised prices of diesel and gasoline on Friday, the first hike in rates in four years, a move that will help tame demand and cut losses on fuel sales.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD9_2qhZfPts/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-15/indian-state-retailers-hike-petrol-diesel-prices-by-inr3-liter",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-15T01:55:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bbe2365b",
+      "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+      "title_original": null,
+      "summary": "阿里巴巴2026财年第一季度同口径营收同比增长11%，云业务尤其AI云保持高增速，因处于转型投入期多数利润指标表现不佳。管理层披露AI云商业化明确增长目标后，阿里美股盘后由跌转涨，外卖大战已趋平缓，淘宝闪购转向实现盈利目标。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3807527591058948?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-15T01:25:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4e04c0d0",
+      "title": "日元一周连跌 交易员警惕日本干预汇市",
+      "title_original": "Yen’s Week-Long Slide Puts Traders on Guard for Intervention",
+      "summary": "本周日元兑美元下跌1%，汇率已跌至1美元兑换158日元。受此轮连续一周的下跌走势影响，汇市交易员对于日本政府可能进一步出手干预汇市的风险，警惕程度正持续上升。",
+      "summary_original": "Currency traders are increasingly alert to the risk of further market intervention by Japan following a 1% slide in the yen this week that has pushed it to 158 per dollar.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLyHMyDxUplM/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-15/yen-s-week-long-slide-puts-traders-on-guard-for-intervention",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-15T01:21:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2f176333",
+      "title": "格里尔称美国预计中国将大规模采购美国农产品",
+      "title_original": "US Expects Dramatic Agricultural Purchases by China, Greer Says",
+      "summary": "美国贸易代表杰米森·格里尔表示，在美国总统特朗普与中国国家主席习近平在北京的峰会即将结束之际，美方预计中国将承诺采购数十亿美元的美国农产品，采购规模十分可观。",
+      "summary_original": "US Trade Representative Jamieson Greer said he anticipates that China would commit to billions in American agricultural purchases, as Presidents Donald Trump and Xi Jinping complete their summit in Beijing.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVSKUoB8T5H0/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-expects-dramatic-agricultural-purchases-by-china-greer-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-15T01:18:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "76e0d782",
+      "title": "格里尔：对华贸易再平衡取得诸多成功",
+      "title_original": "Greer: A Lot of Success in Rebalancing Trade With China",
+      "summary": "美国贸易代表杰米森·格里尔在北京接受彭博社记者安玛莉·霍登采访时表示，特朗普与习近平的元首会晤迄今已取得切实成果，推进对华贸易再平衡收获诸多成效，相关报道来源为彭博社。",
+      "summary_original": "United States Trade Representative Jamieson Greer talks about the results so far from the Trump-Xi summit, saying the meetings have already delivered tangible returns. He speaks with Bloomberg's Annmarie Hordern in Beijing. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJrRlZ0O9ZJU/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-15/greer-a-lot-of-success-in-rebalancing-trade-with-china-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-15T01:16:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "39f3975e",
+      "title": "第三届东北图书交易博览会在长春开幕 - 新华网",
+      "title_original": null,
+      "summary": "第三届东北图书交易博览会在长春开幕，展会聚焦推动文化产业发展，设有抗联精神相关文化传播内容，吉林市展区通过非遗互动、企业推介展现江城特色，《“悦见内蒙古口袋书”系列》获评本届展会“最美图书”。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdSdnlxMHdlLUhva050Uk1uOGdTRmNSZXEzWnhxc3Y1Yk5KbThiUFdvMGxEQ3lQUHl2QnBZeXl1X1FwOFp0ZjlMRE5yVjNPdFBiNHQ4N1dmTzZMVXF4SUJzM0FqVEZGWmpfVFZXZUVXUmZPZEhHWXpldUl3VDJmZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-15T01:08:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "032f6b31",
+      "title": "教育部部长怀进鹏在2026世界数字教育大会上的主旨演讲（全文） - 教育在线",
+      "title_original": null,
+      "summary": "2026世界数字教育大会召开，大会聚焦“人工智能+教育”，围绕未来教育新样态展开探讨。中国教育部部长怀进鹏在会上发表主旨演讲，会议展出了智能眼镜助力田间教学等中国数智教育成果。多国教育界人士认为，数字教育国际合作势在必行。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51c21SbW00NThvam9jU2RqbC1HYkY2WGFuTWZ1aDhIUV9BTFFlUXNzbEptQ1hja1JQS21oNEJ4aGsteXBhX2RuaXBfMGZBb3dHRnRqM3dZRWROQW0wZUN0OUVFNlYwc2Vq?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-15T01:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "70605a0b",
+      "title": "古巴称能源危机恶化之际中情局局长访问哈瓦那",
+      "title_original": "Cuba says CIA chief visited Havana as energy crisis worsens",
+      "summary": "当前古巴能源危机正持续恶化，有消息称美国中央情报局局长到访古巴首都哈瓦那。此次访问发生在美国重新提出愿意提供援助，以缓解美国对古巴实施石油封锁造成的不利影响之后。",
+      "summary_original": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-15T01:04:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e50fc127",
+      "title": "格里尔：美中有意延续贸易停火",
+      "title_original": "Greer: US, China Willing to Continue Trade Truce",
+      "summary": "美国贸易代表贾米森·格里尔在北京美中峰会期间，接受彭博社《彭博：亚洲贸易》节目独家采访。他对美中贸易关系趋稳表示谨慎乐观，称双方在农产品采购、稀土供应方面取得进展，但关税与供应链问题仍然存在。",
+      "summary_original": "Jamieson Greer, Trade Representative of the United States, signaled cautious optimism that US-China trade relations are stabilizing, with progress on agriculture purchases and rare earth supplies, though tariffs and supply chain issues remain. He speaks exclusively to Bloomberg's Annmarie Hordern, on the sidelines of the US-China summit in Beijing on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZjiewtjB9rs/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-15/greer-us-china-willing-to-continue-trade-truce-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-15T00:59:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b3a13652",
+      "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
+      "title_original": null,
+      "summary": "公众号「职场Bonus」推出对知名营销人小马宋的独家对谈。出身山东农村的小马宋，从理工跨行进入广告行业，深耕营销行业二十余年，历经职业辗转后创立个人营销咨询品牌。访谈中他分享了自身成长经历，也就行业新人发展、AI冲击等问题给出专业建议。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3807543008698118?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-15T00:53:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "967d4ad5",
+      "title": "北京迎来今年首个“30摄氏度+”，北方为何突然热起来？ - 新华网北京",
+      "title_original": null,
+      "summary": "北京迎来今年首个30摄氏度以上的高温天气，针对北方此次突发升温的情况，新华网北京推出相关报道，聚焦本次异常天气变化，探究北方突然升温的原因，用户可前往Google新闻查看更多相关头条新闻与观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdG1ELTBhTTJkTkVFQm1wRkZUcDdsV3IxN2JIM1BKNFlHQUNDWF9TdmFOa3lkVFNfSFV6MC1fSHRJQUlRUXJYX0dUUmZqWHdfVVd3MGZEZFh0bG8ydldqRnZadEJQWVFIcTU2SEQ4dFJPRWFjci1tNmV6SjVKWWstazFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-15T00:50:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d167e121",
+      "title": "习近平同美国总统特朗普会谈 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "美国总统特朗普访华期间，中国国家主席习近平在北京人民大会堂为特朗普举行欢迎国宴，并同美国总统特朗普举行会谈。此次“习特会”引发中外媒体关注，中国共产党新闻网、新华网、光明网以及美国之音、纽约时报中文网等多家中外媒体都推出了相关报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uLXpTbDRNMGZPdF9KNGM0WG5UMFBsa2p1YlpodE1Cc2dSa2tXMnNKVXdfTEhodGtmb0hMNVJ0UFpNcnhrVEw4Zm5XQzctYmRod0xOWlhGVXVOQV82TEQyOFRwQ0gxTGxFM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-15T00:08:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ce11fa04",
+      "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
+      "title_original": null,
+      "summary": "本期热点涵盖多领域动态：韩国一季度未成年人股票新开户数同比暴涨近十倍；周大福回应金饰涨价称本次调价仅涉及极小部分产品；张雪机车因机油泵供油问题暂停820RR生产交付，此外机票燃油附加费5月16日起上调，国铁推出老年旅客淡季周中购票9折优惠。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3809785128869641?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-14T23:57:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4ae14868",
+      "title": "中美元首北京会晤达成重要共识！ - 中华网",
+      "title_original": null,
+      "summary": "中美元首在北京举行会晤，双方达成重要共识，此次会晤明确了引领中美关系发展的新定位，引发境内多家主流媒体关注报道。多家媒体评论指出，中美加强对话合作，能够更好共同应对全球性挑战，此次会晤为中美关系发展锚定了方向，具有重要意义。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNkl0ajVEdFZ4QU8ycElOTXhEVTNVOUpCcEQ1QXd4a28wOU5Od2FJTF9yYkpfUGdYNDhqY3lZTjhEVGlpTlVDel9ZQURsOGlpNGJySDV3aGpZOF9pR2c1c1B4ZnRjd1Z4R1JCLVVHd1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-14T23:33:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e35f30d3",
+      "title": "广东省珠海市珠海市气象台发布雷雨大风黄色预警信号 - 中央气象台",
+      "title_original": null,
+      "summary": "中央气象台及地方气象台发布多类气象预警，广东珠海发布雷雨大风黄色预警，江门新会发布雷雨大风红色预警；今明两天福建、重庆、河南等多地有大到暴雨，内蒙古、陕黔桂粤等地局地将有8级以上雷暴大风或冰雹，明起新一轮大范围降雨上线。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhR3ktc3dIMnY2c2xIZHpYSkhJelU2V3k0c0FvNGwwbFppNmJncHA4U25JeXVJbVVqa2VwLXpORVVaTTAxTy1rRk9Lb01fNERtUjJvRm1EZmZNOEJadERvTkw1bWRvaVkzTURkUVM4eU1mQkYwWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-14T23:23:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cdd5cde5",
+      "title": "法国世界报 - 北京盛大接待特朗普的同时，也对其发出严厉警告 - RFI",
+      "title_original": null,
+      "summary": "多家境内外媒体聚焦中美元首北京会晤，特朗普访华期间中方给予其盛大接待，同时习近平就台湾问题向美方发出严厉警告，该议题成为此次峰会的紧张焦点。会晤中，中美就双边关系等重大问题交换意见，中方明确了对台相关问题上的一贯立场。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNOXFRS3U5V21STzd2OHB0SDJOZU83RVl1Q0NGWEFTVFZtZWFXeV9VX2dINmtnYU9TNnZHLVR3ekZtQ0tqXzVBdTFhbHcwSENlbUhQczE0OVA0VllkYUs5SVdIaEMzMy1ZVWhTMG9tSkZjZ000VE4tUkNkWko0OFhWOEpLdnFIWUgxMWNpMXhzblE3dkd4RkNKTndBM0pCTUxCa1ZuTFI0MkxLVmxpaG15dVNhekZ2UDAyOXNqLUpZdjB2YmItb3hfcXhwNHNEX1ZERXRwQkMzS1d6VlFfT0R3SGhTNmNiWWV1VEc1TW51a1ljMnhzZ3VDWUFSTjFLX2JqcVVzOWZ3Z1BfeXUzaEpLS241MzRVTlpVZG05djZ3blFqWUpJSDZaVTBDYVFaZDB0MFhKbHpSc3FWNEdTczhydzVBS0FrcUlUUUt4UFdWeXhCUFAzUjVrX2tDSGZIc2pMZkRDX1Q0Tlk3YXdTRnM2Q0YydFRTSWhlTVp5SV9maE5QT3Z6NDJqLUstZS1SeHhLbGY4SXl4ZFBuR3RPaUVpNGM4dEVVdDdjdTlwYkpTUEFjWVlGSGVrNGlPNWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-14T23:13:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17ff85e1",
+      "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将裁定什么",
+      "title_original": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "埃隆·马斯克起诉萨姆·奥尔特曼的案件，是本年度影响力最大的科技界司法案件，备受全球科技行业关注。相关内容将梳理这桩顶级科技大案的整体脉络，聚焦该案中陪审团实际需要作出裁定的核心事项。",
+      "summary_original": "Here's what the biggest tech court case of the year is all about.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T22:47:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17ff85e1",
+      "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将作何裁决",
+      "title_original": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "埃隆·马斯克与萨姆·奥尔特曼的诉讼是本年度科技领域影响力最大的司法案件，本次内容围绕这桩大案展开，梳理澄清陪审团实际需要裁决的具体事项，帮助理清这桩科技圈顶流官司的核心脉络。",
+      "summary_original": "Here's what the biggest tech court case of the year is all about.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T22:47:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "78a22237",
+      "title": "本田混动未来从全新雅阁、RDX原型车开启",
+      "title_original": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+      "summary": "本周，本田在年度业务发布会上公布两款全新混动车型原型车，分别为本田雅阁轿车与讴歌RDX SUV。两款车型基于全新平台打造，预计从明年起推出，RDX是本田首款搭载下一代双电机混动系统的SUV。",
+      "summary_original": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of its two-motor hybrid [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T22:46:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51df7181",
+      "title": "通胀推升加息预期 黄金将迎周线下跌",
+      "title_original": "Gold Heads for Weekly Drop as Inflation Fuels Rate-Hike Bets",
+      "summary": "受战事推动，美国通胀出现大幅飙升，推升了市场对上调利率的预期。受此影响，黄金价格即将迎来小幅周度下跌，目前黄金正朝着周线收跌的方向运行，整体呈现周线下行趋势。",
+      "summary_original": "Gold headed for a modest weekly decline as a war-driven surge in US inflation fueled expectations for higher interest rates.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i53RGQ7kPUUM/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-14/gold-heads-for-weekly-drop-as-inflation-fuels-rate-hike-bets",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-14T22:46:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1d0c2f9f",
+      "title": "庭审结辩时刻",
+      "title_original": "Closing time",
+      "summary": "埃隆·马斯克诉奥特曼一案今日进行结辩陈词，马斯克方代理律师史蒂文·莫洛表现失常，发言结巴，不仅误将共同被告格雷格·布洛克曼错称为格雷格·奥特曼，还错误声称马斯克并未在本案中索要金钱赔偿。",
+      "summary_original": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T22:21:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1d0c2f9f",
+      "title": "庭审结案陈词",
+      "title_original": "Closing time",
+      "summary": "马斯克诉奥特曼一案今日进行结案辩论，原告马斯克的代理律师史蒂文·莫洛失误频发，发言磕磕绊绊，不仅错将共同被告格雷格·布洛克曼叫成格雷格·奥特曼，还错误声称马斯克未在本案中提出金钱索赔，整个环节状况百出混乱不堪。",
+      "summary_original": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-14T22:21:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dbd541e3",
+      "title": "股市创纪录涨势停滞 油价延续上涨：市场综述",
+      "title_original": "Stocks’ Record Rally Stalls, Oil Extends Gains: Markets Wrap",
+      "summary": "受人工智能交易热潮推动，全球股市此前走出一波创纪录涨势，这一涨势目前在亚洲市场失去增长动能。油价延续上涨走势，推高了市场通胀预期，进而导致美国国债价格走低。",
+      "summary_original": "A record-breaking rally in global equities driven by enthusiasm around artificial intelligence trade lost momentum in Asia. Oil extended gains, boosting expectations for inflation and sending Treasuries lower.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYi7Dfrf_.B0/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-14/asian-stocks-to-rise-as-ai-rally-spurs-wall-street-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-14T22:06:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d9aac3ae",
+      "title": "<银河战士Prime 4：超越>迎来首次大幅降价",
+      "title_original": "Metroid Prime 4: Beyond got its first big discount",
+      "summary": "这款被称为任天堂Switch平台画质表现最出众的第一人称射击游戏，目前在百思买推出优惠，实体版直降20美元，到手价39.99美元。该作在2017款Switch硬件上表现亮眼，在Switch 2上运行效果更佳，额外付10美元即可享受升级体验。",
+      "summary_original": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the additional $10 upgrade [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T21:38:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a798c83d",
+      "title": "埃隆·马斯克旗下SpaceXAI合并后大量员工流失",
+      "title_original": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "据悉自2月以来，埃隆·马斯克新近完成合并的SpaceXAI已有超过50名员工离职。该事件引发外界多项疑问，涉及员工过劳、领导层变动、竞争对手挖角，以及流动性事件是否削弱了企业留才激励机制等问题。",
+      "summary_original": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T21:30:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a798c83d",
+      "title": "埃隆·马斯克旗下SpaceXAI合并后人员大量流失",
+      "title_original": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "据报道，自今年2月起，埃隆·马斯克旗下刚完成合并的SpaceXAI已有超过50名员工离职。此次大规模人员流失引发诸多疑问，涉及员工职业倦怠、领导层变动、同行挖角，以及流动性事件是否削弱了人才留存激励等问题。",
+      "summary_original": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T21:30:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4bac9feb",
+      "title": "Meta借助Meta雷朋显示眼镜向全体用户开放虚拟书写功能",
+      "title_original": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+      "summary": "Meta正为旗下Meta雷朋显示款智能眼镜推送多项全新功能，核心内容是面向所有用户开放仅靠手势编写信息的虚拟书写功能，该功能可支持多款社交应用以及安卓与iOS系统的原生消息应用。",
+      "summary_original": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger, Instagram and with \"native Android and iOS messaging,\" Meta says. The feature, which relies on the Meta Ray-Ban [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T21:08:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17361221",
+      "title": "看呐，送给埃隆·马斯克的“蠢货奖杯”",
+      "title_original": "Behold, the Elon Musk jackass trophy",
+      "summary": "在埃隆·马斯克起诉萨姆·奥特曼的案件审理中，陪审团尚未作出裁决，奥特曼团队拿出一个外观类似青少年联赛小奖杯的物品。承办法官要求律师向媒体当众读出奖杯刻字“永远做个蠢货”，该奖杯由OpenAI员工定制购买。",
+      "summary_original": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T20:59:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17361221",
+      "title": "看呐，埃隆·马斯克的蠢货奖杯",
+      "title_original": "Behold, the Elon Musk jackass trophy",
+      "summary": "埃隆·马斯克起诉萨姆·奥特曼一案庭审中，陪审团入场前，奥特曼一方呈上一件远看类似少年联赛小奖杯的物品。主审法官要求律师向媒体当众宣读奖杯铭文：“永远做个蠢货”，这座奖杯是OpenAI员工购置的纪念物。",
+      "summary_original": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-14T20:59:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5cc6e708",
+      "title": "OpenAI宣布Codex将登陆手机端",
+      "title_original": "OpenAI says Codex is coming to your phone",
+      "summary": "OpenAI日前宣布，旗下Codex将正式登陆手机端。本次更新将为用户带来更强的工作流管理灵活性，方便用户根据自身需求调整安排工作流程，能够更好适配移动端办公等多场景的使用需求。",
+      "summary_original": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T20:58:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5cc6e708",
+      "title": "OpenAI称Codex将登陆手机端",
+      "title_original": "OpenAI says Codex is coming to your phone",
+      "summary": "OpenAI宣布Codex将登陆手机端，此次针对移动端的更新可为用户提供更强的使用灵活性，方便用户根据自身需求自主管理工作流程，能够更好适配移动端使用场景，满足用户随时随地开展相关工作的需求。",
+      "summary_original": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T20:58:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2f7c718f",
+      "title": "泄露图片曝光Xbox精英3手柄 带有神秘新按键",
+      "title_original": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+      "summary": "不久前小型Xbox云游戏手柄图片刚流出，巴西监管机构Anatel意外泄露了微软即将推出的Xbox精英3手柄图片，相关图片已由Tecnoblog发布。这款作为Xbox精英2手柄的继任产品，保留可互换方向键、背桨配置，还新增了两个神秘按键。",
+      "summary_original": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the Elite 2 controller, with an interchangeable D-Pad, paddles, and two new mysterious buttons. The Elite 3 [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T20:52:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8f92fa76",
+      "title": "五名意大利人在马尔代夫洞穴潜水时遇难",
+      "title_original": "Five Italians die during cave dive in Maldives",
+      "summary": "五名意大利人在马尔代夫进行洞穴潜水时发生意外遇难，意大利方面透露，这起事故发生在水下50米深度，截至目前，马尔代夫当地救援人员仅找到一具遇难者的遗体。",
+      "summary_original": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg",
+      "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-14T20:48:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "77e81fad",
+      "title": "Lovable刚投资一家计划将vibe编码引入硬件领域的公司",
+      "title_original": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "summary": "硬件公司Atech完成80万美元种子轮前融资，投资方包括Lovable、a16z侦察基金、红杉侦察基金以及Nordic Makers，该公司核心发展方向为将vibe编码技术引入硬件领域。",
+      "summary_original": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T20:43:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1b48bd8b",
+      "title": "Cerebras IPO为Benchmark赚得数十亿美元 风投埃里克·维施里亚差点没赴会",
+      "title_original": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "summary": "风投机构Benchmark几乎从不投资硬件创业公司，十年前该机构投资人埃里克·维施里亚犹豫拖延，差点没同意出席Cerebras的融资推介会。如今Cerebras完成IPO，为Benchmark带来了数十亿美元收益。",
+      "summary_original": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T20:23:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aef6c5b4",
+      "title": "OpenAI的Codex现已接入ChatGPT移动端应用",
+      "title_original": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI宣布将原本仅桌面端可用、可编写代码、操作电脑应用的AI工具Codex，开放给移动端ChatGPT用户使用。此前Anthropic旗下的Claude Code走红，OpenAI正加快布局追赶，为此砍掉了部分非核心开发项目。",
+      "summary_original": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aef6c5b4",
+      "title": "OpenAI Codex现已接入ChatGPT移动应用",
+      "title_original": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI原面向桌面端的AI工具Codex可编写代码、操作电脑端应用，目前已开放用户在手机端ChatGPT应用访问。在Anthropic旗下的Claude Code走红后，OpenAI正加快推进相关业务，在AI代码领域追赶竞品。",
+      "summary_original": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-14T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "baafa407",
+      "title": "当人工智能开始自我构建时会发生什么？",
+      "title_original": "What happens when AI starts building itself?",
+      "summary": "理查德·索切尔成立了估值达6.5亿美元的新创业公司，该公司计划打造一款可无限自主开展研究、实现自我升级改进的人工智能。索切尔坚称，该项目不会停留在构想阶段，最终会推出实际产品。",
+      "summary_original": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T19:57:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "baafa407",
+      "title": "当人工智能开始自我构建时会发生什么？",
+      "title_original": "What happens when AI starts building itself?",
+      "summary": "企业家理查德·佐彻成立了估值达6.5亿美元的初创公司，该公司目标是打造一款可无限自主研究、自我改进的人工智能系统，理查德·佐彻坚称这款人工智能最终会落地推出实际产品。",
+      "summary_original": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T19:57:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8789edf4",
+      "title": "Meta夏季大促雷朋新款智能眼镜降至历史最低价",
+      "title_original": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+      "summary": "Meta开启夏季大促，这是其除黑色星期五外力度最大的促销活动，大促持续至5月26日。雷朋Meta智能眼镜在亚马逊、百思买及Meta官方渠道参与促销，初代款起售价224.25美元，直降74美元，价格创历史新低。",
+      "summary_original": "If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs through May 26th, the original model is on sale starting at $224.25 ($74 off) at Amazon, Best Buy, and directly from Meta, matching [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T19:44:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6196cc24",
+      "title": "美官员称沙特阿拉伯与阿联酋对伊朗实施秘密袭击",
+      "title_original": "Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say",
+      "summary": "美国官员披露，沙特阿拉伯与阿联酋已对伊朗实施秘密袭击。此前相关战争明确显示，美国对海湾阿拉伯国家的安全保障存在局限性，海湾阿拉伯国家正设法摸索有效遏制伊朗的可行方案。",
+      "summary_original": "The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-14T19:37:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a7e4348",
+      "title": "据报道OpenAI拟对苹果提起诉讼 苹果并非首次令合作方利益受损",
+      "title_original": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "OpenAI与苹果合作整合ChatGPT，却未获得预期的订阅用户量与曝光度，OpenAI对此极为不满，目前正积极研究对这家iPhone制造商提起法律诉讼，这并非苹果首次损害合作方利益。",
+      "summary_original": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T19:12:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a7e4348",
+      "title": "据报OpenAI拟起诉苹果，苹果并非首个与其合作触礁的伙伴",
+      "title_original": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "OpenAI与苹果合作整合ChatGPT功能，项目落地后并未给OpenAI带来预期的订阅用户量与曝光关注度，OpenAI对此极为不满，目前正积极探索对苹果提起法律诉讼。",
+      "summary_original": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T19:12:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2c05eee6",
+      "title": "Clawdmeter可将Claude Code使用统计转换为小型桌面仪表盘",
+      "title_original": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "一款面向AI编码高阶用户的全新开源小工具Clawdmeter正式推出，它可将Claude Code的使用统计数据转换为小型桌面仪表盘，方便相关用户直观查看掌握自身的Claude Code使用情况，满足高级用户的使用管理需求。",
+      "summary_original": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T19:05:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2c05eee6",
+      "title": "Clawdmeter将Claude Code使用数据转化为小型桌面仪表盘",
+      "title_original": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "一款面向AI编码高级用户的全新开源工具Clawdmeter正式推出，能够将Claude Code的使用统计数据，转换为可放置在桌面的小型仪表盘，方便这类用户随时直观查看自身的AI编码工具使用情况。",
+      "summary_original": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-14T19:05:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d38fa000",
+      "title": "微软开始取消Claude Code授权",
+      "title_original": "Microsoft starts canceling Claude Code licenses",
+      "summary": "去年12月微软首次开放权限，邀请数千名内部开发者日常使用Anthropic开发的AI编程工具Claude Code，该举措原本旨在推动项目经理、设计师等非开发岗员工首次尝试编码，目前知情消息称微软已开始取消这款工具的相关授权。",
+      "summary_original": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d38fa000",
+      "title": "微软开始取消Claude Code授权许可",
+      "title_original": "Microsoft starts canceling Claude Code licenses",
+      "summary": "微软去年12月起向内部数千名开发人员开放AI编码工具Claude Code的使用权限，该工具由Anthropic开发，开放初衷是推动项目经理、设计师等非开发岗位员工首次尝试编码，目前微软已开始取消该工具的相关授权。",
+      "summary_original": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-14T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "16086591",
+      "title": "Linux开发者反对新型年龄限制互联网",
+      "title_original": "Linux devs are fighting the new age-gated internet",
+      "summary": "1月，美国科罗拉多州议员提出SB26-051法案，要求操作系统收集用户年龄并同步给应用开发者。该法案针对iOS、安卓这类商业平台，属于通过用户设备设置互联网年龄门槛的多项方案之一，此举引发Linux开发群体反对。",
+      "summary_original": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It was intended to provide information that would let [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-14T18:58:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5b51a4e6",
+      "title": "用户每月在电视端观看YouTube Shorts累计达20亿小时",
+      "title_original": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "summary": "短视频原本专为移动端场景打造，YouTube数据显示，用户每月在电视端观看平台Shorts短视频的累计时长已达20亿小时。这一看似违背直觉的结果，表明YouTube短视频如今在电视大屏端也愈发受到用户欢迎。",
+      "summary_original": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-14T18:56:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba58d38a",
+      "title": "英国改革党领袖奈杰尔·法拉奇称500万英镑馈赠是脱欧“奖赏”",
+      "title_original": "Nigel Farage, Leader of Reform UK, Says £5 Million Gift Was ‘Reward’ for Brexit",
+      "summary": "奈杰尔·法拉奇是英国右翼民粹政党改革党的领袖，他此前曾对外表示，这笔500万英镑款项是用于个人安保的开支，近期他改口称，这笔他人给予的馈赠是对他推动英国脱欧的奖赏。",
+      "summary_original": "Nigel Farage, the leader of the populist right-wing party, had previously said the money was for personal security.",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-uk-farage-photo-thkb/14int-uk-farage-photo-thkb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/14/world/europe/nigel-farage-reform-uk-gift-brexit.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-14T18:50:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba499052",
+      "title": "莱福特谋划做空从散户投资者手中“抢糖”",
+      "title_original": "Left Pitched Short Sales to ‘Take Candy’ From Retail Investors",
+      "summary": "美国对香橼研究创始人安德鲁·莱福特的证券欺诈刑事审判中，控方出示的邮件显示，莱福特曾与对冲基金合谋计划做空个股，还吹嘘自己对散户的影响力，能让他们像“从婴儿手中抢糖”一样轻松获利。",
+      "summary_original": "Citron Research founder Andrew Left coordinated with hedge funds on stocks he planned to short and bragged his “hot voice” with retail investors meant they could “take candy from a baby,” according to emails presented at his criminal trial on US securities fraud charges.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i._MpcK_MAVQ/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-14/car-salesman-says-that-andrew-left-s-short-reports-scared-him",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-14T18:48:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e6bf0594",
+      "title": "‘堪称奇迹’：飞行员迫降大西洋后11人获救",
+      "title_original": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
+      "summary": "一架飞机飞行员在大西洋迫降，机上共11人，幸存者在救生筏上滞留约五个小时后，于佛罗里达州海岸外被美国空军成功营救，全部生还，这一全员获救的结果被称作“近乎奇迹”。",
+      "summary_original": "The survivors spent about five hours on a life raft before being rescued by the US Air Force off Florida's coast.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a590/live/83121030-4fb5-11f1-89a3-d1f559421220.jpg",
+      "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-14T18:38:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c4acbc0e",
+      "title": "零日漏洞可完全攻破Windows 11默认BitLocker保护",
+      "title_original": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "summary": "可完全攻破Windows 11系统默认BitLocker保护的零日漏洞被曝出，目前该漏洞的具体运作原理尚不明确，暂无更多细节公开，微软官方表示已针对该漏洞相关情况展开调查。",
+      "summary_original": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-05-14T18:32:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cde71901",
+      "title": "韦斯·斯特雷廷辞职 呼吁发起领导人选举更换斯塔默",
+      "title_original": "Wes Streeting Resigns and Calls for Leadership Contest to Replace Starmer",
+      "summary": "英国首相基尔·斯塔默目前或将至少面对两名党首职位挑战者，一名是周四宣布辞职的卫生大臣韦斯·斯特雷廷，另一名是人气颇高的曼彻斯特市长。斯特雷廷辞职后，已呼吁发起领导人选举以替换斯塔默。",
+      "summary_original": "Prime Minister Keir Starmer now appears set to face at least two possible challengers: his health minister, who resigned Thursday, and the popular mayor of Manchester.",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/xxint-uk-streeting-hbzm/xxint-uk-streeting-hbzm-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-14T18:18:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "43758736",
+      "title": "船只扣押后局势升温 伊朗允许中国船只通过霍尔木兹海峡",
+      "title_original": "Iran Lets Chinese Ships Through Strait of Hormuz Amid Rising Tensions After Vessel Seizure",
+      "summary": "霍尔木兹海峡因此前发生的船只扣押事件局势持续升温，据伊朗新闻机构报道，在中国对伊朗开展外交沟通之后，伊朗已允许部分中国船只通过这一关键国际航道，此次放行引发外界关注。",
+      "summary_original": "Iranian news agencies said some Chinese ships were being allowed through the strait, following diplomatic outreach to Iran from Beijing.",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-14T17:52:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5371ed52",
+      "title": "战犯拉特科·姆拉迪奇出狱申请遭驳回",
+      "title_original": "War criminal Ratko Mladić's jail release request denied",
+      "summary": "现年84岁的战犯拉特科·姆拉迪奇提出出狱申请，一名联合国法官审理时，虽承认姆拉迪奇已进入生命最后阶段，但仍驳回其申请，强调海牙监狱的现有条件已能够为其提供最大程度的舒适保障。",
+      "summary_original": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b31a52a0-456b-11f1-978c-1335807b5925.jpg",
+      "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-14T17:45:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "826e85f4",
+      "title": "用这张地图查找你家附近的数据中心",
+      "title_original": "Use this map to find the data centers in your backyard",
+      "summary": "俄勒冈州居民伊莎贝尔听闻谷歌在本州占用公共土地修建数据中心，当地围绕数据中心流传大量不实信息，谷歌也否认占用涉事土地。为方便公众掌握住所周边的数据中心分布，可借助这张地图查找家附近的数据中心。",
+      "summary_original": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-14T17:40:00+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "543fd574",
+      "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+      "summary": "由多位前大疆核心成员联合创立的消费级桌面CNC与智能数字制造平台无限工坊，近日宣布获得美团战投、昆仑资本、奇绩创坛投资的近亿元融资，本轮资金将用于产品研发、供应链建设及量产交付。该项目瞄准创客群体需求，计划长期打造个人创造生态。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cc59f450"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "cc59f450",
+          "source": "36氪",
+          "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+          "link": "https://36kr.com/p/3809919654403587?f=rss",
+          "published_at": "2026-05-15T02:11:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T02:11:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec4c0da4",
+      "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+      "summary": "2026年上半年，具身智能成为当前最热门的创投赛道。数据显示，该赛道今年前四个月已完成超200笔融资交易，累计融资总规模超过550亿元，大量资本涌入印证了具身智能赛道的发展潜力，是当前资本关注度最高的领域之一。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260515/v2_48c284e812634e21a99cbb00b99468a4@5688585_oswg5167752oswg800oswg11142_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "015cfd53"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "015cfd53",
+          "source": "36氪",
+          "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+          "link": "https://36kr.com/p/3809911566704388?f=rss",
+          "published_at": "2026-05-15T02:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T02:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1189fbd6",
+      "title": "特朗普奉承讨好，习近平坚定果决，差异耐人寻味",
+      "summary": "不同于特朗普此前在国内发表的对华言论，特朗普在与中国国家领导人习近平接触时，措辞偏向和解。外界观察认为，互动中特朗普尽显奉承姿态，习近平立场坚定果决，二者的表现差异耐人寻味。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14INT-PREXY-SANGER-bfcq/14INT-PREXY-SANGER-bfcq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "eeb7bb2c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "eeb7bb2c",
+          "source": "NYTimes World",
+          "title": "特朗普奉承讨好，习近平坚定果决，差异耐人寻味",
+          "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+          "published_at": "2026-05-15T01:59:11+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:59:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3cf0893f",
+      "title": "印度四年来首次上调汽油柴油价格",
+      "summary": "印度国有燃油零售商本周五上调汽油与柴油价格，这是印度四年来首次上调燃油价格。此次调价将有助于抑制燃油需求，同时减少销售方在燃油销售业务中产生的亏损。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD9_2qhZfPts/v1/1200x-1.jpg",
+      "article_ids": [
+        "15ed521f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "15ed521f",
+          "source": "Bloomberg",
+          "title": "印度四年来首次上调汽油柴油价格",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-15/indian-state-retailers-hike-petrol-diesel-prices-by-inr3-liter",
+          "published_at": "2026-05-15T01:55:26+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:55:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d5d763a9",
+      "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+      "summary": "阿里巴巴2026财年第一季度同口径营收同比增长11%，云业务尤其AI云保持高增速，因处于转型投入期多数利润指标表现不佳。管理层披露AI云商业化明确增长目标后，阿里美股盘后由跌转涨，外卖大战已趋平缓，淘宝闪购转向实现盈利目标。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bbe2365b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "bbe2365b",
+          "source": "36氪",
+          "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+          "link": "https://36kr.com/p/3807527591058948?f=rss",
+          "published_at": "2026-05-15T01:25:50+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:25:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f575d4f4",
+      "title": "日元一周连跌 交易员警惕日本干预汇市",
+      "summary": "本周日元兑美元下跌1%，汇率已跌至1美元兑换158日元。受此轮连续一周的下跌走势影响，汇市交易员对于日本政府可能进一步出手干预汇市的风险，警惕程度正持续上升。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLyHMyDxUplM/v2/1200x-1.png",
+      "article_ids": [
+        "4e04c0d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4e04c0d0",
+          "source": "Bloomberg",
+          "title": "日元一周连跌 交易员警惕日本干预汇市",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-15/yen-s-week-long-slide-puts-traders-on-guard-for-intervention",
+          "published_at": "2026-05-15T01:21:37+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:21:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "80ad1a40",
+      "title": "格里尔称美国预计中国将大规模采购美国农产品",
+      "summary": "美国贸易代表杰米森·格里尔表示，在美国总统特朗普与中国国家主席习近平在北京的峰会即将结束之际，美方预计中国将承诺采购数十亿美元的美国农产品，采购规模十分可观。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVSKUoB8T5H0/v0/1200x-1.jpg",
+      "article_ids": [
+        "2f176333"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2f176333",
+          "source": "Bloomberg",
+          "title": "格里尔称美国预计中国将大规模采购美国农产品",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-15/us-expects-dramatic-agricultural-purchases-by-china-greer-says",
+          "published_at": "2026-05-15T01:18:27+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:18:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a5a21a1",
+      "title": "格里尔：对华贸易再平衡取得诸多成功",
+      "summary": "美国贸易代表杰米森·格里尔在北京接受彭博社记者安玛莉·霍登采访时表示，特朗普与习近平的元首会晤迄今已取得切实成果，推进对华贸易再平衡收获诸多成效，相关报道来源为彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJrRlZ0O9ZJU/v3/1200x-1.jpg",
+      "article_ids": [
+        "76e0d782"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "76e0d782",
+          "source": "Bloomberg",
+          "title": "格里尔：对华贸易再平衡取得诸多成功",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-15/greer-a-lot-of-success-in-rebalancing-trade-with-china-video",
+          "published_at": "2026-05-15T01:16:13+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:16:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "65072ae6",
+      "title": "第三届东北图书交易博览会在长春开幕 - 新华网",
+      "summary": "第三届东北图书交易博览会在长春开幕，展会聚焦推动文化产业发展，设有抗联精神相关文化传播内容，吉林市展区通过非遗互动、企业推介展现江城特色，《“悦见内蒙古口袋书”系列》获评本届展会“最美图书”。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "39f3975e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "39f3975e",
+          "source": "Google News (中国)",
+          "title": "第三届东北图书交易博览会在长春开幕 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdSdnlxMHdlLUhva050Uk1uOGdTRmNSZXEzWnhxc3Y1Yk5KbThiUFdvMGxEQ3lQUHl2QnBZeXl1X1FwOFp0ZjlMRE5yVjNPdFBiNHQ4N1dmTzZMVXF4SUJzM0FqVEZGWmpfVFZXZUVXUmZPZEhHWXpldUl3VDJmZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-15T01:08:21+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:08:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c51f2b0",
+      "title": "教育部部长怀进鹏在2026世界数字教育大会上的主旨演讲（全文） - 教育在线",
+      "summary": "2026世界数字教育大会召开，大会聚焦“人工智能+教育”，围绕未来教育新样态展开探讨。中国教育部部长怀进鹏在会上发表主旨演讲，会议展出了智能眼镜助力田间教学等中国数智教育成果。多国教育界人士认为，数字教育国际合作势在必行。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "032f6b31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "032f6b31",
+          "source": "Google News (中国)",
+          "title": "教育部部长怀进鹏在2026世界数字教育大会上的主旨演讲（全文） - 教育在线",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51c21SbW00NThvam9jU2RqbC1HYkY2WGFuTWZ1aDhIUV9BTFFlUXNzbEptQ1hja1JQS21oNEJ4aGsteXBhX2RuaXBfMGZBb3dHRnRqM3dZRWROQW0wZUN0OUVFNlYwc2Vq?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-15T01:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a70c6160",
+      "title": "古巴称能源危机恶化之际中情局局长访问哈瓦那",
+      "summary": "当前古巴能源危机正持续恶化，有消息称美国中央情报局局长到访古巴首都哈瓦那。此次访问发生在美国重新提出愿意提供援助，以缓解美国对古巴实施石油封锁造成的不利影响之后。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg",
+      "article_ids": [
+        "70605a0b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "70605a0b",
+          "source": "BBC World",
+          "title": "古巴称能源危机恶化之际中情局局长访问哈瓦那",
+          "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-15T01:04:20+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T01:04:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "daa568ef",
+      "title": "格里尔：美中有意延续贸易停火",
+      "summary": "美国贸易代表贾米森·格里尔在北京美中峰会期间，接受彭博社《彭博：亚洲贸易》节目独家采访。他对美中贸易关系趋稳表示谨慎乐观，称双方在农产品采购、稀土供应方面取得进展，但关税与供应链问题仍然存在。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZjiewtjB9rs/v3/1200x-1.jpg",
+      "article_ids": [
+        "e50fc127"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e50fc127",
+          "source": "Bloomberg",
+          "title": "格里尔：美中有意延续贸易停火",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-15/greer-us-china-willing-to-continue-trade-truce-video",
+          "published_at": "2026-05-15T00:59:06+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T00:59:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83d654e2",
+      "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
+      "summary": "公众号「职场Bonus」推出对知名营销人小马宋的独家对谈。出身山东农村的小马宋，从理工跨行进入广告行业，深耕营销行业二十余年，历经职业辗转后创立个人营销咨询品牌。访谈中他分享了自身成长经历，也就行业新人发展、AI冲击等问题给出专业建议。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260428/v2_d406189332844b8a841c4265a717b64a@5509299_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b3a13652"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b3a13652",
+          "source": "36氪",
+          "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
+          "link": "https://36kr.com/p/3807543008698118?f=rss",
+          "published_at": "2026-05-15T00:53:09+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T00:53:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f57b0e33",
+      "title": "北京迎来今年首个“30摄氏度+”，北方为何突然热起来？ - 新华网北京",
+      "summary": "北京迎来今年首个30摄氏度以上的高温天气，针对北方此次突发升温的情况，新华网北京推出相关报道，聚焦本次异常天气变化，探究北方突然升温的原因，用户可前往Google新闻查看更多相关头条新闻与观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "967d4ad5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "967d4ad5",
+          "source": "Google News (中国)",
+          "title": "北京迎来今年首个“30摄氏度+”，北方为何突然热起来？ - 新华网北京",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdG1ELTBhTTJkTkVFQm1wRkZUcDdsV3IxN2JIM1BKNFlHQUNDWF9TdmFOa3lkVFNfSFV6MC1fSHRJQUlRUXJYX0dUUmZqWHdfVVd3MGZEZFh0bG8ydldqRnZadEJQWVFIcTU2SEQ4dFJPRWFjci1tNmV6SjVKWWstazFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-15T00:50:39+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T00:50:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "202f499a",
+      "title": "习近平同美国总统特朗普会谈 - 中国共产党新闻网",
+      "summary": "美国总统特朗普访华期间，中国国家主席习近平在北京人民大会堂为特朗普举行欢迎国宴，并同美国总统特朗普举行会谈。此次“习特会”引发中外媒体关注，中国共产党新闻网、新华网、光明网以及美国之音、纽约时报中文网等多家中外媒体都推出了相关报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d167e121"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d167e121",
+          "source": "Google News (中国)",
+          "title": "习近平同美国总统特朗普会谈 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uLXpTbDRNMGZPdF9KNGM0WG5UMFBsa2p1YlpodE1Cc2dSa2tXMnNKVXdfTEhodGtmb0hMNVJ0UFpNcnhrVEw4Zm5XQzctYmRod0xOWlhGVXVOQV82TEQyOFRwQ0gxTGxFM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-15T00:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-15T00:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cee7792c",
+      "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
+      "summary": "本期热点涵盖多领域动态：韩国一季度未成年人股票新开户数同比暴涨近十倍；周大福回应金饰涨价称本次调价仅涉及极小部分产品；张雪机车因机油泵供油问题暂停820RR生产交付，此外机票燃油附加费5月16日起上调，国铁推出老年旅客淡季周中购票9折优惠。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ce11fa04"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "ce11fa04",
+          "source": "36氪",
+          "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
+          "link": "https://36kr.com/p/3809785128869641?f=rss",
+          "published_at": "2026-05-14T23:57:02+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T23:57:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b586b4e3",
+      "title": "中美元首北京会晤达成重要共识！ - 中华网",
+      "summary": "中美元首在北京举行会晤，双方达成重要共识，此次会晤明确了引领中美关系发展的新定位，引发境内多家主流媒体关注报道。多家媒体评论指出，中美加强对话合作，能够更好共同应对全球性挑战，此次会晤为中美关系发展锚定了方向，具有重要意义。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4ae14868"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4ae14868",
+          "source": "Google News (中国)",
+          "title": "中美元首北京会晤达成重要共识！ - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNkl0ajVEdFZ4QU8ycElOTXhEVTNVOUpCcEQ1QXd4a28wOU5Od2FJTF9yYkpfUGdYNDhqY3lZTjhEVGlpTlVDel9ZQURsOGlpNGJySDV3aGpZOF9pR2c1c1B4ZnRjd1Z4R1JCLVVHd1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-14T23:33:18+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T23:33:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a385bb38",
+      "title": "广东省珠海市珠海市气象台发布雷雨大风黄色预警信号 - 中央气象台",
+      "summary": "中央气象台及地方气象台发布多类气象预警，广东珠海发布雷雨大风黄色预警，江门新会发布雷雨大风红色预警；今明两天福建、重庆、河南等多地有大到暴雨，内蒙古、陕黔桂粤等地局地将有8级以上雷暴大风或冰雹，明起新一轮大范围降雨上线。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e35f30d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e35f30d3",
+          "source": "Google News (中国)",
+          "title": "广东省珠海市珠海市气象台发布雷雨大风黄色预警信号 - 中央气象台",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhR3ktc3dIMnY2c2xIZHpYSkhJelU2V3k0c0FvNGwwbFppNmJncHA4U25JeXVJbVVqa2VwLXpORVVaTTAxTy1rRk9Lb01fNERtUjJvRm1EZmZNOEJadERvTkw1bWRvaVkzTURkUVM4eU1mQkYwWmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-14T23:23:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T23:23:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4f01d1d8",
+      "title": "法国世界报 - 北京盛大接待特朗普的同时，也对其发出严厉警告 - RFI",
+      "summary": "多家境内外媒体聚焦中美元首北京会晤，特朗普访华期间中方给予其盛大接待，同时习近平就台湾问题向美方发出严厉警告，该议题成为此次峰会的紧张焦点。会晤中，中美就双边关系等重大问题交换意见，中方明确了对台相关问题上的一贯立场。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cdd5cde5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cdd5cde5",
+          "source": "Google News (中国)",
+          "title": "法国世界报 - 北京盛大接待特朗普的同时，也对其发出严厉警告 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNOXFRS3U5V21STzd2OHB0SDJOZU83RVl1Q0NGWEFTVFZtZWFXeV9VX2dINmtnYU9TNnZHLVR3ekZtQ0tqXzVBdTFhbHcwSENlbUhQczE0OVA0VllkYUs5SVdIaEMzMy1ZVWhTMG9tSkZjZ000VE4tUkNkWko0OFhWOEpLdnFIWUgxMWNpMXhzblE3dkd4RkNKTndBM0pCTUxCa1ZuTFI0MkxLVmxpaG15dVNhekZ2UDAyOXNqLUpZdjB2YmItb3hfcXhwNHNEX1ZERXRwQkMzS1d6VlFfT0R3SGhTNmNiWWV1VEc1TW51a1ljMnhzZ3VDWUFSTjFLX2JqcVVzOWZ3Z1BfeXUzaEpLS241MzRVTlpVZG05djZ3blFqWUpJSDZaVTBDYVFaZDB0MFhKbHpSc3FWNEdTczhydzVBS0FrcUlUUUt4UFdWeXhCUFAzUjVrX2tDSGZIc2pMZkRDX1Q0Tlk3YXdTRnM2Q0YydFRTSWhlTVp5SV9maE5QT3Z6NDJqLUstZS1SeHhLbGY4SXl4ZFBuR3RPaUVpNGM4dEVVdDdjdTlwYkpTUEFjWVlGSGVrNGlPNWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-14T23:13:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T23:13:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "874032ae",
+      "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将裁定什么",
+      "summary": "埃隆·马斯克起诉萨姆·奥尔特曼的案件，是本年度影响力最大的科技界司法案件，备受全球科技行业关注。相关内容将梳理这桩顶级科技大案的整体脉络，聚焦该案中陪审团实际需要作出裁定的核心事项。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "17ff85e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "17ff85e1",
+          "source": "TechCrunch",
+          "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将裁定什么",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "published_at": "2026-05-14T22:47:51+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:47:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "874032ae",
+      "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将作何裁决",
+      "summary": "埃隆·马斯克与萨姆·奥尔特曼的诉讼是本年度科技领域影响力最大的司法案件，本次内容围绕这桩大案展开，梳理澄清陪审团实际需要裁决的具体事项，帮助理清这桩科技圈顶流官司的核心脉络。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "17ff85e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "17ff85e1",
+          "source": "TechCrunch AI",
+          "title": "埃隆·马斯克诉萨姆·奥尔特曼案：陪审团实际将作何裁决",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "published_at": "2026-05-14T22:47:51+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:47:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dbc765d6",
+      "title": "本田混动未来从全新雅阁、RDX原型车开启",
+      "summary": "本周，本田在年度业务发布会上公布两款全新混动车型原型车，分别为本田雅阁轿车与讴歌RDX SUV。两款车型基于全新平台打造，预计从明年起推出，RDX是本田首款搭载下一代双电机混动系统的SUV。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "78a22237"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "78a22237",
+          "source": "The Verge",
+          "title": "本田混动未来从全新雅阁、RDX原型车开启",
+          "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+          "published_at": "2026-05-14T22:46:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:46:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0055c53",
+      "title": "通胀推升加息预期 黄金将迎周线下跌",
+      "summary": "受战事推动，美国通胀出现大幅飙升，推升了市场对上调利率的预期。受此影响，黄金价格即将迎来小幅周度下跌，目前黄金正朝着周线收跌的方向运行，整体呈现周线下行趋势。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i53RGQ7kPUUM/v0/1200x-1.jpg",
+      "article_ids": [
+        "51df7181"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "51df7181",
+          "source": "Bloomberg",
+          "title": "通胀推升加息预期 黄金将迎周线下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/gold-heads-for-weekly-drop-as-inflation-fuels-rate-hike-bets",
+          "published_at": "2026-05-14T22:46:32+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:46:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4143044",
+      "title": "庭审结辩时刻",
+      "summary": "埃隆·马斯克诉奥特曼一案今日进行结辩陈词，马斯克方代理律师史蒂文·莫洛表现失常，发言结巴，不仅误将共同被告格雷格·布洛克曼错称为格雷格·奥特曼，还错误声称马斯克并未在本案中索要金钱赔偿。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1d0c2f9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1d0c2f9f",
+          "source": "The Verge",
+          "title": "庭审结辩时刻",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "published_at": "2026-05-14T22:21:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:21:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4143044",
+      "title": "庭审结案陈词",
+      "summary": "马斯克诉奥特曼一案今日进行结案辩论，原告马斯克的代理律师史蒂文·莫洛失误频发，发言磕磕绊绊，不仅错将共同被告格雷格·布洛克曼叫成格雷格·奥特曼，还错误声称马斯克未在本案中提出金钱索赔，整个环节状况百出混乱不堪。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1d0c2f9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "1d0c2f9f",
+          "source": "The Verge AI",
+          "title": "庭审结案陈词",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "published_at": "2026-05-14T22:21:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:21:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e331694",
+      "title": "股市创纪录涨势停滞 油价延续上涨：市场综述",
+      "summary": "受人工智能交易热潮推动，全球股市此前走出一波创纪录涨势，这一涨势目前在亚洲市场失去增长动能。油价延续上涨走势，推高了市场通胀预期，进而导致美国国债价格走低。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYi7Dfrf_.B0/v3/1200x-1.png",
+      "article_ids": [
+        "dbd541e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "dbd541e3",
+          "source": "Bloomberg",
+          "title": "股市创纪录涨势停滞 油价延续上涨：市场综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/asian-stocks-to-rise-as-ai-rally-spurs-wall-street-markets-wrap",
+          "published_at": "2026-05-14T22:06:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T22:06:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd5e051a",
+      "title": "<银河战士Prime 4：超越>迎来首次大幅降价",
+      "summary": "这款被称为任天堂Switch平台画质表现最出众的第一人称射击游戏，目前在百思买推出优惠，实体版直降20美元，到手价39.99美元。该作在2017款Switch硬件上表现亮眼，在Switch 2上运行效果更佳，额外付10美元即可享受升级体验。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d9aac3ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d9aac3ae",
+          "source": "The Verge",
+          "title": "<银河战士Prime 4：超越>迎来首次大幅降价",
+          "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+          "published_at": "2026-05-14T21:38:45+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T21:38:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "815791b6",
+      "title": "埃隆·马斯克旗下SpaceXAI合并后大量员工流失",
+      "summary": "据悉自2月以来，埃隆·马斯克新近完成合并的SpaceXAI已有超过50名员工离职。该事件引发外界多项疑问，涉及员工过劳、领导层变动、竞争对手挖角，以及流动性事件是否削弱了企业留才激励机制等问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a798c83d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a798c83d",
+          "source": "TechCrunch",
+          "title": "埃隆·马斯克旗下SpaceXAI合并后大量员工流失",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "published_at": "2026-05-14T21:30:44+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T21:30:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "815791b6",
+      "title": "埃隆·马斯克旗下SpaceXAI合并后人员大量流失",
+      "summary": "据报道，自今年2月起，埃隆·马斯克旗下刚完成合并的SpaceXAI已有超过50名员工离职。此次大规模人员流失引发诸多疑问，涉及员工职业倦怠、领导层变动、同行挖角，以及流动性事件是否削弱了人才留存激励等问题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a798c83d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a798c83d",
+          "source": "TechCrunch AI",
+          "title": "埃隆·马斯克旗下SpaceXAI合并后人员大量流失",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "published_at": "2026-05-14T21:30:44+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T21:30:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1804cb18",
+      "title": "Meta借助Meta雷朋显示眼镜向全体用户开放虚拟书写功能",
+      "summary": "Meta正为旗下Meta雷朋显示款智能眼镜推送多项全新功能，核心内容是面向所有用户开放仅靠手势编写信息的虚拟书写功能，该功能可支持多款社交应用以及安卓与iOS系统的原生消息应用。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4bac9feb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4bac9feb",
+          "source": "The Verge",
+          "title": "Meta借助Meta雷朋显示眼镜向全体用户开放虚拟书写功能",
+          "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+          "published_at": "2026-05-14T21:08:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T21:08:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6d7ae6c",
+      "title": "看呐，送给埃隆·马斯克的“蠢货奖杯”",
+      "summary": "在埃隆·马斯克起诉萨姆·奥特曼的案件审理中，陪审团尚未作出裁决，奥特曼团队拿出一个外观类似青少年联赛小奖杯的物品。承办法官要求律师向媒体当众读出奖杯刻字“永远做个蠢货”，该奖杯由OpenAI员工定制购买。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "17361221"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "17361221",
+          "source": "The Verge",
+          "title": "看呐，送给埃隆·马斯克的“蠢货奖杯”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+          "published_at": "2026-05-14T20:59:23+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:59:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6d7ae6c",
+      "title": "看呐，埃隆·马斯克的蠢货奖杯",
+      "summary": "埃隆·马斯克起诉萨姆·奥特曼一案庭审中，陪审团入场前，奥特曼一方呈上一件远看类似少年联赛小奖杯的物品。主审法官要求律师向媒体当众宣读奖杯铭文：“永远做个蠢货”，这座奖杯是OpenAI员工购置的纪念物。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "17361221"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "17361221",
+          "source": "The Verge AI",
+          "title": "看呐，埃隆·马斯克的蠢货奖杯",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+          "published_at": "2026-05-14T20:59:23+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:59:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0c302c31",
+      "title": "OpenAI宣布Codex将登陆手机端",
+      "summary": "OpenAI日前宣布，旗下Codex将正式登陆手机端。本次更新将为用户带来更强的工作流管理灵活性，方便用户根据自身需求调整安排工作流程，能够更好适配移动端办公等多场景的使用需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5cc6e708"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5cc6e708",
+          "source": "TechCrunch",
+          "title": "OpenAI宣布Codex将登陆手机端",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "published_at": "2026-05-14T20:58:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:58:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0c302c31",
+      "title": "OpenAI称Codex将登陆手机端",
+      "summary": "OpenAI宣布Codex将登陆手机端，此次针对移动端的更新可为用户提供更强的使用灵活性，方便用户根据自身需求自主管理工作流程，能够更好适配移动端使用场景，满足用户随时随地开展相关工作的需求。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5cc6e708"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "5cc6e708",
+          "source": "TechCrunch AI",
+          "title": "OpenAI称Codex将登陆手机端",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "published_at": "2026-05-14T20:58:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:58:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1da52aa",
+      "title": "泄露图片曝光Xbox精英3手柄 带有神秘新按键",
+      "summary": "不久前小型Xbox云游戏手柄图片刚流出，巴西监管机构Anatel意外泄露了微软即将推出的Xbox精英3手柄图片，相关图片已由Tecnoblog发布。这款作为Xbox精英2手柄的继任产品，保留可互换方向键、背桨配置，还新增了两个神秘按键。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2f7c718f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2f7c718f",
+          "source": "The Verge",
+          "title": "泄露图片曝光Xbox精英3手柄 带有神秘新按键",
+          "link": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+          "published_at": "2026-05-14T20:52:19+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:52:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "49811584",
+      "title": "五名意大利人在马尔代夫洞穴潜水时遇难",
+      "summary": "五名意大利人在马尔代夫进行洞穴潜水时发生意外遇难，意大利方面透露，这起事故发生在水下50米深度，截至目前，马尔代夫当地救援人员仅找到一具遇难者的遗体。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg",
+      "article_ids": [
+        "8f92fa76"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8f92fa76",
+          "source": "BBC World",
+          "title": "五名意大利人在马尔代夫洞穴潜水时遇难",
+          "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-14T20:48:26+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:48:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e537117",
+      "title": "Lovable刚投资一家计划将vibe编码引入硬件领域的公司",
+      "summary": "硬件公司Atech完成80万美元种子轮前融资，投资方包括Lovable、a16z侦察基金、红杉侦察基金以及Nordic Makers，该公司核心发展方向为将vibe编码技术引入硬件领域。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "77e81fad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "77e81fad",
+          "source": "TechCrunch",
+          "title": "Lovable刚投资一家计划将vibe编码引入硬件领域的公司",
+          "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+          "published_at": "2026-05-14T20:43:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:43:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0a4ea3c3",
+      "title": "Cerebras IPO为Benchmark赚得数十亿美元 风投埃里克·维施里亚差点没赴会",
+      "summary": "风投机构Benchmark几乎从不投资硬件创业公司，十年前该机构投资人埃里克·维施里亚犹豫拖延，差点没同意出席Cerebras的融资推介会。如今Cerebras完成IPO，为Benchmark带来了数十亿美元收益。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1b48bd8b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1b48bd8b",
+          "source": "TechCrunch",
+          "title": "Cerebras IPO为Benchmark赚得数十亿美元 风投埃里克·维施里亚差点没赴会",
+          "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+          "published_at": "2026-05-14T20:23:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:23:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23d30106",
+      "title": "OpenAI的Codex现已接入ChatGPT移动端应用",
+      "summary": "OpenAI宣布将原本仅桌面端可用、可编写代码、操作电脑应用的AI工具Codex，开放给移动端ChatGPT用户使用。此前Anthropic旗下的Claude Code走红，OpenAI正加快布局追赶，为此砍掉了部分非核心开发项目。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "aef6c5b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "aef6c5b4",
+          "source": "The Verge",
+          "title": "OpenAI的Codex现已接入ChatGPT移动端应用",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+          "published_at": "2026-05-14T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23d30106",
+      "title": "OpenAI Codex现已接入ChatGPT移动应用",
+      "summary": "OpenAI原面向桌面端的AI工具Codex可编写代码、操作电脑端应用，目前已开放用户在手机端ChatGPT应用访问。在Anthropic旗下的Claude Code走红后，OpenAI正加快推进相关业务，在AI代码领域追赶竞品。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "aef6c5b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "aef6c5b4",
+          "source": "The Verge AI",
+          "title": "OpenAI Codex现已接入ChatGPT移动应用",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+          "published_at": "2026-05-14T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2b43a57",
+      "title": "当人工智能开始自我构建时会发生什么？",
+      "summary": "理查德·索切尔成立了估值达6.5亿美元的新创业公司，该公司计划打造一款可无限自主开展研究、实现自我升级改进的人工智能。索切尔坚称，该项目不会停留在构想阶段，最终会推出实际产品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "baafa407"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "baafa407",
+          "source": "TechCrunch",
+          "title": "当人工智能开始自我构建时会发生什么？",
+          "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "published_at": "2026-05-14T19:57:20+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:57:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2b43a57",
+      "title": "当人工智能开始自我构建时会发生什么？",
+      "summary": "企业家理查德·佐彻成立了估值达6.5亿美元的初创公司，该公司目标是打造一款可无限自主研究、自我改进的人工智能系统，理查德·佐彻坚称这款人工智能最终会落地推出实际产品。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "baafa407"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "baafa407",
+          "source": "TechCrunch AI",
+          "title": "当人工智能开始自我构建时会发生什么？",
+          "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "published_at": "2026-05-14T19:57:20+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:57:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ef8b180",
+      "title": "Meta夏季大促雷朋新款智能眼镜降至历史最低价",
+      "summary": "Meta开启夏季大促，这是其除黑色星期五外力度最大的促销活动，大促持续至5月26日。雷朋Meta智能眼镜在亚马逊、百思买及Meta官方渠道参与促销，初代款起售价224.25美元，直降74美元，价格创历史新低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8789edf4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8789edf4",
+          "source": "The Verge",
+          "title": "Meta夏季大促雷朋新款智能眼镜降至历史最低价",
+          "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+          "published_at": "2026-05-14T19:44:17+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:44:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d040e78a",
+      "title": "美官员称沙特阿拉伯与阿联酋对伊朗实施秘密袭击",
+      "summary": "美国官员披露，沙特阿拉伯与阿联酋已对伊朗实施秘密袭击。此前相关战争明确显示，美国对海湾阿拉伯国家的安全保障存在局限性，海湾阿拉伯国家正设法摸索有效遏制伊朗的可行方案。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6196cc24"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6196cc24",
+          "source": "NYTimes World",
+          "title": "美官员称沙特阿拉伯与阿联酋对伊朗实施秘密袭击",
+          "link": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+          "published_at": "2026-05-14T19:37:12+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:37:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02c94e41",
+      "title": "据报道OpenAI拟对苹果提起诉讼 苹果并非首次令合作方利益受损",
+      "summary": "OpenAI与苹果合作整合ChatGPT，却未获得预期的订阅用户量与曝光度，OpenAI对此极为不满，目前正积极研究对这家iPhone制造商提起法律诉讼，这并非苹果首次损害合作方利益。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3a7e4348"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3a7e4348",
+          "source": "TechCrunch",
+          "title": "据报道OpenAI拟对苹果提起诉讼 苹果并非首次令合作方利益受损",
+          "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+          "published_at": "2026-05-14T19:12:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:12:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02c94e41",
+      "title": "据报OpenAI拟起诉苹果，苹果并非首个与其合作触礁的伙伴",
+      "summary": "OpenAI与苹果合作整合ChatGPT功能，项目落地后并未给OpenAI带来预期的订阅用户量与曝光关注度，OpenAI对此极为不满，目前正积极探索对苹果提起法律诉讼。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3a7e4348"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "3a7e4348",
+          "source": "TechCrunch AI",
+          "title": "据报OpenAI拟起诉苹果，苹果并非首个与其合作触礁的伙伴",
+          "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+          "published_at": "2026-05-14T19:12:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:12:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a076145a",
+      "title": "Clawdmeter可将Claude Code使用统计转换为小型桌面仪表盘",
+      "summary": "一款面向AI编码高阶用户的全新开源小工具Clawdmeter正式推出，它可将Claude Code的使用统计数据转换为小型桌面仪表盘，方便相关用户直观查看掌握自身的Claude Code使用情况，满足高级用户的使用管理需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2c05eee6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2c05eee6",
+          "source": "TechCrunch",
+          "title": "Clawdmeter可将Claude Code使用统计转换为小型桌面仪表盘",
+          "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+          "published_at": "2026-05-14T19:05:01+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:05:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a076145a",
+      "title": "Clawdmeter将Claude Code使用数据转化为小型桌面仪表盘",
+      "summary": "一款面向AI编码高级用户的全新开源工具Clawdmeter正式推出，能够将Claude Code的使用统计数据，转换为可放置在桌面的小型仪表盘，方便这类用户随时直观查看自身的AI编码工具使用情况。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2c05eee6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "2c05eee6",
+          "source": "TechCrunch AI",
+          "title": "Clawdmeter将Claude Code使用数据转化为小型桌面仪表盘",
+          "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+          "published_at": "2026-05-14T19:05:01+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:05:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d3e6a57",
+      "title": "微软开始取消Claude Code授权",
+      "summary": "去年12月微软首次开放权限，邀请数千名内部开发者日常使用Anthropic开发的AI编程工具Claude Code，该举措原本旨在推动项目经理、设计师等非开发岗员工首次尝试编码，目前知情消息称微软已开始取消这款工具的相关授权。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d38fa000"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d38fa000",
+          "source": "The Verge",
+          "title": "微软开始取消Claude Code授权",
+          "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "published_at": "2026-05-14T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d3e6a57",
+      "title": "微软开始取消Claude Code授权许可",
+      "summary": "微软去年12月起向内部数千名开发人员开放AI编码工具Claude Code的使用权限，该工具由Anthropic开发，开放初衷是推动项目经理、设计师等非开发岗位员工首次尝试编码，目前微软已开始取消该工具的相关授权。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d38fa000"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "d38fa000",
+          "source": "The Verge AI",
+          "title": "微软开始取消Claude Code授权许可",
+          "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+          "published_at": "2026-05-14T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "671a07fe",
+      "title": "Linux开发者反对新型年龄限制互联网",
+      "summary": "1月，美国科罗拉多州议员提出SB26-051法案，要求操作系统收集用户年龄并同步给应用开发者。该法案针对iOS、安卓这类商业平台，属于通过用户设备设置互联网年龄门槛的多项方案之一，此举引发Linux开发群体反对。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "16086591"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "16086591",
+          "source": "The Verge",
+          "title": "Linux开发者反对新型年龄限制互联网",
+          "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+          "published_at": "2026-05-14T18:58:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:58:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eb6dbc7c",
+      "title": "用户每月在电视端观看YouTube Shorts累计达20亿小时",
+      "summary": "短视频原本专为移动端场景打造，YouTube数据显示，用户每月在电视端观看平台Shorts短视频的累计时长已达20亿小时。这一看似违背直觉的结果，表明YouTube短视频如今在电视大屏端也愈发受到用户欢迎。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5b51a4e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5b51a4e6",
+          "source": "TechCrunch",
+          "title": "用户每月在电视端观看YouTube Shorts累计达20亿小时",
+          "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+          "published_at": "2026-05-14T18:56:43+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:56:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d182e32",
+      "title": "英国改革党领袖奈杰尔·法拉奇称500万英镑馈赠是脱欧“奖赏”",
+      "summary": "奈杰尔·法拉奇是英国右翼民粹政党改革党的领袖，他此前曾对外表示，这笔500万英镑款项是用于个人安保的开支，近期他改口称，这笔他人给予的馈赠是对他推动英国脱欧的奖赏。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-uk-farage-photo-thkb/14int-uk-farage-photo-thkb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ba58d38a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ba58d38a",
+          "source": "NYTimes World",
+          "title": "英国改革党领袖奈杰尔·法拉奇称500万英镑馈赠是脱欧“奖赏”",
+          "link": "https://www.nytimes.com/2026/05/14/world/europe/nigel-farage-reform-uk-gift-brexit.html",
+          "published_at": "2026-05-14T18:50:41+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:50:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "58676b00",
+      "title": "莱福特谋划做空从散户投资者手中“抢糖”",
+      "summary": "美国对香橼研究创始人安德鲁·莱福特的证券欺诈刑事审判中，控方出示的邮件显示，莱福特曾与对冲基金合谋计划做空个股，还吹嘘自己对散户的影响力，能让他们像“从婴儿手中抢糖”一样轻松获利。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i._MpcK_MAVQ/v1/1200x-1.jpg",
+      "article_ids": [
+        "ba499052"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ba499052",
+          "source": "Bloomberg",
+          "title": "莱福特谋划做空从散户投资者手中“抢糖”",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-14/car-salesman-says-that-andrew-left-s-short-reports-scared-him",
+          "published_at": "2026-05-14T18:48:54+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:48:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8393aab5",
+      "title": "‘堪称奇迹’：飞行员迫降大西洋后11人获救",
+      "summary": "一架飞机飞行员在大西洋迫降，机上共11人，幸存者在救生筏上滞留约五个小时后，于佛罗里达州海岸外被美国空军成功营救，全部生还，这一全员获救的结果被称作“近乎奇迹”。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a590/live/83121030-4fb5-11f1-89a3-d1f559421220.jpg",
+      "article_ids": [
+        "e6bf0594"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e6bf0594",
+          "source": "BBC World",
+          "title": "‘堪称奇迹’：飞行员迫降大西洋后11人获救",
+          "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-14T18:38:42+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:38:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c177b19",
+      "title": "零日漏洞可完全攻破Windows 11默认BitLocker保护",
+      "summary": "可完全攻破Windows 11系统默认BitLocker保护的零日漏洞被曝出，目前该漏洞的具体运作原理尚不明确，暂无更多细节公开，微软官方表示已针对该漏洞相关情况展开调查。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "article_ids": [
+        "c4acbc0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "c4acbc0e",
+          "source": "Ars Technica",
+          "title": "零日漏洞可完全攻破Windows 11默认BitLocker保护",
+          "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+          "published_at": "2026-05-14T18:32:01+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:32:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f82fad3",
+      "title": "韦斯·斯特雷廷辞职 呼吁发起领导人选举更换斯塔默",
+      "summary": "英国首相基尔·斯塔默目前或将至少面对两名党首职位挑战者，一名是周四宣布辞职的卫生大臣韦斯·斯特雷廷，另一名是人气颇高的曼彻斯特市长。斯特雷廷辞职后，已呼吁发起领导人选举以替换斯塔默。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/xxint-uk-streeting-hbzm/xxint-uk-streeting-hbzm-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "cde71901"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "cde71901",
+          "source": "NYTimes World",
+          "title": "韦斯·斯特雷廷辞职 呼吁发起领导人选举更换斯塔默",
+          "link": "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html",
+          "published_at": "2026-05-14T18:18:32+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T18:18:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "038b0744",
+      "title": "船只扣押后局势升温 伊朗允许中国船只通过霍尔木兹海峡",
+      "summary": "霍尔木兹海峡因此前发生的船只扣押事件局势持续升温，据伊朗新闻机构报道，在中国对伊朗开展外交沟通之后，伊朗已允许部分中国船只通过这一关键国际航道，此次放行引发外界关注。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "43758736"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "43758736",
+          "source": "NYTimes World",
+          "title": "船只扣押后局势升温 伊朗允许中国船只通过霍尔木兹海峡",
+          "link": "https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html",
+          "published_at": "2026-05-14T17:52:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T17:52:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e83b1c9a",
+      "title": "战犯拉特科·姆拉迪奇出狱申请遭驳回",
+      "summary": "现年84岁的战犯拉特科·姆拉迪奇提出出狱申请，一名联合国法官审理时，虽承认姆拉迪奇已进入生命最后阶段，但仍驳回其申请，强调海牙监狱的现有条件已能够为其提供最大程度的舒适保障。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b31a52a0-456b-11f1-978c-1335807b5925.jpg",
+      "article_ids": [
+        "5371ed52"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5371ed52",
+          "source": "BBC World",
+          "title": "战犯拉特科·姆拉迪奇出狱申请遭驳回",
+          "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-14T17:45:39+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T17:45:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4871046c",
+      "title": "用这张地图查找你家附近的数据中心",
+      "summary": "俄勒冈州居民伊莎贝尔听闻谷歌在本州占用公共土地修建数据中心，当地围绕数据中心流传大量不实信息，谷歌也否认占用涉事土地。为方便公众掌握住所周边的数据中心分布，可借助这张地图查找家附近的数据中心。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "826e85f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "826e85f4",
+          "source": "The Verge AI",
+          "title": "用这张地图查找你家附近的数据中心",
+          "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+          "published_at": "2026-05-14T17:40:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-14T17:40:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
