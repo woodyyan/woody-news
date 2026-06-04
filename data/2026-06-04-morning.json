@@ -1,10 +1,738 @@
 {
   "date": "2026-06-04",
   "edition": "morning",
-  "updated_at": "2026-06-04T00:53:39.245915+08:00",
+  "updated_at": "2026-06-04T11:27:37.098478+08:00",
   "article_count": 60,
-  "cluster_count": 58,
+  "cluster_count": 60,
   "articles": [
+    {
+      "id": "d0e18bf0",
+      "title": "印度IT股因AI担忧重燃暴跌",
+      "title_original": "Indian IT Stocks Slump as AI Jitters Resurface",
+      "summary": "AI相关担忧情绪近期再度浮现，导致印度信息技术类股票出现暴跌。当前投资者仍远未确信印度IT板块已经触底，对该板块后续走势普遍持谨慎态度，整体投资信心不足，市场观望氛围浓厚。",
+      "summary_original": "Investors remain far from convinced that the sector has found a bottom.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ15AX23fMwo/v9/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-04/tcs-infosys-plunge-as-ai-fears-return-to-rattle-it-stocks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T02:40:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d1749fa6",
+      "title": "李宁需要库里，但库里更需要李宁",
+      "title_original": null,
+      "summary": "6月2日，NBA球星斯蒂芬·库里与李宁签下总价超4亿美元的十年代言合同，采用“高保底+销售分成+股权”的模式对标乔丹当年，双方将共建Curry Brand。这是李宁深耕篮球品类、布局全球化的重磅动作，消息公布后李宁股价不涨反跌，这笔长期豪赌尚待市场验证。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260604/v2_2b3bac6fd08040368f965bd788b233d1@394564713_oswg50881oswg1071oswg567_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3838185031305474?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-04T02:39:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "55b02b37",
+      "title": "美国众议院投票叫停对伊战争，谴责特朗普",
+      "title_original": "US House votes to halt Iran war, in rebuke to Trump",
+      "summary": "美国众议院对叫停对伊朗战争的议案进行投票，最终以215票赞成、208票反对的结果通过该议案，四名共和党人加入民主党阵营投下赞成票。该议案此前三次推动均未成功，此次投票结果也是对特朗普的驳斥。",
+      "summary_original": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-04T02:24:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "18023f0e",
+      "title": "马来西亚富商陈志远通过资产出售减持成功集团持股",
+      "title_original": "Malaysian Tycoon Vincent Tan Cuts Berjaya Stake in Asset Sales",
+      "summary": "马来西亚富商陈志远出售价值1.15亿林吉特（约合2900万美元）的成功集团股票，本次出售是其一系列资产处置操作的延续，经过本轮减持后，他持有成功集团的股份比例已降至约15%。",
+      "summary_original": "Malaysian tycoon Vincent Tan sold 115 million ringgit ($29 million) worth of shares in conglomerate Berjaya Corp. Bhd., extending a series of disposals that have reduced his holding in the company to about 15%.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pI8Im062S0/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/malaysian-tycoon-vincent-tan-cuts-berjaya-stake-in-asset-sales",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T02:23:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a202041f",
+      "title": "动力设备厂商Innio投资方通过IPO募资24.3亿美元",
+      "title_original": "Power Equipment Firm Innio’s Backers Raise $2.43 Billion in IPO",
+      "summary": "燃气发动机制造商Innio控股有限公司的最大股东完成了规模上调后的首次公开募股，本次IPO的最终发行价定在预先给出的指导价格区间顶端，总共成功募得资金总额达24.3亿美元。",
+      "summary_original": "Gas engine manufacturer Innio Holding GmbH’s biggest shareholders raised $2.43 billion in an upsized initial public offering that priced at the top of the range.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihUs4SVgHkd8/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/power-equipment-firm-innio-s-backers-raise-2-43-billion-in-ipo",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T02:05:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d1419497",
+      "title": "特朗普称若有美士兵战死则考虑终止同伊朗停火 - 新华网",
+      "title_original": null,
+      "summary": "美国前总统特朗普就美伊停火一事作出重磅表态，称目前无意恢复与伊朗的全面战争，不会重启对伊朗的军事行动；若伊朗方面造成美军士兵战死，他将考虑终止当前美伊停火，重启对伊军事行动，这一表态已被多家媒体报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fbnQ0aE85Rkw0SzV6VWt2UWl1MVN4cjQ1MkphNjI2TFFFbDFaYzN0c3hoc2NRS3dncmZSZmNRdVp2SmY1MlVMcEpkZC1Cb0swd1NpaDNsdHNBRVJFQThyZ2J2UUExZmdDVm5laGZaSEpobXZ6MWhlaTNTSWVUY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T01:36:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0a99f031",
+      "title": "新西兰房屋建筑量跌至十年低点 房价陷入停滞",
+      "title_original": "New Zealand Home Building Hits 10-Year Low as House Prices Stall",
+      "summary": "受停滞的房地产市场与全球不确定性因素影响，新西兰市场对新建住宅以及房屋改造的需求出现下降，该国房屋建筑规模已跌至十年来的最低水平，目前新西兰房价也陷入停滞状态。",
+      "summary_original": "New Zealand home-building has slumped to a 10-year low as a stagnating housing market and global uncertainty hit demand for new dwellings and alterations.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWPUXI7Y7SsY/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/new-zealand-home-building-hits-10-year-low-as-house-prices-stall",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T01:36:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6bfcd1b0",
+      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
+      "title_original": null,
+      "summary": "深圳具身智能领域企业戴盟机器人完成亿元A轮融资，由汇川技术旗下汇川产投与中国电信联合投资，募集资金将用于打造超大规模物理交互数据集，加速物理世界模型研发。该企业聚焦视触觉融合感知技术，目前视触觉传感器出货量位居全球第一。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260603/v2_4ba21fa16c334f4f9da385d4fae9d9a5@6022551_img_gif?x-oss-process=image/quality,q_80",
+      "link": "https://36kr.com/p/3837269482091656?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-04T01:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "398ed96c",
+      "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+      "title_original": null,
+      "summary": "微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，本轮由深创投领投，天启资本与卓源亚洲跟投，资金将用于产品量产、产线建设及客户交付保障。该公司主打微型关节模组与空心杯电机，走差异化微型化技术路线，目前已具备量产能力，商业化取得实质性进展。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260604/v2_538618f320a445f080c6900287a5e6ab@6221844_oswg339620oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3837650456430851?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-04T01:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a9e2b32a",
+      "title": "参议院共和党人取消特朗普新白宫舞厅10亿美元拨款",
+      "title_original": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+      "summary": "美国参议院共和党人已砍掉特朗普提出的新白宫舞厅建设项目的10亿美元拨款。原本用于为移民机构提供资金的相关法案，因多方反对特朗普提出的“反武器化基金”，目前已被推迟。",
+      "summary_original": "The bill to fund immigration agencies has been delayed by opposition to Trump's 'anti-weaponisation fund'.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d1/live/2c466a40-5fa9-11f1-af92-19e0296632ef.jpg",
+      "link": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-04T01:18:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "044785a5",
+      "title": "德国将联合国安理会席位竞选的“惨痛失败”归咎于俄罗斯",
+      "title_original": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+      "summary": "德国政界人士约翰·瓦德富尔公开表示，俄罗斯因德国支持乌克兰，一直在煽动反对德国的情绪。德国在本次联合国安理会席位竞选中遭遇惨痛失败，德国方面正式将此次竞选失败归咎于俄罗斯。",
+      "summary_original": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/fd296c40-5fac-11f1-b5ab-a55eacf8090d.jpg",
+      "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-04T01:02:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cfcc9068",
+      "title": "韩元走弱 韩国承诺将对过度波动采取行动",
+      "title_original": "South Korea Vows Action in Case of Excessive Move as Won Weakens",
+      "summary": "近期韩元持续走弱，汇率已逼近2009年以来的最低水平，与此同时韩国债券收益率不断攀升，韩国政府明确表态，将采取必要措施遏制汇率市场过度波动，维护外汇市场稳定。",
+      "summary_original": "South Korea’s government pledged to curb excessive volatility as the currency approaches the lowest since 2009 and as bond yields climbed.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia2iVu6x6F88/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/krw-usd-south-korea-vows-action-in-case-of-excessive-move-as-won-weakens",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T00:58:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "818a0593",
+      "title": "伊春市市场监督管理局：坚守食安底线多维发力守护考生“舌尖安全” - 伊春市人民政府",
+      "title_original": null,
+      "summary": "高考临近，伊春市市场监督管理局多维发力，坚守食品安全底线，守护考生“舌尖安全”。同时，多地疾控机构与医学专家提醒，高考备考饮食要以“稳”为主，保持日常饮食常态，切勿盲目进补、随意更换食谱，应科学饮食助力考生备考。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QajNWdFpqc2M2dFROVDBYZTFvZ1pLMkZxNDlxQTRQQnpKWFduYkpwQ0lKRjJUX1RVeVpHenNMNEY2VHFWMzhwTi1ic2lrdXRydEtkbVNlVFozVTRGcjdtT3gtQ2gxRWxM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:55:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0207caa8",
+      "title": "深入学习贯彻习近平文化思想|促进文明交流互鉴 - hebcdi.gov.cn",
+      "title_original": null,
+      "summary": "hebcdi、新华网、中国青年网、光明网、新浪财经等多家平台，纷纷推出围绕深入学习贯彻习近平文化思想的相关报道，内容涉及激活中华文化生命力、引领文化传承发展开创新局、地方守护文化根脉筑牢精神根基等多个主题。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QeFpYMTBnUjVXSkcwTnF0X1ppYk1NWE10OFZhbFVwSDM3Vk45U3dKMEpJQmdGNHBlZTgweGFxSi1wRS1CUE1MekQybHpLNlkyQVJWbGdUYTBkOHRWZDNnSGVBYVBqZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:53:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5f776340",
+      "title": "襄阳百万吨“淋雨麦”这样抢烘干（三夏进行时·防汛保丰收） - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "三夏防汛保丰收阶段，全国小麦收获进度已过三成半，各地多举措推进麦收工作：湖北襄阳加紧抢烘百万吨“淋雨麦”，河南各地接力护航三夏农机手，山东济南迎来麦收，不少产区应用数字技术、智慧农机提升收麦效率，助力保障丰收。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YazQ2RElqLVRieW5Va2g3Y1IzQTl6ME9zUUxoQkxWVDdIdXdxclc3NXJfeUcxT3NWQVVoTmdoa3d4NF85YXJPM3RlZFhTVGdMaXl1YVFUbFUtYnByTnBjMTdJSHFlWThybmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:46:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d7f2afbf",
+      "title": "美国发现致命螺旋蝇寄生虫 威胁牛群",
+      "title_original": "Deadly Screwworm Parasite Found in US Threatens Cattle Herd",
+      "summary": "美国近十年来首次确认发现一种可感染牛的致命寄生虫。当前美国全国牛群数量已处于75年来的最低水平，该寄生虫的出现给本就规模低迷的美国牛群带来了新的威胁。",
+      "summary_original": "A deadly cattle parasite was confirmed in the US for the first time in nearly a decade, posing the latest threat to a US herd already at its lowest level in 75 years.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inMubyFhRUEI/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/deadly-screwworm-parasite-found-in-us-in-threat-to-cattle-herd",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T00:38:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b7bc8107",
+      "title": "人民之心｜一张泛黄发票的故事 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "人民网政治频道推出“人民之心”栏目相关内容，《一张泛黄发票的故事》依托一张承载特殊历史印记的老物件，挖掘背后的动人往事，回望党与人民风雨同行的奋斗历程，展现出始终扎根人民、不忘初心的使命担当与深厚情怀。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LUS1fNjRvdVZESGFzVVp5T3ZoYy01X0h5SFFJeEhSOVhqSXJ6aWFRanhQcXcwSHZ1d2Nta2k0N0FnaFJfOS0tdjBXT0hodGxBTWY4ZlJEM0kxNGVqSG9qWE9HRWsydUV6c19lcFhtZjI4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:33:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4d01e464",
+      "title": "快电商FirstClub九个月估值翻倍至2.55亿美元",
+      "title_original": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+      "summary": "总部位于印度班加罗尔的快电商初创企业FirstClub，成立九个月估值翻倍至2.55亿美元。该企业推出运营仅一年，订单量就突破100万单，年化商品交易总额达到5000万美元，展现出强劲增长态势。",
+      "summary_original": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-04T00:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "01b0443a",
+      "title": "平陆运河全线通水调试 - mot.gov.cn",
+      "title_original": null,
+      "summary": "世纪工程平陆运河已进入全线通水调试阶段，该工程将为西南地区开辟江海直连通道，助力西部陆海新通道建设，推动西部地区跑出高水平对外开放加速度，带动运河经济带蓄势起航。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb2tBTHRMZjdHNlRtNDVkM3hKQ2tXSlBBTUs0aDJUMnRKcG1UOW10S0VfcWRPTEY5Q1h3M2U4Z3BMS3NzaFFvbGVBTnJEOVMyb09sU0F1UlZGTXlmdk1lTUd0LUlZMTcwYXA5bHN5aXVBSnVOVUVkNVdLdTFLSUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:19:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3fa02902",
+      "title": "以色列与黎巴嫩同意若真主党停止袭击则实施停火",
+      "title_original": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "summary": "美国国务院发布相关消息称，以色列与黎巴嫩已就停火事宜达成共识，双方约定若真主党停止一切袭击行动便正式实施停火，两国同时明确拒绝任何国家或非国家行为体挟持黎巴嫩未来的企图。",
+      "summary_original": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-04T00:16:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "23b48bce",
+      "title": "普京的达沃斯，美国派代表团出席，乌克兰派无人机轰炸 - 凤凰网",
+      "title_original": null,
+      "summary": "2026年6月，普京将揭幕有“俄罗斯达沃斯”之称的活动，美国派代表团出席该活动，乌克兰出动无人机实施轰炸。中方官宣韩正将赴俄罗斯并访问白俄罗斯，当日外交部发言人毛宁主持例行记者会，有分析认为该活动或是缓释美俄关系的一次试探。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01ak0xWmNNTTRJb1hYckdzcVRPQnhqN1h6RHVPc3ZKZklNcFVlT2pVRW1BWkVxRlRZR1RfenN5XzFyYnFVZ0VFR1RJSUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-04T00:15:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8beeef1d",
+      "title": "任天堂确认将在欧盟发售可更换电池的新款Switch 2",
+      "title_original": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "summary": "任天堂计划在欧盟推出支持用户轻松更换电池的Switch 2硬件版本。该调整是为履行欧盟新法规规定的义务，这项新规将于2027年2月18日正式生效，任天堂已在官网声明正推进相关措施以符合法规要求。",
+      "summary_original": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-04T00:04:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d4513752",
+      "title": "富邑葡萄酒拟审查美国业务 股价飙升",
+      "title_original": "Treasury Wine Shares Surge on Review of US Operations",
+      "summary": "澳大利亚葡萄酒商富邑葡萄酒集团宣布，将对长期问题缠身的美国业务展开审查，并将聚焦巩固自身在奢侈品细分领域的地位，受该消息影响，公司股价创下六周来最大涨幅。",
+      "summary_original": "Shares in Australian vintner Treasury Wine Estates Ltd. jumped by the most in six weeks after it unveiled plans to review its long-troubled US operations and said it would focus on securing its position in the luxury segment.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC.k1RQbyCPk/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/treasury-wine-flags-lower-earnings-and-focus-on-luxury-market",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-04T00:04:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2e320c47",
+      "title": "印尼盾兑美元触及18000点位 市场关注央行干预",
+      "title_original": "Rupiah Hits 18,000 Level With Markets on Guard for Intervention",
+      "summary": "印尼盾兑美元汇率走弱，触及1美元兑换18000印尼盾这一市场关键心理关口，这一汇率变动引发市场高度关注，投资者正密切观望印尼央行是否会针对此次波动推出更强有力的干预应对措施。",
+      "summary_original": "The Indonesian rupiah weakened to the psychological level of 18,000 per dollar, putting investors on watch for a stronger response from the central bank.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihgEQkJDRSWY/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-03/idr-usd-rupiah-near-18-000-level-has-markets-on-guard-for-intervention",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-03T23:57:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "89ecae7d",
+      "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+      "title_original": null,
+      "summary": "6月3日财经科技领域热点频出：A股联讯仪器盘中股价冲破2000元，成为A股开市以来第四只两千元股，硬科技属性鲜明；问界回应台州M9事故称事故为撞击异物导致，非车辆自身原因；马斯克因SpaceX即将IPO，身家有望突破万亿美元，另有多家银行下架长定期存款、AI领域多起新品融资等动态。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3838091144464644?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-03T23:53:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba1b79c1",
+      "title": "美众议院通过决议 限制特朗普对伊动武权力 - 中国网",
+      "title_original": null,
+      "summary": "美国众议院正式通过决议，明确对总统特朗普对伊朗动武的权力作出限制，这一时政消息由中国网发布，感兴趣的读者可前往Google新闻平台，查看更多与该事件相关的头条新闻以及各方观点",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43N1A1c0N1Nmxrcjd3MWduM3hUOU9XM09GSWlKelpVRy1GNFpjSzFlV3FuelNyUzl0YW5CUTUwRkRJWENwOTNEYTJKdkx5dFUzV0hFUTgtRktLWXRMN1BRMmRvLXl1QnA4RVJOZktlcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-03T23:37:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1fe21f8d",
+      "title": "消息人士称Lovable与谷歌云签署多年协议 将用量提升五倍",
+      "title_original": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "据消息人士透露，Lovable与谷歌签署了扩大合作范围的多年协议。根据协议内容，Lovable将把自身在谷歌云平台的使用规模扩大五倍，同时还将扩大对人工智能大模型Anthropic Claude的访问权限。",
+      "summary_original": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T22:56:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1fe21f8d",
+      "title": "消息人士称Lovable与谷歌云签署多年协议 拟将云使用量提升五倍",
+      "title_original": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "消息人士透露，Lovable已与谷歌云签署扩展合作的多年协议。协议约定，Lovable在谷歌云平台的使用规模将扩大五倍，同时Lovable还将获得更多权限，可访问使用Anthropic Claude。",
+      "summary_original": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-03T22:56:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bfc3f9e1",
+      "title": "市场综述：科技股拖累亚洲股指脱离纪录高点 油价下跌",
+      "title_original": "Asian Stocks Retreat From Record on Tech, Oil Dips: Markets Wrap",
+      "summary": "芯片制造商博通公司给出疲软业绩预测后，此前推动全球股市升至纪录新高的AI驱动行情丧失上涨动能，亚洲股市随美国股指期货走低，叠加油价回落，亚洲股指由此脱离此前创下的纪录高点。",
+      "summary_original": "Asian stocks fell alongside US equity-index futures as the AI-fueled rally that powered global equities to record highs lost momentum after a weak forecast from chipmaker Broadcom Inc.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.aMwwfDBt9E/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-03T22:04:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7dc8e909",
+      "title": "以色列与黎巴嫩达成有条件停火 油价下跌",
+      "title_original": "Oil Falls as Israel and Lebanon Agree to Conditional Ceasefire",
+      "summary": "此前油价已连续三日上涨，以色列与黎巴嫩达成有条件停火协议，协议要求真主党也停止敌对行动。该停火共识或将消除美国与伊朗谈判的一大关键症结，受此消息影响油价出现回落。",
+      "summary_original": "Oil slipped following three days of gains after Israel and Lebanon agreed to a ceasefire if Hezbollah also stops hostilities, which would remove a key sticking point in talks between Washington and Tehran.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEQRc8VmOwU/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-03T22:01:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1f48db6f",
+      "title": "能取则取：南海新现实",
+      "title_original": "Grab what you can while you can: The new reality in the South China Sea",
+      "summary": "南海近来出现新动向，多年来南海其他相关方一直观望中国通过填海造地支撑自身宽泛的主权主张，如今这些国家也开始效仿，纷纷在南海开展填海造地作业，形成了南海局势的全新现实。",
+      "summary_original": "After years of watching China create land to back its expansive claims, others are doing the same.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg",
+      "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-03T22:00:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ff49347e",
+      "title": "苹果公司本周将在得克萨斯州推行年龄验证",
+      "title_original": "Apple is bringing age verification to Texas this week",
+      "summary": "苹果将于6月4日周四起，在美国得克萨斯州的应用商店推出年龄验证机制。此前美国联邦上诉法院准许得克萨斯州《应用商店问责法案》在相关诉讼审理期间先行生效，该措施就在法案生效数天后推出，这一消息由科技媒体MacRumors率先披露。",
+      "summary_original": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T21:49:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "acb2baec",
+      "title": "WiiM推出新款条形音箱 拓展全屋生态",
+      "title_original": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "summary": "音频厂商WiiM打破了发烧级音频性能需高昂成本的固有认知，将于7月推出全新WiiM Bar条形音箱，以此拓展其全屋音频生态。该新品延续品牌路线，支持多种流媒体播放，具备可拓展性，定价亲民。",
+      "summary_original": "WiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T21:12:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "142f543b",
+      "title": "国防科技涌入海量资本，谁能长久立足？",
+      "title_original": "Defense tech is flooded with money, but who’s built to last?",
+      "summary": "当前国防科技领域热度高涨，安杜里尔估值翻倍，马赫工业估值涨至四倍，美国政府提议将国防预算提升40%，大量新兴初创企业争相竞标政府合同。曾给安杜里尔投出首笔资金的风投罗斯·富比尼认为，多数初创会折在原型合同后的“死亡谷”。",
+      "summary_original": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
+      "image": null,
+      "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T20:51:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f584d545",
+      "title": "特朗普与内塔尼亚胡“疯狂”通话令伊朗谈判复杂化",
+      "title_original": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "summary": "有消息曝出美国前总统特朗普与以色列总理内塔尼亚胡的一通“疯狂”通话，该事件令伊朗相关谈判进一步复杂化。内塔尼亚胡对双方产生分歧的传闻一笑置之，但他过往的行事早已透支了多任美国总统的耐心。",
+      "summary_original": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-03T20:28:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc3eba8c",
+      "title": "德国、菲律宾落选---奥地利、葡萄牙、吉尔吉斯斯坦等五国当选安理会非常任理事国 - UN News",
+      "title_original": null,
+      "summary": "联合国安理会非常任理事国选举结果出炉，奥地利、葡萄牙、吉尔吉斯斯坦等五国成功当选，参与角逐的德国、菲律宾落选。本次部分席位竞争激烈，奥地利对阵德国、吉尔吉斯斯坦对阵菲律宾，其中吉尔吉斯斯坦是首次当选安理会非常任理事国。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbHAtUW41eHVjUjdmU3Z2MDc1S09MWmxVZjFsWUJkS0tvNTdueDFXak9GY1VPdVFJbG9lWmxlbTlEZDFZQ1N0bkRNeFptRUEwckNMSElfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-03T20:10:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eee42c55",
+      "title": "优步今年将部署500辆数据采集车上路",
+      "title_original": "Uber to put 500 data-collection vehicles on the road this year",
+      "summary": "出行服务商优步计划今年投入500辆数据采集车正式开展道路运营。这些经过改装的现代艾尼氪5车辆搭载了专用传感器，将为优步新成立的自动驾驶实验室部门采集研发所需数据。",
+      "summary_original": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T20:08:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "43753bda",
+      "title": "英伟达已规划N2X与N3X芯片 目标打造《星际迷航》式计算机",
+      "title_original": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+      "summary": "2026年台北国际电脑展上，英伟达首席执行官黄仁勋证实，RTX Spark并非一次性项目，英伟达不满足于仅试水消费级笔记本芯片市场，已规划至少两代后续新品N2X与N3X芯片，目标打造《星际迷航》中那样的高性能计算机。",
+      "summary_original": "Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark are [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T20:03:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1bbdc9b8",
+      "title": "看不懂Dashlane的密码库被盗通知？不止你一个",
+      "title_original": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "summary": "密码管理服务商Dashlane曝出密码库被盗事件后，发布的安全公告遗漏关键细节，无法解答用户疑问，不少用户都对这份通知摸不着头绪，Dashlane至今对相关情况保持完全沉默，未补充任何必要信息。",
+      "summary_original": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-06-03T19:53:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea445526",
+      "title": "字母表为谷歌AI业务破纪录募资850亿美元 释放极强利好信号",
+      "title_original": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "summary": "谷歌母公司字母表完成破纪录的850亿美元股票发售，为旗下谷歌人工智能业务募资。此举释放出明确信号，显示投资者对AI相关业务有着旺盛投资需求，当前市场对AI赛道投资热情高涨。",
+      "summary_original": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T19:38:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea445526",
+      "title": "Alphabet为谷歌AI业务筹得创纪录850亿美元 释放强劲利好信号",
+      "title_original": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "summary": "谷歌母公司Alphabet完成创纪录的850亿美元股票发售，募资将用于谷歌AI相关业务。此次大额募资顺利落地，体现出投资者对AI相关赛道投资需求旺盛，为AI产业发展释放出强烈积极信号。",
+      "summary_original": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-03T19:38:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "82c9447f",
+      "title": "Meta网开一面，未关停VR健身游戏《Supernatural》而是将其分拆",
+      "title_original": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+      "summary": "Meta此前开展大规模裁员后，旗下VR健身游戏《Supernatural》一度面临关停命运，引发该应用大量用户集体抗议。Meta最终听取了用户诉求，并未直接关停这款游戏，选择将其从原有业务中分拆独立。",
+      "summary_original": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T19:22:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a23f0327",
+      "title": "Substack全新\"回复规则\"功能允许创作者管控受众回复方式",
+      "title_original": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+      "summary": "内容订阅平台Substack推出全新\"回复规则\"功能，目前该功能已向平台内所有英文内容出版物开放。这一功能可赋予创作者更大的互动管理权限，让创作者自主管控受众的回复方式，满足创作者对内容互动区域的管理需求。",
+      "summary_original": "Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T19:08:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51fe822e",
+      "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+      "title_original": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary": "谷歌推出了一款迄今命名最为奇特的AI工具Dreambeans，该工具可将用户的日常生活转化为趣味卡通内容。它会提取用户谷歌账号中的个人数据，整理生成一系列由AI绘制插画的专属“故事”合集。",
+      "summary_original": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T19:07:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51fe822e",
+      "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+      "title_original": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary": "谷歌推出了迄今命名最奇特的AI工具Dreambeans，该工具会提取用户谷歌账户内的个人数据，基于这些数据生成由AI绘制的内容，最终整理为精选的个性化“故事”合集，可将用户日常生活转化为卡通内容。",
+      "summary_original": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-03T19:07:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "85fd2867",
+      "title": "适配苹果与安卓手机的最佳蓝牙追踪器",
+      "title_original": "The best Bluetooth trackers for Apple and Android phones",
+      "summary": "生活中一部分人向来条理清晰，从不丢东西，钱包、钥匙等物品总能待在正确位置，但多数人都常常遇到刚放好的东西转眼就找不到的情况，蓝牙追踪器正是为这类丢三落四的人群准备的实用工具。",
+      "summary_original": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, Bluetooth [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b7f368a4",
+      "title": "适用于iPhone与Pixel的最佳Qi2移动电源",
+      "title_original": "The best Qi2 batteries for iPhone and Pixel",
+      "summary": "过去一年，便携移动电源充电速度大幅提升，不止USB-C充电速度得到升级，最新Qi2.2认证款移动电源可为iPhone 16及更新机型提供最高25W无线充电，同时支持MagSafe磁吸吸附，适配iPhone与Pixel使用。",
+      "summary_original": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wirelessly charge an iPhone 16 or later at up to 25W. Combine that with their ability to magnetically snap on via MagSafe, and you’ve [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T18:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "29a9efb7",
+      "title": "AI愈发先进，暴露空诺本质",
+      "title_original": "As AI gets better, it reveals an empty promise",
+      "summary": "本周，两名记者先后上手体验谷歌新推出的Gemini AI智能体Spark，二人得出相近结论：它的能力强得令人不安。这款AI能获取体验者并未主动告知的私人信息，包括一名记者的爱犬名字、另一名记者妻子的名字。",
+      "summary_original": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-03T17:45:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "29a9efb7",
+      "title": "AI愈发强大，暴露空头承诺",
+      "title_original": "As AI gets better, it reveals an empty promise",
+      "summary": "本周，记者戴维·皮尔斯和杰伊·彼得斯上手体验谷歌新款Gemini人工智能智能体Spark，二人得出相近结论：这款人工智能效果出色得令人不安，它能在用户未主动告知的情况下，准确知晓体验者的爱犬名字、体验者妻子的名字等私人信息。",
+      "summary_original": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-03T17:45:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ed469302",
+      "title": "Ultrahuman称黑客通过内部工具获取客户健康数据",
+      "title_original": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+      "summary": "可穿戴智能戒指厂商Ultrahuman确认发生数据泄露事件，本次泄露源于一名员工的笔记本电脑感染恶意软件，账号登录凭证遭窃取，黑客借此通过内部工具获取了该品牌客户的健康数据。",
+      "summary_original": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T17:30:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "323290ae",
+      "title": "卡瓦纳计划开展新车销售 与贝佐斯支持的斯莱特汽车达成合作",
+      "title_original": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+      "summary": "据TechCrunch获取的文件显示，卡瓦纳去年就已获得收购斯莱特汽车股份的认股权证，古根海姆合伙人公司首席执行官马克·沃尔特对两家公司均有大额投资，卡瓦纳此次联手斯莱特汽车布局新车销售业务。",
+      "summary_original": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-03T17:25:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "75963495",
+      "title": "虚拟电厂如何可为数据中心供能",
+      "title_original": "How virtual power plants could provide energy for data centers",
+      "summary": "谷歌近日与Voltus达成新协议，将出资在美国最大电网建设一座虚拟电厂，探索虚拟电厂为数据中心供能的新模式。该项目将通过付费补偿用户主动下调用电需求，以此腾挪出电力供给当地数据中心。",
+      "summary_original": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-03T16:51:38+00:00",
+      "edition": "morning"
+    },
     {
       "id": "31f0a997",
       "title": "伊朗战事实时更新：科威特机场遭无人机密集袭击 致1死数十伤",
@@ -116,752 +844,1374 @@
       "lang": "en",
       "published_at": "2026-06-03T16:04:05+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "737b245b",
-      "title": "维多集团警告：汽油或成下一个面临供应短缺的燃料",
-      "title_original": "Vitol Warns Gasoline Could Be Next Fuel to Face Supply Crunch",
-      "summary": "石油贸易巨头维多集团表示，随着伊朗战事持续发酵，全球能源供应承压，汽油很有可能成为下一个面临巨大供应压力的石油产品，全球燃料市场将迎来新的供应短缺挑战，汽油供应短缺风险正持续上升。",
-      "summary_original": "Gasoline could be the next petroleum product to come under intense supply pressure as the Iran war rumbles on, according to oil trading giant Vitol Group.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iizbLn0uydJg/v1/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/vitol-warns-gasoline-could-be-next-fuel-to-face-supply-crunch",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T15:58:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d0737aad",
-      "title": "亚马逊将在部分搜索场景展示AI生成商品图片",
-      "title_original": "Amazon will show AI product images when you search for some reason",
-      "summary": "电商平台亚马逊将运用视觉搜索与人工智能技术，在用户搜索商品时，展示与搜索词匹配的AI生成商品图片。亚马逊方面表示，这项功能将帮助引导用户找到想要的商品。",
-      "summary_original": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T15:50:26+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d0737aad",
-      "title": "亚马逊将在部分搜索中展示AI生成商品图像",
-      "title_original": "Amazon will show AI product images when you search for some reason",
-      "summary": "电商平台亚马逊计划推出一项新功能，将结合视觉搜索与人工智能技术，生成匹配用户搜索需求的AI商品图，并在搜索结果页展示。亚马逊称该功能可以更好引导用户找到目标商品，提升搜索购物的体验。",
-      "summary_original": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-06-03T15:50:26+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "534daca6",
-      "title": "霍莉·金称私募信贷将面临“违约潮”",
-      "title_original": "Private Credit Faces ‘Pipeline of Defaults,’ Holly Kim Says",
-      "summary": "格兰登资本联合创始人霍莉·金在纽约举办的彭博全球信贷论坛上表示，即便不考虑经济动荡或通胀相关因素带来的冲击，私募信贷行业仍将出现大量“违约积压”，相关消息源自彭博社。",
-      "summary_original": "Glendon Capital co-founder Holly Kim explains why the private credit industry stands to see a big “backlog of defaults” away from any economic dislocations or any other inflation-related economic inputs. She speaks at the Bloomberg Global Credit Forum in New York. (Source: Bloomberg)",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglfFQlvP3tI/v3/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-03/private-credit-faces-pipeline-of-defaults-holly-kim-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T15:49:29+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5bc366ac",
-      "title": "前英国政治助手、拜登内阁部长在加州州长初选计票中领先",
-      "title_original": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
-      "summary": "美国加州州长初选正在进行计票，目前前两名分别是前英国政治助手出身的候选人和拜登内阁部长，另一名民主党人、亿万富翁气候活动家汤姆·斯泰尔暂居第三位，整体计票工作仍在推进当中。",
-      "summary_original": "Another Democrat, billionaire climate activist Tom Steyer, is in third place as the tally continues.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a5/live/3ae81b30-5efe-11f1-8b8c-6d33e1d5abb6.jpg",
-      "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T15:32:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4099f7ce",
-      "title": "仍面临版权诉讼 AI音乐生成商Suno再融4亿美元",
-      "title_original": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
-      "summary": "知名AI音乐生成初创企业Suno完成新一轮4亿美元融资，目前公司估值已超54亿美元。距其上一轮融资仅约七个月，彼时公司估值为24.5亿美元，当前Suno仍面临版权相关诉讼。",
-      "summary_original": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T15:31:42+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1b59a026",
-      "title": "先锋集团VOO资产达万亿美元 创ETF行业首例",
-      "title_original": "Vanguard’s VOO Hits $1 Trillion of Assets in ETF Industry First",
-      "summary": "投资者对美股持续的逢低买入需求，推动先锋集团追踪标普500指数的VOO ETF资产规模突破万亿美元，这是全球ETF行业首只达到这一规模的产品，该里程碑曾被认为是行业难以实现的目标。",
-      "summary_original": "A seemingly endless appetite for buying US stock dips has propelled Vanguard Group’s S&amp;P 500-tracking ETF past $1 trillion in assets, making it the first fund of its kind to reach a milestone once thought unimaginable for the ETF industry.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZQjtT4dvuiI/v2/1200x-1.png",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/vanguard-s-voo-hits-1-trillion-of-assets-in-etf-industry-first",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T15:31:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6c9234f1",
-      "title": "PlayStation回归自身优势领域",
-      "title_original": "PlayStation is getting back to what it’s good at",
-      "summary": "PlayStation在最新一期State of Play展示活动中明确了发展重心。此前该品牌一系列高成本在线服务项目接连失利，接下来将重新聚焦优质叙事导向的单人游戏，这一发展方向在本次一小时的展示活动中得到清晰体现。",
-      "summary_original": "PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driven, single-player games. That statement was made clear with how it started and ended the hourlong show. The showcase began with an extended look [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T15:30:15+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "86593708",
-      "title": "阿瑞斯首席执行官阿鲁格蒂称私人信贷市场并未失灵",
-      "title_original": "Ares CEO Arougheti Says the Private Credit Market Isn't Broken",
-      "summary": "阿瑞斯管理联合创始人兼首席执行官迈克尔·阿鲁格蒂，近日在纽约举办的福布斯反传统峰会上接受丹妮·伯格采访时表示，私人信贷市场整体依旧强劲，近期该市场出现的压力与私募股权相关，该消息源自彭博社。",
-      "summary_original": "Ares Management co-founder and CEO Michael Arougheti says the private credit market remains strong and the recent stress in the private credit market is tied to private equity. He speaks with Dani Burger at the Forbes Iconoclast Summit in New York. (Source: Bloomberg)",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv_NcnX6FCag/v3/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-03/ares-ceo-arougheti-says-private-credit-isn-t-broken-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T15:23:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e602672d",
-      "title": "美伊冲突令和平协议前景蒙尘 油价上涨",
-      "title_original": "Oil Gains as US-Iran Clashes Cloud Peace Deal Outlook",
-      "summary": "油价已连续第三日上涨，美国与伊朗的新一轮交火，令有望重新开放霍尔木兹海峡的和平协议前景生变。Energy Vista创始人莱斯利·帕蒂-古兹门将发布伊朗战事背景下油气价格展望的最新分析，消息源自彭博社。",
-      "summary_original": "Oil rose for a third day as a fresh exchange of strikes between the US and Iran cast doubt on the prospects of a peace deal that would reopen the Strait of Hormuz. Leslie Palti-Guzman, founder at Energy Vista, gives an update on the outlook for oil and natural gas prices amid the war in Iran. (Source: Bloomberg)",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik_Awp5QU730/v3/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-03/oil-gains-as-us-iran-clashes-cloud-peace-deal-outlook-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T15:23:35+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "571cd537",
-      "title": "乌克兰俄控区一巴士遭无人机袭击致八人死亡",
-      "title_original": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
-      "summary": "乌克兰被俄罗斯控制的区域发生一起无人机袭击巴士事件，事件共造成八人死亡。一名相关官员透露，遇袭巴士是在乌克兰东部的顿涅茨克地区遭无人机击中，目前暂未披露更多相关细节。",
-      "summary_original": "The bus was hit in the eastern Donetsk region, an official says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e122/live/1fbe2850-5f34-11f1-b682-cf91850925ea.jpg",
-      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T15:18:28+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "564f523e",
-      "title": "哥伦比亚广播公司新闻部解雇《60分钟》记者斯科特·佩利",
-      "title_original": "CBS News fires correspondent Scott Pelley from 60 Minutes",
-      "summary": "美国哥伦比亚广播公司新闻部解雇了旗下老牌新闻节目《60分钟》的资深主持人斯科特·佩利。此次解雇源于本周一次员工会议上，佩利当面与管理层对峙，公开指责领导层正在\"扼杀\"这档知名新闻节目。",
-      "summary_original": "The veteran host had accused leadership of \"murdering\" the news show in a confrontation at a staff meeting this week.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/d0723c60-5f3c-11f1-b027-7de5029274c2.jpg",
-      "link": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T15:15:48+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c29dc2e2",
-      "title": "美国以强迫劳动关切为由宣布加征新关税",
-      "title_original": "US announces new tariffs over forced labour concerns",
-      "summary": "美国宣布加征新关税，这一举措出台于今年2月美国最高法院作出相关裁决之后。当时最高法院推翻了美国前总统唐纳德·特朗普此前推出的多项关税，裁定该批关税无效。",
-      "summary_original": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg",
-      "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T15:12:28+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "14b5e9f6",
-      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
-      "title_original": null,
-      "summary": "这是汇总多领域财经科技动态的晚报资讯：段永平增持泡泡玛特H股持股至6.04%，兖矿能源拟164.15亿元收购控股股东旗下新能源资产，知乎一季度扭亏，5月国内新能源乘用车零售同比降5%，现货白银跌破74美元/盎司，另有企业发债、AI合作、投融资等多项动态。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://36kr.com/p/3837330582008963?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-03T15:01:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "be589092",
-      "title": "两名创始人离开高盛与Meta，为被忽视市场打造语音人工智能",
-      "title_original": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "两名创始人分别离开投行高盛与科技企业Meta后，瞄准业内其他参与者忽视的市场赛道打造语音人工智能。目前这家初创企业面向非洲和中东搭建的自有技术栈，每日可处理超过17000通语音呼叫。",
-      "summary_original": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "09a1a302",
-      "title": "<超自然>并未消亡",
-      "title_original": "Supernatural isn’t dead after all",
-      "summary": "几个月前，Meta在VR业务整体裁员中，宣布旗下Meta Quest平台热门VR健身游戏《超自然》将不再更新内容，引发该游戏忠实核心社群的强烈不满。如今这款游戏迎来转机，获得了第二次发展机会。",
-      "summary_original": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "be589092",
-      "title": "两名创始人离开高盛与Meta 为被忽视市场打造语音人工智能",
-      "title_original": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "summary": "两名曾任职于高盛与Meta的创始人选择离职创业，瞄准被其他科技厂商忽视的市场开发语音人工智能产品。目前该初创企业针对非洲和中东市场搭建的自有技术栈，每日可处理超过1.7万通通话。",
-      "summary_original": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2e996c0b",
-      "title": "GitLab为扩容平台服务AI工作负载 裁员14%",
-      "title_original": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
-      "summary": "代码托管平台GitLab裁撤占比14%的员工，本次业务调整中，GitLab还将退出22个国家市场，精简管理层级，集中资源投资基础设施建设，扩容自身平台以适配AI工作负载的服务需求。",
-      "summary_original": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T14:59:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f82a30b0",
-      "title": "得益于新法规，出版商可选择退出人工智能搜索",
-      "title_original": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "summary": "英国监管机构要求谷歌推出一款专属工具，允许网站出版商自主选择退出生成式人工智能搜索功能，该退出选项将率先在英国开展测试，测试完成后会向全球范围推广落地。",
-      "summary_original": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T14:58:33+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f82a30b0",
-      "title": "新规出台 出版商可选择退出人工智能搜索",
-      "title_original": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "summary": "英国监管机构要求谷歌推出一项相关工具，允许各类网站出版商选择退出生成式人工智能搜索功能。该退出选项将率先在英国开展测试，后续将面向全球范围推广落地。",
-      "summary_original": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-06-03T14:58:33+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2152b080",
-      "title": "追觅L20 Ultra扫拖机器人售价280美元 超值难挡",
-      "title_original": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
-      "summary": "追觅L20 Ultra并非该品牌最新机型，它是一款性能出色的扫拖一体机器人，自带集尘桶、配备AI避障功能，日常维护需求低。该机型2023年首发价为1400美元，目前《The Verge》读者可享史低售价280美元，性价比极高。",
-      "summary_original": "The Dreame L20 Ultra isn’t the company&#8217;s newest model, but it&#8217;s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T14:53:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1ed14bc2",
-      "title": "英国海军直升机坠毁致三人死亡",
-      "title_original": "Navy Helicopter Crash Kills Three in Britain",
-      "summary": "英国发生一起海军直升机坠毁事故，本次事故共造成三人死亡。事发时涉事直升机正在开展训练演习任务，意外坠毁于英格兰西南部的一处农田中，目前暂无更多事故相关细节披露。",
-      "summary_original": "The helicopter was on a training exercise when it crashed in a field in southwestern England.",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-uk-helicopter-crash-tflv/03int-uk-helicopter-crash-tflv-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/03/world/europe/navy-helicopter-crash-kills-three-in-britain.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-03T14:49:38+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c69635cf",
-      "title": "TikTok推出面向世界杯等文化时刻的应用TikTok Pro Events",
-      "title_original": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
-      "summary": "TikTok推出专为世界杯等各类文化活动打造的全新应用TikTok Pro Events。该应用支持用户和同好粉丝互动交流，方便用户探索相关热门内容，还可为用户提供平台精心策划整理的创作者专属内容推送。",
-      "summary_original": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T14:04:38+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "00653aa1",
-      "title": "微软与OpenAI拆分 如今已准备好迎战",
-      "title_original": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "summary": "本周二，微软在其年度Build大会上宣布了多项全新或拓展升级的人工智能项目，涵盖超级应用、自研推理模型、网络安全工具、类OpenClaw智能代理等，明确传递出微软力争跻身全球AI领域头部玩家行列的信号。",
-      "summary_original": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T14:04:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "00653aa1",
-      "title": "微软与OpenAI拆分完毕 现已整装待战",
-      "title_original": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "summary": "周二，微软在年度Build大会上公布了一系列新增或拓展的人工智能项目，涵盖超级应用、自研推理模型、网络安全工具、类OpenClaw AI智能体，明确传递出微软将致力成为人工智能领域头部核心玩家的信号。",
-      "summary_original": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-06-03T14:04:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3cde204e",
-      "title": "2026年迄今为止最严重的黑客攻击与数据泄露事件",
-      "title_original": "The worst hacks and breaches of 2026 (so far)",
-      "summary": "梳理了2026年迄今为止造成最严重破坏的多起安全攻击与数据泄露事件，涵盖多起重大安全事故，既包括大规模DOGE数据泄露、关键能源与供水系统遭黑客入侵，也涉及FBI监控系统被黑客攻破的事件。",
-      "summary_original": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T14:02:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ac70bc06",
-      "title": "伊朗无人机袭击科威特机场致1死数十人受伤",
-      "title_original": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "summary": "伊朗对科威特机场发动无人机袭击，这起袭击事件目前已造成1人死亡、数十人受伤。伊朗方面公开表示，此次袭击是针对此前美国袭击伊朗一艘油轮以及一处伊朗岛屿的报复行动。",
-      "summary_original": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T14:02:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d2890bb7",
-      "title": "Wander：受StumbleUpon启发的小众网络发现工具",
-      "title_original": "Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’",
-      "summary": "这是一款由开源社区项目打造的新工具，设计灵感源自老牌站点发现平台StumbleUpon，可为用户打造类似的站点发现体验，支持用户分享推荐自己喜爱的站点，帮助用户探索互联网中的小众网络。",
-      "summary_original": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T14:00:58+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "218e40b9",
-      "title": "Meta面向WhatsApp商业版的AI代理现已全球上线",
-      "title_original": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "Meta面向WhatsApp商业版打造的AI代理目前已正式在全球范围内开放使用。WhatsApp方面明确，企业使用这款AI代理，将按照令牌（token）的实际使用量收取相应服务费用，服务面向使用该平台开展业务的企业开放。",
-      "summary_original": "WhatsApp will charge businesses for using its AI agent based on token usage",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-03T13:40:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "218e40b9",
-      "title": "Meta为WhatsApp商业版打造的AI智能体现已全球上线",
-      "title_original": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "summary": "Meta面向WhatsApp商业版打造的AI智能体现已正式在全球范围开放使用。WhatsApp将对使用该AI智能体的商家采取按量计费模式，根据商家的token使用量收取对应服务费用。",
-      "summary_original": "WhatsApp will charge businesses for using its AI agent based on token usage",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-06-03T13:40:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e0ed7b19",
-      "title": "川观夜读丨“人造月亮”点亮“三夏”抢收之路；平陆运河全线通水；台风“蔷薇”登陆日本 - 四川新闻",
-      "title_original": null,
-      "summary": "本期川观夜读汇总三则核心资讯：“人造月亮”点亮“三夏”抢收之路，保障抢收作业推进；备受关注的世纪工程平陆运河已实现全线通水，这条西南出海通道可通航5000吨级船舶，将于8月开展全线实船试验；台风“蔷薇”已登陆日本。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jRnpueGpoLXIxR0NmNDlvanJ3a2hyYXY2QjFVRlJ4eGE2VXcyR0RVUm5vMFE2UjNOcFBJOFU5ak5xaFZ0TW1nVzVBMnByR3NZdmlkakJpdFFrZ3ZDVmc3RGQ1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T13:29:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f90cf2af",
-      "title": "微软Surface Laptop Ultra与Surface Dev Box抢先看",
-      "title_original": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
-      "summary": "微软将于今年晚些时候推出两款全新Surface设备，两款新品均搭载英伟达RTX Spark芯片。记者本周在微软举办的Build大会上获得机会，得以近距离提前探访体验这两款产品。",
-      "summary_original": "Microsoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark Dev Box at Microsoft's Build conference this week, and while both have the same chip inside, they're utilizing Nvidia's [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T13:22:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "49490378",
-      "title": "霞光漫卷西山，京城邂逅鎏金黄昏 - 新京报",
-      "title_original": null,
-      "summary": "五月最后一天，北京天空出现浪漫晚霞，霞光漫卷西山，呈现出鎏金、浅橘、绯红等绚烂色彩，流云映天如梦似幻，新京报、腾讯新闻、搜狐网、光明网、中华网等多家媒体都对这一动人天象进行了报道。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfYWlxV1YxUXhMWmI0SUFMdXh5S0ZDVFlpeW9tektyNUk3OWYxTHBtbTNhS083SklaVmVFaFdBeVJzOG45SGhCbTVtWmR0LVZ1SC1JNzBwSmVBZm5RTHJQOFFjc0o?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T13:14:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5f2e48f1",
-      "title": "要闻解说 - 乌克兰无人机袭击阴影下 “俄罗斯达沃斯”论坛开幕 - RFI",
-      "title_original": null,
-      "summary": "素有“俄罗斯达沃斯”之称的俄罗斯经济论坛将于圣彼得堡开幕，普京将发表讲话，联合国秘书长也将出席。目前论坛举办笼罩在乌克兰无人机袭击阴影下，乌方称打击了俄境内多处重要目标，乌无人机袭击圣彼得堡石油码头并引发爆炸。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQMHF4Qkp1b1AtYi1kTWxxNDVBeEkydzBhUndUQzg0X3VRWHFleDJ6UHlDQVNjTmpRUlZYeEhwRXRnaDAzaVo2R3FsUUdxYm5VOTh4YUo4X2tFR09HQ3RCblhVS3p6aWlqZ0VYQ0Vwc24tSmZkRHl2aVF0VmdLWDVrNmNjNGJnYnhJSzVnRERlcXYzbm56OVJDNTVWOUZUY1BjeldUdTNXVHVVeTE1eXByTTJzOEJpS1R0NVJaYWs5LVFhTXBBbS14Y3VjeG5QNVZlRlBpN0RGekF5NVNLMHY0Y1IwaXNHcGtMR0hEWlBHU2NyWXRYWUNYYlc5WkVETEJRWnRoY0J2R2JuYVFhOU5Yc2UzMTd5ZGVLV0VwY2tGWFVWNE8yNjhCMHZFb3ktYjhRY0ZoRThOcjFGT1VSa2JTMVgtcXZLUk9YbW5MUTJMbTZSWlJieFQtUVV1S0VXUTZyZzlIekE0M3RZWWZtOUszdlZmZFNGVW5mY0hpLWZrVGhVek9Lb0lhWTBkV3NMZWpEbGdWdGcwRTBCVXZqMUJKbkFVZDlYSU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T13:12:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ad14f408",
-      "title": "押注AI智能体存在监控需求，Coralogix完成2亿美元融资",
-      "title_original": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "数据监控服务商Coralogix完成F轮融资，融资金额为2亿美元，本轮融资后公司估值达16亿美元。本次融资距其上一轮融资完成不到一年，融资核心逻辑为押注AI智能体监控存在市场需求。",
-      "summary_original": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-06-03T13:02:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8206399d",
-      "title": "加快农业农村现代化 “十五五”规划引领新进展 - 中华网",
-      "title_original": null,
-      "summary": "我国出台“十五五”农业农村现代化发展路线图，明确要补齐“三农”领域短板，提出培育壮大农业新兴产业与未来产业，同时敲定多项量化发展目标，其中粮食产能瞄准1.45万亿斤，对种业、农机发展也明确了量化要求，引领农业农村现代化实现新进展",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeWZ1NXlqS0J6SnA4VkZnNmFxWnFFV0NBWDZPSDQwR3FRTFBOd2dLQ0p4YlFfY1ZlTmJSNFY0NGlPeXNSMzQ5TU1lRGJ2MEFrVjk2YzM0cUNYU2NWaHNZQ3p4RXNoZjdFODhDTm9BOUM?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T12:32:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "159f78e3",
-      "title": "新德里一酒店发生火灾致至少21人死亡",
-      "title_original": "Fire at a New Delhi Hotel Kills at Least 21",
-      "summary": "印度新德里一家酒店发生火灾，事故已造成至少21人死亡，另有数十人受伤。当地当局表示，这起火灾是印度首都新德里至少四年来致死人数最多的火灾事故。",
-      "summary_original": "Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-india-fire-01-ckfv/03int-india-fire-01-ckfv-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-03T12:29:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "351e3ad2",
-      "title": "通胀成关注焦点 期权交易员看淡就业数据",
-      "title_original": "Options Traders Look Past Jobs Data as Inflation Takes Spotlight",
-      "summary": "华尔街交易员预计本周五将公布强劲就业报告，不过受战争推动油价大幅上涨，市场关注焦点正日益转向通胀问题，即便最终出炉的就业数据表现强劲，恐怕也不足以安抚市场交易情绪。",
-      "summary_original": "Wall Street traders expect a strong jobs report on Friday. That may not be enough to soothe them, as the war-fueled oil price shock increasingly shifts the focus toward inflation.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixHzD6JnlW4w/v2/1200x-1.png",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/options-traders-look-past-jobs-data-as-inflation-takes-spotlight",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-03T12:29:31+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7f75db27",
-      "title": "特朗普政府拟对巴西加征25%关税 认定巴西两黑帮为“外国恐怖组织” - 财新",
-      "title_original": null,
-      "summary": "特朗普政府以不公平贸易行为为由，依据301调查，由美国贸易代表办公室提议对巴西商品加征25%关税，其中牛肉、咖啡等品类获得关税豁免，同时特朗普政府还将巴西的两个黑帮认定为“外国恐怖组织”。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zb1RjdGlNQ1RrRXNicktvQy10VS04WGRkbHVGRXlkOWRTTXRNOVJsRnlOUmNwWjNieFVmQWlMRGVCZ1RtRk5LZTVEQV9oN2Jlcm9SNDROTXpYX01QNVdoOF9nTWJ5Y3ZXT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T12:16:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cf27f1aa",
-      "title": "特朗普称对以总理在黎军事行动“不悦”，曾劝其停止冲突 - 京报网",
-      "title_original": null,
-      "summary": "美国前总统特朗普证实，他因黎巴嫩战事称呼以色列总理内塔尼亚胡“疯了”，称对其在黎巴嫩开展的军事行动感到不悦，此前已劝说对方停止冲突。目前真主党不接受与以色列部分停火，双方仍持续互相攻击，局势未平。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bFBUM3BjSlRRcF83YzBSeDB0SVZaX091cmVqR0M3TUViaW9fX1pHSDF1ODJEZ3RsZDFsYXY1OGVnQ05YWkE2NVlCQzFhYnpCOXo0WHFlS1V2T2hQT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T12:15:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5709f517",
-      "title": "习近平文化思想引领文化传承发展开创新局面 - politics.people.com.cn",
-      "title_original": null,
-      "summary": "习近平文化思想引领我国文化传承发展开创新局面，这一主题内容发布于人民网政治频道，想要了解更多相关领域的头条新闻与各类观点，可前往Google新闻平台进行浏览查看。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03MWJpLTh1RFBCbTFhU3BSRXUwSnlsS202Nm5EYm93MkZTQTQ0WWl0a29teGJRQ0FfMEt1Rmd2SEZRRHM0YlVuQzJUV29wMjhiN0x1aXJNZGlscmpxOVY4NmIzR01yWVFWRmh2SHFocVQ0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T12:10:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3f1f21c2",
-      "title": "《每日下载：特朗普新AI行政令与作战用智能眼镜》",
-      "title_original": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "这是覆盖科技领域动态的工作日通讯《每日下载》今日刊，特朗普在撤销原有AI行政令不到两周后，于周二签署了一项全新的AI行政令，该行政令声称将推动AI发展，本期梳理出这项新政的五大核心要点，同时还涉及作战用智能眼镜相关话题。",
-      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;",
-      "image": null,
-      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-06-03T12:10:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a563e823",
-      "title": "习近平总书记关切事·关键小事丨水润家园好光景 - politics.people.com.cn",
-      "title_original": null,
-      "summary": "这是人民网推出的《习近平总书记关切事·关键小事》相关报道，以“水润家园好光景”为主题，聚焦习近平总书记关心的治水惠民这一民生关键小事，展现我国推进水生态治理、改善城乡人居环境，增进群众民生福祉的进展与良好成效。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vY0ttUFhJUXo0ckpuRzVjaXZCWnhCQU43WDZqaUoyd3ZwT0ZqejNsNXJDRTRVZ1pGQTlvYXh3ckttR3pCZ0tTSDNmZ1hnVEstYVFhc01CZFFzSTdFeXhXTExoNDA0WUtNUXp1bnUwWXBUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T12:08:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "766e073e",
-      "title": "SwitchBot收购Nanoleaf不止局限于照明领域",
-      "title_original": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
-      "summary": "智能照明企业Nanoleaf被SwitchBot的母公司OneRobotics收购。Nanoleaf首席执行官Gimmy Chu接受《The Verge》独家采访时表示，收购后Nanoleaf将保持独立运营，他与联合创始人兼首席运营官Christian Yan将继续掌管公司，运营层面不会发生变动。",
-      "summary_original": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is changing operationally,\" says Chu, adding that there [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T12:00:20+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7efb630e",
-      "title": "特朗普政府计划因强迫劳动对60个经济体加征关税 - DW",
-      "title_original": null,
-      "summary": "多家外媒及财经媒体披露，特朗普政府正计划以所谓强迫劳动为由，对全球60个经济体加征至少10%的关税，这是美国再度推出贸易加征关税举措。中国外交部明确回应称，关税战、贸易战不符合任何一方的利益，该计划引发市场关注。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSjJ6eFZwYkcxajB0RWNaYndtT1lvMGlVV3JaSVNNWEM3aG5ZY0ZVaUhhRTlmbUZmb05DWmhqOVUtclByS05WczRPQzlFSTBmaXcwT2EyOHA2eVFKQjRJb1M0V1k5MVd0dzJ2NjVQVVlkUTdtODI3cHZLd1NsdHJoVW5pVnFIME4za1BQTGxVMEFkOXpoRGppNkFuUGdhM1hyT19DRVI5UU83SVdQNlhvSGJZXzVzaDhOM2hPWUhIc2VmR3kwV2JIZ0RTOFMtYV90SXNJXzZwaWJ2NWUtNDd4VGg0UXg2aURycWpBaHdLbEFlYmZ3SjFuWnNkT1hCeVluU3pOMllTR2JueE9MY1o2NWxfcDVPN3E3TVM5VExmOUgxZzN3M0VEOWNPR0RsYVh4YW5lSGNBM0hfeU1OU2tIdGR6dUFlclnSAccCQVVfeXFMTnVJdXBMa2lhX0h5clBUUzlSSWhwZzQ3ejMtbXlGZjRwU2ZoWnp1ZWNEWXNBTGlVVmQyQUh4cWd0YlBBMnJoUXNSS0NvWHY1VXFQQjFRRS1WcGdiUXJJREYtcndneVg1SWhQMklmamg3dW50Z1VWVGg5ckM2bGFBSm52Y0NLaVcwRzNrbUNOOFJMTkZrS3hQTXp4ak5tZFhTV2VJcmduT2FmMTNXRW5rT2V2aDJfUUFvWkV0RE5oeWpKM2FFVUxwZlVYemlwaU9SS2FlRC1aNzRFNUlGRnRzNnZXanFZTFhoOXNSMU9EWUVDOGhZSGpRdjE1TzNDYWJYemJUUnpLclNFSi0xbHdfU0JnSHZ6ZW4zS0ZQV0JBXzJKdTdhNnU3d29TbXRfX3JDb2NkbDdxYkRjSWRiam1zZlVGdC1nRnZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-03T11:55:03+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c1b4795b",
-      "title": "德里火灾至少21人遇难 死者中含外国公民",
-      "title_original": "Foreign nationals among at least 21 killed in Delhi fire",
-      "summary": "印度德里发生一起火灾事故，事故造成至少21人死亡，遇难者中包含外国国籍人员。多数遇难者为南亚人，他们此次前往印度，或是接受治疗，或是陪同亲属就医。",
-      "summary_original": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg",
-      "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T11:54:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f8797851",
-      "title": "普京旗舰经济论坛开幕 乌克兰无人机袭击圣彼得堡",
-      "title_original": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "summary": "乌克兰多架远程无人机袭击了俄罗斯圣彼得堡附近的石油存储设施，此次袭击发生在俄罗斯总统普京的旗舰级经济论坛开幕之际，距离普京预定在该论坛发表公开讲话还有数日。",
-      "summary_original": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1588/live/aa879d00-5f51-11f1-b682-cf91850925ea.jpg",
-      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-03T11:34:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b4573b11",
-      "title": "英国亨利·诺瓦克谋杀案引发抗议演变为暴力 领导人呼吁冷静",
-      "title_original": "Protests in UK Over Henry Nowak Murder Case Turn Violent, as Leaders Urge Calm",
-      "summary": "英国因亨利·诺瓦克谋杀案爆发抗议活动，抗议随后演变为暴力冲突，示威者向警察投掷石块与垃圾桶，造成11名警察受伤，一名英国内阁部长称该暴力场景不可接受，英国领导人已呼吁各方保持冷静。",
-      "summary_original": "Eleven police officers were wounded as demonstrators pelted them with rocks and garbage cans, scenes a British cabinet minister called “unacceptable.”",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-uk-protests-01-tbvl/03int-uk-protests-01-tbvl-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-03T11:08:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "59a61df8",
-      "title": "跨性别青少年有话要说",
-      "title_original": "Trans teens have something to say",
-      "summary": "一家儿童医院停止向跨性别患者提供诊疗服务前，非二元性别高中生塞奇就已经停用睾酮。塞奇最初因青春期快速发育，身体变化突然且令人恐惧而接受治疗，后续还查出患上了一种相对常见的激素紊乱疾病PMOS。",
-      "summary_original": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMOS, a relatively common hormonal disorder that can lead to hair [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T11:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1d45b81d",
-      "title": "人工智能存在耗水问题 谷歌称已有解决方案",
-      "title_original": "AI has a water problem — Google thinks it has a fix",
-      "summary": "美国各地扩建人工智能数据中心引发广泛反对，谷歌周三发布博客文章，公布五项水资源利用相关承诺，宣称将采取措施降低AI业务对环境的影响，还提出目标为数据中心所在地的社区补给更多水资源。",
-      "summary_original": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T09:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1d45b81d",
-      "title": "人工智能面临用水难题 谷歌称已有解决方案",
-      "title_original": "AI has a water problem — Google thinks it has a fix",
-      "summary": "美国各地扩建人工智能数据中心引发广泛反对，谷歌称将努力降低相关业务对环境的影响，还可为当地社区增加可用水量。谷歌周三发布博客，公布五项用水相关承诺，提出了补充更多水资源的目标。",
-      "summary_original": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-06-03T09:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fb64ca63",
-      "title": "英国裁定谷歌必须允许出版商退出AI搜索功能",
-      "title_original": "Google must let publishers opt out of AI Search features, rules UK",
-      "summary": "英国竞争与市场管理局作出一项监管裁定，要求谷歌必须允许网站所有者将自身内容排除在AI概述等AI搜索功能之外，禁止相关功能使用其内容。该裁定赋予在线出版商更多控制权，可自主决定内容是否出现在谷歌AI搜索功能中。",
-      "summary_original": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-03T08:45:48+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
     {
-      "id": "3c3459a9",
-      "title": "伊朗无人机袭击科威特国际机场 已造成一死数十人受伤",
-      "summary": "核实后的现场视频显示科威特国际机场内出现火情，此次袭击是今年4月美伊停火以来海湾较大规模的袭击行动。伊朗称这是对美袭击伊朗油轮及岛屿的报复，目前已造成1死数十伤。",
+      "id": "80198013",
+      "title": "印度IT股因AI担忧重燃暴跌",
+      "summary": "AI相关担忧情绪近期再度浮现，导致印度信息技术类股票出现暴跌。当前投资者仍远未确信印度IT板块已经触底，对该板块后续走势普遍持谨慎态度，整体投资信心不足，市场观望氛围浓厚。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ15AX23fMwo/v9/1200x-1.jpg",
+      "article_ids": [
+        "d0e18bf0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d0e18bf0",
+          "source": "Bloomberg",
+          "title": "印度IT股因AI担忧重燃暴跌",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-04/tcs-infosys-plunge-as-ai-fears-return-to-rattle-it-stocks",
+          "published_at": "2026-06-04T02:40:53+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T02:40:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ab30872",
+      "title": "李宁需要库里，但库里更需要李宁",
+      "summary": "6月2日，NBA球星斯蒂芬·库里与李宁签下总价超4亿美元的十年代言合同，采用“高保底+销售分成+股权”的模式对标乔丹当年，双方将共建Curry Brand。这是李宁深耕篮球品类、布局全球化的重磅动作，消息公布后李宁股价不涨反跌，这笔长期豪赌尚待市场验证。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260604/v2_2b3bac6fd08040368f965bd788b233d1@394564713_oswg50881oswg1071oswg567_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "d1749fa6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "d1749fa6",
+          "source": "36氪",
+          "title": "李宁需要库里，但库里更需要李宁",
+          "link": "https://36kr.com/p/3838185031305474?f=rss",
+          "published_at": "2026-06-04T02:39:36+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T02:39:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2447431e",
+      "title": "美国众议院投票叫停对伊战争，谴责特朗普",
+      "summary": "美国众议院对叫停对伊朗战争的议案进行投票，最终以215票赞成、208票反对的结果通过该议案，四名共和党人加入民主党阵营投下赞成票。该议案此前三次推动均未成功，此次投票结果也是对特朗普的驳斥。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg",
+      "article_ids": [
+        "55b02b37"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "55b02b37",
+          "source": "BBC World",
+          "title": "美国众议院投票叫停对伊战争，谴责特朗普",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-04T02:24:08+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T02:24:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15060dd0",
+      "title": "马来西亚富商陈志远通过资产出售减持成功集团持股",
+      "summary": "马来西亚富商陈志远出售价值1.15亿林吉特（约合2900万美元）的成功集团股票，本次出售是其一系列资产处置操作的延续，经过本轮减持后，他持有成功集团的股份比例已降至约15%。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pI8Im062S0/v0/1200x-1.jpg",
+      "article_ids": [
+        "18023f0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "18023f0e",
+          "source": "Bloomberg",
+          "title": "马来西亚富商陈志远通过资产出售减持成功集团持股",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/malaysian-tycoon-vincent-tan-cuts-berjaya-stake-in-asset-sales",
+          "published_at": "2026-06-04T02:23:31+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T02:23:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9ae89d0",
+      "title": "动力设备厂商Innio投资方通过IPO募资24.3亿美元",
+      "summary": "燃气发动机制造商Innio控股有限公司的最大股东完成了规模上调后的首次公开募股，本次IPO的最终发行价定在预先给出的指导价格区间顶端，总共成功募得资金总额达24.3亿美元。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihUs4SVgHkd8/v0/1200x-1.jpg",
+      "article_ids": [
+        "a202041f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a202041f",
+          "source": "Bloomberg",
+          "title": "动力设备厂商Innio投资方通过IPO募资24.3亿美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/power-equipment-firm-innio-s-backers-raise-2-43-billion-in-ipo",
+          "published_at": "2026-06-04T02:05:29+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T02:05:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e8b7ffd",
+      "title": "特朗普称若有美士兵战死则考虑终止同伊朗停火 - 新华网",
+      "summary": "美国前总统特朗普就美伊停火一事作出重磅表态，称目前无意恢复与伊朗的全面战争，不会重启对伊朗的军事行动；若伊朗方面造成美军士兵战死，他将考虑终止当前美伊停火，重启对伊军事行动，这一表态已被多家媒体报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d1419497"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d1419497",
+          "source": "Google News (中国)",
+          "title": "特朗普称若有美士兵战死则考虑终止同伊朗停火 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fbnQ0aE85Rkw0SzV6VWt2UWl1MVN4cjQ1MkphNjI2TFFFbDFaYzN0c3hoc2NRS3dncmZSZmNRdVp2SmY1MlVMcEpkZC1Cb0swd1NpaDNsdHNBRVJFQThyZ2J2UUExZmdDVm5laGZaSEpobXZ6MWhlaTNTSWVUY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T01:36:34+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:36:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02071fe8",
+      "title": "新西兰房屋建筑量跌至十年低点 房价陷入停滞",
+      "summary": "受停滞的房地产市场与全球不确定性因素影响，新西兰市场对新建住宅以及房屋改造的需求出现下降，该国房屋建筑规模已跌至十年来的最低水平，目前新西兰房价也陷入停滞状态。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWPUXI7Y7SsY/v3/1200x-1.png",
+      "article_ids": [
+        "0a99f031"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0a99f031",
+          "source": "Bloomberg",
+          "title": "新西兰房屋建筑量跌至十年低点 房价陷入停滞",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/new-zealand-home-building-hits-10-year-low-as-house-prices-stall",
+          "published_at": "2026-06-04T01:36:07+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:36:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6dd6932c",
+      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
+      "summary": "深圳具身智能领域企业戴盟机器人完成亿元A轮融资，由汇川技术旗下汇川产投与中国电信联合投资，募集资金将用于打造超大规模物理交互数据集，加速物理世界模型研发。该企业聚焦视触觉融合感知技术，目前视触觉传感器出货量位居全球第一。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260603/v2_4ba21fa16c334f4f9da385d4fae9d9a5@6022551_img_gif?x-oss-process=image/quality,q_80",
+      "article_ids": [
+        "6bfcd1b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "6bfcd1b0",
+          "source": "36氪",
+          "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
+          "link": "https://36kr.com/p/3837269482091656?f=rss",
+          "published_at": "2026-06-04T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6e108e39",
+      "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+      "summary": "微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，本轮由深创投领投，天启资本与卓源亚洲跟投，资金将用于产品量产、产线建设及客户交付保障。该公司主打微型关节模组与空心杯电机，走差异化微型化技术路线，目前已具备量产能力，商业化取得实质性进展。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260604/v2_538618f320a445f080c6900287a5e6ab@6221844_oswg339620oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "398ed96c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "398ed96c",
+          "source": "36氪",
+          "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+          "link": "https://36kr.com/p/3837650456430851?f=rss",
+          "published_at": "2026-06-04T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f912a06c",
+      "title": "参议院共和党人取消特朗普新白宫舞厅10亿美元拨款",
+      "summary": "美国参议院共和党人已砍掉特朗普提出的新白宫舞厅建设项目的10亿美元拨款。原本用于为移民机构提供资金的相关法案，因多方反对特朗普提出的“反武器化基金”，目前已被推迟。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d1/live/2c466a40-5fa9-11f1-af92-19e0296632ef.jpg",
+      "article_ids": [
+        "a9e2b32a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a9e2b32a",
+          "source": "BBC World",
+          "title": "参议院共和党人取消特朗普新白宫舞厅10亿美元拨款",
+          "link": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-04T01:18:09+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:18:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31e16a92",
+      "title": "德国将联合国安理会席位竞选的“惨痛失败”归咎于俄罗斯",
+      "summary": "德国政界人士约翰·瓦德富尔公开表示，俄罗斯因德国支持乌克兰，一直在煽动反对德国的情绪。德国在本次联合国安理会席位竞选中遭遇惨痛失败，德国方面正式将此次竞选失败归咎于俄罗斯。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/fd296c40-5fac-11f1-b5ab-a55eacf8090d.jpg",
+      "article_ids": [
+        "044785a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "044785a5",
+          "source": "BBC World",
+          "title": "德国将联合国安理会席位竞选的“惨痛失败”归咎于俄罗斯",
+          "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-04T01:02:24+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T01:02:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54311721",
+      "title": "韩元走弱 韩国承诺将对过度波动采取行动",
+      "summary": "近期韩元持续走弱，汇率已逼近2009年以来的最低水平，与此同时韩国债券收益率不断攀升，韩国政府明确表态，将采取必要措施遏制汇率市场过度波动，维护外汇市场稳定。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia2iVu6x6F88/v0/1200x-1.jpg",
+      "article_ids": [
+        "cfcc9068"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "cfcc9068",
+          "source": "Bloomberg",
+          "title": "韩元走弱 韩国承诺将对过度波动采取行动",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/krw-usd-south-korea-vows-action-in-case-of-excessive-move-as-won-weakens",
+          "published_at": "2026-06-04T00:58:27+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:58:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "627508d0",
+      "title": "伊春市市场监督管理局：坚守食安底线多维发力守护考生“舌尖安全” - 伊春市人民政府",
+      "summary": "高考临近，伊春市市场监督管理局多维发力，坚守食品安全底线，守护考生“舌尖安全”。同时，多地疾控机构与医学专家提醒，高考备考饮食要以“稳”为主，保持日常饮食常态，切勿盲目进补、随意更换食谱，应科学饮食助力考生备考。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "818a0593"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "818a0593",
+          "source": "Google News (中国)",
+          "title": "伊春市市场监督管理局：坚守食安底线多维发力守护考生“舌尖安全” - 伊春市人民政府",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QajNWdFpqc2M2dFROVDBYZTFvZ1pLMkZxNDlxQTRQQnpKWFduYkpwQ0lKRjJUX1RVeVpHenNMNEY2VHFWMzhwTi1ic2lrdXRydEtkbVNlVFozVTRGcjdtT3gtQ2gxRWxM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:55:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:55:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01a5f048",
+      "title": "深入学习贯彻习近平文化思想|促进文明交流互鉴 - hebcdi.gov.cn",
+      "summary": "hebcdi、新华网、中国青年网、光明网、新浪财经等多家平台，纷纷推出围绕深入学习贯彻习近平文化思想的相关报道，内容涉及激活中华文化生命力、引领文化传承发展开创新局、地方守护文化根脉筑牢精神根基等多个主题。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0207caa8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0207caa8",
+          "source": "Google News (中国)",
+          "title": "深入学习贯彻习近平文化思想|促进文明交流互鉴 - hebcdi.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QeFpYMTBnUjVXSkcwTnF0X1ppYk1NWE10OFZhbFVwSDM3Vk45U3dKMEpJQmdGNHBlZTgweGFxSi1wRS1CUE1MekQybHpLNlkyQVJWbGdUYTBkOHRWZDNnSGVBYVBqZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:53:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:53:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e8b19cf",
+      "title": "襄阳百万吨“淋雨麦”这样抢烘干（三夏进行时·防汛保丰收） - 中国共产党新闻网",
+      "summary": "三夏防汛保丰收阶段，全国小麦收获进度已过三成半，各地多举措推进麦收工作：湖北襄阳加紧抢烘百万吨“淋雨麦”，河南各地接力护航三夏农机手，山东济南迎来麦收，不少产区应用数字技术、智慧农机提升收麦效率，助力保障丰收。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5f776340"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5f776340",
+          "source": "Google News (中国)",
+          "title": "襄阳百万吨“淋雨麦”这样抢烘干（三夏进行时·防汛保丰收） - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YazQ2RElqLVRieW5Va2g3Y1IzQTl6ME9zUUxoQkxWVDdIdXdxclc3NXJfeUcxT3NWQVVoTmdoa3d4NF85YXJPM3RlZFhTVGdMaXl1YVFUbFUtYnByTnBjMTdJSHFlWThybmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:46:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:46:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "756b2ab2",
+      "title": "美国发现致命螺旋蝇寄生虫 威胁牛群",
+      "summary": "美国近十年来首次确认发现一种可感染牛的致命寄生虫。当前美国全国牛群数量已处于75年来的最低水平，该寄生虫的出现给本就规模低迷的美国牛群带来了新的威胁。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inMubyFhRUEI/v3/1200x-1.png",
+      "article_ids": [
+        "d7f2afbf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d7f2afbf",
+          "source": "Bloomberg",
+          "title": "美国发现致命螺旋蝇寄生虫 威胁牛群",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/deadly-screwworm-parasite-found-in-us-in-threat-to-cattle-herd",
+          "published_at": "2026-06-04T00:38:22+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:38:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17d28bc8",
+      "title": "人民之心｜一张泛黄发票的故事 - politics.people.com.cn",
+      "summary": "人民网政治频道推出“人民之心”栏目相关内容，《一张泛黄发票的故事》依托一张承载特殊历史印记的老物件，挖掘背后的动人往事，回望党与人民风雨同行的奋斗历程，展现出始终扎根人民、不忘初心的使命担当与深厚情怀。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b7bc8107"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b7bc8107",
+          "source": "Google News (中国)",
+          "title": "人民之心｜一张泛黄发票的故事 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LUS1fNjRvdVZESGFzVVp5T3ZoYy01X0h5SFFJeEhSOVhqSXJ6aWFRanhQcXcwSHZ1d2Nta2k0N0FnaFJfOS0tdjBXT0hodGxBTWY4ZlJEM0kxNGVqSG9qWE9HRWsydUV6c19lcFhtZjI4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:33:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:33:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d911e437",
+      "title": "快电商FirstClub九个月估值翻倍至2.55亿美元",
+      "summary": "总部位于印度班加罗尔的快电商初创企业FirstClub，成立九个月估值翻倍至2.55亿美元。该企业推出运营仅一年，订单量就突破100万单，年化商品交易总额达到5000万美元，展现出强劲增长态势。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4d01e464"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "4d01e464",
+          "source": "TechCrunch",
+          "title": "快电商FirstClub九个月估值翻倍至2.55亿美元",
+          "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+          "published_at": "2026-06-04T00:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "93dc2fb6",
+      "title": "平陆运河全线通水调试 - mot.gov.cn",
+      "summary": "世纪工程平陆运河已进入全线通水调试阶段，该工程将为西南地区开辟江海直连通道，助力西部陆海新通道建设，推动西部地区跑出高水平对外开放加速度，带动运河经济带蓄势起航。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "01b0443a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "01b0443a",
+          "source": "Google News (中国)",
+          "title": "平陆运河全线通水调试 - mot.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb2tBTHRMZjdHNlRtNDVkM3hKQ2tXSlBBTUs0aDJUMnRKcG1UOW10S0VfcWRPTEY5Q1h3M2U4Z3BMS3NzaFFvbGVBTnJEOVMyb09sU0F1UlZGTXlmdk1lTUd0LUlZMTcwYXA5bHN5aXVBSnVOVUVkNVdLdTFLSUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:19:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:19:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c3456d73",
+      "title": "以色列与黎巴嫩同意若真主党停止袭击则实施停火",
+      "summary": "美国国务院发布相关消息称，以色列与黎巴嫩已就停火事宜达成共识，双方约定若真主党停止一切袭击行动便正式实施停火，两国同时明确拒绝任何国家或非国家行为体挟持黎巴嫩未来的企图。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
+      "article_ids": [
+        "3fa02902"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3fa02902",
+          "source": "BBC World",
+          "title": "以色列与黎巴嫩同意若真主党停止袭击则实施停火",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-04T00:16:44+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:16:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a606d6c",
+      "title": "普京的达沃斯，美国派代表团出席，乌克兰派无人机轰炸 - 凤凰网",
+      "summary": "2026年6月，普京将揭幕有“俄罗斯达沃斯”之称的活动，美国派代表团出席该活动，乌克兰出动无人机实施轰炸。中方官宣韩正将赴俄罗斯并访问白俄罗斯，当日外交部发言人毛宁主持例行记者会，有分析认为该活动或是缓释美俄关系的一次试探。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "23b48bce"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "23b48bce",
+          "source": "Google News (中国)",
+          "title": "普京的达沃斯，美国派代表团出席，乌克兰派无人机轰炸 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01ak0xWmNNTTRJb1hYckdzcVRPQnhqN1h6RHVPc3ZKZklNcFVlT2pVRW1BWkVxRlRZR1RfenN5XzFyYnFVZ0VFR1RJSUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-04T00:15:28+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:15:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c54e6fe",
+      "title": "任天堂确认将在欧盟发售可更换电池的新款Switch 2",
+      "summary": "任天堂计划在欧盟推出支持用户轻松更换电池的Switch 2硬件版本。该调整是为履行欧盟新法规规定的义务，这项新规将于2027年2月18日正式生效，任天堂已在官网声明正推进相关措施以符合法规要求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8beeef1d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8beeef1d",
+          "source": "The Verge",
+          "title": "任天堂确认将在欧盟发售可更换电池的新款Switch 2",
+          "link": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+          "published_at": "2026-06-04T00:04:04+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:04:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "312b302f",
+      "title": "富邑葡萄酒拟审查美国业务 股价飙升",
+      "summary": "澳大利亚葡萄酒商富邑葡萄酒集团宣布，将对长期问题缠身的美国业务展开审查，并将聚焦巩固自身在奢侈品细分领域的地位，受该消息影响，公司股价创下六周来最大涨幅。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC.k1RQbyCPk/v1/1200x-1.jpg",
+      "article_ids": [
+        "d4513752"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d4513752",
+          "source": "Bloomberg",
+          "title": "富邑葡萄酒拟审查美国业务 股价飙升",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/treasury-wine-flags-lower-earnings-and-focus-on-luxury-market",
+          "published_at": "2026-06-04T00:04:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-04T00:04:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "95bf1ae3",
+      "title": "印尼盾兑美元触及18000点位 市场关注央行干预",
+      "summary": "印尼盾兑美元汇率走弱，触及1美元兑换18000印尼盾这一市场关键心理关口，这一汇率变动引发市场高度关注，投资者正密切观望印尼央行是否会针对此次波动推出更强有力的干预应对措施。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihgEQkJDRSWY/v1/1200x-1.jpg",
+      "article_ids": [
+        "2e320c47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2e320c47",
+          "source": "Bloomberg",
+          "title": "印尼盾兑美元触及18000点位 市场关注央行干预",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/idr-usd-rupiah-near-18-000-level-has-markets-on-guard-for-intervention",
+          "published_at": "2026-06-03T23:57:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T23:57:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ddae207",
+      "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+      "summary": "6月3日财经科技领域热点频出：A股联讯仪器盘中股价冲破2000元，成为A股开市以来第四只两千元股，硬科技属性鲜明；问界回应台州M9事故称事故为撞击异物导致，非车辆自身原因；马斯克因SpaceX即将IPO，身家有望突破万亿美元，另有多家银行下架长定期存款、AI领域多起新品融资等动态。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "89ecae7d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "89ecae7d",
+          "source": "36氪",
+          "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+          "link": "https://36kr.com/p/3838091144464644?f=rss",
+          "published_at": "2026-06-03T23:53:43+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T23:53:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b39b193",
+      "title": "美众议院通过决议 限制特朗普对伊动武权力 - 中国网",
+      "summary": "美国众议院正式通过决议，明确对总统特朗普对伊朗动武的权力作出限制，这一时政消息由中国网发布，感兴趣的读者可前往Google新闻平台，查看更多与该事件相关的头条新闻以及各方观点",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ba1b79c1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ba1b79c1",
+          "source": "Google News (中国)",
+          "title": "美众议院通过决议 限制特朗普对伊动武权力 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43N1A1c0N1Nmxrcjd3MWduM3hUOU9XM09GSWlKelpVRy1GNFpjSzFlV3FuelNyUzl0YW5CUTUwRkRJWENwOTNEYTJKdkx5dFUzV0hFUTgtRktLWXRMN1BRMmRvLXl1QnA4RVJOZktlcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-03T23:37:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T23:37:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c688fd6e",
+      "title": "消息人士称Lovable与谷歌云签署多年协议 将用量提升五倍",
+      "summary": "据消息人士透露，Lovable与谷歌签署了扩大合作范围的多年协议。根据协议内容，Lovable将把自身在谷歌云平台的使用规模扩大五倍，同时还将扩大对人工智能大模型Anthropic Claude的访问权限。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1fe21f8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1fe21f8d",
+          "source": "TechCrunch",
+          "title": "消息人士称Lovable与谷歌云签署多年协议 将用量提升五倍",
+          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "published_at": "2026-06-03T22:56:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T22:56:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c688fd6e",
+      "title": "消息人士称Lovable与谷歌云签署多年协议 拟将云使用量提升五倍",
+      "summary": "消息人士透露，Lovable已与谷歌云签署扩展合作的多年协议。协议约定，Lovable在谷歌云平台的使用规模将扩大五倍，同时Lovable还将获得更多权限，可访问使用Anthropic Claude。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1fe21f8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "1fe21f8d",
+          "source": "TechCrunch AI",
+          "title": "消息人士称Lovable与谷歌云签署多年协议 拟将云使用量提升五倍",
+          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "published_at": "2026-06-03T22:56:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T22:56:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f50dc283",
+      "title": "市场综述：科技股拖累亚洲股指脱离纪录高点 油价下跌",
+      "summary": "芯片制造商博通公司给出疲软业绩预测后，此前推动全球股市升至纪录新高的AI驱动行情丧失上涨动能，亚洲股市随美国股指期货走低，叠加油价回落，亚洲股指由此脱离此前创下的纪录高点。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.aMwwfDBt9E/v3/1200x-1.png",
+      "article_ids": [
+        "bfc3f9e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bfc3f9e1",
+          "source": "Bloomberg",
+          "title": "市场综述：科技股拖累亚洲股指脱离纪录高点 油价下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
+          "published_at": "2026-06-03T22:04:45+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T22:04:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e17805f4",
+      "title": "以色列与黎巴嫩达成有条件停火 油价下跌",
+      "summary": "此前油价已连续三日上涨，以色列与黎巴嫩达成有条件停火协议，协议要求真主党也停止敌对行动。该停火共识或将消除美国与伊朗谈判的一大关键症结，受此消息影响油价出现回落。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEQRc8VmOwU/v1/1200x-1.jpg",
+      "article_ids": [
+        "7dc8e909"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7dc8e909",
+          "source": "Bloomberg",
+          "title": "以色列与黎巴嫩达成有条件停火 油价下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
+          "published_at": "2026-06-03T22:01:29+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T22:01:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0338fccc",
+      "title": "能取则取：南海新现实",
+      "summary": "南海近来出现新动向，多年来南海其他相关方一直观望中国通过填海造地支撑自身宽泛的主权主张，如今这些国家也开始效仿，纷纷在南海开展填海造地作业，形成了南海局势的全新现实。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg",
+      "article_ids": [
+        "1f48db6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1f48db6f",
+          "source": "BBC World",
+          "title": "能取则取：南海新现实",
+          "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-03T22:00:21+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T22:00:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4bffefca",
+      "title": "苹果公司本周将在得克萨斯州推行年龄验证",
+      "summary": "苹果将于6月4日周四起，在美国得克萨斯州的应用商店推出年龄验证机制。此前美国联邦上诉法院准许得克萨斯州《应用商店问责法案》在相关诉讼审理期间先行生效，该措施就在法案生效数天后推出，这一消息由科技媒体MacRumors率先披露。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ff49347e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ff49347e",
+          "source": "The Verge",
+          "title": "苹果公司本周将在得克萨斯州推行年龄验证",
+          "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+          "published_at": "2026-06-03T21:49:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T21:49:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b7f55fa",
+      "title": "WiiM推出新款条形音箱 拓展全屋生态",
+      "summary": "音频厂商WiiM打破了发烧级音频性能需高昂成本的固有认知，将于7月推出全新WiiM Bar条形音箱，以此拓展其全屋音频生态。该新品延续品牌路线，支持多种流媒体播放，具备可拓展性，定价亲民。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "acb2baec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "acb2baec",
+          "source": "The Verge",
+          "title": "WiiM推出新款条形音箱 拓展全屋生态",
+          "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+          "published_at": "2026-06-03T21:12:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T21:12:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40676012",
+      "title": "国防科技涌入海量资本，谁能长久立足？",
+      "summary": "当前国防科技领域热度高涨，安杜里尔估值翻倍，马赫工业估值涨至四倍，美国政府提议将国防预算提升40%，大量新兴初创企业争相竞标政府合同。曾给安杜里尔投出首笔资金的风投罗斯·富比尼认为，多数初创会折在原型合同后的“死亡谷”。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "142f543b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "142f543b",
+          "source": "TechCrunch",
+          "title": "国防科技涌入海量资本，谁能长久立足？",
+          "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+          "published_at": "2026-06-03T20:51:41+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T20:51:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "007c090b",
+      "title": "特朗普与内塔尼亚胡“疯狂”通话令伊朗谈判复杂化",
+      "summary": "有消息曝出美国前总统特朗普与以色列总理内塔尼亚胡的一通“疯狂”通话，该事件令伊朗相关谈判进一步复杂化。内塔尼亚胡对双方产生分歧的传闻一笑置之，但他过往的行事早已透支了多任美国总统的耐心。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg",
+      "article_ids": [
+        "f584d545"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f584d545",
+          "source": "BBC World",
+          "title": "特朗普与内塔尼亚胡“疯狂”通话令伊朗谈判复杂化",
+          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-03T20:28:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T20:28:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f6cc709",
+      "title": "德国、菲律宾落选---奥地利、葡萄牙、吉尔吉斯斯坦等五国当选安理会非常任理事国 - UN News",
+      "summary": "联合国安理会非常任理事国选举结果出炉，奥地利、葡萄牙、吉尔吉斯斯坦等五国成功当选，参与角逐的德国、菲律宾落选。本次部分席位竞争激烈，奥地利对阵德国、吉尔吉斯斯坦对阵菲律宾，其中吉尔吉斯斯坦是首次当选安理会非常任理事国。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cc3eba8c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cc3eba8c",
+          "source": "Google News (中国)",
+          "title": "德国、菲律宾落选---奥地利、葡萄牙、吉尔吉斯斯坦等五国当选安理会非常任理事国 - UN News",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WbHAtUW41eHVjUjdmU3Z2MDc1S09MWmxVZjFsWUJkS0tvNTdueDFXak9GY1VPdVFJbG9lWmxlbTlEZDFZQ1N0bkRNeFptRUEwckNMSElfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-03T20:10:37+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T20:10:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd002689",
+      "title": "优步今年将部署500辆数据采集车上路",
+      "summary": "出行服务商优步计划今年投入500辆数据采集车正式开展道路运营。这些经过改装的现代艾尼氪5车辆搭载了专用传感器，将为优步新成立的自动驾驶实验室部门采集研发所需数据。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "eee42c55"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "eee42c55",
+          "source": "TechCrunch",
+          "title": "优步今年将部署500辆数据采集车上路",
+          "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+          "published_at": "2026-06-03T20:08:28+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T20:08:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8ce8598",
+      "title": "英伟达已规划N2X与N3X芯片 目标打造《星际迷航》式计算机",
+      "summary": "2026年台北国际电脑展上，英伟达首席执行官黄仁勋证实，RTX Spark并非一次性项目，英伟达不满足于仅试水消费级笔记本芯片市场，已规划至少两代后续新品N2X与N3X芯片，目标打造《星际迷航》中那样的高性能计算机。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "43753bda"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "43753bda",
+          "source": "The Verge",
+          "title": "英伟达已规划N2X与N3X芯片 目标打造《星际迷航》式计算机",
+          "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+          "published_at": "2026-06-03T20:03:50+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T20:03:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c3147a3e",
+      "title": "看不懂Dashlane的密码库被盗通知？不止你一个",
+      "summary": "密码管理服务商Dashlane曝出密码库被盗事件后，发布的安全公告遗漏关键细节，无法解答用户疑问，不少用户都对这份通知摸不着头绪，Dashlane至今对相关情况保持完全沉默，未补充任何必要信息。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/dashlane-app-1152x648-1780514208.webp",
+      "article_ids": [
+        "1bbdc9b8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "1bbdc9b8",
+          "source": "Ars Technica",
+          "title": "看不懂Dashlane的密码库被盗通知？不止你一个",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+          "published_at": "2026-06-03T19:53:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:53:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "011d8201",
+      "title": "字母表为谷歌AI业务破纪录募资850亿美元 释放极强利好信号",
+      "summary": "谷歌母公司字母表完成破纪录的850亿美元股票发售，为旗下谷歌人工智能业务募资。此举释放出明确信号，显示投资者对AI相关业务有着旺盛投资需求，当前市场对AI赛道投资热情高涨。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ea445526"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ea445526",
+          "source": "TechCrunch",
+          "title": "字母表为谷歌AI业务破纪录募资850亿美元 释放极强利好信号",
+          "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "published_at": "2026-06-03T19:38:32+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:38:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "011d8201",
+      "title": "Alphabet为谷歌AI业务筹得创纪录850亿美元 释放强劲利好信号",
+      "summary": "谷歌母公司Alphabet完成创纪录的850亿美元股票发售，募资将用于谷歌AI相关业务。此次大额募资顺利落地，体现出投资者对AI相关赛道投资需求旺盛，为AI产业发展释放出强烈积极信号。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ea445526"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ea445526",
+          "source": "TechCrunch AI",
+          "title": "Alphabet为谷歌AI业务筹得创纪录850亿美元 释放强劲利好信号",
+          "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "published_at": "2026-06-03T19:38:32+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:38:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fbf4b55c",
+      "title": "Meta网开一面，未关停VR健身游戏《Supernatural》而是将其分拆",
+      "summary": "Meta此前开展大规模裁员后，旗下VR健身游戏《Supernatural》一度面临关停命运，引发该应用大量用户集体抗议。Meta最终听取了用户诉求，并未直接关停这款游戏，选择将其从原有业务中分拆独立。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "82c9447f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "82c9447f",
+          "source": "TechCrunch",
+          "title": "Meta网开一面，未关停VR健身游戏《Supernatural》而是将其分拆",
+          "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+          "published_at": "2026-06-03T19:22:53+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:22:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7744c72",
+      "title": "Substack全新\"回复规则\"功能允许创作者管控受众回复方式",
+      "summary": "内容订阅平台Substack推出全新\"回复规则\"功能，目前该功能已向平台内所有英文内容出版物开放。这一功能可赋予创作者更大的互动管理权限，让创作者自主管控受众的回复方式，满足创作者对内容互动区域的管理需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a23f0327"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a23f0327",
+          "source": "TechCrunch",
+          "title": "Substack全新\"回复规则\"功能允许创作者管控受众回复方式",
+          "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+          "published_at": "2026-06-03T19:08:55+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:08:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "60d93967",
+      "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+      "summary": "谷歌推出了一款迄今命名最为奇特的AI工具Dreambeans，该工具可将用户的日常生活转化为趣味卡通内容。它会提取用户谷歌账号中的个人数据，整理生成一系列由AI绘制插画的专属“故事”合集。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "51fe822e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "51fe822e",
+          "source": "TechCrunch",
+          "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+          "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "published_at": "2026-06-03T19:07:42+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:07:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "60d93967",
+      "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+      "summary": "谷歌推出了迄今命名最奇特的AI工具Dreambeans，该工具会提取用户谷歌账户内的个人数据，基于这些数据生成由AI绘制的内容，最终整理为精选的个性化“故事”合集，可将用户日常生活转化为卡通内容。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "51fe822e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "51fe822e",
+          "source": "TechCrunch AI",
+          "title": "谷歌迄今命名最奇特AI工具Dreambeans可将你的生活变成卡通",
+          "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "published_at": "2026-06-03T19:07:42+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:07:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3d36e7f3",
+      "title": "适配苹果与安卓手机的最佳蓝牙追踪器",
+      "summary": "生活中一部分人向来条理清晰，从不丢东西，钱包、钥匙等物品总能待在正确位置，但多数人都常常遇到刚放好的东西转眼就找不到的情况，蓝牙追踪器正是为这类丢三落四的人群准备的实用工具。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "85fd2867"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "85fd2867",
+          "source": "The Verge",
+          "title": "适配苹果与安卓手机的最佳蓝牙追踪器",
+          "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+          "published_at": "2026-06-03T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12265802",
+      "title": "适用于iPhone与Pixel的最佳Qi2移动电源",
+      "summary": "过去一年，便携移动电源充电速度大幅提升，不止USB-C充电速度得到升级，最新Qi2.2认证款移动电源可为iPhone 16及更新机型提供最高25W无线充电，同时支持MagSafe磁吸吸附，适配iPhone与Pixel使用。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b7f368a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b7f368a4",
+          "source": "The Verge",
+          "title": "适用于iPhone与Pixel的最佳Qi2移动电源",
+          "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+          "published_at": "2026-06-03T18:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T18:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e0f0f73b",
+      "title": "AI愈发先进，暴露空诺本质",
+      "summary": "本周，两名记者先后上手体验谷歌新推出的Gemini AI智能体Spark，二人得出相近结论：它的能力强得令人不安。这款AI能获取体验者并未主动告知的私人信息，包括一名记者的爱犬名字、另一名记者妻子的名字。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "29a9efb7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "29a9efb7",
+          "source": "The Verge",
+          "title": "AI愈发先进，暴露空诺本质",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "published_at": "2026-06-03T17:45:35+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T17:45:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e0f0f73b",
+      "title": "AI愈发强大，暴露空头承诺",
+      "summary": "本周，记者戴维·皮尔斯和杰伊·彼得斯上手体验谷歌新款Gemini人工智能智能体Spark，二人得出相近结论：这款人工智能效果出色得令人不安，它能在用户未主动告知的情况下，准确知晓体验者的爱犬名字、体验者妻子的名字等私人信息。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "29a9efb7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "29a9efb7",
+          "source": "The Verge AI",
+          "title": "AI愈发强大，暴露空头承诺",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "published_at": "2026-06-03T17:45:35+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T17:45:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f915c814",
+      "title": "Ultrahuman称黑客通过内部工具获取客户健康数据",
+      "summary": "可穿戴智能戒指厂商Ultrahuman确认发生数据泄露事件，本次泄露源于一名员工的笔记本电脑感染恶意软件，账号登录凭证遭窃取，黑客借此通过内部工具获取了该品牌客户的健康数据。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ed469302"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ed469302",
+          "source": "TechCrunch",
+          "title": "Ultrahuman称黑客通过内部工具获取客户健康数据",
+          "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+          "published_at": "2026-06-03T17:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T17:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc97c0b2",
+      "title": "卡瓦纳计划开展新车销售 与贝佐斯支持的斯莱特汽车达成合作",
+      "summary": "据TechCrunch获取的文件显示，卡瓦纳去年就已获得收购斯莱特汽车股份的认股权证，古根海姆合伙人公司首席执行官马克·沃尔特对两家公司均有大额投资，卡瓦纳此次联手斯莱特汽车布局新车销售业务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "323290ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "323290ae",
+          "source": "TechCrunch",
+          "title": "卡瓦纳计划开展新车销售 与贝佐斯支持的斯莱特汽车达成合作",
+          "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+          "published_at": "2026-06-03T17:25:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T17:25:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ccee9ed1",
+      "title": "虚拟电厂如何可为数据中心供能",
+      "summary": "谷歌近日与Voltus达成新协议，将出资在美国最大电网建设一座虚拟电厂，探索虚拟电厂为数据中心供能的新模式。该项目将通过付费补偿用户主动下调用电需求，以此腾挪出电力供给当地数据中心。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "75963495"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "75963495",
+          "source": "MIT Technology Review",
+          "title": "虚拟电厂如何可为数据中心供能",
+          "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+          "published_at": "2026-06-03T16:51:38+00:00"
+        }
+      ],
+      "published_at": "2026-06-03T16:51:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5cef7744",
+      "title": "伊朗战事实时更新：科威特机场遭无人机密集袭击 致1死数十伤",
+      "summary": "经《纽约时报》核实的视频画面显示，科威特国际机场内部出现火情。此次无人机袭击是今年4月美伊宣布停火以来，海湾国家遭遇的规模最大的袭击行动之一，事件目前已造成1人死亡、数十人受伤。",
       "category": "world",
       "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03mideast-gulf-attacks-wzqp/03mideast-gulf-attacks-wzqp-mediumSquareAt3X.jpg",
       "article_ids": [
-        "31f0a997",
-        "ac70bc06"
+        "31f0a997"
       ],
-      "article_count": 2,
-      "source_count": 2,
+      "article_count": 1,
+      "source_count": 1,
       "sources": [
-        "NYTimes World",
-        "BBC World"
+        "NYTimes World"
       ],
       "articles": [
         {
@@ -870,17 +2220,10 @@
           "title": "伊朗战事实时更新：科威特机场遭无人机密集袭击 致1死数十伤",
           "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
           "published_at": "2026-06-03T16:15:37+00:00"
-        },
-        {
-          "id": "ac70bc06",
-          "source": "BBC World",
-          "title": "伊朗无人机袭击科威特机场致1死数十人受伤",
-          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T14:02:25+00:00"
         }
       ],
       "published_at": "2026-06-03T16:15:37+00:00",
-      "is_merged": true
+      "is_merged": false
     },
     {
       "id": "75247ef5",
@@ -1062,1315 +2405,6 @@
         }
       ],
       "published_at": "2026-06-03T16:04:05+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "986daa78",
-      "title": "维多集团警告：汽油或成下一个面临供应短缺的燃料",
-      "summary": "石油贸易巨头维多集团表示，随着伊朗战事持续发酵，全球能源供应承压，汽油很有可能成为下一个面临巨大供应压力的石油产品，全球燃料市场将迎来新的供应短缺挑战，汽油供应短缺风险正持续上升。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iizbLn0uydJg/v1/1200x-1.jpg",
-      "article_ids": [
-        "737b245b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "737b245b",
-          "source": "Bloomberg",
-          "title": "维多集团警告：汽油或成下一个面临供应短缺的燃料",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/vitol-warns-gasoline-could-be-next-fuel-to-face-supply-crunch",
-          "published_at": "2026-06-03T15:58:44+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:58:44+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "77c00baf",
-      "title": "亚马逊将在部分搜索场景展示AI生成商品图片",
-      "summary": "电商平台亚马逊将运用视觉搜索与人工智能技术，在用户搜索商品时，展示与搜索词匹配的AI生成商品图片。亚马逊方面表示，这项功能将帮助引导用户找到想要的商品。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "d0737aad"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "d0737aad",
-          "source": "TechCrunch",
-          "title": "亚马逊将在部分搜索场景展示AI生成商品图片",
-          "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-          "published_at": "2026-06-03T15:50:26+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:50:26+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "77c00baf",
-      "title": "亚马逊将在部分搜索中展示AI生成商品图像",
-      "summary": "电商平台亚马逊计划推出一项新功能，将结合视觉搜索与人工智能技术，生成匹配用户搜索需求的AI商品图，并在搜索结果页展示。亚马逊称该功能可以更好引导用户找到目标商品，提升搜索购物的体验。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "d0737aad"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "d0737aad",
-          "source": "TechCrunch AI",
-          "title": "亚马逊将在部分搜索中展示AI生成商品图像",
-          "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-          "published_at": "2026-06-03T15:50:26+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:50:26+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "83dc856b",
-      "title": "霍莉·金称私募信贷将面临“违约潮”",
-      "summary": "格兰登资本联合创始人霍莉·金在纽约举办的彭博全球信贷论坛上表示，即便不考虑经济动荡或通胀相关因素带来的冲击，私募信贷行业仍将出现大量“违约积压”，相关消息源自彭博社。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglfFQlvP3tI/v3/1200x-1.jpg",
-      "article_ids": [
-        "534daca6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "534daca6",
-          "source": "Bloomberg",
-          "title": "霍莉·金称私募信贷将面临“违约潮”",
-          "link": "https://www.bloomberg.com/news/videos/2026-06-03/private-credit-faces-pipeline-of-defaults-holly-kim-video",
-          "published_at": "2026-06-03T15:49:29+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:49:29+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "918779f1",
-      "title": "前英国政治助手、拜登内阁部长在加州州长初选计票中领先",
-      "summary": "美国加州州长初选正在进行计票，目前前两名分别是前英国政治助手出身的候选人和拜登内阁部长，另一名民主党人、亿万富翁气候活动家汤姆·斯泰尔暂居第三位，整体计票工作仍在推进当中。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a5/live/3ae81b30-5efe-11f1-8b8c-6d33e1d5abb6.jpg",
-      "article_ids": [
-        "5bc366ac"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "5bc366ac",
-          "source": "BBC World",
-          "title": "前英国政治助手、拜登内阁部长在加州州长初选计票中领先",
-          "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T15:32:30+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:32:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8819d208",
-      "title": "仍面临版权诉讼 AI音乐生成商Suno再融4亿美元",
-      "summary": "知名AI音乐生成初创企业Suno完成新一轮4亿美元融资，目前公司估值已超54亿美元。距其上一轮融资仅约七个月，彼时公司估值为24.5亿美元，当前Suno仍面临版权相关诉讼。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "4099f7ce"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "4099f7ce",
-          "source": "TechCrunch",
-          "title": "仍面临版权诉讼 AI音乐生成商Suno再融4亿美元",
-          "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
-          "published_at": "2026-06-03T15:31:42+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:31:42+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9e8ffac1",
-      "title": "先锋集团VOO资产达万亿美元 创ETF行业首例",
-      "summary": "投资者对美股持续的逢低买入需求，推动先锋集团追踪标普500指数的VOO ETF资产规模突破万亿美元，这是全球ETF行业首只达到这一规模的产品，该里程碑曾被认为是行业难以实现的目标。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZQjtT4dvuiI/v2/1200x-1.png",
-      "article_ids": [
-        "1b59a026"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "1b59a026",
-          "source": "Bloomberg",
-          "title": "先锋集团VOO资产达万亿美元 创ETF行业首例",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/vanguard-s-voo-hits-1-trillion-of-assets-in-etf-industry-first",
-          "published_at": "2026-06-03T15:31:30+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:31:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "18997656",
-      "title": "PlayStation回归自身优势领域",
-      "summary": "PlayStation在最新一期State of Play展示活动中明确了发展重心。此前该品牌一系列高成本在线服务项目接连失利，接下来将重新聚焦优质叙事导向的单人游戏，这一发展方向在本次一小时的展示活动中得到清晰体现。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "6c9234f1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "6c9234f1",
-          "source": "The Verge",
-          "title": "PlayStation回归自身优势领域",
-          "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-          "published_at": "2026-06-03T15:30:15+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:30:15+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6cc601ee",
-      "title": "阿瑞斯首席执行官阿鲁格蒂称私人信贷市场并未失灵",
-      "summary": "阿瑞斯管理联合创始人兼首席执行官迈克尔·阿鲁格蒂，近日在纽约举办的福布斯反传统峰会上接受丹妮·伯格采访时表示，私人信贷市场整体依旧强劲，近期该市场出现的压力与私募股权相关，该消息源自彭博社。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv_NcnX6FCag/v3/1200x-1.jpg",
-      "article_ids": [
-        "86593708"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "86593708",
-          "source": "Bloomberg",
-          "title": "阿瑞斯首席执行官阿鲁格蒂称私人信贷市场并未失灵",
-          "link": "https://www.bloomberg.com/news/videos/2026-06-03/ares-ceo-arougheti-says-private-credit-isn-t-broken-video",
-          "published_at": "2026-06-03T15:23:40+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:23:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "4b4734a0",
-      "title": "美伊冲突令和平协议前景蒙尘 油价上涨",
-      "summary": "油价已连续第三日上涨，美国与伊朗的新一轮交火，令有望重新开放霍尔木兹海峡的和平协议前景生变。Energy Vista创始人莱斯利·帕蒂-古兹门将发布伊朗战事背景下油气价格展望的最新分析，消息源自彭博社。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik_Awp5QU730/v3/1200x-1.jpg",
-      "article_ids": [
-        "e602672d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "e602672d",
-          "source": "Bloomberg",
-          "title": "美伊冲突令和平协议前景蒙尘 油价上涨",
-          "link": "https://www.bloomberg.com/news/videos/2026-06-03/oil-gains-as-us-iran-clashes-cloud-peace-deal-outlook-video",
-          "published_at": "2026-06-03T15:23:35+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:23:35+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7f4b0ce7",
-      "title": "乌克兰俄控区一巴士遭无人机袭击致八人死亡",
-      "summary": "乌克兰被俄罗斯控制的区域发生一起无人机袭击巴士事件，事件共造成八人死亡。一名相关官员透露，遇袭巴士是在乌克兰东部的顿涅茨克地区遭无人机击中，目前暂未披露更多相关细节。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e122/live/1fbe2850-5f34-11f1-b682-cf91850925ea.jpg",
-      "article_ids": [
-        "571cd537"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "571cd537",
-          "source": "BBC World",
-          "title": "乌克兰俄控区一巴士遭无人机袭击致八人死亡",
-          "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T15:18:28+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:18:28+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f9604afd",
-      "title": "哥伦比亚广播公司新闻部解雇《60分钟》记者斯科特·佩利",
-      "summary": "美国哥伦比亚广播公司新闻部解雇了旗下老牌新闻节目《60分钟》的资深主持人斯科特·佩利。此次解雇源于本周一次员工会议上，佩利当面与管理层对峙，公开指责领导层正在\"扼杀\"这档知名新闻节目。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/d0723c60-5f3c-11f1-b027-7de5029274c2.jpg",
-      "article_ids": [
-        "564f523e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "564f523e",
-          "source": "BBC World",
-          "title": "哥伦比亚广播公司新闻部解雇《60分钟》记者斯科特·佩利",
-          "link": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T15:15:48+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:15:48+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7648fb5b",
-      "title": "美国以强迫劳动关切为由宣布加征新关税",
-      "summary": "美国宣布加征新关税，这一举措出台于今年2月美国最高法院作出相关裁决之后。当时最高法院推翻了美国前总统唐纳德·特朗普此前推出的多项关税，裁定该批关税无效。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/78de3db0-5f27-11f1-9da4-8b99067aa239.jpg",
-      "article_ids": [
-        "c29dc2e2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "c29dc2e2",
-          "source": "BBC World",
-          "title": "美国以强迫劳动关切为由宣布加征新关税",
-          "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T15:12:28+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:12:28+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "690048e0",
-      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
-      "summary": "这是汇总多领域财经科技动态的晚报资讯：段永平增持泡泡玛特H股持股至6.04%，兖矿能源拟164.15亿元收购控股股东旗下新能源资产，知乎一季度扭亏，5月国内新能源乘用车零售同比降5%，现货白银跌破74美元/盎司，另有企业发债、AI合作、投融资等多项动态。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "14b5e9f6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "36氪"
-      ],
-      "articles": [
-        {
-          "id": "14b5e9f6",
-          "source": "36氪",
-          "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
-          "link": "https://36kr.com/p/3837330582008963?f=rss",
-          "published_at": "2026-06-03T15:01:21+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:01:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8898a999",
-      "title": "两名创始人离开高盛与Meta，为被忽视市场打造语音人工智能",
-      "summary": "两名创始人分别离开投行高盛与科技企业Meta后，瞄准业内其他参与者忽视的市场赛道打造语音人工智能。目前这家初创企业面向非洲和中东搭建的自有技术栈，每日可处理超过17000通语音呼叫。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "be589092"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "be589092",
-          "source": "TechCrunch",
-          "title": "两名创始人离开高盛与Meta，为被忽视市场打造语音人工智能",
-          "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-          "published_at": "2026-06-03T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9d580e65",
-      "title": "<超自然>并未消亡",
-      "summary": "几个月前，Meta在VR业务整体裁员中，宣布旗下Meta Quest平台热门VR健身游戏《超自然》将不再更新内容，引发该游戏忠实核心社群的强烈不满。如今这款游戏迎来转机，获得了第二次发展机会。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "09a1a302"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "09a1a302",
-          "source": "The Verge",
-          "title": "<超自然>并未消亡",
-          "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-          "published_at": "2026-06-03T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8898a999",
-      "title": "两名创始人离开高盛与Meta 为被忽视市场打造语音人工智能",
-      "summary": "两名曾任职于高盛与Meta的创始人选择离职创业，瞄准被其他科技厂商忽视的市场开发语音人工智能产品。目前该初创企业针对非洲和中东市场搭建的自有技术栈，每日可处理超过1.7万通通话。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "be589092"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "be589092",
-          "source": "TechCrunch AI",
-          "title": "两名创始人离开高盛与Meta 为被忽视市场打造语音人工智能",
-          "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-          "published_at": "2026-06-03T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T15:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "93e3b0cb",
-      "title": "GitLab为扩容平台服务AI工作负载 裁员14%",
-      "summary": "代码托管平台GitLab裁撤占比14%的员工，本次业务调整中，GitLab还将退出22个国家市场，精简管理层级，集中资源投资基础设施建设，扩容自身平台以适配AI工作负载的服务需求。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "2e996c0b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "2e996c0b",
-          "source": "TechCrunch",
-          "title": "GitLab为扩容平台服务AI工作负载 裁员14%",
-          "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-          "published_at": "2026-06-03T14:59:30+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:59:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a6accc32",
-      "title": "英国监管机构裁定谷歌须允许出版商自主选择退出生成式AI搜索",
-      "summary": "英国竞争与市场管理局作出监管裁定，要求谷歌推出专属工具，允许网站出版商自主选择将自身内容排除在谷歌生成式AI搜索功能之外。该退出选项率先在英国测试，完成后将向全球推广，赋予出版商更多内容控制权。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "f82a30b0",
-        "fb64ca63"
-      ],
-      "article_count": 2,
-      "source_count": 2,
-      "sources": [
-        "TechCrunch",
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "f82a30b0",
-          "source": "TechCrunch",
-          "title": "得益于新法规，出版商可选择退出人工智能搜索",
-          "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-          "published_at": "2026-06-03T14:58:33+00:00"
-        },
-        {
-          "id": "fb64ca63",
-          "source": "The Verge",
-          "title": "英国裁定谷歌必须允许出版商退出AI搜索功能",
-          "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-          "published_at": "2026-06-03T08:45:48+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:58:33+00:00",
-      "is_merged": true
-    },
-    {
-      "id": "e22a9601",
-      "title": "新规出台 出版商可选择退出人工智能搜索",
-      "summary": "英国监管机构要求谷歌推出一项相关工具，允许各类网站出版商选择退出生成式人工智能搜索功能。该退出选项将率先在英国开展测试，后续将面向全球范围推广落地。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "f82a30b0"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "f82a30b0",
-          "source": "TechCrunch AI",
-          "title": "新规出台 出版商可选择退出人工智能搜索",
-          "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-          "published_at": "2026-06-03T14:58:33+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:58:33+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6199548b",
-      "title": "追觅L20 Ultra扫拖机器人售价280美元 超值难挡",
-      "summary": "追觅L20 Ultra并非该品牌最新机型，它是一款性能出色的扫拖一体机器人，自带集尘桶、配备AI避障功能，日常维护需求低。该机型2023年首发价为1400美元，目前《The Verge》读者可享史低售价280美元，性价比极高。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "2152b080"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "2152b080",
-          "source": "The Verge",
-          "title": "追觅L20 Ultra扫拖机器人售价280美元 超值难挡",
-          "link": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-          "published_at": "2026-06-03T14:53:10+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:53:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "c2e7e5a2",
-      "title": "英国海军直升机坠毁致三人死亡",
-      "summary": "英国发生一起海军直升机坠毁事故，本次事故共造成三人死亡。事发时涉事直升机正在开展训练演习任务，意外坠毁于英格兰西南部的一处农田中，目前暂无更多事故相关细节披露。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-uk-helicopter-crash-tflv/03int-uk-helicopter-crash-tflv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "1ed14bc2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "1ed14bc2",
-          "source": "NYTimes World",
-          "title": "英国海军直升机坠毁致三人死亡",
-          "link": "https://www.nytimes.com/2026/06/03/world/europe/navy-helicopter-crash-kills-three-in-britain.html",
-          "published_at": "2026-06-03T14:49:38+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:49:38+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "28d86450",
-      "title": "TikTok推出面向世界杯等文化时刻的应用TikTok Pro Events",
-      "summary": "TikTok推出专为世界杯等各类文化活动打造的全新应用TikTok Pro Events。该应用支持用户和同好粉丝互动交流，方便用户探索相关热门内容，还可为用户提供平台精心策划整理的创作者专属内容推送。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "c69635cf"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "c69635cf",
-          "source": "TechCrunch",
-          "title": "TikTok推出面向世界杯等文化时刻的应用TikTok Pro Events",
-          "link": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
-          "published_at": "2026-06-03T14:04:38+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:04:38+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "356b6402",
-      "title": "微软与OpenAI拆分 如今已准备好迎战",
-      "summary": "本周二，微软在其年度Build大会上宣布了多项全新或拓展升级的人工智能项目，涵盖超级应用、自研推理模型、网络安全工具、类OpenClaw智能代理等，明确传递出微软力争跻身全球AI领域头部玩家行列的信号。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "00653aa1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "00653aa1",
-          "source": "The Verge",
-          "title": "微软与OpenAI拆分 如今已准备好迎战",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-          "published_at": "2026-06-03T14:04:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:04:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "356b6402",
-      "title": "微软与OpenAI拆分完毕 现已整装待战",
-      "summary": "周二，微软在年度Build大会上公布了一系列新增或拓展的人工智能项目，涵盖超级应用、自研推理模型、网络安全工具、类OpenClaw AI智能体，明确传递出微软将致力成为人工智能领域头部核心玩家的信号。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "00653aa1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "00653aa1",
-          "source": "The Verge AI",
-          "title": "微软与OpenAI拆分完毕 现已整装待战",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-          "published_at": "2026-06-03T14:04:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:04:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "54981675",
-      "title": "2026年迄今为止最严重的黑客攻击与数据泄露事件",
-      "summary": "梳理了2026年迄今为止造成最严重破坏的多起安全攻击与数据泄露事件，涵盖多起重大安全事故，既包括大规模DOGE数据泄露、关键能源与供水系统遭黑客入侵，也涉及FBI监控系统被黑客攻破的事件。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "3cde204e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "3cde204e",
-          "source": "TechCrunch",
-          "title": "2026年迄今为止最严重的黑客攻击与数据泄露事件",
-          "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
-          "published_at": "2026-06-03T14:02:45+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:02:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "aae0274b",
-      "title": "Wander：受StumbleUpon启发的小众网络发现工具",
-      "summary": "这是一款由开源社区项目打造的新工具，设计灵感源自老牌站点发现平台StumbleUpon，可为用户打造类似的站点发现体验，支持用户分享推荐自己喜爱的站点，帮助用户探索互联网中的小众网络。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "d2890bb7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "d2890bb7",
-          "source": "TechCrunch",
-          "title": "Wander：受StumbleUpon启发的小众网络发现工具",
-          "link": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
-          "published_at": "2026-06-03T14:00:58+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T14:00:58+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "88d35beb",
-      "title": "Meta面向WhatsApp商业版的AI代理现已全球上线",
-      "summary": "Meta面向WhatsApp商业版打造的AI代理目前已正式在全球范围内开放使用。WhatsApp方面明确，企业使用这款AI代理，将按照令牌（token）的实际使用量收取相应服务费用，服务面向使用该平台开展业务的企业开放。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "218e40b9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "218e40b9",
-          "source": "TechCrunch",
-          "title": "Meta面向WhatsApp商业版的AI代理现已全球上线",
-          "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-          "published_at": "2026-06-03T13:40:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:40:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "88d35beb",
-      "title": "Meta为WhatsApp商业版打造的AI智能体现已全球上线",
-      "summary": "Meta面向WhatsApp商业版打造的AI智能体现已正式在全球范围开放使用。WhatsApp将对使用该AI智能体的商家采取按量计费模式，根据商家的token使用量收取对应服务费用。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "218e40b9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "218e40b9",
-          "source": "TechCrunch AI",
-          "title": "Meta为WhatsApp商业版打造的AI智能体现已全球上线",
-          "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-          "published_at": "2026-06-03T13:40:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:40:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6bb7232e",
-      "title": "川观夜读丨“人造月亮”点亮“三夏”抢收之路；平陆运河全线通水；台风“蔷薇”登陆日本 - 四川新闻",
-      "summary": "本期川观夜读汇总三则核心资讯：“人造月亮”点亮“三夏”抢收之路，保障抢收作业推进；备受关注的世纪工程平陆运河已实现全线通水，这条西南出海通道可通航5000吨级船舶，将于8月开展全线实船试验；台风“蔷薇”已登陆日本。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "e0ed7b19"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "e0ed7b19",
-          "source": "Google News (中国)",
-          "title": "川观夜读丨“人造月亮”点亮“三夏”抢收之路；平陆运河全线通水；台风“蔷薇”登陆日本 - 四川新闻",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jRnpueGpoLXIxR0NmNDlvanJ3a2hyYXY2QjFVRlJ4eGE2VXcyR0RVUm5vMFE2UjNOcFBJOFU5ak5xaFZ0TW1nVzVBMnByR3NZdmlkakJpdFFrZ3ZDVmc3RGQ1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T13:29:11+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:29:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "01ccfae0",
-      "title": "微软Surface Laptop Ultra与Surface Dev Box抢先看",
-      "summary": "微软将于今年晚些时候推出两款全新Surface设备，两款新品均搭载英伟达RTX Spark芯片。记者本周在微软举办的Build大会上获得机会，得以近距离提前探访体验这两款产品。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "f90cf2af"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "f90cf2af",
-          "source": "The Verge",
-          "title": "微软Surface Laptop Ultra与Surface Dev Box抢先看",
-          "link": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-          "published_at": "2026-06-03T13:22:17+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:22:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2dfbeb1a",
-      "title": "霞光漫卷西山，京城邂逅鎏金黄昏 - 新京报",
-      "summary": "五月最后一天，北京天空出现浪漫晚霞，霞光漫卷西山，呈现出鎏金、浅橘、绯红等绚烂色彩，流云映天如梦似幻，新京报、腾讯新闻、搜狐网、光明网、中华网等多家媒体都对这一动人天象进行了报道。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "49490378"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "49490378",
-          "source": "Google News (中国)",
-          "title": "霞光漫卷西山，京城邂逅鎏金黄昏 - 新京报",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfYWlxV1YxUXhMWmI0SUFMdXh5S0ZDVFlpeW9tektyNUk3OWYxTHBtbTNhS083SklaVmVFaFdBeVJzOG45SGhCbTVtWmR0LVZ1SC1JNzBwSmVBZm5RTHJQOFFjc0o?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T13:14:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:14:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "24564583",
-      "title": "要闻解说 - 乌克兰无人机袭击阴影下 “俄罗斯达沃斯”论坛开幕 - RFI",
-      "summary": "素有“俄罗斯达沃斯”之称的俄罗斯经济论坛将于圣彼得堡开幕，普京将发表讲话，联合国秘书长也将出席。目前论坛举办笼罩在乌克兰无人机袭击阴影下，乌方称打击了俄境内多处重要目标，乌无人机袭击圣彼得堡石油码头并引发爆炸。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "5f2e48f1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "5f2e48f1",
-          "source": "Google News (中国)",
-          "title": "要闻解说 - 乌克兰无人机袭击阴影下 “俄罗斯达沃斯”论坛开幕 - RFI",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQMHF4Qkp1b1AtYi1kTWxxNDVBeEkydzBhUndUQzg0X3VRWHFleDJ6UHlDQVNjTmpRUlZYeEhwRXRnaDAzaVo2R3FsUUdxYm5VOTh4YUo4X2tFR09HQ3RCblhVS3p6aWlqZ0VYQ0Vwc24tSmZkRHl2aVF0VmdLWDVrNmNjNGJnYnhJSzVnRERlcXYzbm56OVJDNTVWOUZUY1BjeldUdTNXVHVVeTE1eXByTTJzOEJpS1R0NVJaYWs5LVFhTXBBbS14Y3VjeG5QNVZlRlBpN0RGekF5NVNLMHY0Y1IwaXNHcGtMR0hEWlBHU2NyWXRYWUNYYlc5WkVETEJRWnRoY0J2R2JuYVFhOU5Yc2UzMTd5ZGVLV0VwY2tGWFVWNE8yNjhCMHZFb3ktYjhRY0ZoRThOcjFGT1VSa2JTMVgtcXZLUk9YbW5MUTJMbTZSWlJieFQtUVV1S0VXUTZyZzlIekE0M3RZWWZtOUszdlZmZFNGVW5mY0hpLWZrVGhVek9Lb0lhWTBkV3NMZWpEbGdWdGcwRTBCVXZqMUJKbkFVZDlYSU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T13:12:24+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:12:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "76035737",
-      "title": "押注AI智能体存在监控需求，Coralogix完成2亿美元融资",
-      "summary": "数据监控服务商Coralogix完成F轮融资，融资金额为2亿美元，本轮融资后公司估值达16亿美元。本次融资距其上一轮融资完成不到一年，融资核心逻辑为押注AI智能体监控存在市场需求。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "ad14f408"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "ad14f408",
-          "source": "TechCrunch AI",
-          "title": "押注AI智能体存在监控需求，Coralogix完成2亿美元融资",
-          "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-          "published_at": "2026-06-03T13:02:51+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T13:02:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "c7a0f69f",
-      "title": "加快农业农村现代化 “十五五”规划引领新进展 - 中华网",
-      "summary": "我国出台“十五五”农业农村现代化发展路线图，明确要补齐“三农”领域短板，提出培育壮大农业新兴产业与未来产业，同时敲定多项量化发展目标，其中粮食产能瞄准1.45万亿斤，对种业、农机发展也明确了量化要求，引领农业农村现代化实现新进展",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "8206399d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "8206399d",
-          "source": "Google News (中国)",
-          "title": "加快农业农村现代化 “十五五”规划引领新进展 - 中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeWZ1NXlqS0J6SnA4VkZnNmFxWnFFV0NBWDZPSDQwR3FRTFBOd2dLQ0p4YlFfY1ZlTmJSNFY0NGlPeXNSMzQ5TU1lRGJ2MEFrVjk2YzM0cUNYU2NWaHNZQ3p4RXNoZjdFODhDTm9BOUM?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T12:32:08+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:32:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "83c0808e",
-      "title": "新德里一酒店发生火灾致至少21人死亡",
-      "summary": "印度新德里一家酒店发生火灾，事故已造成至少21人死亡，另有数十人受伤。当地当局表示，这起火灾是印度首都新德里至少四年来致死人数最多的火灾事故。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-india-fire-01-ckfv/03int-india-fire-01-ckfv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "159f78e3"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "159f78e3",
-          "source": "NYTimes World",
-          "title": "新德里一酒店发生火灾致至少21人死亡",
-          "link": "https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html",
-          "published_at": "2026-06-03T12:29:52+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:29:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cc179770",
-      "title": "通胀成关注焦点 期权交易员看淡就业数据",
-      "summary": "华尔街交易员预计本周五将公布强劲就业报告，不过受战争推动油价大幅上涨，市场关注焦点正日益转向通胀问题，即便最终出炉的就业数据表现强劲，恐怕也不足以安抚市场交易情绪。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixHzD6JnlW4w/v2/1200x-1.png",
-      "article_ids": [
-        "351e3ad2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "351e3ad2",
-          "source": "Bloomberg",
-          "title": "通胀成关注焦点 期权交易员看淡就业数据",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/options-traders-look-past-jobs-data-as-inflation-takes-spotlight",
-          "published_at": "2026-06-03T12:29:31+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:29:31+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ef3f1b58",
-      "title": "特朗普政府拟对巴西加征25%关税 认定巴西两黑帮为“外国恐怖组织” - 财新",
-      "summary": "特朗普政府以不公平贸易行为为由，依据301调查，由美国贸易代表办公室提议对巴西商品加征25%关税，其中牛肉、咖啡等品类获得关税豁免，同时特朗普政府还将巴西的两个黑帮认定为“外国恐怖组织”。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "7f75db27"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "7f75db27",
-          "source": "Google News (中国)",
-          "title": "特朗普政府拟对巴西加征25%关税 认定巴西两黑帮为“外国恐怖组织” - 财新",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zb1RjdGlNQ1RrRXNicktvQy10VS04WGRkbHVGRXlkOWRTTXRNOVJsRnlOUmNwWjNieFVmQWlMRGVCZ1RtRk5LZTVEQV9oN2Jlcm9SNDROTXpYX01QNVdoOF9nTWJ5Y3ZXT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T12:16:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:16:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e1248584",
-      "title": "特朗普称对以总理在黎军事行动“不悦”，曾劝其停止冲突 - 京报网",
-      "summary": "美国前总统特朗普证实，他因黎巴嫩战事称呼以色列总理内塔尼亚胡“疯了”，称对其在黎巴嫩开展的军事行动感到不悦，此前已劝说对方停止冲突。目前真主党不接受与以色列部分停火，双方仍持续互相攻击，局势未平。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "cf27f1aa"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "cf27f1aa",
-          "source": "Google News (中国)",
-          "title": "特朗普称对以总理在黎军事行动“不悦”，曾劝其停止冲突 - 京报网",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bFBUM3BjSlRRcF83YzBSeDB0SVZaX091cmVqR0M3TUViaW9fX1pHSDF1ODJEZ3RsZDFsYXY1OGVnQ05YWkE2NVlCQzFhYnpCOXo0WHFlS1V2T2hQT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T12:15:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:15:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "86c33738",
-      "title": "习近平文化思想引领文化传承发展开创新局面 - politics.people.com.cn",
-      "summary": "习近平文化思想引领我国文化传承发展开创新局面，这一主题内容发布于人民网政治频道，想要了解更多相关领域的头条新闻与各类观点，可前往Google新闻平台进行浏览查看。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "5709f517"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "5709f517",
-          "source": "Google News (中国)",
-          "title": "习近平文化思想引领文化传承发展开创新局面 - politics.people.com.cn",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03MWJpLTh1RFBCbTFhU3BSRXUwSnlsS202Nm5EYm93MkZTQTQ0WWl0a29teGJRQ0FfMEt1Rmd2SEZRRHM0YlVuQzJUV29wMjhiN0x1aXJNZGlscmpxOVY4NmIzR01yWVFWRmh2SHFocVQ0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T12:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b34bfaf5",
-      "title": "《每日下载：特朗普新AI行政令与作战用智能眼镜》",
-      "summary": "这是覆盖科技领域动态的工作日通讯《每日下载》今日刊，特朗普在撤销原有AI行政令不到两周后，于周二签署了一项全新的AI行政令，该行政令声称将推动AI发展，本期梳理出这项新政的五大核心要点，同时还涉及作战用智能眼镜相关话题。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "3f1f21c2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "3f1f21c2",
-          "source": "MIT Technology Review",
-          "title": "《每日下载：特朗普新AI行政令与作战用智能眼镜》",
-          "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-          "published_at": "2026-06-03T12:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "dd63b121",
-      "title": "习近平总书记关切事·关键小事丨水润家园好光景 - politics.people.com.cn",
-      "summary": "这是人民网推出的《习近平总书记关切事·关键小事》相关报道，以“水润家园好光景”为主题，聚焦习近平总书记关心的治水惠民这一民生关键小事，展现我国推进水生态治理、改善城乡人居环境，增进群众民生福祉的进展与良好成效。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "a563e823"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "a563e823",
-          "source": "Google News (中国)",
-          "title": "习近平总书记关切事·关键小事丨水润家园好光景 - politics.people.com.cn",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vY0ttUFhJUXo0ckpuRzVjaXZCWnhCQU43WDZqaUoyd3ZwT0ZqejNsNXJDRTRVZ1pGQTlvYXh3ckttR3pCZ0tTSDNmZ1hnVEstYVFhc01CZFFzSTdFeXhXTExoNDA0WUtNUXp1bnUwWXBUdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T12:08:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:08:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1dd29a6c",
-      "title": "SwitchBot收购Nanoleaf不止局限于照明领域",
-      "summary": "智能照明企业Nanoleaf被SwitchBot的母公司OneRobotics收购。Nanoleaf首席执行官Gimmy Chu接受《The Verge》独家采访时表示，收购后Nanoleaf将保持独立运营，他与联合创始人兼首席运营官Christian Yan将继续掌管公司，运营层面不会发生变动。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "766e073e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "766e073e",
-          "source": "The Verge",
-          "title": "SwitchBot收购Nanoleaf不止局限于照明领域",
-          "link": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
-          "published_at": "2026-06-03T12:00:20+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T12:00:20+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9d8a35f4",
-      "title": "特朗普政府计划因强迫劳动对60个经济体加征关税 - DW",
-      "summary": "多家外媒及财经媒体披露，特朗普政府正计划以所谓强迫劳动为由，对全球60个经济体加征至少10%的关税，这是美国再度推出贸易加征关税举措。中国外交部明确回应称，关税战、贸易战不符合任何一方的利益，该计划引发市场关注。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "7efb630e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "7efb630e",
-          "source": "Google News (中国)",
-          "title": "特朗普政府计划因强迫劳动对60个经济体加征关税 - DW",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSjJ6eFZwYkcxajB0RWNaYndtT1lvMGlVV3JaSVNNWEM3aG5ZY0ZVaUhhRTlmbUZmb05DWmhqOVUtclByS05WczRPQzlFSTBmaXcwT2EyOHA2eVFKQjRJb1M0V1k5MVd0dzJ2NjVQVVlkUTdtODI3cHZLd1NsdHJoVW5pVnFIME4za1BQTGxVMEFkOXpoRGppNkFuUGdhM1hyT19DRVI5UU83SVdQNlhvSGJZXzVzaDhOM2hPWUhIc2VmR3kwV2JIZ0RTOFMtYV90SXNJXzZwaWJ2NWUtNDd4VGg0UXg2aURycWpBaHdLbEFlYmZ3SjFuWnNkT1hCeVluU3pOMllTR2JueE9MY1o2NWxfcDVPN3E3TVM5VExmOUgxZzN3M0VEOWNPR0RsYVh4YW5lSGNBM0hfeU1OU2tIdGR6dUFlclnSAccCQVVfeXFMTnVJdXBMa2lhX0h5clBUUzlSSWhwZzQ3ejMtbXlGZjRwU2ZoWnp1ZWNEWXNBTGlVVmQyQUh4cWd0YlBBMnJoUXNSS0NvWHY1VXFQQjFRRS1WcGdiUXJJREYtcndneVg1SWhQMklmamg3dW50Z1VWVGg5ckM2bGFBSm52Y0NLaVcwRzNrbUNOOFJMTkZrS3hQTXp4ak5tZFhTV2VJcmduT2FmMTNXRW5rT2V2aDJfUUFvWkV0RE5oeWpKM2FFVUxwZlVYemlwaU9SS2FlRC1aNzRFNUlGRnRzNnZXanFZTFhoOXNSMU9EWUVDOGhZSGpRdjE1TzNDYWJYemJUUnpLclNFSi0xbHdfU0JnSHZ6ZW4zS0ZQV0JBXzJKdTdhNnU3d29TbXRfX3JDb2NkbDdxYkRjSWRiam1zZlVGdC1nRnZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-03T11:55:03+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T11:55:03+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b59d8f0c",
-      "title": "德里火灾至少21人遇难 死者中含外国公民",
-      "summary": "印度德里发生一起火灾事故，事故造成至少21人死亡，遇难者中包含外国国籍人员。多数遇难者为南亚人，他们此次前往印度，或是接受治疗，或是陪同亲属就医。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg",
-      "article_ids": [
-        "c1b4795b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "c1b4795b",
-          "source": "BBC World",
-          "title": "德里火灾至少21人遇难 死者中含外国公民",
-          "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T11:54:25+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T11:54:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ac85fc5f",
-      "title": "普京旗舰经济论坛开幕 乌克兰无人机袭击圣彼得堡",
-      "summary": "乌克兰多架远程无人机袭击了俄罗斯圣彼得堡附近的石油存储设施，此次袭击发生在俄罗斯总统普京的旗舰级经济论坛开幕之际，距离普京预定在该论坛发表公开讲话还有数日。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1588/live/aa879d00-5f51-11f1-b682-cf91850925ea.jpg",
-      "article_ids": [
-        "f8797851"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "f8797851",
-          "source": "BBC World",
-          "title": "普京旗舰经济论坛开幕 乌克兰无人机袭击圣彼得堡",
-          "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-03T11:34:07+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T11:34:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "affde879",
-      "title": "英国亨利·诺瓦克谋杀案引发抗议演变为暴力 领导人呼吁冷静",
-      "summary": "英国因亨利·诺瓦克谋杀案爆发抗议活动，抗议随后演变为暴力冲突，示威者向警察投掷石块与垃圾桶，造成11名警察受伤，一名英国内阁部长称该暴力场景不可接受，英国领导人已呼吁各方保持冷静。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/03/multimedia/03int-uk-protests-01-tbvl/03int-uk-protests-01-tbvl-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "b4573b11"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "b4573b11",
-          "source": "NYTimes World",
-          "title": "英国亨利·诺瓦克谋杀案引发抗议演变为暴力 领导人呼吁冷静",
-          "link": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html",
-          "published_at": "2026-06-03T11:08:45+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T11:08:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "876c62da",
-      "title": "跨性别青少年有话要说",
-      "summary": "一家儿童医院停止向跨性别患者提供诊疗服务前，非二元性别高中生塞奇就已经停用睾酮。塞奇最初因青春期快速发育，身体变化突然且令人恐惧而接受治疗，后续还查出患上了一种相对常见的激素紊乱疾病PMOS。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "59a61df8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "59a61df8",
-          "source": "The Verge",
-          "title": "跨性别青少年有话要说",
-          "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
-          "published_at": "2026-06-03T11:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T11:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "384c7a35",
-      "title": "人工智能存在耗水问题 谷歌称已有解决方案",
-      "summary": "美国各地扩建人工智能数据中心引发广泛反对，谷歌周三发布博客文章，公布五项水资源利用相关承诺，宣称将采取措施降低AI业务对环境的影响，还提出目标为数据中心所在地的社区补给更多水资源。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "1d45b81d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "1d45b81d",
-          "source": "The Verge",
-          "title": "人工智能存在耗水问题 谷歌称已有解决方案",
-          "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-          "published_at": "2026-06-03T09:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T09:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "384c7a35",
-      "title": "人工智能面临用水难题 谷歌称已有解决方案",
-      "summary": "美国各地扩建人工智能数据中心引发广泛反对，谷歌称将努力降低相关业务对环境的影响，还可为当地社区增加可用水量。谷歌周三发布博客，公布五项用水相关承诺，提出了补充更多水资源的目标。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "1d45b81d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "1d45b81d",
-          "source": "The Verge AI",
-          "title": "人工智能面临用水难题 谷歌称已有解决方案",
-          "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-          "published_at": "2026-06-03T09:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-03T09:00:00+00:00",
       "is_merged": false
     }
   ]
