@@ -1,0 +1,2377 @@
+{
+  "date": "2026-06-13",
+  "edition": "evening",
+  "updated_at": "2026-06-13T22:04:54.029871+08:00",
+  "article_count": 60,
+  "cluster_count": 58,
+  "articles": [
+    {
+      "id": "1c78232a",
+      "title": "埃博拉疫情相关须知",
+      "title_original": "What to Know About the Ebola Outbreak",
+      "summary": "刚果民主共和国暴发埃博拉疫情，目前已知该疫情已造成至少140人死亡，实际死亡人数可能远高于这一数字，多家援助机构正紧急行动，为当地的医护工作者提供支援。",
+      "summary_original": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.",
+      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-01-tqlp/17int-ebola-WTK-01-tqlp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T13:11:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1c093d4e",
+      "title": "瑞士是否将人口上限设为1000万？将由选民决定",
+      "title_original": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "summary": "全球最富裕国家之一瑞士，将就设定人口上限为1000万的相关措施举行全民公投，该措施核心为限制移民，推行方正以温和基调造势，业内认为该政策大概率会影响瑞士经济，最终结果将由选民决定。",
+      "summary_original": "One of the world’s richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones.",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13int-switzerland-population-01-vljm/13int-switzerland-population-01-vljm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T13:04:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9b106dc6",
+      "title": "我院子快枯死了，为此我做了一款应用",
+      "title_original": "My yard is dying, so I made an app for that",
+      "summary": "用户给AI工具Gemini输入冗长指令后，仅五分钟就在预览窗口得到了一款可用应用，同时系统提示出现严重漏洞，称通道已不可恢复损坏将被处置，但提示下方直接附带了漏洞修复按钮，这一过程让人感到颇为奇特。",
+      "summary_original": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fa0d9630",
+      "title": "牛肉价格上涨冲击巴西世界杯烧烤传统",
+      "title_original": "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
+      "summary": "巴西是全球最大牛肉生产国，当前该国牛肉价格大幅飙升。本周六巴西队将迎来本届世界杯首场比赛，巴西民众向来有聚会观赛烧烤的传统，受涨价影响，不少家庭本次将会减少红肉购买量，传统烧烤习俗受到冲击。",
+      "summary_original": "Soaring prices for the world’s largest beef producer, Brazil, mean households will be buying less red meat when they gather to watch Brazil’s first game of the FIFA World Cup this Saturday.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imQCrtU2uPDo/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9b106dc6",
+      "title": "我院子快枯死了，我做了个应用解决它",
+      "title_original": "My yard is dying, so I made an app for that",
+      "summary": "开发人员向人工智能Gemini发送长篇提示，五分钟后得到一个处于预览窗口的可用功能应用，同时收到通知显示程序出现无法恢复的通道损坏bug，通知下方自带修复该bug的按钮，这一特殊情况令开发者感到诧异。",
+      "summary_original": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bc7fc883",
+      "title": "政府下令后，Anthropic切断Fable 5与Mythos 5的访问权限",
+      "title_original": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "周五晚间，出于国家安全考量，政府要求Anthropic对所有美国境内外的外国主体封锁Fable 5与Mythos 5的访问权限，该要求覆盖Anthropic自身员工，为满足命令要求，该公司已对所有客户全面切断了这两款模型的访问权限。",
+      "summary_original": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T12:55:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bc7fc883",
+      "title": "接政府命令 Anthropic切断Fable 5与Mythos 5访问权限",
+      "title_original": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "周五晚间，政府出于国家安全考虑，下令Anthropic禁止所有外国主体（无论身处美国境内还是境外）访问Fable 5与Mythos 5，该禁令也覆盖Anthropic员工，为满足要求，公司已对所有客户完全切断这两个模型的访问权限。",
+      "summary_original": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-13T12:55:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e8b6316a",
+      "title": "伊朗战事实时更新：调解方称和平协议或可24小时内敲定",
+      "title_original": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "summary": "作为美国与伊朗之间的关键调解方，巴基斯坦总理表示美伊和平协议大概率有望达成，美伊双方官员也都对和谈结果表达了乐观态度，但和平协议仍存在被干扰脱轨的可能性。",
+      "summary_original": "The prime minister of Pakistan, a key intermediary between the U.S. and Iran, said a deal was “likely expected.” Officials on each side have also expressed optimism, but it still could be derailed.",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13mideast-promo-820EST-pkft/13mideast-promo-820EST-pkft-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T12:24:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d07dbe2d",
+      "title": "加拿大银幕奖：本土影视业走出好莱坞阴影",
+      "title_original": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "summary": "在加拿大银幕奖的舞台上，加拿大本土影视行业展现出新发展面貌。长期以来加拿大有着“北好莱坞”之称，多为好莱坞影视产业提供配套，如今该行业不再满足于此，正主动发力打造本土内容，讲述属于加拿大自己的故事。",
+      "summary_original": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
+      "image": "https://static01.nyt.com/images/2026/06/10/world/XXint-canada-screen-promo/XXint-canada-screen-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T12:11:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "74d17f3b",
+      "title": "科技企业能否支撑万亿美元估值？",
+      "title_original": "Can Tech Justify a Trillion-Dollar Valuation?",
+      "summary": "备受期待的SpaceX首次公开募股将考验现代资本市场极限，OpenAI、Anthropic预计将紧随其后推进上市。投资者史蒂夫·拉特纳称相关估值与融资规模空前，既体现市场对人工智能及科技改造经济的乐观，也引发关于科技行业集中度、普通投资者能否参与的疑问，消息源自彭博社。",
+      "summary_original": "The long-awaited SpaceX IPO tested the limits of modern capital markets, and is expected to be followed by OpenAI and Anthropic. Investor Steve Rattner says the scale of the valuations and fundraising involved is unprecedented, simultaneously reflecting optimism about artificial intelligence and a belief that the technology could transform the economy. The offerings also raise broader questions about concentration in technology and whether retail investors will be able to participate. (Source: B",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1SrP9TNadSA/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T12:04:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "599cb776",
+      "title": "如今我们都搭上马斯克的星舰了",
+      "title_original": "We’re All on Starship Elon Now",
+      "summary": "埃隆·马斯克旗下知名商业航天企业SpaceX即将走入普通民众的日常投资领域，今后民众可在常见的共同基金以及401(k)养老金计划这类大众投资产品中，配置SpaceX相关资产，这家企业正进一步深入大众的投资生活。",
+      "summary_original": "SpaceX is coming to a mutual fund or 401(k) near you.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2SRV_E1cAbM/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "24355573",
+      "title": "谷歌搜索获AI升级改造，世界杯落户北美",
+      "title_original": "Google Search Gets AI Makeover, and the World Cup Comes to North America",
+      "summary": "谷歌搜索迎来重大AI升级改造，世界杯足球赛事确定正式落户北美举办，两大重磅事件同期曝出，刚刚过去的一周，成为对谷歌及世界杯相关领域而言都极具分量的标志性大事件。",
+      "summary_original": "It’s been a big week for Google and the World Cup.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixYt8LNmX7eQ/v5/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d3ae1941",
+      "title": "《回声岛》：受经典塞尔达启发的小型冒险",
+      "title_original": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "summary": "这款名为《回声岛》的冒险作品深受《塞尔达传说》系列启发，并不遮掩这一特质。它采用复古画面，风格与《塞尔达传说：织梦岛》高度相似，主角身着蓝衣持剑，需探索地下城收集道具与钥匙，击败首领收集魔法宝物。",
+      "summary_original": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical MacGuffins. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d2ba0669",
+      "title": "苹果新款AI照片编辑工具大体可用，利弊参半",
+      "title_original": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "summary": "全球受众最广的苹果iPhone迎来首批重磅AI照片编辑功能，大众普遍尚未对此做好适应准备。本次iOS系统推出的新款AI编辑功能，相比谷歌Pixel手机的同类功能风格更为温和，实际体验利弊参半。",
+      "summary_original": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0d060d3f",
+      "title": "管理所有截图的更佳方法",
+      "title_original": "A better way to manage all your screenshots",
+      "summary": "这是科技媒体The Verge《Installer》专栏的第132期内容，该栏目主打推荐优质特色内容，新读者可前往专栏主页阅读所有过往内容，本期开篇作者提到，自己本周正为世界杯观赛月的休闲时光做准备。",
+      "summary_original": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This week, I've been preparing for a month of getting absolutely nothing done during the World Cup. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d0dc2db7",
+      "title": "黄金交易存异常 金矿股走势类模因股",
+      "title_original": "There’s a Bug in the Gold Trade as Miners Move Like Meme Stocks",
+      "summary": "当前黄金交易出现异常变动，金矿股走势呈现模因股特征。拥有十余年黄金股票投资经验的深度价值投资者布莱恩·拉克斯认为，黄金股票可对冲投资组合其他部分的波动，是地缘政治不确定性下的避风港，还能带来稳定收益。",
+      "summary_original": "Brian Laks has been investing in gold stocks for over a decade. To the deep-value investor, they serve as a hedge against volatility in the rest of his portfolio, a haven during geopolitical uncertainty and deliver steady returns.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inEg0Kc3AHAs/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/there-s-a-bug-in-the-gold-trade-as-miners-move-like-meme-stocks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d2ba0669",
+      "title": "苹果全新AI照片编辑工具大体可用，优缺点并存",
+      "title_original": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "summary": "iPhone作为全球最受欢迎的相机，推出了首批重磅AI照片编辑功能，相关新功能搭载在iOS 27系统中。和谷歌Pixel手机的同类AI编辑功能相比，苹果的新功能更为温和，目前大众尚未对这类AI功能的到来做好准备。",
+      "summary_original": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b0565d92",
+      "title": "瑞士将就人口上限设为1000万的计划举行公投",
+      "title_original": "Switzerland to vote on plan to cap population at 10 million",
+      "summary": "瑞士将就设定人口上限为1000万的计划举行全民公投。该计划由右翼的瑞士人民党推出，该党将其称为\"可持续倡议\"，但反对者认为这项计划不符合实际，将成为引发国内混乱的根源。",
+      "summary_original": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg",
+      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T11:47:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a87b4cc2",
+      "title": "私募市场巨头在公众舆论场展开反击",
+      "title_original": "Private Markets Titans Fight Back in Court of Public Opinion",
+      "summary": "针对当前市场对私募资本的诸多负面看法，业内头部机构近期主动在舆论领域发声反击。相关机构认为，私募行业当前面临的诸多问题更多源于公众认知偏差，而非行业本身真的存在大量实质性问题。",
+      "summary_original": "Private capital’s problems are more perception than reality.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWaXvE4GwyCQ/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/private-markets-titans-fight-back-in-court-of-public-opinion",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T11:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d39ca70f",
+      "title": "黎官方媒体称以色列空袭黎巴嫩 伊朗称与美接近达成协议",
+      "title_original": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "summary": "黎巴嫩国家媒体报道，以色列已对黎巴嫩发动空袭。在此同时，伊朗外交部长公开表示，伊朗与美国之间旨在结束双方敌对状态的协议已接近达成，这一中东地区最新动态引发国际社会关注。",
+      "summary_original": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T11:15:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b0fdd3a4",
+      "title": "第十八届海峡论坛·妈祖文化活动周在湄洲岛开幕 - China Daily",
+      "title_original": null,
+      "summary": "第十八届海峡论坛·妈祖文化活动周在福建湄洲岛正式开幕。作为第十八届海峡论坛的重要活动，该活动以妈祖文化为纽带，助力深化两岸民间文化交流、增进同胞情感认同，相关报道可在中国日报谷歌新闻板块查看更多内容",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UeGQ3TWRHTlFuOHVDU2JMeUdhaFhWdEVHenVydFRjYjN1b093clRqa2FGcEFCWVZjTFFIbmI3U1B2SWdFeXRjUDlHR1hOaV9MRDdfYU1jWXAwcVAxTmxYb3FkdEEtNFBuQWV1N2JpZ25NM09nU0VPdk5ITmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T11:06:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "df2b84a2",
+      "title": "要闻解说 - 美伊和平协议呼之欲出 但核问题与黎巴嫩局势仍存变数 - RFI",
+      "title_original": null,
+      "summary": "多家媒体近期披露，美伊正接近达成和平谅解备忘录，有消息称相关协议有望在24小时内敲定，目前双方已就内容达成一致，伊朗也公布了协议新细节。不过协议仍存不确定性，核问题与黎巴嫩局势两大变数尚未解决。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNSk9Cam1GbVRWWFplekRMQW1ScVdScUFSVmxjTWZ0X0dacTN4UUVEeEEyZ1p2VVZEMzVZZmhDaTVFMjA3bG1KZTJmODdBS2hBSlVHdWMyNkVoaExPMEtEMHhsdVVEeDVRd0RBT2kwaWFJNGd2ZUVBdmhjTEQ1Q0dfdVlZczdraGVFMFFDRGpXMWZseU91MWVJWHNrU3BUQjZ4NzVLbmw2blpFLWFzbS1hRDl6M3ZsQW9kZjA0eVBxYVZCQ3V3anVRdU40dWMyMktXWW40aFFZM1AyLUxMbU9zbTk2aXFYd0NxdjFCRENpRXR2Z2xfOF9GNEFYVUdyYVdfNW1rai0yTUoxa3U2NURkam56bGVkY2xmSFlHc0luOGowWF9hZWN4bWR0WlZKV1dGU3RjV2JmbUdKVkZuOWtPVFREMWFGMVg4WFhHNnpCZmgtMkc0bHh1SWpLVGZaaFRMd1dCd2RPVFdrSEdqakg5dEVaMFphY29pcXROM19LMUpFaV8yREFscVpBX0M4SjBaQlVtcE41clFESzR4dFFyeEo3VnNrNkljS3BwSy1HZ3psaE1nbEhuSm5CVGRualRsdTRnRjR5QUFoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T11:05:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6b8772b5",
+      "title": "美国联邦调查局自建仿真小镇模拟真实网络攻击",
+      "title_original": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "summary": "美国联邦调查局在阿拉巴马州的一栋建筑内，暗藏了一座自行打造的仿真小镇，这座小镇被用作专属的网络训练场地，专门用来模拟真实场景下的网络攻击，以此开展相关的网络训练活动。",
+      "summary_original": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "770ccfe0",
+      "title": "好莱坞的未来并非向普通生成式AI模型投喂提示词",
+      "title_original": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "summary": "尽管当下有关生成式AI将颠覆电影行业的讨论热度很高，截至目前，仍未出现该技术创作的、值得观众付费观看的影视项目，多数AI企业的视频模型也仅能产出短时长内容，行业应用还处在早期阶段。",
+      "summary_original": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "770ccfe0",
+      "title": "好莱坞的未来不在于向普通生成式AI模型输入提示词",
+      "title_original": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "summary": "当下围绕生成式AI将颠覆电影行业的讨论层出不穷，但截至目前，尚未出现用该技术创作、能让观众愿意付费观看的成型娱乐产品，多数AI企业开发的视频生成模型，目前仅能产出短时长的内容片段。",
+      "summary_original": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cc7fbcc7",
+      "title": "国家图书馆“文化和自然遗产日”非遗宣传展示活动启动 - 新京报",
+      "title_original": null,
+      "summary": "在“文化和自然遗产日”到来之际，国家图书馆启动非遗宣传展示活动，供公众感受非遗魅力。多家主流媒体围绕文化遗产保护推出相关内容，涵盖守护中华文化瑰宝、梳理山东文化家底、呼吁大众参与文化遗产守护等。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yLU00U3VCU3h5Tm9vX2hVZ0VsN3dfa2JJTUJrSDVvajVmYW9IeC1TUExWWHBPSWwzWDFzZFMyclFFM2M4RHd6NnpVRU9WNS0yRFdGV1JucWUycDVkMFotTkVkeW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T10:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce1b193b",
+      "title": "全球最大摩托车出口国中国敦促行业遏制价格战",
+      "title_original": "Top Motorcycle Exporter China Urges Industry to Curb Price Wars",
+      "summary": "中国摩托车行业贸易机构敦促业内全行业企业遏制价格战，聚焦高质量发展。该机构警示，当前行业仿造跟风多发，同类产品泛滥，不仅挤压了企业利润空间，还损害了中国制造的声誉。",
+      "summary_original": "China’s motorcycle industry trade body urged companies across the sector to curb price wars and focus on higher-quality growth, warning that imitation and a flood of similar products are squeezing profits and hurting the reputation of Chinese manufacturing.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ3eHlZq48Zk/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/top-motorcycle-exporter-china-urges-industry-to-curb-price-wars",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T10:19:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88d3bcf5",
+      "title": "聚力产教融合 长春赋能“中国光电城”建设 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "近期长春聚力产教融合赋能“中国光电城”建设，当地举办光博会，盛大召开Light Conference 2026共探光学前沿；推动中韩示范区扩容“国际朋友圈”，还授予深耕光电领域四十余载的两位瑞典两院院士“长春市荣誉市民”称号。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNHNRMENKczlQOVpINU5wTGx0V0YyT0hrdEI1UmRHVEF6ajFnazBEVXFxWFpZZ2hWNFZJZUxubWpGcm9qa2VqOVhENERISXVjSEhVMU01LUpPN2otVWd6WDBmR01RMzl4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T10:07:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "18175ba6",
+      "title": "美委称阿拉瓜列车帮一名头目在联合打击中被击毙",
+      "title_original": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
+      "summary": "美国与委内瑞拉两国官方发布消息称，本周在委内瑞拉境内开展的一次联合打击行动中，被美国通缉的阿拉瓜列车帮头目尼尼奥·格雷罗被击毙，两国官方均公开确认了这一结果。",
+      "summary_original": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13xp-trendearagua-hcbv/13xp-trendearagua-hcbv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T10:07:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "602b4ec5",
+      "title": "深圳珠海等地遇暴雨 广东最大降雨量超百毫米 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "近期南方降雨增强，六省区部分地区将出现大暴雨，广东深圳、珠海等地遭遇暴雨，全省最大降雨量超百毫米，未来三天广东天气将发生变化，水文部门提示需重点关注相关河流汛情。广西柳州柳城已发布暴雨橙色预警，多部门齐发预警，提示相关地区出行留意风险。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFemQ1QlJoLWRMV3R1N2hyd2VIR3F0TmdKZHdReFc2Z0h2bm0xNmFEQjlSOHFXdGt2cW94VGRtUmN5WUpDdlRVQzJpVjJfQjBnQWpoUHJkRXdhRHlfYlJobEotVXo5S19a?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T09:39:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c4b396d6",
+      "title": "千方百计\"抢\"农时保丰收——山东麦收一线见闻 - 新华网",
+      "title_original": null,
+      "summary": "当前全国小麦收获进度已过八成，夏播工作推进进入高峰，多地进入夏收农忙时段。山东麦收一线正千方百计抢抓农时，全力保障夏粮丰收，多家主流媒体先后对全国及各地夏收农情进行了报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnZNRkszcWIyN2FBYWhMcEEySzhCWDFoajZyVzVzeEtoNnFWMVpiMEJLRzBLZEJteDRPbVhuNHl0WWUxTi0xbXZNQklJenRxUWJlWHJHUUNHeG53NTBGWHdlZU5YQmxWdF9ZTXNjMkl4ZXFWNGl0YVJ5LWMyamdQU2hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T09:04:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3c037f96",
+      "title": "巴西人重拾世界杯传统为国家队助威",
+      "title_original": "Brazilians Revive a World Cup Ritual to Cheer on Their National Team",
+      "summary": "在经历连续多年对世界杯的热情低迷后，巴西民众重新燃起对本国国家队的支持热情，他们重启了专属的世界杯传统仪式，通过涂绘街道的方式，公开为出征的巴西国家队加油助威，展现出当下高涨的支持热情。",
+      "summary_original": "After years of dampened enthusiasm about the World Cup, Brazilians are excited about their national team again — and they’re showing it by painting the streets.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T09:02:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "182ed116",
+      "title": "协议看似接近达成 美国面临抗压意愿更强的伊朗",
+      "title_original": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+      "summary": "伊朗经冲突发生政权更迭后，新任领导人更愿意承担风险，他们认为伊朗已经承受了美国与以色列所能施加的最严重打击。目前伊美相关协议看似接近达成，美国如今需要面对的是抗压意愿更强的伊朗。",
+      "summary_original": "The war has produced regime change, but Iran’s new leaders are more willing to take risks and believe they have already absorbed the worst that America and Israel can deliver.",
+      "image": "https://static01.nyt.com/images/2026/06/12/multimedia/12int-iran-posture-assess-01-cmzj/12int-iran-posture-assess-01-cmzj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T09:02:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "41e7486b",
+      "title": "俄罗斯弹道导弹储量充足 乌克兰缺乏拦截手段",
+      "title_original": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
+      "summary": "当前俄乌冲突中，俄罗斯拥有充足的弹道导弹储备，乌克兰在弹道导弹防御方面面临严重缺口。乌方使用的美制“爱国者”防空拦截弹已消耗殆尽，乌方正紧急呼吁外界向其提供更多该型拦截弹。",
+      "summary_original": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more.",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13interceptors-01-cwql/13interceptors-01-cwql-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T09:01:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1fd4eb81",
+      "title": "前欧洲央行利率决策者穆勒履职志愿警察",
+      "title_original": "Former ECB Rate-Setter Muller Reports for Duty as Volunteer Cop",
+      "summary": "马迪斯·穆勒刚结束为期七年的爱沙尼亚中央银行行长任期才数日，此前他曾担任欧洲央行利率决策者，如今将开启截然不同的新身份，前往警务部门刑事侦查单位担任志愿人员。",
+      "summary_original": "Just days after finishing a seven-year stint at the helm of Estonia’s central bank, Madis Muller is preparing for a very different role: volunteering in the police’s criminal-investigations unit.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijGM0bBA4JzI/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/former-ecb-rate-setter-muller-reports-for-duty-as-volunteer-cop",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8495f821",
+      "title": "金湾龙舟赛火热开赛！粤港澳同场竞渡传承民俗情谊 - 珠海网",
+      "title_original": null,
+      "summary": "端午期间，广东多地推出丰富龙舟主题民俗活动：珠海金湾举办龙舟赛，粤港澳队伍同场竞渡，共叙传承情谊；广州天河车陂、荔湾分别开展龙舟竞速赛事、首届龙舟嘉年华；广州南沙还推出端午文化周，延伸“龙舟+”消费体验，丰富民俗内涵。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kb3V5Wi1CTTVJX21OVl91RWp0M09WdU9fQnZwY3NsYXBaS0VTRUdsU0xyNDNkVUlBWDdocU9VNGtiQWRpOUFJSUZpTWRtcmdiZmdaa2VVX3V4VS1XaEg5bzZyOWZ2OENBT2VvQ1JHYzhBSVdnWTlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T08:50:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "db7793e3",
+      "title": "曼联，要被卖了",
+      "title_original": null,
+      "summary": "据彭博社消息，掌控英超豪门曼联超20年的美国格雷泽家族正讨论出售俱乐部事宜，该家族此前已出让近29%股份给英国英力士集团，目前放话只要报价超50亿英镑，就愿意出让合计48.9%的股份，这也是当下体育资产受资本追捧的缩影。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3851350342325504?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T08:37:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "90048243",
+      "title": "北京市北京市气象台发布大风蓝色预警信号 - 中央气象台",
+      "title_original": null,
+      "summary": "北京市发布多项气象预警，市气象台发布大风蓝色预警，门头沟区气象台发布大风黄色预警，中央气象台同时发布雷电黄色预警，本次预警涵盖大风、冰雹，局地风力可达9级左右，目前北京多区已出现短时强降雨、冰雹天气，提醒市民注意防范。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51eDVIZ3JjT2JVeEZ2WnpCeGFGU25tVzB5RUpTY0h1d1VkTmdLUTgyWFJuMWdkZEQzSVRKREIyWlVua2FBalM1LUNfSnF3X3BTUEcxTmxBV1o2ZWZINkQ1d0lQbFpLSFJpenZ6T1QteWhocTZj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T08:26:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "44362e5e",
+      "title": "欧央行纳格尔称即便冲突结束物价仍可能维持高位",
+      "title_original": "Prices Likely to Stay Higher Even If Conflict Ends, ECB’s Nagel Says",
+      "summary": "德国联邦银行行长约阿希姆·纳格尔接受德意志广播电台采访时表示，身为欧洲央行官员的他指出，即便伊朗战事很快结束，物价水平仍有可能在较长时间内维持高位，不会随冲突结束快速回落。",
+      "summary_original": "Prices are likely to stay elevated for longer even if the war in Iran were to end soon, Bundesbank President Joachim Nagel said in an interview with Deutschlandfunk.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVWXSEMfd7E/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/prices-likely-to-stay-higher-even-if-conflict-ends-nagel-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T08:23:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7ed83062",
+      "title": "续写中朝传统友谊崭新篇章——习近平总书记访问朝鲜纪实 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "习近平总书记访问朝鲜，人民日报、央视网、中国日报网等多家主流媒体推出相关纪实报道，指出此次访问见证中朝传统友谊薪火相传，为中朝友谊注入新的时代内涵，推动中朝关系与时俱进，对中朝关系发展具有重要里程碑意义。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoVjZjVFdxR2Jmbnp3UjBGVGpmTjR2aXNvazVFMmJ3Zk9WMUl5OW9xVHZYMkZhV1g5MEFxdnFJdFRDc3E2VmowMkxPbGtHdjIwbkd4RGdOODBIaW1YTnlKbXYyQ05EekJCVk1FQ2tEbUZkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T07:01:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "68e91b07",
+      "title": "尽管霍尔木兹发生摩擦 美伊仍接近达成协议",
+      "title_original": "US and Iran Move Closer to Deal Despite Hormuz Skirmishes",
+      "summary": "巴基斯坦称，美伊间旨在重新开放霍尔木兹海峡的临时协议有望在24小时内敲定。霍尔木兹这一战略水道近期发生摩擦后，这一进展提升了外界对美伊双方即将达成更广泛协议的预期。",
+      "summary_original": "Pakistan said an interim US-Iran deal to reopen the Strait of Hormuz could be finalized within 24 hours, raising expectations that the sides may be nearing a broader agreement after recent skirmishes near the strategic waterway.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioWBjA_EjzVk/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-13/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-13T06:49:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e3bd4c2",
+      "title": "台青苏恒妙语连珠看两岸双向奔赴 用脚投票的真实选择 - 中华网",
+      "title_original": null,
+      "summary": "第十八届海峡论坛大会举办，台湾青年苏恒就两岸关系议题发声，以妙语解读两岸双向奔赴，指出不少台青用脚投票选择两岸交流融合是真实的趋势选择。演员张凌赫也受邀出席本次论坛，发声称两岸交流挡不住、文脉割不断，引发舆论关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OS1R6RHNSLVhobEU5T1kwSHlVemNpWlJBNzJxS2xtNVJaRHRia2RRRlI4Z3h4am42cEhITWZtQ253QzI4V2ltMUZYZmRJWjN6dGdmMmxudWxMNVRWd1dsdzhjeE9VeDllRlBxbDNYRno?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-13T06:00:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "90dfbf75",
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "title_original": null,
+      "summary": "AI浪潮冲击下，传统留学依赖的学历溢价、信息差逐步失效，中国留学家庭面临投资回报率下降、身份焦虑等问题。36氪研究院联合新通教育发布相关留学就业白皮书，梳理行业变迁，提出核心胜任力模型，研判就业赛道，为留学家庭提供参考指南。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260612/v2_55d528cdc42f41bc82f5a9369f3c901a@6387155_oswg186588oswg837oswg501_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3846972367866119?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T06:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77939a03",
+      "title": "澳版《初见成婚》嘉宾未被告知伴侣有毒品及暴力犯罪前科",
+      "title_original": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "summary": "主打初次见面配对成婚的澳版热门真人秀近日爆出争议，多名参与女嘉宾透露，她们事前并不清楚节目中配对的荧幕丈夫存在过往犯罪前科，制作方未提前向她们披露相关信息，这些前科涉及毒品与暴力类犯罪。",
+      "summary_original": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf0/live/889a7100-666c-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T05:00:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "08d1a33d",
+      "title": "“宁王系”，排队 IPO",
+      "title_original": null,
+      "summary": "市值超万亿的宁德时代近期正推进41亿元战略入股中恒电气，今年其已投资多赛道多家企业，已构建起庞大投资版图，大批“宁王系”项目排队IPO。当前产业龙头布局CVC成行业趋势，政策加持下，CVC已成为国内创新资本市场不可忽视的重要力量。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3851106394117383?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T04:59:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "09924b25",
+      "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+      "title_original": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "summary": "杨安泽梳理出当前美国人在住房、食品、无线通信等多个领域都存在过度付费的情况，他指出，帮助民众省下多花的钱、降低生活成本，将成为下一波创业淘金热潮，蕴藏着巨大的创业机遇。",
+      "summary_original": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "09924b25",
+      "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+      "title_original": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "summary": "杨安泽梳理出当前美国人多支付开销的多个领域，涵盖住房、食品、无线通信服务等。他提出，降低这些领域的生活成本、把民众多花的钱返还给消费者，将会催生下一波创业热潮，是未来创业的重大机遇。",
+      "summary_original": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4f5a8241",
+      "title": "特朗普称美军空袭击毙委内瑞拉“阿拉瓜列车”帮派头目",
+      "title_original": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "summary": "美国总统特朗普在社交媒体发文表示，委内瑞拉黑帮组织“阿拉瓜列车”的头目尼尼奥·格雷罗，已在美军发起的一次快速且致命的空袭打击行动中被击毙，此次行动是美方针对该帮派头目的定点打击行动。",
+      "summary_original": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg",
+      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T04:09:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39394522",
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "title_original": null,
+      "summary": "6月12日，SpaceX正式登陆纳斯达克，募资约750亿美元，盘中市值一度站上2万亿美元。内容梳理SpaceX2002年创立以来24年的发展历程，还原其从屡败屡闯开启商业航天时代，靠星链实现盈利，持续为新型运力提前布局需求、押注太空算力的发展路径。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3851073239372809?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T04:08:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "eb8b00a1",
+      "title": "缅甸一家庭遭地雷肆虐",
+      "title_original": "A Family Ravaged by Land Mines in Myanmar",
+      "summary": "数十年前，缅甸民众布里因地雷失去一条腿。近来，他家中另有六名成员也遭遇地雷袭击，落得伤残甚至更惨的结局，这一悲剧正是缅甸内战给普通民众造成惨重破坏的真实写照。",
+      "summary_original": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-13T04:01:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "29e21a1b",
+      "title": "因美国政府安全担忧 Anthropic暂停推出新AI工具",
+      "title_original": "Anthropic suspends new AI tools over US government security concerns",
+      "summary": "美国人工智能企业Anthropic本周面向公众正式发布了旗下新款AI产品Claude Fable 5，该产品引发了网络安全与黑客攻击相关的风险担忧，因美国政府提出安全关切，Anthropic已暂停新AI工具的推出。",
+      "summary_original": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54a1/live/35ba2f90-66c9-11f1-b891-a117aef409ef.jpg",
+      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T03:54:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "02d799c3",
+      "title": "华纳兄弟1110亿美元出售给派拉蒙交易获美国司法部批准",
+      "title_original": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "summary": "美国司法部已批准华纳兄弟以1110亿美元出售给派拉蒙的交易。这一批准是这宗将重塑媒体格局的合并案的关键进展，让这场针对这家拥有CNN、HBO的好莱坞制片厂的收购得以继续推进。",
+      "summary_original": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6251/live/3d15a8f0-66a6-11f1-b7ab-1591368af17a.jpg",
+      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-13T03:28:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1ac7112a",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "title_original": null,
+      "summary": "6月9日Anthropic发布Claude Fable 5与Mythos 5两款大模型，上线仅72小时后，美国政府以国家安全为由，发出口管制指令要求禁止所有外籍人士访问，且未给出具体顾虑细节。Anthropic为合规一刀切全球停服两款模型，目前其他Claude模型不受影响，官方正争取尽快恢复访问。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3851015329027336?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T03:00:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "debd8a7a",
+      "title": "Anthropic安全警告或已适得其反 政府停用其最强AI",
+      "title_original": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "政府已停用AI企业Anthropic开发的最强AI模型，这被认为是Anthropic此前发布安全警告引发的反效果。Anthropic公开表达不满，称仅发现一处有限的潜在越狱漏洞，不该召回这款已供数亿人使用的商用模型。",
+      "summary_original": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "debd8a7a",
+      "title": "Anthropic安全警告适得其反 政府停用其最强AI",
+      "title_original": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "AI公司Anthropic对政府停用其最强AI模型的举措表达不满。该公司发布博客称，仅发现一处范围有限的潜在越狱漏洞，不应因此召回这款已部署给数亿用户的商用模型。",
+      "summary_original": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3fc9bb1d",
+      "title": "Valve单日进口13吨VR头显",
+      "title_original": "Valve just imported 13 tons of VR headsets in one day",
+      "summary": "6月10日，从上海出发航行两周的德国“波森”号集装箱船停靠美国洛杉矶。Valve观察者布拉德·林奇认为，该船大概率搭载了Valve新款游戏VR头显Steam Frame的首批量产货物，进口记录显示本次Valve进口的VR头显总重量达13吨。",
+      "summary_original": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribution partner Ceva offloaded nearly 32 metric tons [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-13T01:32:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8e03cc41",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "title_original": null,
+      "summary": "电致变色技术厂商中科电墨完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资，资金将用于车规级产线建设、核心材料研发及汽车领域市场拓展。该公司自主研发的核心材料成本仅为进口同类产品的五分之一，性能优势突出，正推进车规级量产，同时布局建筑、消费电子等多领域应用。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_28fa5f43fba54b9fa4ddd7b92dce257a@5920579_oswg179774oswg629oswg354_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3850904887268611?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T01:04:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e1d943d5",
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "title_original": null,
+      "summary": "6月12日晚SpaceX完成史上最大估值IPO，市值突破2万亿美元，马斯克成全球首位身家破万亿美元的富豪。大洋彼岸，中国商业航天已走完十年发展周期，目前资本涌入热度高涨，上市通道已打开，依托政策与制造业优势加速发展，仍待突破技术与商业化闭环难题。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_3e347a3fd2bf4c729355071525e08d5c@5920579_oswg57991oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3850902095336449?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T01:02:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e24f9f90",
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "title_original": null,
+      "summary": "6月12日，SpaceX在纳斯达克上市，总市值达2.1万亿美元，马斯克身家突破1万亿美元，成为全球首个净资产超万亿的富翁；胖东来澄清网传降薪言论，称从未作出降薪决定；亮相世界杯开幕式的中国潮玩IP Labubu的FIFA联名款销量环比暴涨30倍，另有多领域热点曝出。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3850898430989577?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-13T01:01:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ead81c10",
+      "title": "SpaceX首次公开募股：你所需了解全部信息的实时更新",
+      "title_original": "SpaceX IPO: Live updates on everything you need to know",
+      "summary": "TechCrunch自SpaceX创立初期便追踪关注其起步、困境与成就等发展历程，此次推出SpaceX首次公开募股系列专题报道，内容涵盖本次IPO潜在获益方、上市前交易以及S-1注册文件相关内容等信息。",
+      "summary_original": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-12T23:15:14+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "e865e5fd",
+      "title": "埃博拉疫情相关须知",
+      "summary": "刚果民主共和国暴发埃博拉疫情，目前已知该疫情已造成至少140人死亡，实际死亡人数可能远高于这一数字，多家援助机构正紧急行动，为当地的医护工作者提供支援。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-01-tqlp/17int-ebola-WTK-01-tqlp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1c78232a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1c78232a",
+          "source": "NYTimes World",
+          "title": "埃博拉疫情相关须知",
+          "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+          "published_at": "2026-06-13T13:11:33+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T13:11:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd9a57ee",
+      "title": "瑞士将就设定1000万人口上限提案举行全民公投 结果由选民决定",
+      "summary": "瑞士此次全民公投的提案核心为限制移民，由该国右翼政党推出，发起方将其称为\"可持续倡议\"。反对者及业内人士认为该提案脱离实际，或将冲击瑞士经济、引发国内混乱，最终结果将由选民投票决定",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13int-switzerland-population-01-vljm/13int-switzerland-population-01-vljm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1c093d4e",
+        "b0565d92"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1c093d4e",
+          "source": "NYTimes World",
+          "title": "瑞士是否将人口上限设为1000万？将由选民决定",
+          "link": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+          "published_at": "2026-06-13T13:04:18+00:00"
+        },
+        {
+          "id": "b0565d92",
+          "source": "BBC World",
+          "title": "瑞士将就人口上限设为1000万的计划举行公投",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T11:47:42+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T13:04:18+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "7e3975d0",
+      "title": "我院子快枯死了，为此我做了一款应用",
+      "summary": "用户给AI工具Gemini输入冗长指令后，仅五分钟就在预览窗口得到了一款可用应用，同时系统提示出现严重漏洞，称通道已不可恢复损坏将被处置，但提示下方直接附带了漏洞修复按钮，这一过程让人感到颇为奇特。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9b106dc6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9b106dc6",
+          "source": "The Verge",
+          "title": "我院子快枯死了，为此我做了一款应用",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "published_at": "2026-06-13T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01c297e4",
+      "title": "牛肉价格上涨冲击巴西世界杯烧烤传统",
+      "summary": "巴西是全球最大牛肉生产国，当前该国牛肉价格大幅飙升。本周六巴西队将迎来本届世界杯首场比赛，巴西民众向来有聚会观赛烧烤的传统，受涨价影响，不少家庭本次将会减少红肉购买量，传统烧烤习俗受到冲击。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imQCrtU2uPDo/v3/1200x-1.jpg",
+      "article_ids": [
+        "fa0d9630"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "fa0d9630",
+          "source": "Bloomberg",
+          "title": "牛肉价格上涨冲击巴西世界杯烧烤传统",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef",
+          "published_at": "2026-06-13T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e3975d0",
+      "title": "我院子快枯死了，我做了个应用解决它",
+      "summary": "开发人员向人工智能Gemini发送长篇提示，五分钟后得到一个处于预览窗口的可用功能应用，同时收到通知显示程序出现无法恢复的通道损坏bug，通知下方自带修复该bug的按钮，这一特殊情况令开发者感到诧异。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9b106dc6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "9b106dc6",
+          "source": "The Verge AI",
+          "title": "我院子快枯死了，我做了个应用解决它",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "published_at": "2026-06-13T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fc77d34",
+      "title": "政府下令后，Anthropic切断Fable 5与Mythos 5的访问权限",
+      "summary": "周五晚间，出于国家安全考量，政府要求Anthropic对所有美国境内外的外国主体封锁Fable 5与Mythos 5的访问权限，该要求覆盖Anthropic自身员工，为满足命令要求，该公司已对所有客户全面切断了这两款模型的访问权限。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bc7fc883"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bc7fc883",
+          "source": "The Verge",
+          "title": "政府下令后，Anthropic切断Fable 5与Mythos 5的访问权限",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+          "published_at": "2026-06-13T12:55:49+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:55:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fc77d34",
+      "title": "接政府命令 Anthropic切断Fable 5与Mythos 5访问权限",
+      "summary": "周五晚间，政府出于国家安全考虑，下令Anthropic禁止所有外国主体（无论身处美国境内还是境外）访问Fable 5与Mythos 5，该禁令也覆盖Anthropic员工，为满足要求，公司已对所有客户完全切断这两个模型的访问权限。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "bc7fc883"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "bc7fc883",
+          "source": "The Verge AI",
+          "title": "接政府命令 Anthropic切断Fable 5与Mythos 5访问权限",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+          "published_at": "2026-06-13T12:55:49+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:55:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "994f5f8b",
+      "title": "伊朗战事实时更新：调解方称和平协议或可24小时内敲定",
+      "summary": "作为美国与伊朗之间的关键调解方，巴基斯坦总理表示美伊和平协议大概率有望达成，美伊双方官员也都对和谈结果表达了乐观态度，但和平协议仍存在被干扰脱轨的可能性。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13mideast-promo-820EST-pkft/13mideast-promo-820EST-pkft-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e8b6316a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e8b6316a",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：调解方称和平协议或可24小时内敲定",
+          "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+          "published_at": "2026-06-13T12:24:33+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:24:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c4a127f",
+      "title": "加拿大银幕奖：本土影视业走出好莱坞阴影",
+      "summary": "在加拿大银幕奖的舞台上，加拿大本土影视行业展现出新发展面貌。长期以来加拿大有着“北好莱坞”之称，多为好莱坞影视产业提供配套，如今该行业不再满足于此，正主动发力打造本土内容，讲述属于加拿大自己的故事。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/world/XXint-canada-screen-promo/XXint-canada-screen-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d07dbe2d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d07dbe2d",
+          "source": "NYTimes World",
+          "title": "加拿大银幕奖：本土影视业走出好莱坞阴影",
+          "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+          "published_at": "2026-06-13T12:11:08+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:11:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d752f47e",
+      "title": "科技企业能否支撑万亿美元估值？",
+      "summary": "备受期待的SpaceX首次公开募股将考验现代资本市场极限，OpenAI、Anthropic预计将紧随其后推进上市。投资者史蒂夫·拉特纳称相关估值与融资规模空前，既体现市场对人工智能及科技改造经济的乐观，也引发关于科技行业集中度、普通投资者能否参与的疑问，消息源自彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1SrP9TNadSA/v3/1200x-1.jpg",
+      "article_ids": [
+        "74d17f3b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "74d17f3b",
+          "source": "Bloomberg",
+          "title": "科技企业能否支撑万亿美元估值？",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video",
+          "published_at": "2026-06-13T12:04:13+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:04:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b3e43724",
+      "title": "如今我们都搭上马斯克的星舰了",
+      "summary": "埃隆·马斯克旗下知名商业航天企业SpaceX即将走入普通民众的日常投资领域，今后民众可在常见的共同基金以及401(k)养老金计划这类大众投资产品中，配置SpaceX相关资产，这家企业正进一步深入大众的投资生活。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2SRV_E1cAbM/v0/1200x-1.jpg",
+      "article_ids": [
+        "599cb776"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "599cb776",
+          "source": "Bloomberg",
+          "title": "如今我们都搭上马斯克的星舰了",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
+          "published_at": "2026-06-13T12:00:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d772180",
+      "title": "谷歌搜索获AI升级改造，世界杯落户北美",
+      "summary": "谷歌搜索迎来重大AI升级改造，世界杯足球赛事确定正式落户北美举办，两大重磅事件同期曝出，刚刚过去的一周，成为对谷歌及世界杯相关领域而言都极具分量的标志性大事件。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixYt8LNmX7eQ/v5/1200x-1.jpg",
+      "article_ids": [
+        "24355573"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "24355573",
+          "source": "Bloomberg",
+          "title": "谷歌搜索获AI升级改造，世界杯落户北美",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america",
+          "published_at": "2026-06-13T12:00:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dba79f10",
+      "title": "《回声岛》：受经典塞尔达启发的小型冒险",
+      "summary": "这款名为《回声岛》的冒险作品深受《塞尔达传说》系列启发，并不遮掩这一特质。它采用复古画面，风格与《塞尔达传说：织梦岛》高度相似，主角身着蓝衣持剑，需探索地下城收集道具与钥匙，击败首领收集魔法宝物。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d3ae1941"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d3ae1941",
+          "source": "The Verge",
+          "title": "《回声岛》：受经典塞尔达启发的小型冒险",
+          "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+          "published_at": "2026-06-13T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4b501767",
+      "title": "苹果新款AI照片编辑工具大体可用，利弊参半",
+      "summary": "全球受众最广的苹果iPhone迎来首批重磅AI照片编辑功能，大众普遍尚未对此做好适应准备。本次iOS系统推出的新款AI编辑功能，相比谷歌Pixel手机的同类功能风格更为温和，实际体验利弊参半。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d2ba0669"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d2ba0669",
+          "source": "The Verge",
+          "title": "苹果新款AI照片编辑工具大体可用，利弊参半",
+          "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+          "published_at": "2026-06-13T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4f28b58c",
+      "title": "管理所有截图的更佳方法",
+      "summary": "这是科技媒体The Verge《Installer》专栏的第132期内容，该栏目主打推荐优质特色内容，新读者可前往专栏主页阅读所有过往内容，本期开篇作者提到，自己本周正为世界杯观赛月的休闲时光做准备。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0d060d3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0d060d3f",
+          "source": "The Verge",
+          "title": "管理所有截图的更佳方法",
+          "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+          "published_at": "2026-06-13T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e4ae89e2",
+      "title": "黄金交易存异常 金矿股走势类模因股",
+      "summary": "当前黄金交易出现异常变动，金矿股走势呈现模因股特征。拥有十余年黄金股票投资经验的深度价值投资者布莱恩·拉克斯认为，黄金股票可对冲投资组合其他部分的波动，是地缘政治不确定性下的避风港，还能带来稳定收益。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inEg0Kc3AHAs/v1/1200x-1.jpg",
+      "article_ids": [
+        "d0dc2db7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d0dc2db7",
+          "source": "Bloomberg",
+          "title": "黄金交易存异常 金矿股走势类模因股",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/there-s-a-bug-in-the-gold-trade-as-miners-move-like-meme-stocks",
+          "published_at": "2026-06-13T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4b501767",
+      "title": "苹果全新AI照片编辑工具大体可用，优缺点并存",
+      "summary": "iPhone作为全球最受欢迎的相机，推出了首批重磅AI照片编辑功能，相关新功能搭载在iOS 27系统中。和谷歌Pixel手机的同类AI编辑功能相比，苹果的新功能更为温和，目前大众尚未对这类AI功能的到来做好准备。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d2ba0669"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "d2ba0669",
+          "source": "The Verge AI",
+          "title": "苹果全新AI照片编辑工具大体可用，优缺点并存",
+          "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+          "published_at": "2026-06-13T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ebe7b4d2",
+      "title": "私募市场巨头在公众舆论场展开反击",
+      "summary": "针对当前市场对私募资本的诸多负面看法，业内头部机构近期主动在舆论领域发声反击。相关机构认为，私募行业当前面临的诸多问题更多源于公众认知偏差，而非行业本身真的存在大量实质性问题。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWaXvE4GwyCQ/v3/1200x-1.png",
+      "article_ids": [
+        "a87b4cc2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a87b4cc2",
+          "source": "Bloomberg",
+          "title": "私募市场巨头在公众舆论场展开反击",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/private-markets-titans-fight-back-in-court-of-public-opinion",
+          "published_at": "2026-06-13T11:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7dfca962",
+      "title": "黎官方媒体称以色列空袭黎巴嫩 伊朗称与美接近达成协议",
+      "summary": "黎巴嫩国家媒体报道，以色列已对黎巴嫩发动空袭。在此同时，伊朗外交部长公开表示，伊朗与美国之间旨在结束双方敌对状态的协议已接近达成，这一中东地区最新动态引发国际社会关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/461c5450-6712-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "d39ca70f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d39ca70f",
+          "source": "BBC World",
+          "title": "黎官方媒体称以色列空袭黎巴嫩 伊朗称与美接近达成协议",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T11:15:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:15:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff98d1f3",
+      "title": "第十八届海峡论坛·妈祖文化活动周在湄洲岛开幕 - China Daily",
+      "summary": "第十八届海峡论坛·妈祖文化活动周在福建湄洲岛正式开幕。作为第十八届海峡论坛的重要活动，该活动以妈祖文化为纽带，助力深化两岸民间文化交流、增进同胞情感认同，相关报道可在中国日报谷歌新闻板块查看更多内容",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b0fdd3a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b0fdd3a4",
+          "source": "Google News (中国)",
+          "title": "第十八届海峡论坛·妈祖文化活动周在湄洲岛开幕 - China Daily",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UeGQ3TWRHTlFuOHVDU2JMeUdhaFhWdEVHenVydFRjYjN1b093clRqa2FGcEFCWVZjTFFIbmI3U1B2SWdFeXRjUDlHR1hOaV9MRDdfYU1jWXAwcVAxTmxYb3FkdEEtNFBuQWV1N2JpZ25NM09nU0VPdk5ITmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T11:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8823edbb",
+      "title": "要闻解说 - 美伊和平协议呼之欲出 但核问题与黎巴嫩局势仍存变数 - RFI",
+      "summary": "多家媒体近期披露，美伊正接近达成和平谅解备忘录，有消息称相关协议有望在24小时内敲定，目前双方已就内容达成一致，伊朗也公布了协议新细节。不过协议仍存不确定性，核问题与黎巴嫩局势两大变数尚未解决。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "df2b84a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "df2b84a2",
+          "source": "Google News (中国)",
+          "title": "要闻解说 - 美伊和平协议呼之欲出 但核问题与黎巴嫩局势仍存变数 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNSk9Cam1GbVRWWFplekRMQW1ScVdScUFSVmxjTWZ0X0dacTN4UUVEeEEyZ1p2VVZEMzVZZmhDaTVFMjA3bG1KZTJmODdBS2hBSlVHdWMyNkVoaExPMEtEMHhsdVVEeDVRd0RBT2kwaWFJNGd2ZUVBdmhjTEQ1Q0dfdVlZczdraGVFMFFDRGpXMWZseU91MWVJWHNrU3BUQjZ4NzVLbmw2blpFLWFzbS1hRDl6M3ZsQW9kZjA0eVBxYVZCQ3V3anVRdU40dWMyMktXWW40aFFZM1AyLUxMbU9zbTk2aXFYd0NxdjFCRENpRXR2Z2xfOF9GNEFYVUdyYVdfNW1rai0yTUoxa3U2NURkam56bGVkY2xmSFlHc0luOGowWF9hZWN4bWR0WlZKV1dGU3RjV2JmbUdKVkZuOWtPVFREMWFGMVg4WFhHNnpCZmgtMkc0bHh1SWpLVGZaaFRMd1dCd2RPVFdrSEdqakg5dEVaMFphY29pcXROM19LMUpFaV8yREFscVpBX0M4SjBaQlVtcE41clFESzR4dFFyeEo3VnNrNkljS3BwSy1HZ3psaE1nbEhuSm5CVGRualRsdTRnRjR5QUFoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T11:05:12+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:05:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5f9de0a",
+      "title": "美国联邦调查局自建仿真小镇模拟真实网络攻击",
+      "summary": "美国联邦调查局在阿拉巴马州的一栋建筑内，暗藏了一座自行打造的仿真小镇，这座小镇被用作专属的网络训练场地，专门用来模拟真实场景下的网络攻击，以此开展相关的网络训练活动。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6b8772b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6b8772b5",
+          "source": "TechCrunch",
+          "title": "美国联邦调查局自建仿真小镇模拟真实网络攻击",
+          "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+          "published_at": "2026-06-13T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0edfb4f2",
+      "title": "好莱坞的未来并非向普通生成式AI模型投喂提示词",
+      "summary": "尽管当下有关生成式AI将颠覆电影行业的讨论热度很高，截至目前，仍未出现该技术创作的、值得观众付费观看的影视项目，多数AI企业的视频模型也仅能产出短时长内容，行业应用还处在早期阶段。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "770ccfe0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "770ccfe0",
+          "source": "The Verge",
+          "title": "好莱坞的未来并非向普通生成式AI模型投喂提示词",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+          "published_at": "2026-06-13T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0edfb4f2",
+      "title": "好莱坞的未来不在于向普通生成式AI模型输入提示词",
+      "summary": "当下围绕生成式AI将颠覆电影行业的讨论层出不穷，但截至目前，尚未出现用该技术创作、能让观众愿意付费观看的成型娱乐产品，多数AI企业开发的视频生成模型，目前仅能产出短时长的内容片段。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "770ccfe0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "770ccfe0",
+          "source": "The Verge AI",
+          "title": "好莱坞的未来不在于向普通生成式AI模型输入提示词",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+          "published_at": "2026-06-13T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "055cd8d0",
+      "title": "国家图书馆“文化和自然遗产日”非遗宣传展示活动启动 - 新京报",
+      "summary": "在“文化和自然遗产日”到来之际，国家图书馆启动非遗宣传展示活动，供公众感受非遗魅力。多家主流媒体围绕文化遗产保护推出相关内容，涵盖守护中华文化瑰宝、梳理山东文化家底、呼吁大众参与文化遗产守护等。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cc7fbcc7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cc7fbcc7",
+          "source": "Google News (中国)",
+          "title": "国家图书馆“文化和自然遗产日”非遗宣传展示活动启动 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yLU00U3VCU3h5Tm9vX2hVZ0VsN3dfa2JJTUJrSDVvajVmYW9IeC1TUExWWHBPSWwzWDFzZFMyclFFM2M4RHd6NnpVRU9WNS0yRFdGV1JucWUycDVkMFotTkVkeW0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T10:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T10:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f9d0aa1",
+      "title": "全球最大摩托车出口国中国敦促行业遏制价格战",
+      "summary": "中国摩托车行业贸易机构敦促业内全行业企业遏制价格战，聚焦高质量发展。该机构警示，当前行业仿造跟风多发，同类产品泛滥，不仅挤压了企业利润空间，还损害了中国制造的声誉。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ3eHlZq48Zk/v1/1200x-1.jpg",
+      "article_ids": [
+        "ce1b193b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ce1b193b",
+          "source": "Bloomberg",
+          "title": "全球最大摩托车出口国中国敦促行业遏制价格战",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/top-motorcycle-exporter-china-urges-industry-to-curb-price-wars",
+          "published_at": "2026-06-13T10:19:34+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T10:19:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e17d65e",
+      "title": "聚力产教融合 长春赋能“中国光电城”建设 - chinanews.com.cn",
+      "summary": "近期长春聚力产教融合赋能“中国光电城”建设，当地举办光博会，盛大召开Light Conference 2026共探光学前沿；推动中韩示范区扩容“国际朋友圈”，还授予深耕光电领域四十余载的两位瑞典两院院士“长春市荣誉市民”称号。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "88d3bcf5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "88d3bcf5",
+          "source": "Google News (中国)",
+          "title": "聚力产教融合 长春赋能“中国光电城”建设 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNHNRMENKczlQOVpINU5wTGx0V0YyT0hrdEI1UmRHVEF6ajFnazBEVXFxWFpZZ2hWNFZJZUxubWpGcm9qa2VqOVhENERISXVjSEhVMU01LUpPN2otVWd6WDBmR01RMzl4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T10:07:44+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T10:07:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "34756075",
+      "title": "美委确认被美通缉的阿拉瓜列车帮头目格雷罗在联合打击中被击毙",
+      "summary": "被美国通缉的委内瑞拉阿拉瓜列车帮头目尼尼奥·格雷罗已被击毙，美委两国官方确认这一结果，称其死于两国在委境内开展的联合打击行动，美国总统特朗普则表示，该头目是在美军发起的定点空袭中被击毙",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13xp-trendearagua-hcbv/13xp-trendearagua-hcbv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "18175ba6",
+        "4f5a8241"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "18175ba6",
+          "source": "NYTimes World",
+          "title": "美委称阿拉瓜列车帮一名头目在联合打击中被击毙",
+          "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
+          "published_at": "2026-06-13T10:07:20+00:00"
+        },
+        {
+          "id": "4f5a8241",
+          "source": "BBC World",
+          "title": "特朗普称美军空袭击毙委内瑞拉“阿拉瓜列车”帮派头目",
+          "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T04:09:07+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T10:07:20+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "6d7f8595",
+      "title": "深圳珠海等地遇暴雨 广东最大降雨量超百毫米 - chinanews.com.cn",
+      "summary": "近期南方降雨增强，六省区部分地区将出现大暴雨，广东深圳、珠海等地遭遇暴雨，全省最大降雨量超百毫米，未来三天广东天气将发生变化，水文部门提示需重点关注相关河流汛情。广西柳州柳城已发布暴雨橙色预警，多部门齐发预警，提示相关地区出行留意风险。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "602b4ec5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "602b4ec5",
+          "source": "Google News (中国)",
+          "title": "深圳珠海等地遇暴雨 广东最大降雨量超百毫米 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFemQ1QlJoLWRMV3R1N2hyd2VIR3F0TmdKZHdReFc2Z0h2bm0xNmFEQjlSOHFXdGt2cW94VGRtUmN5WUpDdlRVQzJpVjJfQjBnQWpoUHJkRXdhRHlfYlJobEotVXo5S19a?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T09:39:08+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:39:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "546b976d",
+      "title": "千方百计\"抢\"农时保丰收——山东麦收一线见闻 - 新华网",
+      "summary": "当前全国小麦收获进度已过八成，夏播工作推进进入高峰，多地进入夏收农忙时段。山东麦收一线正千方百计抢抓农时，全力保障夏粮丰收，多家主流媒体先后对全国及各地夏收农情进行了报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c4b396d6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c4b396d6",
+          "source": "Google News (中国)",
+          "title": "千方百计\"抢\"农时保丰收——山东麦收一线见闻 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnZNRkszcWIyN2FBYWhMcEEySzhCWDFoajZyVzVzeEtoNnFWMVpiMEJLRzBLZEJteDRPbVhuNHl0WWUxTi0xbXZNQklJenRxUWJlWHJHUUNHeG53NTBGWHdlZU5YQmxWdF9ZTXNjMkl4ZXFWNGl0YVJ5LWMyamdQU2hB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T09:04:55+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:04:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c931b96c",
+      "title": "巴西人重拾世界杯传统为国家队助威",
+      "summary": "在经历连续多年对世界杯的热情低迷后，巴西民众重新燃起对本国国家队的支持热情，他们重启了专属的世界杯传统仪式，通过涂绘街道的方式，公开为出征的巴西国家队加油助威，展现出当下高涨的支持热情。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "3c037f96"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3c037f96",
+          "source": "NYTimes World",
+          "title": "巴西人重拾世界杯传统为国家队助威",
+          "link": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
+          "published_at": "2026-06-13T09:02:36+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:02:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32f17dbb",
+      "title": "协议看似接近达成 美国面临抗压意愿更强的伊朗",
+      "summary": "伊朗经冲突发生政权更迭后，新任领导人更愿意承担风险，他们认为伊朗已经承受了美国与以色列所能施加的最严重打击。目前伊美相关协议看似接近达成，美国如今需要面对的是抗压意愿更强的伊朗。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/12/multimedia/12int-iran-posture-assess-01-cmzj/12int-iran-posture-assess-01-cmzj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "182ed116"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "182ed116",
+          "source": "NYTimes World",
+          "title": "协议看似接近达成 美国面临抗压意愿更强的伊朗",
+          "link": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+          "published_at": "2026-06-13T09:02:13+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:02:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "600a0ba7",
+      "title": "俄罗斯弹道导弹储量充足 乌克兰缺乏拦截手段",
+      "summary": "当前俄乌冲突中，俄罗斯拥有充足的弹道导弹储备，乌克兰在弹道导弹防御方面面临严重缺口。乌方使用的美制“爱国者”防空拦截弹已消耗殆尽，乌方正紧急呼吁外界向其提供更多该型拦截弹。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/13interceptors-01-cwql/13interceptors-01-cwql-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "41e7486b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "41e7486b",
+          "source": "NYTimes World",
+          "title": "俄罗斯弹道导弹储量充足 乌克兰缺乏拦截手段",
+          "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+          "published_at": "2026-06-13T09:01:43+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:01:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1079f4a6",
+      "title": "前欧洲央行利率决策者穆勒履职志愿警察",
+      "summary": "马迪斯·穆勒刚结束为期七年的爱沙尼亚中央银行行长任期才数日，此前他曾担任欧洲央行利率决策者，如今将开启截然不同的新身份，前往警务部门刑事侦查单位担任志愿人员。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijGM0bBA4JzI/v1/1200x-1.jpg",
+      "article_ids": [
+        "1fd4eb81"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1fd4eb81",
+          "source": "Bloomberg",
+          "title": "前欧洲央行利率决策者穆勒履职志愿警察",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/former-ecb-rate-setter-muller-reports-for-duty-as-volunteer-cop",
+          "published_at": "2026-06-13T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b85bbb1b",
+      "title": "金湾龙舟赛火热开赛！粤港澳同场竞渡传承民俗情谊 - 珠海网",
+      "summary": "端午期间，广东多地推出丰富龙舟主题民俗活动：珠海金湾举办龙舟赛，粤港澳队伍同场竞渡，共叙传承情谊；广州天河车陂、荔湾分别开展龙舟竞速赛事、首届龙舟嘉年华；广州南沙还推出端午文化周，延伸“龙舟+”消费体验，丰富民俗内涵。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8495f821"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8495f821",
+          "source": "Google News (中国)",
+          "title": "金湾龙舟赛火热开赛！粤港澳同场竞渡传承民俗情谊 - 珠海网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kb3V5Wi1CTTVJX21OVl91RWp0M09WdU9fQnZwY3NsYXBaS0VTRUdsU0xyNDNkVUlBWDdocU9VNGtiQWRpOUFJSUZpTWRtcmdiZmdaa2VVX3V4VS1XaEg5bzZyOWZ2OENBT2VvQ1JHYzhBSVdnWTlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T08:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T08:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5ac4362b",
+      "title": "曼联，要被卖了",
+      "summary": "据彭博社消息，掌控英超豪门曼联超20年的美国格雷泽家族正讨论出售俱乐部事宜，该家族此前已出让近29%股份给英国英力士集团，目前放话只要报价超50亿英镑，就愿意出让合计48.9%的股份，这也是当下体育资产受资本追捧的缩影。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "db7793e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "db7793e3",
+          "source": "36氪",
+          "title": "曼联，要被卖了",
+          "link": "https://36kr.com/p/3851350342325504?f=rss",
+          "published_at": "2026-06-13T08:37:21+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T08:37:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2a0d16a5",
+      "title": "北京市北京市气象台发布大风蓝色预警信号 - 中央气象台",
+      "summary": "北京市发布多项气象预警，市气象台发布大风蓝色预警，门头沟区气象台发布大风黄色预警，中央气象台同时发布雷电黄色预警，本次预警涵盖大风、冰雹，局地风力可达9级左右，目前北京多区已出现短时强降雨、冰雹天气，提醒市民注意防范。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "90048243"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "90048243",
+          "source": "Google News (中国)",
+          "title": "北京市北京市气象台发布大风蓝色预警信号 - 中央气象台",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51eDVIZ3JjT2JVeEZ2WnpCeGFGU25tVzB5RUpTY0h1d1VkTmdLUTgyWFJuMWdkZEQzSVRKREIyWlVua2FBalM1LUNfSnF3X3BTUEcxTmxBV1o2ZWZINkQ1d0lQbFpLSFJpenZ6T1QteWhocTZj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T08:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T08:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e4c3788",
+      "title": "欧央行纳格尔称即便冲突结束物价仍可能维持高位",
+      "summary": "德国联邦银行行长约阿希姆·纳格尔接受德意志广播电台采访时表示，身为欧洲央行官员的他指出，即便伊朗战事很快结束，物价水平仍有可能在较长时间内维持高位，不会随冲突结束快速回落。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVWXSEMfd7E/v1/1200x-1.jpg",
+      "article_ids": [
+        "44362e5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "44362e5e",
+          "source": "Bloomberg",
+          "title": "欧央行纳格尔称即便冲突结束物价仍可能维持高位",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/prices-likely-to-stay-higher-even-if-conflict-ends-nagel-says",
+          "published_at": "2026-06-13T08:23:17+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T08:23:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b74d69da",
+      "title": "续写中朝传统友谊崭新篇章——习近平总书记访问朝鲜纪实 - politics.people.com.cn",
+      "summary": "习近平总书记访问朝鲜，人民日报、央视网、中国日报网等多家主流媒体推出相关纪实报道，指出此次访问见证中朝传统友谊薪火相传，为中朝友谊注入新的时代内涵，推动中朝关系与时俱进，对中朝关系发展具有重要里程碑意义。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7ed83062"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7ed83062",
+          "source": "Google News (中国)",
+          "title": "续写中朝传统友谊崭新篇章——习近平总书记访问朝鲜纪实 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoVjZjVFdxR2Jmbnp3UjBGVGpmTjR2aXNvazVFMmJ3Zk9WMUl5OW9xVHZYMkZhV1g5MEFxdnFJdFRDc3E2VmowMkxPbGtHdjIwbkd4RGdOODBIaW1YTnlKbXYyQ05EekJCVk1FQ2tEbUZkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T07:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T07:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "006c529d",
+      "title": "尽管霍尔木兹发生摩擦 美伊仍接近达成协议",
+      "summary": "巴基斯坦称，美伊间旨在重新开放霍尔木兹海峡的临时协议有望在24小时内敲定。霍尔木兹这一战略水道近期发生摩擦后，这一进展提升了外界对美伊双方即将达成更广泛协议的预期。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioWBjA_EjzVk/v3/1200x-1.png",
+      "article_ids": [
+        "68e91b07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "68e91b07",
+          "source": "Bloomberg",
+          "title": "尽管霍尔木兹发生摩擦 美伊仍接近达成协议",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
+          "published_at": "2026-06-13T06:49:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T06:49:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30c28a4d",
+      "title": "台青苏恒妙语连珠看两岸双向奔赴 用脚投票的真实选择 - 中华网",
+      "summary": "第十八届海峡论坛大会举办，台湾青年苏恒就两岸关系议题发声，以妙语解读两岸双向奔赴，指出不少台青用脚投票选择两岸交流融合是真实的趋势选择。演员张凌赫也受邀出席本次论坛，发声称两岸交流挡不住、文脉割不断，引发舆论关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3e3bd4c2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3e3bd4c2",
+          "source": "Google News (中国)",
+          "title": "台青苏恒妙语连珠看两岸双向奔赴 用脚投票的真实选择 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OS1R6RHNSLVhobEU5T1kwSHlVemNpWlJBNzJxS2xtNVJaRHRia2RRRlI4Z3h4am42cEhITWZtQ253QzI4V2ltMUZYZmRJWjN6dGdmMmxudWxMNVRWd1dsdzhjeE9VeDllRlBxbDNYRno?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-13T06:00:33+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T06:00:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a2d8fe77",
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "summary": "AI浪潮冲击下，传统留学依赖的学历溢价、信息差逐步失效，中国留学家庭面临投资回报率下降、身份焦虑等问题。36氪研究院联合新通教育发布相关留学就业白皮书，梳理行业变迁，提出核心胜任力模型，研判就业赛道，为留学家庭提供参考指南。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260612/v2_55d528cdc42f41bc82f5a9369f3c901a@6387155_oswg186588oswg837oswg501_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "90dfbf75"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "90dfbf75",
+          "source": "36氪",
+          "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "link": "https://36kr.com/p/3846972367866119?f=rss",
+          "published_at": "2026-06-13T06:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T06:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "55727418",
+      "title": "澳版《初见成婚》嘉宾未被告知伴侣有毒品及暴力犯罪前科",
+      "summary": "主打初次见面配对成婚的澳版热门真人秀近日爆出争议，多名参与女嘉宾透露，她们事前并不清楚节目中配对的荧幕丈夫存在过往犯罪前科，制作方未提前向她们披露相关信息，这些前科涉及毒品与暴力类犯罪。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf0/live/889a7100-666c-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "77939a03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "77939a03",
+          "source": "BBC World",
+          "title": "澳版《初见成婚》嘉宾未被告知伴侣有毒品及暴力犯罪前科",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T05:00:04+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T05:00:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "224aa57e",
+      "title": "“宁王系”，排队 IPO",
+      "summary": "市值超万亿的宁德时代近期正推进41亿元战略入股中恒电气，今年其已投资多赛道多家企业，已构建起庞大投资版图，大批“宁王系”项目排队IPO。当前产业龙头布局CVC成行业趋势，政策加持下，CVC已成为国内创新资本市场不可忽视的重要力量。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "08d1a33d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "08d1a33d",
+          "source": "36氪",
+          "title": "“宁王系”，排队 IPO",
+          "link": "https://36kr.com/p/3851106394117383?f=rss",
+          "published_at": "2026-06-13T04:59:03+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T04:59:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d29b0fe9",
+      "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+      "summary": "杨安泽梳理出当前美国人在住房、食品、无线通信等多个领域都存在过度付费的情况，他指出，帮助民众省下多花的钱、降低生活成本，将成为下一波创业淘金热潮，蕴藏着巨大的创业机遇。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "09924b25"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "09924b25",
+          "source": "TechCrunch",
+          "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+          "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+          "published_at": "2026-06-13T04:14:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d29b0fe9",
+      "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+      "summary": "杨安泽梳理出当前美国人多支付开销的多个领域，涵盖住房、食品、无线通信服务等。他提出，降低这些领域的生活成本、把民众多花的钱返还给消费者，将会催生下一波创业热潮，是未来创业的重大机遇。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "09924b25"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "09924b25",
+          "source": "TechCrunch AI",
+          "title": "杨安泽认为下一个重大创业机遇是降低生活成本",
+          "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+          "published_at": "2026-06-13T04:14:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T04:14:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9cf53452",
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "summary": "6月12日，SpaceX正式登陆纳斯达克，募资约750亿美元，盘中市值一度站上2万亿美元。内容梳理SpaceX2002年创立以来24年的发展历程，还原其从屡败屡闯开启商业航天时代，靠星链实现盈利，持续为新型运力提前布局需求、押注太空算力的发展路径。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "39394522"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "39394522",
+          "source": "36氪",
+          "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+          "link": "https://36kr.com/p/3851073239372809?f=rss",
+          "published_at": "2026-06-13T04:08:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T04:08:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a1dfe13",
+      "title": "缅甸一家庭遭地雷肆虐",
+      "summary": "数十年前，缅甸民众布里因地雷失去一条腿。近来，他家中另有六名成员也遭遇地雷袭击，落得伤残甚至更惨的结局，这一悲剧正是缅甸内战给普通民众造成惨重破坏的真实写照。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "eb8b00a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "eb8b00a1",
+          "source": "NYTimes World",
+          "title": "缅甸一家庭遭地雷肆虐",
+          "link": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+          "published_at": "2026-06-13T04:01:07+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T04:01:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "629bde76",
+      "title": "因美国政府安全担忧 Anthropic暂停推出新AI工具",
+      "summary": "美国人工智能企业Anthropic本周面向公众正式发布了旗下新款AI产品Claude Fable 5，该产品引发了网络安全与黑客攻击相关的风险担忧，因美国政府提出安全关切，Anthropic已暂停新AI工具的推出。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54a1/live/35ba2f90-66c9-11f1-b891-a117aef409ef.jpg",
+      "article_ids": [
+        "29e21a1b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "29e21a1b",
+          "source": "BBC World",
+          "title": "因美国政府安全担忧 Anthropic暂停推出新AI工具",
+          "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T03:54:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T03:54:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1256307",
+      "title": "华纳兄弟1110亿美元出售给派拉蒙交易获美国司法部批准",
+      "summary": "美国司法部已批准华纳兄弟以1110亿美元出售给派拉蒙的交易。这一批准是这宗将重塑媒体格局的合并案的关键进展，让这场针对这家拥有CNN、HBO的好莱坞制片厂的收购得以继续推进。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6251/live/3d15a8f0-66a6-11f1-b7ab-1591368af17a.jpg",
+      "article_ids": [
+        "02d799c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "02d799c3",
+          "source": "BBC World",
+          "title": "华纳兄弟1110亿美元出售给派拉蒙交易获美国司法部批准",
+          "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-13T03:28:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T03:28:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8879abed",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "summary": "6月9日Anthropic发布Claude Fable 5与Mythos 5两款大模型，上线仅72小时后，美国政府以国家安全为由，发出口管制指令要求禁止所有外籍人士访问，且未给出具体顾虑细节。Anthropic为合规一刀切全球停服两款模型，目前其他Claude模型不受影响，官方正争取尽快恢复访问。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "1ac7112a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "1ac7112a",
+          "source": "36氪",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "link": "https://36kr.com/p/3851015329027336?f=rss",
+          "published_at": "2026-06-13T03:00:16+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T03:00:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "103c2bab",
+      "title": "Anthropic安全警告或已适得其反 政府停用其最强AI",
+      "summary": "政府已停用AI企业Anthropic开发的最强AI模型，这被认为是Anthropic此前发布安全警告引发的反效果。Anthropic公开表达不满，称仅发现一处有限的潜在越狱漏洞，不该召回这款已供数亿人使用的商用模型。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "debd8a7a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "debd8a7a",
+          "source": "TechCrunch",
+          "title": "Anthropic安全警告或已适得其反 政府停用其最强AI",
+          "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "published_at": "2026-06-13T02:26:30+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "103c2bab",
+      "title": "Anthropic安全警告适得其反 政府停用其最强AI",
+      "summary": "AI公司Anthropic对政府停用其最强AI模型的举措表达不满。该公司发布博客称，仅发现一处范围有限的潜在越狱漏洞，不应因此召回这款已部署给数亿用户的商用模型。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "debd8a7a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "debd8a7a",
+          "source": "TechCrunch AI",
+          "title": "Anthropic安全警告适得其反 政府停用其最强AI",
+          "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "published_at": "2026-06-13T02:26:30+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T02:26:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "13a1fc25",
+      "title": "Valve单日进口13吨VR头显",
+      "summary": "6月10日，从上海出发航行两周的德国“波森”号集装箱船停靠美国洛杉矶。Valve观察者布拉德·林奇认为，该船大概率搭载了Valve新款游戏VR头显Steam Frame的首批量产货物，进口记录显示本次Valve进口的VR头显总重量达13吨。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3fc9bb1d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3fc9bb1d",
+          "source": "The Verge",
+          "title": "Valve单日进口13吨VR头显",
+          "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+          "published_at": "2026-06-13T01:32:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T01:32:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ce3f7f4",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "summary": "电致变色技术厂商中科电墨完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资，资金将用于车规级产线建设、核心材料研发及汽车领域市场拓展。该公司自主研发的核心材料成本仅为进口同类产品的五分之一，性能优势突出，正推进车规级量产，同时布局建筑、消费电子等多领域应用。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_28fa5f43fba54b9fa4ddd7b92dce257a@5920579_oswg179774oswg629oswg354_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "8e03cc41"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "8e03cc41",
+          "source": "36氪",
+          "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+          "link": "https://36kr.com/p/3850904887268611?f=rss",
+          "published_at": "2026-06-13T01:04:10+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T01:04:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2fa8dbb7",
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "summary": "6月12日晚SpaceX完成史上最大估值IPO，市值突破2万亿美元，马斯克成全球首位身家破万亿美元的富豪。大洋彼岸，中国商业航天已走完十年发展周期，目前资本涌入热度高涨，上市通道已打开，依托政策与制造业优势加速发展，仍待突破技术与商业化闭环难题。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260613/v2_3e347a3fd2bf4c729355071525e08d5c@5920579_oswg57991oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "e1d943d5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e1d943d5",
+          "source": "36氪",
+          "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+          "link": "https://36kr.com/p/3850902095336449?f=rss",
+          "published_at": "2026-06-13T01:02:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T01:02:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f2891907",
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "summary": "6月12日，SpaceX在纳斯达克上市，总市值达2.1万亿美元，马斯克身家突破1万亿美元，成为全球首个净资产超万亿的富翁；胖东来澄清网传降薪言论，称从未作出降薪决定；亮相世界杯开幕式的中国潮玩IP Labubu的FIFA联名款销量环比暴涨30倍，另有多领域热点曝出。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e24f9f90"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e24f9f90",
+          "source": "36氪",
+          "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+          "link": "https://36kr.com/p/3850898430989577?f=rss",
+          "published_at": "2026-06-13T01:01:24+00:00"
+        }
+      ],
+      "published_at": "2026-06-13T01:01:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6ebf2630",
+      "title": "SpaceX首次公开募股：你所需了解全部信息的实时更新",
+      "summary": "TechCrunch自SpaceX创立初期便追踪关注其起步、困境与成就等发展历程，此次推出SpaceX首次公开募股系列专题报道，内容涵盖本次IPO潜在获益方、上市前交易以及S-1注册文件相关内容等信息。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ead81c10"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ead81c10",
+          "source": "TechCrunch",
+          "title": "SpaceX首次公开募股：你所需了解全部信息的实时更新",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+          "published_at": "2026-06-12T23:15:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-12T23:15:14+00:00",
+      "is_merged": false
+    }
+  ]
+}
