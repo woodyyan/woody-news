@@ -1,1042 +1,912 @@
 {
   "date": "2026-06-23",
   "edition": "morning",
-  "updated_at": "2026-06-23T01:07:25.144492+08:00",
+  "updated_at": "2026-06-23T11:11:03.749647+08:00",
   "article_count": 60,
-  "cluster_count": 59,
+  "cluster_count": 57,
   "articles": [
     {
-      "id": "34ff8e5f",
-      "title": "森特理克首席执行官拟在美国拓展更多液化天然气交易及贸易业务",
-      "title_original": "Centrica CEO Eyes US for More LNG Deals and Trading Expansion",
-      "summary": "英国森特理克集团计划增购美国液化天然气。该集团认为，未来数十年液化天然气仍将是全球能源体系的核心组成部分，当前全球地缘政治紧张局势进一步凸显了能源供应多元化的必要性。",
-      "summary_original": "The UK’s Centrica Plc plans to buy more US liquefied natural gas, as it sees the fuel remaining a key part of the energy system for decades even as global geopolitical tensions highlight the need to diversify supplies.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDHemAu9ihsM/v0/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/centrica-ceo-eyes-us-for-more-lng-deals-and-trading-expansion",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T16:25:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "25b28331",
-      "title": "法意西发布高温红色预警 预计气温达40摄氏度",
-      "title_original": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "summary": "法国、意大利、西班牙已发布高温红色预警，预计上述地区将出现40摄氏度的高温天气，最新气象预报显示，未来几天热浪天气将在整个中欧及西欧地区进一步加剧。",
-      "summary_original": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb6/live/a6a1e140-6e4d-11f1-8546-8f19e4fe30f4.jpg",
-      "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-22T16:17:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f9893b30",
-      "title": "中东实时更新：美国放宽制裁 万斯称伊朗同意恢复核核查",
-      "title_original": "Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections",
-      "summary": "美国放宽对伊朗相关制裁，美国副总统JD·万斯称伊朗已同意恢复核核查。若该安排获得确认，将符合特朗普2018年退出的奥巴马时期伊核协议条款，万斯称此轮对话为持久和平奠定了基础。",
-      "summary_original": "If confirmed, the provisions would be in line with an Obama-era deal President Trump tore up in 2018. Vice President JD Vance hailed the latest round of talks as a “foundation” for lasting peace.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22mideast-blog-header-bvfk/22mideast-blog-header-bvfk-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T16:15:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1969dff4",
-      "title": "英国实时快讯：斯塔默宣布辞职，伯纳姆获关键支持",
-      "title_original": "U.K. Live Updates: Starmer Announces Resignation; Burnham Wins Key Endorsement",
-      "summary": "英国现任首相、执政党工党领袖基尔·斯塔默宣布辞去工党领袖职务。党内最受欢迎的政治人物安迪·伯纳姆宣布将角逐首相一职，目前他已获得一名潜在竞争对手的支持，拿下工党党首选举的关键筹码。",
-      "summary_original": "Prime Minister Keir Starmer stepped down as leader of the governing Labour Party. Andy Burnham, the party’s most popular politician, said he would seek the prime minister’s job and secured the support of a potential rival.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-header-vwjq/22uk-starmer-header-vwjq-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T16:12:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7cc543f7",
-      "title": "SpaceX将以每月1.5亿美元向Reflection出租计算资源",
-      "title_original": "SpaceX to Lease Compute to Reflection for $150 Million Per Month",
-      "summary": "SpaceX即将向Reflection出租计算资源，双方约定该项计算资源租赁的费用标准为每月1.5亿美元，相关租赁计划安排已经明确。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://www.theinformation.com/briefings/spacex-lease-compute-reflection-150-million-per-month",
-      "category": "business",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-06-22T16:07:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "01789a0f",
-      "title": "Prime会员日任天堂Switch 2最高优惠50美元",
-      "title_original": "The Nintendo Switch 2 is up to $50 off for Prime Day",
-      "summary": "线上零售商Woot此前针对任天堂Switch 2推出直降15美元的活动，当前Prime会员日到来后，该平台加码优惠，消费者结账时输入优惠码CHEAPSWITCH2，即可419.99美元购入Switch 2基础款主机，最高可省50美元。",
-      "summary_original": "We should have all guessed that Woot might improve on its $15 off sale from last week on the Nintendo Switch 2. Now that Prime Day is upon us, the online seller is now offering the base console for $419.99 when you use the code CHEAPSWITCH2 at checkout. You can save $50 if you’re a [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T16:04:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "39945ea0",
-      "title": "哥伦比亚新总统将如何助推特朗普的毒品战争？",
-      "title_original": "How Will Colombia’s New President Fuel Trump’s Drug War?",
-      "summary": "阿贝拉多·德拉埃斯普列利亚已誓言动用军事力量摧毁贩毒集团，目前他即将成为哥伦比亚新一任总统，外界正围绕其上台后的禁毒政策展开讨论，关注这一变动将对特朗普的毒品战争产生何种影响。",
-      "summary_original": "Abelardo De La Espriella, who has vowed to destroy traffickers with military power, appears set to be the country’s next president.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22-int-colombia-election-assess-phqz/22-int-colombia-election-assess-phqz-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T16:02:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1277cf2d",
-      "title": "尼日利亚举办欢乐联合婚礼 双胞胎迎娶双胞胎",
-      "title_original": "Twins marry twins in joyous Nigerian joint wedding",
-      "summary": "近日尼日利亚举办了一场特殊的欢乐联合婚礼，双胞胎兄弟泰沃·奥贡托耶与肯欣德·奥贡托耶共同迎娶了一对双胞胎姐妹。婚礼结束后，兄弟二人接受了英国广播公司（BBC）的采访，这场特别的结合也引发关注。",
-      "summary_original": "Brothers Taiwo and Kehinde Oguntoye speak to the BBC after getting hitched to twin sisters.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a5/live/b3c1b970-6e2c-11f1-b1db-af71d47507d6.jpg",
-      "link": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-22T16:01:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cb863e19",
-      "title": "发债迎来火爆夏季",
-      "title_original": "A Blockbuster Summer for Debt Issuance",
-      "summary": "今年夏季全球发债市场迎来爆发式增长，企业债券发行热度空前，市场迎来少见的繁荣行情。不少企业抓住当前合适的融资窗口密集发债筹措资金，推升整体发债规模大幅攀升，这股发债热潮成为当前金融市场的焦点。",
-      "summary_original": "Corporate bond bonanza.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaszjV4de9p8/v8/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/a-blockbuster-summer-for-debt-issuance",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T15:58:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e4f7bef5",
-      "title": "威尔·卡斯卡特卸任 印度初创创始人将接掌WhatsApp",
-      "title_original": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "summary": "Meta旗下通讯应用WhatsApp发生领导层变动，原负责人威尔·卡斯卡特将卸任，由印度初创企业创始人接掌该业务。此次领导层调整，是Meta为进一步强化WhatsApp在印度本已蓬勃发展的市场布局推出的举措。",
-      "summary_original": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/30742380-6e51-11f1-8c89-cfc50446b805.jpg",
-      "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:57:46+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6ea98840",
-      "title": "普京轰炸其觊觎已久的顿巴斯城市 数千民众逃离",
-      "title_original": "Thousands Are Fleeing as Putin Bombs the Donbas Cities He Most Covets",
-      "summary": "俄乌冲突当前，基辅方面在战场其他区域形势有所好转，但俄军正持续对顿巴斯地区斯洛维扬斯克、克拉马托尔斯克等“要塞带”城市发动大规模攻击，出动炸弹与无人机实施打击，目前已有数千民众被迫逃离该区域。",
-      "summary_original": "While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.",
-      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/00int-ukraine-fortress-belt-01-qwlf/00int-ukraine-fortress-belt-01-qwlf-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:57:38+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "147c6df3",
-      "title": "又一位AI明星高管跳槽竞品 Alphabet股价下跌",
-      "title_original": "Alphabet Shares Drop After Second AI Star Departs for a Rival",
-      "summary": "周一，谷歌母公司Alphabet再曝出核心高管离职事件，公司第二位颇具影响力的人工智能领域明星高管离职，跳槽至竞争对手阵营，受这一消息影响，Alphabet股价当日出现大幅下挫。",
-      "summary_original": "Alphabet Inc. shares tumbled on Monday following the departure of another high-profile artificial intelligence leader to a rival.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFCakFH6w9wM/v2/1200x-1.png",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T15:54:27+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "86f0ef66",
-      "title": "垃圾债券开始发售 为嘉实多、美国运通GBT收购提供资金",
-      "title_original": "Junk-Bond Sales Begin to Help Fund Castrol, Amex GBT Buyouts",
-      "summary": "继上周推出同步贷款发行，为这两笔收购交易提供部分融资后，用于资助杠杆收购的两笔垃圾债券交易于周一正式进入市场，将分别为嘉实多与美国运通GBT的收购案提供资金支持。",
-      "summary_original": "A pair of junk-bond deals to help fund leveraged buyouts hit the market on Monday, after concurrent loan offerings were launched last week to partially finance those acquisitions.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_yBMrFMT2sQ/v1/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/junk-bond-sales-begin-to-help-fund-castrol-amex-gbt-buyouts",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T15:52:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8556613c",
-      "title": "乔利称多家中国车企正考虑在加开展制造业合作",
-      "title_original": "Chinese Carmakers Weighing Canada Manufacturing Deals, Joly Says",
-      "summary": "加拿大工业部长梅兰妮·乔利公开表示，至少有四家中国车企正研究如何利用加拿大面向电动汽车的低关税进口配额，这些车企都对赴加拿大开展本土制造业合作项目抱有浓厚兴趣。",
-      "summary_original": "At least four Chinese carmakers are looking at how to use Canada’s low-tariff import quota for their electric vehicles and are interested in domestic manufacturing partnerships, Industry Minster Melanie Joly said.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih4gAtPmc07g/v1/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-carmakers-weighing-canada-manufacturing-deals-joly-says",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T15:50:13+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3492c53c",
-      "title": "揭穿批评人工智能数据中心人士信奉的迷思",
-      "title_original": "Debunking the Myths That AI Data Center Critics Believe",
-      "summary": "本文将针对一系列迷思进行驳斥澄清，这些迷思是对人工智能数据中心持批评立场的人士所信奉的，相关内容围绕澄清这类错误认知展开。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://www.theinformation.com/newsletters/ai-infrastructure/debunking-myths-ai-data-center-critics-believe",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-06-22T15:37:49+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4909a6a1",
-      "title": "帕拉贡债务因大举收购遭德意志银行分析师针对",
-      "title_original": "Paragon Debt Targeted by Deutsche Bank Analysts Over Deal Spree",
-      "summary": "德意志银行集团分析师建议投资者做空英国商业服务集团帕拉贡的首发债券，分析师表示，这家英国企业的增长过度依赖对外收购，增长模式存在问题，因此给出了做空其债务的投资建议。",
-      "summary_original": "Deutsche Bank AG analysts are recommending investors short Paragon’s debut bond, saying the UK business services group is overly dependent on acquisitions for growth.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0VFqFMILCUM/v3/1200x-1.png",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/paragon-debt-targeted-by-deutsche-bank-analysts-over-deal-spree",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-06-22T15:34:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3e6b706b",
-      "title": "联合国称缅甸军方六个月内杀害逾700名平民",
-      "title_original": "Myanmar army killed over 700 civilians in six months, UN says",
-      "summary": "联合国发布一份最新报告披露，去年六个月时间里，缅甸军方共造成702名平民死亡，其中包含153名儿童，大量无辜平民遇害，凸显出缅甸境内平民正面临极为严峻的安全威胁。",
-      "summary_original": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7875/live/4796c580-6e48-11f1-8a85-d1d176b992ab.jpg",
-      "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:31:55+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "328e98e6",
-      "title": "乌克兰升级克里米亚袭击，对俄罗斯形成新施压点",
-      "title_original": "Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia",
-      "summary": "乌克兰为向俄罗斯施压，正针对2014年被俄罗斯吞并的克里米亚半岛升级空中作战行动，试图孤立该半岛。此次袭击升级，使得克里米亚方向成为俄罗斯在当前俄乌冲突中需要应对的全新压力点。",
-      "summary_original": "To pressure Moscow, Ukraine is stepping up an air campaign to isolate the peninsula, which Russia annexed in 2014.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-russia-crimea-01-pjhc/22int-russia-crimea-01-pjhc-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:30:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2883ec54",
-      "title": "Meta宣布WhatsApp新任领导人",
-      "title_original": "Meta Announces New WhatsApp Leader",
-      "summary": "Meta正式对外发布消息，宣布任命WhatsApp的新任领导人，本次涉及WhatsApp的人事变动相关信息已经由Meta方面正式对外公开。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://www.theinformation.com/briefings/meta-announces-new-whatsapp-leader",
-      "category": "business",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-06-22T15:26:41+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f65d3c9b",
-      "title": "Meta任命印度CRED创始人库纳尔·沙阿为WhatsApp新负责人 并注资9亿美元",
-      "title_original": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
-      "summary": "Meta调整WhatsApp核心管理层，原负责人威尔·卡特卡将转任Meta内部新职位，印度金融科技巨头CRED创始人库纳尔·沙阿将卸任CRED首席执行官，接任WhatsApp负责人一职，Meta同时注资9亿美元。",
-      "summary_original": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-22T15:21:42+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5c30f252",
-      "title": "卡塔尔发生燃气爆炸 至少13死数十人受伤",
-      "title_original": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "summary": "卡塔尔拉斯拉凡工业区内该国主要液化天然气加工场地发生一起技术事故，引发燃气爆炸，目前已造成至少13人死亡，另有数十人受伤，暂未披露更多相关后续信息。",
-      "summary_original": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7c6/live/d4d68270-6e46-11f1-8a85-d1d176b992ab.jpg",
-      "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:15:42+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0bca1d69",
-      "title": "记者手记｜掌声与迷茫交织——直击斯塔默辞职现场 - 新华网",
+      "id": "1345cbf3",
+      "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
       "title_original": null,
-      "summary": "英国首相斯塔默已宣布辞职，此前其去留悬而未决，有消息称他最早22日发布相关辞职声明、将公布离任时间表。本次斯塔默辞职现场情绪呈现掌声与迷茫交织的状态，其政策连续性也遭遇重新评估。",
+      "summary": "快手与北京市人工智能基金发起设立的AI芯片公司凌川科技，近日完成数亿元A+轮融资，项目落地北京亦庄。公司核心产品SL200视频压缩性能超英伟达，目前销量近十万颗，已大规模落地，本轮融资将用于下一代芯片研发、量产扩产及海外市场拓展。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRTYtTWxOWkJqcE53WW5TN292ZWlIeXJKTlFocDBHZDREN0VCR05VNkcwM3VQVDNDSTRYN2dyT181LWJfd2ltNEozdVpmd3dfZ25famdHd2RKT0JwaEdVQjdqYm5YcXdycXhCSEF1d3M5eW9GV2lKdXZvei1YSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-22T15:07:20+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a1896da2",
-      "title": "美伊首轮会谈结束：满怀希望仍存重大挑战",
-      "title_original": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
-      "summary": "美伊首轮会谈已落幕，斡旋方表示，本次谈判围绕需解决敲定的议题展开，目前已取得一定进展，各方有望在60天内达成最终协议，但后续推进仍面临诸多重大挑战。",
-      "summary_original": "Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T15:04:28+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7b2debfe",
-      "title": "Prime会员日苹果最新款AirTags迎来史上最低价",
-      "title_original": "Apple’s latest AirTags are cheaper than ever for Prime Day",
-      "summary": "Prime会员日期间推出多款苹果产品优惠活动，对于计划在7月4日周末或今夏晚些时候出行的消费者而言，新款AirTags的优惠相当实用。目前亚马逊与百思买的AirTags四件装已降至90美元历史新低，较原价优惠9美元。",
-      "summary_original": "Prime Day has brought a number of Apple deals, but one of the most useful if you&#8217;re planning to travel over the July 4th weekend or later this summer is on the new AirTags. The four-pack has dropped to a new low of $90 ($9 off) at Amazon and Best Buy, bringing the price of [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
+      "link": "https://36kr.com/p/3865136165344516?f=rss",
       "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T15:00:00+00:00",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-23T02:20:22+00:00",
       "edition": "morning"
     },
     {
-      "id": "41f8e3c0",
-      "title": "古巴燃油危机导致学校停摆",
-      "title_original": "Cuba’s Fuel Crisis Brings Schools to a Standstill",
-      "summary": "受美国石油封锁影响，古巴遭遇严重的燃油短缺危机。该国本就运营困难的各级学校受此次危机波及，被迫提前结束本学年教学工作，全国学校教育陷入停摆状态。",
-      "summary_original": "The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade.",
-      "image": "https://static01.nyt.com/images/2026/06/18/multimedia/intxx-cuba-schools-01-fpwc/intxx-cuba-schools-01-fpwc-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T14:29:39+00:00",
+      "id": "c02c3b52",
+      "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+      "title_original": null,
+      "summary": "北大背景创业公司雪梦未来获龚虹嘉、陆奇及海外机构投资。该团队以表面肌电运动神经信号解码技术为核心，自研AI解码模型，推出神经腕带等可穿戴数采终端，为具身智能和Physical AI提供高质量人类交互结构化数据，同步推进两条商业化路径。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_fab96073d3d940f5833d340f900f08aa@5920579_oswg773982oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3865125383443463?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-23T02:13:15+00:00",
       "edition": "morning"
     },
     {
-      "id": "20f5d6bc",
-      "title": "万斯称伊朗将允许核核查人员重返该国",
-      "title_original": "Vance says Iran will allow nuclear inspectors back into the country",
-      "summary": "美国副总统万斯表示，美伊首轮会谈已取得大量进展，万斯同时披露，伊朗方面将允许核核查人员重返伊朗境内开展相关核核查工作，这是本次美伊接触取得的重要成果。",
-      "summary_original": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/013ede30-6e37-11f1-8e1d-bbbb1017d210.jpg",
-      "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "id": "25640e78",
+      "title": "赎金字条声称南希·格思里遭绑架后死亡",
+      "title_original": "Ransom note claims Nancy Guthrie died after abduction",
+      "summary": "绑匪留下的赎金字条证实，遭绑架的南希·格思里已经死亡。据相关报道，字条内容显示，作案绑匪称他们并非故意致使南希死亡，还就这一结果向受害者南希·格思里的家属致以歉意。",
+      "summary_original": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
+      "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
       "category": "world",
       "source": "BBC World",
       "lang": "en",
-      "published_at": "2026-06-22T14:18:19+00:00",
+      "published_at": "2026-06-23T01:59:39+00:00",
       "edition": "morning"
     },
     {
-      "id": "c0baac42",
-      "title": "任职七年后，WhatsApp负责人威尔·卡斯卡特即将离职",
-      "title_original": "WhatsApp head Will Cathcart is stepping down after seven years",
-      "summary": "Meta首席执行官马克·扎克伯格周一通过脸书宣布，已领导WhatsApp七年的负责人威尔·卡斯卡特即将卸任，公司已任命印度金融科技初创企业Cred的创始人库纳尔·沙阿接任WhatsApp新一任负责人。",
-      "summary_original": "Will Cathcart, who led WhatsApp for the past seven years, is stepping down from his role as Meta appoints a new leader. On Monday, Meta CEO Mark Zuckerberg announced on Facebook that Kunal Shah, the founder of an Indian fintech startup called Cred, is taking over as the head of WhatsApp. Cred is an app [&#8230;]",
+      "id": "44208f99",
+      "title": "动态更新清单：2026年雇主提及AI因素的科技业大规模裁员",
+      "title_original": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "这份动态更新的清单按时间倒序整理，收录了2026年宣布大规模裁员，并明确将AI列为裁员相关因素的大型科技公司相关信息，可帮助人们梳理了解今年科技行业与AI相关的裁员整体动态。",
+      "summary_original": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "image": null,
-      "link": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T14:14:23+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "77da6ee2",
-      "title": "Instagram欲借电视APP推长视频剧集直播 对标流媒体服务",
-      "title_original": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-      "summary": "社交媒体平台Instagram瞄准客厅观看赛道，计划为其电视应用推出长视频、连载剧集以及直播形式内容，意图对标Netflix、亚马逊Prime Video等头部流媒体服务，正式向现有流媒体市场发起冲击。",
-      "summary_original": "Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "category": "tech",
       "source": "TechCrunch",
       "lang": "en",
-      "published_at": "2026-06-22T14:14:10+00:00",
+      "published_at": "2026-06-23T01:27:55+00:00",
       "edition": "morning"
     },
     {
-      "id": "519d6a05",
-      "title": "卡塔尔天然气厂爆炸致至少13人死亡66人受伤",
-      "title_original": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
-      "summary": "卡塔尔一处核心天然气生产场地发生爆炸，事故造成至少13人死亡、66人受伤。此次爆炸发生在美以对伊朗战争结束后工厂重启运营作业期间，当地有关部门认定事故原因为技术故障。",
-      "summary_original": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-Qatar-explosion-mfqb/22int-Qatar-explosion-mfqb-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T14:09:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0cff884b",
-      "title": "巴基斯坦计划削减卫生巾税，多方称此举力度不足",
-      "title_original": "Pakistan Plans to Cut Tax on Menstrual Pads, but Many Say It’s Not Enough",
-      "summary": "巴基斯坦目前仅有12%的女性和女童能够使用安全的商品化经期用品，经期公共卫生问题突出。该国计划推出削减卫生巾税的举措，活动人士指出该措施力度不足，解决核心问题还需更多实质行动。",
-      "summary_original": "Activists said more action was needed to solve the larger problem: Only 12 percent of Pakistani women and girls use safe, commercially made menstrual products.",
-      "image": "https://static01.nyt.com/images/2026/06/22/world/22int-pakistan-period-tax-0001/22int-pakistan-period-tax-0001-mediumSquareAt3X.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T14:07:03+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b22d2d1b",
-      "title": "为增长打造的创始人大会：TechCrunch创始人峰会6月26日起通票涨价",
-      "title_original": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "summary": "TechCrunch 2026创始人峰会专为创始人打造，将于11月4日在美国波士顿举办。主办方推出限时购票优惠，只要在太平洋时间6月26日23点59分前注册购票，最多可节省190美元，呼吁有意参会的创始人尽早注册。",
-      "summary_original": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "id": "44208f99",
+      "title": "动态更新清单：2026年雇主提及AI因素的科技行业大规模裁员",
+      "title_original": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "这份动态梳理按时间倒序排列，聚焦2026年科技行业裁员动态，专门记录已宣布大规模裁员的大型科技企业相关情况，所有纳入范围的企业均明确将人工智能列为本次裁员的相关因素。",
+      "summary_original": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "image": null,
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-22T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fca3ab06",
-      "title": "Patreon首席执行官杰克·康特谈AI垃圾时代下的创作者扶持",
-      "title_original": "Patreon CEO Jack Conte on supporting artists in the AI slop era",
-      "summary": "一档访谈节目邀请Patreon首席执行官杰克·康特做客，探讨AI垃圾时代下的创作者扶持相关话题。杰克·康特上一次做客该节目是近五年前的2021年夏天，此后互联网与创作者领域发生诸多变化，主持人因此与他展开新一轮对谈。",
-      "summary_original": "Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially since his [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b22d2d1b",
-      "title": "专为增长打造的创始人大会：TechCrunch创始人峰会6月26日起票价上涨",
-      "title_original": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "summary": "专为创始人打造的TechCrunch 2026创始人峰会将于11月4日在波士顿举办，目前已开放注册。该峰会门票将于太平洋时间6月26日23:59涨价，在此之前购票最高可节省190美元，有意参会的创始人可尽快注册。",
-      "summary_original": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "category": "ai",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published_at": "2026-06-22T14:00:00+00:00",
+      "published_at": "2026-06-23T01:27:55+00:00",
       "edition": "morning"
     },
     {
-      "id": "2a72aa75",
-      "title": "北京宣布反制“美方恶劣做法” 管制针对美企的出口与采购 - dw.com",
+      "id": "ef03d023",
+      "title": "用AI报高考志愿靠谱吗？专家提醒：切勿盲目依赖 - 央广网",
       "title_original": null,
-      "summary": "针对美方恶劣做法，中方接连推出两项反制举措，明确作出反击表态。中方规定，在政府采购活动中不得采购46家非在华投资美国企业生产的产品；同时商务部将10家美国实体列入出口管制管控名单，对美相关行为作出反制。",
+      "summary": "江西高考成绩预计6月25日公布，高考志愿填报临近，AI填报志愿成为热门选项，也出现相关服务遭家长吐槽等乱象。多家媒体发布提醒，考生家长切勿盲目依赖AI工具，应跳出AI依赖误区，优先使用官方工具，让志愿填报回归自身的“志”与“愿”。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPQlZqVUN3aWFEZkctdjFxWmM4bm9oRDJWdXA2ME9rUmI1eWxvZWI2S19tR2JFMW41Z1VqcnRyb21VV2w0YkdjSWxZNzRLVWJBV0kwWG9wWHJfY0V2MlViU2ZLX3FqZEJ4SGE1ZjJlSTZySEIzdnBxbnBpNkdYbTBISGNlaGlDM0tNQWc5T0d5cHRXdWtMbF9TbjBwOF9RTHoyOW9EMXY4eXhNSXR0bl9QTDdQX3V2azV5MWNUVm1CZ2VWNUNMYTU5OTN4S3dRYXAzb25kYXF1ZDF6dDJXR0NVNWFCOTlQXzRYNEpUUE1rVURKbEU5a3Z1OVVjMmtTSXNVVExWcE1BemdRZWM4UkR1ZDNrMjVSOVdVazZ3TngxWEtOQzRINmpwcnotRmVYSVZXLXNzdjVYRGI4SFNETGxMWFNvaGxUNTA3RzNFellmN2wzVWVpTTNPVEgyVnJjaFJNT3hSOTRBVGlNd9IB6gJBVV95cUxPX0l6SnhmYjc3TUZmWHNBWGtQMF9mby1SR3pfTHlKOGZtNlVDSlBqOEt5V2FQLWJVUC1hakh6MVBfMUc1T0hYb05rTGpseFZDbXRMOGx4UlVpdEc1V2FXVnlOTEYtcG1zWmdkNGN3SXpiOHY5dEQ2NWg5UndQNlhwVkdva1pVVGF4MHF1SW83MVRiakNqREVWaUprenBBbmY2Y3hhNTNwWlU0cW5Vbkc2M1lOSWx5and5QWkxR0FnNzVmb0ZOQnlOTFRweUYtLUJoVURSM1VMRjVrdlBvbktieU1DY2x0aklUZVhCTkhVSGVib01kVUZydjVKUzhQRXk0WFlrWU5Uc3Z1M2tIVDl0bFF1UHYyNzA1eV94bzVDTjQ1cVZjLTJBcXpSTE5tVS04STVONGxHTG1mRW14NEVRemkwb1gzNG0talZhQzNuZDBhVDU1S0M5ckZ2cnZFTFJUMUNwWjlaRTVoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZjVBVzAyRjg1dHNoQjNiUW5oWXJucEptQWNGNGFzVi1aWnJLei0zVTVxdXoxbGZPYmxja0MtdkJjLWo4YkdjMlRXdDJZLURVVzUxMm1PRGtOeEg0eDRpTkZfaXJiLXhHRzFTV0dVbGY?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T13:58:51+00:00",
+      "published_at": "2026-06-23T01:15:09+00:00",
       "edition": "morning"
     },
     {
-      "id": "0941e2a2",
-      "title": "苹果AirPods Max 2首次直降150美元",
-      "title_original": "Apple’s AirPods Max 2 are $150 off for the first time",
-      "summary": "沃尔玛促销活动期间，苹果AirPods Max 2全配色降价至399.99美元，较日常售价549美元直降150美元，这是该产品迄今的最低价格，目前亚马逊仅星光色可达这一售价，评测肯定了这款头戴耳机的出色音质与优秀降噪。",
-      "summary_original": "Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight color selling at this price. In our review, we praised Apple’s latest over-ear headset for its excellent sound quality, impressive noise cancellation, [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T13:47:31+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "13a3ad9a",
-      "title": "Lucid汽车新任CEO为“简化公司”裁员18%",
-      "title_original": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
-      "summary": "美国高端电动汽车品牌Lucid Motors近日启动运营调整，新任首席执行官为简化公司架构，裁撤公司18%的员工。该品牌还将取消亚利桑那州工厂的一个生产班次，调整生产计划以匹配市场预期需求，优化企业运营。",
-      "summary_original": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-22T13:42:59+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1615c478",
-      "title": "菲律宾发生致命校园枪击案 两名男孩被捕",
-      "title_original": "Two Boys Arrested After Deadly School Shooting in the Philippines",
-      "summary": "菲律宾警方通报，该国塔克洛班市一所学校发生恶性枪击事件，两名就读于该校的青少年在校园内开枪，造成三人死亡、七人受伤，事发后两名涉案男孩已被警方逮捕。",
-      "summary_original": "Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-promo-sub/22int-philippines-shooting-promo-sub-mediumSquareAt3X-v2.jpg",
-      "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-06-22T13:42:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "30621aa1",
-      "title": "东风-17首次公开试射画面，剑指“环太”军演？ - 凤凰网",
+      "id": "f58ba908",
+      "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
       "title_original": null,
-      "summary": "多家媒体近期集中围绕东风-17首次公开试射画面展开相关报道，该试射画面公开后，外界猜测此次公开或针对“环太”军演。相关报道解读了中国火箭军装备体系已完成全面现代化迭代，展现了火箭军的高实战训练标准，彰显中国国防实力的提升。",
+      "summary": "硬氪「秋声」专栏首期聚焦四川成都临床阶段生物科技公司华健未来，该公司以18A规则登陆港交所，独家保荐人为中信证券。其上市前暗盘振幅超100%最终破发，上市首日大跌31%；公司暂无药物获批上市，本次IPO募资可支撑研发约五年，管线热门但赛道竞争拥挤。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_68ab87f75f684d4295b3554721798565@430412560_oswg1408151oswg1290oswg2796_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3865070004212994?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-23T01:13:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c856056c",
+      "title": "习近平总书记关心致敬老党员的故事 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "多家主流媒体推出红色主题相关报道，一方面讲述习近平总书记关心致敬老党员的故事，另一方面围绕红色队伍“四大队”展开寻访解读，挖掘其永不褪色的忠诚品格，号召传承红色基因，激励广大党员在新征程上书写优异答卷。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QRkVvWVMtcWpZWnFjYk9jWVh6NEhRWHBGRmlHQzh3aFozNHhhd1REVlBqdnU3Tk9LclZDZDhiaExZTmE5RE9MMVB6S0M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTFBXVE9mQlo4UmdHbHAzaHJPcndaeFMzVDNvNXNVYUFUWWRQcGxpeDZ3N0ZETTRlSDVGQi1SVVdOZUhtNjhwZEo4eDljckhkaFM5ejR4ZjA4Sm14eHhweXdGcjJCRzRFMUx4TV9iclFfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T13:40:40+00:00",
+      "published_at": "2026-06-23T01:08:00+00:00",
       "edition": "morning"
     },
     {
-      "id": "62e4118b",
-      "title": "Seedcamp筹集3.2亿美元新基金 扩张美国业务版图",
-      "title_original": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "summary": "专注欧洲市场十八年的早期投资机构Seedcamp宣布，已完成募集规模3.2亿美元的最新基金，这笔资金将用于拓展其在美国的业务，扩大在美国市场的布局。",
-      "summary_original": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-22T13:37:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3080985c",
-      "title": "Klue遭黑客攻击致多家网络安全公司数据泄露",
-      "title_original": "Klue hack results in data breach at several cybersecurity firms",
-      "summary": "市场调研公司Klue此前发生数据泄露事件，此次泄露导致Huntress、HackerOne、Jamf、Recorded Future、Tanium等多家网络安全企业受到波及，已有相关数据被不法分子窃取。",
-      "summary_original": "Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue.",
-      "image": null,
-      "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-06-22T13:36:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e4afc589",
-      "title": "塞内加尔贸易部长称政府对债务重组持开放态度",
-      "title_original": "Senegal Trade Minister Says Government Open to Debt Revamp",
-      "summary": "塞内加尔总统巴锡鲁·迪奥马耶·法耶内阁的高级成员贸易部长表示，当前不断攀升的债务偿付压力正威胁拖累该国多个核心经济领域，塞内加尔政府目前对推进债务重组持开放态度。",
-      "summary_original": "Senegal is open to a debt restructuring as mounting payment pressures threaten to strain key sectors of the economy, according to a senior member of President Bassirou Diomaye Faye’s cabinet.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imNtIuiCvF8Y/v1/1200x-1.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/senegal-trade-minister-says-government-open-to-debt-restructure",
+      "id": "48deabb8",
+      "title": "片山称与贝森特会谈后 美日在外汇问题上立场更趋一致",
+      "title_original": "US-Japan More Aligned on FX, Katayama Says After Bessent Talks",
+      "summary": "日本财务大臣片山皋月公开表示，她已与美国财政部长斯科特·贝森特进行了电话会谈。这一动向仅给日元带来短暂提振效果，目前日元汇率仍徘徊在近四十年来的最低水平附近。",
+      "summary_original": "Japan’s Finance Minister Satsuki Katayama said she had talks over the phone with US Treasury Secretary Scott Bessent, a move that only gave the yen a short-lived boost as it hovers near the weakest level in four decades.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.e7SMLvgbKs/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-katayama-confirms-talks-with-bessent-on-fx-agreement",
       "category": "business",
       "source": "Bloomberg",
       "lang": "en",
-      "published_at": "2026-06-22T13:20:14+00:00",
+      "published_at": "2026-06-23T01:00:21+00:00",
       "edition": "morning"
     },
     {
-      "id": "da7bd138",
-      "title": "总书记引领强国之路丨体育强则中国强 - chinanews.com.cn",
+      "id": "4fc52f71",
+      "title": "《“仍有很大空间”：SpaceX高等级债务引发质疑》",
+      "title_original": "‘A Lot of Leeway’: SpaceX’s High-Grade Debt Brings Out Skeptics",
+      "summary": "近十年前，穆迪评级首次对英伟达进行信用评估，最终给出Baa1投资级评级。彼时英伟达已上市16年，债务负担相对较轻，且拥有超10亿美元自由现金流，良好的经营财务状况让穆迪放心给出该投资级评级。",
+      "summary_original": "When Moody’s Ratings first evaluated Nvidia Corp. almost a decade ago, it settled on a Baa1 investment-grade rating, taking comfort in its relatively light debt load and more than $1 billion of free cash flow after 16 years as a public company.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdTrwItpg.4/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/-a-lot-of-leeway-spacex-s-high-grade-debt-brings-out-skeptics",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-23T00:57:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4da6b8f9",
+      "title": "市场监管总局宣布联合调查婴幼儿纸尿裤甲酰胺问题 - 人民网",
       "title_original": null,
-      "summary": "中国新闻网推出“总书记引领强国之路”主题下的相关报道，以“体育强则中国强”为核心主题，聚焦总书记引领我国体育事业发展、推进体育强国建设的实践，明确体育强国建设在全面建设社会主义现代化国家进程中的重要地位与作用。",
+      "summary": "针对引发舆论热议的婴幼儿纸尿裤甲酰胺问题，此前风波中各方存在观点拉扯，尚未有明确定论。目前国家市场监督管理总局已牵头，联合多部门成立专项调查组，正式启动相关问题的核查调查工作，消费者普遍关注涉事产品退货、赔偿的后续处理进展。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54U2lmc3ZmWDBsRGNFY0R4QXBMVXZJTWh2OElveUNzc25nVW9QSXJUUFhIZFV6TDNXeWl4aGFubUlUbURqYXp0bmswbXktajZIUHdpcGV2WkRybmRsSkVOSGRiZ1Q0SXpa?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9na0UyVUFDOUx4bi1LWEJMS0ZQOWotWE1HYnlrcHNwMU82TUZndmNVamMxUHZDZllONXRIeTIwYTBrYjBOdmpqVzlCdXpGeEVBVWVMQnVCZmdMQVlJb1ZXamRrY0V2RGl6M0E?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T13:04:26+00:00",
+      "published_at": "2026-06-23T00:44:00+00:00",
       "edition": "morning"
     },
     {
-      "id": "f6e5cb52",
-      "title": "OpenAI的轻量级资产负债表IPO前或面临严格审查",
-      "title_original": "OpenAI’s Light Balance Sheet Could Face a Hard Look Before IPO",
-      "summary": "根据当前给出的新闻标题信息，OpenAI所持有的轻量级资产负债表，在其推进首次公开募股也就是IPO之前，或将面临严格审查。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://www.theinformation.com/articles/openais-light-balance-sheet-face-hard-look-ipo",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-06-22T13:00:39+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9e6eb187",
-      "title": "Wyze新款智能秤 不到80美元即可分析身体成分",
-      "title_original": "Wyze’s new smart scale can break down your body composition for less than $80",
-      "summary": "智能厂商Wyze在推出售价119.98美元的Ultra BodyScan智能秤七个月后，发布了定价仅79.98美元的平价替代款。该款调整配置砍掉40美元成本，取消Wi-Fi，支持蓝牙连接手机App，可同步测量数据至苹果健康与谷歌健身。",
-      "summary_original": "Seven months after introducing its $119.98 Ultra BodyScan smart scale, Wyze announced a cheaper $79.98 alternative available today that makes a few compromises to shave $40 off the price. There's no Wi-Fi, but you can sync the BodyScan's measurements to Apple Health and Google Fit by connecting to the Wyze mobile app over Bluetooth. And [&#8230;]",
-      "image": null,
-      "link": "https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fe149086",
-      "title": "律师团体称肯尼亚前司法部长被禁止入境乌干达",
-      "title_original": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "summary": "肯尼亚前司法部长玛莎·卡鲁瓦是一名执业律师，目前为遭到拘留的乌干达反对派领袖基扎·贝西杰辩护，贝西杰正因叛国罪接受审判。律师团体证实，卡鲁瓦日前被乌干达方面禁止入境。",
-      "summary_original": "Martha Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7516/live/0f4da510-6e28-11f1-9fdc-51e252bb92b4.jpg",
-      "link": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "id": "3113165a",
+      "title": "蒙特利尔枪击案三人遇害 含嫌疑人与一名平民",
+      "title_original": "Suspect and a Civilian Are Among Three Killed in Montreal Shooting",
+      "summary": "蒙特利尔发生一起枪击枪战，事件共造成三人死亡，死者包括一名嫌疑人、一名平民以及一名警察。这起事件触发了该市全市范围的就地避难警报，要求民众留在家中躲避，不要随意外出。",
+      "summary_original": "A police officer and a civilian also died in a gun battle that prompted a citywide shelter-in-place alert.",
+      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-canada-shooting-zqjt/22int-canada-shooting-zqjt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html",
       "category": "world",
-      "source": "BBC World",
+      "source": "NYTimes World",
       "lang": "en",
-      "published_at": "2026-06-22T12:30:04+00:00",
+      "published_at": "2026-06-23T00:38:09+00:00",
       "edition": "morning"
     },
     {
-      "id": "7e4268ec",
-      "title": "下载速递：破纪录海底隧道与柔性数据中心",
-      "title_original": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "summary": "这是科技领域工作日通讯《下载速递》的今日刊，每日为读者带来全球科技领域的最新动态，本期涵盖破纪录海底隧道、柔性数据中心两大科技主题，目前已披露记者尼尔·弗思探访世界最深最长海底公路隧道的一线内容。",
-      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly&#8230;",
+      "id": "bdb7d1de",
+      "title": "收购截止日临近 IFM投资即将持有阿特拉斯阿尔泰里亚近五成股权",
+      "title_original": "IFM Investors Nears 50% Stake in Atlas Arteria as Deadline Looms",
+      "summary": "IFM投资对澳大利亚上市收费公路运营商阿特拉斯阿尔泰里亚发起收购要约，本次收购要约的截止时间为周四晚间。在截止日来临前，该投资机构已接近持有目标公司50%的股权。",
+      "summary_original": "IFM Investors is nearing a 50% holding in Australia-listed toll road operator Atlas Arteria Ltd., ahead of the Thursday night deadline on its takeover bid.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTqJInvqJU34/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/ifm-investors-nears-50-stake-in-atlas-arteria-as-deadline-looms",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-23T00:29:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1fc68236",
+      "title": "‘错失恐惧症害惨我’：台湾民众举债追翻倍股市涨势",
+      "title_original": "‘FOMO Really Got Me’: Taiwanese Go Deep Into Debt to Amp 100% Stock Rally",
+      "summary": "受台积电带动，中国台湾AI股掀起投资热潮，当地民众为搭上这波涨势，纷纷大举借债入市投资，这种过热的非理性投资行为，已经引发市场对台湾股市出现资产泡沫的担忧。",
+      "summary_original": "Taiwan's locals are borrowing so much to invest in the TSMC-fueled AI stock frenzy it's raising fears of a bubble.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOe0IFGGGQ2E/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/tsmc-fueled-ai-frenzy-makes-taiwan-capital-of-leveraged-stock-bets",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-23T00:28:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8bdf35b5",
+      "title": "OpenAI推出新计划助力查找修复开源软件漏洞",
+      "title_original": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "全球知名人工智能机构OpenAI推出一项全新计划，旨在解决开源软件社区面临的安全问题，该计划将帮助从业者查找并修复开源软件存在的漏洞，助力提升开源领域的整体安全水平，维护开源生态的稳定运行。",
+      "summary_original": "OpenAI is attempting to tackle the security issues of the open source software community.",
       "image": null,
-      "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-      "category": "ai",
-      "source": "MIT Technology Review",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "category": "tech",
+      "source": "TechCrunch",
       "lang": "en",
-      "published_at": "2026-06-22T12:10:00+00:00",
+      "published_at": "2026-06-23T00:11:31+00:00",
       "edition": "morning"
     },
     {
-      "id": "278be2cf",
-      "title": "北京分区发布暴雨蓝色预警、大风蓝色预警，请市民注意防范 多区面临强降雨与大风考验 - 中华网",
+      "id": "8bdf35b5",
+      "title": "OpenAI推出新计划助力发现修复开源软件漏洞",
+      "title_original": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "人工智能研发机构OpenAI推出一项全新举措，旨在帮助开源软件社区发现并修复程序漏洞，尝试解决开源领域的安全问题，助力提升开源软件生态的整体安全性，保障各类开源项目的运行安全。",
+      "summary_original": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-23T00:11:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9caffb41",
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
       "title_original": null,
-      "summary": "北京多区发布暴雨蓝色预警、大风蓝色预警，当地面临强降雨与大风考验，此前已出现预示强对流天气的乳状云，还观测到直径2厘米的冰雹。目前北京大部分地区降水已减弱，主城区仍有7级左右阵风，端午后首个工作日将有雷阵雨，提醒市民注意防范。",
+      "summary": "本次热点汇总涵盖多项政经大事件：SpaceX上市后股价三日累计下跌27%，跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；韩国SK海力士市值首超三星电子，终结三星25年韩国股市市值榜首地位，港股智谱总市值也突破万亿港元。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_61aa80dd8e75409181a0a01ce0c3af9b@5667365_oswg657997oswg1022oswg962_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-23T00:06:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6fde175d",
+      "title": "美国商品期货交易委员会就全天候期货、能源永续交易征求公众意见",
+      "title_original": "CFTC Seeks Input on 24/7 Futures, Energy Perpetuals Trades",
+      "summary": "业内重量级机构就离岸非合规交易平台的过度风险问题提出担忧后，美国商品期货交易委员会启动公众意见征集，本次征集覆盖传统能源衍生品领域的永续合约与全天候交易相关事项。",
+      "summary_original": "The Commodity Futures Trading Commission asked for public input on both perpetual contracts and 24/7 trading for traditional energy derivatives, after industry heavyweights raised concerns about offshore platforms and excessive levels of risk.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH4h4GJ.jEuo/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/cftc-seeks-input-on-24-7-futures-energy-perpetuals-trades",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-23T00:01:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b366b4f4",
+      "title": "片山与贝森特会谈后 日元干预风险上升",
+      "title_original": "Yen Intervention Risk Rises After Katayama-Bessent Talks",
+      "summary": "日元汇率进一步走弱，日本财务大臣片山皐月与美国财政部长斯科特·贝森特通话后，全球汇市的货币交易商已进入高度戒备状态，密切关注相关方面是否会出手干预日元汇率，当前日元汇市的干预风险明显上升。",
+      "summary_original": "Currency traders are on high alert for intervention after further weakness in the yen and a call between Japanese Finance Minister Satsuki Katayama and US Treasury Secretary Scott Bessent.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDLXEETUW90g/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/yen-intervention-risk-rises-on-reports-of-katayama-bessent-talks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-22T23:55:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ac4a35bb",
+      "title": "英国首相斯塔默宣布辞职 - 南方日报",
+      "title_original": null,
+      "summary": "南方日报发布消息，英国首相斯塔默宣布辞职。对该事件及更多国际时政内容感兴趣的读者，可前往Google新闻平台，查看南方日报发布的更多头条新闻与相关观点，获取更多相关资讯。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xUHd3a1pDZjNDdl9BY0pibUZCRkl0bnlQSVU5a3VSU0h1QmhiWDFoT01SM3E2ODduNEk0anFHZ0lMc1hhVkpmc1BiX0Y5OXRUUFZLTmFUbHJmV19rYmtRejBLcHQ2NUtqd1pqRkJ5QTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMbG55bjRPYS1LQjZac1NqTC15elVYZDZGWUtadjZvWDE1a1NiSzJfUFI3X2o4ZkpHRFZNaTVidXlycjB3Z1ZGcGRJaHB3M1dWeUgyeUZQdjlOSmFucElieDg0NkZIT09jR1R2eHVnV3VoNWxOQVZ1TlRB?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T11:11:13+00:00",
+      "published_at": "2026-06-22T23:49:17+00:00",
       "edition": "morning"
     },
     {
-      "id": "d9132501",
-      "title": "随性编码开发下一款应用前，请先读本文",
-      "title_original": "Read this before you vibe-code another app",
-      "summary": "开发者鲍勃·斯塔尔随性编码制作了名为“Boomberg”的网站，用于展示美国税款流向科技企业的情况，完工后立刻上线，他对成品十分满意。直到网站上线数月后，他才发现站点暗藏SQL注入安全风险。",
-      "summary_original": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site [&#8230;]",
+      "id": "ef9404b4",
+      "title": "多彩假期，激发消费潜力（经济聚焦） - 人民网",
+      "title_original": null,
+      "summary": "端午假期，浙江推出多彩假日活动激活消费市场，多地催生消费新活力：温州推出高端宴席进街巷、轨道加美食的民俗狂欢活动，市区红日亭为市民送出千份端午礼包，最新数据显示当地端午三天消费达5.78亿元，多彩假期有效激发了消费潜力。",
+      "summary_original": null,
       "image": null,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yN28zR1dEUFBTbW5aMEdkUWl6cWJLRGFyRXR5UjlDbGoyWmVZM0RCLUZJWGZiZGw1UFpONVgzTy1lcldqVEpCTXRURUZYSVpRMXVENGZ0WERITHotNVgtZVdEQzk0Mmc1bUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-22T23:47:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5c5cd42f",
+      "title": "听中方领队讲述台东海域调查 排除干扰坚定实施 - 中华网",
+      "title_original": null,
+      "summary": "多家媒体集中关注中国在台湾岛以东海域开展的调查作业，该作业旨在为相关国土空间规划做准备，调查过程中中方排除日菲等外部势力干扰，坚定推进各项工作，行动稳步有序，有美国专家指出美军在台海没有胜算。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WS0JVbHlqWFdXSWpRb1hwZXl3OEIzTjBVMUlJclo3V29TaE0xLXVoUTVJQk5mMzNMcjlGSTdTWGpIQXkwbEdsQ3l4bXRfYlBmdEVtNlEyNFZWUmJHY0dfX09MaFdwdDZ0U1VkS3FoUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-22T23:38:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9a78d867",
+      "title": "英伟达称其AI数据中心设计靠提温大幅减少用水量",
+      "title_original": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "summary": "目前公众针对数据中心的抵制多聚焦于其水资源与能源消耗问题，英伟达推出鲁宾代全液冷AI数据中心参考设计，称该设计可削减大量电力消耗，几乎完全免水，不过它仍未解决AI数据中心引发的所有相关担忧。",
+      "summary_original": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
       "category": "tech",
       "source": "The Verge",
       "lang": "en",
-      "published_at": "2026-06-22T11:00:00+00:00",
+      "published_at": "2026-06-22T23:24:32+00:00",
       "edition": "morning"
     },
     {
-      "id": "d9132501",
-      "title": "随性编码开发下一款应用前，请先阅读此文",
-      "title_original": "Read this before you vibe-code another app",
-      "summary": "开发者鲍勃·斯塔尔打造了用于展示美国税款流向科技企业情况的“Boomberg”网站，完成后便立即上线，他对自己随性编码完成的作品十分满意。上线数月后他才发现，该网站暗藏可能引发安全问题的SQL注入风险。",
-      "summary_original": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site [&#8230;]",
+      "id": "9a78d867",
+      "title": "英伟达称其AI数据中心设计允许更高运行温度 大幅减少用水量",
+      "title_original": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "summary": "公众对数据中心建设的反对，主要聚焦于其水资源与能源消耗问题。英伟达推出鲁宾代全液冷AI数据中心参考设计，称该设计可削减大量能耗，几乎完全无需用水，但该设计仍未解决AI数据中心引发的全部相关担忧。",
+      "summary_original": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
       "image": null,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
       "category": "ai",
       "source": "The Verge AI",
       "lang": "en",
-      "published_at": "2026-06-22T11:00:00+00:00",
+      "published_at": "2026-06-22T23:24:32+00:00",
       "edition": "morning"
     },
     {
-      "id": "4ff19c73",
-      "title": "李强将出席第十七届夏季达沃斯论坛 - 共产党新闻网",
+      "id": "748e3bfd",
+      "title": "美伊和谈传初步进展 金价趋稳",
+      "title_original": "Gold Steadies as US and Iran Flag Early Progress in Peace Talks",
+      "summary": "美伊双方在结束冲突的和平谈判中透露出初步进展。这场冲突此前已打乱全球市场秩序，推高全球通胀，对全球经济造成负面影响，受谈判出现进展影响，目前国际金价已企稳。",
+      "summary_original": "Gold steadied after the US and Iran flagged early progress in negotiations to end the war that’s upended global markets and stoked inflation.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGJgvOTbOxyU/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-22T23:19:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5cf9a771",
+      "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 中国网新闻中心",
       "title_original": null,
-      "summary": "2026年第十七届夏季达沃斯论坛即将启幕，本届论坛围绕创新、绿色、合作的核心方向，设置科技创新、绿色低碳、规模化创新等相关议题。李强将出席本次论坛，李东生也将参会，与全球政商领袖共同研讨相关发展议题。",
+      "summary": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七&nbsp;&nbsp;中国网新闻中心在Google 新闻上查看更多头条新闻和观点",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhc1pjVm9YVGNyNmpGZFpSVVhCSVNaMk9YYmdRczI5S0ZhYVBQbjBzSnRoZXBXLU5NUTFVQ2lTRHd5VzdRWEVqbE9wTTFKTF9sNENfV18wX3czUHhUOHRWblBlR2pFQk5uUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWmNWU3FiR0NFbDlkLTY0eXJHMl9BV2ZyTnJGS0dCWURaWmRqSGdnY2NuTU9odThjV3hObFVwRkNZclJoSVdtby1LUnhMcU15OEVGQU5CVmloVTgyWmFRMnRvZnVYNUdLQ2Jr?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T10:39:00+00:00",
+      "published_at": "2026-06-22T23:19:00+00:00",
       "edition": "morning"
     },
     {
-      "id": "9896c81e",
-      "title": "校党委常委会传达学习习近平总书记重要回信精神 - nju.edu.cn",
-      "title_original": null,
-      "summary": "南京大学召开校党委常委会，传达学习习近平总书记重要回信精神。目前多家媒体推出相关报道，寻访革命时期的“四大队”老党员群体事迹，解读其永不褪色的忠诚品格，引导公众从中领悟坚持党中央集中统一领导的深刻内涵。",
-      "summary_original": null,
+      "id": "b7315f2b",
+      "title": "得州致命撞车事故后 特斯拉反驳针对自动辅助驾驶的相关说法",
+      "title_original": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "summary": "美国得州发生一起致命撞车事故后，围绕特斯拉自动辅助驾驶系统在事故中的状态引发诸多讨论，特斯拉就此作出反驳。目前尚无法确定事发时该系统究竟是激活、被人为超越还是故障，结论需等调查人员梳理完车辆数据日志后得出。",
+      "summary_original": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVzBTUmRVMWo1TEwtb3FKaDRkaTh6T0h6NTV6Z1FxaEZCZERIS3JfdGFSOWl5eHVNWXU1Mlp6OTNNWEZtOUFGYWZyTHduYUhOLWU4cUtB?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-22T10:17:48+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "844c89c5",
-      "title": "二战惨案恩怨未解，一次命名惹怒人，波兰乌克兰为何撕破脸？ - 凤凰网",
-      "title_original": null,
-      "summary": "因二战历史遗留恩怨引发的命名争议，导致波兰与乌克兰关系彻底撕破脸。乌克兰总统泽连斯基已退还波兰授予的白鹰勋章，有专家指出，当前波乌矛盾已上升至国家安全与地缘战略稳定高度，波兰前总理还公开喊话嘲讽泽连斯基。",
-      "summary_original": null,
-      "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZHRHc0RFZkE2YlNwLUhkSlg0bklMalV5RUtkWEEwSzdLb2N2RWFKb0VBaXJETFdPMDV6ZHNDSXBRQldhazgwZDZMc3o?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-06-22T10:08:56+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "aa7d1b9e",
-      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-      "title_original": null,
-      "summary": "成立不足三个月的映界科技，由平均年龄24岁的三位麦吉尔大学博士创办，刚获松禾资本与奇绩创坛千万元种子轮投资。团队瞄准具身智能领域空间感知短板，研发软硬一体感知模组，已获多类客户意向，目标打造机器人与世界模型的空间感知基础设施，目前正打磨产品应对工程落地挑战。",
-      "summary_original": null,
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_6543cc0f18564c64a0c98fc2a82cae30@5688585_oswg763091oswg1080oswg520_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "link": "https://36kr.com/p/3864071269569540?f=rss",
+      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
       "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-22T10:00:50+00:00",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T22:59:57+00:00",
       "edition": "morning"
     },
     {
-      "id": "743bb513",
-      "title": "屠海鸣：美伊战争硝烟散 中国担当止干戈 - 紫荆网",
-      "title_original": null,
-      "summary": "当前美伊局势仍存不确定性，伊朗最高领袖对美伊谅解备忘录持不同意见，伊朗已推迟赴瑞士行程，以军仍驻留黎巴嫩南部。多家媒体围绕美伊关系走向、美伊协议得失、中国在止战促和中的担当等议题展开相关讨论。",
+      "id": "31a9f690",
+      "title": "股东就性侵及其他事件起诉优步董事会",
+      "title_original": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "summary": "一家底特律养老基金牵头，股东就多起性侵及其他相关事件起诉优步董事会。原告指控优步董事会及管理层在合规管理中多次偷工减料、未尽职责，该问题已经累计引发了数千起相关诉讼。",
+      "summary_original": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T22:43:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "44fffff8",
+      "title": "市场综述：科技涨势降温 亚洲股市从纪录高点回落",
+      "title_original": "Asian Stocks Drop From Record as Tech Rally Cools: Markets Wrap",
+      "summary": "科技股此前的上涨势头遇阻降温，受此拖累，亚洲股市从近期创下的纪录高点回落。当前全球金融市场的投资者正密切关注美伊谈判的后续发展，等待相关形势进一步明朗。",
+      "summary_original": "Asian stocks declined as a rally in technology shares faltered while investors awaited further developments in US-Iran talks.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.O0fzqIEYqw/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-22T22:09:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0a396c81",
+      "title": "特朗普签署全面量子领域行政令",
+      "title_original": "Trump Signs Sweeping Quantum Executive Orders",
+      "summary": "本次公开的新闻标题显示，特朗普已签署数项覆盖范围广泛的量子领域相关行政命令，目前仅披露该标题信息，暂未公开更多细节。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk1lejNRWmp1MDMyZGpNMUpVWmV0Z202WWY3Mm9ib2JoSVQ1U0N2Sjk5M0Z5MXdVeWExNmFHWVVRVlFFaUpUQWdZcjFmdlNmT3B1cUg3UDJSblllZThhdUNQVVhOekpxZFYxNUVYbHBkTldJVnRiOEVVXzFVcHFWSDc0d1ZrOUFLSWk1bHZxak5TZlpt?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://www.theinformation.com/briefings/trump-signs-sweeping-quantum-executive-orders",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-06-22T22:05:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "428a5fa3",
+      "title": "发掘惠特妮·休斯顿与布鲁斯·斯普林斯汀的音乐大亨克莱夫·戴维斯去世 享年94岁",
+      "title_original": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "summary": "知名音乐大亨、唱片公司高管克莱夫·戴维斯去世，享年94岁。他发掘打造了惠特妮·休斯顿、布鲁斯·斯普林斯汀等多位知名音乐人，职业生涯还曾与比利·乔尔、平克·弗洛伊德、艾丽西亚·凯斯、空中铁匠等顶尖艺人合作。",
+      "summary_original": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b756/live/41bbbd80-6e5e-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-22T22:04:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9ae06439",
+      "title": "伊朗石油销售豁免显示和谈进展 国际油价趋稳",
+      "title_original": "Oil Steadies as Iran Sales Waiver Signals Peace Talks Progress",
+      "summary": "此前国际油价在前一交易日下跌超3%，伊朗战争和谈已取得初步进展，美方作出政策豁免，允许伊朗出口部分石油。受这一和谈积极进展影响，目前国际油价已逐步企稳。",
+      "summary_original": "Oil steadied after falling more than 3% in the previous session following early progress in peace talks over the Iran war, which included a US waiver allowing some sales from the Islamic Republic.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA5CbO9tZd2Q/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/latest-oil-market-news-and-analysis-for-july-23",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-22T22:02:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "273f7b9f",
+      "title": "特朗普称伊朗将同意接受武器核查 - 新华网",
+      "title_original": null,
+      "summary": "多家媒体报道，特朗普公开称伊朗将同意接受国际原子能机构的武器核查，美国副总统万斯也表示，伊朗已同意邀请该机构核查人员重返伊朗。不过此前有消息显示，美国早前相关提议曾遭到伊朗方面拒绝。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93M1FoMG82NURjNG9aZHl2SXgwQ2xwY2hDNEJLcTg3WWZsYzZHbzV5eV9oU192aWRGLXJhVXhkTUotX2M5cDlHWEsxUHFsM3c0WFFZVFdLQ1B4SS1LUS1tXy0wN0phVW1ycFdnSHd4S2JOY2hkMFZPSzlNcHFUbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T08:49:01+00:00",
+      "published_at": "2026-06-22T21:55:29+00:00",
       "edition": "morning"
     },
     {
-      "id": "8336f11a",
-      "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
-      "title_original": null,
-      "summary": "氪星晚报汇总近期全球产业科技动态：赢创计划全球裁员3200人，台积电28nm制程较年初减产25%，三星电子向韩国全体员工开放ChatGPT与Codex；阿里发布升级后的视频生成模型，英国出台稳定币监管框架，2027年起允许合规运营，黄仁勋称中国是全球重要科技产业中心",
-      "summary_original": null,
-      "image": null,
-      "link": "https://36kr.com/p/3864065855706120?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-22T08:26:13+00:00",
+      "id": "47ea9aa5",
+      "title": "基尔·斯塔默辞去英国首相一职",
+      "title_original": "Keir Starmer Resigns as UK Prime Minister",
+      "summary": "基尔·斯塔默将于未来几周辞去英国首相一职，他的卸任将为深受民众欢迎的工党籍市长安迪·伯纳姆铺平出任首相的道路，安迪·伯纳姆接任后，将成为英国十年来的第七位首相。",
+      "summary_original": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.",
+      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-uk-starmer-ledeall-mczf/22int-uk-starmer-ledeall-mczf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-22T21:31:10+00:00",
       "edition": "morning"
     },
     {
-      "id": "aea3cf77",
-      "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 新京报",
+      "id": "37ce2c71",
+      "title": "伊朗谈判团队说伊美谈判达成5项要点 - 东方财富",
       "title_original": null,
-      "summary": "多家权威媒体推出学习阐释习近平党建思想的相关内容，新京报推出“坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七”，新华网、光明网、人民日报、浙江新闻分别从党性锤炼、选人用人、《之江新语》中的党建智慧等角度切入，强调必须把我们党建设好建设强。",
+      "summary": "多家媒体报道，伊朗与美国在瑞士举行谈判，伊朗谈判团队称双方已达成5项要点，双方就最终协议的路线图取得一致，敲定相关协议文件。此次谈判取得积极进展，但普遍认为伊美最终达成协议仍前路坎坷。",
       "summary_original": null,
       "image": null,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVVNqczN2T2k4TkhnbU0wR3FfZWVINW1zd3V0VzhWZUhsSF9YVjdfZEc4aDJWamZMdUhDYmQxUUhFaXVkdWctMDN2Vk5lZlh5SnRQRWVOSlcwcjh3dXBJWVp3ME4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcGp3MWd5alhGcFlLc3lmU2ZuQ2VxS25US3lHd3NYU21VaDMzOVBBelgzSGdLaElkSnFMRzY3cndpRElYaEVCQlhwMDdlSDFpWVhNaThGV3gwTkZOcWtrbA?oc=5&hl=en-US&gl=US&ceid=US:en",
       "category": "china",
       "source": "Google News (中国)",
       "lang": "zh",
-      "published_at": "2026-06-22T08:17:00+00:00",
+      "published_at": "2026-06-22T21:12:01+00:00",
       "edition": "morning"
     },
     {
-      "id": "664c6436",
-      "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-      "title_original": null,
-      "summary": "36氪WAVES2026新浪潮举办主题为“在没人相信之前”的创业圆桌论坛，邀请跨境支付、AI社群、具身智能等领域的6位突破早期融资门槛的创业者，分享他们在外界质疑中摸索前行、坚持创业的历程，总结创业心得，分享对行业发展的判断。",
+      "id": "ab4e9350",
+      "title": "Meta在内部数据暴露后暂停员工监控工具",
+      "title_original": "Meta Pauses Employee Monitoring Tool After Internal Data Exposure",
+      "summary": "Meta在发生内部数据暴露后，现已暂停其所使用的员工监控工具，目前仅公开了这一事项，未披露更多相关的具体内容",
       "summary_original": null,
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_7f9fbf357e494a4683af3a1ce47976ac@6381723_oswg3956841oswg3173oswg2115_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "link": "https://36kr.com/p/3864054145209602?f=rss",
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/meta-pauses-employee-monitoring-tool-internal-data-exposure",
       "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-22T08:10:06+00:00",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-06-22T21:09:11+00:00",
       "edition": "morning"
     },
     {
-      "id": "15e05676",
-      "title": "探秘世界最深最长海底公路隧道",
-      "title_original": "Inside the world’s deepest and longest subsea road tunnel",
-      "summary": "记者进入位于北海海底约300米处的世界最深最长海底公路隧道内部，现场阴冷嘈杂、黑暗潮湿且气味怪异，身处其中能清晰感受到上方数百万吨海水的压力，全程紧绷，丝毫无法放松。",
-      "summary_original": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my&#8230;",
+      "id": "cd23a1d1",
+      "title": "Valve透露2026年内存谈判十分残酷",
+      "title_original": "Valve describes just how brutal RAM negotiations are in 2026",
+      "summary": "Valve推出的Steam主机公布定价，512GB配置售价高达1049美元，2TB版本售价1349美元，目前定价未包含配套控制器，加上控制器后售价还会进一步上涨。价格高企一方面因为Valve不对硬件进行补贴，组件危机也是推高成本的重要原因。",
+      "summary_original": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the hardware, and the company has already indicated that the component crisis [&#8230;]",
       "image": null,
-      "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T21:07:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f811b25f",
+      "title": "AI界正迈入“循环”模式",
+      "title_original": "The AI world is getting ‘loopy’",
+      "summary": "循环模式推动智能体AI实现升级发展，该模式可授权一群智能体不间断地在后台自主运行，实现无休止的持续作业，这一新进展让人工智能领域开启了全新的循环化运作方向。",
+      "summary_original": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T20:53:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f811b25f",
+      "title": "AI世界正进入“循环”模式",
+      "title_original": "The AI world is getting ‘loopy’",
+      "summary": "当前AI领域出现全新的循环工作模式，该模式在现有智能体AI的基础上完成升级，可授权一组智能体在后台持续不间断运行，能够实现无休无止的自主工作，进一步推动了智能体AI的能力发展，拓展了其应用空间。",
+      "summary_original": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-22T20:53:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7d68d4cb",
+      "title": "微软与雪佛龙计划打造美国最大规模气电数据中心项目之一",
+      "title_original": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "summary": "微软已与雪佛龙签署为期20年的购电协议，锁定一座新建天然气发电厂的长期供电，同时确定该项目将产生长达数十年的碳排放，双方计划依托该电厂打造美国规模最大的气电驱动数据中心项目之一。",
+      "summary_original": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T20:37:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a9ba7814",
+      "title": "AI芯片制造商Groq确认获6.5亿美元融资，英伟达200亿美元收购揽才交易告吹后重组团队",
+      "title_original": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "summary": "AI芯片厂商Groq在英伟达200亿美元收购揽才交易告吹后，并未停止运营。目前Groq已确认完成6.5亿美元融资，正发力新云业务，同时招揽新高管重组团队，推进自身业务发展。",
+      "summary_original": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T20:13:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a9ba7814",
+      "title": "AI芯片制造商Groq证实完成6.5亿美元融资 英伟达200亿美元收购雇才交易告吹后重组团队",
+      "title_original": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "summary": "AI芯片企业Groq与英伟达磋商的200亿美元收购雇才交易最终未达成，目前Groq已完成6.5亿美元融资，正聚焦发展自身新云业务，同时招聘新高管，重组团队推进业务布局。",
+      "summary_original": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-22T20:13:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e14ed19e",
+      "title": "英伟达欲削减数据中心用水量，但这并未解决AI用水问题",
+      "title_original": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "英伟达推出全新冷却系统，可削减数据中心运营过程中的用水量。不过，AI行业用水量最大的环节并非数据中心本身，而是为AI供电的化石燃料发电厂，这项新举措完全未触及这一核心问题，无法真正解决AI发展带来的用水难题。",
+      "summary_original": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T20:08:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e14ed19e",
+      "title": "英伟达欲削减数据中心用水量，但这无法解决AI的水资源问题",
+      "title_original": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "英伟达近日宣布推出一套全新冷却系统，可降低数据中心运营环节的用水量。不过当前AI产业最大的用水环节并非数据中心本身，而是为其供电的化石燃料发电厂，这套新系统并未触及该核心环节，无法真正解决AI发展带来的水资源消耗问题。",
+      "summary_original": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-22T20:08:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07c54cec",
+      "title": "人工智能用无法实现的房源承诺坑害租房者",
+      "title_original": "AI is cursing renters with the promise of impossible homes",
+      "summary": "纽约本地人乔伊斯计划在当地寻找首套单人公寓，她虽清楚找房不易，没料到过程堪称“地狱”。接连看过多套面积狭小、价格虚高的劣质房源后，她才终于在曼哈顿找到一套定价合理、条件合意的理想开间，当前租房市场中不少AI借不实承诺坑害租房群体。",
+      "summary_original": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07c54cec",
+      "title": "AI以无法实现的房源承诺坑害租房者",
+      "title_original": "AI is cursing renters with the promise of impossible homes",
+      "summary": "不少租房者正被AI误导，AI常抛出难以获得的优质房源吸引租客。纽约本地人乔伊斯寻找个人首套独居公寓时，本就知晓难度不小，却没料到过程堪称“地狱”，看过大量狭小溢价的劣质房源后，才找到心仪的合理价位曼哈顿开间。",
+      "summary_original": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-22T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0b9c53d1",
+      "title": "苹果特斯拉主要科技供应商塔塔电子确认数据泄露",
+      "title_original": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "summary": "苹果、特斯拉的主要科技供应商塔塔电子确认发生数据泄露事件。目前塔塔电子正持续扩张，不断扩大自身在全球科技供应链中的角色与业务布局，此次信息安全事件也引发了全球科技行业对供应链信息安全的关注。",
+      "summary_original": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T19:25:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0bbae9c5",
+      "title": "在用户抗议后AMD恢复消费级CPU的内存加密功能",
+      "title_original": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "summary": "AMD此前取消了消费级CPU的内存加密功能，引发广大用户强烈不满与抗议。批评人士指出，此举是AMD暗中诱导用户选购价格更高芯片的不光彩操作，迫于舆论压力，AMD目前已恢复消费级CPU的内存加密功能。",
+      "summary_original": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-06-22T19:16:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b075fdd3",
+      "title": "苹果芯片发现新不可修复漏洞 为iPhone越狱打开大门",
+      "title_original": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+      "summary": "欧洲进攻型网络安全公司Paradigm Shift公布了苹果芯片这一新漏洞的细节，以及对应的漏洞利用技术。该漏洞无法修复，可被黑客用来解锁、入侵旧款iPhone，同时也为实现iPhone越狱创造了条件。",
+      "summary_original": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-22T18:50:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2eba6f3a",
+      "title": "谷歌深度思维与A24达成合作 押注7500万美元布局好莱坞AI未来",
+      "title_original": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "谷歌旗下人工智能企业深度思维与知名影视公司A24达成合作，双方将投入7500万美元押注好莱坞人工智能领域，计划共同开发人工智能电影制作工具，探索AI技术在影视创作中的应用。",
+      "summary_original": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-22T18:49:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7c856553",
+      "title": "苹果Apple Watch SE 3 Prime会员日仅售199美元",
+      "title_original": "The Apple Watch SE 3 is just $199 for Prime Day",
+      "summary": "苹果Apple Watch SE 3在Prime会员日降至199美元的历史最低价，这款去年苹果手表中的黑马产品，相比Series 11与Ultra 3的渐进式小幅更新，进行了多方面升级，此次降价进一步提升了它的性价比。",
+      "summary_original": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T18:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "411f8cad",
+      "title": "Steam主机开启游戏主机更昂贵的未来",
+      "title_original": "The Steam Machine is the start of an even more expensive future for game consoles",
+      "summary": "受全球内存短缺影响，当前电子游戏几乎各环节成本都在上涨，不仅PC游戏成本随之走高，游戏主机价格持续上调、PC硬件成本飙升，平价掌机的黄金时代也已结束，Steam主机正是游戏主机迈入更昂贵未来的开端。",
+      "summary_original": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of affordable handhelds is over, all largely due to the global RAM shortage, which has had a similarly costly impact on PC gaming, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T18:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e5321e5c",
+      "title": "安特罗匹克与美国政府最新争端中值得关注的三件事",
+      "title_original": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "该内容最初发布于人工智能领域每周通讯《算法》，针对不少受众尚不了解AI企业安特罗匹克近期与美国政府的最新争端梳理了相关背景，今年4月该企业曾称已开发出名为Mythos的AI模型，同时提炼出此次争端中三大值得关注的核心要点。",
+      "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "category": "ai",
       "source": "MIT Technology Review",
       "lang": "en",
-      "published_at": "2026-06-22T08:00:00+00:00",
+      "published_at": "2026-06-22T18:00:00+00:00",
       "edition": "morning"
     },
     {
-      "id": "6b9b8b81",
-      "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-      "title_original": null,
-      "summary": "36氪WAVES2026新浪潮主题圆桌讨论落地广州番禺，邀请扎根番禺的探迹科技、浩云科技、一小时科技三家不同领域企业代表，围绕企业发展、番禺营商环境、AI浪潮下的行业变化与未来布局展开交流，展现番禺优质的创新创业产业土壤。",
+      "id": "90cac904",
+      "title": "前狗狗币员工为风投基金Banner VC募集2.25亿美元",
+      "title_original": "Ex-DOGE Employees Raise $225 million for Venture Fund Banner VC",
+      "summary": "多名前狗狗币员工完成了总额2.25亿美元的资金募集，本次募集所得资金将用于他们的风险投资基金Banner VC。",
       "summary_original": null,
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_d3b82164abd244ff8765688ef95cf223@6381723_oswg124211oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "link": "https://36kr.com/p/3864033017549832?f=rss",
-      "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-22T07:38:54+00:00",
+      "image": null,
+      "link": "https://www.theinformation.com/articles/ex-doge-employees-raise-225-million-venture-fund-banner-vc",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-06-22T17:50:33+00:00",
       "edition": "morning"
     },
     {
-      "id": "ed95f109",
-      "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-      "title_original": null,
-      "summary": "在36氪WAVES2026新浪潮大会上，HORWIN号外品牌创始人兼CEO周维分享品牌发展，品牌深耕高速电摩赛道十年，从要求严苛的欧洲市场起步，打造出全球首个400V高压一体化真电摩平台，连续多年位居欧洲多国高速电摩销量第一，提出成为全球移动出行科技先锋的愿景。",
-      "summary_original": null,
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_6dbc78e1836f4eb8a82bb3f685db34d7@6381723_oswg114923oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "link": "https://36kr.com/p/3864002982286342?f=rss",
+      "id": "3bc52c08",
+      "title": "亚马逊在印度测试支持印地语的Alexa+",
+      "title_original": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "亚马逊计划扩大旗下新款对话式人工智能助手Alexa+在印度的市场布局，目前正邀请印度当地用户参与Alexa+印地语版本的测试，推进这款AI助手适配印度本地语言需求，拓展其在当地的服务覆盖。",
+      "summary_original": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-22T17:31:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4a5634bc",
+      "title": "谷歌投资A24打造人工智能电影工具",
+      "title_original": "Google invests in A24 to build AI movie tools",
+      "summary": "谷歌旗下DeepMind人工智能实验室与影视公司A24达成研发合作，将共同开发全新电影制作技术，助力未来电影创作者拓展叙事创作可能性。据《华尔街日报》报道，谷歌为此向A24投资约7500万美元，这是该搜索巨头首次开展此类合作。",
+      "summary_original": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 million\" into A24, marking the first time the search giant [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
       "category": "tech",
-      "source": "36氪",
-      "lang": "zh",
-      "published_at": "2026-06-22T07:08:07+00:00",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T17:18:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4c493551",
+      "title": "Valve正与AMD合作 将FSR 4引入Steam主机",
+      "title_original": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+      "summary": "有评测指出，Steam主机性能可与PlayStation 5相媲美，但其目前搭载的旧版AMD FSR画质缩放技术效果未达预期，目前Valve正联合AMD推进适配，将为该设备引入最新的FSR 4技术。",
+      "summary_original": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it should be. Yes, it can sharpen low-res graphics [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T17:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1c219df4",
+      "title": "如何预订Steam主机",
+      "title_original": "Here’s how you can reserve a Steam Machine",
+      "summary": "Steam主机现已推出，但其预订流程相对复杂。Valve启用专门的预订系统，旨在保障预订公平，防范机器人恶意抢订，该系统不同于此前Steam Deck的5美元预订模式，今日起用户即可登记预订。",
+      "summary_original": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit. However, it's a bit different than the $5 reservations Valve used for the Steam Deck. Starting today, you can sign [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T17:07:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8932d077",
+      "title": "Valve终于允许用户自行搭建搭载桌面版SteamOS的Steam主机",
+      "title_original": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+      "summary": "Valve的Steam主机此前采用预约机制，名额有限，没能抢到预约资格的用户如今可自行搭建Steam主机。Valve宣布从SteamOS 3.8版本起，用户可自选PC配件搭建，上周推出的SteamOS 3.8.10已上线，包含改善兼容性等多项更新。",
+      "summary_original": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.\" SteamOS 3.8.10 launched last week with a slew of updates, including \"improved compatibility [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T17:05:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cadddef6",
+      "title": "Valve解释为何不为Steam主机提供补贴",
+      "title_original": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
+      "summary": "游戏厂商Valve公布了Steam主机的官方售价，该产品定价偏高，512GB版本起售价为1049美元，2TB版本在此基础上贵300美元，搭配捆绑Steam控制器的配置，每台还需额外支付79美元，Valve也就该产品不提供补贴一事作出解释。",
+      "summary_original": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each. Despite Valve offering a console alternative with the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-22T17:02:00+00:00",
       "edition": "morning"
     }
   ],
   "clusters": [
     {
-      "id": "e839c085",
-      "title": "森特理克首席执行官拟在美国拓展更多液化天然气交易及贸易业务",
-      "summary": "英国森特理克集团计划增购美国液化天然气。该集团认为，未来数十年液化天然气仍将是全球能源体系的核心组成部分，当前全球地缘政治紧张局势进一步凸显了能源供应多元化的必要性。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDHemAu9ihsM/v0/1200x-1.jpg",
-      "article_ids": [
-        "34ff8e5f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "34ff8e5f",
-          "source": "Bloomberg",
-          "title": "森特理克首席执行官拟在美国拓展更多液化天然气交易及贸易业务",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/centrica-ceo-eyes-us-for-more-lng-deals-and-trading-expansion",
-          "published_at": "2026-06-22T16:25:02+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T16:25:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "78522cd2",
-      "title": "法意西发布高温红色预警 预计气温达40摄氏度",
-      "summary": "法国、意大利、西班牙已发布高温红色预警，预计上述地区将出现40摄氏度的高温天气，最新气象预报显示，未来几天热浪天气将在整个中欧及西欧地区进一步加剧。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb6/live/a6a1e140-6e4d-11f1-8546-8f19e4fe30f4.jpg",
-      "article_ids": [
-        "25b28331"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "25b28331",
-          "source": "BBC World",
-          "title": "法意西发布高温红色预警 预计气温达40摄氏度",
-          "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T16:17:24+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T16:17:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "79e16e0d",
-      "title": "中东实时更新：美国放宽制裁 万斯称伊朗同意恢复核核查",
-      "summary": "美国放宽对伊朗相关制裁，美国副总统JD·万斯称伊朗已同意恢复核核查。若该安排获得确认，将符合特朗普2018年退出的奥巴马时期伊核协议条款，万斯称此轮对话为持久和平奠定了基础。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22mideast-blog-header-bvfk/22mideast-blog-header-bvfk-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "f9893b30"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "f9893b30",
-          "source": "NYTimes World",
-          "title": "中东实时更新：美国放宽制裁 万斯称伊朗同意恢复核核查",
-          "link": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-          "published_at": "2026-06-22T16:15:08+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T16:15:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "004e4a7d",
-      "title": "英国实时快讯：斯塔默宣布辞职，伯纳姆获关键支持",
-      "summary": "英国现任首相、执政党工党领袖基尔·斯塔默宣布辞去工党领袖职务。党内最受欢迎的政治人物安迪·伯纳姆宣布将角逐首相一职，目前他已获得一名潜在竞争对手的支持，拿下工党党首选举的关键筹码。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22uk-starmer-header-vwjq/22uk-starmer-header-vwjq-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "1969dff4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "1969dff4",
-          "source": "NYTimes World",
-          "title": "英国实时快讯：斯塔默宣布辞职，伯纳姆获关键支持",
-          "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure",
-          "published_at": "2026-06-22T16:12:25+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T16:12:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "330d8d74",
-      "title": "SpaceX将以每月1.5亿美元向Reflection出租计算资源",
-      "summary": "SpaceX即将向Reflection出租计算资源，双方约定该项计算资源租赁的费用标准为每月1.5亿美元，相关租赁计划安排已经明确。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "7cc543f7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "7cc543f7",
-          "source": "The Information",
-          "title": "SpaceX将以每月1.5亿美元向Reflection出租计算资源",
-          "link": "https://www.theinformation.com/briefings/spacex-lease-compute-reflection-150-million-per-month",
-          "published_at": "2026-06-22T16:07:21+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T16:07:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "00f70b3c",
-      "title": "Prime会员日任天堂Switch 2最高优惠50美元",
-      "summary": "线上零售商Woot此前针对任天堂Switch 2推出直降15美元的活动，当前Prime会员日到来后，该平台加码优惠，消费者结账时输入优惠码CHEAPSWITCH2，即可419.99美元购入Switch 2基础款主机，最高可省50美元。",
+      "id": "4c1ae175",
+      "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+      "summary": "快手与北京市人工智能基金发起设立的AI芯片公司凌川科技，近日完成数亿元A+轮融资，项目落地北京亦庄。公司核心产品SL200视频压缩性能超英伟达，目前销量近十万颗，已大规模落地，本轮融资将用于下一代芯片研发、量产扩产及海外市场拓展。",
       "category": "tech",
       "image": null,
       "article_ids": [
-        "01789a0f"
+        "1345cbf3"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "The Verge"
+        "36氪"
       ],
       "articles": [
         {
-          "id": "01789a0f",
-          "source": "The Verge",
-          "title": "Prime会员日任天堂Switch 2最高优惠50美元",
-          "link": "https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot",
-          "published_at": "2026-06-22T16:04:24+00:00"
+          "id": "1345cbf3",
+          "source": "36氪",
+          "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+          "link": "https://36kr.com/p/3865136165344516?f=rss",
+          "published_at": "2026-06-23T02:20:22+00:00"
         }
       ],
-      "published_at": "2026-06-22T16:04:24+00:00",
+      "published_at": "2026-06-23T02:20:22+00:00",
       "is_merged": false
     },
     {
-      "id": "c88ccc31",
-      "title": "哥伦比亚新总统将如何助推特朗普的毒品战争？",
-      "summary": "阿贝拉多·德拉埃斯普列利亚已誓言动用军事力量摧毁贩毒集团，目前他即将成为哥伦比亚新一任总统，外界正围绕其上台后的禁毒政策展开讨论，关注这一变动将对特朗普的毒品战争产生何种影响。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22-int-colombia-election-assess-phqz/22-int-colombia-election-assess-phqz-mediumSquareAt3X.jpg",
+      "id": "b0cb623d",
+      "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+      "summary": "北大背景创业公司雪梦未来获龚虹嘉、陆奇及海外机构投资。该团队以表面肌电运动神经信号解码技术为核心，自研AI解码模型，推出神经腕带等可穿戴数采终端，为具身智能和Physical AI提供高质量人类交互结构化数据，同步推进两条商业化路径。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_fab96073d3d940f5833d340f900f08aa@5920579_oswg773982oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
       "article_ids": [
-        "39945ea0"
+        "c02c3b52"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "NYTimes World"
+        "36氪"
       ],
       "articles": [
         {
-          "id": "39945ea0",
-          "source": "NYTimes World",
-          "title": "哥伦比亚新总统将如何助推特朗普的毒品战争？",
-          "link": "https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html",
-          "published_at": "2026-06-22T16:02:44+00:00"
+          "id": "c02c3b52",
+          "source": "36氪",
+          "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+          "link": "https://36kr.com/p/3865125383443463?f=rss",
+          "published_at": "2026-06-23T02:13:15+00:00"
         }
       ],
-      "published_at": "2026-06-22T16:02:44+00:00",
+      "published_at": "2026-06-23T02:13:15+00:00",
       "is_merged": false
     },
     {
-      "id": "c5376464",
-      "title": "尼日利亚举办欢乐联合婚礼 双胞胎迎娶双胞胎",
-      "summary": "近日尼日利亚举办了一场特殊的欢乐联合婚礼，双胞胎兄弟泰沃·奥贡托耶与肯欣德·奥贡托耶共同迎娶了一对双胞胎姐妹。婚礼结束后，兄弟二人接受了英国广播公司（BBC）的采访，这场特别的结合也引发关注。",
+      "id": "d3836612",
+      "title": "赎金字条声称南希·格思里遭绑架后死亡",
+      "summary": "绑匪留下的赎金字条证实，遭绑架的南希·格思里已经死亡。据相关报道，字条内容显示，作案绑匪称他们并非故意致使南希死亡，还就这一结果向受害者南希·格思里的家属致以歉意。",
       "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a5/live/b3c1b970-6e2c-11f1-b1db-af71d47507d6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
       "article_ids": [
-        "1277cf2d"
+        "25640e78"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1045,631 +915,50 @@
       ],
       "articles": [
         {
-          "id": "1277cf2d",
+          "id": "25640e78",
           "source": "BBC World",
-          "title": "尼日利亚举办欢乐联合婚礼 双胞胎迎娶双胞胎",
-          "link": "https://www.bbc.com/news/articles/cvglvkxwxj8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T16:01:07+00:00"
+          "title": "赎金字条声称南希·格思里遭绑架后死亡",
+          "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-23T01:59:39+00:00"
         }
       ],
-      "published_at": "2026-06-22T16:01:07+00:00",
+      "published_at": "2026-06-23T01:59:39+00:00",
       "is_merged": false
     },
     {
-      "id": "f27d9297",
-      "title": "发债迎来火爆夏季",
-      "summary": "今年夏季全球发债市场迎来爆发式增长，企业债券发行热度空前，市场迎来少见的繁荣行情。不少企业抓住当前合适的融资窗口密集发债筹措资金，推升整体发债规模大幅攀升，这股发债热潮成为当前金融市场的焦点。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaszjV4de9p8/v8/1200x-1.jpg",
+      "id": "9731b861",
+      "title": "动态更新清单：2026年雇主提及AI因素的科技业大规模裁员",
+      "summary": "这份动态更新的清单按时间倒序整理，收录了2026年宣布大规模裁员，并明确将AI列为裁员相关因素的大型科技公司相关信息，可帮助人们梳理了解今年科技行业与AI相关的裁员整体动态。",
+      "category": "tech",
+      "image": null,
       "article_ids": [
-        "cb863e19"
+        "44208f99"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "Bloomberg"
+        "TechCrunch"
       ],
       "articles": [
         {
-          "id": "cb863e19",
-          "source": "Bloomberg",
-          "title": "发债迎来火爆夏季",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/a-blockbuster-summer-for-debt-issuance",
-          "published_at": "2026-06-22T15:58:04+00:00"
+          "id": "44208f99",
+          "source": "TechCrunch",
+          "title": "动态更新清单：2026年雇主提及AI因素的科技业大规模裁员",
+          "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "published_at": "2026-06-23T01:27:55+00:00"
         }
       ],
-      "published_at": "2026-06-22T15:58:04+00:00",
+      "published_at": "2026-06-23T01:27:55+00:00",
       "is_merged": false
     },
     {
-      "id": "c984aa0a",
-      "title": "威尔·卡斯卡特卸任 印度初创创始人将接掌WhatsApp",
-      "summary": "Meta旗下通讯应用WhatsApp发生领导层变动，原负责人威尔·卡斯卡特将卸任，由印度初创企业创始人接掌该业务。此次领导层调整，是Meta为进一步强化WhatsApp在印度本已蓬勃发展的市场布局推出的举措。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/30742380-6e51-11f1-8c89-cfc50446b805.jpg",
-      "article_ids": [
-        "e4f7bef5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "e4f7bef5",
-          "source": "BBC World",
-          "title": "威尔·卡斯卡特卸任 印度初创创始人将接掌WhatsApp",
-          "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T15:57:46+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:57:46+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "db7777d3",
-      "title": "普京轰炸其觊觎已久的顿巴斯城市 数千民众逃离",
-      "summary": "俄乌冲突当前，基辅方面在战场其他区域形势有所好转，但俄军正持续对顿巴斯地区斯洛维扬斯克、克拉马托尔斯克等“要塞带”城市发动大规模攻击，出动炸弹与无人机实施打击，目前已有数千民众被迫逃离该区域。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/00int-ukraine-fortress-belt-01-qwlf/00int-ukraine-fortress-belt-01-qwlf-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "6ea98840"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "6ea98840",
-          "source": "NYTimes World",
-          "title": "普京轰炸其觊觎已久的顿巴斯城市 数千民众逃离",
-          "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
-          "published_at": "2026-06-22T15:57:38+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:57:38+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0942d582",
-      "title": "又一位AI明星高管跳槽竞品 Alphabet股价下跌",
-      "summary": "周一，谷歌母公司Alphabet再曝出核心高管离职事件，公司第二位颇具影响力的人工智能领域明星高管离职，跳槽至竞争对手阵营，受这一消息影响，Alphabet股价当日出现大幅下挫。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFCakFH6w9wM/v2/1200x-1.png",
-      "article_ids": [
-        "147c6df3"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "147c6df3",
-          "source": "Bloomberg",
-          "title": "又一位AI明星高管跳槽竞品 Alphabet股价下跌",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival",
-          "published_at": "2026-06-22T15:54:27+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:54:27+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5f5e5bab",
-      "title": "垃圾债券开始发售 为嘉实多、美国运通GBT收购提供资金",
-      "summary": "继上周推出同步贷款发行，为这两笔收购交易提供部分融资后，用于资助杠杆收购的两笔垃圾债券交易于周一正式进入市场，将分别为嘉实多与美国运通GBT的收购案提供资金支持。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_yBMrFMT2sQ/v1/1200x-1.jpg",
-      "article_ids": [
-        "86f0ef66"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "86f0ef66",
-          "source": "Bloomberg",
-          "title": "垃圾债券开始发售 为嘉实多、美国运通GBT收购提供资金",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/junk-bond-sales-begin-to-help-fund-castrol-amex-gbt-buyouts",
-          "published_at": "2026-06-22T15:52:17+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:52:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "fe1ebac8",
-      "title": "乔利称多家中国车企正考虑在加开展制造业合作",
-      "summary": "加拿大工业部长梅兰妮·乔利公开表示，至少有四家中国车企正研究如何利用加拿大面向电动汽车的低关税进口配额，这些车企都对赴加拿大开展本土制造业合作项目抱有浓厚兴趣。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih4gAtPmc07g/v1/1200x-1.jpg",
-      "article_ids": [
-        "8556613c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "8556613c",
-          "source": "Bloomberg",
-          "title": "乔利称多家中国车企正考虑在加开展制造业合作",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-carmakers-weighing-canada-manufacturing-deals-joly-says",
-          "published_at": "2026-06-22T15:50:13+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:50:13+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "afb8fa79",
-      "title": "揭穿批评人工智能数据中心人士信奉的迷思",
-      "summary": "本文将针对一系列迷思进行驳斥澄清，这些迷思是对人工智能数据中心持批评立场的人士所信奉的，相关内容围绕澄清这类错误认知展开。",
+      "id": "9731b861",
+      "title": "动态更新清单：2026年雇主提及AI因素的科技行业大规模裁员",
+      "summary": "这份动态梳理按时间倒序排列，聚焦2026年科技行业裁员动态，专门记录已宣布大规模裁员的大型科技企业相关情况，所有纳入范围的企业均明确将人工智能列为本次裁员的相关因素。",
       "category": "ai",
       "image": null,
       "article_ids": [
-        "3492c53c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "3492c53c",
-          "source": "The Information",
-          "title": "揭穿批评人工智能数据中心人士信奉的迷思",
-          "link": "https://www.theinformation.com/newsletters/ai-infrastructure/debunking-myths-ai-data-center-critics-believe",
-          "published_at": "2026-06-22T15:37:49+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:37:49+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3e15efb7",
-      "title": "帕拉贡债务因大举收购遭德意志银行分析师针对",
-      "summary": "德意志银行集团分析师建议投资者做空英国商业服务集团帕拉贡的首发债券，分析师表示，这家英国企业的增长过度依赖对外收购，增长模式存在问题，因此给出了做空其债务的投资建议。",
-      "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0VFqFMILCUM/v3/1200x-1.png",
-      "article_ids": [
-        "4909a6a1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "4909a6a1",
-          "source": "Bloomberg",
-          "title": "帕拉贡债务因大举收购遭德意志银行分析师针对",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/paragon-debt-targeted-by-deutsche-bank-analysts-over-deal-spree",
-          "published_at": "2026-06-22T15:34:04+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:34:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "4e556510",
-      "title": "联合国称缅甸军方六个月内杀害逾700名平民",
-      "summary": "联合国发布一份最新报告披露，去年六个月时间里，缅甸军方共造成702名平民死亡，其中包含153名儿童，大量无辜平民遇害，凸显出缅甸境内平民正面临极为严峻的安全威胁。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7875/live/4796c580-6e48-11f1-8a85-d1d176b992ab.jpg",
-      "article_ids": [
-        "3e6b706b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "3e6b706b",
-          "source": "BBC World",
-          "title": "联合国称缅甸军方六个月内杀害逾700名平民",
-          "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T15:31:55+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:31:55+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "37ade953",
-      "title": "乌克兰升级克里米亚袭击，对俄罗斯形成新施压点",
-      "summary": "乌克兰为向俄罗斯施压，正针对2014年被俄罗斯吞并的克里米亚半岛升级空中作战行动，试图孤立该半岛。此次袭击升级，使得克里米亚方向成为俄罗斯在当前俄乌冲突中需要应对的全新压力点。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-russia-crimea-01-pjhc/22int-russia-crimea-01-pjhc-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "328e98e6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "328e98e6",
-          "source": "NYTimes World",
-          "title": "乌克兰升级克里米亚袭击，对俄罗斯形成新施压点",
-          "link": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-russia-crimea-attacks.html",
-          "published_at": "2026-06-22T15:30:12+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:30:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "dffe8e95",
-      "title": "Meta宣布WhatsApp新任领导人",
-      "summary": "Meta正式对外发布消息，宣布任命WhatsApp的新任领导人，本次涉及WhatsApp的人事变动相关信息已经由Meta方面正式对外公开。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "2883ec54"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "2883ec54",
-          "source": "The Information",
-          "title": "Meta宣布WhatsApp新任领导人",
-          "link": "https://www.theinformation.com/briefings/meta-announces-new-whatsapp-leader",
-          "published_at": "2026-06-22T15:26:41+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:26:41+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1460abdc",
-      "title": "Meta任命印度CRED创始人库纳尔·沙阿为WhatsApp新负责人 并注资9亿美元",
-      "summary": "Meta调整WhatsApp核心管理层，原负责人威尔·卡特卡将转任Meta内部新职位，印度金融科技巨头CRED创始人库纳尔·沙阿将卸任CRED首席执行官，接任WhatsApp负责人一职，Meta同时注资9亿美元。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "f65d3c9b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "f65d3c9b",
-          "source": "TechCrunch",
-          "title": "Meta任命印度CRED创始人库纳尔·沙阿为WhatsApp新负责人 并注资9亿美元",
-          "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-          "published_at": "2026-06-22T15:21:42+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:21:42+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "467d0f43",
-      "title": "卡塔尔拉斯拉凡工业区核心天然气场地爆炸致至少13死66人受伤",
-      "summary": "卡塔尔拉斯拉凡工业区的核心天然气生产场地因技术故障引发燃气爆炸，爆炸发生在美以对伊朗战争结束工厂重启运营作业期间，目前事故已造成至少13人死亡、66人受伤，暂未披露更多后续信息。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7c6/live/d4d68270-6e46-11f1-8a85-d1d176b992ab.jpg",
-      "article_ids": [
-        "5c30f252",
-        "519d6a05"
-      ],
-      "article_count": 2,
-      "source_count": 2,
-      "sources": [
-        "BBC World",
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "5c30f252",
-          "source": "BBC World",
-          "title": "卡塔尔发生燃气爆炸 至少13死数十人受伤",
-          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T15:15:42+00:00"
-        },
-        {
-          "id": "519d6a05",
-          "source": "NYTimes World",
-          "title": "卡塔尔天然气厂爆炸致至少13人死亡66人受伤",
-          "link": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-          "published_at": "2026-06-22T14:09:44+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:15:42+00:00",
-      "is_merged": true
-    },
-    {
-      "id": "8d77c9a1",
-      "title": "记者手记｜掌声与迷茫交织——直击斯塔默辞职现场 - 新华网",
-      "summary": "英国首相斯塔默已宣布辞职，此前其去留悬而未决，有消息称他最早22日发布相关辞职声明、将公布离任时间表。本次斯塔默辞职现场情绪呈现掌声与迷茫交织的状态，其政策连续性也遭遇重新评估。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "0bca1d69"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "0bca1d69",
-          "source": "Google News (中国)",
-          "title": "记者手记｜掌声与迷茫交织——直击斯塔默辞职现场 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BRTYtTWxOWkJqcE53WW5TN292ZWlIeXJKTlFocDBHZDREN0VCR05VNkcwM3VQVDNDSTRYN2dyT181LWJfd2ltNEozdVpmd3dfZ25famdHd2RKT0JwaEdVQjdqYm5YcXdycXhCSEF1d3M5eW9GV2lKdXZvei1YSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T15:07:20+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:07:20+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b9280bbb",
-      "title": "美伊首轮会谈结束：满怀希望仍存重大挑战",
-      "summary": "美伊首轮会谈已落幕，斡旋方表示，本次谈判围绕需解决敲定的议题展开，目前已取得一定进展，各方有望在60天内达成最终协议，但后续推进仍面临诸多重大挑战。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-iran-talks-assess-01-mfhb/22int-iran-talks-assess-01-mfhb-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "a1896da2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "a1896da2",
-          "source": "NYTimes World",
-          "title": "美伊首轮会谈结束：满怀希望仍存重大挑战",
-          "link": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
-          "published_at": "2026-06-22T15:04:28+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:04:28+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "95efa4e9",
-      "title": "Prime会员日苹果最新款AirTags迎来史上最低价",
-      "summary": "Prime会员日期间推出多款苹果产品优惠活动，对于计划在7月4日周末或今夏晚些时候出行的消费者而言，新款AirTags的优惠相当实用。目前亚马逊与百思买的AirTags四件装已降至90美元历史新低，较原价优惠9美元。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "7b2debfe"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "7b2debfe",
-          "source": "The Verge",
-          "title": "Prime会员日苹果最新款AirTags迎来史上最低价",
-          "link": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
-          "published_at": "2026-06-22T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T15:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1a28201f",
-      "title": "古巴燃油危机导致学校停摆",
-      "summary": "受美国石油封锁影响，古巴遭遇严重的燃油短缺危机。该国本就运营困难的各级学校受此次危机波及，被迫提前结束本学年教学工作，全国学校教育陷入停摆状态。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/18/multimedia/intxx-cuba-schools-01-fpwc/intxx-cuba-schools-01-fpwc-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "41f8e3c0"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "41f8e3c0",
-          "source": "NYTimes World",
-          "title": "古巴燃油危机导致学校停摆",
-          "link": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-          "published_at": "2026-06-22T14:29:39+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:29:39+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5a1ca651",
-      "title": "万斯称伊朗将允许核核查人员重返该国",
-      "summary": "美国副总统万斯表示，美伊首轮会谈已取得大量进展，万斯同时披露，伊朗方面将允许核核查人员重返伊朗境内开展相关核核查工作，这是本次美伊接触取得的重要成果。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/013ede30-6e37-11f1-8e1d-bbbb1017d210.jpg",
-      "article_ids": [
-        "20f5d6bc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "20f5d6bc",
-          "source": "BBC World",
-          "title": "万斯称伊朗将允许核核查人员重返该国",
-          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T14:18:19+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:18:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7ac94a71",
-      "title": "任职七年后，WhatsApp负责人威尔·卡斯卡特即将离职",
-      "summary": "Meta首席执行官马克·扎克伯格周一通过脸书宣布，已领导WhatsApp七年的负责人威尔·卡斯卡特即将卸任，公司已任命印度金融科技初创企业Cred的创始人库纳尔·沙阿接任WhatsApp新一任负责人。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "c0baac42"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "c0baac42",
-          "source": "The Verge",
-          "title": "任职七年后，WhatsApp负责人威尔·卡斯卡特即将离职",
-          "link": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
-          "published_at": "2026-06-22T14:14:23+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:14:23+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "36f9f3ae",
-      "title": "Instagram欲借电视APP推长视频剧集直播 对标流媒体服务",
-      "summary": "社交媒体平台Instagram瞄准客厅观看赛道，计划为其电视应用推出长视频、连载剧集以及直播形式内容，意图对标Netflix、亚马逊Prime Video等头部流媒体服务，正式向现有流媒体市场发起冲击。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "77da6ee2"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "77da6ee2",
-          "source": "TechCrunch",
-          "title": "Instagram欲借电视APP推长视频剧集直播 对标流媒体服务",
-          "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
-          "published_at": "2026-06-22T14:14:10+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:14:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1a92080e",
-      "title": "巴基斯坦计划削减卫生巾税，多方称此举力度不足",
-      "summary": "巴基斯坦目前仅有12%的女性和女童能够使用安全的商品化经期用品，经期公共卫生问题突出。该国计划推出削减卫生巾税的举措，活动人士指出该措施力度不足，解决核心问题还需更多实质行动。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/world/22int-pakistan-period-tax-0001/22int-pakistan-period-tax-0001-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "0cff884b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "0cff884b",
-          "source": "NYTimes World",
-          "title": "巴基斯坦计划削减卫生巾税，多方称此举力度不足",
-          "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
-          "published_at": "2026-06-22T14:07:03+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:07:03+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0fd97d3f",
-      "title": "为增长打造的创始人大会：TechCrunch创始人峰会6月26日起通票涨价",
-      "summary": "TechCrunch 2026创始人峰会专为创始人打造，将于11月4日在美国波士顿举办。主办方推出限时购票优惠，只要在太平洋时间6月26日23点59分前注册购票，最多可节省190美元，呼吁有意参会的创始人尽早注册。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "b22d2d1b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "b22d2d1b",
-          "source": "TechCrunch",
-          "title": "为增长打造的创始人大会：TechCrunch创始人峰会6月26日起通票涨价",
-          "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-          "published_at": "2026-06-22T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e1883068",
-      "title": "Patreon首席执行官杰克·康特谈AI垃圾时代下的创作者扶持",
-      "summary": "一档访谈节目邀请Patreon首席执行官杰克·康特做客，探讨AI垃圾时代下的创作者扶持相关话题。杰克·康特上一次做客该节目是近五年前的2021年夏天，此后互联网与创作者领域发生诸多变化，主持人因此与他展开新一轮对谈。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "fca3ab06"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "fca3ab06",
-          "source": "The Verge",
-          "title": "Patreon首席执行官杰克·康特谈AI垃圾时代下的创作者扶持",
-          "link": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
-          "published_at": "2026-06-22T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0fd97d3f",
-      "title": "专为增长打造的创始人大会：TechCrunch创始人峰会6月26日起票价上涨",
-      "summary": "专为创始人打造的TechCrunch 2026创始人峰会将于11月4日在波士顿举办，目前已开放注册。该峰会门票将于太平洋时间6月26日23:59涨价，在此之前购票最高可节省190美元，有意参会的创始人可尽快注册。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "b22d2d1b"
+        "44208f99"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1678,24 +967,24 @@
       ],
       "articles": [
         {
-          "id": "b22d2d1b",
+          "id": "44208f99",
           "source": "TechCrunch AI",
-          "title": "专为增长打造的创始人大会：TechCrunch创始人峰会6月26日起票价上涨",
-          "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-          "published_at": "2026-06-22T14:00:00+00:00"
+          "title": "动态更新清单：2026年雇主提及AI因素的科技行业大规模裁员",
+          "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "published_at": "2026-06-23T01:27:55+00:00"
         }
       ],
-      "published_at": "2026-06-22T14:00:00+00:00",
+      "published_at": "2026-06-23T01:27:55+00:00",
       "is_merged": false
     },
     {
-      "id": "854beeba",
-      "title": "北京宣布反制“美方恶劣做法” 管制针对美企的出口与采购 - dw.com",
-      "summary": "针对美方恶劣做法，中方接连推出两项反制举措，明确作出反击表态。中方规定，在政府采购活动中不得采购46家非在华投资美国企业生产的产品；同时商务部将10家美国实体列入出口管制管控名单，对美相关行为作出反制。",
+      "id": "07385f4a",
+      "title": "用AI报高考志愿靠谱吗？专家提醒：切勿盲目依赖 - 央广网",
+      "summary": "江西高考成绩预计6月25日公布，高考志愿填报临近，AI填报志愿成为热门选项，也出现相关服务遭家长吐槽等乱象。多家媒体发布提醒，考生家长切勿盲目依赖AI工具，应跳出AI依赖误区，优先使用官方工具，让志愿填报回归自身的“志”与“愿”。",
       "category": "china",
       "image": null,
       "article_ids": [
-        "2a72aa75"
+        "ef03d023"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1704,102 +993,50 @@
       ],
       "articles": [
         {
-          "id": "2a72aa75",
+          "id": "ef03d023",
           "source": "Google News (中国)",
-          "title": "北京宣布反制“美方恶劣做法” 管制针对美企的出口与采购 - dw.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPQlZqVUN3aWFEZkctdjFxWmM4bm9oRDJWdXA2ME9rUmI1eWxvZWI2S19tR2JFMW41Z1VqcnRyb21VV2w0YkdjSWxZNzRLVWJBV0kwWG9wWHJfY0V2MlViU2ZLX3FqZEJ4SGE1ZjJlSTZySEIzdnBxbnBpNkdYbTBISGNlaGlDM0tNQWc5T0d5cHRXdWtMbF9TbjBwOF9RTHoyOW9EMXY4eXhNSXR0bl9QTDdQX3V2azV5MWNUVm1CZ2VWNUNMYTU5OTN4S3dRYXAzb25kYXF1ZDF6dDJXR0NVNWFCOTlQXzRYNEpUUE1rVURKbEU5a3Z1OVVjMmtTSXNVVExWcE1BemdRZWM4UkR1ZDNrMjVSOVdVazZ3TngxWEtOQzRINmpwcnotRmVYSVZXLXNzdjVYRGI4SFNETGxMWFNvaGxUNTA3RzNFellmN2wzVWVpTTNPVEgyVnJjaFJNT3hSOTRBVGlNd9IB6gJBVV95cUxPX0l6SnhmYjc3TUZmWHNBWGtQMF9mby1SR3pfTHlKOGZtNlVDSlBqOEt5V2FQLWJVUC1hakh6MVBfMUc1T0hYb05rTGpseFZDbXRMOGx4UlVpdEc1V2FXVnlOTEYtcG1zWmdkNGN3SXpiOHY5dEQ2NWg5UndQNlhwVkdva1pVVGF4MHF1SW83MVRiakNqREVWaUprenBBbmY2Y3hhNTNwWlU0cW5Vbkc2M1lOSWx5and5QWkxR0FnNzVmb0ZOQnlOTFRweUYtLUJoVURSM1VMRjVrdlBvbktieU1DY2x0aklUZVhCTkhVSGVib01kVUZydjVKUzhQRXk0WFlrWU5Uc3Z1M2tIVDl0bFF1UHYyNzA1eV94bzVDTjQ1cVZjLTJBcXpSTE5tVS04STVONGxHTG1mRW14NEVRemkwb1gzNG0talZhQzNuZDBhVDU1S0M5ckZ2cnZFTFJUMUNwWjlaRTVoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T13:58:51+00:00"
+          "title": "用AI报高考志愿靠谱吗？专家提醒：切勿盲目依赖 - 央广网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZjVBVzAyRjg1dHNoQjNiUW5oWXJucEptQWNGNGFzVi1aWnJLei0zVTVxdXoxbGZPYmxja0MtdkJjLWo4YkdjMlRXdDJZLURVVzUxMm1PRGtOeEg0eDRpTkZfaXJiLXhHRzFTV0dVbGY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-23T01:15:09+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:58:51+00:00",
+      "published_at": "2026-06-23T01:15:09+00:00",
       "is_merged": false
     },
     {
-      "id": "56f8e274",
-      "title": "苹果AirPods Max 2首次直降150美元",
-      "summary": "沃尔玛促销活动期间，苹果AirPods Max 2全配色降价至399.99美元，较日常售价549美元直降150美元，这是该产品迄今的最低价格，目前亚马逊仅星光色可达这一售价，评测肯定了这款头戴耳机的出色音质与优秀降噪。",
+      "id": "c49b75b5",
+      "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+      "summary": "硬氪「秋声」专栏首期聚焦四川成都临床阶段生物科技公司华健未来，该公司以18A规则登陆港交所，独家保荐人为中信证券。其上市前暗盘振幅超100%最终破发，上市首日大跌31%；公司暂无药物获批上市，本次IPO募资可支撑研发约五年，管线热门但赛道竞争拥挤。",
       "category": "tech",
-      "image": null,
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_68ab87f75f684d4295b3554721798565@430412560_oswg1408151oswg1290oswg2796_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
       "article_ids": [
-        "0941e2a2"
+        "f58ba908"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "The Verge"
+        "36氪"
       ],
       "articles": [
         {
-          "id": "0941e2a2",
-          "source": "The Verge",
-          "title": "苹果AirPods Max 2首次直降150美元",
-          "link": "https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale",
-          "published_at": "2026-06-22T13:47:31+00:00"
+          "id": "f58ba908",
+          "source": "36氪",
+          "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+          "link": "https://36kr.com/p/3865070004212994?f=rss",
+          "published_at": "2026-06-23T01:13:39+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:47:31+00:00",
+      "published_at": "2026-06-23T01:13:39+00:00",
       "is_merged": false
     },
     {
-      "id": "20c4ae3e",
-      "title": "Lucid汽车新任CEO为“简化公司”裁员18%",
-      "summary": "美国高端电动汽车品牌Lucid Motors近日启动运营调整，新任首席执行官为简化公司架构，裁撤公司18%的员工。该品牌还将取消亚利桑那州工厂的一个生产班次，调整生产计划以匹配市场预期需求，优化企业运营。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "13a3ad9a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "13a3ad9a",
-          "source": "TechCrunch",
-          "title": "Lucid汽车新任CEO为“简化公司”裁员18%",
-          "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-          "published_at": "2026-06-22T13:42:59+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T13:42:59+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e77914dc",
-      "title": "菲律宾发生致命校园枪击案 两名男孩被捕",
-      "summary": "菲律宾警方通报，该国塔克洛班市一所学校发生恶性枪击事件，两名就读于该校的青少年在校园内开枪，造成三人死亡、七人受伤，事发后两名涉案男孩已被警方逮捕。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-promo-sub/22int-philippines-shooting-promo-sub-mediumSquareAt3X-v2.jpg",
-      "article_ids": [
-        "1615c478"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "1615c478",
-          "source": "NYTimes World",
-          "title": "菲律宾发生致命校园枪击案 两名男孩被捕",
-          "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
-          "published_at": "2026-06-22T13:42:10+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T13:42:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e35ef775",
-      "title": "东风-17首次公开试射画面，剑指“环太”军演？ - 凤凰网",
-      "summary": "多家媒体近期集中围绕东风-17首次公开试射画面展开相关报道，该试射画面公开后，外界猜测此次公开或针对“环太”军演。相关报道解读了中国火箭军装备体系已完成全面现代化迭代，展现了火箭军的高实战训练标准，彰显中国国防实力的提升。",
+      "id": "56e85d7a",
+      "title": "习近平总书记关心致敬老党员的故事 - politics.people.com.cn",
+      "summary": "多家主流媒体推出红色主题相关报道，一方面讲述习近平总书记关心致敬老党员的故事，另一方面围绕红色队伍“四大队”展开寻访解读，挖掘其永不褪色的忠诚品格，号召传承红色基因，激励广大党员在新征程上书写优异答卷。",
       "category": "china",
       "image": null,
       "article_ids": [
-        "30621aa1"
+        "c856056c"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1808,76 +1045,24 @@
       ],
       "articles": [
         {
-          "id": "30621aa1",
+          "id": "c856056c",
           "source": "Google News (中国)",
-          "title": "东风-17首次公开试射画面，剑指“环太”军演？ - 凤凰网",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QRkVvWVMtcWpZWnFjYk9jWVh6NEhRWHBGRmlHQzh3aFozNHhhd1REVlBqdnU3Tk9LclZDZDhiaExZTmE5RE9MMVB6S0M?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T13:40:40+00:00"
+          "title": "习近平总书记关心致敬老党员的故事 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTFBXVE9mQlo4UmdHbHAzaHJPcndaeFMzVDNvNXNVYUFUWWRQcGxpeDZ3N0ZETTRlSDVGQi1SVVdOZUhtNjhwZEo4eDljckhkaFM5ejR4ZjA4Sm14eHhweXdGcjJCRzRFMUx4TV9iclFfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-23T01:08:00+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:40:40+00:00",
+      "published_at": "2026-06-23T01:08:00+00:00",
       "is_merged": false
     },
     {
-      "id": "6e6ae9c7",
-      "title": "Seedcamp筹集3.2亿美元新基金 扩张美国业务版图",
-      "summary": "专注欧洲市场十八年的早期投资机构Seedcamp宣布，已完成募集规模3.2亿美元的最新基金，这笔资金将用于拓展其在美国的业务，扩大在美国市场的布局。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "62e4118b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "62e4118b",
-          "source": "TechCrunch",
-          "title": "Seedcamp筹集3.2亿美元新基金 扩张美国业务版图",
-          "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-          "published_at": "2026-06-22T13:37:25+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T13:37:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "548a2f2c",
-      "title": "Klue遭黑客攻击致多家网络安全公司数据泄露",
-      "summary": "市场调研公司Klue此前发生数据泄露事件，此次泄露导致Huntress、HackerOne、Jamf、Recorded Future、Tanium等多家网络安全企业受到波及，已有相关数据被不法分子窃取。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "3080985c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "3080985c",
-          "source": "TechCrunch",
-          "title": "Klue遭黑客攻击致多家网络安全公司数据泄露",
-          "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
-          "published_at": "2026-06-22T13:36:08+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T13:36:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "547e4e2d",
-      "title": "塞内加尔贸易部长称政府对债务重组持开放态度",
-      "summary": "塞内加尔总统巴锡鲁·迪奥马耶·法耶内阁的高级成员贸易部长表示，当前不断攀升的债务偿付压力正威胁拖累该国多个核心经济领域，塞内加尔政府目前对推进债务重组持开放态度。",
+      "id": "67c3db3e",
+      "title": "片山称与贝森特会谈后 美日在外汇问题上立场更趋一致",
+      "summary": "日本财务大臣片山皋月公开表示，她已与美国财政部长斯科特·贝森特进行了电话会谈。这一动向仅给日元带来短暂提振效果，目前日元汇率仍徘徊在近四十年来的最低水平附近。",
       "category": "business",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imNtIuiCvF8Y/v1/1200x-1.jpg",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.e7SMLvgbKs/v2/1200x-1.png",
       "article_ids": [
-        "e4afc589"
+        "48deabb8"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1886,24 +1071,50 @@
       ],
       "articles": [
         {
-          "id": "e4afc589",
+          "id": "48deabb8",
           "source": "Bloomberg",
-          "title": "塞内加尔贸易部长称政府对债务重组持开放态度",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-22/senegal-trade-minister-says-government-open-to-debt-restructure",
-          "published_at": "2026-06-22T13:20:14+00:00"
+          "title": "片山称与贝森特会谈后 美日在外汇问题上立场更趋一致",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-katayama-confirms-talks-with-bessent-on-fx-agreement",
+          "published_at": "2026-06-23T01:00:21+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:20:14+00:00",
+      "published_at": "2026-06-23T01:00:21+00:00",
       "is_merged": false
     },
     {
-      "id": "9f199415",
-      "title": "总书记引领强国之路丨体育强则中国强 - chinanews.com.cn",
-      "summary": "中国新闻网推出“总书记引领强国之路”主题下的相关报道，以“体育强则中国强”为核心主题，聚焦总书记引领我国体育事业发展、推进体育强国建设的实践，明确体育强国建设在全面建设社会主义现代化国家进程中的重要地位与作用。",
+      "id": "c301eec8",
+      "title": "《“仍有很大空间”：SpaceX高等级债务引发质疑》",
+      "summary": "近十年前，穆迪评级首次对英伟达进行信用评估，最终给出Baa1投资级评级。彼时英伟达已上市16年，债务负担相对较轻，且拥有超10亿美元自由现金流，良好的经营财务状况让穆迪放心给出该投资级评级。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdTrwItpg.4/v1/1200x-1.jpg",
+      "article_ids": [
+        "4fc52f71"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4fc52f71",
+          "source": "Bloomberg",
+          "title": "《“仍有很大空间”：SpaceX高等级债务引发质疑》",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-23/-a-lot-of-leeway-spacex-s-high-grade-debt-brings-out-skeptics",
+          "published_at": "2026-06-23T00:57:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:57:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0844836e",
+      "title": "市场监管总局宣布联合调查婴幼儿纸尿裤甲酰胺问题 - 人民网",
+      "summary": "针对引发舆论热议的婴幼儿纸尿裤甲酰胺问题，此前风波中各方存在观点拉扯，尚未有明确定论。目前国家市场监督管理总局已牵头，联合多部门成立专项调查组，正式启动相关问题的核查调查工作，消费者普遍关注涉事产品退货、赔偿的后续处理进展。",
       "category": "china",
       "image": null,
       "article_ids": [
-        "da7bd138"
+        "4da6b8f9"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1912,24 +1123,518 @@
       ],
       "articles": [
         {
-          "id": "da7bd138",
+          "id": "4da6b8f9",
           "source": "Google News (中国)",
-          "title": "总书记引领强国之路丨体育强则中国强 - chinanews.com.cn",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54U2lmc3ZmWDBsRGNFY0R4QXBMVXZJTWh2OElveUNzc25nVW9QSXJUUFhIZFV6TDNXeWl4aGFubUlUbURqYXp0bmswbXktajZIUHdpcGV2WkRybmRsSkVOSGRiZ1Q0SXpa?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T13:04:26+00:00"
+          "title": "市场监管总局宣布联合调查婴幼儿纸尿裤甲酰胺问题 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9na0UyVUFDOUx4bi1LWEJMS0ZQOWotWE1HYnlrcHNwMU82TUZndmNVamMxUHZDZllONXRIeTIwYTBrYjBOdmpqVzlCdXpGeEVBVWVMQnVCZmdMQVlJb1ZXamRrY0V2RGl6M0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-23T00:44:00+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:04:26+00:00",
+      "published_at": "2026-06-23T00:44:00+00:00",
       "is_merged": false
     },
     {
-      "id": "90d525a7",
-      "title": "OpenAI的轻量级资产负债表IPO前或面临严格审查",
-      "summary": "根据当前给出的新闻标题信息，OpenAI所持有的轻量级资产负债表，在其推进首次公开募股也就是IPO之前，或将面临严格审查。",
+      "id": "2467f848",
+      "title": "蒙特利尔枪击案三人遇害 含嫌疑人与一名平民",
+      "summary": "蒙特利尔发生一起枪击枪战，事件共造成三人死亡，死者包括一名嫌疑人、一名平民以及一名警察。这起事件触发了该市全市范围的就地避难警报，要求民众留在家中躲避，不要随意外出。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-canada-shooting-zqjt/22int-canada-shooting-zqjt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3113165a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3113165a",
+          "source": "NYTimes World",
+          "title": "蒙特利尔枪击案三人遇害 含嫌疑人与一名平民",
+          "link": "https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html",
+          "published_at": "2026-06-23T00:38:09+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:38:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24f37009",
+      "title": "收购截止日临近 IFM投资即将持有阿特拉斯阿尔泰里亚近五成股权",
+      "summary": "IFM投资对澳大利亚上市收费公路运营商阿特拉斯阿尔泰里亚发起收购要约，本次收购要约的截止时间为周四晚间。在截止日来临前，该投资机构已接近持有目标公司50%的股权。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTqJInvqJU34/v2/1200x-1.png",
+      "article_ids": [
+        "bdb7d1de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bdb7d1de",
+          "source": "Bloomberg",
+          "title": "收购截止日临近 IFM投资即将持有阿特拉斯阿尔泰里亚近五成股权",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-23/ifm-investors-nears-50-stake-in-atlas-arteria-as-deadline-looms",
+          "published_at": "2026-06-23T00:29:41+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:29:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "13645873",
+      "title": "‘错失恐惧症害惨我’：台湾民众举债追翻倍股市涨势",
+      "summary": "受台积电带动，中国台湾AI股掀起投资热潮，当地民众为搭上这波涨势，纷纷大举借债入市投资，这种过热的非理性投资行为，已经引发市场对台湾股市出现资产泡沫的担忧。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOe0IFGGGQ2E/v1/1200x-1.jpg",
+      "article_ids": [
+        "1fc68236"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1fc68236",
+          "source": "Bloomberg",
+          "title": "‘错失恐惧症害惨我’：台湾民众举债追翻倍股市涨势",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-23/tsmc-fueled-ai-frenzy-makes-taiwan-capital-of-leveraged-stock-bets",
+          "published_at": "2026-06-23T00:28:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:28:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb446956",
+      "title": "OpenAI推出新计划助力查找修复开源软件漏洞",
+      "summary": "全球知名人工智能机构OpenAI推出一项全新计划，旨在解决开源软件社区面临的安全问题，该计划将帮助从业者查找并修复开源软件存在的漏洞，助力提升开源领域的整体安全水平，维护开源生态的稳定运行。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8bdf35b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "8bdf35b5",
+          "source": "TechCrunch",
+          "title": "OpenAI推出新计划助力查找修复开源软件漏洞",
+          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "published_at": "2026-06-23T00:11:31+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:11:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb446956",
+      "title": "OpenAI推出新计划助力发现修复开源软件漏洞",
+      "summary": "人工智能研发机构OpenAI推出一项全新举措，旨在帮助开源软件社区发现并修复程序漏洞，尝试解决开源领域的安全问题，助力提升开源软件生态的整体安全性，保障各类开源项目的运行安全。",
       "category": "ai",
       "image": null,
       "article_ids": [
-        "f6e5cb52"
+        "8bdf35b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "8bdf35b5",
+          "source": "TechCrunch AI",
+          "title": "OpenAI推出新计划助力发现修复开源软件漏洞",
+          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "published_at": "2026-06-23T00:11:31+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:11:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56755974",
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "summary": "本次热点汇总涵盖多项政经大事件：SpaceX上市后股价三日累计下跌27%，跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；韩国SK海力士市值首超三星电子，终结三星25年韩国股市市值榜首地位，港股智谱总市值也突破万亿港元。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_61aa80dd8e75409181a0a01ce0c3af9b@5667365_oswg657997oswg1022oswg962_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "9caffb41"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "9caffb41",
+          "source": "36氪",
+          "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+          "link": "https://36kr.com/p/3865001641006081?f=rss",
+          "published_at": "2026-06-23T00:06:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:06:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a12dee16",
+      "title": "美国商品期货交易委员会就全天候期货、能源永续交易征求公众意见",
+      "summary": "业内重量级机构就离岸非合规交易平台的过度风险问题提出担忧后，美国商品期货交易委员会启动公众意见征集，本次征集覆盖传统能源衍生品领域的永续合约与全天候交易相关事项。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH4h4GJ.jEuo/v0/1200x-1.jpg",
+      "article_ids": [
+        "6fde175d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "6fde175d",
+          "source": "Bloomberg",
+          "title": "美国商品期货交易委员会就全天候期货、能源永续交易征求公众意见",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-23/cftc-seeks-input-on-24-7-futures-energy-perpetuals-trades",
+          "published_at": "2026-06-23T00:01:23+00:00"
+        }
+      ],
+      "published_at": "2026-06-23T00:01:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02a5a904",
+      "title": "片山与贝森特会谈后 日元干预风险上升",
+      "summary": "日元汇率进一步走弱，日本财务大臣片山皐月与美国财政部长斯科特·贝森特通话后，全球汇市的货币交易商已进入高度戒备状态，密切关注相关方面是否会出手干预日元汇率，当前日元汇市的干预风险明显上升。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDLXEETUW90g/v1/1200x-1.jpg",
+      "article_ids": [
+        "b366b4f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b366b4f4",
+          "source": "Bloomberg",
+          "title": "片山与贝森特会谈后 日元干预风险上升",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/yen-intervention-risk-rises-on-reports-of-katayama-bessent-talks",
+          "published_at": "2026-06-22T23:55:13+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:55:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a2cdd8d6",
+      "title": "英国首相斯塔默宣布辞职 - 南方日报",
+      "summary": "南方日报发布消息，英国首相斯塔默宣布辞职。对该事件及更多国际时政内容感兴趣的读者，可前往Google新闻平台，查看南方日报发布的更多头条新闻与相关观点，获取更多相关资讯。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ac4a35bb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ac4a35bb",
+          "source": "Google News (中国)",
+          "title": "英国首相斯塔默宣布辞职 - 南方日报",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMbG55bjRPYS1LQjZac1NqTC15elVYZDZGWUtadjZvWDE1a1NiSzJfUFI3X2o4ZkpHRFZNaTVidXlycjB3Z1ZGcGRJaHB3M1dWeUgyeUZQdjlOSmFucElieDg0NkZIT09jR1R2eHVnV3VoNWxOQVZ1TlRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T23:49:17+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:49:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2da6259a",
+      "title": "多彩假期，激发消费潜力（经济聚焦） - 人民网",
+      "summary": "端午假期，浙江推出多彩假日活动激活消费市场，多地催生消费新活力：温州推出高端宴席进街巷、轨道加美食的民俗狂欢活动，市区红日亭为市民送出千份端午礼包，最新数据显示当地端午三天消费达5.78亿元，多彩假期有效激发了消费潜力。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ef9404b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ef9404b4",
+          "source": "Google News (中国)",
+          "title": "多彩假期，激发消费潜力（经济聚焦） - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yN28zR1dEUFBTbW5aMEdkUWl6cWJLRGFyRXR5UjlDbGoyWmVZM0RCLUZJWGZiZGw1UFpONVgzTy1lcldqVEpCTXRURUZYSVpRMXVENGZ0WERITHotNVgtZVdEQzk0Mmc1bUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T23:47:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:47:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3cef85af",
+      "title": "听中方领队讲述台东海域调查 排除干扰坚定实施 - 中华网",
+      "summary": "多家媒体集中关注中国在台湾岛以东海域开展的调查作业，该作业旨在为相关国土空间规划做准备，调查过程中中方排除日菲等外部势力干扰，坚定推进各项工作，行动稳步有序，有美国专家指出美军在台海没有胜算。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5c5cd42f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5c5cd42f",
+          "source": "Google News (中国)",
+          "title": "听中方领队讲述台东海域调查 排除干扰坚定实施 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WS0JVbHlqWFdXSWpRb1hwZXl3OEIzTjBVMUlJclo3V29TaE0xLXVoUTVJQk5mMzNMcjlGSTdTWGpIQXkwbEdsQ3l4bXRfYlBmdEVtNlEyNFZWUmJHY0dfX09MaFdwdDZ0U1VkS3FoUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T23:38:03+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:38:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a7f0bd2",
+      "title": "英伟达推新型AI数据中心设计削减用水 仍未解决AI行业用水核心问题",
+      "summary": "针对公众关注的AI数据中心水能耗问题，英伟达推出全新全液冷AI数据中心参考设计，可大幅削减数据中心用水量与电力消耗，近乎免水，但该设计未触及AI用水核心的发电环节用水问题，未能真正解决AI发展的用水难题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9a78d867",
+        "e14ed19e"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9a78d867",
+          "source": "The Verge",
+          "title": "英伟达称其AI数据中心设计靠提温大幅减少用水量",
+          "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "published_at": "2026-06-22T23:24:32+00:00"
+        },
+        {
+          "id": "e14ed19e",
+          "source": "TechCrunch",
+          "title": "英伟达欲削减数据中心用水量，但这并未解决AI用水问题",
+          "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "published_at": "2026-06-22T20:08:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:24:32+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "5a7f0bd2",
+      "title": "英伟达推出新型低水耗AI数据中心设计 仍未解决AI产业整体用水问题",
+      "summary": "针对公众因水耗、能耗问题反对AI数据中心建设，英伟达推出新型全液冷AI数据中心设计，可大幅削减数据中心运营用水量，但其未触及AI产业核心耗水的发电环节，仍未能真正解决AI发展的水资源消耗问题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9a78d867",
+        "e14ed19e"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge AI",
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9a78d867",
+          "source": "The Verge AI",
+          "title": "英伟达称其AI数据中心设计允许更高运行温度 大幅减少用水量",
+          "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "published_at": "2026-06-22T23:24:32+00:00"
+        },
+        {
+          "id": "e14ed19e",
+          "source": "TechCrunch AI",
+          "title": "英伟达欲削减数据中心用水量，但这无法解决AI的水资源问题",
+          "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "published_at": "2026-06-22T20:08:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:24:32+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "e7aa5df0",
+      "title": "美伊和谈获初步进展 美豁免伊石油出口 国际金油价格企稳",
+      "summary": "此前美伊冲突打乱全球市场秩序，推高全球通胀，对全球经济造成负面影响。近期双方结束冲突的和谈取得初步进展，美方豁免伊朗部分石油出口，受此影响，国际金价、油价已双双企稳。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGJgvOTbOxyU/v0/1200x-1.jpg",
+      "article_ids": [
+        "748e3bfd",
+        "9ae06439"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "748e3bfd",
+          "source": "Bloomberg",
+          "title": "美伊和谈传初步进展 金价趋稳",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks",
+          "published_at": "2026-06-22T23:19:25+00:00"
+        },
+        {
+          "id": "9ae06439",
+          "source": "Bloomberg",
+          "title": "伊朗石油销售豁免显示和谈进展 国际油价趋稳",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/latest-oil-market-news-and-analysis-for-july-23",
+          "published_at": "2026-06-22T22:02:23+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:19:25+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "9748bf6f",
+      "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 中国网新闻中心",
+      "summary": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七&nbsp;&nbsp;中国网新闻中心在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5cf9a771"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5cf9a771",
+          "source": "Google News (中国)",
+          "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWmNWU3FiR0NFbDlkLTY0eXJHMl9BV2ZyTnJGS0dCWURaWmRqSGdnY2NuTU9odThjV3hObFVwRkNZclJoSVdtby1LUnhMcU15OEVGQU5CVmloVTgyWmFRMnRvZnVYNUdLQ2Jr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T23:19:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T23:19:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d26ecd05",
+      "title": "得州致命撞车事故后 特斯拉反驳针对自动辅助驾驶的相关说法",
+      "summary": "美国得州发生一起致命撞车事故后，围绕特斯拉自动辅助驾驶系统在事故中的状态引发诸多讨论，特斯拉就此作出反驳。目前尚无法确定事发时该系统究竟是激活、被人为超越还是故障，结论需等调查人员梳理完车辆数据日志后得出。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b7315f2b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b7315f2b",
+          "source": "TechCrunch",
+          "title": "得州致命撞车事故后 特斯拉反驳针对自动辅助驾驶的相关说法",
+          "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+          "published_at": "2026-06-22T22:59:57+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T22:59:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7dbb4a1b",
+      "title": "股东就性侵及其他事件起诉优步董事会",
+      "summary": "一家底特律养老基金牵头，股东就多起性侵及其他相关事件起诉优步董事会。原告指控优步董事会及管理层在合规管理中多次偷工减料、未尽职责，该问题已经累计引发了数千起相关诉讼。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "31a9f690"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "31a9f690",
+          "source": "TechCrunch",
+          "title": "股东就性侵及其他事件起诉优步董事会",
+          "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+          "published_at": "2026-06-22T22:43:12+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T22:43:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c7b4f329",
+      "title": "市场综述：科技涨势降温 亚洲股市从纪录高点回落",
+      "summary": "科技股此前的上涨势头遇阻降温，受此拖累，亚洲股市从近期创下的纪录高点回落。当前全球金融市场的投资者正密切关注美伊谈判的后续发展，等待相关形势进一步明朗。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.O0fzqIEYqw/v1/1200x-1.jpg",
+      "article_ids": [
+        "44fffff8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "44fffff8",
+          "source": "Bloomberg",
+          "title": "市场综述：科技涨势降温 亚洲股市从纪录高点回落",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
+          "published_at": "2026-06-22T22:09:42+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T22:09:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76994a26",
+      "title": "特朗普签署全面量子领域行政令",
+      "summary": "本次公开的新闻标题显示，特朗普已签署数项覆盖范围广泛的量子领域相关行政命令，目前仅披露该标题信息，暂未公开更多细节。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0a396c81"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1938,50 +1643,24 @@
       ],
       "articles": [
         {
-          "id": "f6e5cb52",
+          "id": "0a396c81",
           "source": "The Information",
-          "title": "OpenAI的轻量级资产负债表IPO前或面临严格审查",
-          "link": "https://www.theinformation.com/articles/openais-light-balance-sheet-face-hard-look-ipo",
-          "published_at": "2026-06-22T13:00:39+00:00"
+          "title": "特朗普签署全面量子领域行政令",
+          "link": "https://www.theinformation.com/briefings/trump-signs-sweeping-quantum-executive-orders",
+          "published_at": "2026-06-22T22:05:29+00:00"
         }
       ],
-      "published_at": "2026-06-22T13:00:39+00:00",
+      "published_at": "2026-06-22T22:05:29+00:00",
       "is_merged": false
     },
     {
-      "id": "11161a8e",
-      "title": "Wyze新款智能秤 不到80美元即可分析身体成分",
-      "summary": "智能厂商Wyze在推出售价119.98美元的Ultra BodyScan智能秤七个月后，发布了定价仅79.98美元的平价替代款。该款调整配置砍掉40美元成本，取消Wi-Fi，支持蓝牙连接手机App，可同步测量数据至苹果健康与谷歌健身。",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "9e6eb187"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "9e6eb187",
-          "source": "The Verge",
-          "title": "Wyze新款智能秤 不到80美元即可分析身体成分",
-          "link": "https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition",
-          "published_at": "2026-06-22T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3e186a7f",
-      "title": "律师团体称肯尼亚前司法部长被禁止入境乌干达",
-      "summary": "肯尼亚前司法部长玛莎·卡鲁瓦是一名执业律师，目前为遭到拘留的乌干达反对派领袖基扎·贝西杰辩护，贝西杰正因叛国罪接受审判。律师团体证实，卡鲁瓦日前被乌干达方面禁止入境。",
+      "id": "4ae939d7",
+      "title": "发掘惠特妮·休斯顿与布鲁斯·斯普林斯汀的音乐大亨克莱夫·戴维斯去世 享年94岁",
+      "summary": "知名音乐大亨、唱片公司高管克莱夫·戴维斯去世，享年94岁。他发掘打造了惠特妮·休斯顿、布鲁斯·斯普林斯汀等多位知名音乐人，职业生涯还曾与比利·乔尔、平克·弗洛伊德、艾丽西亚·凯斯、空中铁匠等顶尖艺人合作。",
       "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7516/live/0f4da510-6e28-11f1-9fdc-51e252bb92b4.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b756/live/41bbbd80-6e5e-11f1-b1db-af71d47507d6.jpg",
       "article_ids": [
-        "fe149086"
+        "428a5fa3"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -1990,50 +1669,24 @@
       ],
       "articles": [
         {
-          "id": "fe149086",
+          "id": "428a5fa3",
           "source": "BBC World",
-          "title": "律师团体称肯尼亚前司法部长被禁止入境乌干达",
-          "link": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-06-22T12:30:04+00:00"
+          "title": "发掘惠特妮·休斯顿与布鲁斯·斯普林斯汀的音乐大亨克莱夫·戴维斯去世 享年94岁",
+          "link": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-22T22:04:41+00:00"
         }
       ],
-      "published_at": "2026-06-22T12:30:04+00:00",
+      "published_at": "2026-06-22T22:04:41+00:00",
       "is_merged": false
     },
     {
-      "id": "2316b14a",
-      "title": "下载速递：破纪录海底隧道与柔性数据中心",
-      "summary": "这是科技领域工作日通讯《下载速递》的今日刊，每日为读者带来全球科技领域的最新动态，本期涵盖破纪录海底隧道、柔性数据中心两大科技主题，目前已披露记者尼尔·弗思探访世界最深最长海底公路隧道的一线内容。",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "7e4268ec"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "7e4268ec",
-          "source": "MIT Technology Review",
-          "title": "下载速递：破纪录海底隧道与柔性数据中心",
-          "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-          "published_at": "2026-06-22T12:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T12:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "80be17b8",
-      "title": "北京分区发布暴雨蓝色预警、大风蓝色预警，请市民注意防范 多区面临强降雨与大风考验 - 中华网",
-      "summary": "北京多区发布暴雨蓝色预警、大风蓝色预警，当地面临强降雨与大风考验，此前已出现预示强对流天气的乳状云，还观测到直径2厘米的冰雹。目前北京大部分地区降水已减弱，主城区仍有7级左右阵风，端午后首个工作日将有雷阵雨，提醒市民注意防范。",
+      "id": "c0300078",
+      "title": "特朗普称伊朗将同意接受武器核查 - 新华网",
+      "summary": "多家媒体报道，特朗普公开称伊朗将同意接受国际原子能机构的武器核查，美国副总统万斯也表示，伊朗已同意邀请该机构核查人员重返伊朗。不过此前有消息显示，美国早前相关提议曾遭到伊朗方面拒绝。",
       "category": "china",
       "image": null,
       "article_ids": [
-        "278be2cf"
+        "273f7b9f"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -2042,24 +1695,102 @@
       ],
       "articles": [
         {
-          "id": "278be2cf",
+          "id": "273f7b9f",
           "source": "Google News (中国)",
-          "title": "北京分区发布暴雨蓝色预警、大风蓝色预警，请市民注意防范 多区面临强降雨与大风考验 - 中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xUHd3a1pDZjNDdl9BY0pibUZCRkl0bnlQSVU5a3VSU0h1QmhiWDFoT01SM3E2ODduNEk0anFHZ0lMc1hhVkpmc1BiX0Y5OXRUUFZLTmFUbHJmV19rYmtRejBLcHQ2NUtqd1pqRkJ5QTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T11:11:13+00:00"
+          "title": "特朗普称伊朗将同意接受武器核查 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93M1FoMG82NURjNG9aZHl2SXgwQ2xwY2hDNEJLcTg3WWZsYzZHbzV5eV9oU192aWRGLXJhVXhkTUotX2M5cDlHWEsxUHFsM3c0WFFZVFdLQ1B4SS1LUS1tXy0wN0phVW1ycFdnSHd4S2JOY2hkMFZPSzlNcHFUbDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T21:55:29+00:00"
         }
       ],
-      "published_at": "2026-06-22T11:11:13+00:00",
+      "published_at": "2026-06-22T21:55:29+00:00",
       "is_merged": false
     },
     {
-      "id": "1d280e93",
-      "title": "随性编码开发下一款应用前，请先读本文",
-      "summary": "开发者鲍勃·斯塔尔随性编码制作了名为“Boomberg”的网站，用于展示美国税款流向科技企业的情况，完工后立刻上线，他对成品十分满意。直到网站上线数月后，他才发现站点暗藏SQL注入安全风险。",
+      "id": "3d36bb4f",
+      "title": "基尔·斯塔默辞去英国首相一职",
+      "summary": "基尔·斯塔默将于未来几周辞去英国首相一职，他的卸任将为深受民众欢迎的工党籍市长安迪·伯纳姆铺平出任首相的道路，安迪·伯纳姆接任后，将成为英国十年来的第七位首相。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22int-uk-starmer-ledeall-mczf/22int-uk-starmer-ledeall-mczf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "47ea9aa5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "47ea9aa5",
+          "source": "NYTimes World",
+          "title": "基尔·斯塔默辞去英国首相一职",
+          "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
+          "published_at": "2026-06-22T21:31:10+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T21:31:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "74fc755a",
+      "title": "伊朗谈判团队说伊美谈判达成5项要点 - 东方财富",
+      "summary": "多家媒体报道，伊朗与美国在瑞士举行谈判，伊朗谈判团队称双方已达成5项要点，双方就最终协议的路线图取得一致，敲定相关协议文件。此次谈判取得积极进展，但普遍认为伊美最终达成协议仍前路坎坷。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "37ce2c71"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "37ce2c71",
+          "source": "Google News (中国)",
+          "title": "伊朗谈判团队说伊美谈判达成5项要点 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcGp3MWd5alhGcFlLc3lmU2ZuQ2VxS25US3lHd3NYU21VaDMzOVBBelgzSGdLaElkSnFMRzY3cndpRElYaEVCQlhwMDdlSDFpWVhNaThGV3gwTkZOcWtrbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-22T21:12:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T21:12:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d01a396",
+      "title": "Meta在内部数据暴露后暂停员工监控工具",
+      "summary": "Meta在发生内部数据暴露后，现已暂停其所使用的员工监控工具，目前仅公开了这一事项，未披露更多相关的具体内容",
       "category": "tech",
       "image": null,
       "article_ids": [
-        "d9132501"
+        "ab4e9350"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "ab4e9350",
+          "source": "The Information",
+          "title": "Meta在内部数据暴露后暂停员工监控工具",
+          "link": "https://www.theinformation.com/briefings/meta-pauses-employee-monitoring-tool-internal-data-exposure",
+          "published_at": "2026-06-22T21:09:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T21:09:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15a599b4",
+      "title": "Valve透露2026年内存谈判十分残酷",
+      "summary": "Valve推出的Steam主机公布定价，512GB配置售价高达1049美元，2TB版本售价1349美元，目前定价未包含配套控制器，加上控制器后售价还会进一步上涨。价格高企一方面因为Valve不对硬件进行补贴，组件危机也是推高成本的重要原因。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cd23a1d1"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -2068,24 +1799,180 @@
       ],
       "articles": [
         {
-          "id": "d9132501",
+          "id": "cd23a1d1",
           "source": "The Verge",
-          "title": "随性编码开发下一款应用前，请先读本文",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-          "published_at": "2026-06-22T11:00:00+00:00"
+          "title": "Valve透露2026年内存谈判十分残酷",
+          "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+          "published_at": "2026-06-22T21:07:14+00:00"
         }
       ],
-      "published_at": "2026-06-22T11:00:00+00:00",
+      "published_at": "2026-06-22T21:07:14+00:00",
       "is_merged": false
     },
     {
-      "id": "1d280e93",
-      "title": "随性编码开发下一款应用前，请先阅读此文",
-      "summary": "开发者鲍勃·斯塔尔打造了用于展示美国税款流向科技企业情况的“Boomberg”网站，完成后便立即上线，他对自己随性编码完成的作品十分满意。上线数月后他才发现，该网站暗藏可能引发安全问题的SQL注入风险。",
+      "id": "cc14a6f0",
+      "title": "AI界正迈入“循环”模式",
+      "summary": "循环模式推动智能体AI实现升级发展，该模式可授权一群智能体不间断地在后台自主运行，实现无休止的持续作业，这一新进展让人工智能领域开启了全新的循环化运作方向。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f811b25f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f811b25f",
+          "source": "TechCrunch",
+          "title": "AI界正迈入“循环”模式",
+          "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+          "published_at": "2026-06-22T20:53:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:53:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cc14a6f0",
+      "title": "AI世界正进入“循环”模式",
+      "summary": "当前AI领域出现全新的循环工作模式，该模式在现有智能体AI的基础上完成升级，可授权一组智能体在后台持续不间断运行，能够实现无休无止的自主工作，进一步推动了智能体AI的能力发展，拓展了其应用空间。",
       "category": "ai",
       "image": null,
       "article_ids": [
-        "d9132501"
+        "f811b25f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f811b25f",
+          "source": "TechCrunch AI",
+          "title": "AI世界正进入“循环”模式",
+          "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+          "published_at": "2026-06-22T20:53:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:53:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dabffb23",
+      "title": "微软与雪佛龙计划打造美国最大规模气电数据中心项目之一",
+      "summary": "微软已与雪佛龙签署为期20年的购电协议，锁定一座新建天然气发电厂的长期供电，同时确定该项目将产生长达数十年的碳排放，双方计划依托该电厂打造美国规模最大的气电驱动数据中心项目之一。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7d68d4cb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7d68d4cb",
+          "source": "TechCrunch",
+          "title": "微软与雪佛龙计划打造美国最大规模气电数据中心项目之一",
+          "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+          "published_at": "2026-06-22T20:37:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:37:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0290c3f",
+      "title": "AI芯片制造商Groq确认获6.5亿美元融资，英伟达200亿美元收购揽才交易告吹后重组团队",
+      "summary": "AI芯片厂商Groq在英伟达200亿美元收购揽才交易告吹后，并未停止运营。目前Groq已确认完成6.5亿美元融资，正发力新云业务，同时招揽新高管重组团队，推进自身业务发展。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a9ba7814"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a9ba7814",
+          "source": "TechCrunch",
+          "title": "AI芯片制造商Groq确认获6.5亿美元融资，英伟达200亿美元收购揽才交易告吹后重组团队",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "published_at": "2026-06-22T20:13:58+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:13:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0290c3f",
+      "title": "AI芯片制造商Groq证实完成6.5亿美元融资 英伟达200亿美元收购雇才交易告吹后重组团队",
+      "summary": "AI芯片企业Groq与英伟达磋商的200亿美元收购雇才交易最终未达成，目前Groq已完成6.5亿美元融资，正聚焦发展自身新云业务，同时招聘新高管，重组团队推进业务布局。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a9ba7814"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a9ba7814",
+          "source": "TechCrunch AI",
+          "title": "AI芯片制造商Groq证实完成6.5亿美元融资 英伟达200亿美元收购雇才交易告吹后重组团队",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "published_at": "2026-06-22T20:13:58+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:13:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "88b3fe6c",
+      "title": "人工智能用无法实现的房源承诺坑害租房者",
+      "summary": "纽约本地人乔伊斯计划在当地寻找首套单人公寓，她虽清楚找房不易，没料到过程堪称“地狱”。接连看过多套面积狭小、价格虚高的劣质房源后，她才终于在曼哈顿找到一套定价合理、条件合意的理想开间，当前租房市场中不少AI借不实承诺坑害租房群体。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "07c54cec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "07c54cec",
+          "source": "The Verge",
+          "title": "人工智能用无法实现的房源承诺坑害租房者",
+          "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+          "published_at": "2026-06-22T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "88b3fe6c",
+      "title": "AI以无法实现的房源承诺坑害租房者",
+      "summary": "不少租房者正被AI误导，AI常抛出难以获得的优质房源吸引租客。纽约本地人乔伊斯寻找个人首套独居公寓时，本就知晓难度不小，却没料到过程堪称“地狱”，看过大量狭小溢价的劣质房源后，才找到心仪的合理价位曼哈顿开间。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "07c54cec"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -2094,232 +1981,180 @@
       ],
       "articles": [
         {
-          "id": "d9132501",
+          "id": "07c54cec",
           "source": "The Verge AI",
-          "title": "随性编码开发下一款应用前，请先阅读此文",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-          "published_at": "2026-06-22T11:00:00+00:00"
+          "title": "AI以无法实现的房源承诺坑害租房者",
+          "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+          "published_at": "2026-06-22T20:00:00+00:00"
         }
       ],
-      "published_at": "2026-06-22T11:00:00+00:00",
+      "published_at": "2026-06-22T20:00:00+00:00",
       "is_merged": false
     },
     {
-      "id": "c777a47c",
-      "title": "李强将出席第十七届夏季达沃斯论坛 - 共产党新闻网",
-      "summary": "2026年第十七届夏季达沃斯论坛即将启幕，本届论坛围绕创新、绿色、合作的核心方向，设置科技创新、绿色低碳、规模化创新等相关议题。李强将出席本次论坛，李东生也将参会，与全球政商领袖共同研讨相关发展议题。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "4ff19c73"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "4ff19c73",
-          "source": "Google News (中国)",
-          "title": "李强将出席第十七届夏季达沃斯论坛 - 共产党新闻网",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhc1pjVm9YVGNyNmpGZFpSVVhCSVNaMk9YYmdRczI5S0ZhYVBQbjBzSnRoZXBXLU5NUTFVQ2lTRHd5VzdRWEVqbE9wTTFKTF9sNENfV18wX3czUHhUOHRWblBlR2pFQk5uUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T10:39:00+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T10:39:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "63aeb3a1",
-      "title": "校党委常委会传达学习习近平总书记重要回信精神 - nju.edu.cn",
-      "summary": "南京大学召开校党委常委会，传达学习习近平总书记重要回信精神。目前多家媒体推出相关报道，寻访革命时期的“四大队”老党员群体事迹，解读其永不褪色的忠诚品格，引导公众从中领悟坚持党中央集中统一领导的深刻内涵。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "9896c81e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "9896c81e",
-          "source": "Google News (中国)",
-          "title": "校党委常委会传达学习习近平总书记重要回信精神 - nju.edu.cn",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVzBTUmRVMWo1TEwtb3FKaDRkaTh6T0h6NTV6Z1FxaEZCZERIS3JfdGFSOWl5eHVNWXU1Mlp6OTNNWEZtOUFGYWZyTHduYUhOLWU4cUtB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T10:17:48+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T10:17:48+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "29234518",
-      "title": "二战惨案恩怨未解，一次命名惹怒人，波兰乌克兰为何撕破脸？ - 凤凰网",
-      "summary": "因二战历史遗留恩怨引发的命名争议，导致波兰与乌克兰关系彻底撕破脸。乌克兰总统泽连斯基已退还波兰授予的白鹰勋章，有专家指出，当前波乌矛盾已上升至国家安全与地缘战略稳定高度，波兰前总理还公开喊话嘲讽泽连斯基。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "844c89c5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "844c89c5",
-          "source": "Google News (中国)",
-          "title": "二战惨案恩怨未解，一次命名惹怒人，波兰乌克兰为何撕破脸？ - 凤凰网",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZHRHc0RFZkE2YlNwLUhkSlg0bklMalV5RUtkWEEwSzdLb2N2RWFKb0VBaXJETFdPMDV6ZHNDSXBRQldhazgwZDZMc3o?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T10:08:56+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T10:08:56+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0fffc615",
-      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-      "summary": "成立不足三个月的映界科技，由平均年龄24岁的三位麦吉尔大学博士创办，刚获松禾资本与奇绩创坛千万元种子轮投资。团队瞄准具身智能领域空间感知短板，研发软硬一体感知模组，已获多类客户意向，目标打造机器人与世界模型的空间感知基础设施，目前正打磨产品应对工程落地挑战。",
-      "category": "tech",
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_6543cc0f18564c64a0c98fc2a82cae30@5688585_oswg763091oswg1080oswg520_img_000?x-oss-process=image/format,jpg/interlace,1",
-      "article_ids": [
-        "aa7d1b9e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "36氪"
-      ],
-      "articles": [
-        {
-          "id": "aa7d1b9e",
-          "source": "36氪",
-          "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-          "link": "https://36kr.com/p/3864071269569540?f=rss",
-          "published_at": "2026-06-22T10:00:50+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T10:00:50+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "123c7c9a",
-      "title": "屠海鸣：美伊战争硝烟散 中国担当止干戈 - 紫荆网",
-      "summary": "当前美伊局势仍存不确定性，伊朗最高领袖对美伊谅解备忘录持不同意见，伊朗已推迟赴瑞士行程，以军仍驻留黎巴嫩南部。多家媒体围绕美伊关系走向、美伊协议得失、中国在止战促和中的担当等议题展开相关讨论。",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "743bb513"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "743bb513",
-          "source": "Google News (中国)",
-          "title": "屠海鸣：美伊战争硝烟散 中国担当止干戈 - 紫荆网",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk1lejNRWmp1MDMyZGpNMUpVWmV0Z202WWY3Mm9ib2JoSVQ1U0N2Sjk5M0Z5MXdVeWExNmFHWVVRVlFFaUpUQWdZcjFmdlNmT3B1cUg3UDJSblllZThhdUNQVVhOekpxZFYxNUVYbHBkTldJVnRiOEVVXzFVcHFWSDc0d1ZrOUFLSWk1bHZxak5TZlpt?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T08:49:01+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T08:49:01+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "17d1fd3d",
-      "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
-      "summary": "氪星晚报汇总近期全球产业科技动态：赢创计划全球裁员3200人，台积电28nm制程较年初减产25%，三星电子向韩国全体员工开放ChatGPT与Codex；阿里发布升级后的视频生成模型，英国出台稳定币监管框架，2027年起允许合规运营，黄仁勋称中国是全球重要科技产业中心",
+      "id": "d78b9594",
+      "title": "苹果特斯拉主要科技供应商塔塔电子确认数据泄露",
+      "summary": "苹果、特斯拉的主要科技供应商塔塔电子确认发生数据泄露事件。目前塔塔电子正持续扩张，不断扩大自身在全球科技供应链中的角色与业务布局，此次信息安全事件也引发了全球科技行业对供应链信息安全的关注。",
       "category": "tech",
       "image": null,
       "article_ids": [
-        "8336f11a"
+        "0b9c53d1"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "36氪"
+        "TechCrunch"
       ],
       "articles": [
         {
-          "id": "8336f11a",
-          "source": "36氪",
-          "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
-          "link": "https://36kr.com/p/3864065855706120?f=rss",
-          "published_at": "2026-06-22T08:26:13+00:00"
+          "id": "0b9c53d1",
+          "source": "TechCrunch",
+          "title": "苹果特斯拉主要科技供应商塔塔电子确认数据泄露",
+          "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+          "published_at": "2026-06-22T19:25:00+00:00"
         }
       ],
-      "published_at": "2026-06-22T08:26:13+00:00",
+      "published_at": "2026-06-22T19:25:00+00:00",
       "is_merged": false
     },
     {
-      "id": "0e9c6d69",
-      "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 新京报",
-      "summary": "多家权威媒体推出学习阐释习近平党建思想的相关内容，新京报推出“坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七”，新华网、光明网、人民日报、浙江新闻分别从党性锤炼、选人用人、《之江新语》中的党建智慧等角度切入，强调必须把我们党建设好建设强。",
-      "category": "china",
+      "id": "59d1b113",
+      "title": "在用户抗议后AMD恢复消费级CPU的内存加密功能",
+      "summary": "AMD此前取消了消费级CPU的内存加密功能，引发广大用户强烈不满与抗议。批评人士指出，此举是AMD暗中诱导用户选购价格更高芯片的不光彩操作，迫于舆论压力，AMD目前已恢复消费级CPU的内存加密功能。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+      "article_ids": [
+        "0bbae9c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "0bbae9c5",
+          "source": "Ars Technica",
+          "title": "在用户抗议后AMD恢复消费级CPU的内存加密功能",
+          "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+          "published_at": "2026-06-22T19:16:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T19:16:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1d2e4c2",
+      "title": "苹果芯片发现新不可修复漏洞 为iPhone越狱打开大门",
+      "summary": "欧洲进攻型网络安全公司Paradigm Shift公布了苹果芯片这一新漏洞的细节，以及对应的漏洞利用技术。该漏洞无法修复，可被黑客用来解锁、入侵旧款iPhone，同时也为实现iPhone越狱创造了条件。",
+      "category": "tech",
       "image": null,
       "article_ids": [
-        "aea3cf77"
+        "b075fdd3"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "Google News (中国)"
+        "TechCrunch"
       ],
       "articles": [
         {
-          "id": "aea3cf77",
-          "source": "Google News (中国)",
-          "title": "坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 - 新京报",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVVNqczN2T2k4TkhnbU0wR3FfZWVINW1zd3V0VzhWZUhsSF9YVjdfZEc4aDJWamZMdUhDYmQxUUhFaXVkdWctMDN2Vk5lZlh5SnRQRWVOSlcwcjh3dXBJWVp3ME4?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-06-22T08:17:00+00:00"
+          "id": "b075fdd3",
+          "source": "TechCrunch",
+          "title": "苹果芯片发现新不可修复漏洞 为iPhone越狱打开大门",
+          "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+          "published_at": "2026-06-22T18:50:24+00:00"
         }
       ],
-      "published_at": "2026-06-22T08:17:00+00:00",
+      "published_at": "2026-06-22T18:50:24+00:00",
       "is_merged": false
     },
     {
-      "id": "2988425a",
-      "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-      "summary": "36氪WAVES2026新浪潮举办主题为“在没人相信之前”的创业圆桌论坛，邀请跨境支付、AI社群、具身智能等领域的6位突破早期融资门槛的创业者，分享他们在外界质疑中摸索前行、坚持创业的历程，总结创业心得，分享对行业发展的判断。",
-      "category": "tech",
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_7f9fbf357e494a4683af3a1ce47976ac@6381723_oswg3956841oswg3173oswg2115_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
-      "article_ids": [
-        "664c6436"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "36氪"
-      ],
-      "articles": [
-        {
-          "id": "664c6436",
-          "source": "36氪",
-          "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-          "link": "https://36kr.com/p/3864054145209602?f=rss",
-          "published_at": "2026-06-22T08:10:06+00:00"
-        }
-      ],
-      "published_at": "2026-06-22T08:10:06+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0d20b3a6",
-      "title": "探秘世界最深最长海底公路隧道",
-      "summary": "记者进入位于北海海底约300米处的世界最深最长海底公路隧道内部，现场阴冷嘈杂、黑暗潮湿且气味怪异，身处其中能清晰感受到上方数百万吨海水的压力，全程紧绷，丝毫无法放松。",
+      "id": "43a54237",
+      "title": "谷歌深度思维与A24达成合作 押注7500万美元布局好莱坞AI未来",
+      "summary": "谷歌旗下人工智能企业深度思维与知名影视公司A24达成合作，双方将投入7500万美元押注好莱坞人工智能领域，计划共同开发人工智能电影制作工具，探索AI技术在影视创作中的应用。",
       "category": "ai",
       "image": null,
       "article_ids": [
-        "15e05676"
+        "2eba6f3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "2eba6f3a",
+          "source": "TechCrunch AI",
+          "title": "谷歌深度思维与A24达成合作 押注7500万美元布局好莱坞AI未来",
+          "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "published_at": "2026-06-22T18:49:44+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T18:49:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "701d9b30",
+      "title": "苹果Apple Watch SE 3 Prime会员日仅售199美元",
+      "summary": "苹果Apple Watch SE 3在Prime会员日降至199美元的历史最低价，这款去年苹果手表中的黑马产品，相比Series 11与Ultra 3的渐进式小幅更新，进行了多方面升级，此次降价进一步提升了它的性价比。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7c856553"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7c856553",
+          "source": "The Verge",
+          "title": "苹果Apple Watch SE 3 Prime会员日仅售199美元",
+          "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+          "published_at": "2026-06-22T18:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T18:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "434a39a7",
+      "title": "Steam主机开启游戏主机更昂贵的未来",
+      "summary": "受全球内存短缺影响，当前电子游戏几乎各环节成本都在上涨，不仅PC游戏成本随之走高，游戏主机价格持续上调、PC硬件成本飙升，平价掌机的黄金时代也已结束，Steam主机正是游戏主机迈入更昂贵未来的开端。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "411f8cad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "411f8cad",
+          "source": "The Verge",
+          "title": "Steam主机开启游戏主机更昂贵的未来",
+          "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
+          "published_at": "2026-06-22T18:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T18:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad6d98c1",
+      "title": "安特罗匹克与美国政府最新争端中值得关注的三件事",
+      "summary": "该内容最初发布于人工智能领域每周通讯《算法》，针对不少受众尚不了解AI企业安特罗匹克近期与美国政府的最新争端梳理了相关背景，今年4月该企业曾称已开发出名为Mythos的AI模型，同时提炼出此次争端中三大值得关注的核心要点。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e5321e5c"
       ],
       "article_count": 1,
       "source_count": 1,
@@ -2328,66 +2163,196 @@
       ],
       "articles": [
         {
-          "id": "15e05676",
+          "id": "e5321e5c",
           "source": "MIT Technology Review",
-          "title": "探秘世界最深最长海底公路隧道",
-          "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
-          "published_at": "2026-06-22T08:00:00+00:00"
+          "title": "安特罗匹克与美国政府最新争端中值得关注的三件事",
+          "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "published_at": "2026-06-22T18:00:00+00:00"
         }
       ],
-      "published_at": "2026-06-22T08:00:00+00:00",
+      "published_at": "2026-06-22T18:00:00+00:00",
       "is_merged": false
     },
     {
-      "id": "a04509e6",
-      "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-      "summary": "36氪WAVES2026新浪潮主题圆桌讨论落地广州番禺，邀请扎根番禺的探迹科技、浩云科技、一小时科技三家不同领域企业代表，围绕企业发展、番禺营商环境、AI浪潮下的行业变化与未来布局展开交流，展现番禺优质的创新创业产业土壤。",
-      "category": "tech",
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_d3b82164abd244ff8765688ef95cf223@6381723_oswg124211oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "id": "07c0a093",
+      "title": "前狗狗币员工为风投基金Banner VC募集2.25亿美元",
+      "summary": "多名前狗狗币员工完成了总额2.25亿美元的资金募集，本次募集所得资金将用于他们的风险投资基金Banner VC。",
+      "category": "business",
+      "image": null,
       "article_ids": [
-        "6b9b8b81"
+        "90cac904"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "36氪"
+        "The Information"
       ],
       "articles": [
         {
-          "id": "6b9b8b81",
-          "source": "36氪",
-          "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-          "link": "https://36kr.com/p/3864033017549832?f=rss",
-          "published_at": "2026-06-22T07:38:54+00:00"
+          "id": "90cac904",
+          "source": "The Information",
+          "title": "前狗狗币员工为风投基金Banner VC募集2.25亿美元",
+          "link": "https://www.theinformation.com/articles/ex-doge-employees-raise-225-million-venture-fund-banner-vc",
+          "published_at": "2026-06-22T17:50:33+00:00"
         }
       ],
-      "published_at": "2026-06-22T07:38:54+00:00",
+      "published_at": "2026-06-22T17:50:33+00:00",
       "is_merged": false
     },
     {
-      "id": "0f777341",
-      "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-      "summary": "在36氪WAVES2026新浪潮大会上，HORWIN号外品牌创始人兼CEO周维分享品牌发展，品牌深耕高速电摩赛道十年，从要求严苛的欧洲市场起步，打造出全球首个400V高压一体化真电摩平台，连续多年位居欧洲多国高速电摩销量第一，提出成为全球移动出行科技先锋的愿景。",
-      "category": "tech",
-      "image": "https://img.36krcdn.com/hsossms/20260622/v2_6dbc78e1836f4eb8a82bb3f685db34d7@6381723_oswg114923oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "id": "66daa423",
+      "title": "亚马逊在印度测试支持印地语的Alexa+",
+      "summary": "亚马逊计划扩大旗下新款对话式人工智能助手Alexa+在印度的市场布局，目前正邀请印度当地用户参与Alexa+印地语版本的测试，推进这款AI助手适配印度本地语言需求，拓展其在当地的服务覆盖。",
+      "category": "ai",
+      "image": null,
       "article_ids": [
-        "ed95f109"
+        "3bc52c08"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "36氪"
+        "TechCrunch AI"
       ],
       "articles": [
         {
-          "id": "ed95f109",
-          "source": "36氪",
-          "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-          "link": "https://36kr.com/p/3864002982286342?f=rss",
-          "published_at": "2026-06-22T07:08:07+00:00"
+          "id": "3bc52c08",
+          "source": "TechCrunch AI",
+          "title": "亚马逊在印度测试支持印地语的Alexa+",
+          "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+          "published_at": "2026-06-22T17:31:29+00:00"
         }
       ],
-      "published_at": "2026-06-22T07:08:07+00:00",
+      "published_at": "2026-06-22T17:31:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a819150",
+      "title": "谷歌投资A24打造人工智能电影工具",
+      "summary": "谷歌旗下DeepMind人工智能实验室与影视公司A24达成研发合作，将共同开发全新电影制作技术，助力未来电影创作者拓展叙事创作可能性。据《华尔街日报》报道，谷歌为此向A24投资约7500万美元，这是该搜索巨头首次开展此类合作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4a5634bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4a5634bc",
+          "source": "The Verge",
+          "title": "谷歌投资A24打造人工智能电影工具",
+          "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+          "published_at": "2026-06-22T17:18:13+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T17:18:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "015b526b",
+      "title": "Valve正与AMD合作 将FSR 4引入Steam主机",
+      "summary": "有评测指出，Steam主机性能可与PlayStation 5相媲美，但其目前搭载的旧版AMD FSR画质缩放技术效果未达预期，目前Valve正联合AMD推进适配，将为该设备引入最新的FSR 4技术。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4c493551"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4c493551",
+          "source": "The Verge",
+          "title": "Valve正与AMD合作 将FSR 4引入Steam主机",
+          "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+          "published_at": "2026-06-22T17:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T17:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5da4ce8b",
+      "title": "如何预订Steam主机",
+      "summary": "Steam主机现已推出，但其预订流程相对复杂。Valve启用专门的预订系统，旨在保障预订公平，防范机器人恶意抢订，该系统不同于此前Steam Deck的5美元预订模式，今日起用户即可登记预订。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1c219df4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1c219df4",
+          "source": "The Verge",
+          "title": "如何预订Steam主机",
+          "link": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+          "published_at": "2026-06-22T17:07:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T17:07:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e889af51",
+      "title": "Valve终于允许用户自行搭建搭载桌面版SteamOS的Steam主机",
+      "summary": "Valve的Steam主机此前采用预约机制，名额有限，没能抢到预约资格的用户如今可自行搭建Steam主机。Valve宣布从SteamOS 3.8版本起，用户可自选PC配件搭建，上周推出的SteamOS 3.8.10已上线，包含改善兼容性等多项更新。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8932d077"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8932d077",
+          "source": "The Verge",
+          "title": "Valve终于允许用户自行搭建搭载桌面版SteamOS的Steam主机",
+          "link": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+          "published_at": "2026-06-22T17:05:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T17:05:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed36fa5b",
+      "title": "Valve解释为何不为Steam主机提供补贴",
+      "summary": "游戏厂商Valve公布了Steam主机的官方售价，该产品定价偏高，512GB版本起售价为1049美元，2TB版本在此基础上贵300美元，搭配捆绑Steam控制器的配置，每台还需额外支付79美元，Valve也就该产品不提供补贴一事作出解释。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cadddef6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "cadddef6",
+          "source": "The Verge",
+          "title": "Valve解释为何不为Steam主机提供补贴",
+          "link": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+          "published_at": "2026-06-22T17:02:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-22T17:02:00+00:00",
       "is_merged": false
     }
   ]
