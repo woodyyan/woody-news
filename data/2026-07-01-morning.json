@@ -1,0 +1,2411 @@
+{
+  "date": "2026-07-01",
+  "edition": "morning",
+  "updated_at": "2026-07-01T11:32:04.875967+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "579fe9f9",
+      "title": "特朗普取消对Anthropic旗下Mythos与Fable模型的限制",
+      "title_original": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "特朗普解除人工智能企业Anthropic旗下Mythos与Fable两款模型的相关限制后，Anthropic对外公布，将于7月1日起正式开始恢复Fable模型的访问权限，相关调整将有序推进。",
+      "summary_original": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-01T02:16:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "579fe9f9",
+      "title": "特朗普取消对Anthropic的Mythos与Fable模型的限制",
+      "title_original": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "相关限制取消后，人工智能企业Anthropic对外公布，将于7月1日起正式启动旗下Fable人工智能模型的访问权限恢复工作，目前另一款同受限制的Mythos模型的开放安排尚未对外公布。",
+      "summary_original": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-01T02:16:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "287b8c81",
+      "title": "美最高法院推翻特朗普限制“出生公民权”行政令 - 新华网",
+      "title_original": null,
+      "summary": "美国最高法院推翻美国前总统特朗普推出的限制“出生公民权”的行政令，维持对出生公民权的宽泛解读。特朗普的移民政策因此受挫，此次裁决中，特朗普亲手提拔的大法官参与推翻该令，其布局大法官的策略未能奏效，引发舆论关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEJhYVkxaDNsMkc0VXVUbDM0cHdmS0YxUDZSdmNDR3JjWjRzbFZnQnc0cGdkd2JNeTZEbFZ5bFZfM0U3YlJJektmOVN3R1BuNGVYUWxQZ3d4c2FLS3RjeE1mWDM5V1FtcFVXVFlsNzFNbjNja0JBRmFqVmxMSHlKcUo5SkFzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T02:06:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "535fb062",
+      "title": "Wayve发起8500万美元员工要约收购，公司估值达85亿美元",
+      "title_original": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "当前越来越多AI初创企业将员工要约收购作为吸引、留住人才的战略工具，这一趋势正不断发展。AI企业Wayve发起规模8500万美元的员工要约收购，交易对公司估值达85亿美元，该操作正是这一趋势的组成部分。",
+      "summary_original": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-01T02:04:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "535fb062",
+      "title": "Wayve推出8500万美元员工要约收购 估值达85亿美元",
+      "title_original": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "AI初创企业Wayve推出规模8500万美元的员工要约收购，公司整体估值达到85亿美元。当下越来越多AI初创企业将员工要约收购作为战略工具，用以吸引和留住人才，此次操作正是这一增长趋势中的一环。",
+      "summary_original": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-01T02:04:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "93b1d04d",
+      "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+      "title_original": null,
+      "summary": "前安克CMO、中国区总裁王时远亲历硬件出海黄金十年后，于2024年辞职创办穗升科技，瞄准AI原生硬件赛道，推出首款AI Memory可穿戴产品Memoket，目前已在海外开启预售，该产品可结构化管理用户线下信息供AI Agent调用，主打AI辅助个人记忆管理。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_3cd8257ac8da4c6ebe702ec250e8635b@6022551_oswg530099oswg1080oswg568_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3867992509125636?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-01T02:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "90efd3d7",
+      "title": "至高礼遇！礼宾摩托车队护卫“七一勋章”获得者抵达人民大会堂 - 中国科技网",
+      "title_original": null,
+      "summary": "多家主流媒体发布相关报道，我国以至高礼遇安排礼宾摩托车队护卫，护送“七一勋章”获得者乘坐礼宾车抵达人民大会堂。各媒体纷纷向“七一勋章”获得者致敬，点明这枚勋章深刻映照了获得者们始终坚守的初心使命。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQS1k5Z1Y4VW1iWm01NkVGblMzQTRKVlJOaTkxd21wUWFQblVRX1dPTjd1WDk3SUxzY2lwblYyMk94Smh5NmVDdWM0Wm5pclZRZ05xb011Y3k4STFIVWdEYWlnc25oa21wSnVySUxzMnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T01:55:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bbe19fb4",
+      "title": "瑞穗称日元历史性贬值打破利率研判规则",
+      "title_original": "Mizuho Says Historic Slump in Yen Is Defying the Rates Rulebook",
+      "summary": "瑞穗银行表示，日元汇率近期已跌至历史新低，此番打破常规利率规律的历史性贬值，正迫使投资者重新思考他们广泛使用的、用于预判日元汇率走势的核心策略。",
+      "summary_original": "The slump in the yen to historic lows is forcing investors to rethink one of their most widely used strategies to gauge the currency’s moves, according to Mizuho Bank Ltd.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4v.9_TAjVro/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/mizuho-says-historic-slump-in-yen-is-defying-the-rates-rulebook",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:51:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "62bdd75f",
+      "title": "美国与伊朗将在卡塔尔与调解方会面",
+      "title_original": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary": "美国与伊朗官员已抵达作为美伊双方关键调解方的海湾国家卡塔尔。此前新一轮袭击发生，威胁到美伊双方达成持久和平协议的相关努力，此次美伊将在调解方参与下举行会谈。",
+      "summary_original": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30mideast-promo-3-wkpb/30mideast-promo-3-wkpb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-01T01:50:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6443477c",
+      "title": "高盛提示：即便各国重建石油储备 市场仍将供应过剩",
+      "title_original": "Goldman Flags Up Oil Surplus Even as Nations Rebuild Stockpiles",
+      "summary": "高盛集团近日发布最新分析指出，随着伊朗战事的影响逐步消退，霍尔木兹海峡通航恢复正常，尽管当前各国正推进石油储备重建工作，全球石油市场仍将再次回到供应过剩的格局。",
+      "summary_original": "The global oil market is set to swing back into oversupply as the impact of the Iran war fades and traffic through the Strait of Hormuz recovers, according to Goldman Sachs Group Inc.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieoR3sIrm2RU/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/goldman-flags-up-oil-surplus-even-as-nations-rebuild-stockpiles",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:47:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2a09bbd5",
+      "title": "特朗普复任总统首年从加密货币获利超10亿美元",
+      "title_original": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "有消息称，特朗普复任美国总统的第一年，仅加密货币领域就为其带来超过十亿美元的收入。除此之外，他还通过房地产、特朗普主题圣经、手表及其他相关商品，额外获得数百万美元收益。",
+      "summary_original": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-01T01:45:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "30faa835",
+      "title": "第六街、KKR向桥生物制药提供10亿美元优先股股权",
+      "title_original": "Sixth Street, KKR Provide BridgeBio $1 Billion Preferred Equity",
+      "summary": "据知情人士透露，知名投资机构第六街合伙人公司与KKR达成协议，将向生物技术公司桥生物制药提供总额10亿美元的优先股股权，为这家生物科技企业的业务发展提供资金支持。",
+      "summary_original": "Sixth Street Partners and KKR &amp; Co. have agreed to provide $1 billion of preferred equity to biotechnology company BridgeBio Pharma Inc., according to people with knowledge of the matter.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuyHuASVquqA/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/sixth-street-kkr-provide-bridgebio-1-billion-preferred-equity",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:41:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d8e73d92",
+      "title": "看涨人民币升值押注消退 期权交易员转看涨美元",
+      "title_original": "Yuan Rally Bets Fade as Options Traders Turn Bullish on Dollar",
+      "summary": "美联储转向鹰派立场后，期权交易员开始平仓今年全球市场最拥挤的交易之一，此前市场中盛行的看涨人民币升值的押注正持续消退，不少交易员转变多空立场，转而看涨美元。",
+      "summary_original": "Bullish bets on the Chinese yuan are fading, with options traders unwinding one of the year’s most crowded trades after the Federal Reserve’s hawkish pivot.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZJYoFd4wsz0/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/yuan-rally-bets-fade-as-options-traders-turn-bullish-on-dollar",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:25:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "736598e3",
+      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+      "title_original": null,
+      "summary": "苏州大学特聘教授刘瑞远创办的机器人触觉基础设施提供商感知纪元，近日完成松禾资本领投的千万级天使轮融资，融资将用于中试产线搭建、产品升级与团队扩充。该公司主打多模态仿生电子皮肤，目前已获头部企业合作及多家客户千万级采购意向，产品进入场景验证阶段。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260630/v2_d5c3004d998f49cfb70491362bf984ea@6022551_oswg5429140oswg4032oswg3024_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3874358072710407?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-01T01:20:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9e4d74ae",
+      "title": "伊朗战事引发中国石化贸易大幅波动",
+      "title_original": "Iran War Delivers Massive Swings in Chinese Petrochemicals Trade",
+      "summary": "伊朗战事重塑中国石化贸易格局，带来显著变动。中国石化生产企业得以借此扩大出口，缓解用于塑料、橡胶、纺织品生产的核心基础原料产能过剩的问题。",
+      "summary_original": "The war in Iran has rewired China’s petrochemicals trade, allowing plants to ease their glut of the key building blocks for plastics, rubber and textiles by boosting exports.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFwk5ITX_0Z8/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/iran-war-delivers-massive-swings-in-chinese-petrochemicals-trade",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:15:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4e1708cd",
+      "title": "Anthropic称美国取消其先进人工智能工具出口禁令",
+      "title_original": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "人工智能企业Anthropic宣布，美国已取消针对其先进人工智能工具的出口禁令。今年6月，该企业旗下Fable和Mythos两款AI工具因存在被黑客滥用的风险，曾被突然暂停相关服务。",
+      "summary_original": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-01T01:13:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba581321",
+      "title": "菲律宾一教会团体持续抗议 扰乱马尼拉",
+      "title_original": "Philippine Church Group Continues Protests, Disrupting Manila",
+      "summary": "周三，菲律宾一个颇具影响力的宗教团体连续第二天举行抗议活动，声援与该国副总统萨拉·杜特尔特结盟的一名参议员，此次抗议活动再次造成马尼拉主干道交通拥堵。",
+      "summary_original": "An influential religious group continued its protest for a second day on Wednesday in support of a senator allied with Vice President Sara Duterte, again slowing traffic in Manila’s main highway.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1ByRUdt770w/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/philippine-church-group-holds-second-day-of-protests-disrupting-manila",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:02:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "de9b97d7",
+      "title": "赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发",
+      "title_original": null,
+      "summary": "4人AI创业团队MobAI获港股上市公司赤子城科技独家数百万元天使轮融资。该团队推出面向北美18-24岁年轻女性的AI互动叙事平台Lunaverse Stories，目前产品已进入邀请制测试阶段，团队同时布局创作者AI内容工具，正对接下一轮融资。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260630/v2_7819571e16fe4c0db87a1f6af5e67446@242988687_oswg971277oswg1080oswg709_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3875622047805447?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-01T01:00:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "61af70e1",
+      "title": "科塔克重夺印度股权资本市场头名 大型交易蓄势待发",
+      "title_original": "Kotak Reclaims India ECM Lead With Mega Deals on Horizon",
+      "summary": "科塔克马恒达资本公司重夺今年上半年印度股权资本市场排行榜榜首位置。目前印度有史以来规模最大的一批首次公开募股正在筹备当中，该公司有望在今年占据印度股权资本市场的主导地位。",
+      "summary_original": "Kotak Mahindra Capital Co. reclaimed the top spot in India’s equity capital markets league table for the first half of the year, putting it in position to dominate a year with the country’s largest-ever initial public offerings in the pipeline.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFPwDcv1zRwQ/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/kotak-reclaims-india-ecm-lead-with-mega-deals-on-horizon",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-01T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eede8f15",
+      "title": "中国共产党党内统计公报 - 共产党新闻网",
+      "title_original": null,
+      "summary": "中国共产党党内统计公报公布最新数据，中国共产党党员总数达10128.6万名，基层党组织共543.1万个。数据显示党员队伍稳步壮大，党的组织体系日趋严密，这一数据被称为中国共产党的硬核“家底”，多家主流媒体对此进行了报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NGhhcENwWDE3UDNMWENsc1YwRm1NNU1rY1A0a0cycTlZTlItenByM3pMbllVU25Eel9LV3pHNXFwY2hGY0lFNDY3UEJoYTVoNTVYR1ozdmZaV1BYbllmOE5xQXY2eHVoVEhv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T00:55:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3f1e2b9d",
+      "title": "Meta将为旗下智能眼镜增设离谱使用限额与软性付费墙",
+      "title_original": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+      "summary": "Meta近日悄然宣布新规，已售出的旗下智能眼镜搭载的对话聚焦功能，每月免费使用时长仅为3小时，用户若要超出时长使用该功能，需每月支付19.99美元订阅Meta One Premium服务，相当于向已购硬件用户设置软性付费墙，额外收取AI功能使用费。",
+      "summary_original": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-01T00:51:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dfbb65d1",
+      "title": "地铁6号线通运门站台采用快慢线布局 - 人民网",
+      "title_original": null,
+      "summary": "6月30日首班车起，北京地铁6号线通运门站正式开通运营，该站点历经12年等待终于建成投用，车站采用快慢线运行布局，共设置四个站台，这一城市轨道交通新站点投用的消息，受到多家媒体的关注报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdndXYTBiak5sd1Y3U3NTMXJZRS10ZlZ5LWR3dmV3X2tYV0lwTnNzWHhkRTFQU0pOcVB4M2l6OHpzQUV1RXN1akVRT25XcWFKenRKMVlDZHZmcDlnVDFXZllkaXV4VVFi?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T00:36:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "df110869",
+      "title": "福建举办迎接中国共产党成立105周年音乐会 - 央广网",
+      "title_original": null,
+      "summary": "近期，全国多省市举办迎接中国共产党成立105周年主题音乐会，福建、内蒙古、吉林、北京先后推出相关活动，其中内蒙古推出《永恒的旗帜》专场音乐会，吉林举办交响音乐会，各界以音乐为载体，抒发爱党情怀，献礼党的生日。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uTm1oR01xVFp3V0Jja0tkVVFOLWRpekgzZGphVXhGVGJTdmMxZjhvNWNwWjNMaUFDd0EyZ01XWEJWUW5MV2xHR1dUd0RuTnFmSElMc25rV1V6OGxUa1RubGhITDB0WlBreFZ4X3M5emg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T00:26:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31e3bec3",
+      "title": "中国纪检监察报编辑部文章 风华正茂勇向前——写在中国共产党成立105周年之际 - 重庆市纪委监委",
+      "title_original": null,
+      "summary": "在中国共产党成立105周年之际，中国纪检监察报刊发编辑部文章《风华正茂勇向前》，重庆市纪委监委推出相关专题庆祝报道，江西日报发布相关社论，凤凰网、光明网、中国青年网等多家平台也从党建、信仰、初心等维度推出相关内容，共庆建党105周年。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0MyLUZxYldSTmFQQXlrdmJ1RW9fVE1BeHN2cl9SYWdZZ0JmSjBHT1huV0U0WTdkaHdTUVRienFxWUFkU3MxZmxCZU9FN1BueHpJRFdYODU4SUo5UE1lYUp4cElYbkdFOEpqdm1PZzhWMGVtbUw1TElmcVk5cnp3c1d0OTlPTmFQaHc0SUluek1xVDJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-01T00:26:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b13e4677",
+      "title": "长期搁置的Anthropic Fable 5获准恢复上线",
+      "title_original": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "经过与特朗普政府数周谈判，人工智能企业Anthropic终于获准恢复Claude Fable 5上线。该企业在社交平台X发文称，计划明日起恢复相关服务的访问权限，目前美国商务部已解除对Claude Fable 5与Mythos的出口管制。",
+      "summary_original": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b13e4677",
+      "title": "Anthropic长期搁置的Fable 5获批恢复上线",
+      "title_original": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "Anthropic经过与美国特朗普政府数周谈判，最终获准恢复Claude Fable 5上线。该公司在社交平台X发文称，计划明日开始恢复相关访问，美国商务部已解除对Claude Fable 5及Mythos的出口管制。",
+      "summary_original": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a0fe7683",
+      "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+      "title_original": null,
+      "summary": "7月1日，被称为“史上最严电池安全令”的两项电动汽车安全强制性国家标准正式施行。苹果印度代工厂遭窃，含未发布iPhone 18 Pro在内的大量机密流入暗网；OpenAI首款联名硬件曝光；寒武纪成科创板首个万亿市值公司，Kimi估值升至315亿美元，多领域多个科技财经热点集中发布。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3876318522077442?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-30T23:55:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ded6dade",
+      "title": "局势升级 阿富汗塔利班在巴阿边境发动袭击",
+      "title_original": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary": "当前阿富汗与巴基斯坦边境局势升级，阿富汗塔利班在边境发动袭击。巴基斯坦军方称，巴方已击落四架简易无人机，同时明确表示将对任何后续的挑衅行为作出回应。",
+      "summary_original": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T23:49:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c75cb1e0",
+      "title": "一架飞机撞上北京一塔楼 中方未披露事件详情",
+      "title_original": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "summary": "一架飞机撞上北京的一座塔楼，此次碰撞事故造成塔楼侧面出现破洞，相关方面已清理掉该事件留下的其他可见痕迹，目前尚未对外公开披露这一事件的具体发生经过与相关细节。",
+      "summary_original": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee9/live/f266eb80-7446-11f1-b2c7-5138402a5536.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T23:24:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4eeb21f5",
+      "title": "“导弹我操作，我听党指挥” - 中国军网",
+      "title_original": null,
+      "summary": "在战略导弹部队组建60周年之际，人民日报、新华社、中国军网、新京报等多家主流媒体，推出相关报道与火箭军党委署名文章，围绕党旗领航奋斗强军的主题，展现火箭军始终听党指挥，锻造大国长剑，履行使命的忠诚担当与发展新荣光。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vTXQwY1Eyal9meG5LNUhjdElRcFZuRkF4dzVjQmFjaWh2bXp2LW1xeGVfb1E1NXp6Mm9CNElya3BJNzNPUTJkNmZvSW41dDJqQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-30T23:09:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b17d1b8a",
+      "title": "澳大利亚创业竞技场申请不日截止 请于7月6日前提交申请",
+      "title_original": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "summary": "澳大利亚创业竞技场项目申请将于7月6日截止，主办方发起报名呼吁，称一次项目推介就有可能彻底改变企业发展走向，欢迎正在打造重要项目、暂未获得广泛关注的创业团队参与，你的项目也拥有角逐机会。",
+      "summary_original": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T23:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ed7e050f",
+      "title": "迪什申请破产 但不会停止运营",
+      "title_original": "Dish files for bankruptcy, but not shutting down",
+      "summary": "运营Dish TV与Sling TV的企业迪什，已申请美国破产法第11章破产保护，路透社此前已报道此事。该公司隶属于回声星集团，因向AT&T出售价值230亿美元5G频谱遭遇意外延误，申请破产后将仅逐步关停无线业务，不会整体停摆。",
+      "summary_original": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spectrum to AT&#38;T. Dish TV, Sling [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-30T22:46:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b874fcf9",
+      "title": "美最高法院既重创特朗普，又扩张其权力",
+      "title_original": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "summary": "美国最高法院本届任期随着出生权相关裁决正式落下帷幕。本届任期内，最高法院既对特朗普造成多次重大挫败，同时也为他带来多项关键执政胜利，整体上扩张了特朗普的总统权力。",
+      "summary_original": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1a/live/16f1e680-74c4-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T22:29:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "733e1739",
+      "title": "市场综述：亚洲股市两日上涨后回落 日元持稳",
+      "title_original": "Asian Stocks Slip After Two-Day Rally, Yen Steady: Markets Wrap",
+      "summary": "亚洲股指小幅走低，此前受芯片制造商及其他科技股上涨拉动，亚洲股市已实现连续两日上涨，且刚刚创下17年来最佳单季度表现。当前投资者情绪转向谨慎，日元汇率整体保持平稳。",
+      "summary_original": "Asian equities edged lower as investors turned cautious after a rally in chipmakers and other tech stocks helped propel them to their best quarter in 17 years.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNgt.qpykH4I/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-30T22:09:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f5aa05e6",
+      "title": "美伊和谈持续霍尔木兹航运恢复 国际油价企稳",
+      "title_original": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
+      "summary": "国际油价在经历新冠疫情以来最大单季度跌幅后逐步企稳，当前原油交易者正密切关注美伊和谈进展，以及霍尔木兹海峡恢复通航后的航运动向，两大因素共同带动油价趋稳。",
+      "summary_original": "Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNt61oeJuOmw/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-30T22:04:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "be61e7a5",
+      "title": "OpenClaw终于登陆安卓与iOS平台",
+      "title_original": "OpenClaw is finally available on Android and iOS",
+      "summary": "免费开源的智能代理程序OpenClaw现已正式登陆移动端，同步支持安卓与iOS两大主流手机操作系统，这款开源程序此前仅可在其他设备端使用，如今手机用户可直接在移动设备上体验这一完全免费的服务。",
+      "summary_original": "The free open source agentic program is finally invading your phone.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T21:53:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "be61e7a5",
+      "title": "OpenClaw终于登陆安卓与iOS平台",
+      "title_original": "OpenClaw is finally available on Android and iOS",
+      "summary": "免费开源智能程序OpenClaw现已正式登陆安卓与iOS移动端平台，面向手机用户开放使用。作为完全免费的开源项目，此次推出移动版本后，手机用户无需额外适配，就可直接下载体验这款智能程序的相关功能。",
+      "summary_original": "The free open source agentic program is finally invading your phone.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-30T21:53:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "78c50124",
+      "title": "Claude Science是Anthropic最新旗舰产品",
+      "title_original": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "周二，Anthropic在面向制药企业高管、生物科技创始人及科研人员的活动上，发布全新旗舰产品Claude Science。该产品旨在为科学研究提供支持，功能类似赋能软件工程的Claude Code，可依据简明高层指令自主完成有效科研工作。",
+      "summary_original": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-30T21:50:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "74b1a4d9",
+      "title": "美国铝业押注铝业繁荣 56亿美元收购South32资产",
+      "title_original": "Alcoa Bets on Aluminum Boom With $5.6 Billion South32 Deal",
+      "summary": "美国铝业公司已同意以最高56亿美元收购South32的铝土矿、氧化铝及铝资产。当前铝业长期需求走强，伊朗局势引发供应担忧，该交易将巩固美国铝业作为顶级铝生产商的市场地位。",
+      "summary_original": "Alcoa Corp. has agreed to buy South32 Ltd.’s bauxite, alumina and aluminum assets in a deal worth as much as $5.6 billion, cementing its position as a top producer as long-term demand strengthens and the Iran war exposes supply concerns.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLh9H_pyYQoQ/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-30T21:44:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d3acdad1",
+      "title": "委内瑞拉地震六天后一名三岁儿童获救送医",
+      "title_original": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "summary": "委内瑞拉发生地震六天后，该国拉瓜伊拉州一名三岁儿童从地震废墟中被救出，随即被送往医院救治。现场视频显示，当这名儿童被救援人员成功拉出废墟时，在场救援人员纷纷欢呼庆祝这次救援成功。",
+      "summary_original": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9778/live/5b9c0de0-74c1-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T21:30:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a38488a",
+      "title": "美国最高法院维持禁止跨性别运动员参加女子校园及大学体育赛事的禁令",
+      "title_original": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "summary": "美国最高法院就跨性别运动员参赛问题作出裁决，维持禁止跨性别运动员参加女子校园及大学体育赛事的相关禁令。裁决出炉后引发两极反应，特朗普称这是“重大胜利”，一家LGBT组织则表示这一结果“令人心碎”。",
+      "summary_original": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f65/live/01134b50-74cf-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T21:24:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1ed78531",
+      "title": "亚马逊因未协助身份盗窃受害者被罚225万美元",
+      "title_original": "Amazon fined $2.25 million for failing to help identity theft victims",
+      "summary": "彭博社早前报道，美国联邦贸易委员会对亚马逊处以225万美元罚款，以了结针对亚马逊未协助身份盗窃受害者的相关指控。联邦贸易委员会投诉称，亚马逊拒绝向受害者提供欺诈账户的购物信息，违反了公平信用相关规定。",
+      "summary_original": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-30T21:20:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a7fc7fb",
+      "title": "世界杯失利主导德国新闻 盖过大规模枪击案",
+      "title_original": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "summary": "德国北部此前发生一起造成人员伤亡的致命袭击事件，就在袭击发生一天后，德国新闻媒体的关注焦点大幅转移，绝大多数报道资源与公众注意力都转向了德国队在世界杯赛场上的糟糕表现，大规模枪击事件反而被挤到边缘。",
+      "summary_original": "A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-Germany-shooting-kwmc/30int-Germany-shooting-kwmc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-30T21:01:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fbba7262",
+      "title": "基辅毕业舞会如期举办，玛莎的舞伴独自起舞",
+      "title_original": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
+      "summary": "基辅举办毕业舞会，15岁的玛莎·波尔斯卡是一名热爱舞蹈的女孩，一直梦想能在舞会的集体华尔兹中留下亮眼表现，可她最终没能如愿到场，原本要和她搭档的舞伴只能独自完成舞蹈。",
+      "summary_original": "Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be.",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/30int-ukraine-prom-hfmw/30int-ukraine-prom-hfmw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-30T20:50:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "db04ba7c",
+      "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+      "title_original": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "三名曾打造扑克AI的前DeepMind研究员，在布拉格创立了AI实验室EquiLibre Technologies，该团队目前为量化对冲基金创造收益，这家AI创业公司当前估值已超过5亿美元。",
+      "summary_original": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T20:33:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "db04ba7c",
+      "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+      "title_original": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "三名曾打造扑克AI的前DeepMind研究员，在布拉格成立了AI实验室EquiLibre Technologies，目前该机构估值已超过5亿美元，这支团队如今为量化对冲基金赚取收益，展开AI商业化新布局。",
+      "summary_original": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-30T20:33:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fdfe2700",
+      "title": "新型攻击给出AI浏览器不可取的又一理由",
+      "title_original": "New attack provides one more reason why AI browsers are a bad idea",
+      "summary": "近期发现一种新型AI攻击手段，只需向大语言模型输入“2+2=5”这类简单的错误引导信息，就能绕过安全限制，令其执行原本被禁止的指令。这一发现，为AI浏览器存在安全隐患、并非合理选择再添新依据。",
+      "summary_original": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-06-30T20:03:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7e504eb3",
+      "title": "宏碁Swift Go 16：九百美元价位物超所值",
+      "title_original": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
+      "summary": "受内存、存储价格上涨影响，各类电子产品涨价，如今想要在千美元以内找到一款合格的笔记本已颇具难度。宏碁Swift Go 16 AI目前在百思买仅售899.99美元，较1549.99美元的日常售价有大幅折扣，配置齐全。",
+      "summary_original": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list price of $1,549.99. The well-equipped [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-30T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea16fc3f",
+      "title": "救援设备短缺阻碍委内瑞拉地震救援工作",
+      "title_original": "Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response",
+      "summary": "委内瑞拉地震救援工作因救援设备短缺受阻，目前已有普通民众主动参与支援，为在废墟中开展作业的救援队伍提供物资补给，民众同时发出呼吁，希望获得挖掘机、发电机以及各类专业救援工具，保障救援作业顺利推进。",
+      "summary_original": "Residents appealed for excavators, generators and specialized rescue tools as civilians have stepped in to supply crews working through the rubble.",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-venezuela-machinery-fhkz/30int-venezuela-machinery-fhkz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-30T19:58:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "03b81d43",
+      "title": "被隐藏的死者：委内瑞拉真实死亡人数埋于废墟之下",
+      "title_original": "The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble",
+      "summary": "委内瑞拉遭遇破坏性双地震袭击，多片居民区被完全夷为平地。地震发生五天后，该国官方公布死亡人数为1719人，不过专家指出，这一数据存在严重低估，此次地震的实际死亡人数远高于官方公布的数字。",
+      "summary_original": "Five days after devastating twin earthquakes flattened entire residential neighborhoods, experts fear the official death toll of 1,719 could be a serious undercount.",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-30T19:38:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "74f43958",
+      "title": "巴基斯坦一补习中心屋顶坍塌致14名儿童死亡",
+      "title_original": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "summary": "巴基斯坦拉合尔市卡纳郊区的一间补习中心发生屋顶坍塌事故，本次事故已造成14名儿童不幸身亡。事发后当地相关部门迅速介入开展处置工作，目前已有两名涉事人员被警方拘留调查。",
+      "summary_original": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b45/live/03a1b7d0-74a2-11f1-b1a9-bd204fe03b95.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T19:36:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e69b2b44",
+      "title": "美伊交战后 据称阿曼提出霍尔木兹海峡收费计划",
+      "title_original": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "summary": "美伊交战后，据了解相关事宜的官员及外交官透露，阿曼提出一项霍尔木兹海峡通行收费计划，按照该计划，伊朗与阿曼将共同向途经该海峡的船舶收取通行费用。",
+      "summary_original": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-30T19:33:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ee6c5066",
+      "title": "谷歌NotebookLM可将研究内容总结为TikTok风格短片",
+      "title_original": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "谷歌为旗下工具NotebookLM新增TikTok风格AI视频功能，目前该功能仅向谷歌AI Ultra与Pro订阅用户开放，可基于用户上传到应用的资料，生成60秒的竖屏AI片段，帮助用户快速梳理笔记、总结研究内容。",
+      "summary_original": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ee6c5066",
+      "title": "谷歌NotebookLM可将你的研究内容总结为TikTok风格短片",
+      "title_original": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "谷歌为笔记工具NotebookLM新增TikTok风格AI短视频功能，该功能目前已向谷歌AI Ultra与Pro订阅用户开放，可根据用户上传到应用的素材，生成60秒竖版AI短片，帮助用户快速梳理笔记与研究内容，谷歌已公开相关功能示例。",
+      "summary_original": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5d0ebe24",
+      "title": "Realta Fusion实现聚变反应直接发电 尚属全球首例",
+      "title_original": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "summary": "Realta Fusion联合创始人兼首席执行官基兰·福隆向科技媒体TechCrunch透露，该公司已可从等离子体中获取电能。此次直接从聚变反应发电是里程碑成果，证明该技术路线具备可行性，这目前尚属全球首例。",
+      "summary_original": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T19:12:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9e47277c",
+      "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+      "title_original": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "谷歌更新旗下AI图像生成工具，推出速度更快、成本更低的全新图像生成器Nano Banana 2 Lite。这款新品性能更优，能够更好适配创作者需求，为想要制作AI内容的创作者提供了更为实用的创作工具。",
+      "summary_original": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T19:02:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9e47277c",
+      "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+      "title_original": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "谷歌更新旗下AI图像生成工具，推出速度更快、生成成本更低的Nano Banana 2 Lite。这款经过优化的工具实用性更强，能更好适配创作者制作AI内容的需求，为AI内容创作提供更实用的工具选择。",
+      "summary_original": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-30T19:02:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "efabbbd2",
+      "title": "LG 27英寸串联OLED游戏显示器售价创历史新低",
+      "title_original": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+      "summary": "去年8月推出的LG UltraGear 27GX700A-B 1440p游戏显示器，目前售价已降至接近历史最低水平。该显示器亚马逊售价484.99美元，LG官网售价499.99美元，原价为599.99美元，它搭载LG第四代WOLED原生RGB串联面板。",
+      "summary_original": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is one of LG’s Primary RGB Tandem panels built with fourth-generation WOLED [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-30T18:42:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4caf20e6",
+      "title": "美日士兵在澳大利亚内陆丛林做什么？",
+      "title_original": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "summary": "美日士兵出现在澳大利亚偏远的内陆丛林地区，该区域距离全球各主要冲突点达数千公里。英国广播公司（BBC）记者凯蒂·沃特森就美日两国军队在此开展训练的原因作出了解读说明。",
+      "summary_original": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c44/live/e0849d80-744c-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-30T18:37:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f1f88140",
+      "title": "Clicks全新上手视频展示黑莓风格新机",
+      "title_original": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+      "summary": "最新一则上手视频展示了即将推出的Clicks Communicator智能手机的最终量产版本。该机型为黑莓风格设计，既延续了黑莓产品的特征，又可支持运行各类现代应用，能满足喜爱黑莓设计用户的使用需求。",
+      "summary_original": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-30T18:34:22+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "a8162a08",
+      "title": "特朗普取消对Anthropic旗下Mythos与Fable模型的限制",
+      "summary": "特朗普解除人工智能企业Anthropic旗下Mythos与Fable两款模型的相关限制后，Anthropic对外公布，将于7月1日起正式开始恢复Fable模型的访问权限，相关调整将有序推进。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "579fe9f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "579fe9f9",
+          "source": "TechCrunch",
+          "title": "特朗普取消对Anthropic旗下Mythos与Fable模型的限制",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "published_at": "2026-07-01T02:16:06+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:16:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a8162a08",
+      "title": "特朗普取消对Anthropic的Mythos与Fable模型的限制",
+      "summary": "相关限制取消后，人工智能企业Anthropic对外公布，将于7月1日起正式启动旗下Fable人工智能模型的访问权限恢复工作，目前另一款同受限制的Mythos模型的开放安排尚未对外公布。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "579fe9f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "579fe9f9",
+          "source": "TechCrunch AI",
+          "title": "特朗普取消对Anthropic的Mythos与Fable模型的限制",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "published_at": "2026-07-01T02:16:06+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:16:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9bf82e2e",
+      "title": "美最高法院推翻特朗普限制“出生公民权”行政令 - 新华网",
+      "summary": "美国最高法院推翻美国前总统特朗普推出的限制“出生公民权”的行政令，维持对出生公民权的宽泛解读。特朗普的移民政策因此受挫，此次裁决中，特朗普亲手提拔的大法官参与推翻该令，其布局大法官的策略未能奏效，引发舆论关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "287b8c81"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "287b8c81",
+          "source": "Google News (中国)",
+          "title": "美最高法院推翻特朗普限制“出生公民权”行政令 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEJhYVkxaDNsMkc0VXVUbDM0cHdmS0YxUDZSdmNDR3JjWjRzbFZnQnc0cGdkd2JNeTZEbFZ5bFZfM0U3YlJJektmOVN3R1BuNGVYUWxQZ3d4c2FLS3RjeE1mWDM5V1FtcFVXVFlsNzFNbjNja0JBRmFqVmxMSHlKcUo5SkFzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T02:06:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:06:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f678c371",
+      "title": "Wayve发起8500万美元员工要约收购，公司估值达85亿美元",
+      "summary": "当前越来越多AI初创企业将员工要约收购作为吸引、留住人才的战略工具，这一趋势正不断发展。AI企业Wayve发起规模8500万美元的员工要约收购，交易对公司估值达85亿美元，该操作正是这一趋势的组成部分。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "535fb062"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "535fb062",
+          "source": "TechCrunch",
+          "title": "Wayve发起8500万美元员工要约收购，公司估值达85亿美元",
+          "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "published_at": "2026-07-01T02:04:40+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:04:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f678c371",
+      "title": "Wayve推出8500万美元员工要约收购 估值达85亿美元",
+      "summary": "AI初创企业Wayve推出规模8500万美元的员工要约收购，公司整体估值达到85亿美元。当下越来越多AI初创企业将员工要约收购作为战略工具，用以吸引和留住人才，此次操作正是这一增长趋势中的一环。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "535fb062"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "535fb062",
+          "source": "TechCrunch AI",
+          "title": "Wayve推出8500万美元员工要约收购 估值达85亿美元",
+          "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "published_at": "2026-07-01T02:04:40+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:04:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "94002a26",
+      "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+      "summary": "前安克CMO、中国区总裁王时远亲历硬件出海黄金十年后，于2024年辞职创办穗升科技，瞄准AI原生硬件赛道，推出首款AI Memory可穿戴产品Memoket，目前已在海外开启预售，该产品可结构化管理用户线下信息供AI Agent调用，主打AI辅助个人记忆管理。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260626/v2_3cd8257ac8da4c6ebe702ec250e8635b@6022551_oswg530099oswg1080oswg568_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "93b1d04d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "93b1d04d",
+          "source": "36氪",
+          "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+          "link": "https://36kr.com/p/3867992509125636?f=rss",
+          "published_at": "2026-07-01T02:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T02:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9de5cfba",
+      "title": "至高礼遇！礼宾摩托车队护卫“七一勋章”获得者抵达人民大会堂 - 中国科技网",
+      "summary": "多家主流媒体发布相关报道，我国以至高礼遇安排礼宾摩托车队护卫，护送“七一勋章”获得者乘坐礼宾车抵达人民大会堂。各媒体纷纷向“七一勋章”获得者致敬，点明这枚勋章深刻映照了获得者们始终坚守的初心使命。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "90efd3d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "90efd3d7",
+          "source": "Google News (中国)",
+          "title": "至高礼遇！礼宾摩托车队护卫“七一勋章”获得者抵达人民大会堂 - 中国科技网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQS1k5Z1Y4VW1iWm01NkVGblMzQTRKVlJOaTkxd21wUWFQblVRX1dPTjd1WDk3SUxzY2lwblYyMk94Smh5NmVDdWM0Wm5pclZRZ05xb011Y3k4STFIVWdEYWlnc25oa21wSnVySUxzMnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T01:55:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:55:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ab8d0ebf",
+      "title": "瑞穗称日元历史性贬值打破利率研判规则",
+      "summary": "瑞穗银行表示，日元汇率近期已跌至历史新低，此番打破常规利率规律的历史性贬值，正迫使投资者重新思考他们广泛使用的、用于预判日元汇率走势的核心策略。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4v.9_TAjVro/v3/1200x-1.png",
+      "article_ids": [
+        "bbe19fb4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bbe19fb4",
+          "source": "Bloomberg",
+          "title": "瑞穗称日元历史性贬值打破利率研判规则",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/mizuho-says-historic-slump-in-yen-is-defying-the-rates-rulebook",
+          "published_at": "2026-07-01T01:51:19+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:51:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67a723c4",
+      "title": "美国与伊朗将在卡塔尔与调解方会面",
+      "summary": "美国与伊朗官员已抵达作为美伊双方关键调解方的海湾国家卡塔尔。此前新一轮袭击发生，威胁到美伊双方达成持久和平协议的相关努力，此次美伊将在调解方参与下举行会谈。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30mideast-promo-3-wkpb/30mideast-promo-3-wkpb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "62bdd75f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "62bdd75f",
+          "source": "NYTimes World",
+          "title": "美国与伊朗将在卡塔尔与调解方会面",
+          "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+          "published_at": "2026-07-01T01:50:44+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:50:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da369f0c",
+      "title": "高盛提示：即便各国重建石油储备 市场仍将供应过剩",
+      "summary": "高盛集团近日发布最新分析指出，随着伊朗战事的影响逐步消退，霍尔木兹海峡通航恢复正常，尽管当前各国正推进石油储备重建工作，全球石油市场仍将再次回到供应过剩的格局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieoR3sIrm2RU/v0/1200x-1.jpg",
+      "article_ids": [
+        "6443477c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "6443477c",
+          "source": "Bloomberg",
+          "title": "高盛提示：即便各国重建石油储备 市场仍将供应过剩",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/goldman-flags-up-oil-surplus-even-as-nations-rebuild-stockpiles",
+          "published_at": "2026-07-01T01:47:23+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:47:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8feea897",
+      "title": "特朗普复任总统首年从加密货币获利超10亿美元",
+      "summary": "有消息称，特朗普复任美国总统的第一年，仅加密货币领域就为其带来超过十亿美元的收入。除此之外，他还通过房地产、特朗普主题圣经、手表及其他相关商品，额外获得数百万美元收益。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
+      "article_ids": [
+        "2a09bbd5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2a09bbd5",
+          "source": "BBC World",
+          "title": "特朗普复任总统首年从加密货币获利超10亿美元",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-01T01:45:58+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:45:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "58a12564",
+      "title": "第六街、KKR向桥生物制药提供10亿美元优先股股权",
+      "summary": "据知情人士透露，知名投资机构第六街合伙人公司与KKR达成协议，将向生物技术公司桥生物制药提供总额10亿美元的优先股股权，为这家生物科技企业的业务发展提供资金支持。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuyHuASVquqA/v0/1200x-1.jpg",
+      "article_ids": [
+        "30faa835"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "30faa835",
+          "source": "Bloomberg",
+          "title": "第六街、KKR向桥生物制药提供10亿美元优先股股权",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/sixth-street-kkr-provide-bridgebio-1-billion-preferred-equity",
+          "published_at": "2026-07-01T01:41:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:41:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9303e06",
+      "title": "看涨人民币升值押注消退 期权交易员转看涨美元",
+      "summary": "美联储转向鹰派立场后，期权交易员开始平仓今年全球市场最拥挤的交易之一，此前市场中盛行的看涨人民币升值的押注正持续消退，不少交易员转变多空立场，转而看涨美元。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZJYoFd4wsz0/v0/1200x-1.jpg",
+      "article_ids": [
+        "d8e73d92"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d8e73d92",
+          "source": "Bloomberg",
+          "title": "看涨人民币升值押注消退 期权交易员转看涨美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/yuan-rally-bets-fade-as-options-traders-turn-bullish-on-dollar",
+          "published_at": "2026-07-01T01:25:17+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:25:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "558d866c",
+      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+      "summary": "苏州大学特聘教授刘瑞远创办的机器人触觉基础设施提供商感知纪元，近日完成松禾资本领投的千万级天使轮融资，融资将用于中试产线搭建、产品升级与团队扩充。该公司主打多模态仿生电子皮肤，目前已获头部企业合作及多家客户千万级采购意向，产品进入场景验证阶段。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260630/v2_d5c3004d998f49cfb70491362bf984ea@6022551_oswg5429140oswg4032oswg3024_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "736598e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "736598e3",
+          "source": "36氪",
+          "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+          "link": "https://36kr.com/p/3874358072710407?f=rss",
+          "published_at": "2026-07-01T01:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fd645562",
+      "title": "伊朗战事引发中国石化贸易大幅波动",
+      "summary": "伊朗战事重塑中国石化贸易格局，带来显著变动。中国石化生产企业得以借此扩大出口，缓解用于塑料、橡胶、纺织品生产的核心基础原料产能过剩的问题。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFwk5ITX_0Z8/v3/1200x-1.png",
+      "article_ids": [
+        "9e4d74ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9e4d74ae",
+          "source": "Bloomberg",
+          "title": "伊朗战事引发中国石化贸易大幅波动",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/iran-war-delivers-massive-swings-in-chinese-petrochemicals-trade",
+          "published_at": "2026-07-01T01:15:32+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:15:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42d44864",
+      "title": "Anthropic称美国取消其先进人工智能工具出口禁令",
+      "summary": "人工智能企业Anthropic宣布，美国已取消针对其先进人工智能工具的出口禁令。今年6月，该企业旗下Fable和Mythos两款AI工具因存在被黑客滥用的风险，曾被突然暂停相关服务。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
+      "article_ids": [
+        "4e1708cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4e1708cd",
+          "source": "BBC World",
+          "title": "Anthropic称美国取消其先进人工智能工具出口禁令",
+          "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-01T01:13:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:13:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "87d27aff",
+      "title": "菲律宾一教会团体持续抗议 扰乱马尼拉",
+      "summary": "周三，菲律宾一个颇具影响力的宗教团体连续第二天举行抗议活动，声援与该国副总统萨拉·杜特尔特结盟的一名参议员，此次抗议活动再次造成马尼拉主干道交通拥堵。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1ByRUdt770w/v1/1200x-1.jpg",
+      "article_ids": [
+        "ba581321"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ba581321",
+          "source": "Bloomberg",
+          "title": "菲律宾一教会团体持续抗议 扰乱马尼拉",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/philippine-church-group-holds-second-day-of-protests-disrupting-manila",
+          "published_at": "2026-07-01T01:02:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:02:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc32e1fb",
+      "title": "赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发",
+      "summary": "4人AI创业团队MobAI获港股上市公司赤子城科技独家数百万元天使轮融资。该团队推出面向北美18-24岁年轻女性的AI互动叙事平台Lunaverse Stories，目前产品已进入邀请制测试阶段，团队同时布局创作者AI内容工具，正对接下一轮融资。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260630/v2_7819571e16fe4c0db87a1f6af5e67446@242988687_oswg971277oswg1080oswg709_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "de9b97d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "de9b97d7",
+          "source": "36氪",
+          "title": "赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发",
+          "link": "https://36kr.com/p/3875622047805447?f=rss",
+          "published_at": "2026-07-01T01:00:32+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:00:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "66b7c6fe",
+      "title": "科塔克重夺印度股权资本市场头名 大型交易蓄势待发",
+      "summary": "科塔克马恒达资本公司重夺今年上半年印度股权资本市场排行榜榜首位置。目前印度有史以来规模最大的一批首次公开募股正在筹备当中，该公司有望在今年占据印度股权资本市场的主导地位。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFPwDcv1zRwQ/v0/1200x-1.jpg",
+      "article_ids": [
+        "61af70e1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "61af70e1",
+          "source": "Bloomberg",
+          "title": "科塔克重夺印度股权资本市场头名 大型交易蓄势待发",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/kotak-reclaims-india-ecm-lead-with-mega-deals-on-horizon",
+          "published_at": "2026-07-01T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9e554baf",
+      "title": "中国共产党党内统计公报 - 共产党新闻网",
+      "summary": "中国共产党党内统计公报公布最新数据，中国共产党党员总数达10128.6万名，基层党组织共543.1万个。数据显示党员队伍稳步壮大，党的组织体系日趋严密，这一数据被称为中国共产党的硬核“家底”，多家主流媒体对此进行了报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "eede8f15"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "eede8f15",
+          "source": "Google News (中国)",
+          "title": "中国共产党党内统计公报 - 共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NGhhcENwWDE3UDNMWENsc1YwRm1NNU1rY1A0a0cycTlZTlItenByM3pMbllVU25Eel9LV3pHNXFwY2hGY0lFNDY3UEJoYTVoNTVYR1ozdmZaV1BYbllmOE5xQXY2eHVoVEhv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T00:55:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:55:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8916a15c",
+      "title": "Meta将为旗下智能眼镜增设离谱使用限额与软性付费墙",
+      "summary": "Meta近日悄然宣布新规，已售出的旗下智能眼镜搭载的对话聚焦功能，每月免费使用时长仅为3小时，用户若要超出时长使用该功能，需每月支付19.99美元订阅Meta One Premium服务，相当于向已购硬件用户设置软性付费墙，额外收取AI功能使用费。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3f1e2b9d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3f1e2b9d",
+          "source": "The Verge",
+          "title": "Meta将为旗下智能眼镜增设离谱使用限额与软性付费墙",
+          "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+          "published_at": "2026-07-01T00:51:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:51:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aa1af077",
+      "title": "地铁6号线通运门站台采用快慢线布局 - 人民网",
+      "summary": "6月30日首班车起，北京地铁6号线通运门站正式开通运营，该站点历经12年等待终于建成投用，车站采用快慢线运行布局，共设置四个站台，这一城市轨道交通新站点投用的消息，受到多家媒体的关注报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "dfbb65d1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "dfbb65d1",
+          "source": "Google News (中国)",
+          "title": "地铁6号线通运门站台采用快慢线布局 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdndXYTBiak5sd1Y3U3NTMXJZRS10ZlZ5LWR3dmV3X2tYV0lwTnNzWHhkRTFQU0pOcVB4M2l6OHpzQUV1RXN1akVRT25XcWFKenRKMVlDZHZmcDlnVDFXZllkaXV4VVFi?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T00:36:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:36:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0b2c579e",
+      "title": "福建举办迎接中国共产党成立105周年音乐会 - 央广网",
+      "summary": "近期，全国多省市举办迎接中国共产党成立105周年主题音乐会，福建、内蒙古、吉林、北京先后推出相关活动，其中内蒙古推出《永恒的旗帜》专场音乐会，吉林举办交响音乐会，各界以音乐为载体，抒发爱党情怀，献礼党的生日。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "df110869"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "df110869",
+          "source": "Google News (中国)",
+          "title": "福建举办迎接中国共产党成立105周年音乐会 - 央广网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uTm1oR01xVFp3V0Jja0tkVVFOLWRpekgzZGphVXhGVGJTdmMxZjhvNWNwWjNMaUFDd0EyZ01XWEJWUW5MV2xHR1dUd0RuTnFmSElMc25rV1V6OGxUa1RubGhITDB0WlBreFZ4X3M5emg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T00:26:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:26:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cac0b4a",
+      "title": "中国纪检监察报编辑部文章 风华正茂勇向前——写在中国共产党成立105周年之际 - 重庆市纪委监委",
+      "summary": "在中国共产党成立105周年之际，中国纪检监察报刊发编辑部文章《风华正茂勇向前》，重庆市纪委监委推出相关专题庆祝报道，江西日报发布相关社论，凤凰网、光明网、中国青年网等多家平台也从党建、信仰、初心等维度推出相关内容，共庆建党105周年。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "31e3bec3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "31e3bec3",
+          "source": "Google News (中国)",
+          "title": "中国纪检监察报编辑部文章 风华正茂勇向前——写在中国共产党成立105周年之际 - 重庆市纪委监委",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0MyLUZxYldSTmFQQXlrdmJ1RW9fVE1BeHN2cl9SYWdZZ0JmSjBHT1huV0U0WTdkaHdTUVRienFxWUFkU3MxZmxCZU9FN1BueHpJRFdYODU4SUo5UE1lYUp4cElYbkdFOEpqdm1PZzhWMGVtbUw1TElmcVk5cnp3c1d0OTlPTmFQaHc0SUluek1xVDJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-01T00:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6264485",
+      "title": "长期搁置的Anthropic Fable 5获准恢复上线",
+      "summary": "经过与特朗普政府数周谈判，人工智能企业Anthropic终于获准恢复Claude Fable 5上线。该企业在社交平台X发文称，计划明日起恢复相关服务的访问权限，目前美国商务部已解除对Claude Fable 5与Mythos的出口管制。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b13e4677"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b13e4677",
+          "source": "The Verge",
+          "title": "长期搁置的Anthropic Fable 5获准恢复上线",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "published_at": "2026-07-01T00:03:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6264485",
+      "title": "Anthropic长期搁置的Fable 5获批恢复上线",
+      "summary": "Anthropic经过与美国特朗普政府数周谈判，最终获准恢复Claude Fable 5上线。该公司在社交平台X发文称，计划明日开始恢复相关访问，美国商务部已解除对Claude Fable 5及Mythos的出口管制。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b13e4677"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "b13e4677",
+          "source": "The Verge AI",
+          "title": "Anthropic长期搁置的Fable 5获批恢复上线",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "published_at": "2026-07-01T00:03:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4556f8f1",
+      "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+      "summary": "7月1日，被称为“史上最严电池安全令”的两项电动汽车安全强制性国家标准正式施行。苹果印度代工厂遭窃，含未发布iPhone 18 Pro在内的大量机密流入暗网；OpenAI首款联名硬件曝光；寒武纪成科创板首个万亿市值公司，Kimi估值升至315亿美元，多领域多个科技财经热点集中发布。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a0fe7683"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "a0fe7683",
+          "source": "36氪",
+          "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+          "link": "https://36kr.com/p/3876318522077442?f=rss",
+          "published_at": "2026-06-30T23:55:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T23:55:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10dc8289",
+      "title": "局势升级 阿富汗塔利班在巴阿边境发动袭击",
+      "summary": "当前阿富汗与巴基斯坦边境局势升级，阿富汗塔利班在边境发动袭击。巴基斯坦军方称，巴方已击落四架简易无人机，同时明确表示将对任何后续的挑衅行为作出回应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "ded6dade"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ded6dade",
+          "source": "BBC World",
+          "title": "局势升级 阿富汗塔利班在巴阿边境发动袭击",
+          "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T23:49:19+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T23:49:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e94d3e45",
+      "title": "一架飞机撞上北京一塔楼 中方未披露事件详情",
+      "summary": "一架飞机撞上北京的一座塔楼，此次碰撞事故造成塔楼侧面出现破洞，相关方面已清理掉该事件留下的其他可见痕迹，目前尚未对外公开披露这一事件的具体发生经过与相关细节。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee9/live/f266eb80-7446-11f1-b2c7-5138402a5536.jpg",
+      "article_ids": [
+        "c75cb1e0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c75cb1e0",
+          "source": "BBC World",
+          "title": "一架飞机撞上北京一塔楼 中方未披露事件详情",
+          "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T23:24:05+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T23:24:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1d740794",
+      "title": "“导弹我操作，我听党指挥” - 中国军网",
+      "summary": "在战略导弹部队组建60周年之际，人民日报、新华社、中国军网、新京报等多家主流媒体，推出相关报道与火箭军党委署名文章，围绕党旗领航奋斗强军的主题，展现火箭军始终听党指挥，锻造大国长剑，履行使命的忠诚担当与发展新荣光。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4eeb21f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4eeb21f5",
+          "source": "Google News (中国)",
+          "title": "“导弹我操作，我听党指挥” - 中国军网",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vTXQwY1Eyal9meG5LNUhjdElRcFZuRkF4dzVjQmFjaWh2bXp2LW1xeGVfb1E1NXp6Mm9CNElya3BJNzNPUTJkNmZvSW41dDJqQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-30T23:09:48+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T23:09:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f268494c",
+      "title": "澳大利亚创业竞技场申请不日截止 请于7月6日前提交申请",
+      "summary": "澳大利亚创业竞技场项目申请将于7月6日截止，主办方发起报名呼吁，称一次项目推介就有可能彻底改变企业发展走向，欢迎正在打造重要项目、暂未获得广泛关注的创业团队参与，你的项目也拥有角逐机会。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b17d1b8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b17d1b8a",
+          "source": "TechCrunch",
+          "title": "澳大利亚创业竞技场申请不日截止 请于7月6日前提交申请",
+          "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+          "published_at": "2026-06-30T23:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T23:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6c2911b",
+      "title": "迪什申请破产 但不会停止运营",
+      "summary": "运营Dish TV与Sling TV的企业迪什，已申请美国破产法第11章破产保护，路透社此前已报道此事。该公司隶属于回声星集团，因向AT&T出售价值230亿美元5G频谱遭遇意外延误，申请破产后将仅逐步关停无线业务，不会整体停摆。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ed7e050f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ed7e050f",
+          "source": "The Verge",
+          "title": "迪什申请破产 但不会停止运营",
+          "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+          "published_at": "2026-06-30T22:46:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T22:46:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ece32e1",
+      "title": "美最高法院既重创特朗普，又扩张其权力",
+      "summary": "美国最高法院本届任期随着出生权相关裁决正式落下帷幕。本届任期内，最高法院既对特朗普造成多次重大挫败，同时也为他带来多项关键执政胜利，整体上扩张了特朗普的总统权力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1a/live/16f1e680-74c4-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "b874fcf9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b874fcf9",
+          "source": "BBC World",
+          "title": "美最高法院既重创特朗普，又扩张其权力",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T22:29:47+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T22:29:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf56aa88",
+      "title": "市场综述：亚洲股市两日上涨后回落 日元持稳",
+      "summary": "亚洲股指小幅走低，此前受芯片制造商及其他科技股上涨拉动，亚洲股市已实现连续两日上涨，且刚刚创下17年来最佳单季度表现。当前投资者情绪转向谨慎，日元汇率整体保持平稳。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNgt.qpykH4I/v3/1200x-1.png",
+      "article_ids": [
+        "733e1739"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "733e1739",
+          "source": "Bloomberg",
+          "title": "市场综述：亚洲股市两日上涨后回落 日元持稳",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap",
+          "published_at": "2026-06-30T22:09:34+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T22:09:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b929bc2b",
+      "title": "美伊和谈持续霍尔木兹航运恢复 国际油价企稳",
+      "summary": "国际油价在经历新冠疫情以来最大单季度跌幅后逐步企稳，当前原油交易者正密切关注美伊和谈进展，以及霍尔木兹海峡恢复通航后的航运动向，两大因素共同带动油价趋稳。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNt61oeJuOmw/v0/1200x-1.jpg",
+      "article_ids": [
+        "f5aa05e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f5aa05e6",
+          "source": "Bloomberg",
+          "title": "美伊和谈持续霍尔木兹航运恢复 国际油价企稳",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+          "published_at": "2026-06-30T22:04:24+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T22:04:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d092c04c",
+      "title": "OpenClaw终于登陆安卓与iOS平台",
+      "summary": "免费开源的智能代理程序OpenClaw现已正式登陆移动端，同步支持安卓与iOS两大主流手机操作系统，这款开源程序此前仅可在其他设备端使用，如今手机用户可直接在移动设备上体验这一完全免费的服务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "be61e7a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "be61e7a5",
+          "source": "TechCrunch",
+          "title": "OpenClaw终于登陆安卓与iOS平台",
+          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "published_at": "2026-06-30T21:53:28+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:53:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d092c04c",
+      "title": "OpenClaw终于登陆安卓与iOS平台",
+      "summary": "免费开源智能程序OpenClaw现已正式登陆安卓与iOS移动端平台，面向手机用户开放使用。作为完全免费的开源项目，此次推出移动版本后，手机用户无需额外适配，就可直接下载体验这款智能程序的相关功能。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "be61e7a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "be61e7a5",
+          "source": "TechCrunch AI",
+          "title": "OpenClaw终于登陆安卓与iOS平台",
+          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "published_at": "2026-06-30T21:53:28+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:53:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "41a8a33a",
+      "title": "Claude Science是Anthropic最新旗舰产品",
+      "summary": "周二，Anthropic在面向制药企业高管、生物科技创始人及科研人员的活动上，发布全新旗舰产品Claude Science。该产品旨在为科学研究提供支持，功能类似赋能软件工程的Claude Code，可依据简明高层指令自主完成有效科研工作。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "78c50124"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "78c50124",
+          "source": "MIT Technology Review",
+          "title": "Claude Science是Anthropic最新旗舰产品",
+          "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "published_at": "2026-06-30T21:50:04+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:50:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f1195ad",
+      "title": "美国铝业押注铝业繁荣 56亿美元收购South32资产",
+      "summary": "美国铝业公司已同意以最高56亿美元收购South32的铝土矿、氧化铝及铝资产。当前铝业长期需求走强，伊朗局势引发供应担忧，该交易将巩固美国铝业作为顶级铝生产商的市场地位。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLh9H_pyYQoQ/v1/1200x-1.jpg",
+      "article_ids": [
+        "74b1a4d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "74b1a4d9",
+          "source": "Bloomberg",
+          "title": "美国铝业押注铝业繁荣 56亿美元收购South32资产",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal",
+          "published_at": "2026-06-30T21:44:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:44:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "16fdd835",
+      "title": "委内瑞拉地震六天后一名三岁儿童获救送医",
+      "summary": "委内瑞拉发生地震六天后，该国拉瓜伊拉州一名三岁儿童从地震废墟中被救出，随即被送往医院救治。现场视频显示，当这名儿童被救援人员成功拉出废墟时，在场救援人员纷纷欢呼庆祝这次救援成功。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9778/live/5b9c0de0-74c1-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "d3acdad1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d3acdad1",
+          "source": "BBC World",
+          "title": "委内瑞拉地震六天后一名三岁儿童获救送医",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T21:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "79a789a6",
+      "title": "美国最高法院维持禁止跨性别运动员参加女子校园及大学体育赛事的禁令",
+      "summary": "美国最高法院就跨性别运动员参赛问题作出裁决，维持禁止跨性别运动员参加女子校园及大学体育赛事的相关禁令。裁决出炉后引发两极反应，特朗普称这是“重大胜利”，一家LGBT组织则表示这一结果“令人心碎”。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f65/live/01134b50-74cf-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "3a38488a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3a38488a",
+          "source": "BBC World",
+          "title": "美国最高法院维持禁止跨性别运动员参加女子校园及大学体育赛事的禁令",
+          "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T21:24:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:24:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4f31c62",
+      "title": "亚马逊因未协助身份盗窃受害者被罚225万美元",
+      "summary": "彭博社早前报道，美国联邦贸易委员会对亚马逊处以225万美元罚款，以了结针对亚马逊未协助身份盗窃受害者的相关指控。联邦贸易委员会投诉称，亚马逊拒绝向受害者提供欺诈账户的购物信息，违反了公平信用相关规定。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1ed78531"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1ed78531",
+          "source": "The Verge",
+          "title": "亚马逊因未协助身份盗窃受害者被罚225万美元",
+          "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+          "published_at": "2026-06-30T21:20:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:20:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c73ad08a",
+      "title": "世界杯失利主导德国新闻 盖过大规模枪击案",
+      "summary": "德国北部此前发生一起造成人员伤亡的致命袭击事件，就在袭击发生一天后，德国新闻媒体的关注焦点大幅转移，绝大多数报道资源与公众注意力都转向了德国队在世界杯赛场上的糟糕表现，大规模枪击事件反而被挤到边缘。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-Germany-shooting-kwmc/30int-Germany-shooting-kwmc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3a7fc7fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3a7fc7fb",
+          "source": "NYTimes World",
+          "title": "世界杯失利主导德国新闻 盖过大规模枪击案",
+          "link": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+          "published_at": "2026-06-30T21:01:49+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T21:01:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "59479319",
+      "title": "基辅毕业舞会如期举办，玛莎的舞伴独自起舞",
+      "summary": "基辅举办毕业舞会，15岁的玛莎·波尔斯卡是一名热爱舞蹈的女孩，一直梦想能在舞会的集体华尔兹中留下亮眼表现，可她最终没能如愿到场，原本要和她搭档的舞伴只能独自完成舞蹈。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/30int-ukraine-prom-hfmw/30int-ukraine-prom-hfmw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "fbba7262"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "fbba7262",
+          "source": "NYTimes World",
+          "title": "基辅毕业舞会如期举办，玛莎的舞伴独自起舞",
+          "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+          "published_at": "2026-06-30T20:50:39+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T20:50:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c949303c",
+      "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+      "summary": "三名曾打造扑克AI的前DeepMind研究员，在布拉格创立了AI实验室EquiLibre Technologies，该团队目前为量化对冲基金创造收益，这家AI创业公司当前估值已超过5亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "db04ba7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "db04ba7c",
+          "source": "TechCrunch",
+          "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "published_at": "2026-06-30T20:33:48+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T20:33:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c949303c",
+      "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+      "summary": "三名曾打造扑克AI的前DeepMind研究员，在布拉格成立了AI实验室EquiLibre Technologies，目前该机构估值已超过5亿美元，这支团队如今为量化对冲基金赚取收益，展开AI商业化新布局。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "db04ba7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "db04ba7c",
+          "source": "TechCrunch AI",
+          "title": "打造扑克AI的DeepMind三人组 如今为量化对冲基金赚钱",
+          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "published_at": "2026-06-30T20:33:48+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T20:33:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "48e5dafd",
+      "title": "新型攻击给出AI浏览器不可取的又一理由",
+      "summary": "近期发现一种新型AI攻击手段，只需向大语言模型输入“2+2=5”这类简单的错误引导信息，就能绕过安全限制，令其执行原本被禁止的指令。这一发现，为AI浏览器存在安全隐患、并非合理选择再添新依据。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
+      "article_ids": [
+        "fdfe2700"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "fdfe2700",
+          "source": "Ars Technica",
+          "title": "新型攻击给出AI浏览器不可取的又一理由",
+          "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "published_at": "2026-06-30T20:03:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T20:03:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b978e013",
+      "title": "宏碁Swift Go 16：九百美元价位物超所值",
+      "summary": "受内存、存储价格上涨影响，各类电子产品涨价，如今想要在千美元以内找到一款合格的笔记本已颇具难度。宏碁Swift Go 16 AI目前在百思买仅售899.99美元，较1549.99美元的日常售价有大幅折扣，配置齐全。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7e504eb3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7e504eb3",
+          "source": "The Verge",
+          "title": "宏碁Swift Go 16：九百美元价位物超所值",
+          "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+          "published_at": "2026-06-30T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cc14c0d",
+      "title": "救援设备短缺阻碍委内瑞拉地震救援工作",
+      "summary": "委内瑞拉地震救援工作因救援设备短缺受阻，目前已有普通民众主动参与支援，为在废墟中开展作业的救援队伍提供物资补给，民众同时发出呼吁，希望获得挖掘机、发电机以及各类专业救援工具，保障救援作业顺利推进。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30int-venezuela-machinery-fhkz/30int-venezuela-machinery-fhkz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ea16fc3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ea16fc3f",
+          "source": "NYTimes World",
+          "title": "救援设备短缺阻碍委内瑞拉地震救援工作",
+          "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
+          "published_at": "2026-06-30T19:58:35+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:58:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7a4e765",
+      "title": "被隐藏的死者：委内瑞拉真实死亡人数埋于废墟之下",
+      "summary": "委内瑞拉遭遇破坏性双地震袭击，多片居民区被完全夷为平地。地震发生五天后，该国官方公布死亡人数为1719人，不过专家指出，这一数据存在严重低估，此次地震的实际死亡人数远高于官方公布的数字。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "03b81d43"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "03b81d43",
+          "source": "NYTimes World",
+          "title": "被隐藏的死者：委内瑞拉真实死亡人数埋于废墟之下",
+          "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html",
+          "published_at": "2026-06-30T19:38:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:38:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8960ad5",
+      "title": "巴基斯坦一补习中心屋顶坍塌致14名儿童死亡",
+      "summary": "巴基斯坦拉合尔市卡纳郊区的一间补习中心发生屋顶坍塌事故，本次事故已造成14名儿童不幸身亡。事发后当地相关部门迅速介入开展处置工作，目前已有两名涉事人员被警方拘留调查。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b45/live/03a1b7d0-74a2-11f1-b1a9-bd204fe03b95.jpg",
+      "article_ids": [
+        "74f43958"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "74f43958",
+          "source": "BBC World",
+          "title": "巴基斯坦一补习中心屋顶坍塌致14名儿童死亡",
+          "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T19:36:48+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:36:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a18721b",
+      "title": "美伊交战后 据称阿曼提出霍尔木兹海峡收费计划",
+      "summary": "美伊交战后，据了解相关事宜的官员及外交官透露，阿曼提出一项霍尔木兹海峡通行收费计划，按照该计划，伊朗与阿曼将共同向途经该海峡的船舶收取通行费用。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e69b2b44"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e69b2b44",
+          "source": "NYTimes World",
+          "title": "美伊交战后 据称阿曼提出霍尔木兹海峡收费计划",
+          "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+          "published_at": "2026-06-30T19:33:24+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:33:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c250bd2",
+      "title": "谷歌NotebookLM可将研究内容总结为TikTok风格短片",
+      "summary": "谷歌为旗下工具NotebookLM新增TikTok风格AI视频功能，目前该功能仅向谷歌AI Ultra与Pro订阅用户开放，可基于用户上传到应用的资料，生成60秒的竖屏AI片段，帮助用户快速梳理笔记、总结研究内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ee6c5066"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ee6c5066",
+          "source": "The Verge",
+          "title": "谷歌NotebookLM可将研究内容总结为TikTok风格短片",
+          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "published_at": "2026-06-30T19:24:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c250bd2",
+      "title": "谷歌NotebookLM可将你的研究内容总结为TikTok风格短片",
+      "summary": "谷歌为笔记工具NotebookLM新增TikTok风格AI短视频功能，该功能目前已向谷歌AI Ultra与Pro订阅用户开放，可根据用户上传到应用的素材，生成60秒竖版AI短片，帮助用户快速梳理笔记与研究内容，谷歌已公开相关功能示例。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ee6c5066"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "ee6c5066",
+          "source": "The Verge AI",
+          "title": "谷歌NotebookLM可将你的研究内容总结为TikTok风格短片",
+          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "published_at": "2026-06-30T19:24:51+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b4a329a3",
+      "title": "Realta Fusion实现聚变反应直接发电 尚属全球首例",
+      "summary": "Realta Fusion联合创始人兼首席执行官基兰·福隆向科技媒体TechCrunch透露，该公司已可从等离子体中获取电能。此次直接从聚变反应发电是里程碑成果，证明该技术路线具备可行性，这目前尚属全球首例。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5d0ebe24"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5d0ebe24",
+          "source": "TechCrunch",
+          "title": "Realta Fusion实现聚变反应直接发电 尚属全球首例",
+          "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+          "published_at": "2026-06-30T19:12:43+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:12:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a65b1862",
+      "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+      "summary": "谷歌更新旗下AI图像生成工具，推出速度更快、成本更低的全新图像生成器Nano Banana 2 Lite。这款新品性能更优，能够更好适配创作者需求，为想要制作AI内容的创作者提供了更为实用的创作工具。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9e47277c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9e47277c",
+          "source": "TechCrunch",
+          "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+          "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "published_at": "2026-06-30T19:02:38+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:02:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a65b1862",
+      "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+      "summary": "谷歌更新旗下AI图像生成工具，推出速度更快、生成成本更低的Nano Banana 2 Lite。这款经过优化的工具实用性更强，能更好适配创作者制作AI内容的需求，为AI内容创作提供更实用的工具选择。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9e47277c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9e47277c",
+          "source": "TechCrunch AI",
+          "title": "谷歌推出更快更低价的图像生成器Nano Banana 2 Lite",
+          "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "published_at": "2026-06-30T19:02:38+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T19:02:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9c7f568",
+      "title": "LG 27英寸串联OLED游戏显示器售价创历史新低",
+      "summary": "去年8月推出的LG UltraGear 27GX700A-B 1440p游戏显示器，目前售价已降至接近历史最低水平。该显示器亚马逊售价484.99美元，LG官网售价499.99美元，原价为599.99美元，它搭载LG第四代WOLED原生RGB串联面板。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "efabbbd2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "efabbbd2",
+          "source": "The Verge",
+          "title": "LG 27英寸串联OLED游戏显示器售价创历史新低",
+          "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+          "published_at": "2026-06-30T18:42:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T18:42:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "13c76dd8",
+      "title": "美日士兵在澳大利亚内陆丛林做什么？",
+      "summary": "美日士兵出现在澳大利亚偏远的内陆丛林地区，该区域距离全球各主要冲突点达数千公里。英国广播公司（BBC）记者凯蒂·沃特森就美日两国军队在此开展训练的原因作出了解读说明。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c44/live/e0849d80-744c-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "4caf20e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4caf20e6",
+          "source": "BBC World",
+          "title": "美日士兵在澳大利亚内陆丛林做什么？",
+          "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-30T18:37:59+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T18:37:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "875c1b53",
+      "title": "Clicks全新上手视频展示黑莓风格新机",
+      "summary": "最新一则上手视频展示了即将推出的Clicks Communicator智能手机的最终量产版本。该机型为黑莓风格设计，既延续了黑莓产品的特征，又可支持运行各类现代应用，能满足喜爱黑莓设计用户的使用需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1f88140"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f1f88140",
+          "source": "TechCrunch",
+          "title": "Clicks全新上手视频展示黑莓风格新机",
+          "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+          "published_at": "2026-06-30T18:34:22+00:00"
+        }
+      ],
+      "published_at": "2026-06-30T18:34:22+00:00",
+      "is_merged": false
+    }
+  ]
+}
