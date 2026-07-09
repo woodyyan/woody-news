@@ -1,0 +1,2411 @@
+{
+  "date": "2026-07-09",
+  "edition": "morning",
+  "updated_at": "2026-07-09T10:50:25.733183+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "45bb8026",
+      "title": "伊朗战事实时更新：美军方称美国对伊朗发动新打击",
+      "title_original": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+      "summary": "美国中央司令部通过社交媒体表态，美方对伊朗发动新打击，行动目的是保护霍尔木兹海峡的航运安全。此前美国总统特朗普曾表示，已经持续三周的停火“已经结束”，此次行动令伊朗局势再度生变。",
+      "summary_original": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08mideast-promo730p-htzk/08mideast-promo730p-htzk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-09T01:58:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "44fd4529",
+      "title": "茂名石化应急救援队驰援广西抗洪抢险 - sinopecnews.com.cn",
+      "title_original": null,
+      "summary": "广西遭遇洪涝灾害后，多地多单位跨省驰援开展抢险救援工作。茂名石化应急救援队赶赴现场参与救援，湖北电信出动翼龙无人机打通灾区空中通信生命线，广东电网调集20台排涝车、25台发电车连夜驰援，另有无人机多次往返为灾区运送救灾物资。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTV9MalVjdlYzUkdBcUtMd0tMNjBIUGhfNTNNekxsZVhUVTE0SUZPdzhMeDVIaThZM2VCeHhXeXJTSm5GazFGcmJqWlRVV3BtYUU1OTVBVTdPTFFXWGw2RFl1SUt6bC1YWktjWFlsb2lTODBZbFIwdDVDcl91aXYtcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-09T01:33:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "71d0cd1e",
+      "title": "首席未来官：Wayfair凯特·格利弗",
+      "title_original": "Chief Future Officer: Kate Gulliver, Wayfair",
+      "summary": "彭博本期节目聚焦家居零售商Wayfair首席财务官凯特·格利弗。当前住房市场形势严峻，凯特正带领这家企业攻坚实现盈利增长，同时推出全新发展规划，计划开设品牌线下实体旗舰店，拓展线下业务布局。",
+      "summary_original": "This episode profiles Wayfair CFO Kate Gulliver, who is leading the home goods retailer's efforts to achieve profitable growth during a challenging period for the housing market -- as well as launching a new initiative to open brick-and-mortar flagship stores. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2eEIRqPnBnc/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-09/chief-future-officer-kate-gulliver-wayfair",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T01:30:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cf877c92",
+      "title": "联合国秘书长呼吁美伊紧张局势降级--国际 - 人民网",
+      "title_original": null,
+      "summary": "近期中东局势战火重燃，美伊紧张局势升级。联合国秘书长公开呼吁美伊推动紧张局势降级。中国外交部对此表态，称重燃战火不符合任何一方利益，军事手段解决不了根本问题，呼吁美伊双方落实好已签署的谅解备忘录。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yVFViVVhTTFE3azNZUUx5RG1HNzlNZGlaTFZmeU1wR0w2NHlmczdYY2QyVnozUWpvdDdhOE5yVzNUUmZWdzlrbnpZbFgyajlaQV9janNjaWxWanJiSEdwOXAzZG42S1d4LVNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-09T01:21:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07e8a90d",
+      "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+      "title_original": null,
+      "summary": "物理AI企业深度智控近期完成数亿元人民币B轮融资，本轮由晶科能源战略投资，国投创新、招银国际联合领投，多家老股东跟投。深度智控自研PhyAI物理AI引擎，已跑通商业闭环实现规模化盈利，本轮融资将用于技术研发、产品拓展及海外布局，目标打造全球能源基础设施“大脑”",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260709/v2_f5ee7e0511474f27833b094691d67fa7@6221844_oswg121767oswg2276oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3887726503688968?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-09T01:20:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5c1159b3",
+      "title": "特朗普抨击北约盟友后称赞北约\"团结\"",
+      "title_original": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+      "summary": "特朗普此前抨击北约盟友未参与对伊朗战争，随后公开称赞北约保持\"团结\"。他还表示，将授予乌克兰长期寻求的权限，允许乌方使用爱国者防御系统，满足乌方的相关诉求。",
+      "summary_original": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08nato-live-promo-1pm-cpkv/08nato-live-promo-1pm-cpkv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-09T01:13:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "af49e2de",
+      "title": "日本顶级眼镜厂商如何通过通胀考验",
+      "title_original": "How Japan's Top Eyewear Maker is Passing Inflation Test",
+      "summary": "25年前，日本眼镜品牌JINS凭借4990日元的平价眼镜崛起，在物价停滞时期成为家喻户晓的平价时尚品牌。当前市场迎来定价权转变，这家总部位于东京的厂商进驻高端地段、拓宽产品价格带，借机把握行情变化，彭博社记者从东京发回相关报道。",
+      "summary_original": "JINS rose to prominence 25 years ago with its bargain-basement ¥4,990 eyeglasses, becoming a household name for cheap chic as falling or stagnant prices took hold. Now, the Tokyo-based lensmaker is positioning itself to take advantage of the shift toward greater pricing power by opening up stores in ritzy venues and by offering a wider price range. Bloomberg’s Reed Stevenson reports from Tokyo. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im6s0mhTVoik/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T01:10:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d2dee244",
+      "title": "美国连续第二天对伊朗发动打击",
+      "title_original": "US Launches Strikes on Iran for Second Straight Day",
+      "summary": "美国军方宣布已连续第二天对伊朗发动打击，这一行动造成暴力局势升级，或将令本就脆弱的停火协议承受更大压力。彭博社记者杰夫·梅森正跟进报道此次事件的最新进展，相关消息来源于彭博社。",
+      "summary_original": "The US military said it struck Iran for the second straight day, an escalation of violence that threatens to strain an already fragile ceasefire. Bloomberg's Jeff Mason has the latest developments. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jHLGPXHLno/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-09/us-launches-strikes-on-iran-for-second-straight-day-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T01:08:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7b0a8961",
+      "title": "广西贵港教育园区1.2万名师生被困洪水，救援如何开展？人民日报记者现场直击 - 新浪财经",
+      "title_original": null,
+      "summary": "广西贵港遭遇当地25年来最大洪水，贵港教育园区被洪水淹没，原定开展的期末考试无法进行，共有1.2万名师生受困。目前解放军武警官兵、民兵，以及厦门市曙光救援队、民间公益力量等多方已投入抢险，开展被困师生转移工作，人民日报记者已赴现场直击救援。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5saFBDS0pFSEoyNzNYbllZN09XQ1l4cjZiRlNvdG1oWVNuYmhzUndQOHZkZFQ2b05rTm5CV3RkS05FR0xwUTBVNXJsbzBUQjN4ci1seWFvaHV0M0VLZHZHMzkwR2Iyd3YwZlQ4Mzc3Tm51dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-09T01:03:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5e050f35",
+      "title": "韩国央行行长申铉松称下周会议前需加息",
+      "title_original": "BOK’s Shin Sees Need for Rate Hike Ahead of Next Week’s Meeting",
+      "summary": "韩国央行行长申铉松近日向议会表示，政策利率需在适当时机上调。目前市场普遍预计韩国央行将在一周后召开的货币政策会议上加息，此番表态进一步强化了该央行的鹰派政策立场。",
+      "summary_original": "Bank of Korea Governor Shin Hyun Song told parliament that policy rates will need to rise at an appropriate time, reinforcing the bank’s hawkish stance just a week before a widely expected rate hike.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBdeGN2C9t60/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-09/bank-of-korea-sees-need-to-hike-rate-on-higher-inflation-growth",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T01:00:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a7da1d60",
+      "title": "新西兰制造业创五年新高 布雷曼强调经济复苏",
+      "title_original": "NZ Manufacturing Hits 5-Year High as Breman Highlights Recovery",
+      "summary": "新西兰6月制造业扩张速度达到近五年来最快水平。新西兰央行行长安娜·布雷曼表示，这一走势体现该国经济复苏正蓬勃推进，也印证了央行本周作出的加息决定。",
+      "summary_original": "New Zealand manufacturing expanded at the fastest pace in almost five years in June as central bank Governor Anna Breman pointed to a burgeoning economic recovery, underscoring this week’s decision to raise interest rates.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijpODV9zfELI/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-09/nz-manufacturing-hits-5-year-high-as-breman-highlights-recovery",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T00:30:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "20701384",
+      "title": "国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会在京召开 - 共产党新闻网",
+      "title_original": null,
+      "summary": "国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会在北京召开，习近平总书记勉励广大科技工作者发扬优良传统，为建设科技强国多立新功。相关报道指出，建设社会主义现代化强国关键在科技自立自强，多位受访院士表示将以国家需求为己任深耕科技领域。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzbjBEWmhrZ0R0aURGWDRhWmJYaG1tU2Y4NndRUWJxVkVsNk15VzV6emNqYV9jTWdHMnZ0bkpWU3JmMmZTRXgyblJ3cllhVzFYYko1Ukl5ZnhQWjQ3ZVNVZmFaUG1scGE4ajNF?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-09T00:27:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "19d9096d",
+      "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
+      "title_original": null,
+      "summary": "35岁清华出身的陈可卿带领由旷视、豪威系团队组建的极豪科技，近日正式向港交所递交招股书冲刺IPO。按2025年收入计，该公司位居中国智能手机生物识别解决方案市场第二，近年亏损持续收窄，布局智能眼镜、具身智能新赛道，仍存客户集中度偏高等问题。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260709/v2_2ed96318b34e42b8a7e643e5d27f3292@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3887659913083392?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-09T00:12:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6fbee127",
+      "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
+      "title_original": null,
+      "summary": "7月8日多个领域发布核心动态：小米官宣全新SKYNOMAD澎程系列增程SUV，雷军回应称发布“快了”；OpenAI效力近九年的首席未来学家约书亚·阿奇亚姆宣布本月离职；张小龙辞任粉笔CEO及董事会主席；工信部指出Claude Code存严重安全后门，欧盟法院驳回苹果上诉维持“看门人”认定",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3887648675133960?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-09T00:03:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bf2cd33e",
+      "title": "高收益率为更多全球债券资金流入印尼奠定基础",
+      "title_original": "High Yields Set Stage for More Global Bond Inflow Into Indonesia",
+      "summary": "当前全球资本流入印尼主权债券的趋势有望延续。印尼拥有新兴亚洲市场中较高的债券收益率，投资者认为该资产具备投资价值，同时押注此前力度较大的一轮加息进程已接近尾声，因此将持续流入布局。",
+      "summary_original": "Global inflows into Indonesian sovereign bonds are poised to extend, with investors saying they see value in some of emerging Asia’s highest yields on bets that a bruising round of interest-rate hikes is nearly over.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ8PqXMF7iD8/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-09/high-yields-set-stage-for-more-global-bond-inflow-into-indonesia",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-09T00:01:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "90b26a72",
+      "title": "双线驰援 武警广西总队官兵抢险转移、清淤排涝同步推进 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "广西发生洪灾后，武警广西总队官兵双线驰援，同步推进受灾群众转移抢险与灾后清淤排涝工作。多家媒体关注本次广西洪灾救灾工作，先后报道了横州市社会捐赠物资接收点、安置点热餐保障、安置点成长教育等相关救灾安置情况。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XZDBMeGJuQU9abklWVUdUTTlyZE5sc0dGb0toV0lFT094ZGktNnNBQjRDNW5MX2hDLWktMW1WVVJER3FhUkF0eS12bjhQdG9tS0dUUU92M1hUTXhiczJrMnB1WXIwVTRzb2hNaTNkdHdibFQ2cUtiZ0xR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-08T23:58:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8010df8b",
+      "title": "尽管存有疑虑，法官仍批准马斯克与SEC的150万美元和解",
+      "title_original": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+      "summary": "埃隆·马斯克因披露增持推特（现更名为X）股份一事，与美国证券交易委员会SEC产生纠纷，这场拉扯已久的纠纷如今落下帷幕。法官尽管心存疑虑，最终还是批准了双方达成的150万美元和解协议。",
+      "summary_original": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T23:11:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a07bed2b",
+      "title": "苹果供应商立讯精密香港上市募资30亿美元后股价下跌",
+      "title_original": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
+      "summary": "周四，苹果供应商立讯精密在香港挂牌上市，本次上市募资243亿港元，约合31亿美元，为香港今年以来规模最大的首次公开发行，上市首日交易中该股股价出现下跌。",
+      "summary_original": "Apple Inc. supplier Luxshare Precision Industry Co. fell in Hong Kong trading debut on Thursday after raising HK$24.3 billion ($3.1 billion) in the city’s biggest listing this year so far.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXNWjxR9jELY/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-08T23:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b4c36ffa",
+      "title": "据报道Lovable正洽谈融资 估值翻倍至132亿美元",
+      "title_original": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "媒体Sifted报道，Lovable计划开展一轮规模为3亿美元的融资，该轮融资预计由Menlo Ventures领投，本次融资完成后，Lovable的公司整体估值将翻倍，达到132亿美元。",
+      "summary_original": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T22:41:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b4c36ffa",
+      "title": "据传Lovable洽谈融资 估值将翻倍至132亿美元",
+      "title_original": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "媒体Sifted报道，Lovable目前正开展融资相关洽谈，此次拟推出的新一轮融资金额为3亿美元，预计由风投机构Menlo Ventures领投，融资完成后Lovable的估值将翻倍，达到132亿美元。",
+      "summary_original": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T22:41:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "56572622",
+      "title": "据报道Meta正研发可全程录制的智能眼镜",
+      "title_original": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "summary": "据《金融时报》报道，Meta正研发一款始终在线的人工智能可穿戴设备，其原型为“超感知”全感应智能眼镜，可持续录制音频、每隔几秒拍摄一张照片，佩戴者可就捕获的音画内容向Meta AI提问。",
+      "summary_original": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T22:37:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "92717f9c",
+      "title": "委内瑞拉地震废墟发现更多遗体 惨剧渐成常态",
+      "title_original": "As More Remains Are Found in Rubble From Venezuela Earthquakes, Horror Becomes Routine",
+      "summary": "委内瑞拉地震发生后，不少遇难者仍被埋在废墟之中。当地民众担忧官方拆除受损建筑前不会排查清点剩余遇难者遗体，因此正不顾一切地挖掘废墟，搜寻自己遇难亲属的遗骸。",
+      "summary_original": "Fearful that officials would tear down damaged buildings without accounting for any remaining bodies, Venezuelans are desperately digging for their relatives’ remains.",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-venezuela-quakes-recovery02-photo-plqw/08int-venezuela-quakes-recovery02-photo-plqw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-08T22:34:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b443a144",
+      "title": "市场综述：芯片股上涨布油攀升 亚洲股指上扬",
+      "title_original": "Asian Shares Rise as Chips Rally, Brent Advances: Markets Wrap",
+      "summary": "受人工智能带动芯片需求的乐观情绪提振，半导体板块获得投资者青睐，芯片股领涨推动亚洲股指上涨。在美国连续第二天打击伊朗后，国际油价延续上涨势头，布伦特原油价格进一步攀升。",
+      "summary_original": "Asian shares climbed, led by chipmakers, as optimism over AI-driven demand rekindled appetite for semiconductor stocks. Oil extended gains after the US struck Iran for a second day.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPKv4piJdz6U/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-08T22:09:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "18e58f8e",
+      "title": "金观平：为建设科技强国多立新功 - 中国经济网",
+      "title_original": null,
+      "summary": "署名金观平、题为《为建设科技强国多立新功》的评论文章发布于中国经济网，文章倡导各方把握科技发展机遇，深耕科技创新领域，主动担当作为，凝聚创新合力，为我国推进科技强国建设贡献力量、多立新功。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOXZMR29vbjYzWTU5TjNjTV9GMjN0anVrY1NONFNNZGhYSzZEX1VlU0IyQ1pMcjJ0LWRNN3d5Z2E4RTFkbm5wMmprdW1aS2hLN201UkdzVkstaWRwMjlublFnbWJaWWx4Vzg2LUc4cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-08T22:08:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4d4e478d",
+      "title": "美国对伊朗新打击震动市场 油价延续涨势",
+      "title_original": "Oil Extends Gain as Fresh US Strikes Against Iran Rattle Market",
+      "summary": "美国连续第二天对伊朗目标发动军事打击，推升中东地区能源供应风险，地缘局势动荡搅动全球能源市场，受地缘政治不确定性影响，国际油价在前期上涨基础上延续涨势。",
+      "summary_original": "Oil extended a surge as the US struck targets in Iran for a second day, raising risks for energy supplies from the Middle East.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.TSCGa8Xa7o/v2/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-08T22:01:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7cbd64ac",
+      "title": "美国联邦当局要求自动驾驶车企停止干扰应急响应人员",
+      "title_original": "Feds demand autonomous vehicle companies stop interfering with first responders",
+      "summary": "美国联邦当局向自动驾驶汽车企业提出要求，明确其不得干扰应急响应人员开展现场作业。美国国家公路交通安全管理局明确表态称，紧急事件场景并非自动驾驶领域可特殊化处理的“边缘案例”。",
+      "summary_original": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T21:49:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "efddd956",
+      "title": "广西多地遭遇持续性极端强降雨 记者直击救灾一线 - 中国日报网",
+      "title_original": null,
+      "summary": "广西多地遭遇持续性极端强降雨引发灾害，多家媒体跟进报道，有记者深入受灾一线直击救援现场，记录沿途险情。目前各地各部门正全力组织抢险救援，基层党组织发挥引领作用，党群同心开展防汛救灾工作，同时也引发对灾情成因、受损设施处置等问题的关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPc09KQVV0T09LaHpyTEl2WHFLaFV4V0QxOXlWODJPTUNaa0VkZXJ3akZ1SDdrdkdFUVo2VW80WXBoaG1HVm1CdDFkcWpqbVotaHlzdmJPR25FWDlrM1B5N2JQRDE1VG1HOUdsOGxaT21yV1UyT3p5NUdwblQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-08T21:46:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "404ed270",
+      "title": "特朗普赞扬中国未介入伊朗战争 - 美国之音",
+      "title_original": null,
+      "summary": "当前霍尔木兹海峡冲突持续升级，美伊关系紧张，原美伊临时协议已作废，伊朗报复美军基地推升油价，金价也出现波动。特朗普在北约峰会期间就局势发言，称不确定是否还会与伊朗达成协议，同时扬言或对伊朗动武，还赞扬中国未介入伊朗冲突。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWtsZElNZm53cmhwQm13V0VzNGVZNXIwOXhVN09rQXI0VFNSUWlrUkgwR0RwRWFDUWVoRWlJa0lvVGI1UUJqMmlWTVd3ZTd2N1h0Wk5xbHlmNkx4bnBlbmNGWkp4MXhwcTN4YzRIUlhhS2xKTWFNdXVPRm1fU3VtOFZ5MGFYRUFPcWlsYWd6VGlkUUd1X2Q2Q2FBSTFXMVFMWWJRVjA3dmlOOVJOaTNIdFdfd9IBtgFBVV95cUxPVEJZLXJONC1fOThaNmpXM2VhNTVNVjg0d0tTUmk2Y3VBM1UxSklhLVRWbE1jVUVzTmFvcHhMT1BsalZEYnItSWVlQzlpR21TUDk4eG9PbnFtRk5QeU1xbTdxTGZuZnR3WlVRNm5ZN0FKeTc0TkRHbmNnenBkd1BwLURRVGc4ZmYxWEFZal8tSUlYQTBSSERCd3ZRTmwxZHpLeFJpeldEUF8zYWE0WUp4RTJjajhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-08T21:31:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "615925e9",
+      "title": "世界杯埃及惨痛不敌阿根廷 民众心碎愤怒",
+      "title_original": "Heartbreak and Anger in Egypt Over a Stinging World Cup Loss to Argentina",
+      "summary": "在埃及对阵阿根廷的世界杯比赛中，埃及队几乎全场保持领先，阿根廷却在比赛最后时刻完成绝杀拿下胜利。这一出乎意料的结果令埃及球迷难以接受，不少人伤心落泪，还催生了诸多阴谋论。",
+      "summary_original": "After watching Egypt lead for almost the entire match, a last-minute victory by Argentina has driven fans to tears and conspiracy theories.",
+      "image": "https://static01.nyt.com/images/2026/07/08/sports/soccer/Cairo-Reacts-Getty-Images/Cairo-Reacts-Getty-Images-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/08/world/africa/egypt-argentina-goal-referee-conspiracy.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-08T21:25:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b517fe6b",
+      "title": "贾斯汀·比伯将与麦当娜、夏奇拉、BTS一同亮相世界杯决赛半场秀",
+      "title_original": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
+      "summary": "这场采用超级碗风格的演出，是加拿大歌手贾斯汀·比伯在科切拉音乐节完成复出演出后的又一场大型演出，此次他将同麦当娜、夏奇拉、BTS一道登上世界杯决赛的半场秀舞台。",
+      "summary_original": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-08T20:58:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3225ae7c",
+      "title": "内部文件查实国际刑事法院检察官存在性骚扰行为",
+      "title_original": "Internal File Finds I.C.C. Prosecutor Engaged in Sexual Harassment",
+      "summary": "一份内部机密文件查实，国际刑事法院一名检察官存在性骚扰行为，这份相关报告将交由国际刑事法院各成员国审议，成员国将通过投票表决，决定是否解除这名涉事高级官员的职务。",
+      "summary_original": "The confidential report will be considered by International Criminal Court members as they vote on whether to remove the top official.",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08icc-khan-01-wcjm/08icc-khan-01-wcjm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-08T20:53:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c7c3e9ba",
+      "title": "斯塔默在北约场合获土耳其总统赠送枪支弹药",
+      "title_original": "Starmer gifted gun and ammunition by Turkish president at Nato",
+      "summary": "在北约相关活动中，土耳其总统向斯塔默赠送了枪支与弹药。此次获赠的武器并未被带回英国，目前已交由英国派驻土耳其的官方人员保管，暂未披露本次赠礼的更多相关细节。",
+      "summary_original": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a3/live/c995b2c0-7b05-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-08T20:40:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "16f0c7d5",
+      "title": "谷歌深度伪造检测系统揭穿麦康奈尔假图骗局",
+      "title_original": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "本周早些时候，网传一张美国肯塔基州参议员米奇·麦康奈尔浑身插满管子、躺在病床上状态危急的图片，该图片实为AI生成的深度伪造作品，谷歌的深度伪造检测系统被用于揭穿这一造假事件。",
+      "summary_original": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T20:37:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "16f0c7d5",
+      "title": "谷歌深度伪造检测系统用于揭穿麦康奈尔假图骗局",
+      "title_original": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "本周早些时候，一张显示美国肯塔基州参议员米奇·麦康奈尔躺在医院病床上，身上遍布管子、状态极差的图片流传开来，该图被证实为人工智能生成的虚假内容，本次造假骗局正是借助谷歌的深度伪造检测系统揭穿的。",
+      "summary_original": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T20:37:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ed82c278",
+      "title": "获欧盟支持，QuantumDiamonds拟加快芯片制造进程",
+      "title_original": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "summary": "欧盟出台与美国类似的《欧洲芯片法案》，旨在借助政府补贴扶持本土半导体产业发展。德国初创企业QuantumDiamonds是该法案受益方之一，该企业采用创新方法检测芯片，获支持后将加快芯片制造进程。",
+      "summary_original": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T20:29:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "076e4682",
+      "title": "亚利桑那一幼儿被宣告溺水身亡后于医院停尸房被发现存活",
+      "title_original": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+      "summary": "美国亚利桑那一名18个月大的幼儿遭遇溺水后，被宣告死亡送入医院停尸房，随后被发现仍然存活，该幼儿随即被空运转至另一所医院接受救治，最终成功存活下来。",
+      "summary_original": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cb/live/39e4a450-7ade-11f1-9a9c-53fd8f110370.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-08T20:18:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "211838bf",
+      "title": "自主无人机配送初创公司Manna计划在美大举扩张",
+      "title_original": "Autonomous drone delivery startup Manna plots major US expansion",
+      "summary": "自主无人机配送初创公司Manna计划在美国进行大规模扩张，将在俄克拉荷马州塔尔萨市设立美国运营及制造工厂，该工厂最终将吸纳1000名员工，是该公司开拓美国市场的重要布局。",
+      "summary_original": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T20:06:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dd74d4e9",
+      "title": "预订三星即将推出的Galaxy手机可获30美元信用额度",
+      "title_original": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
+      "summary": "三星新一代Galaxy Z Fold系列折叠屏手机尚未正式发布，目前开启预订即可享受30美元信用额度优惠。三星将于2026年7月22日举办Galaxy Unpacked新品发布会，本次发布会口号为“新形态由此展开”。",
+      "summary_original": "Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the tagline “A new shape unfolds.” In addition [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7617436d",
+      "title": "勒庞开启总统竞选，法国政坛再生变数",
+      "title_original": "Le Pen Launches Presidential Campaign, in a Twist for French Politics",
+      "summary": "法国极右翼领导人玛丽娜·勒庞，在法院裁定其可再度参选总统的次日，于自身的乡村票仓正式开启总统竞选。活动现场支持者欢呼与反对者嘘声交织，此次竞选为法国政坛带来了新的变数。",
+      "summary_original": "The day after a court decided the far-right leader Marine Le Pen could run for office again, cheers and boos met her campaign kickoff in a rural stronghold.",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-france-lepen-0001-hzpk/08int-france-lepen-0001-hzpk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/08/world/europe/marine-le-pen-presidential-campaign.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-08T19:56:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e265f51e",
+      "title": "SpaceXAI发布Grok 4.5 马斯克称其为\"杰作级模型\"",
+      "title_original": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "埃隆·马斯克旗下科技公司SpaceXAI于周三发布人工智能模型Grok的最新版本Grok 4.5，马斯克将该模型称为\"杰作级模型\"，官方称这款模型相较于其他高性能AI模型，价格更低、效率更高，可作为替代选择。",
+      "summary_original": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T19:30:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e265f51e",
+      "title": "SpaceXAI发布Grok 4.5 埃隆称其为\"Opus级模型\"",
+      "title_original": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "埃隆·马斯克旗下科技公司SpaceXAI于周三发布新一代大模型Grok 4.5，马斯克本人将该模型称作\"Opus级模型\"。这款新品号称可替代其他现有高性能AI模型，且成本更低、效率更高。",
+      "summary_original": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T19:30:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e4155367",
+      "title": "\"慢社交\"应用Roost迫使你放慢节奏至信鸽速度",
+      "title_original": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+      "summary": "一款主打\"慢社交\"的应用Roost意外走红，其开发者原本仅将它作为副业项目开发，并未料到如今已积累30万用户。该应用因可替代当前永远在线、快节奏的主流网络文化，受到众多用户喜爱。",
+      "summary_original": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T19:22:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7b09af2e",
+      "title": "北約峰會後 川普為何改搭舊空軍一號返美 - 大纪元",
+      "title_original": null,
+      "summary": "北约峰会结束后，特朗普此前首次搭乘卡塔尔赠送的新专机出行，此举引发外界对该专机的安全疑虑。随后特朗普突然改乘旧版空军一号返回美国，该变动引发多方猜测，伊朗官员借机表态称本可以对特朗普本人发动打击，但最终并未动手。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pWHJQeVlrS3hkZEZYV3BSV25UR2daRG80SEVCQ0NGTGtNak9WVnRaeFdJR2pIa2xNY0h0MkxtVUVfam5fWk1JUnNQSTNiSXpyenZ5LWVoZGNqU3MwSDZ30gFkQVVfeXFMTmVzQTA4b2ZfblBLczk1MFdYWVl5OWxkc0M1TnAtQ2NrM01YMnhVRXNRNC00UWJaZkJCUmp3NWRTQk13Z2JzTXRBa1BYRWZFNGZPQ2gyN0k2TU1yNjc1Sm9EM2cwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-08T19:22:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9c57f755",
+      "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+      "title_original": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "初创企业General Intuition认为，机器人领域即将迎来属于自己的ChatGPT时刻。该企业押注数百万小时的游戏数据可训练实体人工智能基础模型，能帮助开发者仅需少量真实世界数据，就可更便捷地打造出更智能的机器人。",
+      "summary_original": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T19:19:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9c57f755",
+      "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+      "title_original": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "初创企业General Intuition认为，机器人领域即将迎来属于自己的ChatGPT时刻。该企业押注数百万小时电子游戏数据可训练实体人工智能基础模型，能减少研发对真实世界数据的需求，降低打造更智能机器人的难度。",
+      "summary_original": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T19:19:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9d6ba832",
+      "title": "SpaceXAI与Cursor发布格罗克4.5，声称其成本低于竞争对手",
+      "title_original": "SpaceXAI and Cursor Launch Grok 4.5, Tout Lower Costs Than Rivals",
+      "summary": "SpaceXAI与Cursor联合推出格罗克4.5产品，对外声称该产品的成本低于同领域竞争对手推出的同类产品。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/spacexai-cursor-launch-grok-4-5-tout-lower-costs-rivals",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-08T19:17:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d7ac7d2c",
+      "title": "谷歌为允许访客虚拟机逃逸的Linux漏洞支付25万美元赏金",
+      "title_original": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "summary": "谷歌向漏洞发现方支付25万美元，奖励其发现Linux系统中一个可实现访客虚拟机逃逸的安全漏洞。此次披露的相关漏洞共两个，两个漏洞均可让不受信任的用户获得最高root权限，存在严重安全隐患。",
+      "summary_original": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-07-08T19:01:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bb938cd6",
+      "title": "微软Xbox业务重整，黑曜石转而开发《辐射》而非《宣誓》",
+      "title_original": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "summary": "微软启动大规模Xbox业务重整，此次重整涉及裁员3200人、剥离工作室，调整投资方向聚焦优先级更高的项目。曾推出《禁闭求生》《天外世界》的黑曜石娱乐调整开发计划，取消包括《宣誓》在内的多个项目，转而开发全新《辐射》系列新作。",
+      "summary_original": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer Worlds, is starting work on a new Fallout title and has canceled \"multiple projects,\" including a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T18:50:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "de4f21b5",
+      "title": "埃隆·马斯克称X将在用户互动过的帖子被修正后发送私信通知",
+      "title_original": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "summary": "社交平台X推出更新，当用户点赞、回复或转发过的帖子，收到平台众包事实核查项目“社区注释”修正时，会向用户发送私信通知。该更新旨在回应外界批评，解决原有事实核查机制滞后、难以遏制虚假信息传播的问题。",
+      "summary_original": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-08T18:46:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cb9673c1",
+      "title": "谷歌照片新增AI“视频混剪”工具",
+      "title_original": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "谷歌照片新增一款名为“视频混剪”的人工智能编辑工具，可实现多项创意视频编辑功能，能够为偏暗的视频片段做电影级打光提亮，将单调的普通背景替换为趣味样式，还可为视频添加各类艺术风格效果。",
+      "summary_original": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T18:30:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f53e7780",
+      "title": "澳大利亚政府要求志愿者丢弃数千台功能完好的测试路由器",
+      "title_original": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "summary": "澳大利亚政府近日要求志愿者丢弃数千台仍可正常运行的测试路由器。这批拟被销毁的设备实际上可以轻松重刷固件恢复完整功能，直接丢弃的处置方式被指造成了不必要的资源浪费。",
+      "summary_original": "But the devices could \"easily be reflashed.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
+      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-07-08T18:10:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "673be39c",
+      "title": "美国最便宜全新电动汽车：体型比乒乓球台小 最高时速仅19英里",
+      "title_original": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+      "summary": "如今消费者选购平价电动汽车时，往往需要牺牲续航、空间、配置来换取可负担的亲民售价，菲亚特Topolino正是这类价格导向电动车取舍的终极体现，它是美国目前最便宜的全新电动汽车，体型比乒乓球台还小，最高时速仅19英里。",
+      "summary_original": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino is basically the ultimate embodiment of those tradeoffs. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T17:57:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1e9d0df0",
+      "title": "为何这位CEO认为电子游戏比互联网更适合做训练数据",
+      "title_original": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "要实现通用人工智能，ChatGPT、Claude这类大语言模型仍存在能力短板：它们擅长文本处理，却难以理解事物在时空中的实际运行规律，而这是通用智能必备的核心能力，有观点认为电子游戏数据可填补这一能力缺口。",
+      "summary_original": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a",
+      "image": null,
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T17:47:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d795ef2c",
+      "title": "黑石支持QTS数据中心抵押支持贷款",
+      "title_original": "Blackstone’s QTS Markets Data Center-Backed Loan",
+      "summary": "由黑石投资支持的QTS Realty Trust LLC旗下一家子公司，计划募集20亿美元资金，本次贷款以相关数据中心资产抵押，所得资金将用于偿还美国数据中心相关债务，剩余部分用于向股东派发分红。",
+      "summary_original": "A unit of Blackstone-backed QTS Realty Trust LLC is seeking to raise $2 billion to repay debt tied to US data centers and fund a distribution.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNKQdurRXzK8/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/blackstone-s-qts-taps-us-loan-market-in-data-center-backed-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-08T17:44:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7c10da8c",
+      "title": "尼日利亚总统要求查明据称在其办公室设立假机构一事",
+      "title_original": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "summary": "日前曝出一起涉及尼日利亚总统府的造假事件，嫌疑人阿德尼伊·阿德耶米涉嫌伪造任命文件，为一家总统府完全不知情的机构获取了运作经费，该假机构据称设立于总统办公室内，尼日利亚总统已要求相关方面查明此事的来龙去脉。",
+      "summary_original": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-08T17:31:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b2f6ac3e",
+      "title": "蟑螂将惧怕我的SwitchBot可充电按键机器人",
+      "title_original": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+      "summary": "有使用者分享，SwitchBot可充电按键机器人成了自己对抗蟑螂的得力帮手。此前他每天早晨都要摸黑穿过房间去开电灯，一路上提心吊胆怕踩到乱窜的蟑螂，有了这款可自动按开关的机器人后，便可提前开灯做好应对准备。",
+      "summary_original": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm ready for battle before [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T17:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ac96a476",
+      "title": "特朗普称乌克兰将获得爱国者导弹生产许可",
+      "title_original": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "summary": "特朗普对外透露，乌克兰将获得爱国者导弹的生产许可。爱国者导弹对俄罗斯的弹道导弹具备很高的拦截效率，可助力乌克兰提升防空能力，但该型导弹本身存在生产周期冗长的问题。",
+      "summary_original": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca1/live/ce2ce8c0-7af2-11f1-94d8-c95634a95d3e.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-08T17:18:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8cb577da",
+      "title": "Meta欲令旗下AI眼镜不那么惹人反感 但其AI战略与此相悖",
+      "title_original": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta为旗下AI眼镜新增一项安全防护措施，防止他人利用该款眼镜秘密录制他人。不过推出这一更新的同时，Meta仍在持续扩大旗下AI产品收集和使用个人数据的范围，与其弱化负面观感的目标相悖。",
+      "summary_original": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-08T17:11:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "821a4408",
+      "title": "若微软出售Xbox，谁会接手？",
+      "title_original": "If Microsoft sold off Xbox, who would even buy it?",
+      "summary": "本周，微软对旗下Xbox业务展开大幅调整，宣布当前将裁员1600人，下一财年还将再裁员1600人，同时剥离四家游戏工作室。Xbox首席执行官阿莎·夏尔马并未隐瞒此番做出大幅调整的原因。",
+      "summary_original": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramatic cuts, saying in a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T17:10:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3035080e",
+      "title": "Twelve South AirFly Pro为绝佳旅行伴侣 现促销价40美元",
+      "title_original": "Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
+      "summary": "若计划今夏出行，这款上一代Twelve South AirFly Pro可让无线耳机连接飞机上的娱乐系统，改善长途飞行体验，是实用的出行配件。目前该产品在亚马逊降价促销，直降15美元，到手价仅39.99美元。",
+      "summary_original": "If you&#8217;ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now it’s on sale for $39.99 ($15 off) at Amazon. That&#8217;s the best [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-08T17:09:28+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "a9e1577c",
+      "title": "伊朗战事实时更新：美军方称美国对伊朗发动新打击",
+      "summary": "美国中央司令部通过社交媒体表态，美方对伊朗发动新打击，行动目的是保护霍尔木兹海峡的航运安全。此前美国总统特朗普曾表示，已经持续三周的停火“已经结束”，此次行动令伊朗局势再度生变。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08mideast-promo730p-htzk/08mideast-promo730p-htzk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "45bb8026"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "45bb8026",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：美军方称美国对伊朗发动新打击",
+          "link": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+          "published_at": "2026-07-09T01:58:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:58:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8231335",
+      "title": "茂名石化应急救援队驰援广西抗洪抢险 - sinopecnews.com.cn",
+      "summary": "广西遭遇洪涝灾害后，多地多单位跨省驰援开展抢险救援工作。茂名石化应急救援队赶赴现场参与救援，湖北电信出动翼龙无人机打通灾区空中通信生命线，广东电网调集20台排涝车、25台发电车连夜驰援，另有无人机多次往返为灾区运送救灾物资。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "44fd4529"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "44fd4529",
+          "source": "Google News (中国)",
+          "title": "茂名石化应急救援队驰援广西抗洪抢险 - sinopecnews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTV9MalVjdlYzUkdBcUtMd0tMNjBIUGhfNTNNekxsZVhUVTE0SUZPdzhMeDVIaThZM2VCeHhXeXJTSm5GazFGcmJqWlRVV3BtYUU1OTVBVTdPTFFXWGw2RFl1SUt6bC1YWktjWFlsb2lTODBZbFIwdDVDcl91aXYtcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-09T01:33:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:33:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9adb4061",
+      "title": "首席未来官：Wayfair凯特·格利弗",
+      "summary": "彭博本期节目聚焦家居零售商Wayfair首席财务官凯特·格利弗。当前住房市场形势严峻，凯特正带领这家企业攻坚实现盈利增长，同时推出全新发展规划，计划开设品牌线下实体旗舰店，拓展线下业务布局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2eEIRqPnBnc/v3/1200x-1.jpg",
+      "article_ids": [
+        "71d0cd1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "71d0cd1e",
+          "source": "Bloomberg",
+          "title": "首席未来官：Wayfair凯特·格利弗",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-09/chief-future-officer-kate-gulliver-wayfair",
+          "published_at": "2026-07-09T01:30:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:30:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c1cca98e",
+      "title": "联合国秘书长呼吁美伊紧张局势降级--国际 - 人民网",
+      "summary": "近期中东局势战火重燃，美伊紧张局势升级。联合国秘书长公开呼吁美伊推动紧张局势降级。中国外交部对此表态，称重燃战火不符合任何一方利益，军事手段解决不了根本问题，呼吁美伊双方落实好已签署的谅解备忘录。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cf877c92"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cf877c92",
+          "source": "Google News (中国)",
+          "title": "联合国秘书长呼吁美伊紧张局势降级--国际 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yVFViVVhTTFE3azNZUUx5RG1HNzlNZGlaTFZmeU1wR0w2NHlmczdYY2QyVnozUWpvdDdhOE5yVzNUUmZWdzlrbnpZbFgyajlaQV9janNjaWxWanJiSEdwOXAzZG42S1d4LVNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-09T01:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f8b738d7",
+      "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+      "summary": "物理AI企业深度智控近期完成数亿元人民币B轮融资，本轮由晶科能源战略投资，国投创新、招银国际联合领投，多家老股东跟投。深度智控自研PhyAI物理AI引擎，已跑通商业闭环实现规模化盈利，本轮融资将用于技术研发、产品拓展及海外布局，目标打造全球能源基础设施“大脑”",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260709/v2_f5ee7e0511474f27833b094691d67fa7@6221844_oswg121767oswg2276oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "07e8a90d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "07e8a90d",
+          "source": "36氪",
+          "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+          "link": "https://36kr.com/p/3887726503688968?f=rss",
+          "published_at": "2026-07-09T01:20:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:20:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4348e34",
+      "title": "特朗普抨击北约盟友后称赞北约\"团结\"",
+      "summary": "特朗普此前抨击北约盟友未参与对伊朗战争，随后公开称赞北约保持\"团结\"。他还表示，将授予乌克兰长期寻求的权限，允许乌方使用爱国者防御系统，满足乌方的相关诉求。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08nato-live-promo-1pm-cpkv/08nato-live-promo-1pm-cpkv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5c1159b3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5c1159b3",
+          "source": "NYTimes World",
+          "title": "特朗普抨击北约盟友后称赞北约\"团结\"",
+          "link": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+          "published_at": "2026-07-09T01:13:31+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:13:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f525d5cd",
+      "title": "日本顶级眼镜厂商如何通过通胀考验",
+      "summary": "25年前，日本眼镜品牌JINS凭借4990日元的平价眼镜崛起，在物价停滞时期成为家喻户晓的平价时尚品牌。当前市场迎来定价权转变，这家总部位于东京的厂商进驻高端地段、拓宽产品价格带，借机把握行情变化，彭博社记者从东京发回相关报道。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im6s0mhTVoik/v3/1200x-1.jpg",
+      "article_ids": [
+        "af49e2de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "af49e2de",
+          "source": "Bloomberg",
+          "title": "日本顶级眼镜厂商如何通过通胀考验",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video",
+          "published_at": "2026-07-09T01:10:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:10:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "66783216",
+      "title": "美国连续第二天对伊朗发动打击",
+      "summary": "美国军方宣布已连续第二天对伊朗发动打击，这一行动造成暴力局势升级，或将令本就脆弱的停火协议承受更大压力。彭博社记者杰夫·梅森正跟进报道此次事件的最新进展，相关消息来源于彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jHLGPXHLno/v3/1200x-1.jpg",
+      "article_ids": [
+        "d2dee244"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d2dee244",
+          "source": "Bloomberg",
+          "title": "美国连续第二天对伊朗发动打击",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-09/us-launches-strikes-on-iran-for-second-straight-day-video",
+          "published_at": "2026-07-09T01:08:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:08:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "230ff0b2",
+      "title": "广西贵港教育园区1.2万名师生被困洪水，救援如何开展？人民日报记者现场直击 - 新浪财经",
+      "summary": "广西贵港遭遇当地25年来最大洪水，贵港教育园区被洪水淹没，原定开展的期末考试无法进行，共有1.2万名师生受困。目前解放军武警官兵、民兵，以及厦门市曙光救援队、民间公益力量等多方已投入抢险，开展被困师生转移工作，人民日报记者已赴现场直击救援。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7b0a8961"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7b0a8961",
+          "source": "Google News (中国)",
+          "title": "广西贵港教育园区1.2万名师生被困洪水，救援如何开展？人民日报记者现场直击 - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5saFBDS0pFSEoyNzNYbllZN09XQ1l4cjZiRlNvdG1oWVNuYmhzUndQOHZkZFQ2b05rTm5CV3RkS05FR0xwUTBVNXJsbzBUQjN4ci1seWFvaHV0M0VLZHZHMzkwR2Iyd3YwZlQ4Mzc3Tm51dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-09T01:03:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:03:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "abbece26",
+      "title": "韩国央行行长申铉松称下周会议前需加息",
+      "summary": "韩国央行行长申铉松近日向议会表示，政策利率需在适当时机上调。目前市场普遍预计韩国央行将在一周后召开的货币政策会议上加息，此番表态进一步强化了该央行的鹰派政策立场。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBdeGN2C9t60/v0/1200x-1.jpg",
+      "article_ids": [
+        "5e050f35"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5e050f35",
+          "source": "Bloomberg",
+          "title": "韩国央行行长申铉松称下周会议前需加息",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-09/bank-of-korea-sees-need-to-hike-rate-on-higher-inflation-growth",
+          "published_at": "2026-07-09T01:00:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T01:00:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "844e65a6",
+      "title": "新西兰制造业创五年新高 布雷曼强调经济复苏",
+      "summary": "新西兰6月制造业扩张速度达到近五年来最快水平。新西兰央行行长安娜·布雷曼表示，这一走势体现该国经济复苏正蓬勃推进，也印证了央行本周作出的加息决定。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijpODV9zfELI/v0/1200x-1.jpg",
+      "article_ids": [
+        "a7da1d60"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a7da1d60",
+          "source": "Bloomberg",
+          "title": "新西兰制造业创五年新高 布雷曼强调经济复苏",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-09/nz-manufacturing-hits-5-year-high-as-breman-highlights-recovery",
+          "published_at": "2026-07-09T00:30:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T00:30:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67ec02d4",
+      "title": "国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会在京召开 - 共产党新闻网",
+      "summary": "国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会在北京召开，习近平总书记勉励广大科技工作者发扬优良传统，为建设科技强国多立新功。相关报道指出，建设社会主义现代化强国关键在科技自立自强，多位受访院士表示将以国家需求为己任深耕科技领域。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "20701384"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "20701384",
+          "source": "Google News (中国)",
+          "title": "国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会在京召开 - 共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzbjBEWmhrZ0R0aURGWDRhWmJYaG1tU2Y4NndRUWJxVkVsNk15VzV6emNqYV9jTWdHMnZ0bkpWU3JmMmZTRXgyblJ3cllhVzFYYko1Ukl5ZnhQWjQ3ZVNVZmFaUG1scGE4ajNF?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-09T00:27:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T00:27:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c2826a3f",
+      "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
+      "summary": "35岁清华出身的陈可卿带领由旷视、豪威系团队组建的极豪科技，近日正式向港交所递交招股书冲刺IPO。按2025年收入计，该公司位居中国智能手机生物识别解决方案市场第二，近年亏损持续收窄，布局智能眼镜、具身智能新赛道，仍存客户集中度偏高等问题。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260709/v2_2ed96318b34e42b8a7e643e5d27f3292@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "19d9096d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "19d9096d",
+          "source": "36氪",
+          "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
+          "link": "https://36kr.com/p/3887659913083392?f=rss",
+          "published_at": "2026-07-09T00:12:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T00:12:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e7b86cb",
+      "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
+      "summary": "7月8日多个领域发布核心动态：小米官宣全新SKYNOMAD澎程系列增程SUV，雷军回应称发布“快了”；OpenAI效力近九年的首席未来学家约书亚·阿奇亚姆宣布本月离职；张小龙辞任粉笔CEO及董事会主席；工信部指出Claude Code存严重安全后门，欧盟法院驳回苹果上诉维持“看门人”认定",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6fbee127"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "6fbee127",
+          "source": "36氪",
+          "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
+          "link": "https://36kr.com/p/3887648675133960?f=rss",
+          "published_at": "2026-07-09T00:03:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T00:03:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cfa36fdf",
+      "title": "高收益率为更多全球债券资金流入印尼奠定基础",
+      "summary": "当前全球资本流入印尼主权债券的趋势有望延续。印尼拥有新兴亚洲市场中较高的债券收益率，投资者认为该资产具备投资价值，同时押注此前力度较大的一轮加息进程已接近尾声，因此将持续流入布局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ8PqXMF7iD8/v2/1200x-1.png",
+      "article_ids": [
+        "bf2cd33e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bf2cd33e",
+          "source": "Bloomberg",
+          "title": "高收益率为更多全球债券资金流入印尼奠定基础",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-09/high-yields-set-stage-for-more-global-bond-inflow-into-indonesia",
+          "published_at": "2026-07-09T00:01:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-09T00:01:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9e806c5c",
+      "title": "双线驰援 武警广西总队官兵抢险转移、清淤排涝同步推进 - chinanews.com.cn",
+      "summary": "广西发生洪灾后，武警广西总队官兵双线驰援，同步推进受灾群众转移抢险与灾后清淤排涝工作。多家媒体关注本次广西洪灾救灾工作，先后报道了横州市社会捐赠物资接收点、安置点热餐保障、安置点成长教育等相关救灾安置情况。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "90b26a72"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "90b26a72",
+          "source": "Google News (中国)",
+          "title": "双线驰援 武警广西总队官兵抢险转移、清淤排涝同步推进 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XZDBMeGJuQU9abklWVUdUTTlyZE5sc0dGb0toV0lFT094ZGktNnNBQjRDNW5MX2hDLWktMW1WVVJER3FhUkF0eS12bjhQdG9tS0dUUU92M1hUTXhiczJrMnB1WXIwVTRzb2hNaTNkdHdibFQ2cUtiZ0xR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-08T23:58:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T23:58:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "911c8ce2",
+      "title": "尽管存有疑虑，法官仍批准马斯克与SEC的150万美元和解",
+      "summary": "埃隆·马斯克因披露增持推特（现更名为X）股份一事，与美国证券交易委员会SEC产生纠纷，这场拉扯已久的纠纷如今落下帷幕。法官尽管心存疑虑，最终还是批准了双方达成的150万美元和解协议。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8010df8b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "8010df8b",
+          "source": "TechCrunch",
+          "title": "尽管存有疑虑，法官仍批准马斯克与SEC的150万美元和解",
+          "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+          "published_at": "2026-07-08T23:11:42+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T23:11:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e792fad6",
+      "title": "苹果供应商立讯精密香港上市募资30亿美元后股价下跌",
+      "summary": "周四，苹果供应商立讯精密在香港挂牌上市，本次上市募资243亿港元，约合31亿美元，为香港今年以来规模最大的首次公开发行，上市首日交易中该股股价出现下跌。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXNWjxR9jELY/v0/1200x-1.jpg",
+      "article_ids": [
+        "a07bed2b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a07bed2b",
+          "source": "Bloomberg",
+          "title": "苹果供应商立讯精密香港上市募资30亿美元后股价下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+          "published_at": "2026-07-08T23:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T23:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67a5cef2",
+      "title": "据报道Lovable正洽谈融资 估值翻倍至132亿美元",
+      "summary": "媒体Sifted报道，Lovable计划开展一轮规模为3亿美元的融资，该轮融资预计由Menlo Ventures领投，本次融资完成后，Lovable的公司整体估值将翻倍，达到132亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b4c36ffa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b4c36ffa",
+          "source": "TechCrunch",
+          "title": "据报道Lovable正洽谈融资 估值翻倍至132亿美元",
+          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "published_at": "2026-07-08T22:41:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:41:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67a5cef2",
+      "title": "据传Lovable洽谈融资 估值将翻倍至132亿美元",
+      "summary": "媒体Sifted报道，Lovable目前正开展融资相关洽谈，此次拟推出的新一轮融资金额为3亿美元，预计由风投机构Menlo Ventures领投，融资完成后Lovable的估值将翻倍，达到132亿美元。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b4c36ffa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "b4c36ffa",
+          "source": "TechCrunch AI",
+          "title": "据传Lovable洽谈融资 估值将翻倍至132亿美元",
+          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "published_at": "2026-07-08T22:41:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:41:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9217c790",
+      "title": "据报道Meta正研发可全程录制的智能眼镜",
+      "summary": "据《金融时报》报道，Meta正研发一款始终在线的人工智能可穿戴设备，其原型为“超感知”全感应智能眼镜，可持续录制音频、每隔几秒拍摄一张照片，佩戴者可就捕获的音画内容向Meta AI提问。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "56572622"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "56572622",
+          "source": "The Verge",
+          "title": "据报道Meta正研发可全程录制的智能眼镜",
+          "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+          "published_at": "2026-07-08T22:37:25+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:37:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d330d0a",
+      "title": "委内瑞拉地震废墟发现更多遗体 惨剧渐成常态",
+      "summary": "委内瑞拉地震发生后，不少遇难者仍被埋在废墟之中。当地民众担忧官方拆除受损建筑前不会排查清点剩余遇难者遗体，因此正不顾一切地挖掘废墟，搜寻自己遇难亲属的遗骸。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-venezuela-quakes-recovery02-photo-plqw/08int-venezuela-quakes-recovery02-photo-plqw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "92717f9c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "92717f9c",
+          "source": "NYTimes World",
+          "title": "委内瑞拉地震废墟发现更多遗体 惨剧渐成常态",
+          "link": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
+          "published_at": "2026-07-08T22:34:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:34:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd8f0d21",
+      "title": "市场综述：芯片股上涨布油攀升 亚洲股指上扬",
+      "summary": "受人工智能带动芯片需求的乐观情绪提振，半导体板块获得投资者青睐，芯片股领涨推动亚洲股指上涨。在美国连续第二天打击伊朗后，国际油价延续上涨势头，布伦特原油价格进一步攀升。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPKv4piJdz6U/v3/1200x-1.png",
+      "article_ids": [
+        "b443a144"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b443a144",
+          "source": "Bloomberg",
+          "title": "市场综述：芯片股上涨布油攀升 亚洲股指上扬",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates",
+          "published_at": "2026-07-08T22:09:37+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:09:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a8016648",
+      "title": "金观平：为建设科技强国多立新功 - 中国经济网",
+      "summary": "署名金观平、题为《为建设科技强国多立新功》的评论文章发布于中国经济网，文章倡导各方把握科技发展机遇，深耕科技创新领域，主动担当作为，凝聚创新合力，为我国推进科技强国建设贡献力量、多立新功。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "18e58f8e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "18e58f8e",
+          "source": "Google News (中国)",
+          "title": "金观平：为建设科技强国多立新功 - 中国经济网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QOXZMR29vbjYzWTU5TjNjTV9GMjN0anVrY1NONFNNZGhYSzZEX1VlU0IyQ1pMcjJ0LWRNN3d5Z2E4RTFkbm5wMmprdW1aS2hLN201UkdzVkstaWRwMjlublFnbWJaWWx4Vzg2LUc4cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-08T22:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "425bd26e",
+      "title": "美国对伊朗新打击震动市场 油价延续涨势",
+      "summary": "美国连续第二天对伊朗目标发动军事打击，推升中东地区能源供应风险，地缘局势动荡搅动全球能源市场，受地缘政治不确定性影响，国际油价在前期上涨基础上延续涨势。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.TSCGa8Xa7o/v2/1200x-1.png",
+      "article_ids": [
+        "4d4e478d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4d4e478d",
+          "source": "Bloomberg",
+          "title": "美国对伊朗新打击震动市场 油价延续涨势",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
+          "published_at": "2026-07-08T22:01:34+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T22:01:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "920b160c",
+      "title": "美国联邦当局要求自动驾驶车企停止干扰应急响应人员",
+      "summary": "美国联邦当局向自动驾驶汽车企业提出要求，明确其不得干扰应急响应人员开展现场作业。美国国家公路交通安全管理局明确表态称，紧急事件场景并非自动驾驶领域可特殊化处理的“边缘案例”。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7cbd64ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7cbd64ac",
+          "source": "TechCrunch",
+          "title": "美国联邦当局要求自动驾驶车企停止干扰应急响应人员",
+          "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+          "published_at": "2026-07-08T21:49:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T21:49:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2532cb64",
+      "title": "广西多地遭遇持续性极端强降雨 记者直击救灾一线 - 中国日报网",
+      "summary": "广西多地遭遇持续性极端强降雨引发灾害，多家媒体跟进报道，有记者深入受灾一线直击救援现场，记录沿途险情。目前各地各部门正全力组织抢险救援，基层党组织发挥引领作用，党群同心开展防汛救灾工作，同时也引发对灾情成因、受损设施处置等问题的关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "efddd956"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "efddd956",
+          "source": "Google News (中国)",
+          "title": "广西多地遭遇持续性极端强降雨 记者直击救灾一线 - 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPc09KQVV0T09LaHpyTEl2WHFLaFV4V0QxOXlWODJPTUNaa0VkZXJ3akZ1SDdrdkdFUVo2VW80WXBoaG1HVm1CdDFkcWpqbVotaHlzdmJPR25FWDlrM1B5N2JQRDE1VG1HOUdsOGxaT21yV1UyT3p5NUdwblQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-08T21:46:32+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T21:46:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0fe55fde",
+      "title": "特朗普赞扬中国未介入伊朗战争 - 美国之音",
+      "summary": "当前霍尔木兹海峡冲突持续升级，美伊关系紧张，原美伊临时协议已作废，伊朗报复美军基地推升油价，金价也出现波动。特朗普在北约峰会期间就局势发言，称不确定是否还会与伊朗达成协议，同时扬言或对伊朗动武，还赞扬中国未介入伊朗冲突。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "404ed270"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "404ed270",
+          "source": "Google News (中国)",
+          "title": "特朗普赞扬中国未介入伊朗战争 - 美国之音",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWtsZElNZm53cmhwQm13V0VzNGVZNXIwOXhVN09rQXI0VFNSUWlrUkgwR0RwRWFDUWVoRWlJa0lvVGI1UUJqMmlWTVd3ZTd2N1h0Wk5xbHlmNkx4bnBlbmNGWkp4MXhwcTN4YzRIUlhhS2xKTWFNdXVPRm1fU3VtOFZ5MGFYRUFPcWlsYWd6VGlkUUd1X2Q2Q2FBSTFXMVFMWWJRVjA3dmlOOVJOaTNIdFdfd9IBtgFBVV95cUxPVEJZLXJONC1fOThaNmpXM2VhNTVNVjg0d0tTUmk2Y3VBM1UxSklhLVRWbE1jVUVzTmFvcHhMT1BsalZEYnItSWVlQzlpR21TUDk4eG9PbnFtRk5QeU1xbTdxTGZuZnR3WlVRNm5ZN0FKeTc0TkRHbmNnenBkd1BwLURRVGc4ZmYxWEFZal8tSUlYQTBSSERCd3ZRTmwxZHpLeFJpeldEUF8zYWE0WUp4RTJjajhRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-08T21:31:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T21:31:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54fe40ab",
+      "title": "世界杯埃及惨痛不敌阿根廷 民众心碎愤怒",
+      "summary": "在埃及对阵阿根廷的世界杯比赛中，埃及队几乎全场保持领先，阿根廷却在比赛最后时刻完成绝杀拿下胜利。这一出乎意料的结果令埃及球迷难以接受，不少人伤心落泪，还催生了诸多阴谋论。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/sports/soccer/Cairo-Reacts-Getty-Images/Cairo-Reacts-Getty-Images-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "615925e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "615925e9",
+          "source": "NYTimes World",
+          "title": "世界杯埃及惨痛不敌阿根廷 民众心碎愤怒",
+          "link": "https://www.nytimes.com/2026/07/08/world/africa/egypt-argentina-goal-referee-conspiracy.html",
+          "published_at": "2026-07-08T21:25:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T21:25:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c5547f4f",
+      "title": "贾斯汀·比伯将与麦当娜、夏奇拉、BTS一同亮相世界杯决赛半场秀",
+      "summary": "这场采用超级碗风格的演出，是加拿大歌手贾斯汀·比伯在科切拉音乐节完成复出演出后的又一场大型演出，此次他将同麦当娜、夏奇拉、BTS一道登上世界杯决赛的半场秀舞台。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg",
+      "article_ids": [
+        "b517fe6b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b517fe6b",
+          "source": "BBC World",
+          "title": "贾斯汀·比伯将与麦当娜、夏奇拉、BTS一同亮相世界杯决赛半场秀",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-08T20:58:21+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:58:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eda9dffd",
+      "title": "内部文件查实国际刑事法院检察官存在性骚扰行为",
+      "summary": "一份内部机密文件查实，国际刑事法院一名检察官存在性骚扰行为，这份相关报告将交由国际刑事法院各成员国审议，成员国将通过投票表决，决定是否解除这名涉事高级官员的职务。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08icc-khan-01-wcjm/08icc-khan-01-wcjm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3225ae7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3225ae7c",
+          "source": "NYTimes World",
+          "title": "内部文件查实国际刑事法院检察官存在性骚扰行为",
+          "link": "https://www.nytimes.com/2026/07/08/world/europe/internal-file-finds-icc-prosecutor-engaged-in-sexual-harassment.html",
+          "published_at": "2026-07-08T20:53:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:53:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97153804",
+      "title": "斯塔默在北约场合获土耳其总统赠送枪支弹药",
+      "summary": "在北约相关活动中，土耳其总统向斯塔默赠送了枪支与弹药。此次获赠的武器并未被带回英国，目前已交由英国派驻土耳其的官方人员保管，暂未披露本次赠礼的更多相关细节。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a3/live/c995b2c0-7b05-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "c7c3e9ba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c7c3e9ba",
+          "source": "BBC World",
+          "title": "斯塔默在北约场合获土耳其总统赠送枪支弹药",
+          "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-08T20:40:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:40:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb6c4e0b",
+      "title": "谷歌深度伪造检测系统揭穿麦康奈尔假图骗局",
+      "summary": "本周早些时候，网传一张美国肯塔基州参议员米奇·麦康奈尔浑身插满管子、躺在病床上状态危急的图片，该图片实为AI生成的深度伪造作品，谷歌的深度伪造检测系统被用于揭穿这一造假事件。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "16f0c7d5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "16f0c7d5",
+          "source": "TechCrunch",
+          "title": "谷歌深度伪造检测系统揭穿麦康奈尔假图骗局",
+          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "published_at": "2026-07-08T20:37:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:37:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb6c4e0b",
+      "title": "谷歌深度伪造检测系统用于揭穿麦康奈尔假图骗局",
+      "summary": "本周早些时候，一张显示美国肯塔基州参议员米奇·麦康奈尔躺在医院病床上，身上遍布管子、状态极差的图片流传开来，该图被证实为人工智能生成的虚假内容，本次造假骗局正是借助谷歌的深度伪造检测系统揭穿的。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "16f0c7d5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "16f0c7d5",
+          "source": "TechCrunch AI",
+          "title": "谷歌深度伪造检测系统用于揭穿麦康奈尔假图骗局",
+          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "published_at": "2026-07-08T20:37:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:37:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "53ac23b0",
+      "title": "获欧盟支持，QuantumDiamonds拟加快芯片制造进程",
+      "summary": "欧盟出台与美国类似的《欧洲芯片法案》，旨在借助政府补贴扶持本土半导体产业发展。德国初创企业QuantumDiamonds是该法案受益方之一，该企业采用创新方法检测芯片，获支持后将加快芯片制造进程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ed82c278"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ed82c278",
+          "source": "TechCrunch",
+          "title": "获欧盟支持，QuantumDiamonds拟加快芯片制造进程",
+          "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+          "published_at": "2026-07-08T20:29:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:29:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cc2f4872",
+      "title": "亚利桑那一幼儿被宣告溺水身亡后于医院停尸房被发现存活",
+      "summary": "美国亚利桑那一名18个月大的幼儿遭遇溺水后，被宣告死亡送入医院停尸房，随后被发现仍然存活，该幼儿随即被空运转至另一所医院接受救治，最终成功存活下来。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cb/live/39e4a450-7ade-11f1-9a9c-53fd8f110370.jpg",
+      "article_ids": [
+        "076e4682"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "076e4682",
+          "source": "BBC World",
+          "title": "亚利桑那一幼儿被宣告溺水身亡后于医院停尸房被发现存活",
+          "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-08T20:18:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:18:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f3fee64a",
+      "title": "自主无人机配送初创公司Manna计划在美大举扩张",
+      "summary": "自主无人机配送初创公司Manna计划在美国进行大规模扩张，将在俄克拉荷马州塔尔萨市设立美国运营及制造工厂，该工厂最终将吸纳1000名员工，是该公司开拓美国市场的重要布局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "211838bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "211838bf",
+          "source": "TechCrunch",
+          "title": "自主无人机配送初创公司Manna计划在美大举扩张",
+          "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+          "published_at": "2026-07-08T20:06:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:06:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff186838",
+      "title": "预订三星即将推出的Galaxy手机可获30美元信用额度",
+      "summary": "三星新一代Galaxy Z Fold系列折叠屏手机尚未正式发布，目前开启预订即可享受30美元信用额度优惠。三星将于2026年7月22日举办Galaxy Unpacked新品发布会，本次发布会口号为“新形态由此展开”。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dd74d4e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dd74d4e9",
+          "source": "The Verge",
+          "title": "预订三星即将推出的Galaxy手机可获30美元信用额度",
+          "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+          "published_at": "2026-07-08T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b63bc78",
+      "title": "勒庞开启总统竞选，法国政坛再生变数",
+      "summary": "法国极右翼领导人玛丽娜·勒庞，在法院裁定其可再度参选总统的次日，于自身的乡村票仓正式开启总统竞选。活动现场支持者欢呼与反对者嘘声交织，此次竞选为法国政坛带来了新的变数。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-france-lepen-0001-hzpk/08int-france-lepen-0001-hzpk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7617436d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7617436d",
+          "source": "NYTimes World",
+          "title": "勒庞开启总统竞选，法国政坛再生变数",
+          "link": "https://www.nytimes.com/2026/07/08/world/europe/marine-le-pen-presidential-campaign.html",
+          "published_at": "2026-07-08T19:56:21+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:56:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a9b09603",
+      "title": "SpaceXAI发布Grok 4.5 马斯克称其为\"杰作级模型\"",
+      "summary": "埃隆·马斯克旗下科技公司SpaceXAI于周三发布人工智能模型Grok的最新版本Grok 4.5，马斯克将该模型称为\"杰作级模型\"，官方称这款模型相较于其他高性能AI模型，价格更低、效率更高，可作为替代选择。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e265f51e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e265f51e",
+          "source": "TechCrunch",
+          "title": "SpaceXAI发布Grok 4.5 马斯克称其为\"杰作级模型\"",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "published_at": "2026-07-08T19:30:16+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:30:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a9b09603",
+      "title": "SpaceXAI发布Grok 4.5 埃隆称其为\"Opus级模型\"",
+      "summary": "埃隆·马斯克旗下科技公司SpaceXAI于周三发布新一代大模型Grok 4.5，马斯克本人将该模型称作\"Opus级模型\"。这款新品号称可替代其他现有高性能AI模型，且成本更低、效率更高。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e265f51e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "e265f51e",
+          "source": "TechCrunch AI",
+          "title": "SpaceXAI发布Grok 4.5 埃隆称其为\"Opus级模型\"",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "published_at": "2026-07-08T19:30:16+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:30:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f5e3125f",
+      "title": "\"慢社交\"应用Roost迫使你放慢节奏至信鸽速度",
+      "summary": "一款主打\"慢社交\"的应用Roost意外走红，其开发者原本仅将它作为副业项目开发，并未料到如今已积累30万用户。该应用因可替代当前永远在线、快节奏的主流网络文化，受到众多用户喜爱。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e4155367"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e4155367",
+          "source": "TechCrunch",
+          "title": "\"慢社交\"应用Roost迫使你放慢节奏至信鸽速度",
+          "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+          "published_at": "2026-07-08T19:22:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:22:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ee900cd",
+      "title": "北約峰會後 川普為何改搭舊空軍一號返美 - 大纪元",
+      "summary": "北约峰会结束后，特朗普此前首次搭乘卡塔尔赠送的新专机出行，此举引发外界对该专机的安全疑虑。随后特朗普突然改乘旧版空军一号返回美国，该变动引发多方猜测，伊朗官员借机表态称本可以对特朗普本人发动打击，但最终并未动手。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7b09af2e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7b09af2e",
+          "source": "Google News (中国)",
+          "title": "北約峰會後 川普為何改搭舊空軍一號返美 - 大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pWHJQeVlrS3hkZEZYV3BSV25UR2daRG80SEVCQ0NGTGtNak9WVnRaeFdJR2pIa2xNY0h0MkxtVUVfam5fWk1JUnNQSTNiSXpyenZ5LWVoZGNqU3MwSDZ30gFkQVVfeXFMTmVzQTA4b2ZfblBLczk1MFdYWVl5OWxkc0M1TnAtQ2NrM01YMnhVRXNRNC00UWJaZkJCUmp3NWRTQk13Z2JzTXRBa1BYRWZFNGZPQ2gyN0k2TU1yNjc1Sm9EM2cwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-08T19:22:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:22:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c67e1eb2",
+      "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+      "summary": "初创企业General Intuition认为，机器人领域即将迎来属于自己的ChatGPT时刻。该企业押注数百万小时的游戏数据可训练实体人工智能基础模型，能帮助开发者仅需少量真实世界数据，就可更便捷地打造出更智能的机器人。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9c57f755"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9c57f755",
+          "source": "TechCrunch",
+          "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+          "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "published_at": "2026-07-08T19:19:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:19:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c67e1eb2",
+      "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+      "summary": "初创企业General Intuition认为，机器人领域即将迎来属于自己的ChatGPT时刻。该企业押注数百万小时电子游戏数据可训练实体人工智能基础模型，能减少研发对真实世界数据的需求，降低打造更智能机器人的难度。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9c57f755"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9c57f755",
+          "source": "TechCrunch AI",
+          "title": "这家初创公司认为机器人领域即将迎来ChatGPT时刻",
+          "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "published_at": "2026-07-08T19:19:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:19:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "352cf3d5",
+      "title": "SpaceXAI与Cursor发布格罗克4.5，声称其成本低于竞争对手",
+      "summary": "SpaceXAI与Cursor联合推出格罗克4.5产品，对外声称该产品的成本低于同领域竞争对手推出的同类产品。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9d6ba832"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "9d6ba832",
+          "source": "The Information",
+          "title": "SpaceXAI与Cursor发布格罗克4.5，声称其成本低于竞争对手",
+          "link": "https://www.theinformation.com/briefings/spacexai-cursor-launch-grok-4-5-tout-lower-costs-rivals",
+          "published_at": "2026-07-08T19:17:44+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:17:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3e583821",
+      "title": "谷歌为允许访客虚拟机逃逸的Linux漏洞支付25万美元赏金",
+      "summary": "谷歌向漏洞发现方支付25万美元，奖励其发现Linux系统中一个可实现访客虚拟机逃逸的安全漏洞。此次披露的相关漏洞共两个，两个漏洞均可让不受信任的用户获得最高root权限，存在严重安全隐患。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "article_ids": [
+        "d7ac7d2c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "d7ac7d2c",
+          "source": "Ars Technica",
+          "title": "谷歌为允许访客虚拟机逃逸的Linux漏洞支付25万美元赏金",
+          "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "published_at": "2026-07-08T19:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T19:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ddfe71d",
+      "title": "微软Xbox业务重整，黑曜石转而开发《辐射》而非《宣誓》",
+      "summary": "微软启动大规模Xbox业务重整，此次重整涉及裁员3200人、剥离工作室，调整投资方向聚焦优先级更高的项目。曾推出《禁闭求生》《天外世界》的黑曜石娱乐调整开发计划，取消包括《宣誓》在内的多个项目，转而开发全新《辐射》系列新作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bb938cd6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bb938cd6",
+          "source": "The Verge",
+          "title": "微软Xbox业务重整，黑曜石转而开发《辐射》而非《宣誓》",
+          "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+          "published_at": "2026-07-08T18:50:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T18:50:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "47634b9f",
+      "title": "埃隆·马斯克称X将在用户互动过的帖子被修正后发送私信通知",
+      "summary": "社交平台X推出更新，当用户点赞、回复或转发过的帖子，收到平台众包事实核查项目“社区注释”修正时，会向用户发送私信通知。该更新旨在回应外界批评，解决原有事实核查机制滞后、难以遏制虚假信息传播的问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "de4f21b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "de4f21b5",
+          "source": "TechCrunch",
+          "title": "埃隆·马斯克称X将在用户互动过的帖子被修正后发送私信通知",
+          "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+          "published_at": "2026-07-08T18:46:20+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T18:46:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8231d2f7",
+      "title": "谷歌照片新增AI“视频混剪”工具",
+      "summary": "谷歌照片新增一款名为“视频混剪”的人工智能编辑工具，可实现多项创意视频编辑功能，能够为偏暗的视频片段做电影级打光提亮，将单调的普通背景替换为趣味样式，还可为视频添加各类艺术风格效果。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cb9673c1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "cb9673c1",
+          "source": "TechCrunch AI",
+          "title": "谷歌照片新增AI“视频混剪”工具",
+          "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "published_at": "2026-07-08T18:30:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T18:30:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b181fc03",
+      "title": "澳大利亚政府要求志愿者丢弃数千台功能完好的测试路由器",
+      "summary": "澳大利亚政府近日要求志愿者丢弃数千台仍可正常运行的测试路由器。这批拟被销毁的设备实际上可以轻松重刷固件恢复完整功能，直接丢弃的处置方式被指造成了不必要的资源浪费。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238063763-1152x648-1783530792.jpg",
+      "article_ids": [
+        "f53e7780"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "f53e7780",
+          "source": "Ars Technica",
+          "title": "澳大利亚政府要求志愿者丢弃数千台功能完好的测试路由器",
+          "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+          "published_at": "2026-07-08T18:10:16+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T18:10:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4d4fa6f5",
+      "title": "美国最便宜全新电动汽车：体型比乒乓球台小 最高时速仅19英里",
+      "summary": "如今消费者选购平价电动汽车时，往往需要牺牲续航、空间、配置来换取可负担的亲民售价，菲亚特Topolino正是这类价格导向电动车取舍的终极体现，它是美国目前最便宜的全新电动汽车，体型比乒乓球台还小，最高时速仅19英里。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "673be39c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "673be39c",
+          "source": "The Verge",
+          "title": "美国最便宜全新电动汽车：体型比乒乓球台小 最高时速仅19英里",
+          "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+          "published_at": "2026-07-08T17:57:53+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:57:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a224a5d",
+      "title": "为何这位CEO认为电子游戏比互联网更适合做训练数据",
+      "summary": "要实现通用人工智能，ChatGPT、Claude这类大语言模型仍存在能力短板：它们擅长文本处理，却难以理解事物在时空中的实际运行规律，而这是通用智能必备的核心能力，有观点认为电子游戏数据可填补这一能力缺口。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1e9d0df0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "1e9d0df0",
+          "source": "TechCrunch AI",
+          "title": "为何这位CEO认为电子游戏比互联网更适合做训练数据",
+          "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+          "published_at": "2026-07-08T17:47:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:47:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9311b201",
+      "title": "黑石支持QTS数据中心抵押支持贷款",
+      "summary": "由黑石投资支持的QTS Realty Trust LLC旗下一家子公司，计划募集20亿美元资金，本次贷款以相关数据中心资产抵押，所得资金将用于偿还美国数据中心相关债务，剩余部分用于向股东派发分红。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNKQdurRXzK8/v0/1200x-1.jpg",
+      "article_ids": [
+        "d795ef2c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d795ef2c",
+          "source": "Bloomberg",
+          "title": "黑石支持QTS数据中心抵押支持贷款",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/blackstone-s-qts-taps-us-loan-market-in-data-center-backed-deal",
+          "published_at": "2026-07-08T17:44:21+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:44:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad468703",
+      "title": "尼日利亚总统要求查明据称在其办公室设立假机构一事",
+      "summary": "日前曝出一起涉及尼日利亚总统府的造假事件，嫌疑人阿德尼伊·阿德耶米涉嫌伪造任命文件，为一家总统府完全不知情的机构获取了运作经费，该假机构据称设立于总统办公室内，尼日利亚总统已要求相关方面查明此事的来龙去脉。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
+      "article_ids": [
+        "7c10da8c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7c10da8c",
+          "source": "BBC World",
+          "title": "尼日利亚总统要求查明据称在其办公室设立假机构一事",
+          "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-08T17:31:47+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:31:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ecfcc987",
+      "title": "蟑螂将惧怕我的SwitchBot可充电按键机器人",
+      "summary": "有使用者分享，SwitchBot可充电按键机器人成了自己对抗蟑螂的得力帮手。此前他每天早晨都要摸黑穿过房间去开电灯，一路上提心吊胆怕踩到乱窜的蟑螂，有了这款可自动按开关的机器人后，便可提前开灯做好应对准备。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b2f6ac3e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b2f6ac3e",
+          "source": "The Verge",
+          "title": "蟑螂将惧怕我的SwitchBot可充电按键机器人",
+          "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+          "published_at": "2026-07-08T17:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b32897d",
+      "title": "特朗普称乌克兰将获得爱国者导弹生产许可",
+      "summary": "特朗普对外透露，乌克兰将获得爱国者导弹的生产许可。爱国者导弹对俄罗斯的弹道导弹具备很高的拦截效率，可助力乌克兰提升防空能力，但该型导弹本身存在生产周期冗长的问题。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca1/live/ce2ce8c0-7af2-11f1-94d8-c95634a95d3e.jpg",
+      "article_ids": [
+        "ac96a476"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ac96a476",
+          "source": "BBC World",
+          "title": "特朗普称乌克兰将获得爱国者导弹生产许可",
+          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-08T17:18:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:18:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8684a804",
+      "title": "Meta欲令旗下AI眼镜不那么惹人反感 但其AI战略与此相悖",
+      "summary": "Meta为旗下AI眼镜新增一项安全防护措施，防止他人利用该款眼镜秘密录制他人。不过推出这一更新的同时，Meta仍在持续扩大旗下AI产品收集和使用个人数据的范围，与其弱化负面观感的目标相悖。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "8cb577da"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "8cb577da",
+          "source": "TechCrunch AI",
+          "title": "Meta欲令旗下AI眼镜不那么惹人反感 但其AI战略与此相悖",
+          "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+          "published_at": "2026-07-08T17:11:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:11:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "df60422b",
+      "title": "若微软出售Xbox，谁会接手？",
+      "summary": "本周，微软对旗下Xbox业务展开大幅调整，宣布当前将裁员1600人，下一财年还将再裁员1600人，同时剥离四家游戏工作室。Xbox首席执行官阿莎·夏尔马并未隐瞒此番做出大幅调整的原因。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "821a4408"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "821a4408",
+          "source": "The Verge",
+          "title": "若微软出售Xbox，谁会接手？",
+          "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+          "published_at": "2026-07-08T17:10:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:10:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62fb699c",
+      "title": "Twelve South AirFly Pro为绝佳旅行伴侣 现促销价40美元",
+      "summary": "若计划今夏出行，这款上一代Twelve South AirFly Pro可让无线耳机连接飞机上的娱乐系统，改善长途飞行体验，是实用的出行配件。目前该产品在亚马逊降价促销，直降15美元，到手价仅39.99美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3035080e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3035080e",
+          "source": "The Verge",
+          "title": "Twelve South AirFly Pro为绝佳旅行伴侣 现促销价40美元",
+          "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+          "published_at": "2026-07-08T17:09:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-08T17:09:28+00:00",
+      "is_merged": false
+    }
+  ]
+}
