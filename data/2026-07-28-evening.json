@@ -1,0 +1,2411 @@
+{
+  "date": "2026-07-28",
+  "edition": "evening",
+  "updated_at": "2026-07-28T22:27:12.101623+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "d3d55669",
+      "title": "法国西班牙赶在部分地区气温达104华氏度前抢控山火",
+      "title_original": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "summary": "法国与西班牙正遭遇前所未有的山火侵袭，两国消防员抓住气温大幅飙升前的短暂窗口期加紧作业，全力控制山火蔓延，力争赶在部分地区气温升至104华氏度前，将火情牢牢掌控。",
+      "summary_original": "Faced with unprecedented blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T13:35:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a2858c33",
+      "title": "实时更新：日本官员称地震致购物中心坍塌 多人恐被困",
+      "title_original": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+      "summary": "日本西南部熊本县发生6.8级地震，官方称地震导致一处购物中心坍塌，多人恐被困于坍塌建筑中。目前当地应急工作人员正加紧开展搜救被困人员、扑灭地震引发火灾的相关工作。",
+      "summary_original": "Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28japan-earthquake-kumamoto-wkhb/28japan-earthquake-kumamoto-wkhb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T13:35:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55e56ebd",
+      "title": "第一品牌公司破产：涉诈骗指控诉讼追讨数十亿资金",
+      "title_original": "First Brands Bankruptcy: Lawsuits Around Alleged Fraud Seek to Recoup Billions",
+      "summary": "已破产的第一品牌公司向债权人承诺，只要对方再等待一段时间，就能获得全额偿付。该公司正对多名涉嫌参与大规模欺诈的内部人士及商业伙伴提起诉讼，试图从中追回20亿美元资金。",
+      "summary_original": "The pitch to creditors of bankrupt First Brands goes like this: Stick with us just a while longer, and you’ll get a full recovery as we claw back $2 billion from suing a long list of insiders and business partners who allegedly perpetrated a widespread fraud.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/first-brands-bankruptcy-lawsuits-around-alleged-fraud-seek-to-recoup-billions",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T13:20:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4fac3361",
+      "title": "递归超级智能与亚马逊签署4.1亿美元算力交易协议",
+      "title_original": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "summary": "人工智能企业递归超级智能与亚马逊达成规模约4.1亿美元的算力交易，该公司将为这笔交易支出4亿美元，这一金额占该公司迄今为止募集获得的全部资金的绝大部分。",
+      "summary_original": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-28T13:19:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4fac3361",
+      "title": "递归超级智能与亚马逊签署4.1亿美元算力交易",
+      "title_original": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "summary": "递归超级智能与亚马逊签署了金额达4.1亿美元的算力交易协议。该公司为这笔交易投入的4亿美元，占其迄今为止筹集所得总资金的绝大部分，这笔支出消耗了该公司目前已融得资金的大部分份额。",
+      "summary_original": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-28T13:19:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6190f82f",
+      "title": "波尔多附近大火肆虐 当地葡萄园再遭噩耗",
+      "title_original": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+      "summary": "法国近现代史上规模最大的火灾之一，正在知名葡萄酒产区波尔多的葡萄园周边肆虐。本就处境艰难的法国葡萄酒产业再遇冲击，此次火情成为该产业近期面临的最新难题。",
+      "summary_original": "One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-bordeaux-1-jhlz/27int-france-bordeaux-1-jhlz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T13:13:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "59872538",
+      "title": "乌克兰袭击一艘伊朗船只或令两场战争更近",
+      "title_original": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
+      "summary": "此次袭击发生在里海海域，乌克兰与伊朗已对立多年，本次袭击是两国间一次非同寻常的直接交锋。这一罕见的直接对抗事件，极有可能推高局势风险，让原本关联的两场战争距离进一步拉近。",
+      "summary_original": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28xp-wars/28xp-wars-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T13:06:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7a014ce4",
+      "title": "Granola推出苹果手表应用",
+      "title_original": "Granola launches an Apple Watch app",
+      "summary": "近日，Granola推出一款全新的苹果手表端应用，该应用主打线下实地场景的笔记记录功能，可适配苹果手表使用场景，满足用户在面对面沟通、外出等场景下随时记录信息的需求，为移动记笔记提供了新选择。",
+      "summary_original": "Granola debutes an Apple Watch app for in-person notetaking",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "93c9fa27",
+      "title": "Twelve South新款时尚充电托盘：更小占地 更高无线功率",
+      "title_original": "Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint",
+      "summary": "今年初初代产品在CES亮相后，Twelve South推出了皮革包裹的Valet充电托盘新版本，专为空间有限的使用场景设计。初代深度7.5英寸可收纳多件小物件，新款缩小体积的同时，提升了无线充电功率。",
+      "summary_original": "Following the original's debut at CES earlier this year, Twelve South is introducing a new version of its leather-wrapped Valet charging tray designed for use in places where space is at a premium. While the original Valet was 7.5-inches deep and large enough to serve as a catchall for a couple of items like your [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "33178985",
+      "title": "消暑不必花大价钱购买昂贵手持风扇",
+      "title_original": "You don’t need to splurge on an expensive handheld fan to beat the heat",
+      "summary": "不少网红鼓吹高端手持风扇消暑，戴森HushJet Mini Cool、Shark ChillPill售价分别达99.99美元、149.99美元。实际上没必要斥巨资购买这类产品，平价手持风扇就足以满足棒球赛、演唱会、徒步等各类高温户外活动的消暑需求。",
+      "summary_original": "Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort it needs to survive humid baseball games, sweltering concerts, and sweaty hikes with a couple [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d963fcbf",
+      "title": "习近平同斯洛伐克总统佩列格里尼会谈 - 中国网",
+      "title_original": null,
+      "summary": "中国网发布消息，国家主席习近平同斯洛伐克总统佩列格里尼举行会谈，感兴趣的受众可前往谷歌新闻平台，查看中国网发布的更多热点头条新闻以及相关观点内容，获取更多相关时政资讯。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZZ0x0R0p2Y2M4WjNrUXFpVnFWUHZrQW5EbFF1S056NW41a2ppOXZrOWVfWmx5ZlR0ZHZKaU1SNnpNRWo3WDBHZEF4dFNkLU1ZX2JRUG9GRGhGSWlGLXMydS1sWlItdktsN1drVkxHdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T12:50:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "12b0ac89",
+      "title": "学习新语丨总书记心系侨务工作 - 新华网",
+      "title_original": null,
+      "summary": "习近平心系侨务工作，对侨务工作作出重要指示，指出中国梦是国家梦、民族梦，也是每个中华儿女的梦，强调要凝聚侨心侨力，指引做好侨务工作，推动同圆共享中国梦。新华网、央视网、人民日报、中国网等多家主流媒体对此进行了相关报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PWXBUbHd0UHJCSEZxVUFETFNhbm04bkNSVmNNNjRham1RMEUyNUM3U2FPYUZaSjNiVGxRMGFpX09SRjh6MW53UmNsQlpjbWY5NTJuYWI3S0tVbUNIYkhVVGJhQ0xvZ0MzUUZuck80US1GYnVqNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T12:32:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e05b1cc0",
+      "title": "罗技掌机计划搁置 短期内不会推出G Cloud 2",
+      "title_original": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
+      "summary": "罗技新任游戏业务负责人罗宾·皮斯潘宁认可掌上游戏设备的市场价值，但此前推出的G Cloud掌机市场表现不及预期，目前罗技不会推进G Cloud 2的研发，也不确定未来何时、是否会重启掌机开发计划。",
+      "summary_original": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logitech should try again, after its underwhelming experiment with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T12:31:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6ed0537c",
+      "title": "美国歌手D4vd涉谋杀14岁死者 将出庭受审",
+      "title_original": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "summary": "美国歌手D4vd被控谋杀14岁受害者塞莱斯特·里瓦斯·埃尔南德斯，这名受害者的遗体在一辆登记于D4vd住址名下的特斯拉汽车中被发现，目前D4vd将就这一谋杀指控出庭接受审判。",
+      "summary_original": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbf/live/f36d2c30-8a24-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T12:31:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c617b036",
+      "title": "元与贝莱德合作建设价值140亿美元的埃尔帕索数据中心",
+      "title_original": "Meta and BlackRock Partner on $14bn El Paso Data Center",
+      "summary": "Meta与贝莱德达成合作，双方将共同开发总价值达140亿美元的埃尔帕索数据中心项目，目前仅公开了该合作及项目的基础信息。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/meta-blackrock-partner-14bn-el-paso-data-center",
+      "category": "tech",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-28T12:30:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39519f6a",
+      "title": "Perplexity Personal Computer工具将Windows PC转化为AI智能体",
+      "title_original": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "summary": "人工智能企业Perplexity已将其智能体产品Personal Computer工具拓展至Windows系统，可让运行该全球最普及操作系统的设备成为本地运行的AI系统。该工具可访问本地文件与应用，充当“通用数字工作者”，其Mac版本已于今年四月推出。",
+      "summary_original": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39519f6a",
+      "title": "Perplexity Personal Computer工具将Windows PC变为AI智能体",
+      "title_original": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "summary": "Perplexity将旗下智能体工具Personal Computer扩展至Windows平台，可让运行该系统的设备运行本地AI系统。和今年4月推出的Mac版一致，这款工具可访问本地文件与应用，能够充当通用数字工作者。",
+      "summary_original": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7ffb7cd2",
+      "title": "苹果推出“升级”计划 可租赁全新设备",
+      "title_original": "Apple launches ‘Upgrade’ program to lease new devices",
+      "summary": "苹果正式推出名为“苹果升级”的全新租赁项目，旨在方便用户获取最新款iPhone、Mac、iPad、Apple Watch等苹果设备。该项目今日已在美国上线，运营模式类似汽车租赁，用户可在租期结束后留用设备。",
+      "summary_original": "Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T12:23:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "99e017f3",
+      "title": "熊本地震影响企业经济活动 日本制纸工厂烟囱弯折 - 共同网",
+      "title_original": null,
+      "summary": "日本熊本连发震源深度极浅的7.1级、6.1级强震，日官方发布海啸预警，华东多地网友称有震感。此次地震影响日本企业经济活动，日本制纸工厂烟囱弯折倒塌致多人下落不明，台积电工厂人员疏散，九州铁路及新干线停运，或出现重大伤亡。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QX0RNNnNmb3ZCQ05sd2VtUFYyS3FqNmlPRTZPUHN4YWRJdUJRT1V5SXZ2Yi1fRTBYQTJNOUZhZlI4OExhMHZPTGVxUllsaVczWTdJMjVudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T12:22:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c57d8e18",
+      "title": "《每日速递》：OpenAI可预见攻击事件与AI股票抛售",
+      "title_original": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "这是科技类工作日通讯《每日速递》的最新一期，旨在每日传递全球科技界最新动态。OpenAI将近期相关攻击事件称作史无前例，但类似事件此前已有发生，资深AI编辑威尔·道格拉斯·希文针对该事件展开分析。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-07-28T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6c105a22",
+      "title": "智能戒指似乎是我心仪的AI设备",
+      "title_original": "Smart rings are looking like my kind of AI gadget",
+      "summary": "近几个月，笔者频繁与电脑对话，发现大语言模型革命带来一项被低估的进步：各类听写技术实现显著飞跃，即便速度最快、成本最低的模型，理解和处理语音的能力也已十分出色，笔者已测试了多款相关应用。",
+      "summary_original": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e4e7f030",
+      "title": "哥伦比亚债券：审计机构因宪法关切调查债券互换交易",
+      "title_original": "Colombia Bonds: Auditor Probes Swap Over Constitutional Concerns",
+      "summary": "哥伦比亚审计长办公室审计发现，去年10月该国政府的一笔债券互换交易，为换取短期流动性纾困，将融资成本转移给未来历届政府，该操作可能违反宪法原则，目前审计机构正对该交易展开调查。",
+      "summary_original": "A Colombian government bond swap last October may have violated constitutional principles by shifting financing costs to future administrations in exchange for short-term liquidity relief, an audit by the comptroller general’s office found.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/colombia-bonds-auditor-probes-swap-over-constitutional-concerns",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6c105a22",
+      "title": "智能戒指似乎正是我心仪的AI设备",
+      "title_original": "Smart rings are looking like my kind of AI gadget",
+      "summary": "近几个月，作者频繁与电脑进行语音交互。大语言模型革命有一项常被低估的进步：各类听写技术实现显著飞跃，即便速度最快、成本最低的模型，也能出色理解并处理语音，作者目前已测试了多款相关应用。",
+      "summary_original": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "123073bf",
+      "title": "中东动荡冲击预订 皇家加勒比（RCL）下调收益率预期",
+      "title_original": "Royal Caribbean (RCL) Lowers Yield Forecast as Middle East Turmoil Hits Bookings",
+      "summary": "皇家加勒比邮轮有限公司宣布下调公司的收益率预期。中东地区当前持续的地缘政治动荡对其邮轮预订业务造成了温和影响，此次下调收益率预期正是受这一外部局势变动的影响。",
+      "summary_original": "Royal Caribbean Cruises Ltd. trimmed its yield forecast and said it sees a “modest” impact on bookings from geopolitical turmoil.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/royal-caribbean-rcl-lowers-yield-forecast-as-middle-east-turmoil-hits-bookings",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T11:58:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d71784b8",
+      "title": "\"热爱生活的人\"——西雅图悼念美食节枪击案遇难者",
+      "title_original": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "summary": "周一，西雅图美食节枪击事件中三名遇难者的家属满怀悲痛，悼念逝去的亲人。此次枪击事件共造成三人死亡，西雅图全城悼念遇难者，这些受害者被称作“热爱生活的人”，这起突发恶性枪击事件也给当地笼罩上了一层悲伤的气氛。",
+      "summary_original": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T11:50:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0313767d",
+      "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+      "title_original": null,
+      "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌落地慕思，该联合体由慕思牵头，联动多家高校、医疗机构及产业链企业，聘任中科院院士尹周平任首席科学家，将协同攻关AI智慧睡眠核心技术，赋能传统家居产业升级，推动睡眠健康管理向主动预警转型",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_a3b3238c71314b798e6fc4aaf75b9913@517825446_oswg729268oswg1269oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3915239611739781?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-28T11:48:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "38289467",
+      "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+      "title_original": null,
+      "summary": "近日，国内外多领域释放新动态：科技巨头Meta、英伟达等纷纷布局数据中心等AI基础设施，国内“国科超导”完成超亿元融资，我国正式启动人工智能大模型IPv6能力提升专项行动，美国拟对453架波音737 MAX系列客机开展座椅安装安全检查。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3913321294369924?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-28T11:39:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "04244b6a",
+      "title": "代表称欧佩克+计划9月后暂停增产配额",
+      "title_original": "OPEC+ Plans Quota-Hikes Pause After September, Delegates Say",
+      "summary": "两名代表透露，欧佩克+预计将在9月完成最后一次石油生产配额上调后，暂停后续增产配额调整。目前该组织仍在持续评估伊朗战争对石油供应带来的快速变化影响，因此作出这一安排。",
+      "summary_original": "OPEC+ expects to pause oil-production quota hikes after a final increase in September as the group continues to evaluate the fast-changing supply impact of the Iran war, two delegates said.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/opec-plans-to-pause-quota-hikes-after-september-delegates-say",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T11:33:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e2db5da8",
+      "title": "乌克兰突袭伊朗商船，两大战场要“打通”？丨夜观天下 - 四川在线",
+      "title_original": null,
+      "summary": "近期发生乌克兰袭击伊朗商船事件，泽连斯基公开宣称乌克兰与伊朗已处于战争状态。事件发生后，伊朗与俄罗斯外长通电话，就伊朗商船遇袭一事及相关地区局势展开讨论，该事件也引发外界对俄乌冲突外溢、两大战场联动的猜测。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcjdiY0F3dUxQdXlyNDFwVHV0TzlEVlZPbV9vbXNuTzRRMXdtNnY3eHNBMW5wdnRiZG5acGlKUlFiVlRtNm0yRmk0a0hPZnpmYkpsOUNxbi1QdnNnTXdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T11:30:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2c009633",
+      "title": "大唐惠州热电：全力筑牢防御台风 安全保电防线 - 中国能源新闻网",
+      "title_original": null,
+      "summary": "台风‘红霞’给我国带来显著影响，造成广东多地极端强降雨，两日降雨量达到当地整月降雨量水平，其残余涡旋还将北上带来降雨，期间出现南北同热、雨热并存的天气，大唐惠州热电、广东电网等多部门已积极开展防台风、保供电、灾后复电等应对工作。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sTFItZ1dGX0hFWEFEUHNtbFVKeVI1R2FROEsxR1BROWdFYlB4VUowdjloTktQUTZZemx3S3h5NG9NM3NKSWVYYkRzSlc3ZzJxOFpyQWxTMkhRclpQcWp4TkdPWFlkTkdUaEJSeXJHUnR6dWFpQzUxQkdGNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T11:21:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "66eaebb9",
+      "title": "争议选举投票首日 巴控克什米尔爆发新冲突",
+      "title_original": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
+      "summary": "巴控克什米尔一场存在争议的区域选举于投票首日爆发新冲突。官方称，在这场为期数周的区域选举启动前的数周内，已有数十人死亡，一个被取缔的民权团体表示，其支持者在与警方的冲突中身亡。",
+      "summary_original": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-pakistan-violence-jkmf/28int-pakistan-violence-jkmf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T10:42:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1387214b",
+      "title": "暴雨+强对流+山洪+地质灾害四预警齐发 这些地区注意防范→ - 华龙网",
+      "title_original": null,
+      "summary": "多家媒体报道，受“红霞”残余系统影响，国内齐发暴雨、强对流、山洪、地质灾害四类灾害预警，提示17个省区将有大到暴雨，湖北、河南部分地区有大暴雨，未来三天广东、湖南、湖北等地仍有强降雨，相关地区需做好防范。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HUjNFVlNWcnNKZ0RSYm1yTlVFT2MtLVphTlF2YWg5OUhtNEdYRi01Vldudkx4c1p5R196YVEyQ1Z2SkFvVnptX2NuNGpnTVlSRmN1V1B1QWRpOTF4TmxHTlVUNkJlMTQzOEp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T10:41:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6245f906",
+      "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+      "title_original": null,
+      "summary": "由三名UCLA博士为核心创始的德塔智能，专注研发原生通用人形机器人基础模型，近日完成近5亿元天使++轮融资，这是公司成立半年内完成的第六轮融资，资金将用于技术迭代、团队扩充与场景落地，目前已与多家头部人形机器人厂商达成合作。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_5b90ef0990d7408e82bd7759fe72dc9e@6022551_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3913213962540164?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-28T10:38:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e02256d",
+      "title": "‘我们什么都没学到’：印度Z世代愤怒情绪考验莫迪",
+      "title_original": "‘We Are Not Learning Anything’: India’s Gen Z Rage Is a Test for Modi",
+      "summary": "印度青年人口规模持续增长，该国现有教育体系弊病凸显，大量年轻人尚未做好进入大学的准备，更无法适配职场需求，不满情绪在Z世代中发酵，这一局面给莫迪政府带来了整改教育体系的压力。",
+      "summary_original": "As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29INT-INDIA-EDUCATION-01-tmqj/29INT-INDIA-EDUCATION-01-tmqj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockroach-genz.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T10:38:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9b4505a1",
+      "title": "曼恩集团称AT1债券投资者对风险“过于自满”",
+      "title_original": "AT1 Buyers Are ‘Far Too Complacent’ to Risks, Man Group Says",
+      "summary": "曼恩集团的投资者表示，额外一级资本债券（AT1）是风险最高的银行债务品类，当前该类债券的投资者对所面临的风险过于自满，且这类债券目前的利差水平也明显过窄，未充分反映其潜在风险。",
+      "summary_original": "Investors are “far too complacent” on the Additional Tier 1 bonds, the riskiest type of bank debt, and spreads now appear too tight, according to investors at Man Group.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/at1-buyers-are-far-too-complacent-to-risks-man-group-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T10:17:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a10d23cb",
+      "title": "医疗补助利润率前景黯淡 森特尼股价下滑",
+      "title_original": "Centene Slides On Dimming Outlook For Medicaid Profit Margins",
+      "summary": "美国健康保险公司森特尼发布了乐观的收益报告，不过该公司表示，其医疗补助业务的利润修复所需时间长于原定计划。这一令人担忧的信号盖过了收益利好，带动公司股价下跌。",
+      "summary_original": "Centene Corp. shares fell after the health insurer said it would take longer than planned to rebuild profits in its Medicaid business, a worrying sign that overshadowed an upbeat earnings report.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/centene-boosts-guidance-on-better-than-expected-medical-costs",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T10:10:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7d6cc983",
+      "title": "李强在河北唐山调研慰问时强调 持续提升防灾减灾救灾能力 切实保障人民群众生命财产安全 - 新华网",
+      "title_original": null,
+      "summary": "国务院总理李强在河北唐山调研慰问，强调要持续提升防灾减灾救灾能力，切实保障人民群众生命财产安全，相关消息由新华网发布。当前正值唐山地震50周年，多家媒体推出相关内容，既有相关发展议题讨论，也有对地震遇难者的追思记录。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yTW1MZTNmWGNsbzlYc0t0WUZIRnJ3eGxWRHlfaEpDWUs4cExhZlBzWGpGaDYwR2t0dnRjdmdObFZOekRwcXhQa0pYNmpvVkc2RDZtd00yMUx6d29TWFBFSWJ4WmpsZVNwVXYtUzh5VXVRcl91cFZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T10:03:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bf141e6f",
+      "title": "《奥德赛》译者发文严厉批评诺兰改编电影",
+      "title_original": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "诺兰推出的改编新作目前收获影评群体的一致盛赞，口碑不俗，但荷马史诗《奥德赛》的一名译者却对影片十分不满，他写下措辞尖锐的负面评论，表达了对这部改编作品的不认可。",
+      "summary_original": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T09:45:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "22787c03",
+      "title": "美国暂停打击，伊朗不急于恢复停火谈判",
+      "title_original": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+      "summary": "分析人士称，目前战事进入暂停阶段，伊朗领导层判断自身能够比美国总统特朗普承受更多压力，且伊朗掌控霍尔木兹海峡，在局势中握有筹码，因此并不急于恢复停火谈判。",
+      "summary_original": "Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T09:44:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b76c0a80",
+      "title": "印尼“小得克萨斯”沿用老式方法开采石油",
+      "title_original": "Drilling for Oil the Old-Fashioned Way in ‘Little Texas,’ Indonesia",
+      "summary": "印尼被称作“小得克萨斯”的产油区域，目前仍沿用传统老式方式开采石油，作业过程依靠小型泵和卡车发动机从地下提取原油，该区域内总计分布着数以万计由社区自主运营的小型油井。",
+      "summary_original": "Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T09:34:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0438ad84",
+      "title": "美国在联合国安理会会议法国发言时退席",
+      "title_original": "US walks out of UN Security Council meeting during France's remarks",
+      "summary": "美国联合朝鲜、俄罗斯共同投票反对延长联合国人权事务高级专员的任期，这一投票结果引发争端。在联合国安理会会议期间，法国发言时美国中途退出会场，引发广泛争议。",
+      "summary_original": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/97bbb000-8a51-11f1-8aea-37a02a7d69e8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T09:32:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "efd8f00b",
+      "title": "福建省新闻界学习贯彻习近平党建思想座谈会召开- 文教 - 东南网",
+      "title_original": null,
+      "summary": "福建省新闻界召开学习贯彻习近平党建思想座谈会，该活动属于深入学习贯彻习近平新时代中国特色社会主义思想的相关部署，旨在推动习近平党建思想学习贯彻走深走实，东南网报道此事，多家媒体也推出相关党建学习议题内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TT05kbm05R3lwRGRjeFdsX3FHMGM1ajNTekU3T3E5RWZ5NFM4WVJyalFXRGJUQ01JR3BWckRYUEhPM3dpREtkZU53NGJNajBCc3V0MEdCQ2NON3BVeUFsNTMwVV9Cdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T09:29:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1eaa2a53",
+      "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+      "title_original": null,
+      "summary": "36氪独家获悉，前奔驰高管段建军履新沃尔沃中国区CEO不足百日，沃尔沃正推进内部代号“561”的首款D级超豪华旗舰轿车项目，新车定位对标尊界S800，为中国专属车型，由沃尔沃中国主导、吉利研发团队参与开发，吉利已调集集团最优资源倾斜支持，是沃尔沃在华转型破局的关键落子。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3913637793059968?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-28T09:24:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e9c7d242",
+      "title": "三星芯片员工纷纷跳槽至竞争对手SK海力士",
+      "title_original": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "summary": "韩国芯片行业出现人才流动趋势，三星半导体部门不少员工正谋求跳槽至本土竞争对手SK海力士。一名三星半导体工程师透露，他如今不再像过去那样加班攻坚项目，下班后准备求职材料，还和同事分享应聘经验。",
+      "summary_original": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-07-28T09:18:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae80aca6",
+      "title": "英国进入“不确定区域” 景顺、瑞斯本减持英国国债",
+      "title_original": "Invesco, Rathbones Cut Gilts as UK Enters ‘Uncertain Territory’",
+      "summary": "今年，包括景顺、Ninety One英国公司、瑞斯本资产管理、W1M集团在内的多家机构基金经理看淡英国国债。受通胀担忧和英国政治不稳定因素影响，这些机构纷纷调整资产配置，转向其他投资标的。",
+      "summary_original": "Fund managers including Invesco Ltd., Ninety One UK Ltd., Rathbones Asset Management Ltd. and W1M Group Ltd. have soured on UK government debt this year as worries about inflation and political instability prompt them to look elsewhere.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/invesco-and-rathbones-cut-gilts-on-uk-exposure-to-politics-oil",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T09:10:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2cb97ade",
+      "title": "Hugging Face遭滥用 轻易生成女性及儿童脱衣内容",
+      "title_original": "Hugging Face is being used to easily undress women and children",
+      "summary": "欧洲非营利机构AI Forensics发布最新报告指出，热门开源AI模型仓库Hugging Face被滥用于制作非自愿深度伪造内容，平台托管的排名前九的图像编辑模型中，有七个可轻易被用于生成此类不当内容，平台几乎未采取有效防范措施。",
+      "summary_original": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-28T09:07:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2cb97ade",
+      "title": "Hugging Face被滥用于生成女性及儿童脱衣内容",
+      "title_original": "Hugging Face is being used to easily undress women and children",
+      "summary": "欧洲非营利机构AI Forensics发布最新报告指出，热门开源AI模型仓库Hugging Face被滥用于制作非自愿深度伪造不雅内容，平台几乎未采取防范措施，该机构发现，平台托管的九大热门图像编辑模型中，有七个可轻易完成此类违规生成请求。",
+      "summary_original": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-28T09:07:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2018edd9",
+      "title": "齐达内确认出任法国国家队主教练",
+      "title_original": "Zidane confirmed as France head coach",
+      "summary": "日前，官方正式公布最新任命，曾执教皇家马德里队的世界足坛名帅齐内丁·齐达内，已被确认担任法国国家男子足球队主教练，接过球队教鞭的齐达内，将带领法国队出战接下来的各类国际足球赛事。",
+      "summary_original": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2db/live/96268e10-8a72-11f1-b8a3-41b986490a13.jpg",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T09:03:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b19a6ffd",
+      "title": "动物园工作人员从偏远岩石救出濒临灭绝的蜗牛",
+      "title_original": "Zoo staff rescue near-extinct snails from remote rock",
+      "summary": "保育人士表示，目前仅在葡萄牙布吉奥岛的一块岩石上发现21只马德拉陆地蜗牛，该物种已濒临灭绝。动物园工作人员已将这批仅存的蜗牛救出，后续将对其开展保护工作，防止这一物种彻底灭绝。",
+      "summary_original": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/326c/live/14cfef50-8a59-11f1-b6c7-397f42881d1e.png",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T08:50:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "63bc4442",
+      "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+      "title_original": null,
+      "summary": "Kando AI于2026年由吴秉哲、毛书翰联合创立，近日完成数千万元种子轮融资，由星连资本领投，力合金控跟投。项目定位做“决策领域的Cursor”，目标构建可从真实决策中持续学习的自进化决策系统，目前已上线内测，覆盖金融、科研等领域。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_eaf8a0bfc61c4dbc8546a3cf0b5375c8@2057308263_oswg458921oswg1080oswg286_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3915057199535233?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-28T08:42:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc5097cc",
+      "title": "爱莉安娜·格兰德起诉泄露其音乐与视频的黑客",
+      "title_original": "Ariana Grande sues hackers who leaked music and videos",
+      "summary": "美国知名流行歌星爱莉安娜·格兰德提起诉讼，矛头指向泄露其未发布音乐与视频的黑客。此次起诉旨在查明非法获取她未公开照片、歌曲等内容的黑客身份，维护自身合法权益。",
+      "summary_original": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/b3e2c190-8a5d-11f1-b6c7-397f42881d1e.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T08:37:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8905589e",
+      "title": "贸易谈判之际 美海关官员已对越南境内中国关联工厂展开突击检查 - RFI",
+      "title_original": null,
+      "summary": "美越贸易谈判进行期间，美国海关官员已对越南境内的中国关联工厂展开突击检查，外界分析此举或是美国为后续对越加征关税寻找借口。此前美国已提高对越南服装关税，越南也查获近5万双假耐克鞋，越南出口商竞争力正面临不小压力。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMlFSRVloQXdoM0ItZUFGZVJyVGtocTNiS3djOXRCOUVKSlpHZEtVTmlBdDFJN3Q0Ny12NFViYkhvcjdwemhRSTN1NzFDTG04NVFWZXlIX2dfMG1JMWdQRGxJUTJEMUhGcEZ0dWRwWUV2TGdnQ3hCRFpiemxtcUNjckZtd1NfT3hyX1AzRlhodVdHSjlJYTBmR1Bhc2dSakl2VGtFZV9LSjZvSWhnQlFZNWxGZjNXUmpCRGJrQmNPVGc2VHpsZ1MyS1hCQTZWNE11OG9sZGJ1LWZWdTBLaWg1WFY4MUNJVDkzazlxUnlRUndfNC1KLTdISkxNMzgxZzV0cVJKcTR4a3d5U3hSMjhrQ3JqZjhlcGJHQlBQd2k2R0dwbDZKcXRIbWlxVmxqdnhwOUpRODNNTDZBS3ZBc0NNaGFPRVM0M1ZYcHdvOGdoeWI0YWRNTmFTVHZkV3NyTkRCV1paaWNtMFBNVVBmNXl5LTlpUUxzc0RoSVV3WmVHakFURHV1dGFPY01CQ0VhdDVMOXF5NmlrSFFpN3VIWEFhZGZWMGpoTE5ZQXBwU3M4TGtFa3FxZzdjaUdLTEo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-28T08:31:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "19366083",
+      "title": "泽连斯基与特朗普将于白宫会面，二人关系是否已解冻？",
+      "title_original": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
+      "summary": "本周，乌克兰总统泽连斯基将前往美国华盛顿，美国总统特朗普将与其会面。除这场会面外，泽连斯基还将出席美国参议员林赛·格雷厄姆的葬礼，外界关注此次会面能否推动二人关系缓和。",
+      "summary_original": "President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-28T08:00:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c97c952d",
+      "title": "测试开启 百度与Lyft入局伦敦自动驾驶出租车赛场",
+      "title_original": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "summary": "伦敦自动驾驶出租车测试正式启动，百度与出行企业Lyft入局当地市场。百度旗下Apollo Go自动驾驶车辆，将接入Lyft于2025年收购的出行网络Freenow，参与伦敦无人驾驶出行领域的竞争。",
+      "summary_original": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-28T08:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8d42c655",
+      "title": "台湾在中国芯片走私调查中拘留一名英伟达员工",
+      "title_original": "Taiwan Detains Nvidia Employee in China Chip Smuggling Probe",
+      "summary": "根据该新闻已公开的标题信息，台湾相关方面针对中国芯片走私案件开展调查，过程中已经拘留了一名英伟达公司的员工。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/taiwan-detains-nvidia-employee-china-chip-smuggling-probe",
+      "category": "tech",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-28T06:27:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4a24aa1e",
+      "title": "新兴市场带动多芬、舒耐销量增长 联合利华上调业绩预期",
+      "title_original": "Unilever Lifts Outlook as Emerging Markets Drive Dove and Rexona Sales Growth",
+      "summary": "联合利华第二季度销售额超出市场预期，美国、拉美等核心市场消费者踊跃购买其旗下多芬香皂、奥妙洗衣液等产品，带动销售增长，公司依托好于预期的业绩表现上调了自身业绩预期。",
+      "summary_original": "Unilever Plc lifted its outlook after sales rose more than expected in the second quarter, as consumers in key markets including the US and Latin America snapped up its Dove soap and OMO laundry detergent.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/unilever-sales-jump-on-emerging-market-demand-for-dove-soap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-28T06:14:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b82e899f",
+      "title": "BBC报道：厄瓜多尔至欧洲可卡因“高速通道”——黑帮猖獗与警方反击",
+      "title_original": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "summary": "BBC跟随厄瓜多尔警方一同巡逻，记录该国禁毒一线现状。近期厄瓜多尔毒品犯罪大幅激增，贩毒集团开辟了从厄瓜多尔通往欧洲的可卡因走私“高速通道”，当地警方正全力打击相关毒品犯罪。",
+      "summary_original": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24c/live/11347710-8a6f-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T05:01:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e828648d",
+      "title": "遭遣返威胁的香港活动人士获准留英",
+      "title_original": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "summary": "一名吴姓香港活动人士上周在伦敦希思罗机场被扣留数小时，遭到拒绝入境，面临被遣返的威胁。他向BBC透露了这一遭遇，目前已获得英国方面准许，最终得以留在英国。",
+      "summary_original": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bda/live/10c4d5e0-8a2e-11f1-8577-7fb0b5f56b15.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-28T04:59:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "470d3cc5",
+      "title": "SpaceX收购前夕，Cursor推出本地化定价发起迄今最大力度印度市场拓展",
+      "title_original": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "目前印度已是Cursor的全球第三大市场。在即将被SpaceX收购前夕，该品牌发起迄今力度最大的印度市场拓展，推出本地化定价，同时计划扩大本地招聘规模，拓展企业端销售业务。",
+      "summary_original": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-28T04:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "470d3cc5",
+      "title": "SpaceX收购前夕，Cursor推出本地化定价展开在印最大规模拓展",
+      "title_original": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "SpaceX收购前夕，编程工具Cursor推出针对印度市场的本地化定价，开启入印以来力度最大的市场扩张。目前印度已是Cursor的全球第三大市场，该品牌计划后续扩大印度本地招聘，拓展企业销售业务。",
+      "summary_original": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-28T04:30:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "c98757e1",
+      "title": "法国西班牙赶在部分地区气温达104华氏度前抢控山火",
+      "summary": "法国与西班牙正遭遇前所未有的山火侵袭，两国消防员抓住气温大幅飙升前的短暂窗口期加紧作业，全力控制山火蔓延，力争赶在部分地区气温升至104华氏度前，将火情牢牢掌控。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d3d55669"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d3d55669",
+          "source": "NYTimes World",
+          "title": "法国西班牙赶在部分地区气温达104华氏度前抢控山火",
+          "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+          "published_at": "2026-07-28T13:35:56+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:35:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd960f5b",
+      "title": "实时更新：日本官员称地震致购物中心坍塌 多人恐被困",
+      "summary": "日本西南部熊本县发生6.8级地震，官方称地震导致一处购物中心坍塌，多人恐被困于坍塌建筑中。目前当地应急工作人员正加紧开展搜救被困人员、扑灭地震引发火灾的相关工作。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28japan-earthquake-kumamoto-wkhb/28japan-earthquake-kumamoto-wkhb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a2858c33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a2858c33",
+          "source": "NYTimes World",
+          "title": "实时更新：日本官员称地震致购物中心坍塌 多人恐被困",
+          "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+          "published_at": "2026-07-28T13:35:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:35:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5131a499",
+      "title": "第一品牌公司破产：涉诈骗指控诉讼追讨数十亿资金",
+      "summary": "已破产的第一品牌公司向债权人承诺，只要对方再等待一段时间，就能获得全额偿付。该公司正对多名涉嫌参与大规模欺诈的内部人士及商业伙伴提起诉讼，试图从中追回20亿美元资金。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "55e56ebd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "55e56ebd",
+          "source": "Bloomberg",
+          "title": "第一品牌公司破产：涉诈骗指控诉讼追讨数十亿资金",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/first-brands-bankruptcy-lawsuits-around-alleged-fraud-seek-to-recoup-billions",
+          "published_at": "2026-07-28T13:20:17+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:20:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "39987212",
+      "title": "递归超级智能与亚马逊签署4.1亿美元算力交易协议",
+      "summary": "人工智能企业递归超级智能与亚马逊达成规模约4.1亿美元的算力交易，该公司将为这笔交易支出4亿美元，这一金额占该公司迄今为止募集获得的全部资金的绝大部分。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4fac3361"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "4fac3361",
+          "source": "TechCrunch",
+          "title": "递归超级智能与亚马逊签署4.1亿美元算力交易协议",
+          "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "published_at": "2026-07-28T13:19:17+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:19:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "39987212",
+      "title": "递归超级智能与亚马逊签署4.1亿美元算力交易",
+      "summary": "递归超级智能与亚马逊签署了金额达4.1亿美元的算力交易协议。该公司为这笔交易投入的4亿美元，占其迄今为止筹集所得总资金的绝大部分，这笔支出消耗了该公司目前已融得资金的大部分份额。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "4fac3361"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "4fac3361",
+          "source": "TechCrunch AI",
+          "title": "递归超级智能与亚马逊签署4.1亿美元算力交易",
+          "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "published_at": "2026-07-28T13:19:17+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:19:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7daba844",
+      "title": "波尔多附近大火肆虐 当地葡萄园再遭噩耗",
+      "summary": "法国近现代史上规模最大的火灾之一，正在知名葡萄酒产区波尔多的葡萄园周边肆虐。本就处境艰难的法国葡萄酒产业再遇冲击，此次火情成为该产业近期面临的最新难题。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-bordeaux-1-jhlz/27int-france-bordeaux-1-jhlz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6190f82f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6190f82f",
+          "source": "NYTimes World",
+          "title": "波尔多附近大火肆虐 当地葡萄园再遭噩耗",
+          "link": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+          "published_at": "2026-07-28T13:13:34+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:13:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3eeeeaa3",
+      "title": "乌克兰袭击一艘伊朗船只或令两场战争更近",
+      "summary": "此次袭击发生在里海海域，乌克兰与伊朗已对立多年，本次袭击是两国间一次非同寻常的直接交锋。这一罕见的直接对抗事件，极有可能推高局势风险，让原本关联的两场战争距离进一步拉近。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28xp-wars/28xp-wars-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "59872538"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "59872538",
+          "source": "NYTimes World",
+          "title": "乌克兰袭击一艘伊朗船只或令两场战争更近",
+          "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+          "published_at": "2026-07-28T13:06:23+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:06:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fade928d",
+      "title": "Granola推出苹果手表应用",
+      "summary": "近日，Granola推出一款全新的苹果手表端应用，该应用主打线下实地场景的笔记记录功能，可适配苹果手表使用场景，满足用户在面对面沟通、外出等场景下随时记录信息的需求，为移动记笔记提供了新选择。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7a014ce4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7a014ce4",
+          "source": "TechCrunch",
+          "title": "Granola推出苹果手表应用",
+          "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+          "published_at": "2026-07-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b13d434d",
+      "title": "Twelve South新款时尚充电托盘：更小占地 更高无线功率",
+      "summary": "今年初初代产品在CES亮相后，Twelve South推出了皮革包裹的Valet充电托盘新版本，专为空间有限的使用场景设计。初代深度7.5英寸可收纳多件小物件，新款缩小体积的同时，提升了无线充电功率。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "93c9fa27"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "93c9fa27",
+          "source": "The Verge",
+          "title": "Twelve South新款时尚充电托盘：更小占地 更高无线功率",
+          "link": "https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather",
+          "published_at": "2026-07-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1111bb8",
+      "title": "消暑不必花大价钱购买昂贵手持风扇",
+      "summary": "不少网红鼓吹高端手持风扇消暑，戴森HushJet Mini Cool、Shark ChillPill售价分别达99.99美元、149.99美元。实际上没必要斥巨资购买这类产品，平价手持风扇就足以满足棒球赛、演唱会、徒步等各类高温户外活动的消暑需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "33178985"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "33178985",
+          "source": "The Verge",
+          "title": "消暑不必花大价钱购买昂贵手持风扇",
+          "link": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan",
+          "published_at": "2026-07-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b02f413b",
+      "title": "习近平同斯洛伐克总统佩列格里尼会谈 - 中国网",
+      "summary": "中国网发布消息，国家主席习近平同斯洛伐克总统佩列格里尼举行会谈，感兴趣的受众可前往谷歌新闻平台，查看中国网发布的更多热点头条新闻以及相关观点内容，获取更多相关时政资讯。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d963fcbf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d963fcbf",
+          "source": "Google News (中国)",
+          "title": "习近平同斯洛伐克总统佩列格里尼会谈 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZZ0x0R0p2Y2M4WjNrUXFpVnFWUHZrQW5EbFF1S056NW41a2ppOXZrOWVfWmx5ZlR0ZHZKaU1SNnpNRWo3WDBHZEF4dFNkLU1ZX2JRUG9GRGhGSWlGLXMydS1sWlItdktsN1drVkxHdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T12:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e89e5213",
+      "title": "学习新语丨总书记心系侨务工作 - 新华网",
+      "summary": "习近平心系侨务工作，对侨务工作作出重要指示，指出中国梦是国家梦、民族梦，也是每个中华儿女的梦，强调要凝聚侨心侨力，指引做好侨务工作，推动同圆共享中国梦。新华网、央视网、人民日报、中国网等多家主流媒体对此进行了相关报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "12b0ac89"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "12b0ac89",
+          "source": "Google News (中国)",
+          "title": "学习新语丨总书记心系侨务工作 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PWXBUbHd0UHJCSEZxVUFETFNhbm04bkNSVmNNNjRham1RMEUyNUM3U2FPYUZaSjNiVGxRMGFpX09SRjh6MW53UmNsQlpjbWY5NTJuYWI3S0tVbUNIYkhVVGJhQ0xvZ0MzUUZuck80US1GYnVqNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T12:32:53+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:32:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4fdb21a7",
+      "title": "罗技掌机计划搁置 短期内不会推出G Cloud 2",
+      "summary": "罗技新任游戏业务负责人罗宾·皮斯潘宁认可掌上游戏设备的市场价值，但此前推出的G Cloud掌机市场表现不及预期，目前罗技不会推进G Cloud 2的研发，也不确定未来何时、是否会重启掌机开发计划。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e05b1cc0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e05b1cc0",
+          "source": "The Verge",
+          "title": "罗技掌机计划搁置 短期内不会推出G Cloud 2",
+          "link": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+          "published_at": "2026-07-28T12:31:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:31:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "379a77a8",
+      "title": "美国歌手D4vd涉谋杀14岁死者 将出庭受审",
+      "summary": "美国歌手D4vd被控谋杀14岁受害者塞莱斯特·里瓦斯·埃尔南德斯，这名受害者的遗体在一辆登记于D4vd住址名下的特斯拉汽车中被发现，目前D4vd将就这一谋杀指控出庭接受审判。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbf/live/f36d2c30-8a24-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "6ed0537c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6ed0537c",
+          "source": "BBC World",
+          "title": "美国歌手D4vd涉谋杀14岁死者 将出庭受审",
+          "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T12:31:45+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:31:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a85477e3",
+      "title": "元与贝莱德合作建设价值140亿美元的埃尔帕索数据中心",
+      "summary": "Meta与贝莱德达成合作，双方将共同开发总价值达140亿美元的埃尔帕索数据中心项目，目前仅公开了该合作及项目的基础信息。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c617b036"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "c617b036",
+          "source": "The Information",
+          "title": "元与贝莱德合作建设价值140亿美元的埃尔帕索数据中心",
+          "link": "https://www.theinformation.com/briefings/meta-blackrock-partner-14bn-el-paso-data-center",
+          "published_at": "2026-07-28T12:30:22+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:30:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e9dbb19",
+      "title": "Perplexity Personal Computer工具将Windows PC转化为AI智能体",
+      "summary": "人工智能企业Perplexity已将其智能体产品Personal Computer工具拓展至Windows系统，可让运行该全球最普及操作系统的设备成为本地运行的AI系统。该工具可访问本地文件与应用，充当“通用数字工作者”，其Mac版本已于今年四月推出。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "39519f6a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "39519f6a",
+          "source": "The Verge",
+          "title": "Perplexity Personal Computer工具将Windows PC转化为AI智能体",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+          "published_at": "2026-07-28T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e9dbb19",
+      "title": "Perplexity Personal Computer工具将Windows PC变为AI智能体",
+      "summary": "Perplexity将旗下智能体工具Personal Computer扩展至Windows平台，可让运行该系统的设备运行本地AI系统。和今年4月推出的Mac版一致，这款工具可访问本地文件与应用，能够充当通用数字工作者。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "39519f6a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "39519f6a",
+          "source": "The Verge AI",
+          "title": "Perplexity Personal Computer工具将Windows PC变为AI智能体",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+          "published_at": "2026-07-28T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "618cb0dd",
+      "title": "苹果推出“升级”计划 可租赁全新设备",
+      "summary": "苹果正式推出名为“苹果升级”的全新租赁项目，旨在方便用户获取最新款iPhone、Mac、iPad、Apple Watch等苹果设备。该项目今日已在美国上线，运营模式类似汽车租赁，用户可在租期结束后留用设备。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7ffb7cd2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7ffb7cd2",
+          "source": "The Verge",
+          "title": "苹果推出“升级”计划 可租赁全新设备",
+          "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+          "published_at": "2026-07-28T12:23:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:23:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e6ed0c1",
+      "title": "熊本地震影响企业经济活动 日本制纸工厂烟囱弯折 - 共同网",
+      "summary": "日本熊本连发震源深度极浅的7.1级、6.1级强震，日官方发布海啸预警，华东多地网友称有震感。此次地震影响日本企业经济活动，日本制纸工厂烟囱弯折倒塌致多人下落不明，台积电工厂人员疏散，九州铁路及新干线停运，或出现重大伤亡。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "99e017f3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "99e017f3",
+          "source": "Google News (中国)",
+          "title": "熊本地震影响企业经济活动 日本制纸工厂烟囱弯折 - 共同网",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QX0RNNnNmb3ZCQ05sd2VtUFYyS3FqNmlPRTZPUHN4YWRJdUJRT1V5SXZ2Yi1fRTBYQTJNOUZhZlI4OExhMHZPTGVxUllsaVczWTdJMjVudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T12:22:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:22:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cc89141c",
+      "title": "《每日速递》：OpenAI可预见攻击事件与AI股票抛售",
+      "summary": "这是科技类工作日通讯《每日速递》的最新一期，旨在每日传递全球科技界最新动态。OpenAI将近期相关攻击事件称作史无前例，但类似事件此前已有发生，资深AI编辑威尔·道格拉斯·希文针对该事件展开分析。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c57d8e18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "c57d8e18",
+          "source": "MIT Technology Review",
+          "title": "《每日速递》：OpenAI可预见攻击事件与AI股票抛售",
+          "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+          "published_at": "2026-07-28T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8147e5f1",
+      "title": "智能戒指似乎是我心仪的AI设备",
+      "summary": "近几个月，笔者频繁与电脑对话，发现大语言模型革命带来一项被低估的进步：各类听写技术实现显著飞跃，即便速度最快、成本最低的模型，理解和处理语音的能力也已十分出色，笔者已测试了多款相关应用。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6c105a22"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6c105a22",
+          "source": "The Verge",
+          "title": "智能戒指似乎是我心仪的AI设备",
+          "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+          "published_at": "2026-07-28T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "266f7b96",
+      "title": "哥伦比亚债券：审计机构因宪法关切调查债券互换交易",
+      "summary": "哥伦比亚审计长办公室审计发现，去年10月该国政府的一笔债券互换交易，为换取短期流动性纾困，将融资成本转移给未来历届政府，该操作可能违反宪法原则，目前审计机构正对该交易展开调查。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e4e7f030"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e4e7f030",
+          "source": "Bloomberg",
+          "title": "哥伦比亚债券：审计机构因宪法关切调查债券互换交易",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/colombia-bonds-auditor-probes-swap-over-constitutional-concerns",
+          "published_at": "2026-07-28T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8147e5f1",
+      "title": "智能戒指似乎正是我心仪的AI设备",
+      "summary": "近几个月，作者频繁与电脑进行语音交互。大语言模型革命有一项常被低估的进步：各类听写技术实现显著飞跃，即便速度最快、成本最低的模型，也能出色理解并处理语音，作者目前已测试了多款相关应用。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "6c105a22"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "6c105a22",
+          "source": "The Verge AI",
+          "title": "智能戒指似乎正是我心仪的AI设备",
+          "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+          "published_at": "2026-07-28T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a068115a",
+      "title": "中东动荡冲击预订 皇家加勒比（RCL）下调收益率预期",
+      "summary": "皇家加勒比邮轮有限公司宣布下调公司的收益率预期。中东地区当前持续的地缘政治动荡对其邮轮预订业务造成了温和影响，此次下调收益率预期正是受这一外部局势变动的影响。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "123073bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "123073bf",
+          "source": "Bloomberg",
+          "title": "中东动荡冲击预订 皇家加勒比（RCL）下调收益率预期",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/royal-caribbean-rcl-lowers-yield-forecast-as-middle-east-turmoil-hits-bookings",
+          "published_at": "2026-07-28T11:58:34+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:58:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e60a2a6",
+      "title": "\"热爱生活的人\"——西雅图悼念美食节枪击案遇难者",
+      "summary": "周一，西雅图美食节枪击事件中三名遇难者的家属满怀悲痛，悼念逝去的亲人。此次枪击事件共造成三人死亡，西雅图全城悼念遇难者，这些受害者被称作“热爱生活的人”，这起突发恶性枪击事件也给当地笼罩上了一层悲伤的气氛。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+      "article_ids": [
+        "d71784b8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d71784b8",
+          "source": "BBC World",
+          "title": "\"热爱生活的人\"——西雅图悼念美食节枪击案遇难者",
+          "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T11:50:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:50:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17bee7f4",
+      "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+      "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌落地慕思，该联合体由慕思牵头，联动多家高校、医疗机构及产业链企业，聘任中科院院士尹周平任首席科学家，将协同攻关AI智慧睡眠核心技术，赋能传统家居产业升级，推动睡眠健康管理向主动预警转型",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_a3b3238c71314b798e6fc4aaf75b9913@517825446_oswg729268oswg1269oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "0313767d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "0313767d",
+          "source": "36氪",
+          "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+          "link": "https://36kr.com/p/3915239611739781?f=rss",
+          "published_at": "2026-07-28T11:48:20+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:48:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "981f8ec0",
+      "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+      "summary": "近日，国内外多领域释放新动态：科技巨头Meta、英伟达等纷纷布局数据中心等AI基础设施，国内“国科超导”完成超亿元融资，我国正式启动人工智能大模型IPv6能力提升专项行动，美国拟对453架波音737 MAX系列客机开展座椅安装安全检查。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "38289467"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "38289467",
+          "source": "36氪",
+          "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+          "link": "https://36kr.com/p/3913321294369924?f=rss",
+          "published_at": "2026-07-28T11:39:56+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:39:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d468cb8",
+      "title": "代表称欧佩克+计划9月后暂停增产配额",
+      "summary": "两名代表透露，欧佩克+预计将在9月完成最后一次石油生产配额上调后，暂停后续增产配额调整。目前该组织仍在持续评估伊朗战争对石油供应带来的快速变化影响，因此作出这一安排。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "04244b6a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "04244b6a",
+          "source": "Bloomberg",
+          "title": "代表称欧佩克+计划9月后暂停增产配额",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/opec-plans-to-pause-quota-hikes-after-september-delegates-say",
+          "published_at": "2026-07-28T11:33:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:33:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "798045aa",
+      "title": "乌克兰突袭伊朗商船，两大战场要“打通”？丨夜观天下 - 四川在线",
+      "summary": "近期发生乌克兰袭击伊朗商船事件，泽连斯基公开宣称乌克兰与伊朗已处于战争状态。事件发生后，伊朗与俄罗斯外长通电话，就伊朗商船遇袭一事及相关地区局势展开讨论，该事件也引发外界对俄乌冲突外溢、两大战场联动的猜测。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e2db5da8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e2db5da8",
+          "source": "Google News (中国)",
+          "title": "乌克兰突袭伊朗商船，两大战场要“打通”？丨夜观天下 - 四川在线",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcjdiY0F3dUxQdXlyNDFwVHV0TzlEVlZPbV9vbXNuTzRRMXdtNnY3eHNBMW5wdnRiZG5acGlKUlFiVlRtNm0yRmk0a0hPZnpmYkpsOUNxbi1QdnNnTXdrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T11:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ff071d1",
+      "title": "大唐惠州热电：全力筑牢防御台风 安全保电防线 - 中国能源新闻网",
+      "summary": "台风‘红霞’给我国带来显著影响，造成广东多地极端强降雨，两日降雨量达到当地整月降雨量水平，其残余涡旋还将北上带来降雨，期间出现南北同热、雨热并存的天气，大唐惠州热电、广东电网等多部门已积极开展防台风、保供电、灾后复电等应对工作。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "2c009633"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2c009633",
+          "source": "Google News (中国)",
+          "title": "大唐惠州热电：全力筑牢防御台风 安全保电防线 - 中国能源新闻网",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sTFItZ1dGX0hFWEFEUHNtbFVKeVI1R2FROEsxR1BROWdFYlB4VUowdjloTktQUTZZemx3S3h5NG9NM3NKSWVYYkRzSlc3ZzJxOFpyQWxTMkhRclpQcWp4TkdPWFlkTkdUaEJSeXJHUnR6dWFpQzUxQkdGNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T11:21:29+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T11:21:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15c8b31d",
+      "title": "争议选举投票首日 巴控克什米尔爆发新冲突",
+      "summary": "巴控克什米尔一场存在争议的区域选举于投票首日爆发新冲突。官方称，在这场为期数周的区域选举启动前的数周内，已有数十人死亡，一个被取缔的民权团体表示，其支持者在与警方的冲突中身亡。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-pakistan-violence-jkmf/28int-pakistan-violence-jkmf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "66eaebb9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "66eaebb9",
+          "source": "NYTimes World",
+          "title": "争议选举投票首日 巴控克什米尔爆发新冲突",
+          "link": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+          "published_at": "2026-07-28T10:42:23+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:42:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6be5e71a",
+      "title": "暴雨+强对流+山洪+地质灾害四预警齐发 这些地区注意防范→ - 华龙网",
+      "summary": "多家媒体报道，受“红霞”残余系统影响，国内齐发暴雨、强对流、山洪、地质灾害四类灾害预警，提示17个省区将有大到暴雨，湖北、河南部分地区有大暴雨，未来三天广东、湖南、湖北等地仍有强降雨，相关地区需做好防范。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1387214b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1387214b",
+          "source": "Google News (中国)",
+          "title": "暴雨+强对流+山洪+地质灾害四预警齐发 这些地区注意防范→ - 华龙网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HUjNFVlNWcnNKZ0RSYm1yTlVFT2MtLVphTlF2YWg5OUhtNEdYRi01Vldudkx4c1p5R196YVEyQ1Z2SkFvVnptX2NuNGpnTVlSRmN1V1B1QWRpOTF4TmxHTlVUNkJlMTQzOEp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T10:41:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:41:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10463235",
+      "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+      "summary": "由三名UCLA博士为核心创始的德塔智能，专注研发原生通用人形机器人基础模型，近日完成近5亿元天使++轮融资，这是公司成立半年内完成的第六轮融资，资金将用于技术迭代、团队扩充与场景落地，目前已与多家头部人形机器人厂商达成合作。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_5b90ef0990d7408e82bd7759fe72dc9e@6022551_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "6245f906"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "6245f906",
+          "source": "36氪",
+          "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+          "link": "https://36kr.com/p/3913213962540164?f=rss",
+          "published_at": "2026-07-28T10:38:46+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:38:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b40aaac9",
+      "title": "‘我们什么都没学到’：印度Z世代愤怒情绪考验莫迪",
+      "summary": "印度青年人口规模持续增长，该国现有教育体系弊病凸显，大量年轻人尚未做好进入大学的准备，更无法适配职场需求，不满情绪在Z世代中发酵，这一局面给莫迪政府带来了整改教育体系的压力。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29INT-INDIA-EDUCATION-01-tmqj/29INT-INDIA-EDUCATION-01-tmqj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3e02256d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3e02256d",
+          "source": "NYTimes World",
+          "title": "‘我们什么都没学到’：印度Z世代愤怒情绪考验莫迪",
+          "link": "https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockroach-genz.html",
+          "published_at": "2026-07-28T10:38:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:38:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd8a7129",
+      "title": "曼恩集团称AT1债券投资者对风险“过于自满”",
+      "summary": "曼恩集团的投资者表示，额外一级资本债券（AT1）是风险最高的银行债务品类，当前该类债券的投资者对所面临的风险过于自满，且这类债券目前的利差水平也明显过窄，未充分反映其潜在风险。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9b4505a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9b4505a1",
+          "source": "Bloomberg",
+          "title": "曼恩集团称AT1债券投资者对风险“过于自满”",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/at1-buyers-are-far-too-complacent-to-risks-man-group-says",
+          "published_at": "2026-07-28T10:17:16+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:17:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b7b41226",
+      "title": "医疗补助利润率前景黯淡 森特尼股价下滑",
+      "summary": "美国健康保险公司森特尼发布了乐观的收益报告，不过该公司表示，其医疗补助业务的利润修复所需时间长于原定计划。这一令人担忧的信号盖过了收益利好，带动公司股价下跌。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a10d23cb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a10d23cb",
+          "source": "Bloomberg",
+          "title": "医疗补助利润率前景黯淡 森特尼股价下滑",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/centene-boosts-guidance-on-better-than-expected-medical-costs",
+          "published_at": "2026-07-28T10:10:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:10:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a578e24",
+      "title": "李强在河北唐山调研慰问时强调 持续提升防灾减灾救灾能力 切实保障人民群众生命财产安全 - 新华网",
+      "summary": "国务院总理李强在河北唐山调研慰问，强调要持续提升防灾减灾救灾能力，切实保障人民群众生命财产安全，相关消息由新华网发布。当前正值唐山地震50周年，多家媒体推出相关内容，既有相关发展议题讨论，也有对地震遇难者的追思记录。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7d6cc983"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7d6cc983",
+          "source": "Google News (中国)",
+          "title": "李强在河北唐山调研慰问时强调 持续提升防灾减灾救灾能力 切实保障人民群众生命财产安全 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yTW1MZTNmWGNsbzlYc0t0WUZIRnJ3eGxWRHlfaEpDWUs4cExhZlBzWGpGaDYwR2t0dnRjdmdObFZOekRwcXhQa0pYNmpvVkc2RDZtd00yMUx6d29TWFBFSWJ4WmpsZVNwVXYtUzh5VXVRcl91cFZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T10:03:52+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T10:03:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40e17c7c",
+      "title": "《奥德赛》译者发文严厉批评诺兰改编电影",
+      "summary": "诺兰推出的改编新作目前收获影评群体的一致盛赞，口碑不俗，但荷马史诗《奥德赛》的一名译者却对影片十分不满，他写下措辞尖锐的负面评论，表达了对这部改编作品的不认可。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "bf141e6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bf141e6f",
+          "source": "BBC World",
+          "title": "《奥德赛》译者发文严厉批评诺兰改编电影",
+          "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T09:45:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:45:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c581f9b",
+      "title": "美国暂停打击，伊朗不急于恢复停火谈判",
+      "summary": "分析人士称，目前战事进入暂停阶段，伊朗领导层判断自身能够比美国总统特朗普承受更多压力，且伊朗掌控霍尔木兹海峡，在局势中握有筹码，因此并不急于恢复停火谈判。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "22787c03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "22787c03",
+          "source": "NYTimes World",
+          "title": "美国暂停打击，伊朗不急于恢复停火谈判",
+          "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
+          "published_at": "2026-07-28T09:44:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:44:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d225eb9e",
+      "title": "印尼“小得克萨斯”沿用老式方法开采石油",
+      "summary": "印尼被称作“小得克萨斯”的产油区域，目前仍沿用传统老式方式开采石油，作业过程依靠小型泵和卡车发动机从地下提取原油，该区域内总计分布着数以万计由社区自主运营的小型油井。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "b76c0a80"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b76c0a80",
+          "source": "NYTimes World",
+          "title": "印尼“小得克萨斯”沿用老式方法开采石油",
+          "link": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
+          "published_at": "2026-07-28T09:34:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:34:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "be82cf75",
+      "title": "美国在联合国安理会会议法国发言时退席",
+      "summary": "美国联合朝鲜、俄罗斯共同投票反对延长联合国人权事务高级专员的任期，这一投票结果引发争端。在联合国安理会会议期间，法国发言时美国中途退出会场，引发广泛争议。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/97bbb000-8a51-11f1-8aea-37a02a7d69e8.jpg",
+      "article_ids": [
+        "0438ad84"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0438ad84",
+          "source": "BBC World",
+          "title": "美国在联合国安理会会议法国发言时退席",
+          "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T09:32:25+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:32:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c7d5a4b",
+      "title": "福建省新闻界学习贯彻习近平党建思想座谈会召开- 文教 - 东南网",
+      "summary": "福建省新闻界召开学习贯彻习近平党建思想座谈会，该活动属于深入学习贯彻习近平新时代中国特色社会主义思想的相关部署，旨在推动习近平党建思想学习贯彻走深走实，东南网报道此事，多家媒体也推出相关党建学习议题内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "efd8f00b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "efd8f00b",
+          "source": "Google News (中国)",
+          "title": "福建省新闻界学习贯彻习近平党建思想座谈会召开- 文教 - 东南网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TT05kbm05R3lwRGRjeFdsX3FHMGM1ajNTekU3T3E5RWZ5NFM4WVJyalFXRGJUQ01JR3BWckRYUEhPM3dpREtkZU53NGJNajBCc3V0MEdCQ2NON3BVeUFsNTMwVV9Cdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T09:29:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:29:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd1b8b80",
+      "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+      "summary": "36氪独家获悉，前奔驰高管段建军履新沃尔沃中国区CEO不足百日，沃尔沃正推进内部代号“561”的首款D级超豪华旗舰轿车项目，新车定位对标尊界S800，为中国专属车型，由沃尔沃中国主导、吉利研发团队参与开发，吉利已调集集团最优资源倾斜支持，是沃尔沃在华转型破局的关键落子。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1eaa2a53"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "1eaa2a53",
+          "source": "36氪",
+          "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+          "link": "https://36kr.com/p/3913637793059968?f=rss",
+          "published_at": "2026-07-28T09:24:01+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:24:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30239b52",
+      "title": "三星芯片员工纷纷跳槽至竞争对手SK海力士",
+      "summary": "韩国芯片行业出现人才流动趋势，三星半导体部门不少员工正谋求跳槽至本土竞争对手SK海力士。一名三星半导体工程师透露，他如今不再像过去那样加班攻坚项目，下班后准备求职材料，还和同事分享应聘经验。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e9c7d242"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "e9c7d242",
+          "source": "MIT Technology Review",
+          "title": "三星芯片员工纷纷跳槽至竞争对手SK海力士",
+          "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+          "published_at": "2026-07-28T09:18:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:18:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f5620f8",
+      "title": "英国进入“不确定区域” 景顺、瑞斯本减持英国国债",
+      "summary": "今年，包括景顺、Ninety One英国公司、瑞斯本资产管理、W1M集团在内的多家机构基金经理看淡英国国债。受通胀担忧和英国政治不稳定因素影响，这些机构纷纷调整资产配置，转向其他投资标的。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ae80aca6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ae80aca6",
+          "source": "Bloomberg",
+          "title": "英国进入“不确定区域” 景顺、瑞斯本减持英国国债",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/invesco-and-rathbones-cut-gilts-on-uk-exposure-to-politics-oil",
+          "published_at": "2026-07-28T09:10:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:10:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cb8b885",
+      "title": "Hugging Face遭滥用 轻易生成女性及儿童脱衣内容",
+      "summary": "欧洲非营利机构AI Forensics发布最新报告指出，热门开源AI模型仓库Hugging Face被滥用于制作非自愿深度伪造内容，平台托管的排名前九的图像编辑模型中，有七个可轻易被用于生成此类不当内容，平台几乎未采取有效防范措施。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2cb97ade"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2cb97ade",
+          "source": "The Verge",
+          "title": "Hugging Face遭滥用 轻易生成女性及儿童脱衣内容",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+          "published_at": "2026-07-28T09:07:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:07:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6cb8b885",
+      "title": "Hugging Face被滥用于生成女性及儿童脱衣内容",
+      "summary": "欧洲非营利机构AI Forensics发布最新报告指出，热门开源AI模型仓库Hugging Face被滥用于制作非自愿深度伪造不雅内容，平台几乎未采取防范措施，该机构发现，平台托管的九大热门图像编辑模型中，有七个可轻易完成此类违规生成请求。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2cb97ade"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "2cb97ade",
+          "source": "The Verge AI",
+          "title": "Hugging Face被滥用于生成女性及儿童脱衣内容",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+          "published_at": "2026-07-28T09:07:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:07:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a0a506e",
+      "title": "齐达内确认出任法国国家队主教练",
+      "summary": "日前，官方正式公布最新任命，曾执教皇家马德里队的世界足坛名帅齐内丁·齐达内，已被确认担任法国国家男子足球队主教练，接过球队教鞭的齐达内，将带领法国队出战接下来的各类国际足球赛事。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2db/live/96268e10-8a72-11f1-b8a3-41b986490a13.jpg",
+      "article_ids": [
+        "2018edd9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2018edd9",
+          "source": "BBC World",
+          "title": "齐达内确认出任法国国家队主教练",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T09:03:49+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T09:03:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e750c368",
+      "title": "动物园工作人员从偏远岩石救出濒临灭绝的蜗牛",
+      "summary": "保育人士表示，目前仅在葡萄牙布吉奥岛的一块岩石上发现21只马德拉陆地蜗牛，该物种已濒临灭绝。动物园工作人员已将这批仅存的蜗牛救出，后续将对其开展保护工作，防止这一物种彻底灭绝。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/326c/live/14cfef50-8a59-11f1-b6c7-397f42881d1e.png",
+      "article_ids": [
+        "b19a6ffd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b19a6ffd",
+          "source": "BBC World",
+          "title": "动物园工作人员从偏远岩石救出濒临灭绝的蜗牛",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T08:50:20+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:50:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e7d9732",
+      "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+      "summary": "Kando AI于2026年由吴秉哲、毛书翰联合创立，近日完成数千万元种子轮融资，由星连资本领投，力合金控跟投。项目定位做“决策领域的Cursor”，目标构建可从真实决策中持续学习的自进化决策系统，目前已上线内测，覆盖金融、科研等领域。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260728/v2_eaf8a0bfc61c4dbc8546a3cf0b5375c8@2057308263_oswg458921oswg1080oswg286_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "63bc4442"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "63bc4442",
+          "source": "36氪",
+          "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+          "link": "https://36kr.com/p/3915057199535233?f=rss",
+          "published_at": "2026-07-28T08:42:58+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:42:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0fce8b58",
+      "title": "爱莉安娜·格兰德起诉泄露其音乐与视频的黑客",
+      "summary": "美国知名流行歌星爱莉安娜·格兰德提起诉讼，矛头指向泄露其未发布音乐与视频的黑客。此次起诉旨在查明非法获取她未公开照片、歌曲等内容的黑客身份，维护自身合法权益。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/b3e2c190-8a5d-11f1-b6c7-397f42881d1e.jpg",
+      "article_ids": [
+        "fc5097cc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fc5097cc",
+          "source": "BBC World",
+          "title": "爱莉安娜·格兰德起诉泄露其音乐与视频的黑客",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T08:37:12+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:37:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "95a35475",
+      "title": "贸易谈判之际 美海关官员已对越南境内中国关联工厂展开突击检查 - RFI",
+      "summary": "美越贸易谈判进行期间，美国海关官员已对越南境内的中国关联工厂展开突击检查，外界分析此举或是美国为后续对越加征关税寻找借口。此前美国已提高对越南服装关税，越南也查获近5万双假耐克鞋，越南出口商竞争力正面临不小压力。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8905589e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8905589e",
+          "source": "Google News (中国)",
+          "title": "贸易谈判之际 美海关官员已对越南境内中国关联工厂展开突击检查 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMlFSRVloQXdoM0ItZUFGZVJyVGtocTNiS3djOXRCOUVKSlpHZEtVTmlBdDFJN3Q0Ny12NFViYkhvcjdwemhRSTN1NzFDTG04NVFWZXlIX2dfMG1JMWdQRGxJUTJEMUhGcEZ0dWRwWUV2TGdnQ3hCRFpiemxtcUNjckZtd1NfT3hyX1AzRlhodVdHSjlJYTBmR1Bhc2dSakl2VGtFZV9LSjZvSWhnQlFZNWxGZjNXUmpCRGJrQmNPVGc2VHpsZ1MyS1hCQTZWNE11OG9sZGJ1LWZWdTBLaWg1WFY4MUNJVDkzazlxUnlRUndfNC1KLTdISkxNMzgxZzV0cVJKcTR4a3d5U3hSMjhrQ3JqZjhlcGJHQlBQd2k2R0dwbDZKcXRIbWlxVmxqdnhwOUpRODNNTDZBS3ZBc0NNaGFPRVM0M1ZYcHdvOGdoeWI0YWRNTmFTVHZkV3NyTkRCV1paaWNtMFBNVVBmNXl5LTlpUUxzc0RoSVV3WmVHakFURHV1dGFPY01CQ0VhdDVMOXF5NmlrSFFpN3VIWEFhZGZWMGpoTE5ZQXBwU3M4TGtFa3FxZzdjaUdLTEo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-28T08:31:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:31:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d9e3606",
+      "title": "泽连斯基与特朗普将于白宫会面，二人关系是否已解冻？",
+      "summary": "本周，乌克兰总统泽连斯基将前往美国华盛顿，美国总统特朗普将与其会面。除这场会面外，泽连斯基还将出席美国参议员林赛·格雷厄姆的葬礼，外界关注此次会面能否推动二人关系缓和。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "19366083"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "19366083",
+          "source": "NYTimes World",
+          "title": "泽连斯基与特朗普将于白宫会面，二人关系是否已解冻？",
+          "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+          "published_at": "2026-07-28T08:00:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:00:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f3f0f181",
+      "title": "测试开启 百度与Lyft入局伦敦自动驾驶出租车赛场",
+      "summary": "伦敦自动驾驶出租车测试正式启动，百度与出行企业Lyft入局当地市场。百度旗下Apollo Go自动驾驶车辆，将接入Lyft于2025年收购的出行网络Freenow，参与伦敦无人驾驶出行领域的竞争。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c97c952d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c97c952d",
+          "source": "TechCrunch",
+          "title": "测试开启 百度与Lyft入局伦敦自动驾驶出租车赛场",
+          "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+          "published_at": "2026-07-28T08:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T08:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b296fa22",
+      "title": "台湾在中国芯片走私调查中拘留一名英伟达员工",
+      "summary": "根据该新闻已公开的标题信息，台湾相关方面针对中国芯片走私案件开展调查，过程中已经拘留了一名英伟达公司的员工。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8d42c655"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "8d42c655",
+          "source": "The Information",
+          "title": "台湾在中国芯片走私调查中拘留一名英伟达员工",
+          "link": "https://www.theinformation.com/briefings/taiwan-detains-nvidia-employee-china-chip-smuggling-probe",
+          "published_at": "2026-07-28T06:27:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T06:27:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fa954fc2",
+      "title": "新兴市场带动多芬、舒耐销量增长 联合利华上调业绩预期",
+      "summary": "联合利华第二季度销售额超出市场预期，美国、拉美等核心市场消费者踊跃购买其旗下多芬香皂、奥妙洗衣液等产品，带动销售增长，公司依托好于预期的业绩表现上调了自身业绩预期。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4a24aa1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4a24aa1e",
+          "source": "Bloomberg",
+          "title": "新兴市场带动多芬、舒耐销量增长 联合利华上调业绩预期",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-28/unilever-sales-jump-on-emerging-market-demand-for-dove-soap",
+          "published_at": "2026-07-28T06:14:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T06:14:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "04fdb1bb",
+      "title": "BBC报道：厄瓜多尔至欧洲可卡因“高速通道”——黑帮猖獗与警方反击",
+      "summary": "BBC跟随厄瓜多尔警方一同巡逻，记录该国禁毒一线现状。近期厄瓜多尔毒品犯罪大幅激增，贩毒集团开辟了从厄瓜多尔通往欧洲的可卡因走私“高速通道”，当地警方正全力打击相关毒品犯罪。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24c/live/11347710-8a6f-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "b82e899f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b82e899f",
+          "source": "BBC World",
+          "title": "BBC报道：厄瓜多尔至欧洲可卡因“高速通道”——黑帮猖獗与警方反击",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T05:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T05:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "11be09b4",
+      "title": "遭遣返威胁的香港活动人士获准留英",
+      "summary": "一名吴姓香港活动人士上周在伦敦希思罗机场被扣留数小时，遭到拒绝入境，面临被遣返的威胁。他向BBC透露了这一遭遇，目前已获得英国方面准许，最终得以留在英国。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bda/live/10c4d5e0-8a2e-11f1-8577-7fb0b5f56b15.jpg",
+      "article_ids": [
+        "e828648d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e828648d",
+          "source": "BBC World",
+          "title": "遭遣返威胁的香港活动人士获准留英",
+          "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-28T04:59:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T04:59:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "458af4c6",
+      "title": "SpaceX收购前夕，Cursor推出本地化定价发起迄今最大力度印度市场拓展",
+      "summary": "目前印度已是Cursor的全球第三大市场。在即将被SpaceX收购前夕，该品牌发起迄今力度最大的印度市场拓展，推出本地化定价，同时计划扩大本地招聘规模，拓展企业端销售业务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "470d3cc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "470d3cc5",
+          "source": "TechCrunch",
+          "title": "SpaceX收购前夕，Cursor推出本地化定价发起迄今最大力度印度市场拓展",
+          "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "published_at": "2026-07-28T04:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T04:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "458af4c6",
+      "title": "SpaceX收购前夕，Cursor推出本地化定价展开在印最大规模拓展",
+      "summary": "SpaceX收购前夕，编程工具Cursor推出针对印度市场的本地化定价，开启入印以来力度最大的市场扩张。目前印度已是Cursor的全球第三大市场，该品牌计划后续扩大印度本地招聘，拓展企业销售业务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "470d3cc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "470d3cc5",
+          "source": "TechCrunch AI",
+          "title": "SpaceX收购前夕，Cursor推出本地化定价展开在印最大规模拓展",
+          "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "published_at": "2026-07-28T04:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-28T04:30:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
