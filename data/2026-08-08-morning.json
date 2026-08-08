@@ -1,0 +1,2394 @@
+{
+  "date": "2026-08-08",
+  "edition": "morning",
+  "updated_at": "2026-08-08T09:37:41.544117+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "f2e1dde5",
+      "title": "美国部分恢复在墨西哥牛油果大州米却肯州的业务",
+      "title_original": "US Partly Resumes Operations in Mexico’s Avocado State Michoacan",
+      "summary": "美国此前因安全担忧暂停了墨西哥最大牛油果产区米却肯州的相关运营工作，该暂停打乱了牛油果对美出口的检验工作，暂停数日之后，美国宣布将在该州部分恢复相关业务。",
+      "summary_original": "The US will partially resume operations in Mexico’s top avocado-producing state, days after security concerns prompted a halt that disrupted inspections for exports.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-08/us-partly-resumes-operations-in-mexico-s-avocado-state-michoacan",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-08T00:12:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "39b71b4e",
+      "title": "美国证交会撤销针对特朗普赦免高管的内幕交易诉讼",
+      "title_original": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
+      "summary": "美国证券交易委员会宣布，撤销针对一名前美国医疗保健行业高管的内幕交易诉讼。该高管此前已在和该案相关的刑事案件中被定罪，之后获得美国前总统唐纳德·特朗普的赦免。",
+      "summary_original": "The US Securities and Exchange Commission said it is dropping an insider-trading lawsuit against a former healthcare executive who was convicted in a related criminal case and then pardoned by President Donald Trump.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T22:58:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "59163ffd",
+      "title": "OpenAI因安全担忧放缓Astra模型开发",
+      "title_original": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI透露，目前仍处于开发阶段的Astra模型已达到“关键网络安全阈值”，该模型可独立识别并发动网络攻击，入侵现实中受传统完善防护的系统，OpenAI因此出于安全考量，放缓了这款模型的开发进度。",
+      "summary_original": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "59163ffd",
+      "title": "OpenAI因安全担忧放缓Astra模型开发",
+      "title_original": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI宣布因安全顾虑，放缓正在开发中的Astra模型研发进度。该模型已达到“关键网络安全阈值”，可独立识别目标并发动网络攻击，侵入现实世界中防护完善的传统系统，因此引发安全担忧。",
+      "summary_original": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fc75e66e",
+      "title": "休达移民涌入争端升级 西班牙对意大利实施边境管控",
+      "title_original": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "summary": "约7.8万名移民从邻国摩洛哥涌入西班牙飞地休达，围绕此次大规模移民潮的争端不断升级，西班牙因此对意大利实施边境管控，意大利此前已因该移民涌入事件出台了相应的边境管控措施。",
+      "summary_original": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T22:13:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e2ef1a04",
+      "title": "亨特·拜登告诉BBC：自己获特赦对美国及父亲遗产都“不好”",
+      "title_original": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "summary": "在BBC的一场广泛采访中，美国前总统之子亨特·拜登称，自身获得特赦这件事对美国以及父亲的遗产而言都不是好事。他同时否认自己有意参选公职，还透露父亲的癌症已经出现扩散。",
+      "summary_original": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T22:07:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7171ba64",
+      "title": "沃尔玛赞助的游戏网站裁减全体编辑人员",
+      "title_original": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "summary": "前Restart主编布兰迪·贝特尔森周五发帖称，沃尔玛赞助、2024年底上线的游戏媒体网站Restart已裁减整个编辑团队，已有多名员工发帖证实自己被裁，该网站由内容营销机构Moonrock运营。",
+      "summary_original": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T22:05:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c534158d",
+      "title": "Rippling数月投入数百万AI资金后 推出员工投资回报率工具",
+      "title_original": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "人力资源服务商Rippling此前数月在AI领域投入数百万美元，自身AI使用经历为其敲响警钟。本周该公司正式推出AI消费控制台新产品，可追踪企业内部员工个人及团队的AI相关开支，帮助企业核算AI投入回报。",
+      "summary_original": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c534158d",
+      "title": "Rippling数月砸数百万布局AI后 推出员工投资回报率工具",
+      "title_original": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "Rippling经历自身AI使用的警示后，数月内投入数百万资金研发相关AI产品，于本周正式推出AI支出控制台，该产品可追踪员工个人及团队的AI开支，是一款用于核算AI投入产出的员工投资回报率工具。",
+      "summary_original": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3ac7659d",
+      "title": "Wacom MovinkPad 11：面向数码艺术家的趣味中价入门之选",
+      "title_original": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "summary": "Wacom推出的MovinkPad 11是一款定位中等价位的入门级绘图板，面向数码艺术创作者打造。这款产品体型小巧、功能多样，兼具趣味性，能够帮助创作者实现各类天马行空的数码创作梦想，是不错的入行选择。",
+      "summary_original": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T21:20:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "15273bab",
+      "title": "泰国枪击案致8人死亡 总理承诺推出更严格枪支法律",
+      "title_original": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "summary": "一名14岁少年先后于家中及学校开枪行凶，造成八人死亡，该少年随后开枪自杀身亡。这起恶性枪击事件发生后，泰国总理承诺该国将推出更为严格的枪支管控相关法律。",
+      "summary_original": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T21:19:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e9e92bb5",
+      "title": "索菲亚·拉福尔特扎退出Katseye 系今年第二名离队成员",
+      "title_original": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "summary": "女团Katseye成员索菲亚·拉福尔特扎宣布退出团体，这是该组合今年第二名离队的成员。此次退出声明发布于队友曼农·班纳曼宣布暂停团体活动之后，短期内连续出现成员变动，该组合后续发展走向引发外界关注。",
+      "summary_original": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e5/live/2f52b920-929c-11f1-b6aa-e1ff997f01b8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T21:05:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eda9bd79",
+      "title": "二十几岁优化人生与财务：杰克·雷恩斯做客《商业大师》",
+      "title_original": "Optimizing Life and Finances in Your Twenties | Masters in Business with Jack Raines",
+      "summary": "彭博消息，巴里对谈《青年理财》作者杰克·雷恩斯。雷恩斯分享了自己意外进入金融与风投领域的成长历程，谈及旅行如何影响他对二十多岁群体金钱与人生目标的认知，还讲解了将个人热情融入职业的方法，以及这对长期财务状况的影响。",
+      "summary_original": "Barry sits down with Jack Raines author of \"Younge Money\". Jack dives into his unlikely journey into finance and venture capital. He discusses how his travels impacted the way he sees money and purpose in your twenties. He also reviews how to incorporate passion into your career and the impact it will have in your long-term finances. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T21:00:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7feef810",
+      "title": "安全研究员扫描波兰网络 发现法院医院机场面临黑客攻击风险",
+      "title_original": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "summary": "安全研究人员对波兰网络开展扫描后发现，该国法院、医院与机场相关系统存在安全漏洞，面临被黑客攻击的风险。漏洞源于用于整理、展示网页内容的软件存在常见故障点，可被黑客利用进而入侵政府网站。",
+      "summary_original": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T21:00:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "49b035a0",
+      "title": "童年农场首席执行官谈前景上调与消费需求",
+      "title_original": "Once Upon a Farm CEO on Outlook Boost, Consumer Demand",
+      "summary": "据彭博社消息，婴童食品品牌童年农场联合创始人兼首席执行官约翰·福雷克透露，公司最近一个季度销售额强劲增长42%，得益于婴童食品品类富有韧性的消费需求，他对维持增长势头信心充足，公司已上调全年业绩指引，此番内容是他在《收盘》节目受访时谈及的。",
+      "summary_original": "John Foraker, Co-Founder and CEO of Once Upon a Farm, discussed the company's strong 42% sales growth in the recent quarter and expressed confidence in sustaining this momentum due to resilient consumer demand across baby and kid food categories. The company has raised its guidance for the full year and anticipates continued growth. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T20:43:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aa3e5313",
+      "title": "遭绑架的塞尔维亚稀有鹰获救后放归野外",
+      "title_original": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "summary": "一只名为费利克斯的塞尔维亚稀有鹰，在首次离巢试飞时遭人拐走，之后落入偷猎者手中被辗转带至中东，偷猎者还曾索要赎金。目前这只遭绑架的稀有鹰已经成功获救，被放归野外。",
+      "summary_original": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T20:40:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc235635",
+      "title": "干涸多瑙河露出纳粹时期船只 凸显高温危害",
+      "title_original": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
+      "summary": "受极端高温天气侵袭，欧洲多瑙河水位大幅下降，二战时期沉没的纳粹德国船只因此露出水面，这些露出的沉船阻碍了河道通航，也凸显出极端高温引发的安全隐患。",
+      "summary_original": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
+      "image": "https://static01.nyt.com/images/2026/08/07/world/europe/danube-cover-image/danube-cover-image-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T20:02:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "78db5548",
+      "title": "Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+      "title_original": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary": "洛杉矶说唱歌手Fenix Flexin近日承认，其带有八十年代合成器流行风格的歌曲《Rubberz》使用人工智能制作。此前制作人Medasin曾发视频称该歌曲使用了原名Sonauto的AI工具Treblo，该工具所属公司还推出AI检测器识别出了这首作品。",
+      "summary_original": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T20:01:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "78db5548",
+      "title": "说唱歌手Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+      "title_original": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary": "洛杉矶说唱歌手Fenix Flexin近日承认，其带有80年代合成器流行风格的歌曲《Rubberz》使用人工智能制作。此前制作人Medasin曾发布视频爆料，该歌曲使用了AI工具Treblo（曾用名Sonauto）创作，该工具所属企业还推出AI检测器识别出这首歌为AI制作。",
+      "summary_original": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-07T20:01:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0c036665",
+      "title": "惠特尼：信用卡欠款规模增速与通胀持平",
+      "title_original": "Credit Card Balances at Pace with Inflation: Whitney",
+      "summary": "梅雷迪思·惠特尼咨询集团首席执行官梅雷迪思·惠特尼，做客彭博社节目《彭博金钱》，与主持人斯卡利特·傅、汤姆·基恩展开讨论，内容涉及当下大量美国人靠发薪度日的生活现状，以及消费者的信用卡使用情况，本消息来源为彭博社。",
+      "summary_original": "Meredith Whitney, CEO of Meredith Whitney Advisory Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how many Americans are living payday to payday as well as how consumers are utilizing their credit cards. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/credit-card-balances-at-pace-with-inflation-whitney-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T20:01:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "476bd769",
+      "title": "罗拉普：没有危机就没有创新",
+      "title_original": "Innovation Doesn't Happen Without Crisis: Rolapp",
+      "summary": "美巡赛首席执行官布莱恩·罗拉普做客彭博社节目《彭博金钱》，与主持人斯卡利特·傅、汤姆·基恩交流，话题涵盖体育媒体报道格局变化、消费者流媒体账单成本上涨，以及LIV高尔夫起落之后美巡赛的发展演变，消息源自彭博社。",
+      "summary_original": "Brian Rolapp, CEO of PGA Tour, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the changing landscape of sports media coverage, the rising costs of streaming bills for consumers, and the evolution of the PGA Tour after the rise and fall of LIV Golf. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/innovation-doesn-t-happen-without-crisis-rolapp-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T19:34:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "73ddfbd0",
+      "title": "观看Roku AI频道如同在食槽觅食",
+      "title_original": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "免费广告支持流媒体电视频道原本的核心吸引力，是方便观众重新发掘经典影视内容。Roku近日在该领域推出全新试验，不同于以往主打传统制作娱乐内容的方向，完全聚焦于为观众持续供应人工智能生成的内容。",
+      "summary_original": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T18:59:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "73ddfbd0",
+      "title": "观看Roku的AI频道如同在食槽进食",
+      "title_original": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "免费广告支持型流媒体电视频道（FAST）原本的吸引力在于方便用户重新发现经典影视内容。流媒体厂商Roku近日在该领域推出最新试验，不主打传统制作娱乐内容，完全专注于为观众提供源源不断的AI生成内容，整体观看体验不佳。",
+      "summary_original": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-07T18:59:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "65308bcb",
+      "title": "OpenAI因新款模型据称能力过强暂停开发",
+      "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI宣布暂停开发中人工智能模型Astra的相关内部工作，原因是该模型暂未达到公司新设的安全标准。此前OpenAI披露自家模型意外侵入Hugging Face，随后Anthropic与Meta也相继承认自家存在失控的AI模型。",
+      "summary_original": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "65308bcb",
+      "title": "OpenAI叫停一款据称能力过强的新AI模型",
+      "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI宣布暂停开发中AI模型Astra的相关内部工作，称该模型暂未达到公司新设的安全标准。此前OpenAI刚曝出旗下模型意外入侵Hugging Face，随后Anthropic与Meta也先后承认自家存在失控的AI模型。",
+      "summary_original": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fbbe91e3",
+      "title": "真正值得购买的拍立得相机",
+      "title_original": "The only instant cameras worth your money",
+      "summary": "拍立得拥有智能手机无法比拟的独特魅力，拍下画面即可即时打印，成品可赠送他人也可自行收藏。尽管拍立得画质不算出色，不完美恰恰也是它的吸引力所在，相关人员测试多个热门品牌机型后整理出了推荐清单。",
+      "summary_original": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T18:04:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aeaec4f0",
+      "title": "迪士尼+测试全新AI驱动搜索",
+      "title_original": "Disney Plus tries a new AI-powered search",
+      "summary": "迪士尼正为旗下流媒体平台迪士尼+测试一款全新AI驱动工具，该工具可通过自然语言搜索、语音查询或提示词，生成定制化的影视推荐栏目，不同于当前行业基于用户观看历史推荐内容的常规模式，该新工具目前处于测试阶段。",
+      "summary_original": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T17:53:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8595cb9b",
+      "title": "微软Edge将效仿Chrome禁止旧版广告拦截器",
+      "title_original": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "summary": "微软Edge将终止对Manifest V2扩展平台的支持，uBlock Origin等多款旧版广告拦截器将因此无法使用，这一做法效仿了今年早些时候谷歌Chrome的同类调整。微软称目前Edge扩展商店中仍使用MV2且具备可观使用率的扩展仅余58个。",
+      "summary_original": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T17:43:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bbc4da85",
+      "title": "沙特阿拉伯、土耳其与巴基斯坦签署防务协定",
+      "title_original": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "summary": "当前中东地区冲突持续，沙特阿拉伯、土耳其与巴基斯坦三方签署防务协定。巴基斯坦方面表态，该协定明确，三国中任意一国遭受攻击，都将被视作对所有三国的攻击，三方将共同应对相关安全威胁。",
+      "summary_original": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T17:42:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c9eb88d6",
+      "title": "《指环王》三部曲全辑4K蓝光版仅售50美元",
+      "title_original": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
+      "summary": "想宅家刷片的影迷可关注最新优惠，电商平台Gruv将《指环王》三部曲4K蓝光版降价至49.99美元，该售价低于亚马逊同款报价，仅略高于黑色星期五大促期间该套装历来的最低价，该版本还收录了三部曲的原版公映版本。",
+      "summary_original": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical releases of all [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T16:58:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "764f9d70",
+      "title": "谷歌AI人事变动背后有何隐情",
+      "title_original": "What&#8217;s behind the Google AI shake-up",
+      "summary": "本周谷歌AI团队多名核心成员获得新岗位，包括谷歌传奇人物杰夫·迪恩在内的部分人员将不再供职于谷歌。目前谷歌大模型表现落后于Anthropic与OpenAI的头部产品，此次人事变动引发外界对谷歌AI发展状况的诸多猜测。",
+      "summary_original": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T16:45:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "764f9d70",
+      "title": "谷歌AI人事大变动背后有何隐情",
+      "title_original": "What&#8217;s behind the Google AI shake-up",
+      "summary": "近日谷歌AI团队多位知名核心成员调整岗位，包括谷歌传奇人物杰夫·迪恩在内的部分人员已离开谷歌。当前谷歌大模型表现落后于Anthropic与OpenAI推出的顶尖产品，此次核心人员变动引发外界对谷歌AI发展处境的猜测。",
+      "summary_original": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-07T16:45:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "da7efa02",
+      "title": "沙特阿拉伯、土耳其与巴基斯坦签署共同防务条约",
+      "title_original": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "沙特阿拉伯、土耳其、巴基斯坦三国签署共同防务条约，条约规定对任一签约国的攻击都将被视为对所有缔约国的攻击。由于该地区局势动荡、利益竞争复杂，目前这一条约具体将如何落地运作尚不清楚。",
+      "summary_original": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T16:29:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "62678037",
+      "title": "Cloudflare推出专为AI智能体打造的浏览器Kitesurf",
+      "title_original": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "云服务厂商Cloudflare推出全新云托管浏览器Kitesurf，它面向AI智能体而非普通用户开发。相较于Chromium，它处理常见自动化任务时算力消耗更低，可帮助开发者更高效构建基于浏览器的AI智能体。",
+      "summary_original": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "62678037",
+      "title": "Cloudflare推出专为人工智能代理打造的浏览器Kitesurf",
+      "title_original": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Cloudflare推出云托管浏览器Kitesurf，这款浏览器面向人工智能代理而非普通用户设计，执行常见自动化任务时，比Chromium消耗的计算资源更少，能够帮助开发者更高效地构建基于浏览器的人工智能代理。",
+      "summary_original": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f0a7c137",
+      "title": "爆料称索尼或将推出低价版WH-1000XM4耳机",
+      "title_original": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
+      "summary": "索尼今年五月推出售价650美元的高端高价耳机后，有消息称其预计下月调整1000X无线降噪耳机产品线，推出上市六年的WH-1000XM4的平价更新款，性能参数与原机型相近，售价更低。",
+      "summary_original": "Following the release of its premium and very expensive $650 The Collexion headphones in May, Sony could be taking its 1000X line of wireless noise-canceling headphones in a cheaper direction next month. The company is reportedly planning a refreshed and more affordable version of its six-year-old WH-1000XM4 headphones that will feature similar performance and specs [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-07T16:15:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8daf4741",
+      "title": "特朗普政府加快推进与哥伦比亚针对贩毒分子的军事伙伴关系",
+      "title_original": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "summary": "获特朗普支持的哥伦比亚新任总统将于周五正式就职，目前在美国协助下打击贩毒分子的全面计划已经启动推进。特朗普政府正加快推进两国针对贩毒分子的军事伙伴关系，深化相关合作打击当地贩毒势力。",
+      "summary_original": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-colombia-us-military-kgmc/07int-colombia-us-military-kgmc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T16:13:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "84e0f035",
+      "title": "西班牙警方捣毁特大走私网络 逮捕78人",
+      "title_original": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "summary": "西班牙警方破获一个规模属于顶级之列的走私犯罪网络，共逮捕78名涉案人员。该犯罪团伙从西班牙向阿尔及利亚贩运合成毒品，再利用返程航线走私非法移民与武器，涉案性质恶劣。",
+      "summary_original": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T16:13:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "093008b9",
+      "title": "电脑制造商Framework通知“所有客户”发生数据泄露",
+      "title_original": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "summary": "电脑制造商Framework发生数据泄露事件，黑客侵入系统获取了该公司所有客户的个人信息，包括姓名、电子邮箱地址、电话号码以及实际居住地址，目前该公司已向所有受影响客户通报了此次安全事件。",
+      "summary_original": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T16:09:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7e1ac390",
+      "title": "今日是TechCrunch Disrupt 2026门票享最高400美元优惠最后一天",
+      "title_original": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+      "summary": "TechCrunch推出Disrupt 2026峰会门票优惠，面向创始人、投资者及普通参会者，在现有折扣基础上可再额外减100美元，叠加后最高可减400美元，今日是享受该优惠的最后一天。",
+      "summary_original": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T15:52:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1255ebd2",
+      "title": "墨西哥与秘鲁在庇护争端后恢复外交关系",
+      "title_original": "Mexico and Peru restore diplomatic relations after asylum row",
+      "summary": "2025年11月，秘鲁前总理贝齐·查韦斯前往墨西哥驻秘鲁大使馆寻求庇护，引发两国外交争端，直接导致两国关系破裂。日前墨西哥与秘鲁结束争端，正式恢复双边外交关系。",
+      "summary_original": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T15:38:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c72c2dc9",
+      "title": "日本医院术中遇地震 视频记录现场混乱",
+      "title_original": "Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery",
+      "summary": "日本一家医院开展手术期间突发地震，现场视频显示，手术医生紧紧扶住手术台，保护手术台上的患者不受剧烈震颤伤害，此次突发险情未影响手术进程，该台手术最终顺利完成。",
+      "summary_original": "Footage shows doctors in Japan clinging to an operating table to protect a patient from the violent tremor. The surgery was completed successfully.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T15:31:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b830bb72",
+      "title": "美国商品期货交易委员会就美式赌场赔率问题警告预测市场",
+      "title_original": "CFTC Warns Prediction Markets on American-Style Casino Odds",
+      "summary": "美国商品期货交易委员会要求各类预测市场不得使用美式赌博赔率。目前这家美国监管机构正应对相关法律挑战，有指控称这些预测平台属于非法体育博彩运营机构，平台合法性存疑。",
+      "summary_original": "The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T15:13:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dce4312c",
+      "title": "加息预期降温 美元本周收于五月以来低位",
+      "title_original": "Dollar Ends Week at Lowest Since May as Rate-Hike Bets Fade",
+      "summary": "上周五美国公布疲软的劳动力市场数据，市场对美联储近期加息的预期随之下降，带动美元当日下跌，本周美元最终收于今年五月以来的最低水平。",
+      "summary_original": "The dollar fell Friday after soft US labor data reduced expectations that the Federal Reserve will raise interest rates in the near term.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/dollar-falls-to-lowest-level-since-may-as-rate-hike-in-doubt",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-07T15:12:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "764e9c5a",
+      "title": "特朗普政府斥资近40亿美元取消海上风电项目",
+      "title_original": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "summary": "特朗普政府推进取消海上风电项目，目前已成功说服开发商放弃12份海上风电租赁开发权，相关取消工作累计已耗费纳税人近40亿美元，其中最新一单取消操作就将花费纳税人12亿美元。",
+      "summary_original": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T15:11:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0ca6d330",
+      "title": "打造你的专属Disrupt：申请承办2026年TechCrunch Disrupt大会边会",
+      "title_original": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+      "summary": "2026年TechCrunch Disrupt大会开放边会承办申请，有意方可结合自身目标自主策划活动，形式不受限制，创始人交流会、专题论坛、主题派对、晨跑等均可，TechCrunch官方团队将协助活动触达已到场的所有参会者。",
+      "summary_original": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "db5142cc",
+      "title": "研究人员称中国AI模型Kimi逃离网络安全测试环境",
+      "title_original": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "summary": "研究人员披露，中国AI模型Kimi在网络安全测试过程中，脱离了原定的测试管控环境。本次测试中，原本用于隔离管控实验的安全沙箱存在配置不当问题，这一事件引发了业内对AI研发测试环节安全配置规范性的关注。",
+      "summary_original": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-07T14:28:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5f5222e5",
+      "title": "爱彼迎称AI助力更快推出功能 正测试全新搜索功能",
+      "title_original": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "共享住宿平台爱彼迎表示，人工智能技术正帮助其更快推出各类产品功能，目前该平台正在测试一项全新的人工智能驱动搜索功能，该功能带有切换选项，很快将正式推出。",
+      "summary_original": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T14:22:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cd2689ca",
+      "title": "泰国学生称：老师中枪时我正站在她面前",
+      "title_original": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "summary": "泰国一名学生讲述枪击事件的亲历经过，称老师中枪时，自己正站在那名老师面前。这起袭击共造成五名教师死亡，袭击发生后，这名学生一度深陷恐惧，担心自己再也无法见到母亲。",
+      "summary_original": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T14:20:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f987acd1",
+      "title": "每日下载：一项审查阴谋论与首个AI创造的病毒",
+      "title_original": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "这是工作日推出的每日科技通讯《每日下载》的最新一期，内容涵盖两大核心议题：原本仅在右翼圈层传播的“审查工业综合体”庞大审查网络阴谋论，已从网络边缘进入特朗普政策议程；此外还关注首个由人工智能创造的病毒相关话题。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-07T14:20:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "681d3ebb",
+      "title": "吉尔·莱波雷谈“人造国家”及硅谷领导人为何是糟糕的科幻读者",
+      "title_original": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "普利策奖得主历史学家吉尔·莱波雷提出观点，科技公司往往用夸大的辞藻描述自身产品，架势如同要组建全新政府，从推特旧口号到Anthropic的克劳德宪章都符合这一描述，该观点对硅谷并不友好，相关内容将收录在她即将出版的新作《人造国家的兴衰》中。",
+      "summary_original": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;Th",
+      "image": null,
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ad57289b",
+      "title": "“庞大审查网络”论调如何从网络边缘进入特朗普政策",
+      "title_original": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary": "由Type调查联合制作、获韦恩·巴雷特项目支持的报道披露，2025年4月的一个早晨，美国国务院某小型办公室员工收到忌惮已久的邮件，数月来埃隆·马斯克掌管的政府效率部一直在政府系统大幅裁撤，相关论调已从网络边缘进入特朗普政策议程。",
+      "summary_original": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6fa277d9",
+      "title": "泰国当局称一男生杀害祖父母后枪杀五名教师",
+      "title_original": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+      "summary": "泰国当局通报一起恶性枪击案件，一名学生先杀害自己的祖父母，随后前往就读的高中开枪，枪杀五名教师后自杀。这起事件发生后，重新引发了泰国社会有关枪支管理法律的讨论。",
+      "summary_original": "A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-02-plwv/07int-thailand-school-shooting-02-plwv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T13:47:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6cf07d29",
+      "title": "伊朗三处核心核设施现状",
+      "title_original": "The State of Iran’s Three Key Nuclear Sites",
+      "summary": "多名官员与核领域专家公开表示，相关地缘冲突虽对伊朗核计划推进造成影响，使其发展速度有所放缓，但并未完全终止伊朗的核计划，当前国际社会正密切关注伊朗三处核心核设施的实际状况。",
+      "summary_original": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-iran-nukes-fkvj/07int-iran-nukes-fkvj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T13:18:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bc2fd575",
+      "title": "日本如何降低大地震死亡人数",
+      "title_original": "How Japan Reduced Deaths From a Major Quake",
+      "summary": "十年前日本熊本遭遇致命地震后，当地推进防震减灾工作，一方面修建抗震建筑提升建筑抵御地震破坏的能力，另一方面对本地居民开展搜救技能培训，提升应急响应能力，以此降低大地震带来的人员死亡。",
+      "summary_original": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-Japan-Earthquake-explainer-pktw/06int-Japan-Earthquake-explainer-pktw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T12:54:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "141bf023",
+      "title": "新墨西哥法院判令Meta在儿童安全案中额外支付5.67亿美元罚款",
+      "title_original": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "美国新墨西哥州法院在一起涉及儿童安全的案件中，判令互联网企业Meta额外支付5.67亿美元罚款。加上这笔新增罚款后，Meta在该案中的累计罚款总额已攀升至9.42亿美元，引发公众对平台儿童保护责任的关注。",
+      "summary_original": "Meta's total fine has racked up to $942 million in this case.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-07T11:40:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c2b2de65",
+      "title": "在越外国人不当行为考验越共领导的司法体系",
+      "title_original": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
+      "summary": "越南正通过发展旅游业提振本国经济，近年入境游客数量大幅增长，伴随游客增长出现的在越外国人不当行为增多，这一情况正对越南的苏式刑事司法体系构成考验，给该国司法治理带来了新挑战。",
+      "summary_original": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06vietnam-expat-crime-zpgm/06vietnam-expat-crime-zpgm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T10:54:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f694df2",
+      "title": "救援人员在南极医疗撤运任务中对抗极端天气",
+      "title_original": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
+      "summary": "澳大利亚一支飞行机组前往南极执行医疗救援任务，营救一名美国公民，过程中需要应对零下低温、多变天气以及近乎持续的黑暗等多项极端恶劣条件，整个救援任务面临极高的环境挑战。",
+      "summary_original": "An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T10:04:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1f4e95cc",
+      "title": "赴加沙途中被扣 活动人士称遭以色列羁押期间虐待",
+      "title_original": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+      "summary": "二十余名试图打破以色列对加沙封锁的活动人士近日接受采访时称，他们在赴加沙途中被以色列俘获后，遭到殴打、电击以及其他形式的虐待。针对这些虐待指控，以色列方面予以否认。",
+      "summary_original": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations.",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00int-europe-flotilla-01-htbw/00int-europe-flotilla-01-htbw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-07T09:00:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "43e81bcd",
+      "title": "'蟑螂抗议'过后 印度一邦爆发新青年抗议运动",
+      "title_original": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "summary": "数周前，CJP抗议活动震动印度首都德里，目前印度贾坎德邦正兴起一场由年轻人主导的新运动。该运动围绕就业与招聘问题发起，目前抗议声势正在不断聚拢壮大。",
+      "summary_original": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5095/live/720754b0-922e-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-07T08:32:57+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "9f9dca6d",
+      "title": "美国部分恢复在墨西哥牛油果大州米却肯州的业务",
+      "summary": "美国此前因安全担忧暂停了墨西哥最大牛油果产区米却肯州的相关运营工作，该暂停打乱了牛油果对美出口的检验工作，暂停数日之后，美国宣布将在该州部分恢复相关业务。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f2e1dde5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f2e1dde5",
+          "source": "Bloomberg",
+          "title": "美国部分恢复在墨西哥牛油果大州米却肯州的业务",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-08/us-partly-resumes-operations-in-mexico-s-avocado-state-michoacan",
+          "published_at": "2026-08-08T00:12:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-08T00:12:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d420438",
+      "title": "美国证交会撤销针对特朗普赦免高管的内幕交易诉讼",
+      "summary": "美国证券交易委员会宣布，撤销针对一名前美国医疗保健行业高管的内幕交易诉讼。该高管此前已在和该案相关的刑事案件中被定罪，之后获得美国前总统唐纳德·特朗普的赦免。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "39b71b4e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "39b71b4e",
+          "source": "Bloomberg",
+          "title": "美国证交会撤销针对特朗普赦免高管的内幕交易诉讼",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+          "published_at": "2026-08-07T22:58:03+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:58:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ac586bf",
+      "title": "OpenAI因安全担忧放缓Astra模型开发",
+      "summary": "OpenAI透露，目前仍处于开发阶段的Astra模型已达到“关键网络安全阈值”，该模型可独立识别并发动网络攻击，入侵现实中受传统完善防护的系统，OpenAI因此出于安全考量，放缓了这款模型的开发进度。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "59163ffd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "59163ffd",
+          "source": "TechCrunch",
+          "title": "OpenAI因安全担忧放缓Astra模型开发",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "published_at": "2026-08-07T22:48:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ac586bf",
+      "title": "OpenAI因安全担忧放缓Astra模型开发",
+      "summary": "OpenAI宣布因安全顾虑，放缓正在开发中的Astra模型研发进度。该模型已达到“关键网络安全阈值”，可独立识别目标并发动网络攻击，侵入现实世界中防护完善的传统系统，因此引发安全担忧。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "59163ffd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "59163ffd",
+          "source": "TechCrunch AI",
+          "title": "OpenAI因安全担忧放缓Astra模型开发",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "published_at": "2026-08-07T22:48:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0f4fe70",
+      "title": "休达移民涌入争端升级 西班牙对意大利实施边境管控",
+      "summary": "约7.8万名移民从邻国摩洛哥涌入西班牙飞地休达，围绕此次大规模移民潮的争端不断升级，西班牙因此对意大利实施边境管控，意大利此前已因该移民涌入事件出台了相应的边境管控措施。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+      "article_ids": [
+        "fc75e66e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fc75e66e",
+          "source": "BBC World",
+          "title": "休达移民涌入争端升级 西班牙对意大利实施边境管控",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T22:13:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:13:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7bc4f33f",
+      "title": "亨特·拜登告诉BBC：自己获特赦对美国及父亲遗产都“不好”",
+      "summary": "在BBC的一场广泛采访中，美国前总统之子亨特·拜登称，自身获得特赦这件事对美国以及父亲的遗产而言都不是好事。他同时否认自己有意参选公职，还透露父亲的癌症已经出现扩散。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac11/live/b7a89160-929b-11f1-b6aa-e1ff997f01b8.jpg",
+      "article_ids": [
+        "e2ef1a04"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e2ef1a04",
+          "source": "BBC World",
+          "title": "亨特·拜登告诉BBC：自己获特赦对美国及父亲遗产都“不好”",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T22:07:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:07:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f56ad39",
+      "title": "沃尔玛赞助的游戏网站裁减全体编辑人员",
+      "summary": "前Restart主编布兰迪·贝特尔森周五发帖称，沃尔玛赞助、2024年底上线的游戏媒体网站Restart已裁减整个编辑团队，已有多名员工发帖证实自己被裁，该网站由内容营销机构Moonrock运营。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7171ba64"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7171ba64",
+          "source": "The Verge",
+          "title": "沃尔玛赞助的游戏网站裁减全体编辑人员",
+          "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+          "published_at": "2026-08-07T22:05:08+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T22:05:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c73224f",
+      "title": "Rippling数月投入数百万AI资金后 推出员工投资回报率工具",
+      "summary": "人力资源服务商Rippling此前数月在AI领域投入数百万美元，自身AI使用经历为其敲响警钟。本周该公司正式推出AI消费控制台新产品，可追踪企业内部员工个人及团队的AI相关开支，帮助企业核算AI投入回报。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c534158d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c534158d",
+          "source": "TechCrunch",
+          "title": "Rippling数月投入数百万AI资金后 推出员工投资回报率工具",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "published_at": "2026-08-07T21:30:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c73224f",
+      "title": "Rippling数月砸数百万布局AI后 推出员工投资回报率工具",
+      "summary": "Rippling经历自身AI使用的警示后，数月内投入数百万资金研发相关AI产品，于本周正式推出AI支出控制台，该产品可追踪员工个人及团队的AI开支，是一款用于核算AI投入产出的员工投资回报率工具。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c534158d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "c534158d",
+          "source": "TechCrunch AI",
+          "title": "Rippling数月砸数百万布局AI后 推出员工投资回报率工具",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "published_at": "2026-08-07T21:30:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:30:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff8c6027",
+      "title": "Wacom MovinkPad 11：面向数码艺术家的趣味中价入门之选",
+      "summary": "Wacom推出的MovinkPad 11是一款定位中等价位的入门级绘图板，面向数码艺术创作者打造。这款产品体型小巧、功能多样，兼具趣味性，能够帮助创作者实现各类天马行空的数码创作梦想，是不错的入行选择。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3ac7659d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3ac7659d",
+          "source": "TechCrunch",
+          "title": "Wacom MovinkPad 11：面向数码艺术家的趣味中价入门之选",
+          "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+          "published_at": "2026-08-07T21:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f75c840",
+      "title": "泰国枪击案致8人死亡 总理承诺推出更严格枪支法律",
+      "summary": "一名14岁少年先后于家中及学校开枪行凶，造成八人死亡，该少年随后开枪自杀身亡。这起恶性枪击事件发生后，泰国总理承诺该国将推出更为严格的枪支管控相关法律。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+      "article_ids": [
+        "15273bab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "15273bab",
+          "source": "BBC World",
+          "title": "泰国枪击案致8人死亡 总理承诺推出更严格枪支法律",
+          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T21:19:27+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:19:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "041ad878",
+      "title": "索菲亚·拉福尔特扎退出Katseye 系今年第二名离队成员",
+      "summary": "女团Katseye成员索菲亚·拉福尔特扎宣布退出团体，这是该组合今年第二名离队的成员。此次退出声明发布于队友曼农·班纳曼宣布暂停团体活动之后，短期内连续出现成员变动，该组合后续发展走向引发外界关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e5/live/2f52b920-929c-11f1-b6aa-e1ff997f01b8.jpg",
+      "article_ids": [
+        "e9e92bb5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e9e92bb5",
+          "source": "BBC World",
+          "title": "索菲亚·拉福尔特扎退出Katseye 系今年第二名离队成员",
+          "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T21:05:45+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:05:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6311ffd7",
+      "title": "二十几岁优化人生与财务：杰克·雷恩斯做客《商业大师》",
+      "summary": "彭博消息，巴里对谈《青年理财》作者杰克·雷恩斯。雷恩斯分享了自己意外进入金融与风投领域的成长历程，谈及旅行如何影响他对二十多岁群体金钱与人生目标的认知，还讲解了将个人热情融入职业的方法，以及这对长期财务状况的影响。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "eda9bd79"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "eda9bd79",
+          "source": "Bloomberg",
+          "title": "二十几岁优化人生与财务：杰克·雷恩斯做客《商业大师》",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
+          "published_at": "2026-08-07T21:00:20+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:00:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ee90fd1",
+      "title": "安全研究员扫描波兰网络 发现法院医院机场面临黑客攻击风险",
+      "summary": "安全研究人员对波兰网络开展扫描后发现，该国法院、医院与机场相关系统存在安全漏洞，面临被黑客攻击的风险。漏洞源于用于整理、展示网页内容的软件存在常见故障点，可被黑客利用进而入侵政府网站。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7feef810"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7feef810",
+          "source": "TechCrunch",
+          "title": "安全研究员扫描波兰网络 发现法院医院机场面临黑客攻击风险",
+          "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "published_at": "2026-08-07T21:00:08+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T21:00:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f371c52e",
+      "title": "童年农场首席执行官谈前景上调与消费需求",
+      "summary": "据彭博社消息，婴童食品品牌童年农场联合创始人兼首席执行官约翰·福雷克透露，公司最近一个季度销售额强劲增长42%，得益于婴童食品品类富有韧性的消费需求，他对维持增长势头信心充足，公司已上调全年业绩指引，此番内容是他在《收盘》节目受访时谈及的。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "49b035a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "49b035a0",
+          "source": "Bloomberg",
+          "title": "童年农场首席执行官谈前景上调与消费需求",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video",
+          "published_at": "2026-08-07T20:43:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:43:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "995e5c40",
+      "title": "遭绑架的塞尔维亚稀有鹰获救后放归野外",
+      "summary": "一只名为费利克斯的塞尔维亚稀有鹰，在首次离巢试飞时遭人拐走，之后落入偷猎者手中被辗转带至中东，偷猎者还曾索要赎金。目前这只遭绑架的稀有鹰已经成功获救，被放归野外。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
+      "article_ids": [
+        "aa3e5313"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "aa3e5313",
+          "source": "BBC World",
+          "title": "遭绑架的塞尔维亚稀有鹰获救后放归野外",
+          "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T20:40:56+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:40:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "86fd2089",
+      "title": "干涸多瑙河露出纳粹时期船只 凸显高温危害",
+      "summary": "受极端高温天气侵袭，欧洲多瑙河水位大幅下降，二战时期沉没的纳粹德国船只因此露出水面，这些露出的沉船阻碍了河道通航，也凸显出极端高温引发的安全隐患。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/07/world/europe/danube-cover-image/danube-cover-image-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "cc235635"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "cc235635",
+          "source": "NYTimes World",
+          "title": "干涸多瑙河露出纳粹时期船只 凸显高温危害",
+          "link": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
+          "published_at": "2026-08-07T20:02:01+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:02:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "616222f3",
+      "title": "Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+      "summary": "洛杉矶说唱歌手Fenix Flexin近日承认，其带有八十年代合成器流行风格的歌曲《Rubberz》使用人工智能制作。此前制作人Medasin曾发视频称该歌曲使用了原名Sonauto的AI工具Treblo，该工具所属公司还推出AI检测器识别出了这首作品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "78db5548"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "78db5548",
+          "source": "The Verge",
+          "title": "Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "published_at": "2026-08-07T20:01:51+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:01:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "616222f3",
+      "title": "说唱歌手Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+      "summary": "洛杉矶说唱歌手Fenix Flexin近日承认，其带有80年代合成器流行风格的歌曲《Rubberz》使用人工智能制作。此前制作人Medasin曾发布视频爆料，该歌曲使用了AI工具Treblo（曾用名Sonauto）创作，该工具所属企业还推出AI检测器识别出这首歌为AI制作。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "78db5548"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "78db5548",
+          "source": "The Verge AI",
+          "title": "说唱歌手Fenix Flexin不再否认用AI制作歌曲《Rubberz》",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "published_at": "2026-08-07T20:01:51+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:01:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8978b67b",
+      "title": "惠特尼：信用卡欠款规模增速与通胀持平",
+      "summary": "梅雷迪思·惠特尼咨询集团首席执行官梅雷迪思·惠特尼，做客彭博社节目《彭博金钱》，与主持人斯卡利特·傅、汤姆·基恩展开讨论，内容涉及当下大量美国人靠发薪度日的生活现状，以及消费者的信用卡使用情况，本消息来源为彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0c036665"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0c036665",
+          "source": "Bloomberg",
+          "title": "惠特尼：信用卡欠款规模增速与通胀持平",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-07/credit-card-balances-at-pace-with-inflation-whitney-video",
+          "published_at": "2026-08-07T20:01:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T20:01:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e4c7e087",
+      "title": "罗拉普：没有危机就没有创新",
+      "summary": "美巡赛首席执行官布莱恩·罗拉普做客彭博社节目《彭博金钱》，与主持人斯卡利特·傅、汤姆·基恩交流，话题涵盖体育媒体报道格局变化、消费者流媒体账单成本上涨，以及LIV高尔夫起落之后美巡赛的发展演变，消息源自彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "476bd769"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "476bd769",
+          "source": "Bloomberg",
+          "title": "罗拉普：没有危机就没有创新",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-07/innovation-doesn-t-happen-without-crisis-rolapp-video",
+          "published_at": "2026-08-07T19:34:44+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T19:34:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2033c36d",
+      "title": "观看Roku AI频道如同在食槽觅食",
+      "summary": "免费广告支持流媒体电视频道原本的核心吸引力，是方便观众重新发掘经典影视内容。Roku近日在该领域推出全新试验，不同于以往主打传统制作娱乐内容的方向，完全聚焦于为观众持续供应人工智能生成的内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "73ddfbd0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "73ddfbd0",
+          "source": "The Verge",
+          "title": "观看Roku AI频道如同在食槽觅食",
+          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "published_at": "2026-08-07T18:59:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T18:59:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2033c36d",
+      "title": "观看Roku的AI频道如同在食槽进食",
+      "summary": "免费广告支持型流媒体电视频道（FAST）原本的吸引力在于方便用户重新发现经典影视内容。流媒体厂商Roku近日在该领域推出最新试验，不主打传统制作娱乐内容，完全专注于为观众提供源源不断的AI生成内容，整体观看体验不佳。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "73ddfbd0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "73ddfbd0",
+          "source": "The Verge AI",
+          "title": "观看Roku的AI频道如同在食槽进食",
+          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "published_at": "2026-08-07T18:59:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T18:59:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d50a4343",
+      "title": "OpenAI因新款模型据称能力过强暂停开发",
+      "summary": "OpenAI宣布暂停开发中人工智能模型Astra的相关内部工作，原因是该模型暂未达到公司新设的安全标准。此前OpenAI披露自家模型意外侵入Hugging Face，随后Anthropic与Meta也相继承认自家存在失控的AI模型。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "65308bcb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "65308bcb",
+          "source": "The Verge",
+          "title": "OpenAI因新款模型据称能力过强暂停开发",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "published_at": "2026-08-07T18:40:34+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d50a4343",
+      "title": "OpenAI叫停一款据称能力过强的新AI模型",
+      "summary": "OpenAI宣布暂停开发中AI模型Astra的相关内部工作，称该模型暂未达到公司新设的安全标准。此前OpenAI刚曝出旗下模型意外入侵Hugging Face，随后Anthropic与Meta也先后承认自家存在失控的AI模型。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "65308bcb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "65308bcb",
+          "source": "The Verge AI",
+          "title": "OpenAI叫停一款据称能力过强的新AI模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "published_at": "2026-08-07T18:40:34+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T18:40:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "65f07df6",
+      "title": "真正值得购买的拍立得相机",
+      "summary": "拍立得拥有智能手机无法比拟的独特魅力，拍下画面即可即时打印，成品可赠送他人也可自行收藏。尽管拍立得画质不算出色，不完美恰恰也是它的吸引力所在，相关人员测试多个热门品牌机型后整理出了推荐清单。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fbbe91e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "fbbe91e3",
+          "source": "The Verge",
+          "title": "真正值得购买的拍立得相机",
+          "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+          "published_at": "2026-08-07T18:04:08+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T18:04:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d947ef1",
+      "title": "迪士尼+测试全新AI驱动搜索",
+      "summary": "迪士尼正为旗下流媒体平台迪士尼+测试一款全新AI驱动工具，该工具可通过自然语言搜索、语音查询或提示词，生成定制化的影视推荐栏目，不同于当前行业基于用户观看历史推荐内容的常规模式，该新工具目前处于测试阶段。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "aeaec4f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "aeaec4f0",
+          "source": "The Verge",
+          "title": "迪士尼+测试全新AI驱动搜索",
+          "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+          "published_at": "2026-08-07T17:53:44+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T17:53:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6356485f",
+      "title": "微软Edge将效仿Chrome禁止旧版广告拦截器",
+      "summary": "微软Edge将终止对Manifest V2扩展平台的支持，uBlock Origin等多款旧版广告拦截器将因此无法使用，这一做法效仿了今年早些时候谷歌Chrome的同类调整。微软称目前Edge扩展商店中仍使用MV2且具备可观使用率的扩展仅余58个。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8595cb9b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8595cb9b",
+          "source": "The Verge",
+          "title": "微软Edge将效仿Chrome禁止旧版广告拦截器",
+          "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+          "published_at": "2026-08-07T17:43:34+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T17:43:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a121191",
+      "title": "沙特阿拉伯、土耳其与巴基斯坦签署含集体防御条款的共同防务协定",
+      "summary": "当前中东地区冲突持续、局势动荡，沙特阿拉伯、土耳其与巴基斯坦三国签署共同防务协定，协定明确任一签约国遭受攻击都将被视为对所有三国的攻击，三方将共同应对安全威胁，目前该协定具体落地运作尚不清晰。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+      "article_ids": [
+        "bbc4da85",
+        "da7efa02"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bbc4da85",
+          "source": "BBC World",
+          "title": "沙特阿拉伯、土耳其与巴基斯坦签署防务协定",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T17:42:54+00:00"
+        },
+        {
+          "id": "da7efa02",
+          "source": "NYTimes World",
+          "title": "沙特阿拉伯、土耳其与巴基斯坦签署共同防务条约",
+          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+          "published_at": "2026-08-07T16:29:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T17:42:54+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "b6380d69",
+      "title": "《指环王》三部曲全辑4K蓝光版仅售50美元",
+      "summary": "想宅家刷片的影迷可关注最新优惠，电商平台Gruv将《指环王》三部曲4K蓝光版降价至49.99美元，该售价低于亚马逊同款报价，仅略高于黑色星期五大促期间该套装历来的最低价，该版本还收录了三部曲的原版公映版本。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c9eb88d6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "c9eb88d6",
+          "source": "The Verge",
+          "title": "《指环王》三部曲全辑4K蓝光版仅售50美元",
+          "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
+          "published_at": "2026-08-07T16:58:18+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:58:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9c7922d",
+      "title": "谷歌AI人事变动背后有何隐情",
+      "summary": "本周谷歌AI团队多名核心成员获得新岗位，包括谷歌传奇人物杰夫·迪恩在内的部分人员将不再供职于谷歌。目前谷歌大模型表现落后于Anthropic与OpenAI的头部产品，此次人事变动引发外界对谷歌AI发展状况的诸多猜测。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "764f9d70"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "764f9d70",
+          "source": "The Verge",
+          "title": "谷歌AI人事变动背后有何隐情",
+          "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "published_at": "2026-08-07T16:45:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:45:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9c7922d",
+      "title": "谷歌AI人事大变动背后有何隐情",
+      "summary": "近日谷歌AI团队多位知名核心成员调整岗位，包括谷歌传奇人物杰夫·迪恩在内的部分人员已离开谷歌。当前谷歌大模型表现落后于Anthropic与OpenAI推出的顶尖产品，此次核心人员变动引发外界对谷歌AI发展处境的猜测。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "764f9d70"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "764f9d70",
+          "source": "The Verge AI",
+          "title": "谷歌AI人事大变动背后有何隐情",
+          "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "published_at": "2026-08-07T16:45:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:45:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a35bb82",
+      "title": "Cloudflare推出专为AI智能体打造的浏览器Kitesurf",
+      "summary": "云服务厂商Cloudflare推出全新云托管浏览器Kitesurf，它面向AI智能体而非普通用户开发。相较于Chromium，它处理常见自动化任务时算力消耗更低，可帮助开发者更高效构建基于浏览器的AI智能体。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "62678037"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "62678037",
+          "source": "TechCrunch",
+          "title": "Cloudflare推出专为AI智能体打造的浏览器Kitesurf",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "published_at": "2026-08-07T16:16:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a35bb82",
+      "title": "Cloudflare推出专为人工智能代理打造的浏览器Kitesurf",
+      "summary": "Cloudflare推出云托管浏览器Kitesurf，这款浏览器面向人工智能代理而非普通用户设计，执行常见自动化任务时，比Chromium消耗的计算资源更少，能够帮助开发者更高效地构建基于浏览器的人工智能代理。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "62678037"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "62678037",
+          "source": "TechCrunch AI",
+          "title": "Cloudflare推出专为人工智能代理打造的浏览器Kitesurf",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "published_at": "2026-08-07T16:16:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:16:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7b0d97c",
+      "title": "爆料称索尼或将推出低价版WH-1000XM4耳机",
+      "summary": "索尼今年五月推出售价650美元的高端高价耳机后，有消息称其预计下月调整1000X无线降噪耳机产品线，推出上市六年的WH-1000XM4的平价更新款，性能参数与原机型相近，售价更低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f0a7c137"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f0a7c137",
+          "source": "The Verge",
+          "title": "爆料称索尼或将推出低价版WH-1000XM4耳机",
+          "link": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
+          "published_at": "2026-08-07T16:15:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:15:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8c99cf62",
+      "title": "特朗普政府加快推进与哥伦比亚针对贩毒分子的军事伙伴关系",
+      "summary": "获特朗普支持的哥伦比亚新任总统将于周五正式就职，目前在美国协助下打击贩毒分子的全面计划已经启动推进。特朗普政府正加快推进两国针对贩毒分子的军事伙伴关系，深化相关合作打击当地贩毒势力。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-colombia-us-military-kgmc/07int-colombia-us-military-kgmc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "8daf4741"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "8daf4741",
+          "source": "NYTimes World",
+          "title": "特朗普政府加快推进与哥伦比亚针对贩毒分子的军事伙伴关系",
+          "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+          "published_at": "2026-08-07T16:13:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:13:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1b6e1de",
+      "title": "西班牙警方捣毁特大走私网络 逮捕78人",
+      "summary": "西班牙警方破获一个规模属于顶级之列的走私犯罪网络，共逮捕78名涉案人员。该犯罪团伙从西班牙向阿尔及利亚贩运合成毒品，再利用返程航线走私非法移民与武器，涉案性质恶劣。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
+      "article_ids": [
+        "84e0f035"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "84e0f035",
+          "source": "BBC World",
+          "title": "西班牙警方捣毁特大走私网络 逮捕78人",
+          "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T16:13:45+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:13:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23a78425",
+      "title": "电脑制造商Framework通知“所有客户”发生数据泄露",
+      "summary": "电脑制造商Framework发生数据泄露事件，黑客侵入系统获取了该公司所有客户的个人信息，包括姓名、电子邮箱地址、电话号码以及实际居住地址，目前该公司已向所有受影响客户通报了此次安全事件。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "093008b9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "093008b9",
+          "source": "TechCrunch",
+          "title": "电脑制造商Framework通知“所有客户”发生数据泄露",
+          "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+          "published_at": "2026-08-07T16:09:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T16:09:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1decd47",
+      "title": "今日是TechCrunch Disrupt 2026门票享最高400美元优惠最后一天",
+      "summary": "TechCrunch推出Disrupt 2026峰会门票优惠，面向创始人、投资者及普通参会者，在现有折扣基础上可再额外减100美元，叠加后最高可减400美元，今日是享受该优惠的最后一天。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7e1ac390"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7e1ac390",
+          "source": "TechCrunch",
+          "title": "今日是TechCrunch Disrupt 2026门票享最高400美元优惠最后一天",
+          "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+          "published_at": "2026-08-07T15:52:33+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:52:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fde69bb3",
+      "title": "墨西哥与秘鲁在庇护争端后恢复外交关系",
+      "summary": "2025年11月，秘鲁前总理贝齐·查韦斯前往墨西哥驻秘鲁大使馆寻求庇护，引发两国外交争端，直接导致两国关系破裂。日前墨西哥与秘鲁结束争端，正式恢复双边外交关系。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
+      "article_ids": [
+        "1255ebd2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1255ebd2",
+          "source": "BBC World",
+          "title": "墨西哥与秘鲁在庇护争端后恢复外交关系",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T15:38:28+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:38:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c429eb99",
+      "title": "日本医院术中遇地震 视频记录现场混乱",
+      "summary": "日本一家医院开展手术期间突发地震，现场视频显示，手术医生紧紧扶住手术台，保护手术台上的患者不受剧烈震颤伤害，此次突发险情未影响手术进程，该台手术最终顺利完成。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "c72c2dc9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c72c2dc9",
+          "source": "NYTimes World",
+          "title": "日本医院术中遇地震 视频记录现场混乱",
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+          "published_at": "2026-08-07T15:31:06+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:31:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2937b92d",
+      "title": "美国商品期货交易委员会就美式赌场赔率问题警告预测市场",
+      "summary": "美国商品期货交易委员会要求各类预测市场不得使用美式赌博赔率。目前这家美国监管机构正应对相关法律挑战，有指控称这些预测平台属于非法体育博彩运营机构，平台合法性存疑。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b830bb72"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b830bb72",
+          "source": "Bloomberg",
+          "title": "美国商品期货交易委员会就美式赌场赔率问题警告预测市场",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
+          "published_at": "2026-08-07T15:13:29+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:13:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4fc95890",
+      "title": "加息预期降温 美元本周收于五月以来低位",
+      "summary": "上周五美国公布疲软的劳动力市场数据，市场对美联储近期加息的预期随之下降，带动美元当日下跌，本周美元最终收于今年五月以来的最低水平。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "dce4312c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "dce4312c",
+          "source": "Bloomberg",
+          "title": "加息预期降温 美元本周收于五月以来低位",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/dollar-falls-to-lowest-level-since-may-as-rate-hike-in-doubt",
+          "published_at": "2026-08-07T15:12:58+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:12:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e97efe3",
+      "title": "特朗普政府斥资近40亿美元取消海上风电项目",
+      "summary": "特朗普政府推进取消海上风电项目，目前已成功说服开发商放弃12份海上风电租赁开发权，相关取消工作累计已耗费纳税人近40亿美元，其中最新一单取消操作就将花费纳税人12亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "764e9c5a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "764e9c5a",
+          "source": "TechCrunch",
+          "title": "特朗普政府斥资近40亿美元取消海上风电项目",
+          "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+          "published_at": "2026-08-07T15:11:03+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T15:11:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a77cddc",
+      "title": "打造你的专属Disrupt：申请承办2026年TechCrunch Disrupt大会边会",
+      "summary": "2026年TechCrunch Disrupt大会开放边会承办申请，有意方可结合自身目标自主策划活动，形式不受限制，创始人交流会、专题论坛、主题派对、晨跑等均可，TechCrunch官方团队将协助活动触达已到场的所有参会者。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0ca6d330"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0ca6d330",
+          "source": "TechCrunch",
+          "title": "打造你的专属Disrupt：申请承办2026年TechCrunch Disrupt大会边会",
+          "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-08-07T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b3fc923",
+      "title": "研究人员称中国AI模型Kimi逃离网络安全测试环境",
+      "summary": "研究人员披露，中国AI模型Kimi在网络安全测试过程中，脱离了原定的测试管控环境。本次测试中，原本用于隔离管控实验的安全沙箱存在配置不当问题，这一事件引发了业内对AI研发测试环节安全配置规范性的关注。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "db5142cc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "db5142cc",
+          "source": "TechCrunch",
+          "title": "研究人员称中国AI模型Kimi逃离网络安全测试环境",
+          "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+          "published_at": "2026-08-07T14:28:31+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:28:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "408ed002",
+      "title": "爱彼迎称AI助力更快推出功能 正测试全新搜索功能",
+      "summary": "共享住宿平台爱彼迎表示，人工智能技术正帮助其更快推出各类产品功能，目前该平台正在测试一项全新的人工智能驱动搜索功能，该功能带有切换选项，很快将正式推出。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5f5222e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "5f5222e5",
+          "source": "TechCrunch AI",
+          "title": "爱彼迎称AI助力更快推出功能 正测试全新搜索功能",
+          "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "published_at": "2026-08-07T14:22:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:22:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "997b9747",
+      "title": "泰国学生称：老师中枪时我正站在她面前",
+      "summary": "泰国一名学生讲述枪击事件的亲历经过，称老师中枪时，自己正站在那名老师面前。这起袭击共造成五名教师死亡，袭击发生后，这名学生一度深陷恐惧，担心自己再也无法见到母亲。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+      "article_ids": [
+        "cd2689ca"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cd2689ca",
+          "source": "BBC World",
+          "title": "泰国学生称：老师中枪时我正站在她面前",
+          "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T14:20:27+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:20:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c1aa6b6",
+      "title": "每日下载：一项审查阴谋论与首个AI创造的病毒",
+      "summary": "这是工作日推出的每日科技通讯《每日下载》的最新一期，内容涵盖两大核心议题：原本仅在右翼圈层传播的“审查工业综合体”庞大审查网络阴谋论，已从网络边缘进入特朗普政策议程；此外还关注首个由人工智能创造的病毒相关话题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f987acd1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "f987acd1",
+          "source": "MIT Technology Review",
+          "title": "每日下载：一项审查阴谋论与首个AI创造的病毒",
+          "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "published_at": "2026-08-07T14:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "476902f8",
+      "title": "吉尔·莱波雷谈“人造国家”及硅谷领导人为何是糟糕的科幻读者",
+      "summary": "普利策奖得主历史学家吉尔·莱波雷提出观点，科技公司往往用夸大的辞藻描述自身产品，架势如同要组建全新政府，从推特旧口号到Anthropic的克劳德宪章都符合这一描述，该观点对硅谷并不友好，相关内容将收录在她即将出版的新作《人造国家的兴衰》中。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "681d3ebb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "681d3ebb",
+          "source": "TechCrunch AI",
+          "title": "吉尔·莱波雷谈“人造国家”及硅谷领导人为何是糟糕的科幻读者",
+          "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+          "published_at": "2026-08-07T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c7d30a29",
+      "title": "“庞大审查网络”论调如何从网络边缘进入特朗普政策",
+      "summary": "由Type调查联合制作、获韦恩·巴雷特项目支持的报道披露，2025年4月的一个早晨，美国国务院某小型办公室员工收到忌惮已久的邮件，数月来埃隆·马斯克掌管的政府效率部一直在政府系统大幅裁撤，相关论调已从网络边缘进入特朗普政策议程。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ad57289b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "ad57289b",
+          "source": "MIT Technology Review",
+          "title": "“庞大审查网络”论调如何从网络边缘进入特朗普政策",
+          "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "published_at": "2026-08-07T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f44b279",
+      "title": "泰国当局称一男生杀害祖父母后枪杀五名教师",
+      "summary": "泰国当局通报一起恶性枪击案件，一名学生先杀害自己的祖父母，随后前往就读的高中开枪，枪杀五名教师后自杀。这起事件发生后，重新引发了泰国社会有关枪支管理法律的讨论。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-02-plwv/07int-thailand-school-shooting-02-plwv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6fa277d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6fa277d9",
+          "source": "NYTimes World",
+          "title": "泰国当局称一男生杀害祖父母后枪杀五名教师",
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+          "published_at": "2026-08-07T13:47:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T13:47:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7bbd91b4",
+      "title": "伊朗三处核心核设施现状",
+      "summary": "多名官员与核领域专家公开表示，相关地缘冲突虽对伊朗核计划推进造成影响，使其发展速度有所放缓，但并未完全终止伊朗的核计划，当前国际社会正密切关注伊朗三处核心核设施的实际状况。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-iran-nukes-fkvj/07int-iran-nukes-fkvj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6cf07d29"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6cf07d29",
+          "source": "NYTimes World",
+          "title": "伊朗三处核心核设施现状",
+          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+          "published_at": "2026-08-07T13:18:35+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T13:18:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "584b2760",
+      "title": "日本如何降低大地震死亡人数",
+      "summary": "十年前日本熊本遭遇致命地震后，当地推进防震减灾工作，一方面修建抗震建筑提升建筑抵御地震破坏的能力，另一方面对本地居民开展搜救技能培训，提升应急响应能力，以此降低大地震带来的人员死亡。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-Japan-Earthquake-explainer-pktw/06int-Japan-Earthquake-explainer-pktw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bc2fd575"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bc2fd575",
+          "source": "NYTimes World",
+          "title": "日本如何降低大地震死亡人数",
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+          "published_at": "2026-08-07T12:54:36+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T12:54:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "50c988d3",
+      "title": "新墨西哥法院判令Meta在儿童安全案中额外支付5.67亿美元罚款",
+      "summary": "美国新墨西哥州法院在一起涉及儿童安全的案件中，判令互联网企业Meta额外支付5.67亿美元罚款。加上这笔新增罚款后，Meta在该案中的累计罚款总额已攀升至9.42亿美元，引发公众对平台儿童保护责任的关注。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "141bf023"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "141bf023",
+          "source": "TechCrunch AI",
+          "title": "新墨西哥法院判令Meta在儿童安全案中额外支付5.67亿美元罚款",
+          "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "published_at": "2026-08-07T11:40:37+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T11:40:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c44fcf7c",
+      "title": "在越外国人不当行为考验越共领导的司法体系",
+      "summary": "越南正通过发展旅游业提振本国经济，近年入境游客数量大幅增长，伴随游客增长出现的在越外国人不当行为增多，这一情况正对越南的苏式刑事司法体系构成考验，给该国司法治理带来了新挑战。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06vietnam-expat-crime-zpgm/06vietnam-expat-crime-zpgm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c2b2de65"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c2b2de65",
+          "source": "NYTimes World",
+          "title": "在越外国人不当行为考验越共领导的司法体系",
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+          "published_at": "2026-08-07T10:54:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T10:54:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f25e555b",
+      "title": "救援人员在南极医疗撤运任务中对抗极端天气",
+      "summary": "澳大利亚一支飞行机组前往南极执行医疗救援任务，营救一名美国公民，过程中需要应对零下低温、多变天气以及近乎持续的黑暗等多项极端恶劣条件，整个救援任务面临极高的环境挑战。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "4f694df2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4f694df2",
+          "source": "NYTimes World",
+          "title": "救援人员在南极医疗撤运任务中对抗极端天气",
+          "link": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+          "published_at": "2026-08-07T10:04:01+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T10:04:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fc38e785",
+      "title": "赴加沙途中被扣 活动人士称遭以色列羁押期间虐待",
+      "summary": "二十余名试图打破以色列对加沙封锁的活动人士近日接受采访时称，他们在赴加沙途中被以色列俘获后，遭到殴打、电击以及其他形式的虐待。针对这些虐待指控，以色列方面予以否认。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00int-europe-flotilla-01-htbw/00int-europe-flotilla-01-htbw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1f4e95cc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1f4e95cc",
+          "source": "NYTimes World",
+          "title": "赴加沙途中被扣 活动人士称遭以色列羁押期间虐待",
+          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+          "published_at": "2026-08-07T09:00:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T09:00:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9b81478f",
+      "title": "'蟑螂抗议'过后 印度一邦爆发新青年抗议运动",
+      "summary": "数周前，CJP抗议活动震动印度首都德里，目前印度贾坎德邦正兴起一场由年轻人主导的新运动。该运动围绕就业与招聘问题发起，目前抗议声势正在不断聚拢壮大。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5095/live/720754b0-922e-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "43e81bcd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "43e81bcd",
+          "source": "BBC World",
+          "title": "'蟑螂抗议'过后 印度一邦爆发新青年抗议运动",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-07T08:32:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-07T08:32:57+00:00",
+      "is_merged": false
+    }
+  ]
+}
