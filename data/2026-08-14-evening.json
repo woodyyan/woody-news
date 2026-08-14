@@ -1,0 +1,2411 @@
+{
+  "date": "2026-08-14",
+  "edition": "evening",
+  "updated_at": "2026-08-14T21:20:12.355686+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "acc673ff",
+      "title": "俄罗斯策划颠覆摩尔多瓦亲西方政府",
+      "title_original": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "summary": "摩尔多瓦曝出俄罗斯针对该国亲西方政府的颠覆行动，俄方为颠覆这一倾向西方的执政当局，采取了多项干涉举措，包括向该国东正教牧师支付报酬、策划选票收买计划，还设立专门训练营地开展选举干涉活动。",
+      "summary_original": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T12:25:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2b0ec852",
+      "title": "强劲盈利与温和数据推升美股期货上涨",
+      "title_original": "US Stock Futures Up as Strong Earnings, Benign Data Drive Gains",
+      "summary": "受强劲企业盈利以及偏温和的通胀数据推动，美股延续此前的上涨动能，带动美股期货走高，当前市场整体态势向好，美股有望在本周收官时创下历史新高。",
+      "summary_original": "US equities are poised to end the week at all-time highs, extending a momentum driven by robust earnings and cooler inflation readings.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T12:18:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ede57ea",
+      "title": "《科技速递》：Flock新规、克隆未来与儿童细胞",
+      "title_original": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "summary": "这是面向工作日推出的科技类每日通讯《科技速递》的今日推送，内容涵盖：警务科技巨头Flock因公众对监控的反对声浪上涨，收紧警员对其全国车牌识别网络的访问权限，同时还涉及克隆技术发展前景、儿童细胞相关科技议题。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-14T12:17:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "79f47542",
+      "title": "环孢子虫暴发考验食品安全",
+      "title_original": "Cyclospora Outbreak Puts Food Safety to the Test",
+      "summary": "美国近期出现环孢子虫暴发与沙门氏菌疫情反弹，这对该国的食品安全体系及餐饮行业形成考验。受疫情影响，消费者减少外出就餐，食品品牌也纷纷开始更严格地审视自身供应链，相关报道来自彭博社。",
+      "summary_original": "A cyclospora outbreak and salmonella flare up are putting food safety and restaurants to the test in the US. It also caused consumers to cut back on eating out and food brands to take a closer look at their supply chains. Bloomberg's Romaine Bostick reports. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-14/cyclospora-outbreak-puts-food-safety-to-the-test-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T12:11:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2d752022",
+      "title": "CMF实现夹耳式耳机平价与优质的平衡",
+      "title_original": "CMF hit the balance between cheap and good clip earbuds",
+      "summary": "夹耳式耳机因自身设计与物理特性天生存在取舍：它无需塞入耳道，对不喜入耳设计的用户更为舒适，但音质表现会受影响；虽能让用户清晰感知周边环境音，也存在听音弊端，CMF实现了这类耳机平价与优质的平衡。",
+      "summary_original": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which means to hear your own [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1f750e12",
+      "title": "法拉奇如预期赢得其发起的英国特别选举",
+      "title_original": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "summary": "英国改革党领袖奈杰尔·法拉奇，在克拉克斯顿补选中以63%的得票率成功胜选。非传统搞怪候选人宾脸以27%的得票率位居第二，这一成绩创下了他个人参选以来的最好纪录。",
+      "summary_original": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T11:56:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "89224853",
+      "title": "寻找抗AI风险交易 便利店股票成热门股",
+      "title_original": "Hunt for AI-Proof Trades Turns Convenience Shops Into Hot Stocks",
+      "summary": "受对AI热潮可持续性的担忧以及伊朗持续冲突影响，全球市场动荡加剧。投资者对防御性投资标的需求上升，纷纷寻找抗风险投资选择，带动便利店股票走热，成为当下热门投资标的。",
+      "summary_original": "Convenience store stocks are having their moment, riding a wave of investor demand for more defensive plays as angst over the sustainability of the artificial intelligence boom and the ongoing conflict in Iran drive increased market turbulence.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/hunt-for-ai-proof-trades-turns-convenience-shops-into-hot-stocks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T11:55:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4830206e",
+      "title": "股市持续上涨，“错失恐惧保险”推升期权购买热潮",
+      "title_original": "‘FOMO Insurance’ Drives Options Buying Spree as Stocks Rally On",
+      "summary": "近期股市持续攀升，不断创下历史新高。当前投资者愈发普遍的担忧并非股市大幅回调，而是害怕错过这轮上涨行情，这种由错失恐惧催生的“错失恐惧保险”操作，正推动市场掀起期权购买热潮。",
+      "summary_original": "As the stock market keeps surging to record highs, a growing worry among investors isn’t that it may come tumbling back down. It’s fear of missing out.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/-fomo-insurance-drives-options-buying-spree-as-stocks-rally-on",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T11:48:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ef9d8448",
+      "title": "赞比亚因据称选举工作人员遇袭暂停总统选举计票",
+      "title_original": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "summary": "赞比亚暂停总统选举计票工作，暂停原因是有说法称选举工作人员遭到袭击。该国选举委员会表示，相关暴力事件已造成完成标记的选票被盗，目前暂未披露本次总统选举后续进程的相关信息。",
+      "summary_original": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-14T11:37:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7ebdb373",
+      "title": "印尼2027年预算：矿企与电动车制造商成赢家",
+      "title_original": "Indonesia’s 2027 Budget Positions Miners, EV Makers as Winners",
+      "summary": "分析师表示，在印尼2027年国家预算框架下，矿企、电动汽车制造商及电池生产商都将大幅受益。这份利好源于印尼总统普拉博沃推动大宗商品产业发展、降低对高价进口化石燃料依赖的政策导向。",
+      "summary_original": "Miners, electric vehicle manufacturers, and battery producers are set to win big under Indonesia’s state budget next year, analysts said. The gains will be driven by President Prabowo Subianto’s push to boost the commodity sector and slash reliance on costly imported fossil fuels.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/indonesia-s-2027-budget-positions-miners-ev-makers-as-winners",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T11:33:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "67a0040f",
+      "title": "微星Claw EX是Steam Deck问世以来最重要的掌机——但我仍不会购买",
+      "title_original": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "summary": "The Verge常驻掌机评测者收藏了几乎全品类便携游戏PC，他称微星Claw EX是Steam Deck推出以来最重要的掌机产品。目前他最常使用搭载新一代英特尔芯片、经设计优化的微星Claw 8 EX AI Plus，这款产品也是当前最强掌机，但他仍表示不会购买",
+      "summary_original": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "69c30053",
+      "title": "Hoto全新无线烙铁可3秒升温",
+      "title_original": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "summary": "Hoto于旗下模块化Snapbloq系列推出首款烙铁产品I-A06无线烙铁，该系列支持用户堆叠磁吸收纳盒与工具，组装定制个人工具箱。这款新品可在约3秒内升温至200摄氏度以上，提供从100摄氏度起的可调温度区间。",
+      "summary_original": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature range from 100 to up [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4d2799ce",
+      "title": "巴西警方寻回被盗马蒂斯作品",
+      "title_original": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "被盗的法国艺术家马蒂斯的八幅作品已被巴西警方寻回，警方在大圣保罗地区的一处住宅中找到这批画作，目前已有一名涉案男子被逮捕，这起艺术品失窃案的侦办取得关键进展。",
+      "summary_original": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-14T10:55:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fa797b8a",
+      "title": "优步与小马智行计划在欧洲投放2000辆自动驾驶出租车",
+      "title_original": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "summary": "优步与自动驾驶企业小马智行达成合作，计划在欧洲投放2000辆自动驾驶出租车，拓展当地自动驾驶出行业务。目前双方合作已从初始试点市场克罗地亚萨格勒布，拓展至欧洲另外四座城市，业务布局进一步扩大。",
+      "summary_original": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-14T10:44:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "19366bac",
+      "title": "野火与极端高温肆虐欧洲 缓解在即",
+      "title_original": "More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon",
+      "summary": "近期欧洲接连遭遇极端高温侵扰，上周五欧洲大陆再次被接近历史纪录的高温烘烤，叠加多发的野火，给当地带来极大影响。不过未来几日欧洲气温将回落至当季平均水平，灾情有望得到缓解。",
+      "summary_original": "Another day of near record heat baked the continent on Friday, but temperatures could retreat to seasonal averages in the coming days.",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14wea-europe-heat-bmhl/14wea-europe-heat-bmhl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T10:38:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "94b22131",
+      "title": "日本遭遇‘史无前例’暴雨 已致8人死亡",
+      "title_original": "'Unprecedented' rain in Japan kills eight people",
+      "summary": "日本遭遇“史无前例”的暴雨灾害，目前已造成8人死亡。此次风暴导致当地超过两万户家庭电力中断，另有7000人受困于东京成田机场，给当地民众的生活与出行带来严重影响。",
+      "summary_original": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "320c93e3",
+      "title": "在尼日尔遭绑架的美国传教士凯文·赖德奥特已获释",
+      "title_original": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
+      "summary": "去年秋季，美国传教士、飞行员凯文·赖德奥特在尼日尔首都尼亚美的住所遭绑架，目前他已成功获释。凯文·赖德奥特所属的传教机构对外确认，获释后的他身体健康状况良好。",
+      "summary_original": "Kevin Rideout, a pilot, had been abducted from his home in the country’s capital, Niamey, last fall. His mission organization said he was in “good health” after his release.",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-niger-rideout-pfqg/14int-niger-rideout-pfqg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T10:28:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f0271e01",
+      "title": "现金流困境下石化生产商布拉斯克业绩超预期",
+      "title_original": "Petrochemicals Maker Braskem Beats Estimates Amid Cash Woes",
+      "summary": "石化生产商布拉斯克公布第二季度业绩好于市场预期，目前布拉斯克虽面临现金流难题，受益于波斯湾及亚洲地区受战乱影响出现的石化供应中断，最终业绩表现超出市场预期",
+      "summary_original": "Braskem SA reported better-than-expected results in the second quarter, benefitting from war-related disruptions to petrochemical supplies from the Persian Gulf and Asia.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/petrochemicals-maker-braskem-beats-estimates-amid-cash-woes",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T10:18:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "32aedffb",
+      "title": "基督教团体称美国传教士在尼日尔遭绑架后获释",
+      "title_original": "US missionary released following kidnap in Niger, Christian group says",
+      "summary": "去年10月，美国传教士凯文·赖德奥特在尼日尔首都的住所外遭到绑架。基督教团体近日发布消息称，这名遭绑架的传教士已经获释，目前凯文·赖德奥特已与美国官方人员会合。",
+      "summary_original": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d8/live/4e317200-97c9-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-14T10:18:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "730d2ac0",
+      "title": "破纪录降雨致日本8人死亡数千人受困",
+      "title_original": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "summary": "日本遭遇破纪录强降雨，东京以东区域仅12小时就降下了相当于当地三个月总量的雨水，强降雨引发致命洪涝灾害，目前已造成8人死亡，另有数千人受困，灾害给当地民众生命安全造成严重威胁。",
+      "summary_original": "Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T09:39:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae32eded",
+      "title": "苹果获阿里巴巴协助 为中国市场训练自有AI模型",
+      "title_original": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "据路透社援引三名不具名知情人士消息，苹果携手中国科技巨头阿里巴巴，在阿里支持下为中国市场定制训练了一款聚焦中国的大语言模型，这是当前中美关系紧张背景下少见的跨境科技合作。",
+      "summary_original": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T09:21:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae32eded",
+      "title": "苹果在阿里巴巴协助下为中国训练自有AI模型",
+      "title_original": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "据路透社援引三名未具名知情人士消息，苹果与中国科技巨头阿里巴巴合作，为中国市场定制训练专属大语言模型，这是当前中美关系紧张背景下十分少见的中美科技企业跨境合作。",
+      "summary_original": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-14T09:21:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cf22e04f",
+      "title": "甘肃省副省长程晓波被查 系主动投案 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "现年70后的甘肃省委常委、副省长程晓波，涉嫌严重违纪违法，于任上主动投案，目前正接受纪律审查和监察调查。程晓波主动投案被查的消息，已经得到中国新闻网、新京报、观察者网、联合早报等多家境内外权威媒体的公开报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IYXJnTUJUSTA5OF9rV0cwT1Y3RndkOF8zWXZIR1BlNmlJbG5ydUt1TTQ4eF90Q3JuelVRaDNLc19aa0p0aHBpaW16SVZ0X1pnTW5ydjdfVUw4eWxLUGxwdGQzWFZUeUFM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T09:11:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0b9d9045",
+      "title": "欧洲持续变暖，交通系统难以应对",
+      "title_original": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
+      "summary": "随着欧洲气候持续变暖，当地交通基础设施正面临愈发严峻的高温考验。有专家指出，欧洲大陆现有铁路、公路等交通系统，是针对已经不复存在的旧气候条件设计建造，如今难以适配新的气候状况。",
+      "summary_original": "The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-europe-heat-transport-lkwv/00int-europe-heat-transport-lkwv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T09:07:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "57c1f9ba",
+      "title": "巴勒斯坦说唱歌手Shabjdeed与Saint Levant因真实性起争执",
+      "title_original": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+      "summary": "巴勒斯坦约旦河西岸的说唱歌手Shabjdeed，近日在个人作品中批评同为巴勒斯坦音乐人的Saint Levant，指责对方的西方生活方式以及创作的歌词，已远远脱离巴勒斯坦本土的实际生活，二人因身份与创作真实性爆发争执。",
+      "summary_original": "Shabjdeed, a rapper in the West Bank, criticized a fellow Palestinian musician in a song, saying his Western lifestyle and lyrics were far removed from life back home.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T09:02:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b38af62d",
+      "title": "巴黎圣母院大火后，法国修复圣母院却未保留这几扇原窗",
+      "title_original": "After Notre-Dame Fire, France Restored the Cathedral — but Not These Windows",
+      "summary": "2019年巴黎圣母院遭遇火灾，建筑多处被烧毁。灾后法国启动修复工作，目前大部分损毁区域已完成忠实复原。此次修复存在争议，原有六扇高耸的窗户将被拆除，替换为全新设计。",
+      "summary_original": "France has faithfully renovated most of what burned at Notre-Dame in 2019. Contentiously, six towering windows will soon be replaced by a new design.",
+      "image": "https://static01.nyt.com/images/2026/08/10/world/00int-france-notre-dame-top-art-02/00int-france-notre-dame-top-art-02-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T09:02:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "809a6cee",
+      "title": "这位科学家正助力绘制缺失的童年图谱",
+      "title_original": "This scientist is helping build a missing map of childhood",
+      "summary": "2017年，科学家迪恩·泰勒在距自己办公室不远的宾夕法尼亚大学，聆听了旨在绘制人体所有细胞图谱的人类细胞图谱项目介绍。她听完深受震撼，同时心生担忧，发现该项目缺失了与童年相关的内容，正助力填补这一空白。",
+      "summary_original": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "19bcbe11",
+      "title": "未来职业：太空旅行代理商",
+      "title_original": "Job titles of the future: Space travel agent",
+      "summary": "高端奢华生活方式公司联合创始人罗曼·奇波鲁哈，从业二十余年来一直帮客户实现非凡旅行梦想，曾操办客户超级游艇建造、需签署保密协议的巴哈马顶级私密度假等项目，如今他将转型成为面向未来的太空旅行代理商。",
+      "summary_original": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experiences earned him “the&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1cc51220",
+      "title": "克隆可用于拯救物种，亦可制造人类“器官囊”",
+      "title_original": "Cloning could be used to save species—or make human “organ sacks”",
+      "summary": "本周，受访科学家研发出基于CRISPR基因编辑的新方法，可通过剔除Y染色体将雄性小鼠胚胎转变为雌性，成功培育出与雄性小鼠基因一致的雌性克隆鼠，该克隆技术未来有望用于拯救濒危物种、制造人类器官囊。",
+      "summary_original": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88306903",
+      "title": "帮忙为\"可悲小贱人\"埃隆·马斯克修建纪念碑",
+      "title_original": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+      "summary": "桌游《反人类卡》运营公司宣布，计划在得克萨斯州星舰基地附近其名下地块上，为埃隆·马斯克修建一座大型纪念碑。该项目目的是惹恼马斯克，目前正以品牌一贯的粗俗风格发起众筹募资。",
+      "summary_original": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build \"a grand monument\" to Musk on the parcel of land it owns near Starbase, Texas, with the aim to \"make [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T08:40:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1eeb261b",
+      "title": "美国称数十个国家协助中国规避特朗普关税",
+      "title_original": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "美国方面近日发布一份最新报告，声称共有数十个国家协助中国，帮助中国规避特朗普政府时期对中国加征的高额关税，中国通过将货物经关税更低的国家转运来逃避这部分高额关税。",
+      "summary_original": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-14T08:39:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8b3cebd8",
+      "title": "特写丨哥伦比亚震灾后的互助暖流 - news.cn",
+      "title_original": null,
+      "summary": "哥伦比亚接连发生强震，目前已造成241至281人遇难，超10万人受灾。此次地震重创该国咖啡产区，进一步冲击本就紧绷的国家财政，接连强震也引发南美板块是否进入活跃期的讨论，震后当地涌动着民众互助的暖流。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43d2ZWTUhkaVNtZ0lOeVNDLW84NDdQaEF6cEFoWGNlMWJkUU5mYTFsR3pIOTQxRmh4X3N5c1lLaGFNT1otWlRUcHJUeWJZSEFXSlpEcFZnTWgyN05jRW1IcHFKLW9PRjVZaktCRXdfWWZndG03a1NfOWRtRnBOQU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T08:24:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ddc4311a",
+      "title": "中俄大使在“8.15”前称反对“为军国主义招魂” 美国主张北方四岛归属日本 - RFI",
+      "title_original": null,
+      "summary": "8月15日日本战败投降日前夕，中俄大使共同发声反对为军国主义招魂。俄罗斯总统普京登上俄日争议的北方四岛引发日方抗议，俄外交部对该抗议予以驳斥，美国则公开表态支持日本对北方四岛的主权主张，俄外长还就此警告日本右翼政客。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNYVRjd3B4YURpaFl4Q2J0bDUtM2VUSHJ3bmpjNk40VjZmOGFFQlFra196bnRab2NCX28zSE9NdmJjb2pPYVJyaThSOEdfckF2eHdfLWJRNTBFdUZoZ015dFhQbFllcFdMWmd5RkRDZWVuYUQ3YmNmSExnVUxFVmF3bVcwLTJ3MUtvZEQzZFFiTncxMnZrN0EtR0xVMXYzd1pKM2cyUjFMYVhSYlQtTnV3MGJRM0ozMXFIMzdjLS1pV2owbzVIUF9BeEI1RHFOWGZSc3lGNDYwOVBtd0lEbEJ4MGpyY2I0X3F0ajBGdF9mN3BWZm1yVGVoX0l4Q2VwNEI1VDJCOUo5ZnU1aVR3ZE03Sk9YRXlZNkc3eFpIYjluNVY5ZDRVTXh3QnhrZlFzSE1kLWZEbDZxUG0xaUJmUjFlTTltZGdJOFg1VWRONFJ4WFlaMXlNdTlSVXRkNjRzd3JjdmFHWXd2TUhrLWNSQzV2SkJIaDVlSUFkSk9zcHF4ekExTllYMkU5X0d2UTh4eWZOM0lIYVNkM1pYOXg5dmI2VlAyc2FtOEk3WWVDems4dk9EWHpiLXEzdkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T08:20:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ecff7c66",
+      "title": "湖南一煤矿发生瓦斯突出事故 7人失联，搜救工作还在继续 - 新京报",
+      "title_original": null,
+      "summary": "湖南涟源杨梅山煤矿发生瓦斯突出事故，最初通报有7人失联，涉事公司后续回应称，失联人员中已有2人升井，目前正对二人开展抢救，针对其余失联人员的搜救工作仍在继续，该突发事故引发市场关注，相关煤价出现全线上涨。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HeDhHaTg0VW9QbHJwSHg5VW9yeXJuZzFQUWp4a1NmdTVUNWlwVFVJdDI2WUd2Mm1KcmM3WjdBRUtsdjQ1QnozNjdmbGxrQ08tWmZXV0tiUDI1dTBQb1B5NFVmWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T08:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a3c7d84e",
+      "title": "应急管理部调派救援力量驰援河南周口处置溃口险情 - 人民网",
+      "title_original": null,
+      "summary": "河南多地出现汛情，郏县北汝河段一处民堤发生40余米宽的溃口，应急管理部调派救援力量驰援河南周口等地处置险情，武警官兵与民兵全力参与抢险救灾，目前该溃口已完成封堵，作业中采用混凝土浇灌加速封堵进程。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cTFuc1FvS2p4TnZpR3dKQm40UjAzaWI3TUljMVFPUFZiTFQ2dVUtczJHRVlySnBwaUJHdjA3UjN1YXBvd1ZUNzRFNkNpdS1iOHRTUUE1OFpiSjdIQkJFWDdEVG5sbUNMLVFZN0tB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T07:41:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3ca6ee71",
+      "title": "特朗普下令“福特”级新航母恢复蒸汽弹射 - China Daily",
+      "title_original": null,
+      "summary": "美国总统特朗普下令，美国福特级新航母弃用电磁弹射系统，恢复使用传统蒸汽弹射技术，该技术更换预计耗资数十亿美元。此外，特朗普还作出数十年来首次允许美国海军在海外建造舰船的决定，此事引发多国媒体关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1pQT3dqdUlMZXlEVjN2dWg0UXZBQTBxWjlfYjdzZ0tzWm5kbzJWZmpOVk9Pd3JxQ3RmX2xCSXZoTW93Y3VIS1VNNGhzZ3BISXVjLUp1ZzNaOEZENTE1VjZBU05sZkxOOU82LUhOd1l4azhHYy11WW92d1kwdDVCag?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T07:32:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1e8ec573",
+      "title": "乌克兰称打击俄罗斯乌斯季-卢加港一座大型炼油厂",
+      "title_original": "Ukraine Says It Hit Major Refinery in Russia’s Ust-Luga Port",
+      "summary": "乌克兰方面表示，已对俄罗斯波罗的海港口乌斯季-卢加的一处主要石油加工设施发动袭击。此次行动进一步升级了乌克兰针对俄罗斯港口与能源基础设施的打击行动，相关动向牵动地区局势变化。",
+      "summary_original": "Ukraine said it attacked a major oil-processing facility in Russia’s Baltic port of Ust-Luga, intensifying its campaign against the country’s port and energy infrastructure.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/russia-s-biggest-baltic-port-caught-fire-after-drone-attack",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T06:43:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88e31a1f",
+      "title": "‌跨越二十余载的山河答卷：“两山”理念在中国的实景图鉴 - 中国网新闻中心",
+      "title_original": null,
+      "summary": "多家国内主流媒体推出相关报道，围绕“两山”理念提出二十余年来的中国实践，聚焦生态文明建设成果，关注国家公园建设，强调要为子孙后代留存珍贵自然资产，展现我国持续践行“两山”理念，厚植中国式现代化绿色底色，推动人与自然和谐共生的发展方向。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91VWlVSWNVWE02V0NVeWJISU0xWnhsTl9zR1JsM0ZySEtWVWZQS0J1ZzJtVFZGVi16MTEybjc3NFVSTzl5MnhIclY3ekdHV0FFRDFJakNCRmdabTV2UUwydVhhcFNTUmlzUU05MkhXZjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T06:32:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a80fc62c",
+      "title": "塔利班统治五年来 阿富汗女性被排除在公共生活之外",
+      "title_original": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
+      "summary": "塔利班掌权阿富汗五年来，出台多项法令限制女性与女孩的学习、工作、出行及独立行动权利。相关专家指出，此类限制女性权益的规定，或将对阿富汗造成永久性伤害。",
+      "summary_original": "Decrees restricting the rights of women and girls to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T05:08:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "24f31109",
+      "title": "苏丹奥贝德会成为下一个法希尔吗？应知要点",
+      "title_original": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
+      "summary": "苏丹准军事组织快速支援部队若攻占奥贝德，即可巩固对苏丹西部地区的控制权，这是该武装的重要战略目标。目前各方正关注奥贝德是否会重蹈法希尔覆辙，成为苏丹下一个局势生变的城市。",
+      "summary_original": "Taking El Obeid would allow the paramilitary Rapid Support Forces to consolidate its hold on western Sudan, a significant strategic goal.",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-sudan-1-mlfc/14int-sudan-1-mlfc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-14T04:01:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "73f98b0d",
+      "title": "乌克兰袭击俄炼油厂 俄多地面临新一轮燃料短缺",
+      "title_original": "Russian Regions Face New Fuel Crunch As Kyiv Hits Refineries",
+      "summary": "近期乌克兰恢复对俄罗斯境内的炼油厂发动几乎每日都有的袭击，受这一行动影响，俄罗斯多个地区再次出现燃料短缺问题，当地正面临新一轮燃料供应紧张局面，能源供应缺口显现。",
+      "summary_original": "Several regions of Russia are facing fuel shortages again after Ukraine resumed almost daily attacks on oil refineries in the country.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/russian-regions-report-new-fuel-crunch-as-kyiv-hits-refineries",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6bb9f246",
+      "title": "区委常委会召开会议 传达学习习近平总书记重要文章重要指示精神 - gongshunews.com",
+      "title_original": null,
+      "summary": "某区委常委会召开会议，核心议程为传达学习习近平总书记的重要文章与重要指示精神，该会议相关报道由gongshunews.com发布，相关内容已同步上线Google新闻平台，用户可前往Google新闻平台查看更多头条新闻与相关观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fX1JtMUJVdGduNFZySVhvMWlZOTdYU3AxRkRoOUVOM0pjMW1CSC1RTFlubW1vUmZmeThCaXRTVmdCZWNQSjAtQVVhbnhNNUN3R25fTWVPVk1qLWhKdnV3dmNXUGZNbEFhZnV6NmNyTldSRWNqWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T03:06:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "786ba674",
+      "title": "沙土巴“三结义”如何重塑中东安全格局？ - 中国网",
+      "title_original": null,
+      "summary": "近期沙特、土耳其、巴基斯坦达成相关合作，被舆论称作沙土巴“三结义”，也被解读为“伊斯兰版北约”相关动向。协议约定一方遇袭时另外两国将予以支持，此举引发印度担忧，也引发国际舆论热议，讨论其是否会重塑中东安全格局、美国在中东的影响力是否会因此褪色。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04N3lMeHRxSEJFRS1PTWc4U3gxWGZXNEFhVTVfdF9UbGh2MzhlaHRWX2liTnB6d0QzdHdrRDBUREJlTFRXNWdULVRYWDBXa0E0VDYyYVhZX2FhTzJBc2c5UTNRbVlLY2ota0R2Tkxhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T01:48:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1e7c616c",
+      "title": "西康高铁启动试运行 - banyuetan.org",
+      "title_original": null,
+      "summary": "西康高铁正式启动试运行，该相关资讯由半月谈官网banyuetan.org发布，感兴趣的受众可前往Google新闻平台，查看更多相关领域的头条新闻与不同视角的观点内容，及时掌握该项目的相关动态。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckZjbnN2bXlJQ0l6VXV5SkkzTUhzRkN6cXZnbWJrUFIxU2kwX0hJNVdyQ2IzZjV4MjR4Q01mVHlkNVZ1dXhHWW51ZmVUVTFlN3NQUmRla1ExX2g1ODJQN3Zkcnhxd3hPd1RaOU5wMEEzQ045MXAwa0prUkpZM2cxMEE2UGRITmJMRzBaSDdtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-14T01:22:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "10552dcf",
+      "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+      "title_original": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "美国此前已禁止未来的外国无人机、路由器、机器人等产品进入美国，除非相关企业顺从美方要求。如今美国总统特朗普进一步将监管征税范围延伸至现有进口无人机及零部件，拟通过加征高额关税大幅抬高这类产品在美成本。",
+      "summary_original": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T01:06:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b29ef0ae",
+      "title": "苹果与Epic就苹果从App Store外交易抽成额度起争执",
+      "title_original": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "苹果与Epic Games的法律纠纷已持续良久，近日苹果在该案提交的新文件中提出，要对不使用苹果内购系统、通过外部链接完成的数字购买抽取佣金，Epic随即回应称该要求远远超出了相关范围。",
+      "summary_original": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T23:13:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7d4982bf",
+      "title": "美航母出海超250天 舰上状况引发警报",
+      "title_original": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "据报道，美国海军亚伯拉罕·林肯号航母已出海超过250天，舰上千名水手面临食物短缺、管道设施故障问题，部分水手甚至考虑跳海，这一糟糕状况引发外界警报。",
+      "summary_original": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d1c21344",
+      "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+      "title_original": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary": "多名投资者起诉艺人赛琳娜·戈麦斯，指控其创办的心理健康领域初创公司涉嫌欺诈。原告称，他们已向该公司投资近120万美元，赛琳娜既未完成公司搭建，也未开展相关市场推广工作。",
+      "summary_original": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T22:12:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce6a267b",
+      "title": "科技投资热情回归 股指逼近纪录高点：市场收盘综述",
+      "title_original": "Stocks Hold Near Record as Tech Appetite Returns: Markets Wrap",
+      "summary": "受人工智能相关交易的乐观情绪持续升温推动，叠加交易员普遍下调了对美联储加息的预期，美国股市当前维持在接近历史纪录高点的位置，国际原油价格则缩减了早前的上涨幅度。",
+      "summary_original": "US stocks held near a record high on mounting optimism around the artificial intelligence trade and as traders dialed back expectations for Federal Reserve interest-rate hikes. Crude oil trimmed an earlier advance.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:10:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a58ff28c",
+      "title": "8月14日最新石油市场消息与分析",
+      "title_original": "Latest Oil Market News and Analysis for Aug. 14",
+      "summary": "油价目前守住本周以来的涨幅。扰乱霍尔木兹海峡航运的战事已经进入第六个月，交易员正研判美国威胁对伊朗施加空前经济压力这一事件对石油市场的影响，当前地缘政治风险支撑油价维持涨势。",
+      "summary_original": "Oil held this week’s gain as traders weighed a US threat to impose unprecedented economic pressure against Iran, with the war that snarled the Strait of Hormuz in its sixth month.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:04:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "21ab0264",
+      "title": "Flock称新工具可识别警方滥权 未说明工作原理",
+      "title_original": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "监控企业Flock推出一款名为“审计协助”的工具，现已强制所有客户使用该工具。该公司称这款工具已协助发现警方滥权行为，但始终未详细说明其工作原理，此举也引发了外界对该工具实际有效性的质疑。",
+      "summary_original": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T22:02:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f1899908",
+      "title": "“这不可接受”：法官下令谷歌简化竞品应用商店安装流程",
+      "title_original": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary": "Epic Games与谷歌就安卓应用分发的争端暂停一个月后，双方再度对簿旧金山法庭。法官詹姆斯·多纳托下令要求谷歌，简化安卓系统中安装第三方竞品应用商店的操作，此事距陪审团就该案作出一致裁决已近三年。",
+      "summary_original": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:53:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "93b74b54",
+      "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+      "title_original": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary": "苹果推出一项全新的安全提醒机制，当公司检测识别到有政府背景的间谍软件正对用户的iPhone设备发起攻击时，会直接向用户iPhone的锁屏推送相关预警通知，提醒用户留意设备安全风险。",
+      "summary_original": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T21:50:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "41a5bb3e",
+      "title": "围绕Flock及其他自动车牌识别设备的争议",
+      "title_original": "The fight over Flock and other ALPRs",
+      "summary": "目前美国各地已安装超过12万台Flock公司的自动车牌识别摄像头，这类设备借助人工智能，可依据车牌号、车辆品牌、型号、颜色等信息识别追踪车辆，还能联网全天跨区域追踪车辆与人员行踪，相关应用引发争议。",
+      "summary_original": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people&#8217;s movements throughout the day and across [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:46:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e1e53d14",
+      "title": "报告称发动机零件碎裂击穿瑞安航空舷窗 一男子头部被吸出",
+      "title_original": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "summary": "美国调查人员发布针对上月一起航班事故的初步报告，涉事航班执飞希腊飞往德国的航线，飞行途中该航班发动机一片风扇叶片断裂，碎裂的发动机零件击穿飞机舷窗，造成一名男子头部被吸出窗外。",
+      "summary_original": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a202a998",
+      "title": "酷似Clippy的Mico不再是微软Copilot的形象代表",
+      "title_original": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "微软宣布，聊天机器人Copilot的语音模式将不再使用黄色拟人形象Mico。Mico酷似微软早年办公助手Clippy，去年才在Copilot语音模式推出。据GeekWire早前报道，Mico将被迁移至微软Learn Live平台，拥有更多可互动场景。",
+      "summary_original": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a202a998",
+      "title": "微软酷似Clippy的Mico形象不再是Copilot代表面孔",
+      "title_original": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "微软宣布，其AI聊天机器人Copilot的语音模式将不再显示带情绪的黄色虚拟形象Mico，该形象设计类似微软经典办公助手Clippy。据科技媒体GeekWire报道，Mico将被转移至微软Learn Live平台，获得更多互动场景。",
+      "summary_original": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "539d991b",
+      "title": "Writer推出新型AI模型及升级框架 控制令牌成本",
+      "title_original": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "AI服务商Writer推出一款新型AI模型，该模型是Z.ai开源模型GLM-5.2的训练后变体。Writer表示，这款新系统具备可直接部署的就绪能力，定价远低于同类方案，能够帮助控制令牌使用成本。",
+      "summary_original": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "539d991b",
+      "title": "Writer推出新型AI模型及升级框架以控制令牌成本",
+      "title_original": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "人工智能公司Writer推出一款新型AI模型，该模型是Z.ai开源模型GLM-5.2的训练后变体，同时搭配可控制令牌成本的升级框架，官方称新系统具备部署就绪的可用能力，定价远低于同类产品。",
+      "summary_original": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a5a20f62",
+      "title": "圆桌讨论：探究影响美国政策的“审查产业复合体”概念",
+      "title_original": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "summary": "“审查产业复合体”指由政府、科技企业与研究机构组成的网络合作压制美国保守派网络言论的说法，这一概念多年来流传于美国右翼信息圈，如今已开始渗透进美国政策层面，本次对话将探究这一概念的起源与发展走向。",
+      "summary_original": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "5d6c2f5f",
+      "title": "俄罗斯策划颠覆摩尔多瓦亲西方政府",
+      "summary": "摩尔多瓦曝出俄罗斯针对该国亲西方政府的颠覆行动，俄方为颠覆这一倾向西方的执政当局，采取了多项干涉举措，包括向该国东正教牧师支付报酬、策划选票收买计划，还设立专门训练营地开展选举干涉活动。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "acc673ff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "acc673ff",
+          "source": "NYTimes World",
+          "title": "俄罗斯策划颠覆摩尔多瓦亲西方政府",
+          "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+          "published_at": "2026-08-14T12:25:40+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T12:25:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0c98d489",
+      "title": "强劲盈利与温和数据推升美股期货上涨",
+      "summary": "受强劲企业盈利以及偏温和的通胀数据推动，美股延续此前的上涨动能，带动美股期货走高，当前市场整体态势向好，美股有望在本周收官时创下历史新高。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "2b0ec852"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "2b0ec852",
+          "source": "Bloomberg",
+          "title": "强劲盈利与温和数据推升美股期货上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
+          "published_at": "2026-08-14T12:18:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T12:18:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f691767b",
+      "title": "《科技速递》：Flock新规、克隆未来与儿童细胞",
+      "summary": "这是面向工作日推出的科技类每日通讯《科技速递》的今日推送，内容涵盖：警务科技巨头Flock因公众对监控的反对声浪上涨，收紧警员对其全国车牌识别网络的访问权限，同时还涉及克隆技术发展前景、儿童细胞相关科技议题。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9ede57ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "9ede57ea",
+          "source": "MIT Technology Review",
+          "title": "《科技速递》：Flock新规、克隆未来与儿童细胞",
+          "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "published_at": "2026-08-14T12:17:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T12:17:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5dd2e34",
+      "title": "环孢子虫暴发考验食品安全",
+      "summary": "美国近期出现环孢子虫暴发与沙门氏菌疫情反弹，这对该国的食品安全体系及餐饮行业形成考验。受疫情影响，消费者减少外出就餐，食品品牌也纷纷开始更严格地审视自身供应链，相关报道来自彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "79f47542"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "79f47542",
+          "source": "Bloomberg",
+          "title": "环孢子虫暴发考验食品安全",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-14/cyclospora-outbreak-puts-food-safety-to-the-test-video",
+          "published_at": "2026-08-14T12:11:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T12:11:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6fc4656c",
+      "title": "CMF实现夹耳式耳机平价与优质的平衡",
+      "summary": "夹耳式耳机因自身设计与物理特性天生存在取舍：它无需塞入耳道，对不喜入耳设计的用户更为舒适，但音质表现会受影响；虽能让用户清晰感知周边环境音，也存在听音弊端，CMF实现了这类耳机平价与优质的平衡。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2d752022"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2d752022",
+          "source": "The Verge",
+          "title": "CMF实现夹耳式耳机平价与优质的平衡",
+          "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+          "published_at": "2026-08-14T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7028bbcf",
+      "title": "法拉奇如预期赢得其发起的英国特别选举",
+      "summary": "英国改革党领袖奈杰尔·法拉奇，在克拉克斯顿补选中以63%的得票率成功胜选。非传统搞怪候选人宾脸以27%的得票率位居第二，这一成绩创下了他个人参选以来的最好纪录。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1f750e12"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1f750e12",
+          "source": "NYTimes World",
+          "title": "法拉奇如预期赢得其发起的英国特别选举",
+          "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+          "published_at": "2026-08-14T11:56:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:56:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c49d157",
+      "title": "寻找抗AI风险交易 便利店股票成热门股",
+      "summary": "受对AI热潮可持续性的担忧以及伊朗持续冲突影响，全球市场动荡加剧。投资者对防御性投资标的需求上升，纷纷寻找抗风险投资选择，带动便利店股票走热，成为当下热门投资标的。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "89224853"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "89224853",
+          "source": "Bloomberg",
+          "title": "寻找抗AI风险交易 便利店股票成热门股",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/hunt-for-ai-proof-trades-turns-convenience-shops-into-hot-stocks",
+          "published_at": "2026-08-14T11:55:52+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:55:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9035a3a9",
+      "title": "股市持续上涨，“错失恐惧保险”推升期权购买热潮",
+      "summary": "近期股市持续攀升，不断创下历史新高。当前投资者愈发普遍的担忧并非股市大幅回调，而是害怕错过这轮上涨行情，这种由错失恐惧催生的“错失恐惧保险”操作，正推动市场掀起期权购买热潮。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4830206e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4830206e",
+          "source": "Bloomberg",
+          "title": "股市持续上涨，“错失恐惧保险”推升期权购买热潮",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/-fomo-insurance-drives-options-buying-spree-as-stocks-rally-on",
+          "published_at": "2026-08-14T11:48:56+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:48:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e17f09e5",
+      "title": "赞比亚因据称选举工作人员遇袭暂停总统选举计票",
+      "summary": "赞比亚暂停总统选举计票工作，暂停原因是有说法称选举工作人员遭到袭击。该国选举委员会表示，相关暴力事件已造成完成标记的选票被盗，目前暂未披露本次总统选举后续进程的相关信息。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
+      "article_ids": [
+        "ef9d8448"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ef9d8448",
+          "source": "BBC World",
+          "title": "赞比亚因据称选举工作人员遇袭暂停总统选举计票",
+          "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-14T11:37:31+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:37:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f610b291",
+      "title": "印尼2027年预算：矿企与电动车制造商成赢家",
+      "summary": "分析师表示，在印尼2027年国家预算框架下，矿企、电动汽车制造商及电池生产商都将大幅受益。这份利好源于印尼总统普拉博沃推动大宗商品产业发展、降低对高价进口化石燃料依赖的政策导向。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "7ebdb373"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "7ebdb373",
+          "source": "Bloomberg",
+          "title": "印尼2027年预算：矿企与电动车制造商成赢家",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/indonesia-s-2027-budget-positions-miners-ev-makers-as-winners",
+          "published_at": "2026-08-14T11:33:18+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:33:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "75e59a72",
+      "title": "微星Claw EX是Steam Deck问世以来最重要的掌机——但我仍不会购买",
+      "summary": "The Verge常驻掌机评测者收藏了几乎全品类便携游戏PC，他称微星Claw EX是Steam Deck推出以来最重要的掌机产品。目前他最常使用搭载新一代英特尔芯片、经设计优化的微星Claw 8 EX AI Plus，这款产品也是当前最强掌机，但他仍表示不会购买",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "67a0040f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "67a0040f",
+          "source": "The Verge",
+          "title": "微星Claw EX是Steam Deck问世以来最重要的掌机——但我仍不会购买",
+          "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+          "published_at": "2026-08-14T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c670084",
+      "title": "Hoto全新无线烙铁可3秒升温",
+      "summary": "Hoto于旗下模块化Snapbloq系列推出首款烙铁产品I-A06无线烙铁，该系列支持用户堆叠磁吸收纳盒与工具，组装定制个人工具箱。这款新品可在约3秒内升温至200摄氏度以上，提供从100摄氏度起的可调温度区间。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "69c30053"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "69c30053",
+          "source": "The Verge",
+          "title": "Hoto全新无线烙铁可3秒升温",
+          "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+          "published_at": "2026-08-14T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b55eacfa",
+      "title": "巴西警方寻回被盗马蒂斯作品",
+      "summary": "被盗的法国艺术家马蒂斯的八幅作品已被巴西警方寻回，警方在大圣保罗地区的一处住宅中找到这批画作，目前已有一名涉案男子被逮捕，这起艺术品失窃案的侦办取得关键进展。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "4d2799ce"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4d2799ce",
+          "source": "BBC World",
+          "title": "巴西警方寻回被盗马蒂斯作品",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-14T10:55:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:55:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ec2e026",
+      "title": "优步与小马智行计划在欧洲投放2000辆自动驾驶出租车",
+      "summary": "优步与自动驾驶企业小马智行达成合作，计划在欧洲投放2000辆自动驾驶出租车，拓展当地自动驾驶出行业务。目前双方合作已从初始试点市场克罗地亚萨格勒布，拓展至欧洲另外四座城市，业务布局进一步扩大。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fa797b8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "fa797b8a",
+          "source": "TechCrunch",
+          "title": "优步与小马智行计划在欧洲投放2000辆自动驾驶出租车",
+          "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+          "published_at": "2026-08-14T10:44:30+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:44:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f7b56ac",
+      "title": "野火与极端高温肆虐欧洲 缓解在即",
+      "summary": "近期欧洲接连遭遇极端高温侵扰，上周五欧洲大陆再次被接近历史纪录的高温烘烤，叠加多发的野火，给当地带来极大影响。不过未来几日欧洲气温将回落至当季平均水平，灾情有望得到缓解。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14wea-europe-heat-bmhl/14wea-europe-heat-bmhl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "19366bac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "19366bac",
+          "source": "NYTimes World",
+          "title": "野火与极端高温肆虐欧洲 缓解在即",
+          "link": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+          "published_at": "2026-08-14T10:38:20+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:38:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5cce3f2",
+      "title": "日本遭遇‘史无前例’暴雨 已致8人死亡",
+      "summary": "日本遭遇“史无前例”的暴雨灾害，目前已造成8人死亡。此次风暴导致当地超过两万户家庭电力中断，另有7000人受困于东京成田机场，给当地民众的生活与出行带来严重影响。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
+      "article_ids": [
+        "94b22131"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "94b22131",
+          "source": "BBC World",
+          "title": "日本遭遇‘史无前例’暴雨 已致8人死亡",
+          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-14T10:36:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12f8d28b",
+      "title": "在尼日尔遭绑架的美国传教士凯文·赖德奥特已获释",
+      "summary": "去年秋季，美国传教士、飞行员凯文·赖德奥特在尼日尔首都尼亚美的住所遭绑架，目前他已成功获释。凯文·赖德奥特所属的传教机构对外确认，获释后的他身体健康状况良好。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-niger-rideout-pfqg/14int-niger-rideout-pfqg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "320c93e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "320c93e3",
+          "source": "NYTimes World",
+          "title": "在尼日尔遭绑架的美国传教士凯文·赖德奥特已获释",
+          "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
+          "published_at": "2026-08-14T10:28:45+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:28:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1ae3655",
+      "title": "现金流困境下石化生产商布拉斯克业绩超预期",
+      "summary": "石化生产商布拉斯克公布第二季度业绩好于市场预期，目前布拉斯克虽面临现金流难题，受益于波斯湾及亚洲地区受战乱影响出现的石化供应中断，最终业绩表现超出市场预期",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f0271e01"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f0271e01",
+          "source": "Bloomberg",
+          "title": "现金流困境下石化生产商布拉斯克业绩超预期",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/petrochemicals-maker-braskem-beats-estimates-amid-cash-woes",
+          "published_at": "2026-08-14T10:18:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:18:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "695c203a",
+      "title": "基督教团体称美国传教士在尼日尔遭绑架后获释",
+      "summary": "去年10月，美国传教士凯文·赖德奥特在尼日尔首都的住所外遭到绑架。基督教团体近日发布消息称，这名遭绑架的传教士已经获释，目前凯文·赖德奥特已与美国官方人员会合。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d8/live/4e317200-97c9-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "32aedffb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "32aedffb",
+          "source": "BBC World",
+          "title": "基督教团体称美国传教士在尼日尔遭绑架后获释",
+          "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-14T10:18:02+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T10:18:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8e5265e",
+      "title": "破纪录降雨致日本8人死亡数千人受困",
+      "summary": "日本遭遇破纪录强降雨，东京以东区域仅12小时就降下了相当于当地三个月总量的雨水，强降雨引发致命洪涝灾害，目前已造成8人死亡，另有数千人受困，灾害给当地民众生命安全造成严重威胁。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "730d2ac0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "730d2ac0",
+          "source": "NYTimes World",
+          "title": "破纪录降雨致日本8人死亡数千人受困",
+          "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+          "published_at": "2026-08-14T09:39:01+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:39:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7ccf76b",
+      "title": "苹果获阿里巴巴协助 为中国市场训练自有AI模型",
+      "summary": "据路透社援引三名不具名知情人士消息，苹果携手中国科技巨头阿里巴巴，在阿里支持下为中国市场定制训练了一款聚焦中国的大语言模型，这是当前中美关系紧张背景下少见的跨境科技合作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ae32eded"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ae32eded",
+          "source": "The Verge",
+          "title": "苹果获阿里巴巴协助 为中国市场训练自有AI模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "published_at": "2026-08-14T09:21:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:21:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7ccf76b",
+      "title": "苹果在阿里巴巴协助下为中国训练自有AI模型",
+      "summary": "据路透社援引三名未具名知情人士消息，苹果与中国科技巨头阿里巴巴合作，为中国市场定制训练专属大语言模型，这是当前中美关系紧张背景下十分少见的中美科技企业跨境合作。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ae32eded"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "ae32eded",
+          "source": "The Verge AI",
+          "title": "苹果在阿里巴巴协助下为中国训练自有AI模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "published_at": "2026-08-14T09:21:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:21:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c12c06f",
+      "title": "甘肃省副省长程晓波被查 系主动投案 - chinanews.com.cn",
+      "summary": "现年70后的甘肃省委常委、副省长程晓波，涉嫌严重违纪违法，于任上主动投案，目前正接受纪律审查和监察调查。程晓波主动投案被查的消息，已经得到中国新闻网、新京报、观察者网、联合早报等多家境内外权威媒体的公开报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "cf22e04f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "cf22e04f",
+          "source": "Google News (中国)",
+          "title": "甘肃省副省长程晓波被查 系主动投案 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IYXJnTUJUSTA5OF9rV0cwT1Y3RndkOF8zWXZIR1BlNmlJbG5ydUt1TTQ4eF90Q3JuelVRaDNLc19aa0p0aHBpaW16SVZ0X1pnTW5ydjdfVUw4eWxLUGxwdGQzWFZUeUFM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T09:11:51+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:11:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ef7dfa5",
+      "title": "欧洲持续变暖，交通系统难以应对",
+      "summary": "随着欧洲气候持续变暖，当地交通基础设施正面临愈发严峻的高温考验。有专家指出，欧洲大陆现有铁路、公路等交通系统，是针对已经不复存在的旧气候条件设计建造，如今难以适配新的气候状况。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-europe-heat-transport-lkwv/00int-europe-heat-transport-lkwv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0b9d9045"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0b9d9045",
+          "source": "NYTimes World",
+          "title": "欧洲持续变暖，交通系统难以应对",
+          "link": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
+          "published_at": "2026-08-14T09:07:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:07:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4849a762",
+      "title": "巴勒斯坦说唱歌手Shabjdeed与Saint Levant因真实性起争执",
+      "summary": "巴勒斯坦约旦河西岸的说唱歌手Shabjdeed，近日在个人作品中批评同为巴勒斯坦音乐人的Saint Levant，指责对方的西方生活方式以及创作的歌词，已远远脱离巴勒斯坦本土的实际生活，二人因身份与创作真实性爆发争执。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "57c1f9ba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "57c1f9ba",
+          "source": "NYTimes World",
+          "title": "巴勒斯坦说唱歌手Shabjdeed与Saint Levant因真实性起争执",
+          "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
+          "published_at": "2026-08-14T09:02:18+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:02:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78a3c585",
+      "title": "巴黎圣母院大火后，法国修复圣母院却未保留这几扇原窗",
+      "summary": "2019年巴黎圣母院遭遇火灾，建筑多处被烧毁。灾后法国启动修复工作，目前大部分损毁区域已完成忠实复原。此次修复存在争议，原有六扇高耸的窗户将被拆除，替换为全新设计。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/10/world/00int-france-notre-dame-top-art-02/00int-france-notre-dame-top-art-02-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b38af62d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b38af62d",
+          "source": "NYTimes World",
+          "title": "巴黎圣母院大火后，法国修复圣母院却未保留这几扇原窗",
+          "link": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html",
+          "published_at": "2026-08-14T09:02:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:02:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "86c5464d",
+      "title": "这位科学家正助力绘制缺失的童年图谱",
+      "summary": "2017年，科学家迪恩·泰勒在距自己办公室不远的宾夕法尼亚大学，聆听了旨在绘制人体所有细胞图谱的人类细胞图谱项目介绍。她听完深受震撼，同时心生担忧，发现该项目缺失了与童年相关的内容，正助力填补这一空白。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "809a6cee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "809a6cee",
+          "source": "MIT Technology Review",
+          "title": "这位科学家正助力绘制缺失的童年图谱",
+          "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "published_at": "2026-08-14T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdc0772b",
+      "title": "未来职业：太空旅行代理商",
+      "summary": "高端奢华生活方式公司联合创始人罗曼·奇波鲁哈，从业二十余年来一直帮客户实现非凡旅行梦想，曾操办客户超级游艇建造、需签署保密协议的巴哈马顶级私密度假等项目，如今他将转型成为面向未来的太空旅行代理商。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "19bcbe11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "19bcbe11",
+          "source": "MIT Technology Review",
+          "title": "未来职业：太空旅行代理商",
+          "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+          "published_at": "2026-08-14T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e04df7fd",
+      "title": "克隆可用于拯救物种，亦可制造人类“器官囊”",
+      "summary": "本周，受访科学家研发出基于CRISPR基因编辑的新方法，可通过剔除Y染色体将雄性小鼠胚胎转变为雌性，成功培育出与雄性小鼠基因一致的雌性克隆鼠，该克隆技术未来有望用于拯救濒危物种、制造人类器官囊。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1cc51220"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "1cc51220",
+          "source": "MIT Technology Review",
+          "title": "克隆可用于拯救物种，亦可制造人类“器官囊”",
+          "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+          "published_at": "2026-08-14T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d167485e",
+      "title": "帮忙为\"可悲小贱人\"埃隆·马斯克修建纪念碑",
+      "summary": "桌游《反人类卡》运营公司宣布，计划在得克萨斯州星舰基地附近其名下地块上，为埃隆·马斯克修建一座大型纪念碑。该项目目的是惹恼马斯克，目前正以品牌一贯的粗俗风格发起众筹募资。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "88306903"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "88306903",
+          "source": "The Verge",
+          "title": "帮忙为\"可悲小贱人\"埃隆·马斯克修建纪念碑",
+          "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+          "published_at": "2026-08-14T08:40:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T08:40:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90c90d80",
+      "title": "美国称数十个国家协助中国规避特朗普关税",
+      "summary": "美国方面近日发布一份最新报告，声称共有数十个国家协助中国，帮助中国规避特朗普政府时期对中国加征的高额关税，中国通过将货物经关税更低的国家转运来逃避这部分高额关税。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+      "article_ids": [
+        "1eeb261b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1eeb261b",
+          "source": "BBC World",
+          "title": "美国称数十个国家协助中国规避特朗普关税",
+          "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-14T08:39:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T08:39:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6afb0425",
+      "title": "特写丨哥伦比亚震灾后的互助暖流 - news.cn",
+      "summary": "哥伦比亚接连发生强震，目前已造成241至281人遇难，超10万人受灾。此次地震重创该国咖啡产区，进一步冲击本就紧绷的国家财政，接连强震也引发南美板块是否进入活跃期的讨论，震后当地涌动着民众互助的暖流。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8b3cebd8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8b3cebd8",
+          "source": "Google News (中国)",
+          "title": "特写丨哥伦比亚震灾后的互助暖流 - news.cn",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43d2ZWTUhkaVNtZ0lOeVNDLW84NDdQaEF6cEFoWGNlMWJkUU5mYTFsR3pIOTQxRmh4X3N5c1lLaGFNT1otWlRUcHJUeWJZSEFXSlpEcFZnTWgyN05jRW1IcHFKLW9PRjVZaktCRXdfWWZndG03a1NfOWRtRnBOQU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T08:24:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T08:24:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a45baa80",
+      "title": "中俄大使在“8.15”前称反对“为军国主义招魂” 美国主张北方四岛归属日本 - RFI",
+      "summary": "8月15日日本战败投降日前夕，中俄大使共同发声反对为军国主义招魂。俄罗斯总统普京登上俄日争议的北方四岛引发日方抗议，俄外交部对该抗议予以驳斥，美国则公开表态支持日本对北方四岛的主权主张，俄外长还就此警告日本右翼政客。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ddc4311a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ddc4311a",
+          "source": "Google News (中国)",
+          "title": "中俄大使在“8.15”前称反对“为军国主义招魂” 美国主张北方四岛归属日本 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNYVRjd3B4YURpaFl4Q2J0bDUtM2VUSHJ3bmpjNk40VjZmOGFFQlFra196bnRab2NCX28zSE9NdmJjb2pPYVJyaThSOEdfckF2eHdfLWJRNTBFdUZoZ015dFhQbFllcFdMWmd5RkRDZWVuYUQ3YmNmSExnVUxFVmF3bVcwLTJ3MUtvZEQzZFFiTncxMnZrN0EtR0xVMXYzd1pKM2cyUjFMYVhSYlQtTnV3MGJRM0ozMXFIMzdjLS1pV2owbzVIUF9BeEI1RHFOWGZSc3lGNDYwOVBtd0lEbEJ4MGpyY2I0X3F0ajBGdF9mN3BWZm1yVGVoX0l4Q2VwNEI1VDJCOUo5ZnU1aVR3ZE03Sk9YRXlZNkc3eFpIYjluNVY5ZDRVTXh3QnhrZlFzSE1kLWZEbDZxUG0xaUJmUjFlTTltZGdJOFg1VWRONFJ4WFlaMXlNdTlSVXRkNjRzd3JjdmFHWXd2TUhrLWNSQzV2SkJIaDVlSUFkSk9zcHF4ekExTllYMkU5X0d2UTh4eWZOM0lIYVNkM1pYOXg5dmI2VlAyc2FtOEk3WWVDems4dk9EWHpiLXEzdkNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T08:20:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T08:20:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d52f0e30",
+      "title": "湖南一煤矿发生瓦斯突出事故 7人失联，搜救工作还在继续 - 新京报",
+      "summary": "湖南涟源杨梅山煤矿发生瓦斯突出事故，最初通报有7人失联，涉事公司后续回应称，失联人员中已有2人升井，目前正对二人开展抢救，针对其余失联人员的搜救工作仍在继续，该突发事故引发市场关注，相关煤价出现全线上涨。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ecff7c66"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ecff7c66",
+          "source": "Google News (中国)",
+          "title": "湖南一煤矿发生瓦斯突出事故 7人失联，搜救工作还在继续 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HeDhHaTg0VW9QbHJwSHg5VW9yeXJuZzFQUWp4a1NmdTVUNWlwVFVJdDI2WUd2Mm1KcmM3WjdBRUtsdjQ1QnozNjdmbGxrQ08tWmZXV0tiUDI1dTBQb1B5NFVmWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T08:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T08:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1eeb7c2e",
+      "title": "应急管理部调派救援力量驰援河南周口处置溃口险情 - 人民网",
+      "summary": "河南多地出现汛情，郏县北汝河段一处民堤发生40余米宽的溃口，应急管理部调派救援力量驰援河南周口等地处置险情，武警官兵与民兵全力参与抢险救灾，目前该溃口已完成封堵，作业中采用混凝土浇灌加速封堵进程。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a3c7d84e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a3c7d84e",
+          "source": "Google News (中国)",
+          "title": "应急管理部调派救援力量驰援河南周口处置溃口险情 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cTFuc1FvS2p4TnZpR3dKQm40UjAzaWI3TUljMVFPUFZiTFQ2dVUtczJHRVlySnBwaUJHdjA3UjN1YXBvd1ZUNzRFNkNpdS1iOHRTUUE1OFpiSjdIQkJFWDdEVG5sbUNMLVFZN0tB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T07:41:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T07:41:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "807d69fd",
+      "title": "特朗普下令“福特”级新航母恢复蒸汽弹射 - China Daily",
+      "summary": "美国总统特朗普下令，美国福特级新航母弃用电磁弹射系统，恢复使用传统蒸汽弹射技术，该技术更换预计耗资数十亿美元。此外，特朗普还作出数十年来首次允许美国海军在海外建造舰船的决定，此事引发多国媒体关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3ca6ee71"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3ca6ee71",
+          "source": "Google News (中国)",
+          "title": "特朗普下令“福特”级新航母恢复蒸汽弹射 - China Daily",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1pQT3dqdUlMZXlEVjN2dWg0UXZBQTBxWjlfYjdzZ0tzWm5kbzJWZmpOVk9Pd3JxQ3RmX2xCSXZoTW93Y3VIS1VNNGhzZ3BISXVjLUp1ZzNaOEZENTE1VjZBU05sZkxOOU82LUhOd1l4azhHYy11WW92d1kwdDVCag?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T07:32:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T07:32:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac40adfa",
+      "title": "乌克兰称打击俄罗斯乌斯季-卢加港一座大型炼油厂",
+      "summary": "乌克兰方面表示，已对俄罗斯波罗的海港口乌斯季-卢加的一处主要石油加工设施发动袭击。此次行动进一步升级了乌克兰针对俄罗斯港口与能源基础设施的打击行动，相关动向牵动地区局势变化。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "1e8ec573"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1e8ec573",
+          "source": "Bloomberg",
+          "title": "乌克兰称打击俄罗斯乌斯季-卢加港一座大型炼油厂",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/russia-s-biggest-baltic-port-caught-fire-after-drone-attack",
+          "published_at": "2026-08-14T06:43:44+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T06:43:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2470636a",
+      "title": "‌跨越二十余载的山河答卷：“两山”理念在中国的实景图鉴 - 中国网新闻中心",
+      "summary": "多家国内主流媒体推出相关报道，围绕“两山”理念提出二十余年来的中国实践，聚焦生态文明建设成果，关注国家公园建设，强调要为子孙后代留存珍贵自然资产，展现我国持续践行“两山”理念，厚植中国式现代化绿色底色，推动人与自然和谐共生的发展方向。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "88e31a1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "88e31a1f",
+          "source": "Google News (中国)",
+          "title": "‌跨越二十余载的山河答卷：“两山”理念在中国的实景图鉴 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91VWlVSWNVWE02V0NVeWJISU0xWnhsTl9zR1JsM0ZySEtWVWZQS0J1ZzJtVFZGVi16MTEybjc3NFVSTzl5MnhIclY3ekdHV0FFRDFJakNCRmdabTV2UUwydVhhcFNTUmlzUU05MkhXZjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T06:32:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T06:32:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40c0d704",
+      "title": "塔利班统治五年来 阿富汗女性被排除在公共生活之外",
+      "summary": "塔利班掌权阿富汗五年来，出台多项法令限制女性与女孩的学习、工作、出行及独立行动权利。相关专家指出，此类限制女性权益的规定，或将对阿富汗造成永久性伤害。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a80fc62c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a80fc62c",
+          "source": "NYTimes World",
+          "title": "塔利班统治五年来 阿富汗女性被排除在公共生活之外",
+          "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+          "published_at": "2026-08-14T05:08:37+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T05:08:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "411d471d",
+      "title": "苏丹奥贝德会成为下一个法希尔吗？应知要点",
+      "summary": "苏丹准军事组织快速支援部队若攻占奥贝德，即可巩固对苏丹西部地区的控制权，这是该武装的重要战略目标。目前各方正关注奥贝德是否会重蹈法希尔覆辙，成为苏丹下一个局势生变的城市。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-sudan-1-mlfc/14int-sudan-1-mlfc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "24f31109"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "24f31109",
+          "source": "NYTimes World",
+          "title": "苏丹奥贝德会成为下一个法希尔吗？应知要点",
+          "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
+          "published_at": "2026-08-14T04:01:06+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T04:01:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3f0a7db7",
+      "title": "乌克兰袭击俄炼油厂 俄多地面临新一轮燃料短缺",
+      "summary": "近期乌克兰恢复对俄罗斯境内的炼油厂发动几乎每日都有的袭击，受这一行动影响，俄罗斯多个地区再次出现燃料短缺问题，当地正面临新一轮燃料供应紧张局面，能源供应缺口显现。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "73f98b0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "73f98b0d",
+          "source": "Bloomberg",
+          "title": "乌克兰袭击俄炼油厂 俄多地面临新一轮燃料短缺",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/russian-regions-report-new-fuel-crunch-as-kyiv-hits-refineries",
+          "published_at": "2026-08-14T04:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T04:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90e23294",
+      "title": "区委常委会召开会议 传达学习习近平总书记重要文章重要指示精神 - gongshunews.com",
+      "summary": "某区委常委会召开会议，核心议程为传达学习习近平总书记的重要文章与重要指示精神，该会议相关报道由gongshunews.com发布，相关内容已同步上线Google新闻平台，用户可前往Google新闻平台查看更多头条新闻与相关观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "6bb9f246"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6bb9f246",
+          "source": "Google News (中国)",
+          "title": "区委常委会召开会议 传达学习习近平总书记重要文章重要指示精神 - gongshunews.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fX1JtMUJVdGduNFZySVhvMWlZOTdYU3AxRkRoOUVOM0pjMW1CSC1RTFlubW1vUmZmeThCaXRTVmdCZWNQSjAtQVVhbnhNNUN3R25fTWVPVk1qLWhKdnV3dmNXUGZNbEFhZnV6NmNyTldSRWNqWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T03:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T03:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e0bdd9db",
+      "title": "沙土巴“三结义”如何重塑中东安全格局？ - 中国网",
+      "summary": "近期沙特、土耳其、巴基斯坦达成相关合作，被舆论称作沙土巴“三结义”，也被解读为“伊斯兰版北约”相关动向。协议约定一方遇袭时另外两国将予以支持，此举引发印度担忧，也引发国际舆论热议，讨论其是否会重塑中东安全格局、美国在中东的影响力是否会因此褪色。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "786ba674"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "786ba674",
+          "source": "Google News (中国)",
+          "title": "沙土巴“三结义”如何重塑中东安全格局？ - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04N3lMeHRxSEJFRS1PTWc4U3gxWGZXNEFhVTVfdF9UbGh2MzhlaHRWX2liTnB6d0QzdHdrRDBUREJlTFRXNWdULVRYWDBXa0E0VDYyYVhZX2FhTzJBc2c5UTNRbVlLY2ota0R2Tkxhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T01:48:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T01:48:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "941db303",
+      "title": "西康高铁启动试运行 - banyuetan.org",
+      "summary": "西康高铁正式启动试运行，该相关资讯由半月谈官网banyuetan.org发布，感兴趣的受众可前往Google新闻平台，查看更多相关领域的头条新闻与不同视角的观点内容，及时掌握该项目的相关动态。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1e7c616c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1e7c616c",
+          "source": "Google News (中国)",
+          "title": "西康高铁启动试运行 - banyuetan.org",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckZjbnN2bXlJQ0l6VXV5SkkzTUhzRkN6cXZnbWJrUFIxU2kwX0hJNVdyQ2IzZjV4MjR4Q01mVHlkNVZ1dXhHWW51ZmVUVTFlN3NQUmRla1ExX2g1ODJQN3Zkcnhxd3hPd1RaOU5wMEEzQ045MXAwa0prUkpZM2cxMEE2UGRITmJMRzBaSDdtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14T01:22:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T01:22:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd5caabd",
+      "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+      "summary": "美国此前已禁止未来的外国无人机、路由器、机器人等产品进入美国，除非相关企业顺从美方要求。如今美国总统特朗普进一步将监管征税范围延伸至现有进口无人机及零部件，拟通过加征高额关税大幅抬高这类产品在美成本。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "10552dcf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "10552dcf",
+          "source": "The Verge",
+          "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+          "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+          "published_at": "2026-08-14T01:06:15+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T01:06:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d37b510c",
+      "title": "苹果与Epic就苹果从App Store外交易抽成额度起争执",
+      "summary": "苹果与Epic Games的法律纠纷已持续良久，近日苹果在该案提交的新文件中提出，要对不使用苹果内购系统、通过外部链接完成的数字购买抽取佣金，Epic随即回应称该要求远远超出了相关范围。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b29ef0ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b29ef0ae",
+          "source": "The Verge",
+          "title": "苹果与Epic就苹果从App Store外交易抽成额度起争执",
+          "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+          "published_at": "2026-08-13T23:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30ffe94d",
+      "title": "美航母出海超250天 舰上状况引发警报",
+      "summary": "据报道，美国海军亚伯拉罕·林肯号航母已出海超过250天，舰上千名水手面临食物短缺、管道设施故障问题，部分水手甚至考虑跳海，这一糟糕状况引发外界警报。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "article_ids": [
+        "7d4982bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7d4982bf",
+          "source": "BBC World",
+          "title": "美航母出海超250天 舰上状况引发警报",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T23:06:23+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b84b42d",
+      "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+      "summary": "多名投资者起诉艺人赛琳娜·戈麦斯，指控其创办的心理健康领域初创公司涉嫌欺诈。原告称，他们已向该公司投资近120万美元，赛琳娜既未完成公司搭建，也未开展相关市场推广工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d1c21344"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d1c21344",
+          "source": "TechCrunch",
+          "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+          "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "published_at": "2026-08-13T22:12:40+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:12:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0448e449",
+      "title": "科技投资热情回归 股指逼近纪录高点：市场收盘综述",
+      "summary": "受人工智能相关交易的乐观情绪持续升温推动，叠加交易员普遍下调了对美联储加息的预期，美国股市当前维持在接近历史纪录高点的位置，国际原油价格则缩减了早前的上涨幅度。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ce6a267b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ce6a267b",
+          "source": "Bloomberg",
+          "title": "科技投资热情回归 股指逼近纪录高点：市场收盘综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+          "published_at": "2026-08-13T22:10:41+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:10:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b1c6726",
+      "title": "8月14日最新石油市场消息与分析",
+      "summary": "油价目前守住本周以来的涨幅。扰乱霍尔木兹海峡航运的战事已经进入第六个月，交易员正研判美国威胁对伊朗施加空前经济压力这一事件对石油市场的影响，当前地缘政治风险支撑油价维持涨势。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a58ff28c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a58ff28c",
+          "source": "Bloomberg",
+          "title": "8月14日最新石油市场消息与分析",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+          "published_at": "2026-08-13T22:04:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:04:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f55b270d",
+      "title": "Flock称新工具可识别警方滥权 未说明工作原理",
+      "summary": "监控企业Flock推出一款名为“审计协助”的工具，现已强制所有客户使用该工具。该公司称这款工具已协助发现警方滥权行为，但始终未详细说明其工作原理，此举也引发了外界对该工具实际有效性的质疑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "21ab0264"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "21ab0264",
+          "source": "TechCrunch",
+          "title": "Flock称新工具可识别警方滥权 未说明工作原理",
+          "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "published_at": "2026-08-13T22:02:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:02:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "369e3c48",
+      "title": "“这不可接受”：法官下令谷歌简化竞品应用商店安装流程",
+      "summary": "Epic Games与谷歌就安卓应用分发的争端暂停一个月后，双方再度对簿旧金山法庭。法官詹姆斯·多纳托下令要求谷歌，简化安卓系统中安装第三方竞品应用商店的操作，此事距陪审团就该案作出一致裁决已近三年。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1899908"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f1899908",
+          "source": "The Verge",
+          "title": "“这不可接受”：法官下令谷歌简化竞品应用商店安装流程",
+          "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+          "published_at": "2026-08-13T21:53:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:53:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f17c59f",
+      "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+      "summary": "苹果推出一项全新的安全提醒机制，当公司检测识别到有政府背景的间谍软件正对用户的iPhone设备发起攻击时，会直接向用户iPhone的锁屏推送相关预警通知，提醒用户留意设备安全风险。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "93b74b54"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "93b74b54",
+          "source": "TechCrunch",
+          "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+          "published_at": "2026-08-13T21:50:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:50:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a8e5417",
+      "title": "围绕Flock及其他自动车牌识别设备的争议",
+      "summary": "目前美国各地已安装超过12万台Flock公司的自动车牌识别摄像头，这类设备借助人工智能，可依据车牌号、车辆品牌、型号、颜色等信息识别追踪车辆，还能联网全天跨区域追踪车辆与人员行踪，相关应用引发争议。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "41a5bb3e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "41a5bb3e",
+          "source": "The Verge",
+          "title": "围绕Flock及其他自动车牌识别设备的争议",
+          "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+          "published_at": "2026-08-13T21:46:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:46:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0904c32",
+      "title": "报告称发动机零件碎裂击穿瑞安航空舷窗 一男子头部被吸出",
+      "summary": "美国调查人员发布针对上月一起航班事故的初步报告，涉事航班执飞希腊飞往德国的航线，飞行途中该航班发动机一片风扇叶片断裂，碎裂的发动机零件击穿飞机舷窗，造成一名男子头部被吸出窗外。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
+      "article_ids": [
+        "e1e53d14"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e1e53d14",
+          "source": "BBC World",
+          "title": "报告称发动机零件碎裂击穿瑞安航空舷窗 一男子头部被吸出",
+          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T21:43:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32b3bb76",
+      "title": "酷似Clippy的Mico不再是微软Copilot的形象代表",
+      "summary": "微软宣布，聊天机器人Copilot的语音模式将不再使用黄色拟人形象Mico。Mico酷似微软早年办公助手Clippy，去年才在Copilot语音模式推出。据GeekWire早前报道，Mico将被迁移至微软Learn Live平台，拥有更多可互动场景。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a202a998"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a202a998",
+          "source": "The Verge",
+          "title": "酷似Clippy的Mico不再是微软Copilot的形象代表",
+          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "published_at": "2026-08-13T21:42:38+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32b3bb76",
+      "title": "微软酷似Clippy的Mico形象不再是Copilot代表面孔",
+      "summary": "微软宣布，其AI聊天机器人Copilot的语音模式将不再显示带情绪的黄色虚拟形象Mico，该形象设计类似微软经典办公助手Clippy。据科技媒体GeekWire报道，Mico将被转移至微软Learn Live平台，获得更多互动场景。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a202a998"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a202a998",
+          "source": "The Verge AI",
+          "title": "微软酷似Clippy的Mico形象不再是Copilot代表面孔",
+          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "published_at": "2026-08-13T21:42:38+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e205ea4",
+      "title": "Writer推出新型AI模型及升级框架 控制令牌成本",
+      "summary": "AI服务商Writer推出一款新型AI模型，该模型是Z.ai开源模型GLM-5.2的训练后变体。Writer表示，这款新系统具备可直接部署的就绪能力，定价远低于同类方案，能够帮助控制令牌使用成本。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "539d991b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "539d991b",
+          "source": "TechCrunch",
+          "title": "Writer推出新型AI模型及升级框架 控制令牌成本",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "published_at": "2026-08-13T21:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e205ea4",
+      "title": "Writer推出新型AI模型及升级框架以控制令牌成本",
+      "summary": "人工智能公司Writer推出一款新型AI模型，该模型是Z.ai开源模型GLM-5.2的训练后变体，同时搭配可控制令牌成本的升级框架，官方称新系统具备部署就绪的可用能力，定价远低于同类产品。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "539d991b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "539d991b",
+          "source": "TechCrunch AI",
+          "title": "Writer推出新型AI模型及升级框架以控制令牌成本",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "published_at": "2026-08-13T21:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "73c9cd46",
+      "title": "圆桌讨论：探究影响美国政策的“审查产业复合体”概念",
+      "summary": "“审查产业复合体”指由政府、科技企业与研究机构组成的网络合作压制美国保守派网络言论的说法，这一概念多年来流传于美国右翼信息圈，如今已开始渗透进美国政策层面，本次对话将探究这一概念的起源与发展走向。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a5a20f62"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "a5a20f62",
+          "source": "MIT Technology Review",
+          "title": "圆桌讨论：探究影响美国政策的“审查产业复合体”概念",
+          "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "published_at": "2026-08-13T21:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
