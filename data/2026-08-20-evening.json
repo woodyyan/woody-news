@@ -1,0 +1,2376 @@
+{
+  "date": "2026-08-20",
+  "edition": "evening",
+  "updated_at": "2026-08-20T21:02:32.692406+08:00",
+  "article_count": 60,
+  "cluster_count": 58,
+  "articles": [
+    {
+      "id": "e843bf7e",
+      "title": "乌克兰防空力量吃紧 俄导弹袭击基辅致至少15人死亡",
+      "title_original": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+      "summary": "俄罗斯利用乌克兰防空拦截弹储备枯竭的状况加大对乌袭击力度，俄军对基辅发动的导弹袭击已造成至少15人死亡，袭击强度持续提升，使得乌克兰平民死亡人数进一步攀升。",
+      "summary_original": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T12:13:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "aca5b202",
+      "title": "Meta AI全新Mac应用支持用户与应用语音对话",
+      "title_original": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta推出适配Mac平台的全新AI应用，支持用户通过语音与设备上的各类应用交互。Meta官方表示，这款新应用的听写功能，由其自研的Muse Spark模型提供技术支撑。",
+      "summary_original": "Meta said its Muse Spark model is powering the dictation feature.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-20T12:11:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "aca5b202",
+      "title": "Meta AI全新Mac应用支持与应用语音对话",
+      "title_original": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta推出适配Mac平台的全新AI应用，主打语音交互功能，支持用户通过语音同设备内的各类应用互动。Meta表示，该应用的核心听写功能由其自研的Muse Spark模型提供技术支撑。",
+      "summary_original": "Meta said its Muse Spark model is powering the dictation feature.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-20T12:11:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4ad78b2d",
+      "title": "今日下载：多重危机支持网络与氢能淘金热",
+      "title_original": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "summary": "这是科技领域工作日通讯《The Download》的当日刊，每日向读者推送全球科技领域最新动态，本期涉及两大核心议题，一是旨在帮助儿童度过多重危机的支持网络项目，二是氢能领域兴起的淘金热热潮。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-20T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77de5bf0",
+      "title": "人工智能为印度这座城市创造就业岗位",
+      "title_original": "The Indian City Where AI Is Creating Jobs for Humans",
+      "summary": "在快速发展的数据标注领域，印度南部一座小城市的从业者负责训练人工智能，优化人工智能完成传统上由人类承担的任务的能力，人工智能的发展反而为当地创造了新的就业机会。",
+      "summary_original": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T12:03:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "576bd5d4",
+      "title": "美国职业高尔夫协会新任CEO看好得克萨斯州高尔夫发展",
+      "title_original": "PGA of America's New CEO Is Bullish on Golf in Texas",
+      "summary": "美国职业高尔夫球协会首席执行官特里·克拉克接受彭博社记者朱莉·法因采访，访谈中谈及将在达拉斯郊区举办的2027年PGA锦标赛、高尔夫运动发展，以及下一届莱德杯赛事的筹备工作，相关内容源自彭博社。",
+      "summary_original": "Terry Clark, chief executive officer PGA of America, talks about the 2027 PGA Championship tournament in suburban Dallas, the growth of golf and planning for the next Ryder Cup competition. He speaks with Bloomberg's Julie Fine. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/pga-of-america-s-new-ceo-is-bullish-on-golf-in-texas",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T12:02:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9d65e752",
+      "title": "Meta智能眼镜成为职场威胁",
+      "title_original": "Meta glasses are a workplace menace",
+      "summary": "今年8月，塔吉特员工托鲁·辛克尔在门店理货时，遇到两名顾客反复要求对同一件商品重复核价。该事件引发争议，公众担忧搭载交互功能的Meta智能眼镜会扰乱职场正常秩序，成为职场隐患。",
+      "summary_original": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58939a42",
+      "title": "Slack推出协作式氛围编码频道",
+      "title_original": "Slack is launching collaborative vibe-coding channels",
+      "summary": "协作办公工具Slack推出全新Slack Code功能，上线专属协作编码频道，支持团队无需切换不同工具与对话，即可和AI智能体共同协作编码，还配备专属项目标签页，支持编码变更对比、项目上线前HTML输出预览等功能。",
+      "summary_original": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58939a42",
+      "title": "Slack推出协作式AI编码频道",
+      "title_original": "Slack is launching collaborative vibe-coding channels",
+      "summary": "协同办公工具Slack推出全新编码功能Slack Code，上线专门的协作编码频道，支持团队与AI智能体共同编码，无需在不同工具与对话间切换，还提供代码变更对比、项目发布前HTML输出预览等实用功能。",
+      "summary_original": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77318c7c",
+      "title": "乌克兰称其袭击俄罗斯塔内科炼油厂及小型石油码头",
+      "title_original": "Ukraine Says It Hit Russia’s Taneco Refinery, Small Oil Terminal",
+      "summary": "乌克兰夜间发动袭击，击中俄罗斯境内腹地的塔内科大型炼油厂，以及位于黑海的一座小型石油码头。当前俄罗斯正遭遇第二轮汽油短缺，此次袭击发生在俄国内汽油供应持续吃紧的背景下。",
+      "summary_original": "Ukraine said it hit a major refinery deep inside Russia and a small-size oil terminal on the Black Sea overnight, as Moscow battles a second wave of gasoline shortages.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/ukraine-says-it-hit-russia-s-taneco-refinery-small-oil-terminal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:57:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0fa45231",
+      "title": "委美石油交易仍笼罩在保密迷雾中",
+      "title_original": "Venezuela-US Oil Deals Remain Clouded in Secrecy",
+      "summary": "目前委内瑞拉与美国的石油交易已有企业陆续签署相关合同，不过整个交易流程透明度缺失，交易遵循的规则也不明确，全部核心信息都未对外公开，这场涉及两国的石油交易目前仍笼罩在保密迷雾之中。",
+      "summary_original": "While companies are signing contracts, the process is opaque and the rules are uncertain.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/venezuela-us-oil-deals-remain-clouded-in-secrecy",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:55:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "71ab9937",
+      "title": "美国公共债务首次突破40万亿美元",
+      "title_original": "US Public Debt Climbs Above $40 Trillion for the First Time",
+      "summary": "美国财政部周三发布数据显示，截至本周二收盘，美国公共债务总额达到40.05万亿美元，这是美国公共债务首次突破40万亿美元关口，该国债务规模在不到五年时间内已激增三分之一，相关消息源自彭博社，报道由泰勒·肯德尔在彭博电视台推出。",
+      "summary_original": "Total US public debt stood at $40.05 trillion as of the close of business Tuesday, a Treasury Department release on Wednesday showed, surging by a third in less than five years. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/us-public-debt-tops-40-trillion-for-the-first-time-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:53:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a38cc3eb",
+      "title": "回购带动的美国国债涨势降温 美国公共债务达40万亿美元 | 彭博简报 2026年8月20日",
+      "title_original": "Buyback-fueled Treasury Rally Cools; US Public Debt Hits $40T | Bloomberg Brief 08/20/2026",
+      "summary": "2026年8月20日彭博简报显示，美国财政部宣布增加长期债务回购计划后，美股期货震荡，长期美国国债反弹势头减弱。美国公共债务首次触及40万亿美元，特朗普总统威胁对伊朗发起针对其贸易伙伴的“经济D日”，法巴资管专家正探讨该回购计划的市场影响。",
+      "summary_original": "US equity futures waver and a rebound in long-dated Treasuries loses steam following US Treasury's announcement of plans to increase buybacks of longer-dated debt. US public debt hits $40 trillion for the first time. President Trump threatens an “economic D-Day” against Iran, targeting Tehran's trading partners. Sophie Huynh of BNP Paribas Asset Management discusses the market impact of the Treasury's buyback plans. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/bloomberg-brief-08-20-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:51:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d76d6751",
+      "title": "全球信贷巨头在印度市场不敌本土对手",
+      "title_original": "Global Credit Giants Lose Ground to Homegrown Rivals in India",
+      "summary": "印度本土私人信贷机构凭借规模更大的资金池，以及对大型交易日益增长的参与意愿，正从全球基金手中夺走越来越多印度本地放贷业务份额，全球信贷巨头在印度的市场空间正不断被本土对手挤压。",
+      "summary_original": "Homegrown private credit firms are wresting a growing share of India’s lending deals from global funds, armed with larger pools of capital and an increasing appetite for bigger transactions.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/global-credit-giants-lose-ground-to-homegrown-rivals-in-india",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:40:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e88946c",
+      "title": "原糖价格上涨 印度采购兴趣提振需求预期",
+      "title_original": "Raw Sugar Climbs as Indian Buying Interest Fuels Demand Hopes",
+      "summary": "印度国内原糖供应偏紧，市场预期该国将会下调进口关税，由此催生采购兴趣，受这一因素带动，原糖价格攀升至一年多以来的新高，整体市场需求预期获得提振。",
+      "summary_original": "Raw sugar climbed to the highest in more than a year, on signs of buying interest in India amid prospects of the country easing import duties because of tight supplies.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/raw-sugar-climbs-as-indian-buying-interest-fuels-demand-hopes",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T11:39:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "af6e97e9",
+      "title": "我用运动感应猫砂盆霓虹牌毁了我家猫的如厕时光",
+      "title_original": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "summary": "一名养猫者养了两只分别叫努德尔和洛夫的猫，两只猫一直过着低科技生活，从未接触过智能猫砂盆、自动喂食器、GPS定位器这类宠物科技产品，养猫者在猫砂盆处加装了一块运动感应霓虹发光牌，打乱了猫咪们的如厕时光。",
+      "summary_original": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T11:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f980b198",
+      "title": "六年之后，哈里梅根即将归国，变化几何？",
+      "title_original": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+      "summary": "离开英国六年后，哈里王子与梅根即将返回英国。就在去年，哈里王子还曾公开表示，自己无法想象带着家人回到英国生活。此番态度反转引发外界关注，众人好奇六年间究竟发生了哪些改变。",
+      "summary_original": "Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.",
+      "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T11:28:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3a0b7c77",
+      "title": "乌克兰应对防空短缺之际 基辅至少15人丧生",
+      "title_original": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "乌克兰官员披露，基辅周四遭遇大规模袭击，袭击目标涵盖当地公寓楼与仓库。本次袭击已造成至少15人死亡，当前乌克兰正面临防空力量短缺的困境，正全力应对相关防空缺口问题。",
+      "summary_original": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T11:06:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "75d91096",
+      "title": "那架教会我家猫为讨食弹琴的钢琴",
+      "title_original": "The piano that taught my cat to play for her supper",
+      "summary": "一名饲主分享，自家猫咪学会了坐在钢琴前弹琴，它会小心翼翼伸出爪子按压琴键，创作专属“灵魂音乐”。每当主人把吸尘器从柜子里取出，受惊的猫咪就会弹琴，主人戏称它是“饱受折磨的艺术家”，它还会为讨得食物弹琴。",
+      "summary_original": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "04e2a58d",
+      "title": "奥迪S6 Sportback E-tron证明轿车仍有存在价值",
+      "title_original": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "summary": "去年奥迪宣布放弃2033年全面电动化的计划，转而提供涵盖燃油、混动与电气化动力的多元产品。目前不少大型车企，尤其是大众集团旗下车企，对曾经许下的全面电动化承诺仍存不确定性，这款新车正是这一转型背景下的产物。",
+      "summary_original": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8b91ab18",
+      "title": "致敬医者仁心 乐山市中医医院举行2026年中国医师节表扬大会 - 四川在线",
+      "title_original": null,
+      "summary": "第九个中国医师节期间，多地医疗卫生机构及卫健系统开展相关主题活动。乐山市中医医院举行致敬医者仁心的表扬大会，北京中医医院、北京大学第三医院分别开展医师节庆祝活动，河北省卫生健康系统在石家庄举办先进典型代表记者见面会，多家媒体报道了相关活动。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fY0RRekZIcmppVFZyUG1hYmVqVzdaNE1jalJjcjVYdlA4ZXU3Q1I4TzM1RGFvQUttWnN3bmMxMzNSdzFYd2RueDVJaDF2NE1mYXRNU1pGcm56Nm1ZcjV1UlVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T10:48:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "49edc9ea",
+      "title": "特朗普称年内会金正恩 罕见评估朝鲜核武 - DW.com",
+      "title_original": null,
+      "summary": "美国总统特朗普称预计将于今年晚些时候也就是今秋会见朝鲜最高领导人金正恩，称双方关系融洽，还罕见评估了朝鲜核武。朝鲜方面金与正表示，对朝美领导人近期沟通事宜一无所知，该事件引发多国媒体关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFFMWTMxUEJ3LXptb3puMl82SS1uTEhsZUJELWpSdWtCbS05Z0p4RGdMNTIwemZDcEh1TWRKNGJQUlJNZ0JtQ0lZTkV4bVM5N3M0YnBxckJQS0hKeGtBWU1MMEk2RWdJMEh2M2xfVFhHWWRCZnVYVmdkZk1ZVFBJaVVZalIxNnRxWk8xc2EwUzczbHFnOUtOaXpXOXA1SUpxbkthSUFwam9BbWFkWDMzX29lb3JMVmNEcG9jNEZuYkd1TVlrZjRrNjZlV3RIVTNxbEx4bmd1VHltOEdvMm81Vlp1VU9RRm5fanhzSjFrUlh3cHYtaHlfTXZ4Z1ZSWF9MWVhnV3RmelI2Tk5RNkdOMy1ZS1lZOGNiY0xRWVR4Rzh3d9IBogJBVV95cUxPYWduZ2txVkZKZVpKTTBQWnRzVjQtUTBnZ1dKMzVmYVpvTDdncktVMzhHWS13Ym9zZjNBa2lTN25OV3ZhVDNZY0ltakd5aGhjZnB2SmI2YzNMdzVhN2o3dHgxNmk2RlZpdG1qc01mQl9LUDN4MjV0WDFCeXQwQ2tiOGdFSU5TVW5MdDVsRlFEbGtjdzhJZnVCZTJVQVdwdE9KYXNRLW4tWjZpd25zQ0w0M2ZQbjRiYWMtV2diTlhUVy1OV3h1LWxLQk9Dd2JmbFgzckJUZUZjNEIzZW9uU1ZKOHZFM3czS2MzTGRwRjMxMUtaSGpvZGVOV2FsTm9jelg0c3N5SzBNRmUzS2d2dFF0ZHpiSGpsU3ptUGFSa1pmSFp6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T10:35:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ffa4356b",
+      "title": "韩方称中方积极考虑安排中韩领导人在APEC会议期间会晤 中方回应 - 东方财富",
+      "title_original": null,
+      "summary": "王毅近期访问韩国，同韩国外长赵显举行会谈，还获韩国总统李在明会见。韩方称中方正积极考虑安排中韩领导人在APEC会议期间会晤，另有消息显示中方称积极考虑安排两国领导人11月在深圳会晤，此次双方互动氛围友好。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdGVkRnhwYWhpY19odU1vblE3UVhpX096cWdxOU5LQkNWWVE3OWRsTk05MXJVWklzLXpaanhob2NNVVdTeVRSQ25kS2ZHRWp3Q3RqMnpLdlhFXzd2UHBLX3V3OHlCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T10:31:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "80679796",
+      "title": "中国判处恒大创始人无期徒刑",
+      "title_original": "China Sentences Evergrande Founder to Life in Prison",
+      "summary": "恒大创始人许家印已被判处无期徒刑，该判决标志着这个曾经庞大的地产帝国正式落幕。恒大集团的崩盘此前引发了中国经济领域一场持续已久的危机，此次判决是这一事件处理的标志性结果。",
+      "summary_original": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-evergrande-prison-mbhw/20biz-evergrande-prison-mbhw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T10:28:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b9f31e73",
+      "title": "比利时汽车销售员经王室血缘确认后成为王子",
+      "title_original": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "summary": "近日，比利时一名从事汽车销售的男子克莱蒙·范登科霍夫，经确认拥有王室血缘后，已在一场市政厅仪式中被低调纳入比利时洛朗王子的家族，正式成为王子。",
+      "summary_original": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T10:14:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "eaf9f8ba",
+      "title": "赞比亚前部长在安全部队突袭反对派行动中身亡",
+      "title_original": "Ex-Zambian minister killed in security raid on opposition",
+      "summary": "赞比亚前部长穆托特韦·卡夫维亚在安全部队针对反对派发起的突袭行动中身亡，目前警方已经确认了这一死讯。死讯公布之前，公众就卡夫维亚的下落已经提出了越来越多的信息公开要求。",
+      "summary_original": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feda/live/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T10:07:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "01707625",
+      "title": "森海塞尔全新Momentum 5耳塞配备易更换电池",
+      "title_original": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+      "summary": "森海塞尔推出全新旗舰真无线耳塞Momentum True Wireless 5，本次重新设计主打可持续理念，官方称新品提升了佩戴舒适性、稳定性与便携性，最大亮点为配备可轻松更换的电池，用户无需因电池衰减在数年后更换整副耳机。",
+      "summary_original": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but a more compelling reason to upgrade is that you won't have to replace them in a few years when they stop [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "20d0e9fe",
+      "title": "氢能领域下一个重大机遇或藏于地下",
+      "title_original": "The next big thing in hydrogen could be underground",
+      "summary": "目前全球正探寻新型氢能来源，氢能可作为燃料应用于重型卡车、飞机、钢铁生产等诸多领域，因燃烧后仅生成水，被视作应对气候变化的解决方案，氢能或是生成氢能的适宜条件，很可能就隐藏在地下。",
+      "summary_original": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e20d8152",
+      "title": "中国官媒头版提“旗帜鲜明反对伪史论” 历史内容审核收紧 - 联合早报",
+      "title_original": null,
+      "summary": "近期中国社交媒体上出现“唐朝不存在”这类伪史论调引发热议，《中国社会科学报》等官方媒体在头版刊文，梳理该论调的炮制过程，旗帜鲜明批驳反对伪史论，有信息显示国内历史内容审核将收紧，该事件也引发境外媒体关注报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41bGxjaU1aY3FrNTA3ZDJZMGhydnpjM1p3UXhVclF6VEg2a1BOTXRzLXNBelN6S1pJNTJuZVNZLU14SnZkZXpRYUM2NVVzQlVqdllaajhJZUlUbmpQV2ctdHZ2UkhNZklmenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T09:50:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "546c18a8",
+      "title": "借助市场模型发掘隐藏收入流",
+      "title_original": "Unlocking hidden revenue streams with market models",
+      "summary": "航空公司每日执飞数百航班，承运数万名乘客，不少行程并非点对点直飞，乘客需多次中转。航空公司为各行程定价时，需考虑数百种潜在变量，涵盖出行需求、季节、时段、时事、全球市场以及竞争航司的运营动态等。",
+      "summary_original": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-20T09:47:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "be869c41",
+      "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统 - 新华网",
+      "title_original": null,
+      "summary": "习近平致电祝贺希奇莱马当选连任赞比亚总统&nbsp;&nbsp;新华网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iT3dSS3dBUmZlLU9vRG83NTh3U1ZLaUFSSjJXZUg0VTlHSkxrSGZGVUZjN1J2S1EzWEFYTzN5bDdtYWtsNDkzSVBoV0hmdFIwTjFlS181SjhmZEcwejJSMTVQR2xYM0lkUXpjdVNETWtacEVxakZFS0lDMENzMGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T09:44:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ad5059a2",
+      "title": "币安开放AI智能体交易 管控责任主要由用户承担",
+      "title_original": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "全球知名加密资产交易平台币安推出Agent OS系统，该系统可兼容ChatGPT、Claude Code、Cursor等多款主流AI工具，现已正式支持AI智能体开展交易操作，目前管控责任主要由用户自行承担。",
+      "summary_original": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-20T09:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ad5059a2",
+      "title": "币安开放AI智能体交易 管控主要由用户负责",
+      "title_original": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "全球知名加密货币交易平台币安推出Agent操作系统，该系统可对接ChatGPT、Claude Code、Cursor等多款AI工具，目前已开放AI智能体交易功能，对AI智能体交易行为的监督管控主要由用户自行负责。",
+      "summary_original": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-20T09:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9879b732",
+      "title": "杂货货架空置成为乌克兰人战时新苦难",
+      "title_original": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+      "summary": "俄罗斯多年来持续打击乌克兰的发电厂与城市，目前其空中打击已将目标对准乌克兰的超市仓库。当地因此出现食品供应缺口，杂货店铺货架空空，这已成为乌克兰民众在战争中遭遇的全新生存苦难。",
+      "summary_original": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T09:28:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58575e95",
+      "title": "特朗普承诺对伊朗及其支持国采取更严厉经济措施",
+      "title_original": "Trump vows tougher economic measures on Iran and supporting countries",
+      "summary": "特朗普承诺对伊朗及其支持该国的国家采取更严厉经济措施，这一表态出炉于相关冲突为期60天的停火周一到期之后，目前该冲突尚未出现外交或军事层面的缓和解决路径。",
+      "summary_original": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T09:13:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7847a003",
+      "title": "LG OLED技术新突破可延长显示屏寿命",
+      "title_original": "LG’s new OLED breakthrough can boost display lifespans",
+      "summary": "LG Display推出全新OLED制造技术，该技术命名为FLiPP，被称作“梦想中的下一代OLED”像素图案化技术。新技术产出的面板亮度更高、寿命更长、能效更优，理论上可制成几乎任意尺寸，旨在解决现有制造工艺的部分问题。",
+      "summary_original": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \"dream next-generation OLED\" patterning method that aims to eliminate some of the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-20T09:11:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3863328a",
+      "title": "伊美陷入不安对峙，谁将率先让步？",
+      "title_original": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "summary": "数周以来，伊朗与美国陷入对峙僵局，双方既未取得任何外交进展，也未爆发全面战争。两国均认为自身能够比对方坚持更久，当前双方陷入态势紧绷的不稳定僵持，外界关注哪一方会率先让步打破当前格局。",
+      "summary_original": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as both sides seem to believe they can hold out longer than the other.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T09:04:07+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f13376a8",
+      "title": "支持网络旨在帮助儿童度过多重危机",
+      "title_original": "Support networks aim to help kids through the polycrisis",
+      "summary": "目前已有相关支持网络推出项目，旨在帮助儿童度过多重危机。该项目发起人皮姆·沙利文-泰勒的相关意识起源于2000年代末：当时年仅六岁的她乘车前往泰国南部小镇途中，发现窗外巍峨山脉正遭到开采，这份超出年龄认知的冲击给她留下了深刻影响。",
+      "summary_original": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "84a72ffd",
+      "title": "中国已成为厄瓜多尔第二大贸易伙伴 - 新华网",
+      "title_original": null,
+      "summary": "中国已成为厄瓜多尔第二大贸易伙伴，厄瓜多尔总统诺沃亚来访期间，国务院总理李强与其会见。厄方称愿做中国在太平洋另一端的可靠朋友，双方强调中厄合作互利共赢，该合作可为中拉关系发展提供新样板，相关互动引发多方关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZ1ZVNzhNemtKRFVnU0RYUDV3MjFIN2xjLXAzWGpLcEl2aGVlTXZRcHZRdTRTN3NiRzNaaUd6ZC1NSU9QOUxsUU85RlBOYUN4ZWxNWldySXFvUktMcGJMMFMyLWN0SVMxZm9jUXI5dGh6ZW1EN0cwc2RmdVZ3QzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T08:55:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ad41a454",
+      "title": "许家印被判无期徒刑！两儿子判有期，恒大案“剧终” - 网易新闻客户端",
+      "title_original": null,
+      "summary": "备受关注的恒大案已审理终结，许家印被判处无期徒刑，其两名儿子被判处有期徒刑，恒大集团被处以近160亿元人民币罚款。该案引发多家境内外媒体聚焦报道，这一引发广泛关注的大案正式落下帷幕。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2l4OWVpUWZWOTFOTGcybF93X29vYjZrRHZIV1ExdE5tajBLeXNFUndvdDBzTEU2b2ZXOEFtWXdOLXI0dTI0Rkx1VnBxclc2X0Nsc3ZBSkNnMG52elBNN3RnNkZmX0FlMm1SNmhEdm9XcE5jSEN0MS1SWXI5M0J0UHNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T08:27:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e1f197de",
+      "title": "国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "国务院、中央军委作出表彰决定，向圆满完成载人航天飞行任务、助力刷新中国航天员在轨驻留纪录的航天员张陆颁发“二级航天功勋奖章”，授予武飞、张洪章“英雄航天员”荣誉称号，同时为二人颁发“三级航天功勋奖章”。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX3E0cXY2MUdRMVBwcUVsZTlTUDhDamwybVZyd2h1azBZa1FPdXlDTC15dnh4Z0FLMmhIekJBMnMwRlZPX1R6dUtYRllMekZuX1RPdDNLZ2FMVGpBQkFqeF93UV8yVlBE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T08:25:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d943ab90",
+      "title": "以色列决定不对加沙援助人员遇害案展开刑事调查 澳大利亚“震怒”",
+      "title_original": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "summary": "澳大利亚籍援助人员佐米·弗兰克姆在加沙遇害，以色列作出不对该案展开刑事调查的决定，澳方认为这一决定带有侮辱性，澳大利亚外交部长已就此召见以色列大使，表达澳方的愤怒与不满。",
+      "summary_original": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T07:33:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dbd0dbb9",
+      "title": "检方告知上诉法院：毒蘑菇杀手罪行‘极其骇人’ 必须终身监禁",
+      "title_original": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "summary": "涉毒蘑菇杀人案的凶手艾琳·帕特森，原判决为其留有假释可能。检方不服该判决，认为原判‘明显量刑不当’，已向上诉法院提出主张，要求改判凶手终身监禁不得出狱。",
+      "summary_original": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T07:08:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c7e07c9d",
+      "title": "中国破产房企巨头恒大创始人被判终身监禁",
+      "title_original": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "中国曾经的头部房企巨头恒大已经破产，其创始人许家印日前被判处终身监禁。此次判决是恒大崩塌后行业风波发酵过程中的关键节点，恒大的暴雷崩塌曾深刻震动整个中国房地产行业。",
+      "summary_original": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T06:08:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "47294d09",
+      "title": "八天搜寻后，失踪少年徒步者在澳大利亚丛林被发现身亡",
+      "title_original": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "summary": "一名青少年徒步者莉莉·胡珀在澳大利亚丛林失踪后，当地展开了为期八天的搜寻工作。该州州长最初对外宣布莉莉已被寻获且存活，随后警方发布确认信息，证实莉莉已经死亡。",
+      "summary_original": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T05:45:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b65b2229",
+      "title": "以色列确认士兵向辛德·拉贾布遇害时所乘车辆开火 已启动刑事调查",
+      "title_original": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "五岁巴勒斯坦女童辛德·拉贾布遭袭击后最初仍存活，曾对外求救，随后人们找到了她与六名亲属的遗体。以色列已确认涉事士兵向该女童所乘车辆开火，目前已针对这起事件启动刑事调查。",
+      "summary_original": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T04:17:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4d475fff",
+      "title": "讨厌抹茶热爱生活，89岁老人成TikTok网红",
+      "title_original": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "summary": "89岁的德国老人维尔纳·卡莱辛斯基，是深受当地年轻人喜爱的社交媒体红人。他曾是伤心丧偶的鳏夫，凭借讨厌抹茶却依然热爱生活的个人特质走红TikTok，如今还登上游艇开启派对生活。",
+      "summary_original": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?",
+      "image": "https://static01.nyt.com/images/2026/08/11/12int-germany-grandpa-profile-75573-cover/12int-germany-grandpa-profile-75573-cover-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T04:01:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e6f2a388",
+      "title": "剧情拙劣画质更差：中国观众追捧低成本爆款影片",
+      "title_original": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "summary": "低成本影片《牛来了》以像素化画面制作，虽制作粗糙，却在人工智能大行其道的当下，凭借突出的真实性获得中国观众认可，正逐渐成为深受Z世代喜爱的亚文化经典，收获了大量关注度。",
+      "summary_original": "With its pixelated visuals, “The Bull is Coming” is being celebrated for its authenticity in the age of A.I. and is shaping up to be a Gen Z cult classic.",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-china-movie-ghwc/20int-china-movie-ghwc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-20T04:01:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0cd6bd75",
+      "title": "海冰消融 巨鲸迁入格陵兰海域",
+      "title_original": "Giant whales move into Greenland waters as ice disappears",
+      "summary": "受气候变化影响，格陵兰海域海冰不断融化，原本被海冰封锁的大片水域变为开放水域，为大型鲸类进入该区域提供了条件，大批巨鲸现已迁入格陵兰海域，在此开启大规模疯狂进食活动。",
+      "summary_original": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-20T02:05:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d076a419",
+      "title": "新加坡警方着手调查贸易商Radiant World",
+      "title_original": "Singapore Police Begin Looking Into Trader Radiant World",
+      "summary": "铁矿石贸易商Radiant World的多家交易对手方提出该公司涉嫌伪造文件，引发行业担忧，美国已率先就此启动相关调查，目前新加坡警方也正式介入，对该贸易商展开调查。",
+      "summary_original": "Singapore’s police has begun looking into Radiant World, adding to US probes initiated after some of the iron ore trader’s counterparties raised concerns about allegedly falsified documents.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/singapore-authorities-begin-looking-into-trader-radiant-world",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-20T01:59:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55a632bf",
+      "title": "降半旗致哀！日方高规格悼念，首相高市早苗与外相茂木敏充双双致唁电 - 红歌会网",
+      "title_original": null,
+      "summary": "降半旗致哀！日方高规格悼念，首相高市早苗与外相茂木敏充双双致唁电&nbsp;&nbsp;红歌会网朱镕基在京火化：从民间悼念到八宝山公墓，中国领导人“身后事”的政治逻辑&nbsp;&nbsp;BBC朱镕基同志生平照片&nbsp;&nbsp;新华网胡平：朱镕基一语成谶 中共因搞坏香港成”民族罪人”&nbsp;&nbsp;美国之音朱镕基同志生平&nbsp;&nbsp;人民日报",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcE1xdmJOUVRGdzZRaS11clBnUm82d0FWbWlqMlh0a0lldXVSNFktekVSTVZLMnNTMHV2LWg4SVdDa1k4OUNQaHdweERYSnhwVHFfNjl0YTBVcWM1RVV6aXU3b3hhcWlCd2xudTBlaVRpeHpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-20T01:03:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb462402",
+      "title": "贵州村舞惊艳亮相北京现场座无虚席 民族风情圈粉无数 - 中华网",
+      "title_original": null,
+      "summary": "贵州黔西南本土打造的“村舞”歌舞剧《锦·蓝》，亮相第七届全国少数民族文艺会演，成功登上北京国家舞台开演。演出现场座无虚席，这部作品饱含浓郁贵州民族风情，演出效果震撼，凭借独特魅力圈粉无数，引发多家媒体关注报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZlFvZGhjYWZDY012YmlVVnI2aVF4Qm1RSUpiUWpmcXdnVW01U1o4R2tDLU9iWEpjSDBnOWstOU5qV2N6YU1FTVJsMWpyQTlmNEpZWXVhQzR5d09HZFFlOWdjdk5DUWE4SVlucjJlNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-19T23:51:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a21a23f8",
+      "title": "美国财政部突发债券举措后金价逼近4500美元",
+      "title_original": "Gold Trades Near $4,500 After US Treasury’s Surprise Bond Move",
+      "summary": "美国财政部出人意料推出债券相关调整举措，旨在遏制长期借贷成本。受该消息推动，黄金录得半年来最大涨幅，目前金价基本维持住这一涨幅，当前交易价格已逼近4500美元关口。",
+      "summary_original": "Gold largely held on to its biggest gain in six months, following the US Treasury’s surprise move to rein in long-term borrowing costs.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-19T23:34:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "42bbaa08",
+      "title": "Stripe收购OpenRouter并非真因“奇点”",
+      "title_original": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "支付巨头Stripe收购了一家可在不同AI模型之间转接提示请求的初创企业OpenRouter。Stripe对外称此次收购的原因是“奇点”，但实际上这笔收购背后有着更为现实且影响力更大的真实动因，外界关注这家头部支付巨头布局AI领域的真实逻辑。",
+      "summary_original": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-19T23:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "42bbaa08",
+      "title": "Stripe收购OpenRouter并非真因“奇点”",
+      "title_original": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "支付巨头Stripe收购了一家可在不同AI模型间路由提示词的初创企业OpenRouter。Stripe对外称此次收购的动因是“奇点”，但实际上，本次收购背后存在更为现实、影响力更大的真实原因。",
+      "summary_original": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-19T23:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c204a9e3",
+      "title": "给相机装上翅膀能规避FCC的无人机禁令吗？",
+      "title_original": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "summary": "无人机品牌HoverAir向来主打新奇设计，曾推出可折叠便携、可水上降落、可在收纳盒充电的机型。该品牌最新动作风险极高，正试图绕开美国联邦通信委员会FCC，规避美国2025年12月出台的外国无人机新禁令。",
+      "summary_original": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-19T22:35:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0d7656e7",
+      "title": "Waymo成本更低的新一代无人出租车现已对这三座城市所有乘客开放",
+      "title_original": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "summary": "自动驾驶企业Waymo推出成本更低的新一代无人出租车Waymo Ojai，该车型是Waymo推进业务规模化发展、最终实现盈利目标的核心布局，目前已对三座城市的所有乘客开放乘坐。",
+      "summary_original": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-19T22:25:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14238218",
+      "title": "市场综述：油价攀升 股市下跌 国债涨势消退",
+      "title_original": "Stocks Fall and Treasury Rally Fades as Oil Climbs: Markets Wrap",
+      "summary": "油价上涨令通胀风险重新回到投资者的关注视野，受此影响，原本出现反弹的美国长期国债涨势消退，美国股票期货也出现下跌，全球资本市场因此出现了本轮明显的波动调整。",
+      "summary_original": "A rebound in long-dated Treasuries faded and US stock futures fell as rising oil prices put inflation risks back on investors’ radar.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-19T22:12:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d306eafa",
+      "title": "OpenAI推出新客户隐私保护，欲赶超Anthropic",
+      "title_original": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "当前生成式AI领域的OpenAI与Anthropic正就企业客户数据隐私保护展开竞争，比拼谁能提供更优质的隐私保护服务。OpenAI此次推出全新客户隐私保护措施，意图在这场竞争中赶超对手，抢占竞争优势。",
+      "summary_original": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-19T22:10:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d306eafa",
+      "title": "OpenAI推出全新客户隐私保护举措 欲赶超Anthropic",
+      "title_original": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "当前，OpenAI与Anthropic正围绕企业客户数据隐私保护展开竞争，比拼谁能为企业客户数据提供更优质的保护方案。OpenAI推出全新客户隐私保护举措，试图以此超越竞争对手，抢占竞争优势。",
+      "summary_original": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-19T22:10:46+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "d90db7d8",
+      "title": "乌克兰防空力量吃紧 俄导弹袭击基辅致至少15人死亡",
+      "summary": "俄罗斯利用乌克兰防空拦截弹储备枯竭的状况加大对乌袭击力度，俄军对基辅发动的导弹袭击已造成至少15人死亡，袭击强度持续提升，使得乌克兰平民死亡人数进一步攀升。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e843bf7e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e843bf7e",
+          "source": "NYTimes World",
+          "title": "乌克兰防空力量吃紧 俄导弹袭击基辅致至少15人死亡",
+          "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+          "published_at": "2026-08-20T12:13:01+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:13:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d968680",
+      "title": "Meta AI全新Mac应用支持用户与应用语音对话",
+      "summary": "Meta推出适配Mac平台的全新AI应用，支持用户通过语音与设备上的各类应用交互。Meta官方表示，这款新应用的听写功能，由其自研的Muse Spark模型提供技术支撑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "aca5b202"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "aca5b202",
+          "source": "TechCrunch",
+          "title": "Meta AI全新Mac应用支持用户与应用语音对话",
+          "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "published_at": "2026-08-20T12:11:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:11:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d968680",
+      "title": "Meta AI全新Mac应用支持与应用语音对话",
+      "summary": "Meta推出适配Mac平台的全新AI应用，主打语音交互功能，支持用户通过语音同设备内的各类应用互动。Meta表示，该应用的核心听写功能由其自研的Muse Spark模型提供技术支撑。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "aca5b202"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "aca5b202",
+          "source": "TechCrunch AI",
+          "title": "Meta AI全新Mac应用支持与应用语音对话",
+          "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+          "published_at": "2026-08-20T12:11:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:11:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb93a096",
+      "title": "MIT科技评论刊文关注帮扶儿童渡多重危机支持网络及氢能淘金热",
+      "summary": "MIT科技评论旗下每日科技通讯《The Download》本期涵盖两大核心议题，一是皮姆·沙利文-泰勒发起的帮扶儿童度过多重危机的支持网络项目，发起人相关理念源于童年的特殊经历，二是氢能领域兴起的淘金热。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "4ad78b2d",
+        "f13376a8"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "4ad78b2d",
+          "source": "MIT Technology Review",
+          "title": "今日下载：多重危机支持网络与氢能淘金热",
+          "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+          "published_at": "2026-08-20T12:10:00+00:00"
+        },
+        {
+          "id": "f13376a8",
+          "source": "MIT Technology Review",
+          "title": "支持网络旨在帮助儿童度过多重危机",
+          "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+          "published_at": "2026-08-20T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:10:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "1748cb94",
+      "title": "人工智能为印度这座城市创造就业岗位",
+      "summary": "在快速发展的数据标注领域，印度南部一座小城市的从业者负责训练人工智能，优化人工智能完成传统上由人类承担的任务的能力，人工智能的发展反而为当地创造了新的就业机会。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "77de5bf0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "77de5bf0",
+          "source": "NYTimes World",
+          "title": "人工智能为印度这座城市创造就业岗位",
+          "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+          "published_at": "2026-08-20T12:03:58+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:03:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c18f90a9",
+      "title": "美国职业高尔夫协会新任CEO看好得克萨斯州高尔夫发展",
+      "summary": "美国职业高尔夫球协会首席执行官特里·克拉克接受彭博社记者朱莉·法因采访，访谈中谈及将在达拉斯郊区举办的2027年PGA锦标赛、高尔夫运动发展，以及下一届莱德杯赛事的筹备工作，相关内容源自彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "576bd5d4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "576bd5d4",
+          "source": "Bloomberg",
+          "title": "美国职业高尔夫协会新任CEO看好得克萨斯州高尔夫发展",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-20/pga-of-america-s-new-ceo-is-bullish-on-golf-in-texas",
+          "published_at": "2026-08-20T12:02:23+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:02:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f03fa9de",
+      "title": "Meta智能眼镜成为职场威胁",
+      "summary": "今年8月，塔吉特员工托鲁·辛克尔在门店理货时，遇到两名顾客反复要求对同一件商品重复核价。该事件引发争议，公众担忧搭载交互功能的Meta智能眼镜会扰乱职场正常秩序，成为职场隐患。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9d65e752"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9d65e752",
+          "source": "The Verge",
+          "title": "Meta智能眼镜成为职场威胁",
+          "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+          "published_at": "2026-08-20T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10ac9f0f",
+      "title": "Slack推出协作式氛围编码频道",
+      "summary": "协作办公工具Slack推出全新Slack Code功能，上线专属协作编码频道，支持团队无需切换不同工具与对话，即可和AI智能体共同协作编码，还配备专属项目标签页，支持编码变更对比、项目上线前HTML输出预览等功能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "58939a42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "58939a42",
+          "source": "The Verge",
+          "title": "Slack推出协作式氛围编码频道",
+          "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+          "published_at": "2026-08-20T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10ac9f0f",
+      "title": "Slack推出协作式AI编码频道",
+      "summary": "协同办公工具Slack推出全新编码功能Slack Code，上线专门的协作编码频道，支持团队与AI智能体共同编码，无需在不同工具与对话间切换，还提供代码变更对比、项目发布前HTML输出预览等实用功能。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "58939a42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "58939a42",
+          "source": "The Verge AI",
+          "title": "Slack推出协作式AI编码频道",
+          "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+          "published_at": "2026-08-20T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5f95b12",
+      "title": "乌克兰称其袭击俄罗斯塔内科炼油厂及小型石油码头",
+      "summary": "乌克兰夜间发动袭击，击中俄罗斯境内腹地的塔内科大型炼油厂，以及位于黑海的一座小型石油码头。当前俄罗斯正遭遇第二轮汽油短缺，此次袭击发生在俄国内汽油供应持续吃紧的背景下。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "77318c7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "77318c7c",
+          "source": "Bloomberg",
+          "title": "乌克兰称其袭击俄罗斯塔内科炼油厂及小型石油码头",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/ukraine-says-it-hit-russia-s-taneco-refinery-small-oil-terminal",
+          "published_at": "2026-08-20T11:57:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:57:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4faeb444",
+      "title": "委美石油交易仍笼罩在保密迷雾中",
+      "summary": "目前委内瑞拉与美国的石油交易已有企业陆续签署相关合同，不过整个交易流程透明度缺失，交易遵循的规则也不明确，全部核心信息都未对外公开，这场涉及两国的石油交易目前仍笼罩在保密迷雾之中。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0fa45231"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0fa45231",
+          "source": "Bloomberg",
+          "title": "委美石油交易仍笼罩在保密迷雾中",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/venezuela-us-oil-deals-remain-clouded-in-secrecy",
+          "published_at": "2026-08-20T11:55:51+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:55:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3f290bcb",
+      "title": "美国公共债务首次突破40万亿美元",
+      "summary": "美国财政部周三发布数据显示，截至本周二收盘，美国公共债务总额达到40.05万亿美元，这是美国公共债务首次突破40万亿美元关口，该国债务规模在不到五年时间内已激增三分之一，相关消息源自彭博社，报道由泰勒·肯德尔在彭博电视台推出。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "71ab9937"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "71ab9937",
+          "source": "Bloomberg",
+          "title": "美国公共债务首次突破40万亿美元",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-20/us-public-debt-tops-40-trillion-for-the-first-time-video",
+          "published_at": "2026-08-20T11:53:27+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:53:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac8845a9",
+      "title": "回购带动的美国国债涨势降温 美国公共债务达40万亿美元 | 彭博简报 2026年8月20日",
+      "summary": "2026年8月20日彭博简报显示，美国财政部宣布增加长期债务回购计划后，美股期货震荡，长期美国国债反弹势头减弱。美国公共债务首次触及40万亿美元，特朗普总统威胁对伊朗发起针对其贸易伙伴的“经济D日”，法巴资管专家正探讨该回购计划的市场影响。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a38cc3eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a38cc3eb",
+          "source": "Bloomberg",
+          "title": "回购带动的美国国债涨势降温 美国公共债务达40万亿美元 | 彭博简报 2026年8月20日",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-20/bloomberg-brief-08-20-2026-video",
+          "published_at": "2026-08-20T11:51:48+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:51:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3f445cdd",
+      "title": "全球信贷巨头在印度市场不敌本土对手",
+      "summary": "印度本土私人信贷机构凭借规模更大的资金池，以及对大型交易日益增长的参与意愿，正从全球基金手中夺走越来越多印度本地放贷业务份额，全球信贷巨头在印度的市场空间正不断被本土对手挤压。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d76d6751"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d76d6751",
+          "source": "Bloomberg",
+          "title": "全球信贷巨头在印度市场不敌本土对手",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/global-credit-giants-lose-ground-to-homegrown-rivals-in-india",
+          "published_at": "2026-08-20T11:40:42+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:40:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b2e9b7e0",
+      "title": "原糖价格上涨 印度采购兴趣提振需求预期",
+      "summary": "印度国内原糖供应偏紧，市场预期该国将会下调进口关税，由此催生采购兴趣，受这一因素带动，原糖价格攀升至一年多以来的新高，整体市场需求预期获得提振。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "3e88946c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3e88946c",
+          "source": "Bloomberg",
+          "title": "原糖价格上涨 印度采购兴趣提振需求预期",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/raw-sugar-climbs-as-indian-buying-interest-fuels-demand-hopes",
+          "published_at": "2026-08-20T11:39:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:39:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ac829e4",
+      "title": "我用运动感应猫砂盆霓虹牌毁了我家猫的如厕时光",
+      "summary": "一名养猫者养了两只分别叫努德尔和洛夫的猫，两只猫一直过着低科技生活，从未接触过智能猫砂盆、自动喂食器、GPS定位器这类宠物科技产品，养猫者在猫砂盆处加装了一块运动感应霓虹发光牌，打乱了猫咪们的如厕时光。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "af6e97e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "af6e97e9",
+          "source": "The Verge",
+          "title": "我用运动感应猫砂盆霓虹牌毁了我家猫的如厕时光",
+          "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+          "published_at": "2026-08-20T11:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "88e2523a",
+      "title": "六年之后，哈里梅根即将归国，变化几何？",
+      "summary": "离开英国六年后，哈里王子与梅根即将返回英国。就在去年，哈里王子还曾公开表示，自己无法想象带着家人回到英国生活。此番态度反转引发外界关注，众人好奇六年间究竟发生了哪些改变。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f980b198"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f980b198",
+          "source": "NYTimes World",
+          "title": "六年之后，哈里梅根即将归国，变化几何？",
+          "link": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+          "published_at": "2026-08-20T11:28:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:28:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4919c88",
+      "title": "乌克兰应对防空短缺之际 基辅至少15人丧生",
+      "summary": "乌克兰官员披露，基辅周四遭遇大规模袭击，袭击目标涵盖当地公寓楼与仓库。本次袭击已造成至少15人死亡，当前乌克兰正面临防空力量短缺的困境，正全力应对相关防空缺口问题。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "article_ids": [
+        "3a0b7c77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3a0b7c77",
+          "source": "BBC World",
+          "title": "乌克兰应对防空短缺之际 基辅至少15人丧生",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T11:06:54+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:06:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30fbd323",
+      "title": "那架教会我家猫为讨食弹琴的钢琴",
+      "summary": "一名饲主分享，自家猫咪学会了坐在钢琴前弹琴，它会小心翼翼伸出爪子按压琴键，创作专属“灵魂音乐”。每当主人把吸尘器从柜子里取出，受惊的猫咪就会弹琴，主人戏称它是“饱受折磨的艺术家”，它还会为讨得食物弹琴。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "75d91096"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "75d91096",
+          "source": "The Verge",
+          "title": "那架教会我家猫为讨食弹琴的钢琴",
+          "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+          "published_at": "2026-08-20T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "66590137",
+      "title": "奥迪S6 Sportback E-tron证明轿车仍有存在价值",
+      "summary": "去年奥迪宣布放弃2033年全面电动化的计划，转而提供涵盖燃油、混动与电气化动力的多元产品。目前不少大型车企，尤其是大众集团旗下车企，对曾经许下的全面电动化承诺仍存不确定性，这款新车正是这一转型背景下的产物。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "04e2a58d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "04e2a58d",
+          "source": "The Verge",
+          "title": "奥迪S6 Sportback E-tron证明轿车仍有存在价值",
+          "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+          "published_at": "2026-08-20T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b70cf870",
+      "title": "致敬医者仁心 乐山市中医医院举行2026年中国医师节表扬大会 - 四川在线",
+      "summary": "第九个中国医师节期间，多地医疗卫生机构及卫健系统开展相关主题活动。乐山市中医医院举行致敬医者仁心的表扬大会，北京中医医院、北京大学第三医院分别开展医师节庆祝活动，河北省卫生健康系统在石家庄举办先进典型代表记者见面会，多家媒体报道了相关活动。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8b91ab18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8b91ab18",
+          "source": "Google News (中国)",
+          "title": "致敬医者仁心 乐山市中医医院举行2026年中国医师节表扬大会 - 四川在线",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fY0RRekZIcmppVFZyUG1hYmVqVzdaNE1jalJjcjVYdlA4ZXU3Q1I4TzM1RGFvQUttWnN3bmMxMzNSdzFYd2RueDVJaDF2NE1mYXRNU1pGcm56Nm1ZcjV1UlVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T10:48:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:48:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7de9b3e6",
+      "title": "特朗普称年内会金正恩 罕见评估朝鲜核武 - DW.com",
+      "summary": "美国总统特朗普称预计将于今年晚些时候也就是今秋会见朝鲜最高领导人金正恩，称双方关系融洽，还罕见评估了朝鲜核武。朝鲜方面金与正表示，对朝美领导人近期沟通事宜一无所知，该事件引发多国媒体关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "49edc9ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "49edc9ea",
+          "source": "Google News (中国)",
+          "title": "特朗普称年内会金正恩 罕见评估朝鲜核武 - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFFMWTMxUEJ3LXptb3puMl82SS1uTEhsZUJELWpSdWtCbS05Z0p4RGdMNTIwemZDcEh1TWRKNGJQUlJNZ0JtQ0lZTkV4bVM5N3M0YnBxckJQS0hKeGtBWU1MMEk2RWdJMEh2M2xfVFhHWWRCZnVYVmdkZk1ZVFBJaVVZalIxNnRxWk8xc2EwUzczbHFnOUtOaXpXOXA1SUpxbkthSUFwam9BbWFkWDMzX29lb3JMVmNEcG9jNEZuYkd1TVlrZjRrNjZlV3RIVTNxbEx4bmd1VHltOEdvMm81Vlp1VU9RRm5fanhzSjFrUlh3cHYtaHlfTXZ4Z1ZSWF9MWVhnV3RmelI2Tk5RNkdOMy1ZS1lZOGNiY0xRWVR4Rzh3d9IBogJBVV95cUxPYWduZ2txVkZKZVpKTTBQWnRzVjQtUTBnZ1dKMzVmYVpvTDdncktVMzhHWS13Ym9zZjNBa2lTN25OV3ZhVDNZY0ltakd5aGhjZnB2SmI2YzNMdzVhN2o3dHgxNmk2RlZpdG1qc01mQl9LUDN4MjV0WDFCeXQwQ2tiOGdFSU5TVW5MdDVsRlFEbGtjdzhJZnVCZTJVQVdwdE9KYXNRLW4tWjZpd25zQ0w0M2ZQbjRiYWMtV2diTlhUVy1OV3h1LWxLQk9Dd2JmbFgzckJUZUZjNEIzZW9uU1ZKOHZFM3czS2MzTGRwRjMxMUtaSGpvZGVOV2FsTm9jelg0c3N5SzBNRmUzS2d2dFF0ZHpiSGpsU3ptUGFSa1pmSFp6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T10:35:42+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:35:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a94fe584",
+      "title": "韩方称中方积极考虑安排中韩领导人在APEC会议期间会晤 中方回应 - 东方财富",
+      "summary": "王毅近期访问韩国，同韩国外长赵显举行会谈，还获韩国总统李在明会见。韩方称中方正积极考虑安排中韩领导人在APEC会议期间会晤，另有消息显示中方称积极考虑安排两国领导人11月在深圳会晤，此次双方互动氛围友好。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ffa4356b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ffa4356b",
+          "source": "Google News (中国)",
+          "title": "韩方称中方积极考虑安排中韩领导人在APEC会议期间会晤 中方回应 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HdGVkRnhwYWhpY19odU1vblE3UVhpX096cWdxOU5LQkNWWVE3OWRsTk05MXJVWklzLXpaanhob2NNVVdTeVRSQ25kS2ZHRWp3Q3RqMnpLdlhFXzd2UHBLX3V3OHlCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T10:31:45+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:31:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b4c8214",
+      "title": "中国依法判处原头部房企恒大创始人许家印无期徒刑",
+      "summary": "曾是中国头部房企的恒大集团发生暴雷崩盘后，引发了整个房地产行业及国内经济领域的持续震动，此前恒大危机影响范围广泛，这一判决是该事件处置过程中的标志性结果。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-evergrande-prison-mbhw/20biz-evergrande-prison-mbhw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "80679796",
+        "c7e07c9d"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "80679796",
+          "source": "NYTimes World",
+          "title": "中国判处恒大创始人无期徒刑",
+          "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+          "published_at": "2026-08-20T10:28:27+00:00"
+        },
+        {
+          "id": "c7e07c9d",
+          "source": "BBC World",
+          "title": "中国破产房企巨头恒大创始人被判终身监禁",
+          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T06:08:02+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:28:27+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "6477c75c",
+      "title": "比利时汽车销售员经王室血缘确认后成为王子",
+      "summary": "近日，比利时一名从事汽车销售的男子克莱蒙·范登科霍夫，经确认拥有王室血缘后，已在一场市政厅仪式中被低调纳入比利时洛朗王子的家族，正式成为王子。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
+      "article_ids": [
+        "b9f31e73"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b9f31e73",
+          "source": "BBC World",
+          "title": "比利时汽车销售员经王室血缘确认后成为王子",
+          "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T10:14:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:14:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2f710e0c",
+      "title": "赞比亚前部长在安全部队突袭反对派行动中身亡",
+      "summary": "赞比亚前部长穆托特韦·卡夫维亚在安全部队针对反对派发起的突袭行动中身亡，目前警方已经确认了这一死讯。死讯公布之前，公众就卡夫维亚的下落已经提出了越来越多的信息公开要求。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feda/live/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg",
+      "article_ids": [
+        "eaf9f8ba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "eaf9f8ba",
+          "source": "BBC World",
+          "title": "赞比亚前部长在安全部队突袭反对派行动中身亡",
+          "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T10:07:48+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:07:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b77652dc",
+      "title": "森海塞尔全新Momentum 5耳塞配备易更换电池",
+      "summary": "森海塞尔推出全新旗舰真无线耳塞Momentum True Wireless 5，本次重新设计主打可持续理念，官方称新品提升了佩戴舒适性、稳定性与便携性，最大亮点为配备可轻松更换的电池，用户无需因电池衰减在数年后更换整副耳机。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "01707625"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "01707625",
+          "source": "The Verge",
+          "title": "森海塞尔全新Momentum 5耳塞配备易更换电池",
+          "link": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+          "published_at": "2026-08-20T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c2ae0c30",
+      "title": "氢能领域下一个重大机遇或藏于地下",
+      "summary": "目前全球正探寻新型氢能来源，氢能可作为燃料应用于重型卡车、飞机、钢铁生产等诸多领域，因燃烧后仅生成水，被视作应对气候变化的解决方案，氢能或是生成氢能的适宜条件，很可能就隐藏在地下。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "20d0e9fe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "20d0e9fe",
+          "source": "MIT Technology Review",
+          "title": "氢能领域下一个重大机遇或藏于地下",
+          "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+          "published_at": "2026-08-20T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f268f90f",
+      "title": "中国官媒头版提“旗帜鲜明反对伪史论” 历史内容审核收紧 - 联合早报",
+      "summary": "近期中国社交媒体上出现“唐朝不存在”这类伪史论调引发热议，《中国社会科学报》等官方媒体在头版刊文，梳理该论调的炮制过程，旗帜鲜明批驳反对伪史论，有信息显示国内历史内容审核将收紧，该事件也引发境外媒体关注报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e20d8152"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e20d8152",
+          "source": "Google News (中国)",
+          "title": "中国官媒头版提“旗帜鲜明反对伪史论” 历史内容审核收紧 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41bGxjaU1aY3FrNTA3ZDJZMGhydnpjM1p3UXhVclF6VEg2a1BOTXRzLXNBelN6S1pJNTJuZVNZLU14SnZkZXpRYUM2NVVzQlVqdllaajhJZUlUbmpQV2ctdHZ2UkhNZklmenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T09:50:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:50:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4eaba9cd",
+      "title": "借助市场模型发掘隐藏收入流",
+      "summary": "航空公司每日执飞数百航班，承运数万名乘客，不少行程并非点对点直飞，乘客需多次中转。航空公司为各行程定价时，需考虑数百种潜在变量，涵盖出行需求、季节、时段、时事、全球市场以及竞争航司的运营动态等。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "546c18a8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "546c18a8",
+          "source": "MIT Technology Review",
+          "title": "借助市场模型发掘隐藏收入流",
+          "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+          "published_at": "2026-08-20T09:47:22+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:47:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "151a67ca",
+      "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统 - 新华网",
+      "summary": "习近平致电祝贺希奇莱马当选连任赞比亚总统&nbsp;&nbsp;新华网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "be869c41"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "be869c41",
+          "source": "Google News (中国)",
+          "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iT3dSS3dBUmZlLU9vRG83NTh3U1ZLaUFSSjJXZUg0VTlHSkxrSGZGVUZjN1J2S1EzWEFYTzN5bDdtYWtsNDkzSVBoV0hmdFIwTjFlS181SjhmZEcwejJSMTVQR2xYM0lkUXpjdVNETWtacEVxakZFS0lDMENzMGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T09:44:44+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:44:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e533f6c9",
+      "title": "币安开放AI智能体交易 管控责任主要由用户承担",
+      "summary": "全球知名加密资产交易平台币安推出Agent OS系统，该系统可兼容ChatGPT、Claude Code、Cursor等多款主流AI工具，现已正式支持AI智能体开展交易操作，目前管控责任主要由用户自行承担。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ad5059a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ad5059a2",
+          "source": "TechCrunch",
+          "title": "币安开放AI智能体交易 管控责任主要由用户承担",
+          "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "published_at": "2026-08-20T09:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e533f6c9",
+      "title": "币安开放AI智能体交易 管控主要由用户负责",
+      "summary": "全球知名加密货币交易平台币安推出Agent操作系统，该系统可对接ChatGPT、Claude Code、Cursor等多款AI工具，目前已开放AI智能体交易功能，对AI智能体交易行为的监督管控主要由用户自行负责。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ad5059a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ad5059a2",
+          "source": "TechCrunch AI",
+          "title": "币安开放AI智能体交易 管控主要由用户负责",
+          "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "published_at": "2026-08-20T09:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5823ed0c",
+      "title": "杂货货架空置成为乌克兰人战时新苦难",
+      "summary": "俄罗斯多年来持续打击乌克兰的发电厂与城市，目前其空中打击已将目标对准乌克兰的超市仓库。当地因此出现食品供应缺口，杂货店铺货架空空，这已成为乌克兰民众在战争中遭遇的全新生存苦难。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "9879b732"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "9879b732",
+          "source": "NYTimes World",
+          "title": "杂货货架空置成为乌克兰人战时新苦难",
+          "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+          "published_at": "2026-08-20T09:28:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:28:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4322fbe8",
+      "title": "特朗普承诺对伊朗及其支持国采取更严厉经济措施",
+      "summary": "特朗普承诺对伊朗及其支持该国的国家采取更严厉经济措施，这一表态出炉于相关冲突为期60天的停火周一到期之后，目前该冲突尚未出现外交或军事层面的缓和解决路径。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+      "article_ids": [
+        "58575e95"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "58575e95",
+          "source": "BBC World",
+          "title": "特朗普承诺对伊朗及其支持国采取更严厉经济措施",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T09:13:18+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:13:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2f8ba88a",
+      "title": "LG OLED技术新突破可延长显示屏寿命",
+      "summary": "LG Display推出全新OLED制造技术，该技术命名为FLiPP，被称作“梦想中的下一代OLED”像素图案化技术。新技术产出的面板亮度更高、寿命更长、能效更优，理论上可制成几乎任意尺寸，旨在解决现有制造工艺的部分问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7847a003"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7847a003",
+          "source": "The Verge",
+          "title": "LG OLED技术新突破可延长显示屏寿命",
+          "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+          "published_at": "2026-08-20T09:11:26+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:11:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aed350fd",
+      "title": "伊美陷入不安对峙，谁将率先让步？",
+      "summary": "数周以来，伊朗与美国陷入对峙僵局，双方既未取得任何外交进展，也未爆发全面战争。两国均认为自身能够比对方坚持更久，当前双方陷入态势紧绷的不稳定僵持，外界关注哪一方会率先让步打破当前格局。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3863328a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3863328a",
+          "source": "NYTimes World",
+          "title": "伊美陷入不安对峙，谁将率先让步？",
+          "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+          "published_at": "2026-08-20T09:04:07+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T09:04:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ecd309a4",
+      "title": "中国已成为厄瓜多尔第二大贸易伙伴 - 新华网",
+      "summary": "中国已成为厄瓜多尔第二大贸易伙伴，厄瓜多尔总统诺沃亚来访期间，国务院总理李强与其会见。厄方称愿做中国在太平洋另一端的可靠朋友，双方强调中厄合作互利共赢，该合作可为中拉关系发展提供新样板，相关互动引发多方关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "84a72ffd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "84a72ffd",
+          "source": "Google News (中国)",
+          "title": "中国已成为厄瓜多尔第二大贸易伙伴 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZ1ZVNzhNemtKRFVnU0RYUDV3MjFIN2xjLXAzWGpLcEl2aGVlTXZRcHZRdTRTN3NiRzNaaUd6ZC1NSU9QOUxsUU85RlBOYUN4ZWxNWldySXFvUktMcGJMMFMyLWN0SVMxZm9jUXI5dGh6ZW1EN0cwc2RmdVZ3QzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T08:55:31+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T08:55:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "097a9eeb",
+      "title": "许家印被判无期徒刑！两儿子判有期，恒大案“剧终” - 网易新闻客户端",
+      "summary": "备受关注的恒大案已审理终结，许家印被判处无期徒刑，其两名儿子被判处有期徒刑，恒大集团被处以近160亿元人民币罚款。该案引发多家境内外媒体聚焦报道，这一引发广泛关注的大案正式落下帷幕。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ad41a454"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ad41a454",
+          "source": "Google News (中国)",
+          "title": "许家印被判无期徒刑！两儿子判有期，恒大案“剧终” - 网易新闻客户端",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2l4OWVpUWZWOTFOTGcybF93X29vYjZrRHZIV1ExdE5tajBLeXNFUndvdDBzTEU2b2ZXOEFtWXdOLXI0dTI0Rkx1VnBxclc2X0Nsc3ZBSkNnMG52elBNN3RnNkZmX0FlMm1SNmhEdm9XcE5jSEN0MS1SWXI5M0J0UHNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T08:27:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T08:27:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61edcf3c",
+      "title": "国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞 - chinanews.com.cn",
+      "summary": "国务院、中央军委作出表彰决定，向圆满完成载人航天飞行任务、助力刷新中国航天员在轨驻留纪录的航天员张陆颁发“二级航天功勋奖章”，授予武飞、张洪章“英雄航天员”荣誉称号，同时为二人颁发“三级航天功勋奖章”。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e1f197de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e1f197de",
+          "source": "Google News (中国)",
+          "title": "国务院、中央军委决定，给张陆同志颁发“二级航天功勋奖章”，授予武飞 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX3E0cXY2MUdRMVBwcUVsZTlTUDhDamwybVZyd2h1azBZa1FPdXlDTC15dnh4Z0FLMmhIekJBMnMwRlZPX1R6dUtYRllMekZuX1RPdDNLZ2FMVGpBQkFqeF93UV8yVlBE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T08:25:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T08:25:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3eac1960",
+      "title": "以色列决定不对加沙援助人员遇害案展开刑事调查 澳大利亚“震怒”",
+      "summary": "澳大利亚籍援助人员佐米·弗兰克姆在加沙遇害，以色列作出不对该案展开刑事调查的决定，澳方认为这一决定带有侮辱性，澳大利亚外交部长已就此召见以色列大使，表达澳方的愤怒与不满。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+      "article_ids": [
+        "d943ab90"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d943ab90",
+          "source": "BBC World",
+          "title": "以色列决定不对加沙援助人员遇害案展开刑事调查 澳大利亚“震怒”",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T07:33:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T07:33:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ffb5e82f",
+      "title": "检方告知上诉法院：毒蘑菇杀手罪行‘极其骇人’ 必须终身监禁",
+      "summary": "涉毒蘑菇杀人案的凶手艾琳·帕特森，原判决为其留有假释可能。检方不服该判决，认为原判‘明显量刑不当’，已向上诉法院提出主张，要求改判凶手终身监禁不得出狱。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
+      "article_ids": [
+        "dbd0dbb9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "dbd0dbb9",
+          "source": "BBC World",
+          "title": "检方告知上诉法院：毒蘑菇杀手罪行‘极其骇人’ 必须终身监禁",
+          "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T07:08:35+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T07:08:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "781e7678",
+      "title": "八天搜寻后，失踪少年徒步者在澳大利亚丛林被发现身亡",
+      "summary": "一名青少年徒步者莉莉·胡珀在澳大利亚丛林失踪后，当地展开了为期八天的搜寻工作。该州州长最初对外宣布莉莉已被寻获且存活，随后警方发布确认信息，证实莉莉已经死亡。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
+      "article_ids": [
+        "47294d09"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "47294d09",
+          "source": "BBC World",
+          "title": "八天搜寻后，失踪少年徒步者在澳大利亚丛林被发现身亡",
+          "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T05:45:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T05:45:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17e20370",
+      "title": "以色列确认士兵向辛德·拉贾布遇害时所乘车辆开火 已启动刑事调查",
+      "summary": "五岁巴勒斯坦女童辛德·拉贾布遭袭击后最初仍存活，曾对外求救，随后人们找到了她与六名亲属的遗体。以色列已确认涉事士兵向该女童所乘车辆开火，目前已针对这起事件启动刑事调查。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+      "article_ids": [
+        "b65b2229"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b65b2229",
+          "source": "BBC World",
+          "title": "以色列确认士兵向辛德·拉贾布遇害时所乘车辆开火 已启动刑事调查",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T04:17:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T04:17:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "84360201",
+      "title": "讨厌抹茶热爱生活，89岁老人成TikTok网红",
+      "summary": "89岁的德国老人维尔纳·卡莱辛斯基，是深受当地年轻人喜爱的社交媒体红人。他曾是伤心丧偶的鳏夫，凭借讨厌抹茶却依然热爱生活的个人特质走红TikTok，如今还登上游艇开启派对生活。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/11/12int-germany-grandpa-profile-75573-cover/12int-germany-grandpa-profile-75573-cover-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "4d475fff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4d475fff",
+          "source": "NYTimes World",
+          "title": "讨厌抹茶热爱生活，89岁老人成TikTok网红",
+          "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+          "published_at": "2026-08-20T04:01:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T04:01:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "631b60b6",
+      "title": "剧情拙劣画质更差：中国观众追捧低成本爆款影片",
+      "summary": "低成本影片《牛来了》以像素化画面制作，虽制作粗糙，却在人工智能大行其道的当下，凭借突出的真实性获得中国观众认可，正逐渐成为深受Z世代喜爱的亚文化经典，收获了大量关注度。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-china-movie-ghwc/20int-china-movie-ghwc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e6f2a388"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e6f2a388",
+          "source": "NYTimes World",
+          "title": "剧情拙劣画质更差：中国观众追捧低成本爆款影片",
+          "link": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+          "published_at": "2026-08-20T04:01:05+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T04:01:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f0ddd85",
+      "title": "海冰消融 巨鲸迁入格陵兰海域",
+      "summary": "受气候变化影响，格陵兰海域海冰不断融化，原本被海冰封锁的大片水域变为开放水域，为大型鲸类进入该区域提供了条件，大批巨鲸现已迁入格陵兰海域，在此开启大规模疯狂进食活动。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "article_ids": [
+        "0cd6bd75"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0cd6bd75",
+          "source": "BBC World",
+          "title": "海冰消融 巨鲸迁入格陵兰海域",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-20T02:05:20+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T02:05:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c5bf4e1",
+      "title": "新加坡警方着手调查贸易商Radiant World",
+      "summary": "铁矿石贸易商Radiant World的多家交易对手方提出该公司涉嫌伪造文件，引发行业担忧，美国已率先就此启动相关调查，目前新加坡警方也正式介入，对该贸易商展开调查。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d076a419"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d076a419",
+          "source": "Bloomberg",
+          "title": "新加坡警方着手调查贸易商Radiant World",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/singapore-authorities-begin-looking-into-trader-radiant-world",
+          "published_at": "2026-08-20T01:59:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T01:59:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "475a2c95",
+      "title": "降半旗致哀！日方高规格悼念，首相高市早苗与外相茂木敏充双双致唁电 - 红歌会网",
+      "summary": "降半旗致哀！日方高规格悼念，首相高市早苗与外相茂木敏充双双致唁电&nbsp;&nbsp;红歌会网朱镕基在京火化：从民间悼念到八宝山公墓，中国领导人“身后事”的政治逻辑&nbsp;&nbsp;BBC朱镕基同志生平照片&nbsp;&nbsp;新华网胡平：朱镕基一语成谶 中共因搞坏香港成”民族罪人”&nbsp;&nbsp;美国之音朱镕基同志生平&nbsp;&nbsp;人民日报",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "55a632bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "55a632bf",
+          "source": "Google News (中国)",
+          "title": "降半旗致哀！日方高规格悼念，首相高市早苗与外相茂木敏充双双致唁电 - 红歌会网",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcE1xdmJOUVRGdzZRaS11clBnUm82d0FWbWlqMlh0a0lldXVSNFktekVSTVZLMnNTMHV2LWg4SVdDa1k4OUNQaHdweERYSnhwVHFfNjl0YTBVcWM1RVV6aXU3b3hhcWlCd2xudTBlaVRpeHpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20T01:03:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-20T01:03:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1fdb613a",
+      "title": "贵州村舞惊艳亮相北京现场座无虚席 民族风情圈粉无数 - 中华网",
+      "summary": "贵州黔西南本土打造的“村舞”歌舞剧《锦·蓝》，亮相第七届全国少数民族文艺会演，成功登上北京国家舞台开演。演出现场座无虚席，这部作品饱含浓郁贵州民族风情，演出效果震撼，凭借独特魅力圈粉无数，引发多家媒体关注报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "bb462402"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "bb462402",
+          "source": "Google News (中国)",
+          "title": "贵州村舞惊艳亮相北京现场座无虚席 民族风情圈粉无数 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZlFvZGhjYWZDY012YmlVVnI2aVF4Qm1RSUpiUWpmcXdnVW01U1o4R2tDLU9iWEpjSDBnOWstOU5qV2N6YU1FTVJsMWpyQTlmNEpZWXVhQzR5d09HZFFlOWdjdk5DUWE4SVlucjJlNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-19T23:51:54+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T23:51:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "81ce78d5",
+      "title": "美国财政部突发债券举措后金价逼近4500美元",
+      "summary": "美国财政部出人意料推出债券相关调整举措，旨在遏制长期借贷成本。受该消息推动，黄金录得半年来最大涨幅，目前金价基本维持住这一涨幅，当前交易价格已逼近4500美元关口。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a21a23f8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a21a23f8",
+          "source": "Bloomberg",
+          "title": "美国财政部突发债券举措后金价逼近4500美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
+          "published_at": "2026-08-19T23:34:15+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T23:34:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d644d7a7",
+      "title": "Stripe收购OpenRouter并非真因“奇点”",
+      "summary": "支付巨头Stripe收购了一家可在不同AI模型之间转接提示请求的初创企业OpenRouter。Stripe对外称此次收购的原因是“奇点”，但实际上这笔收购背后有着更为现实且影响力更大的真实动因，外界关注这家头部支付巨头布局AI领域的真实逻辑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "42bbaa08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "42bbaa08",
+          "source": "TechCrunch",
+          "title": "Stripe收购OpenRouter并非真因“奇点”",
+          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "published_at": "2026-08-19T23:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T23:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d644d7a7",
+      "title": "Stripe收购OpenRouter并非真因“奇点”",
+      "summary": "支付巨头Stripe收购了一家可在不同AI模型间路由提示词的初创企业OpenRouter。Stripe对外称此次收购的动因是“奇点”，但实际上，本次收购背后存在更为现实、影响力更大的真实原因。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "42bbaa08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "42bbaa08",
+          "source": "TechCrunch AI",
+          "title": "Stripe收购OpenRouter并非真因“奇点”",
+          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "published_at": "2026-08-19T23:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T23:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f850bd6a",
+      "title": "给相机装上翅膀能规避FCC的无人机禁令吗？",
+      "summary": "无人机品牌HoverAir向来主打新奇设计，曾推出可折叠便携、可水上降落、可在收纳盒充电的机型。该品牌最新动作风险极高，正试图绕开美国联邦通信委员会FCC，规避美国2025年12月出台的外国无人机新禁令。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c204a9e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "c204a9e3",
+          "source": "The Verge",
+          "title": "给相机装上翅膀能规避FCC的无人机禁令吗？",
+          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+          "published_at": "2026-08-19T22:35:20+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T22:35:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "26052acc",
+      "title": "Waymo成本更低的新一代无人出租车现已对这三座城市所有乘客开放",
+      "summary": "自动驾驶企业Waymo推出成本更低的新一代无人出租车Waymo Ojai，该车型是Waymo推进业务规模化发展、最终实现盈利目标的核心布局，目前已对三座城市的所有乘客开放乘坐。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0d7656e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0d7656e7",
+          "source": "TechCrunch",
+          "title": "Waymo成本更低的新一代无人出租车现已对这三座城市所有乘客开放",
+          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "published_at": "2026-08-19T22:25:01+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T22:25:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0f18e4f",
+      "title": "市场综述：油价攀升 股市下跌 国债涨势消退",
+      "summary": "油价上涨令通胀风险重新回到投资者的关注视野，受此影响，原本出现反弹的美国长期国债涨势消退，美国股票期货也出现下跌，全球资本市场因此出现了本轮明显的波动调整。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "14238218"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "14238218",
+          "source": "Bloomberg",
+          "title": "市场综述：油价攀升 股市下跌 国债涨势消退",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+          "published_at": "2026-08-19T22:12:30+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T22:12:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1eadf5db",
+      "title": "OpenAI推出新客户隐私保护，欲赶超Anthropic",
+      "summary": "当前生成式AI领域的OpenAI与Anthropic正就企业客户数据隐私保护展开竞争，比拼谁能提供更优质的隐私保护服务。OpenAI此次推出全新客户隐私保护措施，意图在这场竞争中赶超对手，抢占竞争优势。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d306eafa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d306eafa",
+          "source": "TechCrunch",
+          "title": "OpenAI推出新客户隐私保护，欲赶超Anthropic",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "2026-08-19T22:10:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T22:10:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1eadf5db",
+      "title": "OpenAI推出全新客户隐私保护举措 欲赶超Anthropic",
+      "summary": "当前，OpenAI与Anthropic正围绕企业客户数据隐私保护展开竞争，比拼谁能为企业客户数据提供更优质的保护方案。OpenAI推出全新客户隐私保护举措，试图以此超越竞争对手，抢占竞争优势。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d306eafa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d306eafa",
+          "source": "TechCrunch AI",
+          "title": "OpenAI推出全新客户隐私保护举措 欲赶超Anthropic",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "2026-08-19T22:10:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-19T22:10:46+00:00",
+      "is_merged": false
+    }
+  ]
+}
