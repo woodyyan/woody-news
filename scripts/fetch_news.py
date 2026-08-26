@@ -3,15 +3,21 @@ Woody News — 新闻采集主脚本
 从 RSS 源抓取新闻，调用 AI 翻译/摘要，生成每日 JSON 数据文件
 """
 
-import json
+import argparse
 import hashlib
+import ipaddress
+import json
 import logging
 import re
+import socket
+import struct
 import xml.etree.ElementTree as ET
+from contextlib import contextmanager
 from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
+from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import feedparser
 import httpx
@@ -61,6 +67,31 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) WoodyNewsBot/1.0",
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
+PAGE_HEADERS = {
+    "User-Agent": HEADERS["User-Agent"],
+    "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8",
+}
+IMAGE_HEADERS = {
+    "User-Agent": HEADERS["User-Agent"],
+    "Accept": "image/webp,image/png,image/jpeg,image/gif;q=0.9,*/*;q=0.5",
+    "Range": "bytes=0-131071",
+}
+IMAGE_MIME_TYPES = {
+    "image/gif",
+    "image/jpeg",
+    "image/jpg",
+    "image/png",
+    "image/webp",
+}
+IMAGE_EXTENSIONS = (".gif", ".jpeg", ".jpg", ".png", ".webp")
+MAX_RSS_IMAGE_CANDIDATES = 2
+MAX_PAGE_IMAGE_CANDIDATES = 2
+MAX_REDIRECTS = 5
+MAX_IMAGE_BYTES = 8 * 1024 * 1024
+MAX_IMAGE_HEADER_BYTES = 128 * 1024
+MAX_ARTICLE_HTML_BYTES = 2 * 1024 * 1024
+MIN_IMAGE_WIDTH = 300
+MIN_IMAGE_HEIGHT = 160
 
 NEWS_SITEMAP_NS = {"news": "http://www.google.com/schemas/sitemap-news/0.9"}
 AI_PATH_HINTS = ("/newsletters/ai-agenda/", "/newsletters/applied-ai/")
@@ -186,6 +217,7 @@ def _build_raw_article(
     image: str | None,
     link: str,
     published_at: str,
+    image_validated: bool = False,
 ) -> dict:
     category_id = _route_category(source, default_category_id, title, description, link)
     return {
@@ -193,6 +225,7 @@ def _build_raw_article(
         "title_raw": title,
         "description_raw": description,
         "image": image,
+        "image_validated": image_validated,
         "link": link,
         "category": category_id,
         "source": source["name"],
@@ -202,7 +235,7 @@ def _build_raw_article(
 
 
 
-def fetch_rss(source: dict, category_id: str) -> list[dict]:
+def fetch_rss(source: dict, category_id: str, excluded_ids: set[str] | None = None) -> list[dict]:
     """抓取单个 RSS 源的新闻"""
     url = source["url"]
     name = source["name"]
@@ -217,41 +250,45 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
         feed = feedparser.parse(response.text)
 
         articles = []
-        for entry in feed.entries[:MAX_PER_SOURCE]:
-            link = entry.get("link", "")
-            if not link:
-                continue
+        with httpx.Client(timeout=httpx.Timeout(8, connect=5), follow_redirects=False) as image_client:
+            for entry in feed.entries[:MAX_PER_SOURCE]:
+                link = entry.get("link", "")
+                if not link:
+                    continue
 
-            link = _resolve_google_news_link(link)
-            image = _extract_image(entry)
-            # 补全相对路径的图片 URL（人民日报 RSS 的图片是相对路径）
-            if image and image.startswith("/"):
-                parsed = urlparse(source["url"])
-                base = f"{parsed.scheme}://{parsed.netloc}"
-                image = base + image
-            description = _strip_html(entry.get("summary", "") or entry.get("description", ""))
-            title = entry.get("title", "").strip()
-            if not title:
-                continue
-
-            published = entry.get("published_parsed") or entry.get("updated_parsed")
-            if published:
-                pub_dt = datetime(*published[:6], tzinfo=timezone.utc)
-                published_at = pub_dt.isoformat()
-            else:
-                published_at = datetime.now(timezone.utc).isoformat()
-
-            articles.append(
-                _build_raw_article(
-                    source=source,
-                    default_category_id=category_id,
-                    title=title,
-                    description=description,
-                    image=image,
-                    link=link,
-                    published_at=published_at,
+                link = _resolve_google_news_link(link)
+                if excluded_ids and generate_id(link) in excluded_ids:
+                    continue
+                image, image_validated = _resolve_article_image(
+                    client=image_client,
+                    entry=entry,
+                    article_url=link,
+                    feed_url=source["url"],
                 )
-            )
+                description = _strip_html(entry.get("summary", "") or entry.get("description", ""))
+                title = entry.get("title", "").strip()
+                if not title:
+                    continue
+
+                published = entry.get("published_parsed") or entry.get("updated_parsed")
+                if published:
+                    pub_dt = datetime(*published[:6], tzinfo=timezone.utc)
+                    published_at = pub_dt.isoformat()
+                else:
+                    published_at = datetime.now(timezone.utc).isoformat()
+
+                articles.append(
+                    _build_raw_article(
+                        source=source,
+                        default_category_id=category_id,
+                        title=title,
+                        description=description,
+                        image=image,
+                        link=link,
+                        published_at=published_at,
+                        image_validated=image_validated,
+                    )
+                )
 
         logger.info(f"  ✅ {name}: 获取到 {len(articles)} 条")
         return articles
@@ -262,7 +299,7 @@ def fetch_rss(source: dict, category_id: str) -> list[dict]:
 
 
 
-def fetch_news_sitemap(source: dict, category_id: str) -> list[dict]:
+def fetch_news_sitemap(source: dict, category_id: str, excluded_ids: set[str] | None = None) -> list[dict]:
     """抓取 Google News Sitemap 格式的新闻源"""
     url = source["url"]
     name = source["name"]
@@ -276,29 +313,39 @@ def fetch_news_sitemap(source: dict, category_id: str) -> list[dict]:
 
         root = ET.fromstring(response.text)
         articles = []
-        for url_node in root.findall("{*}url"):
-            link = (url_node.findtext("{*}loc") or "").strip()
-            title = (url_node.findtext("news:news/news:title", namespaces=NEWS_SITEMAP_NS) or "").strip()
-            published_at = (
-                url_node.findtext("news:news/news:publication_date", namespaces=NEWS_SITEMAP_NS) or ""
-            ).strip()
-            if not link or not title:
-                continue
+        with httpx.Client(timeout=httpx.Timeout(8, connect=5), follow_redirects=False) as image_client:
+            for url_node in root.findall("{*}url"):
+                link = (url_node.findtext("{*}loc") or "").strip()
+                title = (url_node.findtext("news:news/news:title", namespaces=NEWS_SITEMAP_NS) or "").strip()
+                published_at = (
+                    url_node.findtext("news:news/news:publication_date", namespaces=NEWS_SITEMAP_NS) or ""
+                ).strip()
+                if not link or not title:
+                    continue
+                if excluded_ids and generate_id(link) in excluded_ids:
+                    continue
 
-            articles.append(
-                _build_raw_article(
-                    source=source,
-                    default_category_id=category_id,
-                    title=title,
-                    description="",
-                    image=None,
-                    link=link,
-                    published_at=published_at or datetime.now(timezone.utc).isoformat(),
+                image, image_validated = _resolve_article_image(
+                    client=image_client,
+                    entry=None,
+                    article_url=link,
+                    feed_url=source["url"],
                 )
-            )
+                articles.append(
+                    _build_raw_article(
+                        source=source,
+                        default_category_id=category_id,
+                        title=title,
+                        description="",
+                        image=image,
+                        link=link,
+                        published_at=published_at or datetime.now(timezone.utc).isoformat(),
+                        image_validated=image_validated,
+                    )
+                )
 
-            if len(articles) >= MAX_PER_SOURCE:
-                break
+                if len(articles) >= MAX_PER_SOURCE:
+                    break
 
         logger.info(f"  ✅ {name}: 获取到 {len(articles)} 条")
         return articles
@@ -309,48 +356,403 @@ def fetch_news_sitemap(source: dict, category_id: str) -> list[dict]:
 
 
 
-def fetch_source(source: dict, category_id: str) -> list[dict]:
+def fetch_source(source: dict, category_id: str, excluded_ids: set[str] | None = None) -> list[dict]:
     source_type = source.get("type", "rss")
     if source_type == "rss":
-        return fetch_rss(source, category_id)
+        return fetch_rss(source, category_id, excluded_ids=excluded_ids)
     if source_type == "news_sitemap":
-        return fetch_news_sitemap(source, category_id)
+        return fetch_news_sitemap(source, category_id, excluded_ids=excluded_ids)
 
     logger.warning(f"  ⚠️ {source['name']}: 不支持的来源类型 {source_type}，已跳过")
     return []
 
 
-def _extract_image(entry: dict) -> str | None:
-    """从 RSS 条目中提取图片 URL"""
-    # 方式1：media_content
+def _append_unique(values: list[str], value: str | None):
+    value = (value or "").strip()
+    if value and value not in values:
+        values.append(value)
+
+
+def _srcset_candidates(srcset: str) -> list[str]:
+    """按清晰度从高到低解析 srcset。"""
+    parsed = []
+    for item in srcset.split(","):
+        parts = item.strip().rsplit(maxsplit=1)
+        if not parts:
+            continue
+        url = parts[0]
+        score = 0.0
+        if len(parts) == 2:
+            descriptor = parts[1].lower()
+            try:
+                if descriptor.endswith("w"):
+                    score = float(descriptor[:-1])
+                elif descriptor.endswith("x"):
+                    score = float(descriptor[:-1]) * 1000
+            except ValueError:
+                score = 0.0
+        parsed.append((score, url))
+    parsed.sort(key=lambda item: item[0], reverse=True)
+    return [url for _, url in parsed]
+
+
+class _ImageMetadataParser(HTMLParser):
+    """从 RSS HTML 或文章页提取图片候选，不执行脚本。"""
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.open_graph: list[str] = []
+        self.twitter: list[str] = []
+        self.images: list[str] = []
+        self.json_ld_blocks: list[str] = []
+        self.base_href: str | None = None
+        self._in_json_ld = False
+        self._json_ld_parts: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]):
+        attributes = {key.lower(): value or "" for key, value in attrs}
+        if tag.lower() == "meta":
+            key = (attributes.get("property") or attributes.get("name") or "").lower()
+            content = attributes.get("content")
+            if key in {"og:image", "og:image:url", "og:image:secure_url"}:
+                _append_unique(self.open_graph, content)
+            elif key in {"twitter:image", "twitter:image:src"}:
+                _append_unique(self.twitter, content)
+        elif tag.lower() in {"img", "source"}:
+            srcset = attributes.get("srcset") or attributes.get("data-srcset") or ""
+            for candidate in _srcset_candidates(srcset):
+                _append_unique(self.images, candidate)
+            if tag.lower() == "img":
+                for key in ("src", "data-src", "data-original", "data-lazy-src"):
+                    _append_unique(self.images, attributes.get(key))
+        elif tag.lower() == "base" and not self.base_href:
+            self.base_href = (attributes.get("href") or "").strip() or None
+        elif tag.lower() == "script" and "ld+json" in attributes.get("type", "").lower():
+            self._in_json_ld = True
+            self._json_ld_parts = []
+
+    def handle_data(self, data: str):
+        if self._in_json_ld:
+            self._json_ld_parts.append(data)
+
+    def handle_endtag(self, tag: str):
+        if tag.lower() == "script" and self._in_json_ld:
+            self.json_ld_blocks.append("".join(self._json_ld_parts))
+            self._in_json_ld = False
+            self._json_ld_parts = []
+
+
+def _json_ld_image_candidates(value) -> list[str]:
+    candidates: list[str] = []
+
+    def visit(node):
+        if isinstance(node, dict):
+            for key, child in node.items():
+                if key.lower() == "image":
+                    collect_image(child)
+                else:
+                    visit(child)
+        elif isinstance(node, list):
+            for child in node:
+                visit(child)
+
+    def collect_image(node):
+        if isinstance(node, str):
+            _append_unique(candidates, node)
+        elif isinstance(node, dict):
+            for key in ("url", "contentUrl"):
+                if isinstance(node.get(key), str):
+                    _append_unique(candidates, node[key])
+            for child in node.values():
+                if isinstance(child, (dict, list)):
+                    collect_image(child)
+        elif isinstance(node, list):
+            for child in node:
+                collect_image(child)
+
+    visit(value)
+    return candidates
+
+
+def _parse_html_image_metadata(html: str) -> tuple[list[str], str | None]:
+    parser = _ImageMetadataParser()
+    try:
+        parser.feed(html)
+    except Exception:
+        logger.debug("HTML 图片元数据解析未完整结束", exc_info=True)
+
+    candidates = [*parser.open_graph, *parser.twitter]
+    for block in parser.json_ld_blocks:
+        try:
+            payload = json.loads(block)
+        except (TypeError, json.JSONDecodeError):
+            continue
+        for candidate in _json_ld_image_candidates(payload):
+            _append_unique(candidates, candidate)
+    for candidate in parser.images:
+        _append_unique(candidates, candidate)
+    return candidates, parser.base_href
+
+
+def _parse_html_image_candidates(html: str) -> list[str]:
+    candidates, _ = _parse_html_image_metadata(html)
+    return candidates
+
+
+def _dimension_value(value) -> int:
+    match = re.search(r"\d+", str(value or ""))
+    return int(match.group()) if match else 0
+
+
+def _extract_image_candidates(entry: dict) -> list[str]:
+    """按可信度从高到低提取 RSS 条目中的全部图片候选。"""
+    candidates: list[str] = []
+
     media = entry.get("media_content", [])
-    if media and isinstance(media, list):
-        for m in media:
-            url = m.get("url", "")
-            if url and ("image" in m.get("type", "image") or url.endswith((".jpg", ".png", ".webp"))):
-                return url
+    if isinstance(media, list):
+        ranked_media = sorted(
+            media,
+            key=lambda item: _dimension_value(item.get("width")) * _dimension_value(item.get("height")),
+            reverse=True,
+        )
+        for item in ranked_media:
+            url = item.get("url", "")
+            mime = item.get("type", "image")
+            if url and ("image" in mime or urlparse(url).path.lower().endswith(IMAGE_EXTENSIONS)):
+                _append_unique(candidates, url)
 
-    # 方式2：media_thumbnail
     thumbnails = entry.get("media_thumbnail", [])
-    if thumbnails and isinstance(thumbnails, list):
-        return thumbnails[0].get("url")
+    if isinstance(thumbnails, list):
+        ranked_thumbnails = sorted(
+            thumbnails,
+            key=lambda item: _dimension_value(item.get("width")) * _dimension_value(item.get("height")),
+            reverse=True,
+        )
+        for item in ranked_thumbnails:
+            _append_unique(candidates, item.get("url"))
 
-    # 方式3：enclosures
     enclosures = entry.get("enclosures", [])
-    if enclosures:
-        for enc in enclosures:
-            if "image" in enc.get("type", ""):
-                return enc.get("href") or enc.get("url")
+    if isinstance(enclosures, list):
+        for enclosure in enclosures:
+            url = enclosure.get("href") or enclosure.get("url")
+            mime = enclosure.get("type", "")
+            if url and ("image" in mime or urlparse(url).path.lower().endswith(IMAGE_EXTENSIONS)):
+                _append_unique(candidates, url)
 
-    # 方式4：从 summary/content HTML 中提取 img src
-    content = entry.get("summary", "") or entry.get("description", "")
-    if "<img" in content:
-        import re
-        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
-        if match:
-            return match.group(1)
+    html_blocks = []
+    content = entry.get("content", [])
+    if isinstance(content, list):
+        html_blocks.extend(item.get("value", "") for item in content if isinstance(item, dict))
+    html_blocks.extend([entry.get("summary", ""), entry.get("description", "")])
+    for html in html_blocks:
+        if not html:
+            continue
+        for candidate in _parse_html_image_candidates(html):
+            _append_unique(candidates, candidate)
 
+    return candidates
+
+
+def _extract_image(entry: dict) -> str | None:
+    """兼容旧调用：返回 RSS 条目中的首个图片候选。"""
+    candidates = _extract_image_candidates(entry)
+    return candidates[0] if candidates else None
+
+
+def _is_http_url(url: str) -> bool:
+    parsed = urlparse(url)
+    return parsed.scheme in {"http", "https"} and bool(parsed.hostname)
+
+
+def _is_public_http_url(url: str) -> bool:
+    """拒绝本机、内网、保留地址及非标准 Web 端口，避免被新闻源诱导访问内网。"""
+    if not _is_http_url(url):
+        return False
+    parsed = urlparse(url)
+    if parsed.username or parsed.password or parsed.port not in {None, 80, 443}:
+        return False
+    hostname = (parsed.hostname or "").rstrip(".").lower()
+    if hostname == "localhost" or hostname.endswith(".localhost"):
+        return False
+    try:
+        addresses = {info[4][0] for info in socket.getaddrinfo(hostname, parsed.port or 443, type=socket.SOCK_STREAM)}
+    except socket.gaierror:
+        return False
+    if not addresses:
+        return False
+    for address in addresses:
+        ip = ipaddress.ip_address(address)
+        if not ip.is_global:
+            return False
+    return True
+
+
+def _safe_request_url(url: str) -> str | None:
+    return url if _is_public_http_url(url) else None
+
+
+@contextmanager
+def _safe_stream_get(client: httpx.Client, url: str, headers: dict):
+    """逐跳校验重定向，防止重定向到内网地址。"""
+    current_url = url
+    for _ in range(MAX_REDIRECTS + 1):
+        safe_url = _safe_request_url(current_url)
+        if not safe_url:
+            raise ValueError(f"不安全的 URL: {current_url}")
+        with client.stream("GET", safe_url, headers=headers, follow_redirects=False) as response:
+            if response.is_redirect:
+                location = response.headers.get("location")
+                if not location:
+                    response.raise_for_status()
+                current_url = urljoin(str(response.url), location)
+                continue
+            yield response
+            return
+    raise httpx.TooManyRedirects(
+        f"重定向超过 {MAX_REDIRECTS} 次",
+        request=httpx.Request("GET", current_url),
+    )
+
+
+def _jpeg_dimensions(data: bytes) -> tuple[int, int] | None:
+    if not data.startswith(b"\xff\xd8"):
+        return None
+    offset = 2
+    while offset + 9 < len(data):
+        if data[offset] != 0xFF:
+            offset += 1
+            continue
+        marker = data[offset + 1]
+        offset += 2
+        if marker in {0xD8, 0xD9}:
+            continue
+        if offset + 2 > len(data):
+            break
+        segment_length = int.from_bytes(data[offset:offset + 2], "big")
+        if segment_length < 2 or offset + segment_length > len(data):
+            break
+        if marker in {0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF}:
+            height = int.from_bytes(data[offset + 3:offset + 5], "big")
+            width = int.from_bytes(data[offset + 5:offset + 7], "big")
+            return width, height
+        offset += segment_length
     return None
+
+
+def _image_dimensions(data: bytes, content_type: str) -> tuple[int, int] | None:
+    if content_type == "image/png" and data.startswith(b"\x89PNG\r\n\x1a\n") and len(data) >= 24:
+        return struct.unpack(">II", data[16:24])
+    if content_type == "image/gif" and data[:6] in {b"GIF87a", b"GIF89a"} and len(data) >= 10:
+        return struct.unpack("<HH", data[6:10])
+    if content_type in {"image/jpeg", "image/jpg"}:
+        return _jpeg_dimensions(data)
+    if content_type == "image/webp" and len(data) >= 30 and data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+        chunk_type = data[12:16]
+        if chunk_type == b"VP8X":
+            width = 1 + int.from_bytes(data[24:27], "little")
+            height = 1 + int.from_bytes(data[27:30], "little")
+            return width, height
+        if chunk_type == b"VP8L" and len(data) >= 25 and data[20] == 0x2F:
+            bits = int.from_bytes(data[21:25], "little")
+            return (bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1
+        frame_header = data.find(b"\x9d\x01\x2a", 20)
+        if frame_header >= 0 and frame_header + 7 <= len(data):
+            width = int.from_bytes(data[frame_header + 3:frame_header + 5], "little") & 0x3FFF
+            height = int.from_bytes(data[frame_header + 5:frame_header + 7], "little") & 0x3FFF
+            return width, height
+    return None
+
+
+def _validate_image_url(client: httpx.Client, url: str) -> str | None:
+    """按浏览器无 Referer 的方式验证图片 MIME、签名、体积和最小尺寸。"""
+    try:
+        with _safe_stream_get(client, url, IMAGE_HEADERS) as response:
+            response.raise_for_status()
+            content_type = response.headers.get("content-type", "").split(";", 1)[0].lower()
+            if content_type not in IMAGE_MIME_TYPES:
+                return None
+
+            content_length = response.headers.get("content-length")
+            if content_length and int(content_length) > MAX_IMAGE_BYTES:
+                return None
+            content_range = response.headers.get("content-range", "")
+            total_match = re.search(r"/(\d+)$", content_range)
+            if total_match and int(total_match.group(1)) > MAX_IMAGE_BYTES:
+                return None
+
+            prefix = bytearray()
+            for chunk in response.iter_bytes(chunk_size=16 * 1024):
+                remaining = MAX_IMAGE_HEADER_BYTES - len(prefix)
+                if remaining <= 0:
+                    break
+                prefix.extend(chunk[:remaining])
+                if len(prefix) >= MAX_IMAGE_HEADER_BYTES:
+                    break
+
+            dimensions = _image_dimensions(bytes(prefix), content_type)
+            if not dimensions:
+                return None
+            if dimensions[0] < MIN_IMAGE_WIDTH or dimensions[1] < MIN_IMAGE_HEIGHT:
+                return None
+            return str(response.url)
+    except (httpx.HTTPError, OSError, ValueError):
+        logger.debug(f"图片校验失败: {url}", exc_info=True)
+        return None
+
+
+def _fetch_article_html(client: httpx.Client, url: str) -> tuple[str, str] | None:
+    if not _is_http_url(url):
+        return None
+    try:
+        with _safe_stream_get(client, url, PAGE_HEADERS) as response:
+            response.raise_for_status()
+            content_type = response.headers.get("content-type", "").lower()
+            if "html" not in content_type:
+                return None
+
+            data = bytearray()
+            for chunk in response.iter_bytes(chunk_size=64 * 1024):
+                remaining = MAX_ARTICLE_HTML_BYTES - len(data)
+                if remaining <= 0:
+                    break
+                data.extend(chunk[:remaining])
+                if len(data) >= MAX_ARTICLE_HTML_BYTES:
+                    break
+            encoding = response.encoding or "utf-8"
+            return data.decode(encoding, errors="replace"), str(response.url)
+    except (httpx.HTTPError, OSError, ValueError, LookupError):
+        logger.debug(f"文章页面抓取失败: {url}", exc_info=True)
+        return None
+
+
+def _resolve_article_image(
+    client: httpx.Client,
+    entry: dict | None,
+    article_url: str,
+    feed_url: str,
+) -> tuple[str | None, bool]:
+    """先验证 RSS 图片；无可用图时再从文章页元数据补图。"""
+    rss_candidates = _extract_image_candidates(entry or {})
+    rss_base_url = (entry or {}).get("base") or (entry or {}).get("href") or feed_url
+    for candidate in rss_candidates[:MAX_RSS_IMAGE_CANDIDATES]:
+        absolute_url = urljoin(rss_base_url, candidate)
+        validated = _validate_image_url(client, absolute_url)
+        if validated:
+            return validated, True
+
+    page = _fetch_article_html(client, article_url)
+    if not page:
+        return None, False
+
+    html, final_article_url = page
+    page_candidates, base_href = _parse_html_image_metadata(html)
+    image_base_url = urljoin(final_article_url, base_href) if base_href else final_article_url
+    for candidate in page_candidates[:MAX_PAGE_IMAGE_CANDIDATES]:
+        absolute_url = urljoin(image_base_url, candidate)
+        validated = _validate_image_url(client, absolute_url)
+        if validated:
+            return validated, True
+    return None, False
 
 
 def _strip_html(text: str) -> str:
@@ -449,6 +851,17 @@ def _union(parent: list[int], a: int, b: int):
         parent[root_b] = root_a
 
 
+def _select_cluster_image(grouped_articles: list[dict]) -> str | None:
+    """优先选择已在采集阶段验证过的图片，再兼容历史数据中的未标记图片。"""
+    for article in grouped_articles:
+        if article.get("image") and article.get("image_validated"):
+            return article["image"]
+    for article in grouped_articles:
+        if article.get("image"):
+            return article["image"]
+    return None
+
+
 def build_clusters(articles: list[dict]) -> list[dict]:
     """对同一期次新闻做同主题聚合，保留原始 articles 供回退使用"""
     if not articles:
@@ -519,7 +932,7 @@ def build_clusters(articles: list[dict]) -> list[dict]:
                 }
             )
 
-        image = next((article.get("image") for article in grouped_articles if article.get("image")), None)
+        image = _select_cluster_image(grouped_articles)
         cluster_id_seed = "|".join(sorted(article["id"] for article in grouped_articles))
         clusters.append(
             {
@@ -564,6 +977,7 @@ def process_articles(raw_articles: list[dict]) -> list[dict]:
             "summary": result["summary"],
             "summary_original": result["summary_original"],
             "image": raw["image"],
+            "image_validated": raw.get("image_validated", False),
             "link": raw["link"],
             "category": raw["category"],
             "source": raw["source"],
@@ -574,6 +988,100 @@ def process_articles(raw_articles: list[dict]) -> list[dict]:
         processed.append(article)
 
     return processed
+
+
+def _latest_data_path() -> Path | None:
+    """从索引定位最新一期，索引不可用时按文件名回退。"""
+    if INDEX_PATH.exists():
+        try:
+            with open(INDEX_PATH, "r", encoding="utf-8") as f:
+                latest = json.load(f).get("latest")
+            if latest:
+                indexed_path = DATA_DIR / f"{latest}.json"
+                if indexed_path.exists():
+                    return indexed_path
+        except (OSError, ValueError, TypeError):
+            logger.warning("⚠️ 无法读取数据索引，将按文件名定位最新一期")
+
+    candidates = sorted(
+        path for path in DATA_DIR.glob("*.json") if path.name != INDEX_PATH.name
+    )
+    return candidates[-1] if candidates else None
+
+
+def backfill_latest_images() -> dict:
+    """只回填最新一期图片，不重新翻译、摘要或主题聚类。"""
+    data_path = _latest_data_path()
+    if not data_path:
+        raise FileNotFoundError("没有可回填的新闻数据文件")
+
+    with open(data_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    articles = data.get("articles", [])
+    stats = {"total": len(articles), "kept": 0, "added": 0, "replaced": 0, "missing": 0}
+    article_by_id = {}
+
+    logger.info(f"🖼️ 开始回填最新一期图片: {data_path.name}（{len(articles)} 条）")
+    with httpx.Client(timeout=httpx.Timeout(8, connect=5), follow_redirects=False) as image_client:
+        for index, article in enumerate(articles, 1):
+            article_id = article.get("id")
+            if article_id:
+                article_by_id[article_id] = article
+
+            current_image = article.get("image")
+            if current_image and article.get("image_validated"):
+                stats["kept"] += 1
+                continue
+
+            validated_image = None
+            if current_image:
+                validated_image = _validate_image_url(image_client, current_image)
+
+            if validated_image:
+                article["image"] = validated_image
+                article["image_validated"] = True
+                stats["kept"] += 1
+                continue
+
+            article_url = article.get("link", "")
+            replacement, image_validated = _resolve_article_image(
+                client=image_client,
+                entry=None,
+                article_url=article_url,
+                feed_url=article_url,
+            )
+            if replacement:
+                article["image"] = replacement
+                article["image_validated"] = image_validated
+                stats["replaced" if current_image else "added"] += 1
+            else:
+                article["image"] = None
+                article["image_validated"] = False
+                stats["missing"] += 1
+
+            logger.info(
+                f"  图片回填 ({index}/{len(articles)}): "
+                f"{article.get('source', '未知来源')} - {'成功' if article.get('image') else '无可用图'}"
+            )
+
+    for cluster in data.get("clusters", []):
+        grouped_articles = [
+            article_by_id[article_id]
+            for article_id in cluster.get("article_ids", [])
+            if article_id in article_by_id
+        ]
+        if grouped_articles:
+            cluster["image"] = _select_cluster_image(grouped_articles)
+
+    with open(data_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    logger.info(
+        "✅ 图片回填完成：保留/验证 %(kept)s，新增 %(added)s，替换 %(replaced)s，仍缺 %(missing)s",
+        stats,
+    )
+    return {"file": data_path.name, **stats}
 
 
 def load_existing_ids() -> set:
@@ -682,8 +1190,8 @@ def main():
     for cat in categories:
         logger.info(f"\n📰 分类: {cat['name']} ({cat['id']})")
         for source in cat.get("sources", []):
-            articles = fetch_source(source, cat["id"])
-            # 去重
+            articles = fetch_source(source, cat["id"], excluded_ids=existing_ids)
+            # 双重去重，兼容特殊来源在解析后改变链接的情况
             articles = [a for a in articles if a["id"] not in existing_ids]
             all_raw.extend(articles)
 
@@ -710,4 +1218,14 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Woody News 新闻采集与图片维护")
+    parser.add_argument(
+        "--backfill-images",
+        choices=["latest"],
+        help="只回填指定范围的图片，不调用翻译、摘要或主题聚类模型",
+    )
+    args = parser.parse_args()
+    if args.backfill_images == "latest":
+        backfill_latest_images()
+    else:
+        main()

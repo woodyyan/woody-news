@@ -142,6 +142,8 @@ const initialArticleCount = displayClusters.reduce((sum, cluster) => sum + (clus
                     alt={cluster.title}
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"
+                    decoding="async"
+                    referrerpolicy="no-referrer"
                     onerror="this.closest('.card').querySelector('.img-fallback')?.classList.remove('hidden'); this.parentElement.classList.add('hidden');"
                   />
                 </div>

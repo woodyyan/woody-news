@@ -7,3 +7,5 @@ dist/
 .vercel
 .astro
 .workbuddy/
+__pycache__/
+*.py[cod]
