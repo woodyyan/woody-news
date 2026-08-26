@@ -1,0 +1,2411 @@
+{
+  "date": "2026-07-15",
+  "edition": "evening",
+  "updated_at": "2026-07-15T21:55:50.470604+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "53c42ac5",
+      "title": "Anthropic与黑石押注：下一个万亿级AI业务是落地实施，而非模型",
+      "title_original": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "AI企业Anthropic与投资机构黑石押注，下一个万亿级AI业务并非模型开发，而是AI落地实施。目前获Anthropic支持的AI企业Ode已成立，行业观点认为，将前沿部署工程师派驻入企业，是加速企业AI应用普及的关键。",
+      "summary_original": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T13:10:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "53c42ac5",
+      "title": "Anthropic与黑石押注：下一个万亿美元AI业务是落地实施而非模型",
+      "title_original": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "AI公司Anthropic与投资机构黑石押注，下一个万亿美元级AI业务是落地实施而非模型开发。获Anthropic支持的Ode已正式推出，当前多家AI实验室认为，向企业派驻前沿工程师是加快企业AI落地应用的关键。",
+      "summary_original": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T13:10:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f57a4435",
+      "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+      "title_original": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "客户来电服务提供商Rime完成2400万美元A轮融资，目前该企业每月可为多家合作企业处理超过1亿通客户来电，本次融资将用于拓展相关业务，助力更多企业高效完成客户来电对接处理工作。",
+      "summary_original": "Rime is handling over 100 million calls each month across multiple companies",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9f15475d",
+      "title": "Reelful人工智能可将你的相册转为社交媒体短视频",
+      "title_original": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "Reelful推出面向社交内容创作的相关应用，其搭载的人工智能可将用户相册中的素材转化为适合社交媒体发布的短视频。该应用服务于有创作需求，但认为传统剪辑工具操作复杂、耗时过长的用户，可降低创作门槛。",
+      "summary_original": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9f15475d",
+      "title": "Reelful人工智能可将用户相册转化为社交媒体短视频",
+      "title_original": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "Reelful推出一款面向社交内容创作者的应用，其搭载的人工智能可将用户手机相册中的素材转化为适配社交媒体的短视频，解决了不少创作者认为传统剪辑工具操作复杂、过于耗时的痛点，降低了创作门槛。",
+      "summary_original": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f57a4435",
+      "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+      "title_original": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "客户来电处理服务商Rime近日完成2400万美元A轮融资，将依托融资拓展业务，满足企业处理客户来电的相关需求。目前Rime已服务多家企业，每月为合作企业处理的客户来电总量超过1亿通。",
+      "summary_original": "Rime is handling over 100 million calls each month across multiple companies",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7edd59fa",
+      "title": "省人大常委会党组理论学习中心组学习会召开：确保人大工作始终沿着正确政治方向前进 - 四川新闻",
+      "title_original": null,
+      "summary": "多家媒体发布多领域新闻内容：四川新闻报道四川省人大常委会党组理论学习中心组学习会召开，会议明确要确保人大工作始终沿着正确政治方向前进；其余媒体分别刊发福建省政府党组学习会议、解读党的百年历史特质、战舰帆缆兵追梦故事相关报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUmh0RXlXUXBSTnN0QjVQVWRtdlBUSzdnTTBPNVZ5ZndIX0xNb1o5UW5PeEN4WTdDdlFsU0pRMXBkdnRodkRXTWFDR1NXX0JTeHR0RFFyLWdEajFjTF95RGpEVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T12:33:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "099ede8c",
+      "title": "美国发动新打击 伊朗威胁封锁更多贸易航线",
+      "title_original": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "summary": "在美国对伊朗发动新一轮打击后，伊朗方面发出威胁称将封锁更多贸易航线。美国总统唐纳德·特朗普公开放话，若伊朗不同意重返谈判桌，美方将于下周对伊朗境内的桥梁、发电厂发动打击。",
+      "summary_original": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb1/live/6a4eb2f0-8044-11f1-8a74-43d9da26a654.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T12:26:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e0112154",
+      "title": "俄军袭击致六人死亡 乌克兰袭击黑海油轮",
+      "title_original": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
+      "summary": "昨夜，俄军对乌克兰敖德萨与苏梅两地的目标发动袭击，袭击已造成六人死亡。与此同时，乌克兰方面采取行动，对黑海水域的二十艘俄罗斯船只发动袭击，俄乌双方在黑海及乌境内的敌对冲突仍在持续。",
+      "summary_original": "Overnight Russia attacked sites in Odesa and Sumy, while Ukraine attacked 20 Russian vessels in the Black Sea.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T12:19:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bef6769a",
+      "title": "摩托罗拉Edge 70 Max主打强劲性能",
+      "title_original": "The Motorola Edge 70 Max is all about power",
+      "summary": "摩托罗拉推出最新旗舰手机Edge 70 Max，该机专为视频流媒体播放、移动游戏等高负载任务打造，配备大容量电池与有线快充，同时也是谷歌推出Pixel系列后，首款支持完整25W Qi2无线充电的安卓手机。",
+      "summary_original": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired charging support, the Motorola Edge 70 Max is the first Android phone to support full 25W wireless Qi2 charging since Google launched the Pixel [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T12:18:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5c918f53",
+      "title": "每日科技速递：实用量子机器与破纪录海底隧道",
+      "title_original": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "summary": "这是面向工作日推出的科技通讯今日刊，旨在每日推送全球科技领域最新动态。本期涵盖多个科技热点，披露PsiQuantum公司计划依托光技术打造可改变世界的大型量子计算机，该机将安置在类似数据中心的专用空间内。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-07-15T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "886fc360",
+      "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋身独角兽",
+      "title_original": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "印度人工智能编码初创企业Emergent完成1.3亿美元C轮融资，成功跻身全球独角兽企业行列。这家初创企业当前年化营收运行率达到1.2亿美元，付费客户数量已经超过20万。",
+      "summary_original": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "54bdfbfd",
+      "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+      "title_original": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "作为互联网核心协议TCP/IP的缔造者，温顿·瑟夫目前正推进向开放互联网部署AI智能体的相关计划，同时他也在制定一套标准，用于识别公开网络环境中的各类AI智能体。",
+      "summary_original": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2afe0523",
+      "title": "为何睿尔塔聚变公司要在旧热狗工厂建造聚变反应堆",
+      "title_original": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+      "summary": "美国威斯康星州一座原食品品牌奥斯卡·梅耶的旧热狗工厂，将由聚变企业睿尔塔聚变改造，用于建造聚变反应堆。改造完成后，这里将成为美国最新的聚变能源研发中心，进一步推进美国聚变能源领域的技术研发工作。",
+      "summary_original": "An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5e881250",
+      "title": "家得宝网红12英尺骷髅装饰现已能说话",
+      "title_original": "Home Depot’s viral 12-foot skeleton now talks",
+      "summary": "随着万圣鬼季临近，家居零售商家得宝升级旗下爆红的12英尺高骷髅万圣节装饰，借鉴去年推出的6.5英尺超级骷髅的相关技术，支持用户通过手机APP操控骷髅动嘴并借其发声，以此维持这款爆款装饰的热度。",
+      "summary_original": "The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including letting you speak through the skeleton's moving mouth using a mobile app. The [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "886fc360",
+      "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋升独角兽",
+      "title_original": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "印度人工智能编码初创企业Emergent完成1.3亿美元C轮融资后，正式晋升为独角兽企业。目前该公司年化营收达到1.2亿美元，拥有超过20万名付费客户，业务增长表现亮眼。",
+      "summary_original": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "54bdfbfd",
+      "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+      "title_original": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "作为互联网核心基础协议TCP/IP的缔造者，温顿·瑟夫正推进面向开放互联网的AI智能体相关计划，目前他正在牵头制定一套可识别开放网络环境中AI智能体的统一标准，为AI智能体落地开放互联网提供规范基础。",
+      "summary_original": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "428bb205",
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "title_original": null,
+      "summary": "《智能涌现》独家获悉，端侧大模型公司面壁智能的MiniCPM系列端侧模型将搭载三星数款旗舰手机上市。同日，网信部门公布7款手机端侧生成式AI服务完成备案，标志端侧AI告别概念探索进入规模化落地阶段，端侧模型市场化分工正逐步形成。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_c47f286e2748467fbc532dd4448e4721@2057308263_oswg372385oswg1080oswg1007_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896830362601351?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T11:47:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7c56b687",
+      "title": "意大利总理梅洛尼在选举改革票决中意外受挫",
+      "title_original": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "summary": "意大利总理梅洛尼推动的选举改革在票数接近的票决中意外失利，此次失利引发反对党集体发声，反对党纷纷呼吁梅洛尼在明年全国大选到来前辞去总理职务，这一意外受挫给梅洛尼的执政之路增添了新的变数。",
+      "summary_original": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aee/live/f5abe350-8039-11f1-86b6-ffbb9ce74513.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T11:44:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "729e6e3f",
+      "title": "塞拉利昂撤销针对涉未遂政变前总统的叛国指控",
+      "title_original": "Sierra Leone drops treason charge against ex-president over attempted coup",
+      "summary": "塞拉利昂已撤销针对前总统欧内斯特·巴伊·科罗马的叛国指控，该指控与一起未遂政变相关。2023年，武装人员闯入该国一处军械库及多所监狱，释放多名在押囚犯，事件发生后科罗马遭到逮捕。",
+      "summary_original": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd1/live/0dc02dc0-8030-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T11:43:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fa0b8925",
+      "title": "热浪促使意大利外卖骑手罢工争取额外权益",
+      "title_original": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+      "summary": "受高温热浪影响，意大利米兰、博洛尼亚、佛罗伦萨多地的外卖骑手发起罢工。此次罢工中，骑手们提出要保障自身身体健康，同时维护自身薪资待遇，争取符合自身需求的相关额外权益。",
+      "summary_original": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d193/live/da486780-803b-11f1-ad4e-5b151eaf0c69.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T11:38:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e93fe0fc",
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "title_original": null,
+      "summary": "三大共享单车平台近期在国内多城完成集体调价；瓜子二手车线下直卖场首店开业，正推进全国布局；LG新能源将为谷歌规模最大的光储一体项目供应电池；腾讯元宝打通京东AI Agent小程序生态；日本散户美元净空头创2008年以来新高，央行公布上半年人民币存款新增17.76万亿元。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3896563671222147?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T11:37:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5d4a2db3",
+      "title": "习近平考察上海 听取“历史性解决老城区居民拎马桶问题”介绍 - 联合早报",
+      "title_original": null,
+      "summary": "习近平考察上海期间，听取了关于历史性解决当地老城区居民拎马桶问题的相关介绍。拎马桶问题长期困扰上海老城区居民日常生活，这一民生难题的解决，是上海推进城市更新、补齐民生短板的一项重要标志性民生成果。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhejZBelJweDBJX2ExY1dwczZMdVRKQVp6b2dENmUxM0Rka3dQYkpLM3p6NnhXemVGcXQ4TlNtVFN6LWJubkhNSjhFTTVnSnMwX1hiYndxVGdBY1pBZ2lSWU1yLXo5cmdISlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T11:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8a9eade2",
+      "title": "胡锡进称贾浅浅事件是正义的胜利！ - 中华网",
+      "title_original": null,
+      "summary": "西北大学就贾浅浅被举报学术不端事件作出通报，认定贾浅浅多篇论文存在抄袭，作出撤销其硕士学位、撤销教师岗位任职资格并解除聘用的处理。该事件引发多家媒体关注讨论，胡锡进评价此事为正义的胜利，也有媒体关注同类学术不端事件通报表述的差异问题。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZTJsVUpnbVA1S2w4dXdLeFc0NnBFcmFxdGF4M0p4OGR2Nm9uajBqZjhIaFpEYzM2UThCNF94Y1ljT1E5czQycjROdi1CeTNsd1hOVlE1Rmx6SmFQQ1pVZzZjQkRJMTBTZTVpdFNrZG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T11:11:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "646c882e",
+      "title": "获6000万美元融资 Oak走出隐身模式解决AI智能体加剧的身份乱象",
+      "title_original": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "summary": "由连续创业者夏伊·莫拉格联合创立的以色列身份管理初创公司Oak，已完成6000万美元种子轮融资，正式脱离隐身运营阶段，将着手解决AI智能体发展过程中不断加剧的身份管理混乱问题。",
+      "summary_original": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "35e5bc69",
+      "title": "苹果在中国获批推出由阿里巴巴提供支持的人工智能服务",
+      "title_original": "Apple Receives Approval for Alibaba-Powered AI Service in China",
+      "summary": "苹果公司已在中国获得推出人工智能服务的批准，该服务由阿里巴巴提供支持，现有标题仅披露上述信息，未提及更多相关内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/apple-receives-approval-alibaba-powered-ai-service-china",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-15T10:59:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "26911200",
+      "title": "DeepSeek年化收入接近5亿美元 助推融资与IPO计划",
+      "title_original": "DeepSeek’s Annualized Revenue Nears $500 Million, Boosting Fundraise and IPO Plans",
+      "summary": "DeepSeek的年化收入目前已接近5亿美元，这一营收状况将推动自身的融资进程，同时也将助力其IPO计划顺利推进。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-15T10:55:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ea0aad7c",
+      "title": "肯尼亚法院驳回拉斯塔法里教徒大麻合法化申请",
+      "title_original": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "summary": "肯尼亚法院近日驳回了拉斯塔法里教徒提出的将大麻合法化的诉求，法院在作出这一裁决时承认，肯尼亚国内目前需要围绕大麻政策这一议题，展开范围更广的全国性公开讨论。",
+      "summary_original": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40bf/live/f5625400-8035-11f1-b976-0b9c15b0ccfc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T10:50:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "17e935b0",
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "title_original": null,
+      "summary": "2026年，网易《蛋仔派对》在第四届创作者大会推出行业首个覆盖两种同步技术的“双子星”UGC编辑器体系，将前沿AI深度嵌入创作全链路，降低创作门槛。目前该游戏全球注册用户超7亿，拥有5000万原生UGC开发者，已跑通成熟商业化闭环，正探索下一代AI原生UGC平台的可行形态。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_53a45e742c6845df991365fb8d32b120@16519798_oswg493783oswg1080oswg507_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896755010963333?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T10:36:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0017a7f5",
+      "title": "前SpaceX老将筹得6500万美元 推动线束技术告别冷战时代",
+      "title_original": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+      "summary": "火箭、导弹、卫星等各类航空航天装备都需要将内部各类电线集成捆束形成专用线束，目前该领域相关技术仍停留在冷战时期的老旧水平，一名前SpaceX资深人士近日筹得6500万美元，计划对这一核心配套技术升级改造。",
+      "summary_original": "Someone has to bundle all the wires that go into rockets, missiles, and satellites.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T10:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "92628fb4",
+      "title": "中国经济增速大幅下滑 未达增长目标",
+      "title_original": "China economic growth falls sharply, missing target",
+      "summary": "中国出口表现强劲，但受国内需求疲软，以及伊朗战争对油价造成的冲击影响，这些负面因素盖过了强劲出口带来的正向拉动，使得中国经济增速大幅下滑，未能达到既定增长目标。",
+      "summary_original": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T10:21:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9a9403b1",
+      "title": "三星新型可折叠屏幕更不易起折痕、更耐损",
+      "title_original": "Samsung’s new foldable display is harder to crease and damage",
+      "summary": "三星推出面向折叠屏手机的全新柔性显示技术，该技术名为Flex Titanium，更纤薄、更耐用，不易产生折痕。这项技术凝聚了三星七代折叠屏产品的研发经验，将在即将发布的Galaxy Z Fold 8上首次亮相。",
+      "summary_original": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of foldables, according to Samsung, and will debut with the upcoming Galaxy Z Fold 8 [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T10:19:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc435494",
+      "title": "Spotify创始人丹尼尔·埃克将把全身扫描诊所引入美国",
+      "title_original": "Spotify’s Daniel Ek is bringing his body-scanning clinics to the US",
+      "summary": "Spotify创始人丹尼尔·埃克旗下的全身扫描初创企业Neko Health，在从名人、创业者及投资机构组成的投资方筹得7亿美元融资后，计划进军美国。该机构运营提供全身扫描服务的私人诊所，拟今年在纽约开设首家诊所，随后将在全美快速扩张。",
+      "summary_original": "Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting its sights on the United States after raising $700 million from a star-studded group of celebrities, entrepreneurs, and investment firms. It plans to open its first clinic in New York this year before expanding rapidly across the country. Neko operates private clinics offering full-body scans [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T10:13:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "eed68a6f",
+      "title": "PS6极有可能是掌机",
+      "title_original": "The PS6 sure sounds like a handheld",
+      "summary": "当前电子游戏行业正处于动荡期，微软、索尼均已开启下一代游戏主机的转型布局，目前形势不容乐观：主机价格飙升、索尼计划停用实体游戏光盘、微软转型前剥离多家工作室，有分析猜测PS6或将为掌机以吸引消费者购买。",
+      "summary_original": "The video game industry is in turmoil. Microsoft and Sony are starting to pivot to their next consoles, but it's not looking great: Prices are soaring, Sony is killing the video game disc, and Microsoft is jettisoning studios ahead of the transition. What could entice people to pay? On the Xbox front, we genuinely can't [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "84a1ccc3",
+      "title": "支付宝不想做AI时代的配角",
+      "title_original": null,
+      "summary": "近期，支付宝完成上线22年来最大改版，其AI智能体“阿宝”正式开启全量公测，几乎同期微信支付等多家头部支付机构密集推出AI布局，支付行业智能体竞争悄然开启。不同玩家依据自身生态选择差异化发展路径，均以安全信任为基础，推动支付从交易配角转向消费决策入口。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_b6e8366970a8416a954679c0db594fc4@5623968_oswg169685oswg901oswg518_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896720584738435?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T09:50:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ef248ac",
+      "title": "调查人员称印度航空坠机事故报告或于10月出炉",
+      "title_original": "Air India crash report likely to be ready in October, say investigators",
+      "summary": "印度航空此前发生一起坠机事故，事故共造成260人遇难，其中包含机上241名人员，整场事故仅一名乘客生还。调查人员透露，该坠机事故的调查报告预计将于10月编制完成。",
+      "summary_original": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d29/live/a6d13090-8012-11f1-855c-e18bf6105698.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-15T09:45:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d0b142f3",
+      "title": "中医说三伏｜三伏分三段养 薏米水别盲目喝 - 西部网",
+      "title_original": null,
+      "summary": "今年三伏为时长40天的加长版，目前多地已正式入伏，不同地区天气情况有别，部分地区以高温闷热天气为主，部分地区入伏迎来降雨降温。多家媒体关注三伏养生，指出三伏需分三段调养，提醒不要盲目饮用薏米水，称此时正是冬病夏治的好时机。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOURZdkd1SEN6WnhNRml6V0UwRlMzLXJNWUh1ZzFkbVR3WnRsWHFWN3ZJVGd0QzFtcHN5dmxzUDlPN0tkeHgxaDdMTFdjMnBOR25Lc1d4SUNmWFBwT2wtUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T09:43:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a64c86a5",
+      "title": "沈阳遭遇强降雨后：部分区域积水未完全消退，受灾小区正抢修水电 - 新京报",
+      "title_original": null,
+      "summary": "沈阳遭遇强降雨后，目前部分区域积水尚未完全消退，受灾小区正加紧抢修水电。子弟兵奋战在加固堤坝、清淤抢险一线，医护人员坚守岗位守护生命，当地粮油蔬菜等民生物资量足价稳，还有90后男子开铲车救援被困人员，婉拒酬谢。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nV0NxaWRtOExxd3Y4eVFiUktNMzJ4ZHcyOFQ3SnJ1dVVXemZhLU5pU2Y2LUFmY0lYNkFCQkxCbTJUSFJBN0p3M3BYZnVpUGxXcHdHREgtY29iSmQ4cGJXZkVCbVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T09:20:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7823fc21",
+      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+      "title_original": null,
+      "summary": "7月3日至4日，首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区举办。依托当地千亿级AI产业集群与半岛多元真实生活场景，活动搭建起AI产品测试、资源对接平台，推动AI落地文旅、运动、康养等日常场景，助力AI初创项目贴近市场迭代。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_ff327a59564e4aabba6f26d61cd4d748@6108898_oswg167386oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896639400183687?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T08:30:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e7edb4ff",
+      "title": "曼谷酒吧火灾曝致命疏漏 同类问题全球屡有发生",
+      "title_original": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "summary": "曼谷一家酒吧发生火灾，事故已造成30人死亡。目前调查审查方向聚焦该场所两处安全疑点：酒吧天花板是否使用易燃泡沫材料，疏散出口是否被封堵，这类致命安全疏漏在全球范围内反复出现。",
+      "summary_original": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-thailand-fire-01-pbgz/14int-thailand-fire-01-pbgz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-15T07:24:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dc7e2b13",
+      "title": "星链V5天线现已推出 与前代对比一览",
+      "title_original": "Starlink’s V5 dish is now available — here’s how it compares",
+      "summary": "太空探索技术公司（SpaceX）推出的最新民用星链V5天线，目前已在部分选定区域开放使用。相较前代V4，V5体积更小、重量更轻，能效也得到提升。SpaceX将扩大产能满足全球需求，后续将在更多区域开放，该天线暂不支持移动中使用。",
+      "summary_original": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T07:17:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "99d7d203",
+      "title": "法国枫丹白露森林大火 6人因涉嫌纵火被捕 - 中华网",
+      "title_original": null,
+      "summary": "多家媒体报道，受三重热浪侵袭，欧洲正遭遇山火危机，法国枫丹白露爆发森林大火，火势持续蔓延、过火面积不断扩大，当地甚至取用塞纳河水开展灭火作业，目前已有6人因涉嫌纵火引发火情被逮捕。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VFBfN3dTSWdFSzVQLVlOVlFnMVR6N09WSWg4VzNpaVV3M3ZrSUpjU09oUThDQnhYRG1LaGxMcE81TldRSWpvSTJUWlN0NFZNWDVKVnhYNU9Td0I4eXp5N1RSeHVweEdNaW4wRzFKNTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T07:14:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "91883dae",
+      "title": "经纬线·105年成就非凡，从多国领导人来华读懂中国共产党为什么能 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "中国共产党成立105年来取得非凡发展成就，人民网推出“经纬线”相关评论文章指出，可从多国领导人接连来华的互动交往中，读懂中国共产党为什么能带领中国取得如今举世瞩目的发展成果，破解中国共产党的成功密码。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tcnpTM2c2UHJ1aTFFaFljNnpFYzFpeHhBakd6VUdwWGFMMzVubFVad2xBbkJLTXhFMjlkc3EtelAzUGlfbGl2VW9XcVVPX0ZXS01mUjVtQlBLb2NLLTdKdTg3aUxSZUxuM2I2MkRFRC1hdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T07:04:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3955f643",
+      "title": "布鲁塞尔市中心火灾后电梯内六人遇难",
+      "title_original": "Six Dead in an Elevator After Fire in Central Brussels",
+      "summary": "周二上午，布鲁塞尔市中心的奥克西大厦突发火灾，火灾发生后，相关人员在大厦内的一部电梯中发现六具遇难者遗体，这起事故目前已确认造成六人死亡，暂未公布更多关于事故的相关细节。",
+      "summary_original": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator.",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-brussels-fire-photo-tfwz/14int-brussels-fire-photo-tfwz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-15T07:01:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9f102db5",
+      "title": "四大一线城市房价继续修复上涨",
+      "title_original": null,
+      "summary": "7月15日，国家统计局公布2026年6月70个大中城市房价数据，四大一线城市新房、二手房已连续四月环比上涨，整体维持修复态势，全国楼市显现清晰筑底修复信号，库存压力逐步缓解，机构认为本轮楼市调整已接近尾声，核心城市下半年修复节奏不变。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_adce2b1138bb4d1c9fd8bf4d47348fdd@6208419_oswg183689oswg1055oswg1209_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896544104793993?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T06:49:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "eff8ecb3",
+      "title": "优衣库再失一枚棋子",
+      "title_original": null,
+      "summary": "资深时尚记者披露，法国设计师Christophe Lemaire与搭档Sarah-Linh Tran计划退出优衣库U系列，2026秋冬系列或为双方十年合作的收官之作。这场合作互利双赢，U系列是优衣库核心创新试验线，它的离场将给优衣库欧美扩张进程带来不利影响，截至目前双方均未置评。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260707/v2_4fed86921b2e4a07aa59d8289711ff60@5922386_oswg563399oswg1816oswg1032_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3885699885445122?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T05:25:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "740b261c",
+      "title": "耐克中国，壮士断腕",
+      "title_original": null,
+      "summary": "耐克计划调整中国线上经销体系，拟推动经销体系直营化，统一商品节奏、价格、库存管理等标准，重构中国零售体系，该调整涉及约10亿美元规模的批发业务，耐克已做好承受短期阵痛的准备，目标是重建健康渠道秩序，推动中国市场恢复增长。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3876646017216516?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T05:25:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "80c364ff",
+      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+      "title_original": null,
+      "summary": "36氪独家获悉，安踏品牌CEO徐阳因家庭原因辞任，集团执行董事、联席CEO赖世贤即日起代理该职。徐阳上任后推行激进零售实验与高增长目标未能达成，其离任意味着安踏主品牌将暂时告别激进探索，重回稳守基本盘的路线。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3889213745543687?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T05:25:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "36e405d7",
+      "title": "第十一届世界华侨华人社团联谊大会闭幕 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "第十一届世界华侨华人社团联谊大会已闭幕，会前王沪宁会见了该大会全体代表。这一侨界盛会迄今已走过25年发展历程，大会聚焦团结凝聚广大海外侨胞与归侨侨眷，围绕凝侨心聚侨力、推动海外侨团薪火相传开展相关研讨。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zNVIwNTN4dno5OE1OZ0dpbk1tQktfMmp4M2pUM0dPdUd6elFkZUdZV1NHaVhwT2Myd0tFZm42bUFELW5hZDN0ZTRaTk8tRVlqOE1MZ1ZBbmJRMWgxWFNScTNJVUFQTWJMTk5HVHM3RF9hNVF5dXRfVVBLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T04:57:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "601ed41b",
+      "title": "英国警方称安·威德科姆在‘定向袭击’中遇害",
+      "title_original": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
+      "summary": "英国反恐警方目前正对一名28岁男子持续开展讯问，该男子被指控杀害安·威德科姆。安·威德科姆是英国右翼政党英国改革党的知名成员，英国警方认定这是一起针对受害者的定向袭击事件。",
+      "summary_original": "Counterterrorism police said that they were continuing to interview a 28-year-old man accused of killing Ann Widdecombe, a prominent member of the right-wing Reform U.K. party.",
+      "image": "https://static01.nyt.com/images/2026/07/14/world/14int-uk-murder-investigation-alaofna/Hugh-Hastings-Getty-Images-aalgni-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-15T04:38:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2183cb6d",
+      "title": "谷歌与Epic停战 第三方安卓应用商店下周上线",
+      "title_original": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "summary": "Epic Games与谷歌共同撤回美国相关诉讼的追溯和解尝试，谷歌将被迫允许第三方竞品应用商店入驻自身平台。谷歌已向法院确认完成相关准备，第三方安卓应用商店将于下周正式落地。",
+      "summary_original": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-15T03:28:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "af2be5f0",
+      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+      "title_original": null,
+      "summary": "前非夕科技核心业务合伙人袁琳创办聚焦垂域工业智能体的追知工科，该企业为上海交大成果转化项目，近日完成数千万元种子轮融资，资金将用于产品研发与团队建设等。目前其产品已完成高精度制造场景验证，拿下航空制造领域千万级订单。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_758ce0cace0542eaaa360193443cf7a3@5920579_oswg27836oswg1080oswg447_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3896298534520705?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-15T02:40:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9d0a6ca5",
+      "title": "文明乡风看山东丨沂蒙山上好“风”光 - 山东宣传网",
+      "title_original": null,
+      "summary": "多家主流媒体聚焦报道山东临沂沂蒙老区文明乡风建设成果，该地在打造乡村“高颜值”的同时，着力涵养乡风“高气质”，推动文明乡风软实力转化为乡村振兴的硬支撑，为全国文明乡风建设给出了优秀答案。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBUjFsVndJRVJiRUloUkhFdGF0N0NmMThKd0haSWJnakxFMlRzSXROd2x1V0JSc2FIOEo2SXF5dUxBS1RKZzh1SnZkc1VfNld1Yzh4Ml94WVhSVko2c3lNaW1mNWZQVnZTMFA3ZHpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T02:38:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "28e622f5",
+      "title": "OpenAI研究员迈尔斯·王洽谈创办估值20亿美元AI药物研发初创公司",
+      "title_original": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "OpenAI研究员迈尔斯·王正洽谈创办估值20亿美元的AI药物研发初创公司。相关融资磋商显示，投资者对利用人工智能实现生命科学领域的技术突破抱有浓厚兴趣，看好AI赋能医药研发赛道的发展前景。",
+      "summary_original": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-15T00:27:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "28e622f5",
+      "title": "OpenAI研究员迈尔斯·王洽谈创办AI药物发现初创公司 估值达20亿美元",
+      "title_original": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "OpenAI研究员迈尔斯·王正筹备创办一家估值20亿美元的人工智能药物发现初创公司，目前相关融资洽谈正在推进，该动向反映出投资者对借助人工智能实现生命科学领域突破抱有浓厚兴趣。",
+      "summary_original": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-15T00:27:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e4c8177b",
+      "title": "人民城市人民建 人民城市为人民（新时代画卷） - 人民网",
+      "title_original": null,
+      "summary": "人民网推出新时代画卷系列内容《人民城市人民建 人民城市为人民》，内容聚焦新时代城市建设，紧扣“人民城市人民建，人民城市为人民”核心理念，凸显以人民为中心的城市发展方向，读者可在Google新闻平台查看该内容及更多人民网发布的头条新闻与观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JejFjX09ITENkeVk1WXk4YnJWWlhQaE51anRnd2tHOXA1R2RnUTVhTDlrc1otMkFkNkdRVENjMDhjVUtQc2dXLURyN21md0hYcDNqZ2x4SV84YXBIMjhIRzBrOFZlaXgzdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-15T00:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5258cc0b",
+      "title": "特朗普在霍尔木兹通行费问题上退让 表明其难以结束伊朗冲突",
+      "title_original": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "summary": "美国总统特朗普在霍尔木兹通行费问题上突然转变立场做出退让，这一反转是已持续四个多月的美伊冲突进程中的最新变局，同时也凸显出特朗普目前在推动结束对伊冲突的问题上正陷入困境。",
+      "summary_original": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-14T23:17:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0a8a6aa5",
+      "title": "洛德称AI眼镜“不够性感”",
+      "title_original": "Lorde says AI glasses are ‘not sexy’",
+      "summary": "知名歌手洛德在舞台发言时，公开发表对AI眼镜的评价，直言这类智能产品“不够性感”。她同时表示，当下世界真假边界愈发模糊，人们已经越来越难分辨什么才是真实存在的事物。",
+      "summary_original": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-14T23:10:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0a8a6aa5",
+      "title": "洛德称AI眼镜“不性感”",
+      "title_original": "Lorde says AI glasses are ‘not sexy’",
+      "summary": "新西兰知名歌手洛德近日在舞台公开发声，评价新兴科技产品AI眼镜“不性感”。她同时指出，当下现实世界中，人们越来越难以分辨何为真实，科技介入生活带来的真实认知困境正不断加剧。",
+      "summary_original": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-14T23:10:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ccd271d",
+      "title": "颜值出众的Nothing Watch 3 Pro智能手表仅售69美元",
+      "title_original": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+      "summary": "目前多数健身追踪器为压缩成本压低价格选择缩减屏幕，Nothing旗下子品牌CMF推出的Watch 3 Pro智能手表定位平价，仍配备1.43英寸OLED屏幕，该款全配色版本当前在亚马逊售价仅69美元，其日常价格浮动在79至99美元之间。",
+      "summary_original": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in every color (the price fluctuates between $79 and $99). Some notable [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-14T22:24:26+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "1fa7e57a",
+      "title": "Anthropic与黑石押注：下一个万亿级AI业务是落地实施，而非模型",
+      "summary": "AI企业Anthropic与投资机构黑石押注，下一个万亿级AI业务并非模型开发，而是AI落地实施。目前获Anthropic支持的AI企业Ode已成立，行业观点认为，将前沿部署工程师派驻入企业，是加速企业AI应用普及的关键。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "53c42ac5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "53c42ac5",
+          "source": "TechCrunch",
+          "title": "Anthropic与黑石押注：下一个万亿级AI业务是落地实施，而非模型",
+          "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "published_at": "2026-07-15T13:10:47+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:10:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1fa7e57a",
+      "title": "Anthropic与黑石押注：下一个万亿美元AI业务是落地实施而非模型",
+      "summary": "AI公司Anthropic与投资机构黑石押注，下一个万亿美元级AI业务是落地实施而非模型开发。获Anthropic支持的Ode已正式推出，当前多家AI实验室认为，向企业派驻前沿工程师是加快企业AI落地应用的关键。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "53c42ac5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "53c42ac5",
+          "source": "TechCrunch AI",
+          "title": "Anthropic与黑石押注：下一个万亿美元AI业务是落地实施而非模型",
+          "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "published_at": "2026-07-15T13:10:47+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:10:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "203f35a5",
+      "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+      "summary": "客户来电服务提供商Rime完成2400万美元A轮融资，目前该企业每月可为多家合作企业处理超过1亿通客户来电，本次融资将用于拓展相关业务，助力更多企业高效完成客户来电对接处理工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f57a4435"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f57a4435",
+          "source": "TechCrunch",
+          "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+          "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+          "published_at": "2026-07-15T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bea2ff93",
+      "title": "Reelful人工智能可将你的相册转为社交媒体短视频",
+      "summary": "Reelful推出面向社交内容创作的相关应用，其搭载的人工智能可将用户相册中的素材转化为适合社交媒体发布的短视频。该应用服务于有创作需求，但认为传统剪辑工具操作复杂、耗时过长的用户，可降低创作门槛。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9f15475d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9f15475d",
+          "source": "TechCrunch",
+          "title": "Reelful人工智能可将你的相册转为社交媒体短视频",
+          "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+          "published_at": "2026-07-15T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bea2ff93",
+      "title": "Reelful人工智能可将用户相册转化为社交媒体短视频",
+      "summary": "Reelful推出一款面向社交内容创作者的应用，其搭载的人工智能可将用户手机相册中的素材转化为适配社交媒体的短视频，解决了不少创作者认为传统剪辑工具操作复杂、过于耗时的痛点，降低了创作门槛。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9f15475d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9f15475d",
+          "source": "TechCrunch AI",
+          "title": "Reelful人工智能可将用户相册转化为社交媒体短视频",
+          "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+          "published_at": "2026-07-15T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "203f35a5",
+      "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+      "summary": "客户来电处理服务商Rime近日完成2400万美元A轮融资，将依托融资拓展业务，满足企业处理客户来电的相关需求。目前Rime已服务多家企业，每月为合作企业处理的客户来电总量超过1亿通。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f57a4435"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f57a4435",
+          "source": "TechCrunch AI",
+          "title": "Rime获2400万美元A轮融资 助力企业处理客户来电",
+          "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+          "published_at": "2026-07-15T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "697ba2d4",
+      "title": "省人大常委会党组理论学习中心组学习会召开：确保人大工作始终沿着正确政治方向前进 - 四川新闻",
+      "summary": "多家媒体发布多领域新闻内容：四川新闻报道四川省人大常委会党组理论学习中心组学习会召开，会议明确要确保人大工作始终沿着正确政治方向前进；其余媒体分别刊发福建省政府党组学习会议、解读党的百年历史特质、战舰帆缆兵追梦故事相关报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7edd59fa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7edd59fa",
+          "source": "Google News (中国)",
+          "title": "省人大常委会党组理论学习中心组学习会召开：确保人大工作始终沿着正确政治方向前进 - 四川新闻",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUmh0RXlXUXBSTnN0QjVQVWRtdlBUSzdnTTBPNVZ5ZndIX0xNb1o5UW5PeEN4WTdDdlFsU0pRMXBkdnRodkRXTWFDR1NXX0JTeHR0RFFyLWdEajFjTF95RGpEVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T12:33:24+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:33:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a29c798",
+      "title": "美国发动新打击 伊朗威胁封锁更多贸易航线",
+      "summary": "在美国对伊朗发动新一轮打击后，伊朗方面发出威胁称将封锁更多贸易航线。美国总统唐纳德·特朗普公开放话，若伊朗不同意重返谈判桌，美方将于下周对伊朗境内的桥梁、发电厂发动打击。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb1/live/6a4eb2f0-8044-11f1-8a74-43d9da26a654.jpg",
+      "article_ids": [
+        "099ede8c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "099ede8c",
+          "source": "BBC World",
+          "title": "美国发动新打击 伊朗威胁封锁更多贸易航线",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T12:26:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:26:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a23b4ea",
+      "title": "俄军袭击致六人死亡 乌克兰袭击黑海油轮",
+      "summary": "昨夜，俄军对乌克兰敖德萨与苏梅两地的目标发动袭击，袭击已造成六人死亡。与此同时，乌克兰方面采取行动，对黑海水域的二十艘俄罗斯船只发动袭击，俄乌双方在黑海及乌境内的敌对冲突仍在持续。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+      "article_ids": [
+        "e0112154"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e0112154",
+          "source": "BBC World",
+          "title": "俄军袭击致六人死亡 乌克兰袭击黑海油轮",
+          "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T12:19:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:19:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c440ba72",
+      "title": "摩托罗拉Edge 70 Max主打强劲性能",
+      "summary": "摩托罗拉推出最新旗舰手机Edge 70 Max，该机专为视频流媒体播放、移动游戏等高负载任务打造，配备大容量电池与有线快充，同时也是谷歌推出Pixel系列后，首款支持完整25W Qi2无线充电的安卓手机。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bef6769a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bef6769a",
+          "source": "The Verge",
+          "title": "摩托罗拉Edge 70 Max主打强劲性能",
+          "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
+          "published_at": "2026-07-15T12:18:22+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:18:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "84e65db5",
+      "title": "每日科技速递：实用量子机器与破纪录海底隧道",
+      "summary": "这是面向工作日推出的科技通讯今日刊，旨在每日推送全球科技领域最新动态。本期涵盖多个科技热点，披露PsiQuantum公司计划依托光技术打造可改变世界的大型量子计算机，该机将安置在类似数据中心的专用空间内。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5c918f53"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "5c918f53",
+          "source": "MIT Technology Review",
+          "title": "每日科技速递：实用量子机器与破纪录海底隧道",
+          "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+          "published_at": "2026-07-15T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62bcd218",
+      "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋身独角兽",
+      "summary": "印度人工智能编码初创企业Emergent完成1.3亿美元C轮融资，成功跻身全球独角兽企业行列。这家初创企业当前年化营收运行率达到1.2亿美元，付费客户数量已经超过20万。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "886fc360"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "886fc360",
+          "source": "TechCrunch",
+          "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋身独角兽",
+          "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfb77647",
+      "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+      "summary": "作为互联网核心协议TCP/IP的缔造者，温顿·瑟夫目前正推进向开放互联网部署AI智能体的相关计划，同时他也在制定一套标准，用于识别公开网络环境中的各类AI智能体。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "54bdfbfd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "54bdfbfd",
+          "source": "TechCrunch",
+          "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+          "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e0ef48d",
+      "title": "为何睿尔塔聚变公司要在旧热狗工厂建造聚变反应堆",
+      "summary": "美国威斯康星州一座原食品品牌奥斯卡·梅耶的旧热狗工厂，将由聚变企业睿尔塔聚变改造，用于建造聚变反应堆。改造完成后，这里将成为美国最新的聚变能源研发中心，进一步推进美国聚变能源领域的技术研发工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2afe0523"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2afe0523",
+          "source": "TechCrunch",
+          "title": "为何睿尔塔聚变公司要在旧热狗工厂建造聚变反应堆",
+          "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c6cdf1f7",
+      "title": "家得宝网红12英尺骷髅装饰现已能说话",
+      "summary": "随着万圣鬼季临近，家居零售商家得宝升级旗下爆红的12英尺高骷髅万圣节装饰，借鉴去年推出的6.5英尺超级骷髅的相关技术，支持用户通过手机APP操控骷髅动嘴并借其发声，以此维持这款爆款装饰的热度。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5e881250"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5e881250",
+          "source": "The Verge",
+          "title": "家得宝网红12英尺骷髅装饰现已能说话",
+          "link": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62bcd218",
+      "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋升独角兽",
+      "summary": "印度人工智能编码初创企业Emergent完成1.3亿美元C轮融资后，正式晋升为独角兽企业。目前该公司年化营收达到1.2亿美元，拥有超过20万名付费客户，业务增长表现亮眼。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "886fc360"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "886fc360",
+          "source": "TechCrunch AI",
+          "title": "印度AI编码初创公司Emergent获1.3亿美元C轮融资 晋升独角兽",
+          "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfb77647",
+      "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+      "summary": "作为互联网核心基础协议TCP/IP的缔造者，温顿·瑟夫正推进面向开放互联网的AI智能体相关计划，目前他正在牵头制定一套可识别开放网络环境中AI智能体的统一标准，为AI智能体落地开放互联网提供规范基础。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "54bdfbfd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "54bdfbfd",
+          "source": "TechCrunch AI",
+          "title": "温顿·瑟夫正制定计划向开放互联网部署AI智能体",
+          "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "published_at": "2026-07-15T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3863970d",
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "summary": "《智能涌现》独家获悉，端侧大模型公司面壁智能的MiniCPM系列端侧模型将搭载三星数款旗舰手机上市。同日，网信部门公布7款手机端侧生成式AI服务完成备案，标志端侧AI告别概念探索进入规模化落地阶段，端侧模型市场化分工正逐步形成。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_c47f286e2748467fbc532dd4448e4721@2057308263_oswg372385oswg1080oswg1007_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "428bb205"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "428bb205",
+          "source": "36氪",
+          "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+          "link": "https://36kr.com/p/3896830362601351?f=rss",
+          "published_at": "2026-07-15T11:47:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:47:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "75582afc",
+      "title": "意大利总理梅洛尼在选举改革票决中意外受挫",
+      "summary": "意大利总理梅洛尼推动的选举改革在票数接近的票决中意外失利，此次失利引发反对党集体发声，反对党纷纷呼吁梅洛尼在明年全国大选到来前辞去总理职务，这一意外受挫给梅洛尼的执政之路增添了新的变数。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aee/live/f5abe350-8039-11f1-86b6-ffbb9ce74513.jpg",
+      "article_ids": [
+        "7c56b687"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7c56b687",
+          "source": "BBC World",
+          "title": "意大利总理梅洛尼在选举改革票决中意外受挫",
+          "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T11:44:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:44:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce59f62c",
+      "title": "塞拉利昂撤销针对涉未遂政变前总统的叛国指控",
+      "summary": "塞拉利昂已撤销针对前总统欧内斯特·巴伊·科罗马的叛国指控，该指控与一起未遂政变相关。2023年，武装人员闯入该国一处军械库及多所监狱，释放多名在押囚犯，事件发生后科罗马遭到逮捕。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd1/live/0dc02dc0-8030-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "729e6e3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "729e6e3f",
+          "source": "BBC World",
+          "title": "塞拉利昂撤销针对涉未遂政变前总统的叛国指控",
+          "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T11:43:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:43:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f360fdb3",
+      "title": "热浪促使意大利外卖骑手罢工争取额外权益",
+      "summary": "受高温热浪影响，意大利米兰、博洛尼亚、佛罗伦萨多地的外卖骑手发起罢工。此次罢工中，骑手们提出要保障自身身体健康，同时维护自身薪资待遇，争取符合自身需求的相关额外权益。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d193/live/da486780-803b-11f1-ad4e-5b151eaf0c69.jpg",
+      "article_ids": [
+        "fa0b8925"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fa0b8925",
+          "source": "BBC World",
+          "title": "热浪促使意大利外卖骑手罢工争取额外权益",
+          "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T11:38:37+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:38:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e226e28",
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "summary": "三大共享单车平台近期在国内多城完成集体调价；瓜子二手车线下直卖场首店开业，正推进全国布局；LG新能源将为谷歌规模最大的光储一体项目供应电池；腾讯元宝打通京东AI Agent小程序生态；日本散户美元净空头创2008年以来新高，央行公布上半年人民币存款新增17.76万亿元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e93fe0fc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e93fe0fc",
+          "source": "36氪",
+          "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+          "link": "https://36kr.com/p/3896563671222147?f=rss",
+          "published_at": "2026-07-15T11:37:31+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:37:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b7e729ed",
+      "title": "习近平考察上海 听取“历史性解决老城区居民拎马桶问题”介绍 - 联合早报",
+      "summary": "习近平考察上海期间，听取了关于历史性解决当地老城区居民拎马桶问题的相关介绍。拎马桶问题长期困扰上海老城区居民日常生活，这一民生难题的解决，是上海推进城市更新、补齐民生短板的一项重要标志性民生成果。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5d4a2db3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5d4a2db3",
+          "source": "Google News (中国)",
+          "title": "习近平考察上海 听取“历史性解决老城区居民拎马桶问题”介绍 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhejZBelJweDBJX2ExY1dwczZMdVRKQVp6b2dENmUxM0Rka3dQYkpLM3p6NnhXemVGcXQ4TlNtVFN6LWJubkhNSjhFTTVnSnMwX1hiYndxVGdBY1pBZ2lSWU1yLXo5cmdISlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T11:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02c00889",
+      "title": "胡锡进称贾浅浅事件是正义的胜利！ - 中华网",
+      "summary": "西北大学就贾浅浅被举报学术不端事件作出通报，认定贾浅浅多篇论文存在抄袭，作出撤销其硕士学位、撤销教师岗位任职资格并解除聘用的处理。该事件引发多家媒体关注讨论，胡锡进评价此事为正义的胜利，也有媒体关注同类学术不端事件通报表述的差异问题。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8a9eade2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8a9eade2",
+          "source": "Google News (中国)",
+          "title": "胡锡进称贾浅浅事件是正义的胜利！ - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZTJsVUpnbVA1S2w4dXdLeFc0NnBFcmFxdGF4M0p4OGR2Nm9uajBqZjhIaFpEYzM2UThCNF94Y1ljT1E5czQycjROdi1CeTNsd1hOVlE1Rmx6SmFQQ1pVZzZjQkRJMTBTZTVpdFNrZG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T11:11:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:11:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c12b350",
+      "title": "获6000万美元融资 Oak走出隐身模式解决AI智能体加剧的身份乱象",
+      "summary": "由连续创业者夏伊·莫拉格联合创立的以色列身份管理初创公司Oak，已完成6000万美元种子轮融资，正式脱离隐身运营阶段，将着手解决AI智能体发展过程中不断加剧的身份管理混乱问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "646c882e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "646c882e",
+          "source": "TechCrunch",
+          "title": "获6000万美元融资 Oak走出隐身模式解决AI智能体加剧的身份乱象",
+          "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+          "published_at": "2026-07-15T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5af07bbd",
+      "title": "苹果在中国获批推出由阿里巴巴提供支持的人工智能服务",
+      "summary": "苹果公司已在中国获得推出人工智能服务的批准，该服务由阿里巴巴提供支持，现有标题仅披露上述信息，未提及更多相关内容。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "35e5bc69"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "35e5bc69",
+          "source": "The Information",
+          "title": "苹果在中国获批推出由阿里巴巴提供支持的人工智能服务",
+          "link": "https://www.theinformation.com/briefings/apple-receives-approval-alibaba-powered-ai-service-china",
+          "published_at": "2026-07-15T10:59:58+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:59:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e8d77d51",
+      "title": "DeepSeek年化收入接近5亿美元 助推融资与IPO计划",
+      "summary": "DeepSeek的年化收入目前已接近5亿美元，这一营收状况将推动自身的融资进程，同时也将助力其IPO计划顺利推进。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "26911200"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "26911200",
+          "source": "The Information",
+          "title": "DeepSeek年化收入接近5亿美元 助推融资与IPO计划",
+          "link": "https://www.theinformation.com/briefings/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans",
+          "published_at": "2026-07-15T10:55:53+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:55:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bdca6494",
+      "title": "肯尼亚法院驳回拉斯塔法里教徒大麻合法化申请",
+      "summary": "肯尼亚法院近日驳回了拉斯塔法里教徒提出的将大麻合法化的诉求，法院在作出这一裁决时承认，肯尼亚国内目前需要围绕大麻政策这一议题，展开范围更广的全国性公开讨论。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40bf/live/f5625400-8035-11f1-b976-0b9c15b0ccfc.jpg",
+      "article_ids": [
+        "ea0aad7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ea0aad7c",
+          "source": "BBC World",
+          "title": "肯尼亚法院驳回拉斯塔法里教徒大麻合法化申请",
+          "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T10:50:09+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:50:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf272a4e",
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "summary": "2026年，网易《蛋仔派对》在第四届创作者大会推出行业首个覆盖两种同步技术的“双子星”UGC编辑器体系，将前沿AI深度嵌入创作全链路，降低创作门槛。目前该游戏全球注册用户超7亿，拥有5000万原生UGC开发者，已跑通成熟商业化闭环，正探索下一代AI原生UGC平台的可行形态。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_53a45e742c6845df991365fb8d32b120@16519798_oswg493783oswg1080oswg507_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "17e935b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "17e935b0",
+          "source": "36氪",
+          "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+          "link": "https://36kr.com/p/3896755010963333?f=rss",
+          "published_at": "2026-07-15T10:36:56+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:36:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "06c45fc8",
+      "title": "前SpaceX老将筹得6500万美元 推动线束技术告别冷战时代",
+      "summary": "火箭、导弹、卫星等各类航空航天装备都需要将内部各类电线集成捆束形成专用线束，目前该领域相关技术仍停留在冷战时期的老旧水平，一名前SpaceX资深人士近日筹得6500万美元，计划对这一核心配套技术升级改造。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0017a7f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0017a7f5",
+          "source": "TechCrunch",
+          "title": "前SpaceX老将筹得6500万美元 推动线束技术告别冷战时代",
+          "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+          "published_at": "2026-07-15T10:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0338d4b2",
+      "title": "中国经济增速大幅下滑 未达增长目标",
+      "summary": "中国出口表现强劲，但受国内需求疲软，以及伊朗战争对油价造成的冲击影响，这些负面因素盖过了强劲出口带来的正向拉动，使得中国经济增速大幅下滑，未能达到既定增长目标。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
+      "article_ids": [
+        "92628fb4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "92628fb4",
+          "source": "BBC World",
+          "title": "中国经济增速大幅下滑 未达增长目标",
+          "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T10:21:48+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:21:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d4720426",
+      "title": "三星新型可折叠屏幕更不易起折痕、更耐损",
+      "summary": "三星推出面向折叠屏手机的全新柔性显示技术，该技术名为Flex Titanium，更纤薄、更耐用，不易产生折痕。这项技术凝聚了三星七代折叠屏产品的研发经验，将在即将发布的Galaxy Z Fold 8上首次亮相。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9a9403b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9a9403b1",
+          "source": "The Verge",
+          "title": "三星新型可折叠屏幕更不易起折痕、更耐损",
+          "link": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+          "published_at": "2026-07-15T10:19:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:19:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f5fa87bc",
+      "title": "Spotify创始人丹尼尔·埃克将把全身扫描诊所引入美国",
+      "summary": "Spotify创始人丹尼尔·埃克旗下的全身扫描初创企业Neko Health，在从名人、创业者及投资机构组成的投资方筹得7亿美元融资后，计划进军美国。该机构运营提供全身扫描服务的私人诊所，拟今年在纽约开设首家诊所，随后将在全美快速扩张。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "fc435494"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "fc435494",
+          "source": "The Verge",
+          "title": "Spotify创始人丹尼尔·埃克将把全身扫描诊所引入美国",
+          "link": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
+          "published_at": "2026-07-15T10:13:47+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:13:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "28a48e35",
+      "title": "PS6极有可能是掌机",
+      "summary": "当前电子游戏行业正处于动荡期，微软、索尼均已开启下一代游戏主机的转型布局，目前形势不容乐观：主机价格飙升、索尼计划停用实体游戏光盘、微软转型前剥离多家工作室，有分析猜测PS6或将为掌机以吸引消费者购买。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "eed68a6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "eed68a6f",
+          "source": "The Verge",
+          "title": "PS6极有可能是掌机",
+          "link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
+          "published_at": "2026-07-15T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f8bc8e51",
+      "title": "支付宝不想做AI时代的配角",
+      "summary": "近期，支付宝完成上线22年来最大改版，其AI智能体“阿宝”正式开启全量公测，几乎同期微信支付等多家头部支付机构密集推出AI布局，支付行业智能体竞争悄然开启。不同玩家依据自身生态选择差异化发展路径，均以安全信任为基础，推动支付从交易配角转向消费决策入口。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_b6e8366970a8416a954679c0db594fc4@5623968_oswg169685oswg901oswg518_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "84a1ccc3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "84a1ccc3",
+          "source": "36氪",
+          "title": "支付宝不想做AI时代的配角",
+          "link": "https://36kr.com/p/3896720584738435?f=rss",
+          "published_at": "2026-07-15T09:50:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T09:50:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5dcf7880",
+      "title": "调查人员称印度航空坠机事故报告或于10月出炉",
+      "summary": "印度航空此前发生一起坠机事故，事故共造成260人遇难，其中包含机上241名人员，整场事故仅一名乘客生还。调查人员透露，该坠机事故的调查报告预计将于10月编制完成。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d29/live/a6d13090-8012-11f1-855c-e18bf6105698.jpg",
+      "article_ids": [
+        "5ef248ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5ef248ac",
+          "source": "BBC World",
+          "title": "调查人员称印度航空坠机事故报告或于10月出炉",
+          "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-15T09:45:21+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T09:45:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b93abf6",
+      "title": "中医说三伏｜三伏分三段养 薏米水别盲目喝 - 西部网",
+      "summary": "今年三伏为时长40天的加长版，目前多地已正式入伏，不同地区天气情况有别，部分地区以高温闷热天气为主，部分地区入伏迎来降雨降温。多家媒体关注三伏养生，指出三伏需分三段调养，提醒不要盲目饮用薏米水，称此时正是冬病夏治的好时机。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d0b142f3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d0b142f3",
+          "source": "Google News (中国)",
+          "title": "中医说三伏｜三伏分三段养 薏米水别盲目喝 - 西部网",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOURZdkd1SEN6WnhNRml6V0UwRlMzLXJNWUh1ZzFkbVR3WnRsWHFWN3ZJVGd0QzFtcHN5dmxzUDlPN0tkeHgxaDdMTFdjMnBOR25Lc1d4SUNmWFBwT2wtUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T09:43:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T09:43:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2411ce4f",
+      "title": "沈阳遭遇强降雨后：部分区域积水未完全消退，受灾小区正抢修水电 - 新京报",
+      "summary": "沈阳遭遇强降雨后，目前部分区域积水尚未完全消退，受灾小区正加紧抢修水电。子弟兵奋战在加固堤坝、清淤抢险一线，医护人员坚守岗位守护生命，当地粮油蔬菜等民生物资量足价稳，还有90后男子开铲车救援被困人员，婉拒酬谢。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a64c86a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a64c86a5",
+          "source": "Google News (中国)",
+          "title": "沈阳遭遇强降雨后：部分区域积水未完全消退，受灾小区正抢修水电 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nV0NxaWRtOExxd3Y4eVFiUktNMzJ4ZHcyOFQ3SnJ1dVVXemZhLU5pU2Y2LUFmY0lYNkFCQkxCbTJUSFJBN0p3M3BYZnVpUGxXcHdHREgtY29iSmQ4cGJXZkVCbVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T09:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T09:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dcdba76a",
+      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+      "summary": "7月3日至4日，首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区举办。依托当地千亿级AI产业集群与半岛多元真实生活场景，活动搭建起AI产品测试、资源对接平台，推动AI落地文旅、运动、康养等日常场景，助力AI初创项目贴近市场迭代。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_ff327a59564e4aabba6f26d61cd4d748@6108898_oswg167386oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "7823fc21"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "7823fc21",
+          "source": "36氪",
+          "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+          "link": "https://36kr.com/p/3896639400183687?f=rss",
+          "published_at": "2026-07-15T08:30:35+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T08:30:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "895c6d33",
+      "title": "曼谷酒吧火灾曝致命疏漏 同类问题全球屡有发生",
+      "summary": "曼谷一家酒吧发生火灾，事故已造成30人死亡。目前调查审查方向聚焦该场所两处安全疑点：酒吧天花板是否使用易燃泡沫材料，疏散出口是否被封堵，这类致命安全疏漏在全球范围内反复出现。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-thailand-fire-01-pbgz/14int-thailand-fire-01-pbgz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e7edb4ff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e7edb4ff",
+          "source": "NYTimes World",
+          "title": "曼谷酒吧火灾曝致命疏漏 同类问题全球屡有发生",
+          "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+          "published_at": "2026-07-15T07:24:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T07:24:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a62123fd",
+      "title": "星链V5天线现已推出 与前代对比一览",
+      "summary": "太空探索技术公司（SpaceX）推出的最新民用星链V5天线，目前已在部分选定区域开放使用。相较前代V4，V5体积更小、重量更轻，能效也得到提升。SpaceX将扩大产能满足全球需求，后续将在更多区域开放，该天线暂不支持移动中使用。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dc7e2b13"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dc7e2b13",
+          "source": "The Verge",
+          "title": "星链V5天线现已推出 与前代对比一览",
+          "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+          "published_at": "2026-07-15T07:17:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T07:17:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6941e155",
+      "title": "法国枫丹白露森林大火 6人因涉嫌纵火被捕 - 中华网",
+      "summary": "多家媒体报道，受三重热浪侵袭，欧洲正遭遇山火危机，法国枫丹白露爆发森林大火，火势持续蔓延、过火面积不断扩大，当地甚至取用塞纳河水开展灭火作业，目前已有6人因涉嫌纵火引发火情被逮捕。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "99d7d203"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "99d7d203",
+          "source": "Google News (中国)",
+          "title": "法国枫丹白露森林大火 6人因涉嫌纵火被捕 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VFBfN3dTSWdFSzVQLVlOVlFnMVR6N09WSWg4VzNpaVV3M3ZrSUpjU09oUThDQnhYRG1LaGxMcE81TldRSWpvSTJUWlN0NFZNWDVKVnhYNU9Td0I4eXp5N1RSeHVweEdNaW4wRzFKNTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T07:14:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T07:14:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0cf9463",
+      "title": "经纬线·105年成就非凡，从多国领导人来华读懂中国共产党为什么能 - politics.people.com.cn",
+      "summary": "中国共产党成立105年来取得非凡发展成就，人民网推出“经纬线”相关评论文章指出，可从多国领导人接连来华的互动交往中，读懂中国共产党为什么能带领中国取得如今举世瞩目的发展成果，破解中国共产党的成功密码。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "91883dae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "91883dae",
+          "source": "Google News (中国)",
+          "title": "经纬线·105年成就非凡，从多国领导人来华读懂中国共产党为什么能 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tcnpTM2c2UHJ1aTFFaFljNnpFYzFpeHhBakd6VUdwWGFMMzVubFVad2xBbkJLTXhFMjlkc3EtelAzUGlfbGl2VW9XcVVPX0ZXS01mUjVtQlBLb2NLLTdKdTg3aUxSZUxuM2I2MkRFRC1hdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T07:04:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T07:04:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8a2ebf7",
+      "title": "布鲁塞尔市中心火灾后电梯内六人遇难",
+      "summary": "周二上午，布鲁塞尔市中心的奥克西大厦突发火灾，火灾发生后，相关人员在大厦内的一部电梯中发现六具遇难者遗体，这起事故目前已确认造成六人死亡，暂未公布更多关于事故的相关细节。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-brussels-fire-photo-tfwz/14int-brussels-fire-photo-tfwz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3955f643"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3955f643",
+          "source": "NYTimes World",
+          "title": "布鲁塞尔市中心火灾后电梯内六人遇难",
+          "link": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+          "published_at": "2026-07-15T07:01:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T07:01:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "233d17be",
+      "title": "四大一线城市房价继续修复上涨",
+      "summary": "7月15日，国家统计局公布2026年6月70个大中城市房价数据，四大一线城市新房、二手房已连续四月环比上涨，整体维持修复态势，全国楼市显现清晰筑底修复信号，库存压力逐步缓解，机构认为本轮楼市调整已接近尾声，核心城市下半年修复节奏不变。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_adce2b1138bb4d1c9fd8bf4d47348fdd@6208419_oswg183689oswg1055oswg1209_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "9f102db5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "9f102db5",
+          "source": "36氪",
+          "title": "四大一线城市房价继续修复上涨",
+          "link": "https://36kr.com/p/3896544104793993?f=rss",
+          "published_at": "2026-07-15T06:49:46+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T06:49:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "898c4b75",
+      "title": "优衣库再失一枚棋子",
+      "summary": "资深时尚记者披露，法国设计师Christophe Lemaire与搭档Sarah-Linh Tran计划退出优衣库U系列，2026秋冬系列或为双方十年合作的收官之作。这场合作互利双赢，U系列是优衣库核心创新试验线，它的离场将给优衣库欧美扩张进程带来不利影响，截至目前双方均未置评。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260707/v2_4fed86921b2e4a07aa59d8289711ff60@5922386_oswg563399oswg1816oswg1032_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "eff8ecb3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "eff8ecb3",
+          "source": "36氪",
+          "title": "优衣库再失一枚棋子",
+          "link": "https://36kr.com/p/3885699885445122?f=rss",
+          "published_at": "2026-07-15T05:25:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T05:25:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0751aab4",
+      "title": "耐克中国，壮士断腕",
+      "summary": "耐克计划调整中国线上经销体系，拟推动经销体系直营化，统一商品节奏、价格、库存管理等标准，重构中国零售体系，该调整涉及约10亿美元规模的批发业务，耐克已做好承受短期阵痛的准备，目标是重建健康渠道秩序，推动中国市场恢复增长。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "740b261c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "740b261c",
+          "source": "36氪",
+          "title": "耐克中国，壮士断腕",
+          "link": "https://36kr.com/p/3876646017216516?f=rss",
+          "published_at": "2026-07-15T05:25:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T05:25:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acf0574b",
+      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+      "summary": "36氪独家获悉，安踏品牌CEO徐阳因家庭原因辞任，集团执行董事、联席CEO赖世贤即日起代理该职。徐阳上任后推行激进零售实验与高增长目标未能达成，其离任意味着安踏主品牌将暂时告别激进探索，重回稳守基本盘的路线。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "80c364ff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "80c364ff",
+          "source": "36氪",
+          "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+          "link": "https://36kr.com/p/3889213745543687?f=rss",
+          "published_at": "2026-07-15T05:25:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T05:25:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d63029f1",
+      "title": "第十一届世界华侨华人社团联谊大会闭幕 - chinanews.com.cn",
+      "summary": "第十一届世界华侨华人社团联谊大会已闭幕，会前王沪宁会见了该大会全体代表。这一侨界盛会迄今已走过25年发展历程，大会聚焦团结凝聚广大海外侨胞与归侨侨眷，围绕凝侨心聚侨力、推动海外侨团薪火相传开展相关研讨。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "36e405d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "36e405d7",
+          "source": "Google News (中国)",
+          "title": "第十一届世界华侨华人社团联谊大会闭幕 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zNVIwNTN4dno5OE1OZ0dpbk1tQktfMmp4M2pUM0dPdUd6elFkZUdZV1NHaVhwT2Myd0tFZm42bUFELW5hZDN0ZTRaTk8tRVlqOE1MZ1ZBbmJRMWgxWFNScTNJVUFQTWJMTk5HVHM3RF9hNVF5dXRfVVBLbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T04:57:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T04:57:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "46179e35",
+      "title": "英国警方称安·威德科姆在‘定向袭击’中遇害",
+      "summary": "英国反恐警方目前正对一名28岁男子持续开展讯问，该男子被指控杀害安·威德科姆。安·威德科姆是英国右翼政党英国改革党的知名成员，英国警方认定这是一起针对受害者的定向袭击事件。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/14/world/14int-uk-murder-investigation-alaofna/Hugh-Hastings-Getty-Images-aalgni-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "601ed41b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "601ed41b",
+          "source": "NYTimes World",
+          "title": "英国警方称安·威德科姆在‘定向袭击’中遇害",
+          "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
+          "published_at": "2026-07-15T04:38:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T04:38:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23459692",
+      "title": "谷歌与Epic停战 第三方安卓应用商店下周上线",
+      "summary": "Epic Games与谷歌共同撤回美国相关诉讼的追溯和解尝试，谷歌将被迫允许第三方竞品应用商店入驻自身平台。谷歌已向法院确认完成相关准备，第三方安卓应用商店将于下周正式落地。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2183cb6d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2183cb6d",
+          "source": "The Verge",
+          "title": "谷歌与Epic停战 第三方安卓应用商店下周上线",
+          "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+          "published_at": "2026-07-15T03:28:53+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T03:28:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c06012a8",
+      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+      "summary": "前非夕科技核心业务合伙人袁琳创办聚焦垂域工业智能体的追知工科，该企业为上海交大成果转化项目，近日完成数千万元种子轮融资，资金将用于产品研发与团队建设等。目前其产品已完成高精度制造场景验证，拿下航空制造领域千万级订单。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260715/v2_758ce0cace0542eaaa360193443cf7a3@5920579_oswg27836oswg1080oswg447_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "af2be5f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "af2be5f0",
+          "source": "36氪",
+          "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+          "link": "https://36kr.com/p/3896298534520705?f=rss",
+          "published_at": "2026-07-15T02:40:40+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T02:40:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b495e48a",
+      "title": "文明乡风看山东丨沂蒙山上好“风”光 - 山东宣传网",
+      "summary": "多家主流媒体聚焦报道山东临沂沂蒙老区文明乡风建设成果，该地在打造乡村“高颜值”的同时，着力涵养乡风“高气质”，推动文明乡风软实力转化为乡村振兴的硬支撑，为全国文明乡风建设给出了优秀答案。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9d0a6ca5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9d0a6ca5",
+          "source": "Google News (中国)",
+          "title": "文明乡风看山东丨沂蒙山上好“风”光 - 山东宣传网",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBUjFsVndJRVJiRUloUkhFdGF0N0NmMThKd0haSWJnakxFMlRzSXROd2x1V0JSc2FIOEo2SXF5dUxBS1RKZzh1SnZkc1VfNld1Yzh4Ml94WVhSVko2c3lNaW1mNWZQVnZTMFA3ZHpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T02:38:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T02:38:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f5f54cbd",
+      "title": "OpenAI研究员迈尔斯·王洽谈创办估值20亿美元AI药物研发初创公司",
+      "summary": "OpenAI研究员迈尔斯·王正洽谈创办估值20亿美元的AI药物研发初创公司。相关融资磋商显示，投资者对利用人工智能实现生命科学领域的技术突破抱有浓厚兴趣，看好AI赋能医药研发赛道的发展前景。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "28e622f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "28e622f5",
+          "source": "TechCrunch",
+          "title": "OpenAI研究员迈尔斯·王洽谈创办估值20亿美元AI药物研发初创公司",
+          "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "published_at": "2026-07-15T00:27:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T00:27:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f5f54cbd",
+      "title": "OpenAI研究员迈尔斯·王洽谈创办AI药物发现初创公司 估值达20亿美元",
+      "summary": "OpenAI研究员迈尔斯·王正筹备创办一家估值20亿美元的人工智能药物发现初创公司，目前相关融资洽谈正在推进，该动向反映出投资者对借助人工智能实现生命科学领域突破抱有浓厚兴趣。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "28e622f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "28e622f5",
+          "source": "TechCrunch AI",
+          "title": "OpenAI研究员迈尔斯·王洽谈创办AI药物发现初创公司 估值达20亿美元",
+          "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "published_at": "2026-07-15T00:27:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T00:27:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "66057c67",
+      "title": "人民城市人民建 人民城市为人民（新时代画卷） - 人民网",
+      "summary": "人民网推出新时代画卷系列内容《人民城市人民建 人民城市为人民》，内容聚焦新时代城市建设，紧扣“人民城市人民建，人民城市为人民”核心理念，凸显以人民为中心的城市发展方向，读者可在Google新闻平台查看该内容及更多人民网发布的头条新闻与观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e4c8177b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e4c8177b",
+          "source": "Google News (中国)",
+          "title": "人民城市人民建 人民城市为人民（新时代画卷） - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JejFjX09ITENkeVk1WXk4YnJWWlhQaE51anRnd2tHOXA1R2RnUTVhTDlrc1otMkFkNkdRVENjMDhjVUtQc2dXLURyN21md0hYcDNqZ2x4SV84YXBIMjhIRzBrOFZlaXgzdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-15T00:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-15T00:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "323fc5f7",
+      "title": "特朗普在霍尔木兹通行费问题上退让 表明其难以结束伊朗冲突",
+      "summary": "美国总统特朗普在霍尔木兹通行费问题上突然转变立场做出退让，这一反转是已持续四个多月的美伊冲突进程中的最新变局，同时也凸显出特朗普目前在推动结束对伊冲突的问题上正陷入困境。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+      "article_ids": [
+        "5258cc0b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5258cc0b",
+          "source": "BBC World",
+          "title": "特朗普在霍尔木兹通行费问题上退让 表明其难以结束伊朗冲突",
+          "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-14T23:17:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-14T23:17:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba359f1a",
+      "title": "洛德称AI眼镜“不够性感”",
+      "summary": "知名歌手洛德在舞台发言时，公开发表对AI眼镜的评价，直言这类智能产品“不够性感”。她同时表示，当下世界真假边界愈发模糊，人们已经越来越难分辨什么才是真实存在的事物。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0a8a6aa5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0a8a6aa5",
+          "source": "TechCrunch",
+          "title": "洛德称AI眼镜“不够性感”",
+          "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "published_at": "2026-07-14T23:10:02+00:00"
+        }
+      ],
+      "published_at": "2026-07-14T23:10:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba359f1a",
+      "title": "洛德称AI眼镜“不性感”",
+      "summary": "新西兰知名歌手洛德近日在舞台公开发声，评价新兴科技产品AI眼镜“不性感”。她同时指出，当下现实世界中，人们越来越难以分辨何为真实，科技介入生活带来的真实认知困境正不断加剧。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0a8a6aa5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0a8a6aa5",
+          "source": "TechCrunch AI",
+          "title": "洛德称AI眼镜“不性感”",
+          "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "published_at": "2026-07-14T23:10:02+00:00"
+        }
+      ],
+      "published_at": "2026-07-14T23:10:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76d1a0c5",
+      "title": "颜值出众的Nothing Watch 3 Pro智能手表仅售69美元",
+      "summary": "目前多数健身追踪器为压缩成本压低价格选择缩减屏幕，Nothing旗下子品牌CMF推出的Watch 3 Pro智能手表定位平价，仍配备1.43英寸OLED屏幕，该款全配色版本当前在亚马逊售价仅69美元，其日常价格浮动在79至99美元之间。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9ccd271d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9ccd271d",
+          "source": "The Verge",
+          "title": "颜值出众的Nothing Watch 3 Pro智能手表仅售69美元",
+          "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+          "published_at": "2026-07-14T22:24:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-14T22:24:26+00:00",
+      "is_merged": false
+    }
+  ]
+}

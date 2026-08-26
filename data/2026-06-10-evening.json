@@ -1,0 +1,2342 @@
+{
+  "date": "2026-06-10",
+  "edition": "evening",
+  "updated_at": "2026-06-10T23:52:22.179955+08:00",
+  "article_count": 60,
+  "cluster_count": 56,
+  "articles": [
+    {
+      "id": "9931b8d6",
+      "title": "伊朗战争实时更新：美伊互击后特朗普发出新威胁",
+      "title_original": "Iran War Live Updates: After U.S. and Iran Exchange Strikes, Trump Issues New Threat",
+      "summary": "美伊双方发生交火互击后，伊朗战争局势迎来最新进展。美国总统特朗普针对结束战争的协议谈判表态，称伊朗在谈判中耗时过长，将为此付出代价，这是特朗普对伊朗发出的最新威胁。",
+      "summary_original": "President Trump said Iran would “pay the price” for taking “too long to negotiate” an agreement to end the war.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10mideast-1030-qgzh/10mideast-1030-qgzh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T14:52:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "06540bab",
+      "title": "推动SpaceX惊人IPO的三大硬科技突破性项目",
+      "title_original": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "summary": "太空探索技术公司SpaceX正推进备受市场关注的IPO，此次上市由三大前沿硬科技突破性项目驱动。分析认为，SpaceX此次IPO的大部分价值，本质上相当于对其雄心勃勃的太空数据中心计划的看涨期权。",
+      "summary_original": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T14:48:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "06540bab",
+      "title": "推动SpaceX惊人IPO的三大硬科技登月项目",
+      "title_original": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "summary": "太空探索企业SpaceX的IPO由三大硬科技登月级创新项目推动。市场分析认为，SpaceX此次IPO的大部分价值，实际上相当于该公司雄心勃勃的太空数据中心计划的看涨期权，整体估值高度绑定这一前沿项目的未来成长空间。",
+      "summary_original": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-10T14:48:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "67470edf",
+      "title": "黑石高管布兰德谈IPO回升及与Anthropic的合作",
+      "title_original": "Blackstone's Brand on IPO Returns, Anthropic Partnership",
+      "summary": "黑石资本合伙人部门主管马丁·布兰德，近日在柏林举办的SuperReturn国际会议上，接受彭博社记者丹妮·伯格采访时公开表态，称今年绝对会是IPO市场回暖之年，相关消息来源为彭博社。",
+      "summary_original": "\"The year of the IPO is definitely on,\" Martin Brand, head of Blackstone Capital Partners, says while speaking with Bloomberg's Dani Burger at the SuperReturn International Conference in Berlin. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUyJK95la.9Q/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-10/brand-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T14:41:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "00a4dcd0",
+      "title": "Pinterest整合亚马逊店面 押注创作者生态",
+      "title_original": "Pinterest bets on creators with Amazon Storefront integration",
+      "summary": "社交平台Pinterest新增对亚马逊店面的整合支持功能，创作者可在此集中展示自己推荐的产品，同时还能更轻松地获取推广联盟佣金，这是Pinterest发力创作者赛道、挖掘商业变现空间的重要布局。",
+      "summary_original": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T14:34:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dd830105",
+      "title": "华纳音乐收购AI确权初创公司Sureel AI",
+      "title_original": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "华纳音乐集团完成对AI确权初创公司Sureel AI的收购。此次收购的核心目标，是帮助该集团更好追踪旗下艺人作品的使用情况，明确作品是否被用于生成AI内容，或是被拿来训练AI模型。",
+      "summary_original": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T14:31:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dd830105",
+      "title": "华纳音乐收购AI溯源初创公司Sureel AI",
+      "title_original": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "华纳音乐集团收购AI溯源初创企业Sureel AI，旨在借助该公司的技术，更好追踪旗下艺人作品被用于AI生成内容创作、AI模型训练的情况，方便开展版权管理，保障旗下艺人的相关权益。",
+      "summary_original": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-10T14:31:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "729ad7d3",
+      "title": "史无前例的UFC赛事将走进白宫",
+      "title_original": "La inédita pelea de la UFC que llegará a la Casa Blanca",
+      "summary": "彭博社消息，美国白宫将主办一场UFC赛事，该活动是美国建国250周年庆祝活动的组成部分，由唐纳德·特朗普推动筹办，举办时间恰好与特朗普的80岁生日重合，这是UFC赛事首次落地白宫。",
+      "summary_original": "La Casa Blanca se prepara para albergar una pelea de la UFC como parte de las celebraciones por los 250 años de Estados Unidos. El evento, impulsado por Donald Trump, coincidirá además con su cumpleaños número 80. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij7lgu0iCY_Y/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-10/la-inedita-pelea-de-la-ufc-que-llegara-a-la-casa-blanca-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T14:28:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "af9eba25",
+      "title": "摩根士丹利威尔逊预计年底前股市将上涨",
+      "title_original": "Morgan Stanley's Wilson Expects Stocks to Rise Into Year-End",
+      "summary": "摩根士丹利首席美国股票策略师兼首席投资官迈克·威尔逊，在彭博《Open Interest》节目发言称，近期市场波动是周期与大宗商品板块轮动的一部分，当前收益修正广度已达不可持续高位，半导体板块尤甚，预示短期回调，他预计年底前股市将上涨。",
+      "summary_original": "Mike Wilson, Morgan Stanley's chief US equity strategist and CIO, explains the recent market volatility is part of an ongoing rotation among cyclical and commodity sectors. He highlights that earnings revision breadth has reached unsustainably high levels, particularly in the semiconductor sector, signaling a near-term rollover. He speaks on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX_a5FyyYY8o/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-10/morgan-stanley-s-wilson-sees-stocks-rising-into-year-end-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T14:21:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "691bb3bf",
+      "title": "德国商业银行称就裕信银行收购提议提出更多担忧",
+      "title_original": "Commerzbank Says It Raised More ‘Concerns’ Tied to UniCredit Bid",
+      "summary": "德国商业银行近日对意大利裕信银行发起的针对自身的收购要约提出最新质疑，该行认为，当前该收购要约不断攀升的投资者接受率，并不能完全反映投资者对此次收购的真实支持态度。",
+      "summary_original": "Commerzbank AG expressed fresh doubts whether the rising acceptance level of UniCredit SpA’s takeover bid is a full reflection of investor support.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_4We83.sWyE/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-10/commerzbank-says-it-raised-more-concerns-tied-to-unicredit-bid",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T14:19:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4a869589",
+      "title": "持刀袭击事件后暴力之夜笼罩贝尔法斯特",
+      "title_original": "Night of Violence Grips Belfast After Stabbing Attack",
+      "summary": "贝尔法斯特发生持刀袭击事件后，当地累积的紧张局势升级并蔓延至街头，引发一系列暴力事件。多辆汽车与一辆巴士遭人纵火，不少当地民众家庭被迫撤离住所，整座城市陷入动荡的暴力之夜。",
+      "summary_original": "Cars and a bus were set on fire and families were driven from their homes as the stabbing attack caused tensions to spill onto the streets.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10nireland-violence-01-bqmj/10nireland-violence-01-bqmj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T14:19:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "26569dc7",
+      "title": "美伊交换袭击后 特朗普与伊朗互发新威胁",
+      "title_original": "Trump and Iran trade new threats after strikes exchanged",
+      "summary": "双方交换袭击行动后，伊朗方面誓言将对任何针对自身的袭击实施报复。美国总统特朗普随即发出警告，称伊朗若是迟迟不达成相关协议，就必须为此付出代价，双方此番再度互相发出新威胁。",
+      "summary_original": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127b/live/d754c2e0-64c4-11f1-8f51-b550443b533b.jpg",
+      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T14:15:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4a0eef77",
+      "title": "摩根大通大卫·凯利：美联储此时按兵不动最为稳妥",
+      "title_original": "Fed Safest to Do Nothing Here, Says JPMorgan’s David Kelly",
+      "summary": "摩根大通资产管理首席全球策略师大卫·凯利解读美国CPI报告对美联储6月货币政策会议的影响时提出，本轮通胀周期的高点很可能出现在今年5月，美联储当前最稳妥的选择是不采取任何行动，相关消息源自彭博。",
+      "summary_original": "David Kelly, chief global strategist at JPMorgan Asset Management, says there’s a good chance that May “will actually turn out to be the high-water mark for inflation in this cycle” as he examines what the CPI report means for Federal Reserve policy at the June meeting. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGjel9MpPMq4/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-10/fed-safest-to-do-nothing-here-jpmorgan-s-david-kelly-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T14:14:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6a7aa1ef",
+      "title": "ServiceNow告知客户：一漏洞致部分客户数据暴露于互联网",
+      "title_original": "ServiceNow tells customers a bug left some of their data exposed to the internet",
+      "summary": "全球数千家企业使用ServiceNow实现内部流程自动化。该平台近日披露，平台存在一处安全漏洞，该漏洞已导致部分客户的数据被非授权访问，部分客户数据暴露在公共互联网中。",
+      "summary_original": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T14:13:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "65d44608",
+      "title": "香港就致命公寓火灾起诉7人及2家公司",
+      "title_original": "Hong Kong Charges 7 People and 2 Companies Over Deadly Apartment Fire",
+      "summary": "香港发生的一起致命公寓火灾曾造成168人死亡，相关调查持续数月后公布首批起诉结果，共有7名个人及2家公司被起诉，检方共提起25项指控，罪名包含过失杀人罪与串谋罪。",
+      "summary_original": "The 25 charges include manslaughter and conspiracy. They are the first to emerge from a monthslong investigation into a blaze that killed 168 people.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10hongkong-charges-lztw/10hongkong-charges-lztw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T14:10:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "52e2b1c6",
+      "title": "因诈骗分子影响 Valve逐步停用实体Steam礼品卡",
+      "title_original": "Valve is phasing out physical Steam gift cards due to scammers",
+      "summary": "推出超十年的实体Steam礼品卡将停止线下售卖，其运营商Valve称，现有库存售完后不再补货。Valve在官方支持页面表示，做出该调整是因为诈骗分子持续侵害Steam用户及其他无辜人员的权益。",
+      "summary_original": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run out, citing scammers who \"continue to have an impact on Steam customers and other unsuspecting individuals.\" In its post, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:10:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3dff861d",
+      "title": "遭美国拒入境的世界杯裁判回到索马里获英雄般欢迎",
+      "title_original": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "summary": "索马里籍裁判奥马尔·阿尔坦被美国拒绝入境后，近日返回索马里家乡，受到当地民众英雄般的热烈欢迎。此次遇挫后，奥马尔·阿尔坦并未放弃，他立下誓言，未来将执法2030年世界杯赛事。",
+      "summary_original": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/e4085170-64b3-11f1-8e1d-bbbb1017d210.jpg",
+      "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T14:08:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "485a5c39",
+      "title": "《佩利分钟》幕后二人组五问",
+      "title_original": "Five questions for the duo behind The Pelley Minutes",
+      "summary": "当下网站风潮回潮，本次推荐值得探访的创意项目《佩利分钟》。这个项目聚焦老牌新闻节目《60分钟》资深记者斯科特·佩利，梳理了他长达37年的职业生涯，佩利从业期间累计产出了近37000分钟的各类新闻报道。",
+      "summary_original": "Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may only be 60 minutes long, but Pelley racked up nearly 37,000 minutes in his 37-year long career, reporting on almost everything humanity has put [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:06:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c87f655a",
+      "title": "让中朝传统友谊之树更加根深叶茂——习近平总书记对朝鲜进行国事访问纪实 - 新华网",
+      "title_original": null,
+      "summary": "习近平总书记对朝鲜进行国事访问，引发中外媒体广泛关注。习近平致电感谢金正恩，双方强调推进中朝战略合作。中方多家媒体发布相关纪实与解读，点明中朝传统友谊生生不息，外媒也针对此次中朝高层互动作出相关解读。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oNlhOZUp2NnM5X0sxbzd0T05Qd0ZxZUllWlBQZnU2TE9rYnQtZHBKU1cwU19ZOFdKZmVjbkJPR3lDSTFmaEc5Rzg2SUFMSGVwb2dZeTVCdmF1bWJtT0lNeWFtOG5abDlYeFM2QXQtWEowQWgxSVpz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T14:05:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39a218ae",
+      "title": "《社交清算》首发预告 首次曝光杰瑞米·斯特朗饰演扎克伯格",
+      "title_original": "The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck",
+      "summary": "距离大卫·芬奇与艾伦·索金打造的《社交网络》上映已超过十五年，索尼近日发布了续集《社交清算》的首支预告，该片已定档10月9日登陆院线，故事设定在原作事件发生17年后，围绕一名年轻脸书工程师展开。",
+      "summary_original": "Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on October 9th. The follow-up takes place 17 years after the events portrayed in the original film and follows a young Facebook engineer who enlists [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:02:44+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2eb73eb8",
+      "title": "AirPods Pro 3在沃尔玛售价179美元 创历史最低价",
+      "title_original": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
+      "summary": "Prime会员日前，沃尔玛推出苹果AirPods 3无线耳机特惠，目前售价179美元，为有史以来最低价。该耳机原价249美元，此前日常售价多在200至220美元之间，优惠为限时活动，适合iPhone用户选购。",
+      "summary_original": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 at Walmart, presumably for a limited time. If you have an iPhone, these are the best wireless earbuds you can get at this [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:00:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bdc0d0b2",
+      "title": "庆幸Siri人工智能不做健康教练",
+      "title_original": "I’m relieved Siri AI isn’t trying to be a health coach",
+      "summary": "美国科技媒体The Verge高级评测员维多利亚·宋开设每周通讯《Optimizer》，聚焦剖析讨论各类声称能改变生活的最新科技产品。本周推出配合WWDC报道的特别提前版，下一期将按原定常规时间推出。",
+      "summary_original": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can expect our next issue at its usual time next [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "aefb9d5b",
+      "title": "谷歌Nest带探照灯摄像头售价创历史新低",
+      "title_original": "Google’s Nest Cam with Floodlight is selling at its lowest price yet",
+      "summary": "谷歌带探照灯的Nest户外摄像头目前在亚马逊、百思买、家得宝及谷歌官方等多个渠道降价，直降100美元后现价为179.99美元。这款防水户外摄像头可拍摄130度视野的1080p视频，通知灵敏、可定制性高，无订阅也支持存储内容。",
+      "summary_original": "The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor camera captures 1080p video across a 130-degree diagonal field of view, with snappy notifications and great customization options. Even without a subscription, the camera can store [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6797d24a",
+      "title": "AT&T推出3美元iPad“不限流量”日套餐",
+      "title_original": "AT&#038;T is launching $3 ‘unlimited’ day passes for iPads",
+      "summary": "美国电信运营商AT&T面向仅需短期联网、无需长期套餐的iPad用户，推出全新“不限流量日套餐”。该套餐今日起在美国开售，售价3美元可享受24小时不限流量，无需签订合约、办理订阅，也不要求信用核查。",
+      "summary_original": "AT&#38;T has introduced a new \"Unlimited Day Pass\" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the US starting today, providing 24 hours of unlimited data, with no contracts, subscriptions, or credit checks required. This offer is [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b7df517e",
+      "title": "特朗普使用动漫形象引发日本国内反对声浪高涨",
+      "title_original": "Growing backlash in Japan over Trump's use of anime characters",
+      "summary": "美国总统特朗普使用皮卡丘、鸣人等知名动漫角色的形象，此举已经惹怒不少日本本土的动漫爱好者，针对这一行为的反对声浪在日本不断高涨，越来越多日本民众对这一行为表达不满。",
+      "summary_original": "The US president has angered some fans by using the images of characters like Pikachu and Naruto.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b81/live/29004be0-64cb-11f1-8e1d-bbbb1017d210.jpg",
+      "link": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T13:42:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "509364d7",
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "title_original": null,
+      "summary": "瑞士百年独立制表品牌雅典表，在品牌创立180周年、标志性奇想系列问世25周年之际，于上海举办2026新品品鉴会，推出全球限量50枚、融合八项专利的首款双陀飞轮卡罗素结构超级腕表，以及与中国艺术家刘人岛联名、限量100枚的鎏金系列腕表，以技术加本土文化叙事布局中国高端市场。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260610/v2_9f11b563a8184821812391bc5523840a@5922386_oswg83206oswg1350oswg900_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3847339087140104?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-10T13:35:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "761f8930",
+      "title": "Jedify获2400万美元融资 助力企业为AI智能体配备自身业务背景信息",
+      "title_original": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "summary": "人工智能服务商Jedify完成2400万美元融资，本轮融资由Norwest领投，S Capital VC、Cerca Partners、Oceans Ventures参与投资，Snowflake Ventures作为战略投资方也参与本轮融资，资金将用于帮助企业为AI智能体适配自身业务背景信息。",
+      "summary_original": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T13:33:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "761f8930",
+      "title": "Jedify获2400万美元融资 助力企业为AI代理配备业务上下文",
+      "title_original": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "summary": "专注于助力企业为AI代理配备自身业务相关上下文的Jedify完成2400万美元融资，本轮融资由Norwest领投，S Capital VC、Cerca Partners、Oceans Ventures参与投资，Snowflake Ventures作为战略投资方也参与了本轮融资。",
+      "summary_original": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-10T13:33:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "025221dd",
+      "title": "俄罗斯高级军官在莫斯科附近汽车爆炸中身亡",
+      "title_original": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
+      "summary": "一名俄罗斯高级军官在莫斯科附近发生的汽车爆炸事件中身亡。这起死亡事件被认为是俄罗斯境内一连串针对乌克兰知名反对者的定点暗杀行动中的新增案件，近期俄境内已接连发生多起针对这类目标的暗杀活动。",
+      "summary_original": "The death of the officer appeared to add to a string of targeted assassinations of high-profile opponents of Ukraine inside Russia.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10Russia-Bombing-qgbl/10Russia-Bombing-qgbl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T13:30:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "065026c0",
+      "title": "动海报｜一组影像，“预”见大国工程之变 - 红星新闻",
+      "title_original": null,
+      "summary": "红星新闻推出主题为“一组影像，‘预’见大国工程之变”的动海报产品，聚合多家主流媒体关于三峡水运新通道工程的相关报道，内容涵盖该工程的建设背景、技术难点等，提及该工程将升级长江“黄金水道”，推动西部与长三角城市群协同共进。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRW1NTU9JNzN5TDJ4ZXEwLVB2S2E5MDVqSjdHZjZNeVd2WnNheXJld1U5ZTBwSTZLS29tXzgzWlRLSF9wRFoxd1FmQzJGV1lKNVpvX3RjaEJHVGNycUZVY1pRdndwNlNoZHM3VWk2blk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T13:18:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0798bed7",
+      "title": "收到“你作弊了”短信？千万别中计 警惕新型诈骗套路 - 中华网",
+      "title_original": null,
+      "summary": "高考结束前后，多家媒体披露涉高考相关风险提示：公安部已公布10起涉高考网络谣言典型案例，共有10人因涉此类谣言被处罚。网警同时提醒广大考生及家长，要警惕“你作弊了”这类新型AI变种诈骗套路，切勿上当受骗。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUll1LTYxMzJua1pNSzBDdUY3VVRJVjJoNmtDLXhyRndIWHIxaDlmeEFZeDVRVjByVnFXQW1WTGlBZ2gxa29ua2d1SVRDaHpnRjdxZE9DMGRNUGdCQ0w0LUtCV1RaWlRrbFFLNl9UaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T13:08:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d1f0b3ef",
+      "title": "Decart新型世界模型可模拟数小时照片级逼真驾驶，存一定局限",
+      "title_original": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "summary": "Decart推出全新实时世界模型Oasis 3，该模型可生成照片级逼真的驾驶环境，用于自动驾驶汽车测试，目前已通过API对外开放，可供开发者基于该模型开展相关开发工作。",
+      "summary_original": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T13:07:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d1f0b3ef",
+      "title": "Decart新型世界模型可模拟数小时照片级真实驾驶 仍存局限",
+      "title_original": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "summary": "Decart正式推出全新实时世界模型Oasis 3，该模型能够生成照片级真实的驾驶环境，主要用于自动驾驶汽车的研发测试，目前已开放API接口，可供开发者在此基础上开展相关开发工作。",
+      "summary_original": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-10T13:07:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "42d013c7",
+      "title": "香港致命火灾首宗控罪正式提起",
+      "title_original": "First charges laid over deadly Hong Kong fire",
+      "summary": "去年香港宏福苑发生火灾，这起事故是香港近七十年来发生的最致命火灾，总计造成168人死亡。目前，针对这起造成重大人员伤亡的火灾事故，相关司法方面已经正式提起首宗控罪。",
+      "summary_original": "The Wang Fuk Court blaze last year was the deadliest that Hong Kong had seen in 70 years, killing 168 people.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b592/live/64617a00-64a4-11f1-9c89-85486d952f7c.jpg",
+      "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T13:05:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "377842b1",
+      "title": "影石Luna Ultra 8K防抖相机现已在美国上市",
+      "title_original": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
+      "summary": "经过数月预热、爆料，在2026年NAB展会低调首发、率先登陆中国市场后，影石首款手持防抖相机Luna Ultra正式开启全球发售。该产品在三轴云台上搭载两颗8K摄像头，定位为大疆Osmo Pocket 4及Pocket 4P的升级产品。",
+      "summary_original": "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to DJI's Osmo Pocket 4 and Pocket 4P, which both max [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e55cb988",
+      "title": "Snapchat限制16岁以下用户仅可与好友分享Spotlights内容",
+      "title_original": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "summary": "社交应用Snapchat推出针对未成年用户的隐私新规，将为16岁以下用户设置单独个人资料，该群体发布的故事及Spotlights内容，仅对其已回关的好友可见，以此限制未成年用户内容的公开范围，保护未成年人隐私。",
+      "summary_original": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T12:46:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "100472c1",
+      "title": "为何如今人人都是能源公司",
+      "title_original": "Why everyone’s an energy company now",
+      "summary": "人工智能数据中心的快速发展催生了庞大的电力需求，这一变化正推动各类企业入局储能行业，原本主营汽车制造的通用汽车、福特汽车等老牌车企，也纷纷加入储能业务赛道，能源领域的参与主体正不断走向多元化。",
+      "summary_original": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T12:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9494da2b",
+      "title": "山西省应急管理厅副厅长张和平接受纪律审查和监察调查 - 新华网",
+      "title_original": null,
+      "summary": "近期，特大矿难发生后，山西曝出多起官员违纪违法案件：山西省应急管理厅副厅长张和平、山西沁源县委书记赵永进，以及沁源县应急管理系统三名负责人，均因涉嫌严重违纪违法，正接受山西省纪委监委的纪律审查和监察调查。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdjFaQVJicjNDVmFsT1NuYjFrM2J1OEpObjQyYjhwZEZ1a0dKY3J6MXoydXM3akxheWFQRGo2N2h2X1Qwd2RYVExLUzNzUlA2ZEVORVcyZGhiRjRIV1dXMWIxSl8xanpxSEFIYS1rUXRnNG5DM1A3UHJYMDQxZ1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T12:41:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "47b97b2c",
+      "title": "媒体实探鹅腿阿姨后厨：有健康证但营业执照经营者非本人，微信已无法登录 - thepaper.cn",
+      "title_original": null,
+      "summary": "走红的鹅腿阿姨被媒体实地探访发现，其本人持有健康证，但所用营业执照的经营者并非本人，目前其微信已无法登录。此外鹅腿阿姨还被曝出疑似以低价冻鸭腿冒充鹅腿，北大此前发布的相关推文也已删除。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13ZUtId2JMaUhhM1I1QktHa0xMc1E2VFJjUk02X2FsdkxXNVRma1lXSGNVWS0weUN2ZkRVbGRicFJ2Mjl6eVFiV3Z1SmJXX1ZIbXZuVUpQOVhlblIyeWVweQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T12:25:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "82a90a21",
+      "title": "雪崩能源台式聚变反应堆产出超高温等离子体",
+      "title_original": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
+      "summary": "聚变能源初创公司雪崩能源对外宣布，其研发的台式聚变反应堆原型已成功将等离子体加热至1000万摄氏度以上。这是小型化桌面聚变能源研发领域的重要突破，为后续聚变能源的技术开发与商业化应用积累了关键基础。",
+      "summary_original": "Fusion power startup Avalanche Energy said its reactor prototype heated a plasma to over 10 million degrees C.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T12:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1076dadb",
+      "title": "《每日下载》：“类固醇奥运会”与更安全的迈索斯",
+      "title_original": "The Download: the “steroid olympics” and a safer Mythos",
+      "summary": "这是聚焦全球科技动态的工作日每日通讯最新刊，本期刊发阿米特·卡特瓦拉的文章，聚焦几周前在拉斯维加斯赌场停车场、耗资5000万美元场馆举办的“类固醇奥运会”，称该赛事既是特殊奇观，也是观察当代文化的窗口。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-10T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a3f3e143",
+      "title": "两名SpaceX前员工为何押注太阳能电池为AI热潮供能",
+      "title_original": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+      "summary": "两名曾就职于SpaceX的人员创办安布罗西亚能源公司，押注太阳能与电池为人工智能热潮提供电力支持。该公司可在12个月内建成发电站，电价低于天然气，目标到2030年建成吉瓦级规模的发电项目。",
+      "summary_original": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9246d7ae",
+      "title": "我日常常用的三款耳塞",
+      "title_original": "The three sets of earbuds I reach for",
+      "summary": "拥有20年从业经验的音频评测人，曾在Wirecutter担任自由耳机评审，还为多家知名科技媒体撰写评测内容，听过数百款耳塞产品，本次他将分享自己实际日常使用中最常选用的三款耳塞。",
+      "summary_original": "I have been an audio reviewer for 20 years. My time as a freelance headphones panelist at Wirecutter, and the multitude of reviews I’ve written for sites like Reviewed, Digital Trends, IGN, and now The Verge, have given me the chance to listen to hundreds of earbuds. Some were truly excellent, and some were pretty [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "323e6db0",
+      "title": "约翰内斯堡发生多名袭击者枪击事件 至少12人死亡",
+      "title_original": "At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg",
+      "summary": "约翰内斯堡一处铁皮棚屋社区遭多名袭击者闯入枪击，事件已造成至少12人死亡。警方目前正在搜捕十余名在逃袭击者，调查人员仍在确认这起枪击事件的作案动机。",
+      "summary_original": "The police said they were looking for more than 10 attackers, who had stormed a community of tin shacks. Investigators were still trying to determine the motive.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-safrica-shooting-01-vgbt/10int-safrica-shooting-01-vgbt-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T11:50:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cff3c1ab",
+      "title": "乌克兰称导弹击中俄罗斯纵深地区一座军工厂",
+      "title_original": "Ukraine says missiles hit military plant deep inside Russia",
+      "summary": "乌克兰方面宣称，其武装力量用导弹袭击了俄罗斯境内纵深区域的一座军工厂。此外，乌方还表示，己方已对俄罗斯一处炼油厂，以及黑海海域一艘隶属于俄罗斯“影子舰队”的油轮发动了打击。",
+      "summary_original": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/e5079930-64d8-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T11:43:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b72562b6",
+      "title": "遭美国拒绝入境的索马里世界杯裁判归国获英雄般欢迎",
+      "title_original": "Somali World Cup Referee Denied Entry to U.S. Returns Home to Hero’s Welcome",
+      "summary": "原本将成为史上首位执法世界杯的索马里裁判奥马尔·阿卜杜勒卡迪尔·阿尔坦，前往美国时遭拒入境后返回祖国。奥马尔在本国广受民众赞誉，此次归国受到了人们英雄般的欢迎。",
+      "summary_original": "Omar Abdulkadir Artan, who is widely admired in his home country, would have been the first Somali to referee a World Cup game.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10somalia-referee-02-cvgz/10somalia-referee-02-cvgz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/africa/somalia-referee-world-cup-artan.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T11:30:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a0e1f4cb",
+      "title": "MTN即将完成尼日利亚、乌干达金融科技业务分拆 引入支付宝",
+      "title_original": "MTN Finalizing Nigeria, Uganda Fintech Spinoffs; Adds Alipay",
+      "summary": "MTN集团正对旗下移动货币业务板块进行重组，目前已进入尼日利亚、乌干达两地金融科技业务分拆的收尾阶段，这一安排允许万事达卡等战略投资者获得其金融科技业务的少数股权。",
+      "summary_original": "MTN Group Ltd. is finalizing the spinoffs of its Nigerian and Ugandan financial-technology operations as part of a reorganization of its mobile-money unit to allow Mastercard Inc. and other strategic buyers to take minority stakes in its fintech businesses.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUQbQVppzB3Y/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-10/mtn-spins-off-nigeria-uganda-fintech-units-for-mastercard-minority-stakes",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-10T11:27:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "193dd319",
+      "title": "比亚迪将在欧洲布设数千台五分钟极速电动车充电桩",
+      "title_original": "BYD to install thousands of 5-minute EV chargers across Europe",
+      "summary": "中国电动汽车巨头比亚迪宣布，将通过在欧洲布设极速闪充桩，加快拓展欧洲汽车市场布局。目前比亚迪已在德国、英国完成首批充电桩安装，计划到明年底前，在欧洲全境完成总计3000台充电桩的布设。",
+      "summary_original": "Chinese EV colossus BYD has announced plans to speed up its conquest of the European auto market with the rollout of superfast Flash Chargers across the continent. BYD has already installed the first new chargers in Germany and the UK, and plans to roll out 3,000 across Europe by the end of next year. At [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-10T11:04:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2ba827d0",
+      "title": "约翰内斯堡发生大规模枪击致12人死亡 南非正展开搜捕",
+      "title_original": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+      "summary": "南非约翰内斯堡克利夫兰地区一处非正式定居点于周二深夜发生一起大规模枪击事件，这起事件已造成12人死亡，另有9人受伤，目前当地相关部门正对行凶者展开搜捕工作。",
+      "summary_original": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/4d102e40-64aa-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T10:26:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f7c0aa0d",
+      "title": "\"笨拙外交\": 美肯埃博拉营地争端内幕",
+      "title_original": "‘Clumsy Diplomacy’: Inside the U.S.-Kenya Feud Over an Ebola Camp",
+      "summary": "数百名肯尼亚人走上街头游行抗议，反对一座专门预留供美国患者使用的埃博拉隔离检疫营地，该设施的相关安排引发美肯两国争端，这一事件被直指为笨拙外交的体现，凸显两国在公共卫生安排上的分歧。",
+      "summary_original": "Hundreds of Kenyans have marched through the streets to oppose a quarantine facility that would be reserved exclusively for American patients.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ebola-kenya-us-new1-bzwf/10int-ebola-kenya-us-new1-bzwf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/africa/ebola-kenya-us-protests.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T10:26:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "14a60f5d",
+      "title": "巴基斯坦在阿富汗发动致命空袭，紧张局势再度升温",
+      "title_original": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+      "summary": "巴基斯坦在阿富汗发动致命空袭，重新引爆两国间的紧张局势。此次空袭发起前，巴阿两国局势动荡的边境地区已经维持了数周的相对平静，此次行动打破平稳状态，让两国原本有所缓和的局势再度升温。",
+      "summary_original": "The fresh strikes come after weeks of relative calm in the restive border region between the two countries.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a5/live/ac2cfa10-64ab-11f1-9c89-85486d952f7c.jpg",
+      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T10:26:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "244a25e5",
+      "title": "中国大陆结束台湾东部海域连续五日“交通执法和扫测行动” - 联合早报",
+      "title_original": null,
+      "summary": "中国大陆在台湾岛东部海域开展的连续五日海上交通专项执法和扫测行动已圆满结束，此次作业为首次，成功补齐台湾岛东部海底地图。国台办明确表态，民进党当局若胆敢挑衅大陆海警巡查，必须承担相应后果。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZnBGdmN3b1dzazc4eEllVzNzbXpndERyakMwQ25WUFNVaFNDRTZLZk9leHR0TWlWb1pidmtuS2gzcDcwZW1STHotaHZPZzVXWHA5T2FYS3pXMzNKWUtzSDNseVllX3Y1N3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T10:26:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "35e72413",
+      "title": "泽连斯基面临压力 需结束与波兰就乌军单位二战命名的争端",
+      "title_original": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
+      "summary": "乌克兰将本国一支军事单位以二战时期存在争议的作战人员命名，此举引发乌波争端。波兰对此不满，威胁要剥夺乌克兰总统泽连斯基所获的波兰国家荣誉，目前泽连斯基正面临结束该争端的压力。",
+      "summary_original": "Poland is threatening to strip Ukraine's president of a state honour over the naming Ukrainian military unit after controversial World War Two fighters.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2043/live/875c77e0-64ad-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-10T09:57:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "af3f4bed",
+      "title": "世界杯前夕 美国移民政策将部分人员拒之门外",
+      "title_original": "On the Eve of the World Cup, U.S. Immigration Policy Turns Some Away",
+      "summary": "世界杯开赛前夕，部分希望入境美国观看、参与世界杯的球迷及相关参与者遭遇入境阻碍。这些人员抱怨，美国限制性的移民规则成为他们顺利入境的障碍，不少人因此无法进入美国。",
+      "summary_original": "Some fans and participants hoping to enter the United States for the World Cup have complained that restrictive immigration rules have presented a roadblock.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-word-cup-immigration-1-gclz/10int-word-cup-immigration-1-gclz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T09:04:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "722aaa01",
+      "title": "乌克兰无人机行动出新招 “重创俄军”",
+      "title_original": "A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’",
+      "summary": "乌克兰大量生产升级改造后的无人机，依托这类无人机开展中程打击行动，已对俄军造成不小冲击，不仅导致俄军出现燃料短缺问题，还令俄军的部队轮换部署工作陷入复杂困境。",
+      "summary_original": "Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ukraine-midrange-01-qpvl/10int-ukraine-midrange-01-qpvl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T09:02:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a716af61",
+      "title": "低调阿曼缘何成为特朗普的攻击目标",
+      "title_original": "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
+      "summary": "伊朗战事持续迁延未决，作为美国盟友的阿曼长期承担美国与伊朗之间的调解斡旋工作，如今处境尴尬，不仅与特朗普政府产生明显分歧矛盾，也和自身部分周边邻国出现不和。",
+      "summary_original": "As the Iran war drags on, Oman — a U.S. ally and mediator with Iran — has found itself at odds with the Trump administration and some of its own neighbors.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-oman-thread-1-zpcw/10int-oman-thread-1-zpcw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-10T09:02:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1c366ff8",
+      "title": "盐城响水：“铁甲”驰骋沃野 激情“麦”向丰收 - 中国江苏网",
+      "title_original": null,
+      "summary": "当前全国小麦收获进度已近七成，江苏盐城响水、东台安丰，河南民权庄子镇等多地抢抓农时推进夏收夏种，响水机械化夏收场面火热，部分地区已进入麦收收官阶段，各地依托“科技+服务”，全力保障夏粮颗粒归仓。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa25mMnlvUTdMR3pwcERHYVVfRGw1TEVFcWVRdGRkVkwydkVQYlNZQ2Y4MlRhWFZYOFNsQnExUk9kbUZ3dy03WllJY2hnb1JoeWRBeVREcjBNSUctTmE1SmdlRzNDLVhNdVJncHl3N0d0MmszOGtyb2MwSWFFVkluTDdHaEpvVThpTUpr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ea2ec57e",
+      "title": "“类固醇奥运会”是一场闹剧，亦是观察当代文化的一扇窗口",
+      "title_original": "The “steroid olympics” were a circus—and a window into our culture",
+      "summary": "各类类固醇、代谢调节剂、合成激素等禁药涌入赛场，数十名游泳、短跑、举重运动员体内均检出这类禁药。这场赛事乱象丛生，设有数百万美元奖金供运动员争夺，也为观察当下社会文化提供了特殊切入点。",
+      "summary_original": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-10T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "91ec974e",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "title_original": null,
+      "summary": "近日科技领域多重要动态公布：韩国IT巨头Kakao工会启动史上首次局部罢工，三星考虑新建先进芯片封装厂，SK海力士计划最早8月在美国上市；国内工信部提出2028年城域算力1毫秒时延圈覆盖率不低于75%，何小鹏亲自带队冲刺人形机器人量产。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3847079661193733?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-10T08:32:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d478d99f",
+      "title": "外交部：国际社会必须高度警惕日本右翼势力危险动向--国际 - 人民网",
+      "title_original": null,
+      "summary": "近期日本自民党拟建议政府进一步增加防卫费，日方无端指责抹黑中国正常军事活动，刻意渲染周边紧张局势，加速升级情报体系、推进强军扩武。外交部提醒国际社会高度警惕日本右翼势力的危险动向，日本民间团体人士也呼吁阻止日本强军扩武进程。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zcnNQcEVHek8tdlBkYXo1bk9qQW81NnJUWW44TTdyMW9OVllnNkQzU25CVVAxbHZ4QlZSYWtBRU9UYkZaalF3Si04cFRGY0ZsWUpNQWY4TlEyMjR1UU9NRmdBdFRRWGVEZzRYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-10T07:59:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "2514b282",
+      "title": "美伊交换袭击后双方互发新威胁 特朗普警告伊朗不尽快签约付代价",
+      "summary": "美伊双方交换袭击后，伊朗誓言将对任何针对自身的袭击实施报复，美国总统特朗普发出警告，称若伊朗迟迟不达成结束冲突的相关协议，就要为此付出代价，双方此番互相发出新威胁。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10mideast-1030-qgzh/10mideast-1030-qgzh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "9931b8d6",
+        "26569dc7"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9931b8d6",
+          "source": "NYTimes World",
+          "title": "伊朗战争实时更新：美伊互击后特朗普发出新威胁",
+          "link": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
+          "published_at": "2026-06-10T14:52:47+00:00"
+        },
+        {
+          "id": "26569dc7",
+          "source": "BBC World",
+          "title": "美伊交换袭击后 特朗普与伊朗互发新威胁",
+          "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T14:15:39+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:52:47+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "8f8a15ae",
+      "title": "推动SpaceX惊人IPO的三大硬科技突破性项目",
+      "summary": "太空探索技术公司SpaceX正推进备受市场关注的IPO，此次上市由三大前沿硬科技突破性项目驱动。分析认为，SpaceX此次IPO的大部分价值，本质上相当于对其雄心勃勃的太空数据中心计划的看涨期权。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "06540bab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "06540bab",
+          "source": "TechCrunch",
+          "title": "推动SpaceX惊人IPO的三大硬科技突破性项目",
+          "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+          "published_at": "2026-06-10T14:48:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:48:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f8a15ae",
+      "title": "推动SpaceX惊人IPO的三大硬科技登月项目",
+      "summary": "太空探索企业SpaceX的IPO由三大硬科技登月级创新项目推动。市场分析认为，SpaceX此次IPO的大部分价值，实际上相当于该公司雄心勃勃的太空数据中心计划的看涨期权，整体估值高度绑定这一前沿项目的未来成长空间。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "06540bab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "06540bab",
+          "source": "TechCrunch AI",
+          "title": "推动SpaceX惊人IPO的三大硬科技登月项目",
+          "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+          "published_at": "2026-06-10T14:48:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:48:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1fc3f1b",
+      "title": "黑石高管布兰德谈IPO回升及与Anthropic的合作",
+      "summary": "黑石资本合伙人部门主管马丁·布兰德，近日在柏林举办的SuperReturn国际会议上，接受彭博社记者丹妮·伯格采访时公开表态，称今年绝对会是IPO市场回暖之年，相关消息来源为彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUyJK95la.9Q/v3/1200x-1.jpg",
+      "article_ids": [
+        "67470edf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "67470edf",
+          "source": "Bloomberg",
+          "title": "黑石高管布兰德谈IPO回升及与Anthropic的合作",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-10/brand-video",
+          "published_at": "2026-06-10T14:41:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:41:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e3e773c",
+      "title": "Pinterest整合亚马逊店面 押注创作者生态",
+      "summary": "社交平台Pinterest新增对亚马逊店面的整合支持功能，创作者可在此集中展示自己推荐的产品，同时还能更轻松地获取推广联盟佣金，这是Pinterest发力创作者赛道、挖掘商业变现空间的重要布局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "00a4dcd0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "00a4dcd0",
+          "source": "TechCrunch",
+          "title": "Pinterest整合亚马逊店面 押注创作者生态",
+          "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+          "published_at": "2026-06-10T14:34:45+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:34:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d49b3f7f",
+      "title": "华纳音乐收购AI确权初创公司Sureel AI",
+      "summary": "华纳音乐集团完成对AI确权初创公司Sureel AI的收购。此次收购的核心目标，是帮助该集团更好追踪旗下艺人作品的使用情况，明确作品是否被用于生成AI内容，或是被拿来训练AI模型。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dd830105"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "dd830105",
+          "source": "TechCrunch",
+          "title": "华纳音乐收购AI确权初创公司Sureel AI",
+          "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "published_at": "2026-06-10T14:31:30+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:31:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d49b3f7f",
+      "title": "华纳音乐收购AI溯源初创公司Sureel AI",
+      "summary": "华纳音乐集团收购AI溯源初创企业Sureel AI，旨在借助该公司的技术，更好追踪旗下艺人作品被用于AI生成内容创作、AI模型训练的情况，方便开展版权管理，保障旗下艺人的相关权益。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "dd830105"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "dd830105",
+          "source": "TechCrunch AI",
+          "title": "华纳音乐收购AI溯源初创公司Sureel AI",
+          "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+          "published_at": "2026-06-10T14:31:30+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:31:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "489b31d6",
+      "title": "史无前例的UFC赛事将走进白宫",
+      "summary": "彭博社消息，美国白宫将主办一场UFC赛事，该活动是美国建国250周年庆祝活动的组成部分，由唐纳德·特朗普推动筹办，举办时间恰好与特朗普的80岁生日重合，这是UFC赛事首次落地白宫。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij7lgu0iCY_Y/v3/1200x-1.jpg",
+      "article_ids": [
+        "729ad7d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "729ad7d3",
+          "source": "Bloomberg",
+          "title": "史无前例的UFC赛事将走进白宫",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-10/la-inedita-pelea-de-la-ufc-que-llegara-a-la-casa-blanca-video",
+          "published_at": "2026-06-10T14:28:55+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:28:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a9be5f65",
+      "title": "摩根士丹利威尔逊预计年底前股市将上涨",
+      "summary": "摩根士丹利首席美国股票策略师兼首席投资官迈克·威尔逊，在彭博《Open Interest》节目发言称，近期市场波动是周期与大宗商品板块轮动的一部分，当前收益修正广度已达不可持续高位，半导体板块尤甚，预示短期回调，他预计年底前股市将上涨。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX_a5FyyYY8o/v3/1200x-1.jpg",
+      "article_ids": [
+        "af9eba25"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "af9eba25",
+          "source": "Bloomberg",
+          "title": "摩根士丹利威尔逊预计年底前股市将上涨",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-10/morgan-stanley-s-wilson-sees-stocks-rising-into-year-end-video",
+          "published_at": "2026-06-10T14:21:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:21:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a5b1c2f3",
+      "title": "德国商业银行称就裕信银行收购提议提出更多担忧",
+      "summary": "德国商业银行近日对意大利裕信银行发起的针对自身的收购要约提出最新质疑，该行认为，当前该收购要约不断攀升的投资者接受率，并不能完全反映投资者对此次收购的真实支持态度。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_4We83.sWyE/v1/1200x-1.jpg",
+      "article_ids": [
+        "691bb3bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "691bb3bf",
+          "source": "Bloomberg",
+          "title": "德国商业银行称就裕信银行收购提议提出更多担忧",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/commerzbank-says-it-raised-more-concerns-tied-to-unicredit-bid",
+          "published_at": "2026-06-10T14:19:01+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:19:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e480cf2a",
+      "title": "持刀袭击事件后暴力之夜笼罩贝尔法斯特",
+      "summary": "贝尔法斯特发生持刀袭击事件后，当地累积的紧张局势升级并蔓延至街头，引发一系列暴力事件。多辆汽车与一辆巴士遭人纵火，不少当地民众家庭被迫撤离住所，整座城市陷入动荡的暴力之夜。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10nireland-violence-01-bqmj/10nireland-violence-01-bqmj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4a869589"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4a869589",
+          "source": "NYTimes World",
+          "title": "持刀袭击事件后暴力之夜笼罩贝尔法斯特",
+          "link": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html",
+          "published_at": "2026-06-10T14:19:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:19:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb67688d",
+      "title": "摩根大通大卫·凯利：美联储此时按兵不动最为稳妥",
+      "summary": "摩根大通资产管理首席全球策略师大卫·凯利解读美国CPI报告对美联储6月货币政策会议的影响时提出，本轮通胀周期的高点很可能出现在今年5月，美联储当前最稳妥的选择是不采取任何行动，相关消息源自彭博。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGjel9MpPMq4/v3/1200x-1.jpg",
+      "article_ids": [
+        "4a0eef77"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4a0eef77",
+          "source": "Bloomberg",
+          "title": "摩根大通大卫·凯利：美联储此时按兵不动最为稳妥",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-10/fed-safest-to-do-nothing-here-jpmorgan-s-david-kelly-video",
+          "published_at": "2026-06-10T14:14:40+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:14:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ac0a457",
+      "title": "ServiceNow告知客户：一漏洞致部分客户数据暴露于互联网",
+      "summary": "全球数千家企业使用ServiceNow实现内部流程自动化。该平台近日披露，平台存在一处安全漏洞，该漏洞已导致部分客户的数据被非授权访问，部分客户数据暴露在公共互联网中。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6a7aa1ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6a7aa1ef",
+          "source": "TechCrunch",
+          "title": "ServiceNow告知客户：一漏洞致部分客户数据暴露于互联网",
+          "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+          "published_at": "2026-06-10T14:13:02+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:13:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5bad9c3e",
+      "title": "造成168人死亡的香港近七十年最致命火灾公布首批起诉结果",
+      "summary": "去年香港宏福苑发生一起公寓火灾，这是香港近七十年来最致命的火灾事故，共造成168人死亡。经数月调查，相关方面公布首批起诉结果，7名个人及2家公司被诉，检方共提起25项涵盖过失杀人罪、串谋罪的指控。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10hongkong-charges-lztw/10hongkong-charges-lztw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "65d44608",
+        "42d013c7"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "65d44608",
+          "source": "NYTimes World",
+          "title": "香港就致命公寓火灾起诉7人及2家公司",
+          "link": "https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html",
+          "published_at": "2026-06-10T14:10:48+00:00"
+        },
+        {
+          "id": "42d013c7",
+          "source": "BBC World",
+          "title": "香港致命火灾首宗控罪正式提起",
+          "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T13:05:34+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:10:48+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "b2f33e0b",
+      "title": "因诈骗分子影响 Valve逐步停用实体Steam礼品卡",
+      "summary": "推出超十年的实体Steam礼品卡将停止线下售卖，其运营商Valve称，现有库存售完后不再补货。Valve在官方支持页面表示，做出该调整是因为诈骗分子持续侵害Steam用户及其他无辜人员的权益。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "52e2b1c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "52e2b1c6",
+          "source": "The Verge",
+          "title": "因诈骗分子影响 Valve逐步停用实体Steam礼品卡",
+          "link": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
+          "published_at": "2026-06-10T14:10:38+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:10:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "55d4514f",
+      "title": "遭美国拒入境的索马里籍世界杯裁判归国获民众英雄般欢迎",
+      "summary": "索马里籍裁判奥马尔·阿尔坦原本有望成为首位执法世界杯的索马里裁判，前往美国时遭拒入境，近日返回祖国，受到民众英雄般的热烈欢迎，他并未因遇挫放弃，立下誓言未来将执法2030年世界杯。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/e4085170-64b3-11f1-8e1d-bbbb1017d210.jpg",
+      "article_ids": [
+        "3dff861d",
+        "b72562b6"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3dff861d",
+          "source": "BBC World",
+          "title": "遭美国拒入境的世界杯裁判回到索马里获英雄般欢迎",
+          "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T14:08:28+00:00"
+        },
+        {
+          "id": "b72562b6",
+          "source": "NYTimes World",
+          "title": "遭美国拒绝入境的索马里世界杯裁判归国获英雄般欢迎",
+          "link": "https://www.nytimes.com/2026/06/10/world/africa/somalia-referee-world-cup-artan.html",
+          "published_at": "2026-06-10T11:30:38+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:08:28+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "c5693c24",
+      "title": "《佩利分钟》幕后二人组五问",
+      "summary": "当下网站风潮回潮，本次推荐值得探访的创意项目《佩利分钟》。这个项目聚焦老牌新闻节目《60分钟》资深记者斯科特·佩利，梳理了他长达37年的职业生涯，佩利从业期间累计产出了近37000分钟的各类新闻报道。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "485a5c39"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "485a5c39",
+          "source": "The Verge",
+          "title": "《佩利分钟》幕后二人组五问",
+          "link": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
+          "published_at": "2026-06-10T14:06:17+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:06:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6f7f4b2",
+      "title": "让中朝传统友谊之树更加根深叶茂——习近平总书记对朝鲜进行国事访问纪实 - 新华网",
+      "summary": "习近平总书记对朝鲜进行国事访问，引发中外媒体广泛关注。习近平致电感谢金正恩，双方强调推进中朝战略合作。中方多家媒体发布相关纪实与解读，点明中朝传统友谊生生不息，外媒也针对此次中朝高层互动作出相关解读。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c87f655a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c87f655a",
+          "source": "Google News (中国)",
+          "title": "让中朝传统友谊之树更加根深叶茂——习近平总书记对朝鲜进行国事访问纪实 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oNlhOZUp2NnM5X0sxbzd0T05Qd0ZxZUllWlBQZnU2TE9rYnQtZHBKU1cwU19ZOFdKZmVjbkJPR3lDSTFmaEc5Rzg2SUFMSGVwb2dZeTVCdmF1bWJtT0lNeWFtOG5abDlYeFM2QXQtWEowQWgxSVpz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T14:05:49+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:05:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6df260cb",
+      "title": "《社交清算》首发预告 首次曝光杰瑞米·斯特朗饰演扎克伯格",
+      "summary": "距离大卫·芬奇与艾伦·索金打造的《社交网络》上映已超过十五年，索尼近日发布了续集《社交清算》的首支预告，该片已定档10月9日登陆院线，故事设定在原作事件发生17年后，围绕一名年轻脸书工程师展开。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "39a218ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "39a218ae",
+          "source": "The Verge",
+          "title": "《社交清算》首发预告 首次曝光杰瑞米·斯特朗饰演扎克伯格",
+          "link": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
+          "published_at": "2026-06-10T14:02:44+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:02:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a342a98d",
+      "title": "AirPods Pro 3在沃尔玛售价179美元 创历史最低价",
+      "summary": "Prime会员日前，沃尔玛推出苹果AirPods 3无线耳机特惠，目前售价179美元，为有史以来最低价。该耳机原价249美元，此前日常售价多在200至220美元之间，优惠为限时活动，适合iPhone用户选购。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2eb73eb8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2eb73eb8",
+          "source": "The Verge",
+          "title": "AirPods Pro 3在沃尔玛售价179美元 创历史最低价",
+          "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
+          "published_at": "2026-06-10T14:00:06+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:00:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d071f639",
+      "title": "庆幸Siri人工智能不做健康教练",
+      "summary": "美国科技媒体The Verge高级评测员维多利亚·宋开设每周通讯《Optimizer》，聚焦剖析讨论各类声称能改变生活的最新科技产品。本周推出配合WWDC报道的特别提前版，下一期将按原定常规时间推出。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bdc0d0b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "bdc0d0b2",
+          "source": "The Verge",
+          "title": "庆幸Siri人工智能不做健康教练",
+          "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
+          "published_at": "2026-06-10T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "86e8420b",
+      "title": "谷歌Nest带探照灯摄像头售价创历史新低",
+      "summary": "谷歌带探照灯的Nest户外摄像头目前在亚马逊、百思买、家得宝及谷歌官方等多个渠道降价，直降100美元后现价为179.99美元。这款防水户外摄像头可拍摄130度视野的1080p视频，通知灵敏、可定制性高，无订阅也支持存储内容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "aefb9d5b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "aefb9d5b",
+          "source": "The Verge",
+          "title": "谷歌Nest带探照灯摄像头售价创历史新低",
+          "link": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
+          "published_at": "2026-06-10T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ae0c0311",
+      "title": "AT&T推出3美元iPad“不限流量”日套餐",
+      "summary": "美国电信运营商AT&T面向仅需短期联网、无需长期套餐的iPad用户，推出全新“不限流量日套餐”。该套餐今日起在美国开售，售价3美元可享受24小时不限流量，无需签订合约、办理订阅，也不要求信用核查。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6797d24a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6797d24a",
+          "source": "The Verge",
+          "title": "AT&T推出3美元iPad“不限流量”日套餐",
+          "link": "https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan",
+          "published_at": "2026-06-10T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea52b379",
+      "title": "特朗普使用动漫形象引发日本国内反对声浪高涨",
+      "summary": "美国总统特朗普使用皮卡丘、鸣人等知名动漫角色的形象，此举已经惹怒不少日本本土的动漫爱好者，针对这一行为的反对声浪在日本不断高涨，越来越多日本民众对这一行为表达不满。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b81/live/29004be0-64cb-11f1-8e1d-bbbb1017d210.jpg",
+      "article_ids": [
+        "b7df517e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b7df517e",
+          "source": "BBC World",
+          "title": "特朗普使用动漫形象引发日本国内反对声浪高涨",
+          "link": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T13:42:23+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:42:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aff23399",
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "summary": "瑞士百年独立制表品牌雅典表，在品牌创立180周年、标志性奇想系列问世25周年之际，于上海举办2026新品品鉴会，推出全球限量50枚、融合八项专利的首款双陀飞轮卡罗素结构超级腕表，以及与中国艺术家刘人岛联名、限量100枚的鎏金系列腕表，以技术加本土文化叙事布局中国高端市场。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260610/v2_9f11b563a8184821812391bc5523840a@5922386_oswg83206oswg1350oswg900_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "509364d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "509364d7",
+          "source": "36氪",
+          "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+          "link": "https://36kr.com/p/3847339087140104?f=rss",
+          "published_at": "2026-06-10T13:35:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:35:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31222965",
+      "title": "Jedify获2400万美元融资 助力企业为AI智能体配备自身业务背景信息",
+      "summary": "人工智能服务商Jedify完成2400万美元融资，本轮融资由Norwest领投，S Capital VC、Cerca Partners、Oceans Ventures参与投资，Snowflake Ventures作为战略投资方也参与本轮融资，资金将用于帮助企业为AI智能体适配自身业务背景信息。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "761f8930"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "761f8930",
+          "source": "TechCrunch",
+          "title": "Jedify获2400万美元融资 助力企业为AI智能体配备自身业务背景信息",
+          "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+          "published_at": "2026-06-10T13:33:09+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:33:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31222965",
+      "title": "Jedify获2400万美元融资 助力企业为AI代理配备业务上下文",
+      "summary": "专注于助力企业为AI代理配备自身业务相关上下文的Jedify完成2400万美元融资，本轮融资由Norwest领投，S Capital VC、Cerca Partners、Oceans Ventures参与投资，Snowflake Ventures作为战略投资方也参与了本轮融资。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "761f8930"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "761f8930",
+          "source": "TechCrunch AI",
+          "title": "Jedify获2400万美元融资 助力企业为AI代理配备业务上下文",
+          "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+          "published_at": "2026-06-10T13:33:09+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:33:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7209c72",
+      "title": "俄罗斯高级军官在莫斯科附近汽车爆炸中身亡",
+      "summary": "一名俄罗斯高级军官在莫斯科附近发生的汽车爆炸事件中身亡。这起死亡事件被认为是俄罗斯境内一连串针对乌克兰知名反对者的定点暗杀行动中的新增案件，近期俄境内已接连发生多起针对这类目标的暗杀活动。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10Russia-Bombing-qgbl/10Russia-Bombing-qgbl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "025221dd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "025221dd",
+          "source": "NYTimes World",
+          "title": "俄罗斯高级军官在莫斯科附近汽车爆炸中身亡",
+          "link": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
+          "published_at": "2026-06-10T13:30:33+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:30:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "681d91a3",
+      "title": "动海报｜一组影像，“预”见大国工程之变 - 红星新闻",
+      "summary": "红星新闻推出主题为“一组影像，‘预’见大国工程之变”的动海报产品，聚合多家主流媒体关于三峡水运新通道工程的相关报道，内容涵盖该工程的建设背景、技术难点等，提及该工程将升级长江“黄金水道”，推动西部与长三角城市群协同共进。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "065026c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "065026c0",
+          "source": "Google News (中国)",
+          "title": "动海报｜一组影像，“预”见大国工程之变 - 红星新闻",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRW1NTU9JNzN5TDJ4ZXEwLVB2S2E5MDVqSjdHZjZNeVd2WnNheXJld1U5ZTBwSTZLS29tXzgzWlRLSF9wRFoxd1FmQzJGV1lKNVpvX3RjaEJHVGNycUZVY1pRdndwNlNoZHM3VWk2blk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T13:18:15+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:18:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a08bea63",
+      "title": "收到“你作弊了”短信？千万别中计 警惕新型诈骗套路 - 中华网",
+      "summary": "高考结束前后，多家媒体披露涉高考相关风险提示：公安部已公布10起涉高考网络谣言典型案例，共有10人因涉此类谣言被处罚。网警同时提醒广大考生及家长，要警惕“你作弊了”这类新型AI变种诈骗套路，切勿上当受骗。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0798bed7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0798bed7",
+          "source": "Google News (中国)",
+          "title": "收到“你作弊了”短信？千万别中计 警惕新型诈骗套路 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUll1LTYxMzJua1pNSzBDdUY3VVRJVjJoNmtDLXhyRndIWHIxaDlmeEFZeDVRVjByVnFXQW1WTGlBZ2gxa29ua2d1SVRDaHpnRjdxZE9DMGRNUGdCQ0w0LUtCV1RaWlRrbFFLNl9UaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T13:08:03+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:08:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b957a361",
+      "title": "Decart新型世界模型可模拟数小时照片级逼真驾驶，存一定局限",
+      "summary": "Decart推出全新实时世界模型Oasis 3，该模型可生成照片级逼真的驾驶环境，用于自动驾驶汽车测试，目前已通过API对外开放，可供开发者基于该模型开展相关开发工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d1f0b3ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d1f0b3ef",
+          "source": "TechCrunch",
+          "title": "Decart新型世界模型可模拟数小时照片级逼真驾驶，存一定局限",
+          "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+          "published_at": "2026-06-10T13:07:56+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:07:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b957a361",
+      "title": "Decart新型世界模型可模拟数小时照片级真实驾驶 仍存局限",
+      "summary": "Decart正式推出全新实时世界模型Oasis 3，该模型能够生成照片级真实的驾驶环境，主要用于自动驾驶汽车的研发测试，目前已开放API接口，可供开发者在此基础上开展相关开发工作。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d1f0b3ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d1f0b3ef",
+          "source": "TechCrunch AI",
+          "title": "Decart新型世界模型可模拟数小时照片级真实驾驶 仍存局限",
+          "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+          "published_at": "2026-06-10T13:07:56+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:07:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e53f1fb4",
+      "title": "影石Luna Ultra 8K防抖相机现已在美国上市",
+      "summary": "经过数月预热、爆料，在2026年NAB展会低调首发、率先登陆中国市场后，影石首款手持防抖相机Luna Ultra正式开启全球发售。该产品在三轴云台上搭载两颗8K摄像头，定位为大疆Osmo Pocket 4及Pocket 4P的升级产品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "377842b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "377842b1",
+          "source": "The Verge",
+          "title": "影石Luna Ultra 8K防抖相机现已在美国上市",
+          "link": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
+          "published_at": "2026-06-10T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "599c6ca4",
+      "title": "Snapchat限制16岁以下用户仅可与好友分享Spotlights内容",
+      "summary": "社交应用Snapchat推出针对未成年用户的隐私新规，将为16岁以下用户设置单独个人资料，该群体发布的故事及Spotlights内容，仅对其已回关的好友可见，以此限制未成年用户内容的公开范围，保护未成年人隐私。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e55cb988"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e55cb988",
+          "source": "TechCrunch",
+          "title": "Snapchat限制16岁以下用户仅可与好友分享Spotlights内容",
+          "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+          "published_at": "2026-06-10T12:46:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:46:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "540c21b4",
+      "title": "为何如今人人都是能源公司",
+      "summary": "人工智能数据中心的快速发展催生了庞大的电力需求，这一变化正推动各类企业入局储能行业，原本主营汽车制造的通用汽车、福特汽车等老牌车企，也纷纷加入储能业务赛道，能源领域的参与主体正不断走向多元化。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "100472c1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "100472c1",
+          "source": "TechCrunch",
+          "title": "为何如今人人都是能源公司",
+          "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+          "published_at": "2026-06-10T12:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c207361",
+      "title": "山西省应急管理厅副厅长张和平接受纪律审查和监察调查 - 新华网",
+      "summary": "近期，特大矿难发生后，山西曝出多起官员违纪违法案件：山西省应急管理厅副厅长张和平、山西沁源县委书记赵永进，以及沁源县应急管理系统三名负责人，均因涉嫌严重违纪违法，正接受山西省纪委监委的纪律审查和监察调查。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9494da2b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9494da2b",
+          "source": "Google News (中国)",
+          "title": "山西省应急管理厅副厅长张和平接受纪律审查和监察调查 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdjFaQVJicjNDVmFsT1NuYjFrM2J1OEpObjQyYjhwZEZ1a0dKY3J6MXoydXM3akxheWFQRGo2N2h2X1Qwd2RYVExLUzNzUlA2ZEVORVcyZGhiRjRIV1dXMWIxSl8xanpxSEFIYS1rUXRnNG5DM1A3UHJYMDQxZ1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T12:41:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:41:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f06ad10e",
+      "title": "媒体实探鹅腿阿姨后厨：有健康证但营业执照经营者非本人，微信已无法登录 - thepaper.cn",
+      "summary": "走红的鹅腿阿姨被媒体实地探访发现，其本人持有健康证，但所用营业执照的经营者并非本人，目前其微信已无法登录。此外鹅腿阿姨还被曝出疑似以低价冻鸭腿冒充鹅腿，北大此前发布的相关推文也已删除。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "47b97b2c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "47b97b2c",
+          "source": "Google News (中国)",
+          "title": "媒体实探鹅腿阿姨后厨：有健康证但营业执照经营者非本人，微信已无法登录 - thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13ZUtId2JMaUhhM1I1QktHa0xMc1E2VFJjUk02X2FsdkxXNVRma1lXSGNVWS0weUN2ZkRVbGRicFJ2Mjl6eVFiV3Z1SmJXX1ZIbXZuVUpQOVhlblIyeWVweQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T12:25:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:25:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c1bfc815",
+      "title": "雪崩能源台式聚变反应堆产出超高温等离子体",
+      "summary": "聚变能源初创公司雪崩能源对外宣布，其研发的台式聚变反应堆原型已成功将等离子体加热至1000万摄氏度以上。这是小型化桌面聚变能源研发领域的重要突破，为后续聚变能源的技术开发与商业化应用积累了关键基础。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "82a90a21"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "82a90a21",
+          "source": "TechCrunch",
+          "title": "雪崩能源台式聚变反应堆产出超高温等离子体",
+          "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+          "published_at": "2026-06-10T12:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8c5cc446",
+      "title": "耗资五千万美元的‘类固醇奥运会’落地拉斯维加斯 是观察当代文化的窗口",
+      "summary": "这场赛事设于拉斯维加斯赌场停车场，耗资五千万美元打造场馆，数十名运动员参赛，允许使用各类禁药，设置数百万美元奖金供争夺，乱象丛生，它既是特殊奇观，也是观察当下社会文化的独特切入点。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "1076dadb",
+        "ea2ec57e"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "1076dadb",
+          "source": "MIT Technology Review",
+          "title": "《每日下载》：“类固醇奥运会”与更安全的迈索斯",
+          "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+          "published_at": "2026-06-10T12:10:00+00:00"
+        },
+        {
+          "id": "ea2ec57e",
+          "source": "MIT Technology Review",
+          "title": "“类固醇奥运会”是一场闹剧，亦是观察当代文化的一扇窗口",
+          "link": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+          "published_at": "2026-06-10T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:10:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "3591d099",
+      "title": "两名SpaceX前员工为何押注太阳能电池为AI热潮供能",
+      "summary": "两名曾就职于SpaceX的人员创办安布罗西亚能源公司，押注太阳能与电池为人工智能热潮提供电力支持。该公司可在12个月内建成发电站，电价低于天然气，目标到2030年建成吉瓦级规模的发电项目。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a3f3e143"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a3f3e143",
+          "source": "TechCrunch",
+          "title": "两名SpaceX前员工为何押注太阳能电池为AI热潮供能",
+          "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+          "published_at": "2026-06-10T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5669c48a",
+      "title": "我日常常用的三款耳塞",
+      "summary": "拥有20年从业经验的音频评测人，曾在Wirecutter担任自由耳机评审，还为多家知名科技媒体撰写评测内容，听过数百款耳塞产品，本次他将分享自己实际日常使用中最常选用的三款耳塞。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9246d7ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9246d7ae",
+          "source": "The Verge",
+          "title": "我日常常用的三款耳塞",
+          "link": "https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use",
+          "published_at": "2026-06-10T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9a49caf4",
+      "title": "约翰内斯堡发生多名袭击者枪击事件 至少12人死亡",
+      "summary": "约翰内斯堡一处铁皮棚屋社区遭多名袭击者闯入枪击，事件已造成至少12人死亡。警方目前正在搜捕十余名在逃袭击者，调查人员仍在确认这起枪击事件的作案动机。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-safrica-shooting-01-vgbt/10int-safrica-shooting-01-vgbt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "323e6db0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "323e6db0",
+          "source": "NYTimes World",
+          "title": "约翰内斯堡发生多名袭击者枪击事件 至少12人死亡",
+          "link": "https://www.nytimes.com/2026/06/10/world/africa/johannesburg-shooting-south-africa.html",
+          "published_at": "2026-06-10T11:50:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T11:50:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3fafae4d",
+      "title": "乌克兰称导弹击中俄罗斯纵深地区一座军工厂",
+      "summary": "乌克兰方面宣称，其武装力量用导弹袭击了俄罗斯境内纵深区域的一座军工厂。此外，乌方还表示，己方已对俄罗斯一处炼油厂，以及黑海海域一艘隶属于俄罗斯“影子舰队”的油轮发动了打击。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/e5079930-64d8-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "cff3c1ab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cff3c1ab",
+          "source": "BBC World",
+          "title": "乌克兰称导弹击中俄罗斯纵深地区一座军工厂",
+          "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T11:43:40+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T11:43:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b16632fb",
+      "title": "MTN即将完成尼日利亚、乌干达金融科技业务分拆 引入支付宝",
+      "summary": "MTN集团正对旗下移动货币业务板块进行重组，目前已进入尼日利亚、乌干达两地金融科技业务分拆的收尾阶段，这一安排允许万事达卡等战略投资者获得其金融科技业务的少数股权。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUQbQVppzB3Y/v1/1200x-1.jpg",
+      "article_ids": [
+        "a0e1f4cb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a0e1f4cb",
+          "source": "Bloomberg",
+          "title": "MTN即将完成尼日利亚、乌干达金融科技业务分拆 引入支付宝",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/mtn-spins-off-nigeria-uganda-fintech-units-for-mastercard-minority-stakes",
+          "published_at": "2026-06-10T11:27:18+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T11:27:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac99dc82",
+      "title": "比亚迪将在欧洲布设数千台五分钟极速电动车充电桩",
+      "summary": "中国电动汽车巨头比亚迪宣布，将通过在欧洲布设极速闪充桩，加快拓展欧洲汽车市场布局。目前比亚迪已在德国、英国完成首批充电桩安装，计划到明年底前，在欧洲全境完成总计3000台充电桩的布设。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "193dd319"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "193dd319",
+          "source": "The Verge",
+          "title": "比亚迪将在欧洲布设数千台五分钟极速电动车充电桩",
+          "link": "https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery",
+          "published_at": "2026-06-10T11:04:32+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T11:04:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6fad61ab",
+      "title": "约翰内斯堡发生大规模枪击致12人死亡 南非正展开搜捕",
+      "summary": "南非约翰内斯堡克利夫兰地区一处非正式定居点于周二深夜发生一起大规模枪击事件，这起事件已造成12人死亡，另有9人受伤，目前当地相关部门正对行凶者展开搜捕工作。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/4d102e40-64aa-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "2ba827d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2ba827d0",
+          "source": "BBC World",
+          "title": "约翰内斯堡发生大规模枪击致12人死亡 南非正展开搜捕",
+          "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T10:26:54+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T10:26:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "09cec8df",
+      "title": "\"笨拙外交\": 美肯埃博拉营地争端内幕",
+      "summary": "数百名肯尼亚人走上街头游行抗议，反对一座专门预留供美国患者使用的埃博拉隔离检疫营地，该设施的相关安排引发美肯两国争端，这一事件被直指为笨拙外交的体现，凸显两国在公共卫生安排上的分歧。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ebola-kenya-us-new1-bzwf/10int-ebola-kenya-us-new1-bzwf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f7c0aa0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f7c0aa0d",
+          "source": "NYTimes World",
+          "title": "\"笨拙外交\": 美肯埃博拉营地争端内幕",
+          "link": "https://www.nytimes.com/2026/06/10/world/africa/ebola-kenya-us-protests.html",
+          "published_at": "2026-06-10T10:26:27+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T10:26:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "19a01e76",
+      "title": "巴基斯坦在阿富汗发动致命空袭，紧张局势再度升温",
+      "summary": "巴基斯坦在阿富汗发动致命空袭，重新引爆两国间的紧张局势。此次空袭发起前，巴阿两国局势动荡的边境地区已经维持了数周的相对平静，此次行动打破平稳状态，让两国原本有所缓和的局势再度升温。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a5/live/ac2cfa10-64ab-11f1-9c89-85486d952f7c.jpg",
+      "article_ids": [
+        "14a60f5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "14a60f5d",
+          "source": "BBC World",
+          "title": "巴基斯坦在阿富汗发动致命空袭，紧张局势再度升温",
+          "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T10:26:26+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T10:26:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9b4c5def",
+      "title": "中国大陆结束台湾东部海域连续五日“交通执法和扫测行动” - 联合早报",
+      "summary": "中国大陆在台湾岛东部海域开展的连续五日海上交通专项执法和扫测行动已圆满结束，此次作业为首次，成功补齐台湾岛东部海底地图。国台办明确表态，民进党当局若胆敢挑衅大陆海警巡查，必须承担相应后果。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "244a25e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "244a25e5",
+          "source": "Google News (中国)",
+          "title": "中国大陆结束台湾东部海域连续五日“交通执法和扫测行动” - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZnBGdmN3b1dzazc4eEllVzNzbXpndERyakMwQ25WUFNVaFNDRTZLZk9leHR0TWlWb1pidmtuS2gzcDcwZW1STHotaHZPZzVXWHA5T2FYS3pXMzNKWUtzSDNseVllX3Y1N3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T10:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T10:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32c8773d",
+      "title": "泽连斯基面临压力 需结束与波兰就乌军单位二战命名的争端",
+      "summary": "乌克兰将本国一支军事单位以二战时期存在争议的作战人员命名，此举引发乌波争端。波兰对此不满，威胁要剥夺乌克兰总统泽连斯基所获的波兰国家荣誉，目前泽连斯基正面临结束该争端的压力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2043/live/875c77e0-64ad-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "35e72413"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "35e72413",
+          "source": "BBC World",
+          "title": "泽连斯基面临压力 需结束与波兰就乌军单位二战命名的争端",
+          "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-10T09:57:20+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T09:57:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e07c0a6",
+      "title": "世界杯前夕 美国移民政策将部分人员拒之门外",
+      "summary": "世界杯开赛前夕，部分希望入境美国观看、参与世界杯的球迷及相关参与者遭遇入境阻碍。这些人员抱怨，美国限制性的移民规则成为他们顺利入境的障碍，不少人因此无法进入美国。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-word-cup-immigration-1-gclz/10int-word-cup-immigration-1-gclz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "af3f4bed"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "af3f4bed",
+          "source": "NYTimes World",
+          "title": "世界杯前夕 美国移民政策将部分人员拒之门外",
+          "link": "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
+          "published_at": "2026-06-10T09:04:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T09:04:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d4bde4b1",
+      "title": "乌克兰无人机行动出新招 “重创俄军”",
+      "summary": "乌克兰大量生产升级改造后的无人机，依托这类无人机开展中程打击行动，已对俄军造成不小冲击，不仅导致俄军出现燃料短缺问题，还令俄军的部队轮换部署工作陷入复杂困境。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-ukraine-midrange-01-qpvl/10int-ukraine-midrange-01-qpvl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "722aaa01"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "722aaa01",
+          "source": "NYTimes World",
+          "title": "乌克兰无人机行动出新招 “重创俄军”",
+          "link": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+          "published_at": "2026-06-10T09:02:09+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T09:02:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b476d474",
+      "title": "低调阿曼缘何成为特朗普的攻击目标",
+      "summary": "伊朗战事持续迁延未决，作为美国盟友的阿曼长期承担美国与伊朗之间的调解斡旋工作，如今处境尴尬，不仅与特朗普政府产生明显分歧矛盾，也和自身部分周边邻国出现不和。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10int-oman-thread-1-zpcw/10int-oman-thread-1-zpcw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a716af61"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a716af61",
+          "source": "NYTimes World",
+          "title": "低调阿曼缘何成为特朗普的攻击目标",
+          "link": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
+          "published_at": "2026-06-10T09:02:02+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T09:02:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eb5caca9",
+      "title": "盐城响水：“铁甲”驰骋沃野 激情“麦”向丰收 - 中国江苏网",
+      "summary": "当前全国小麦收获进度已近七成，江苏盐城响水、东台安丰，河南民权庄子镇等多地抢抓农时推进夏收夏种，响水机械化夏收场面火热，部分地区已进入麦收收官阶段，各地依托“科技+服务”，全力保障夏粮颗粒归仓。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "1c366ff8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1c366ff8",
+          "source": "Google News (中国)",
+          "title": "盐城响水：“铁甲”驰骋沃野 激情“麦”向丰收 - 中国江苏网",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa25mMnlvUTdMR3pwcERHYVVfRGw1TEVFcWVRdGRkVkwydkVQYlNZQ2Y4MlRhWFZYOFNsQnExUk9kbUZ3dy03WllJY2hnb1JoeWRBeVREcjBNSUctTmE1SmdlRzNDLVhNdVJncHl3N0d0MmszOGtyb2MwSWFFVkluTDdHaEpvVThpTUpr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f15033de",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "summary": "近日科技领域多重要动态公布：韩国IT巨头Kakao工会启动史上首次局部罢工，三星考虑新建先进芯片封装厂，SK海力士计划最早8月在美国上市；国内工信部提出2028年城域算力1毫秒时延圈覆盖率不低于75%，何小鹏亲自带队冲刺人形机器人量产。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "91ec974e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "91ec974e",
+          "source": "36氪",
+          "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+          "link": "https://36kr.com/p/3847079661193733?f=rss",
+          "published_at": "2026-06-10T08:32:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T08:32:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "55e68ae1",
+      "title": "外交部：国际社会必须高度警惕日本右翼势力危险动向--国际 - 人民网",
+      "summary": "近期日本自民党拟建议政府进一步增加防卫费，日方无端指责抹黑中国正常军事活动，刻意渲染周边紧张局势，加速升级情报体系、推进强军扩武。外交部提醒国际社会高度警惕日本右翼势力的危险动向，日本民间团体人士也呼吁阻止日本强军扩武进程。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d478d99f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d478d99f",
+          "source": "Google News (中国)",
+          "title": "外交部：国际社会必须高度警惕日本右翼势力危险动向--国际 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zcnNQcEVHek8tdlBkYXo1bk9qQW81NnJUWW44TTdyMW9OVllnNkQzU25CVVAxbHZ4QlZSYWtBRU9UYkZaalF3Si04cFRGY0ZsWUpNQWY4TlEyMjR1UU9NRmdBdFRRWGVEZzRYcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-10T07:59:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-10T07:59:00+00:00",
+      "is_merged": false
+    }
+  ]
+}

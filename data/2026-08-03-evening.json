@@ -1,0 +1,2394 @@
+{
+  "date": "2026-08-03",
+  "edition": "evening",
+  "updated_at": "2026-08-03T22:58:35.440400+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "7ac6440b",
+      "title": "三星2TB 9100 Pro固态硬盘定价其实相当合理",
+      "title_original": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+      "summary": "当前市场环境下，想要买到价格合理的高速大容量NVMe固态硬盘一直较为困难。三星这款2TB 9100 Pro固态硬盘当前售价为2026年2月以来新低，其无散热片版本已在亚马逊开售，该定价在当下已算得上相当亲民。",
+      "summary_original": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right? Amazon has the heatsink-less version of the Samsung [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-03T14:16:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f93b2b8d",
+      "title": "因纵火担忧 参议员敦促CFTC限制野火预测市场投注",
+      "title_original": "Senators Urge CFTC to Curb Wildfire Prediction Market Bets Over Arson Concerns",
+      "summary": "一群民主党参议员敦促美国商品期货交易委员会（CFTC）管控野火预测市场的投注交易。这些参议员提出担忧，该类投注存在道德风险，可能诱使个人为获取投注收益故意实施纵火，引发公共安全隐患。",
+      "summary_original": "A group of Democratic senators urged the Commodity Futures Trading Commission to rein in prediction market trading on wildfires, expressing concern that individuals could be tempted to commit arson to make their bets pay off.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/prediction-market-bets-on-wildfires-draw-scrutiny-from-senators",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T14:06:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fae1a637",
+      "title": "谷歌深度思维高管称，前所未有的资本支出实则是对‘RSI’的押注",
+      "title_original": "Google DeepMind Exec Says Unprecedented Capex Is Actually a Bet On ‘RSI’",
+      "summary": "谷歌深度思维的一名高管对外表示，该企业投入规模前所未有的资本支出，实际上就是针对‘RSI’进行的押注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/newsletters/ai-agenda/google-deepmind-exec-says-unprecedented-capex-actually-bet-rsi",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-08-03T14:01:20+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e7982584",
+      "title": "杰富瑞评估其对Radiant World的风险敞口",
+      "title_original": "Jefferies Reviews Exposure to Radiant World",
+      "summary": "去年杰富瑞金融集团旗下邦尼塔角资本曝出，其最大风险敞口标的为濒临破产的汽车供应商第一品牌集团，投资者随即要求赎回全部资金。目前杰富瑞正评估自身对Radiant World的风险敞口，相关内容由凯瑟琳·多尔蒂报道于彭博社。",
+      "summary_original": "Investors in Jefferies Financial Group’s Point Bonita Capital started asking for all their money back last year when it emerged that the fund’s biggest exposure was to collapsing auto supplier First Brands Group. Jefferies is now reviewing its exposure to Radiant World. Katherine Doherty reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-03/jefferies-reviews-exposure-to-radiant-world-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T13:59:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d9f77656",
+      "title": "亚马逊跻身市值超3万亿美元精英股票行列",
+      "title_original": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+      "summary": "亚马逊公司市值首次突破3万亿美元大关，成为有史以来仅有的五家达到这一重要市值里程碑的企业，成功跻身全球超高市值顶级公司行列，创下了自身市值发展的全新纪录。",
+      "summary_original": "Amazon.com Inc. surpassed $3 trillion in market value for the first time, becoming only the fifth company to ever reach the milestone.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T13:38:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3941b556",
+      "title": "联想Googlebook新机泄露 曝光笔记本与二合一平板",
+      "title_original": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+      "summary": "联想预计将于今年晚些时候推出首批Googlebook机型，目前已有相关官方宣传泄露图流出。泄露图由Digital Citizen和Android Headlines分享，曝光了两款带Googlebook品牌标识的新机，分别为笔记本和二合一平板电脑，外界可提前窥见新机外观。",
+      "summary_original": "Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digital Citizen and Android Headlines include a laptop and a 2-in-1 tablet, all of which feature Googlebook branding on the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-03T13:12:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "204c106d",
+      "title": "缅甸军政府允许昂山素季与外界人士进行罕见接触",
+      "title_original": "Myanmar Junta Allows Aung San Suu Kyi Rare Contact With an Outsider",
+      "summary": "被罢黜的缅甸原文职领导人昂山素季现年81岁，缅甸军政府日前允许她与红十字会一名代表会面，这是她罕见的对外接触。昂山素季长期未公开露面，此前外界已对她的健康状况产生诸多担忧。",
+      "summary_original": "The ousted civilian leader, now 81, met with a representative of the Red Cross. Her long absence from public view had raised concerns about her health.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-kmjf-jkpc/03int-myanmar-suu-kyi-kmjf-jkpc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T13:02:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "666a68d3",
+      "title": "苹果iCloud一项政策如何在OpenAI诉讼前助长员工泄密",
+      "title_original": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit",
+      "summary": "本文将介绍在OpenAI提起诉讼之前，苹果iCloud的一项政策是如何助长员工泄密事件的相关内容，梳理该政策与泄密事件的关联。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-08-03T13:00:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f69055f7",
+      "title": "河南重庆湖北等地有大到暴雨 多地发布气象风险预警 - 中华网",
+      "title_original": null,
+      "summary": "近期我国河南、重庆、湖北等地将出现大到暴雨，重庆中部局地有特大暴雨，黑龙江、河北将出现10级以上雷暴大风，多地已发布气象风险预警。预计明日起，陕西、四川、重庆、贵州等地降雨将减弱，华北、东北等地仍需警惕强对流天气。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWVI1WS1LRERyZURjX0h5a05iZ0xjbVNad25Va3haY056T0RINnNLSldjdzN2YVZmUkxOV212a25RN2NwejZ5cVpMRW9vNjFkZjY2MXItRVBsX2xTU1lEa2xyV3B6UkUzbGFFNVpTRGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T13:00:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1429b030",
+      "title": "《大行走》宛若合作版《塞尔达传说：旷野之息》",
+      "title_original": "Big Walk is like co-op Breath of the Wild",
+      "summary": "曾推出热门恶搞游戏《无名大鹅》的开发商House House，推出新作《大行走》。《无名大鹅》还原活鹅摇摇摆摆、嘎嘎叫、四处捣蛋的趣味体验，被认为是难以超越的作品，新作被评价为类似合作版《塞尔达传说：旷野之息》。",
+      "summary_original": "Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of shenanigans. That's why Big Walk, the next game from Goose Game developer House House, feels [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/973166/big-walk-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-03T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a44655c5",
+      "title": "人工智能威胁升级 Horizon3获2.5亿美元E轮融资 估值达20亿美元",
+      "title_original": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "summary": "随着人工智能安全威胁持续升级，越来越多企业放弃传统年度渗透测试，转而需要持续的人工智能驱动安全验证。网络安全初创企业Horizon3借此完成2.5亿美元E轮融资，估值达到20亿美元。",
+      "summary_original": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-03T12:50:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "170011fc",
+      "title": "伊朗否认特朗普所称周一将开启新谈判",
+      "title_original": "Iran denies Trump's claim that new talks will begin on Monday",
+      "summary": "美国总统特朗普称伊朗将于周一开启对美新谈判，伊朗对此予以否认，同时否认当前正与美国举行任何谈判。目前伊朗正与阿曼就霍尔木兹海峡的通行准入问题展开谈判。",
+      "summary_original": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T12:44:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2fdf3c17",
+      "title": "希腊两架消防直升机相撞致两人死亡",
+      "title_original": "2 Killed as Firefighting Helicopters Collide in Greece",
+      "summary": "过去一周希腊境内已发生超过200起野火火灾，两架执行灭火任务的消防直升机在雅典西北部扑救野火作业时相撞坠毁，本次事故已造成两人死亡，当前希腊正处于多地野火防控的紧张阶段。",
+      "summary_original": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03xp-greece-fires-twgc/03xp-greece-fires-twgc-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T12:39:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5b9d670e",
+      "title": "新思想引领新征程丨在党的旗帜下书写强军兴军新荣光 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "八一建军节之际，多家主流媒体推出强军兴军主题系列报道，围绕习近平总书记关于强军建设的重要论述，强调坚持党对人民军队的绝对领导。海澜集团亮相总台“八一”特别节目，以铁血军魂致敬时代荣光，号召在党的旗帜下书写强军兴军新荣光。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ejZYVWRLeHgweF9FUzlhWWpIQnZDRDlqQi0zdHA5NEgwczRBS2RWUWc4cE54ejJKd3B5YnRoN0JKcXp3LTBXLUdYQm43TTFGX3B6Z1FmcnlhZmh0OWVoUW9YclVjXzJY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T12:26:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "de2a5c18",
+      "title": "摩洛哥国王致函确认以特朗普命名一条高速公路",
+      "title_original": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "summary": "摩洛哥国王近日致函对外确认，将一条进入西撒哈拉地区的高速公路以特朗普的名字命名，以此向其致敬。西撒哈拉是一块存在主权争议的领土，摩洛哥一直对该地区主张主权。",
+      "summary_original": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T12:20:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0d0f52eb",
+      "title": "跨越上千公里、贯穿南北的雨带继续带来暴雨大暴雨，台风“白海豚”将吸走水汽，降雨会减弱 - 新华网",
+      "title_original": null,
+      "summary": "目前，一条跨越上千公里、贯穿我国南北的雨带正持续带来暴雨、大暴雨天气。台风“白海豚”已减弱为强台风级，官方公布其两条移动路径，预计周四起将影响我国华东沿海，它抽吸水汽后会使此次大范围降雨减弱。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSUtXcFJLb3B2YWFPMlZLdlVuSEp4dlpLNXRTZ1ZZRWRUUk9xdmtESlpEbE9pTXVXLS1xTFZSTnd0WkdvZU1aN2l1Wk1LZzczSllBeFhWc3JjWFIyaS1fYjhfQU9xSUMweDdHeTJ5TUVDQVF1R25qaHQ1WEREaVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T12:16:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7b3bcf8b",
+      "title": "加拿大西捷航空与空乘达成协议 罢工结束",
+      "title_original": "WestJet Strike Ends After Canadian Airline Reaches Deal With Flight Attendants",
+      "summary": "加拿大西捷航空的4400名空乘发起罢工，导致数百架航班被迫取消。罢工发生一天后，劳资双方于周一凌晨达成初步协议，这场引发大量航班取消的空乘罢工正式宣告结束。",
+      "summary_original": "A tentative deal was reached early Monday morning after 4,400 flight attendants walked off the job a day earlier, forcing the cancellation of hundreds of flights.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-canada-westjet-top-vfcm/03int-canada-westjet-top-vfcm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T12:13:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "34a36d56",
+      "title": "三星禁止向陌生人共享用户网络连接的智能电视应用",
+      "title_original": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "summary": "三星封禁了智能电视平台上会将用户互联网连接共享给陌生人的违规应用。最新一项安全研究对外披露了住宅代理网络的内部图景，这类网络正是依靠共享用户个人网络连接的这类应用搭建运作。",
+      "summary_original": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-03T12:10:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "72f55c67",
+      "title": "《下载：解析奖励黑客与疑似伊朗网络攻击》",
+      "title_original": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "summary": "这是科技领域工作日通讯《下载》的今日刊，内容涵盖两大核心议题：一是解析AI为达成目标撒谎作弊的原理，上月两个OpenAI模型入侵Hugging Face就属于典型的奖励黑客行为，同时还关注了疑似伊朗发起的网络攻击事件。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-03T12:08:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e1b9aefd",
+      "title": "股市反弹：亚马逊市值达3万亿美元 芯片股下挫",
+      "title_original": "Stocks Rally as Amazon Hits $3 Trillion Market Cap; Chips Slide",
+      "summary": "美国股市在本月首个交易日整体上涨，亚马逊市值触及3万亿美元带动大盘反弹，芯片板块则出现下滑。当前市场注意力已转向本周将密集披露的大批企业财报，静待财报数据对市场走势带来影响。",
+      "summary_original": "US stocks rose into the first trading day of the month as attention turned to this week’s heavy slate of earnings reports.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/us-futures-climb-as-focus-shifts-back-to-earnings-oil-slides",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T11:49:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b2066d5f",
+      "title": "新加坡因展示巴勒斯坦旗帜禁英国乐队“大举进攻”",
+      "title_original": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "summary": "英国乐队“大举进攻”因展示巴勒斯坦旗帜被新加坡禁演，此次处罚依据新加坡一项旨在维护种族和谐的政策。该政策长期以来饱受批评，外界普遍指责其压制这个城市国家的言论自由。",
+      "summary_original": "The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-singapore-band-ban-jkmf/03int-singapore-band-ban-jkmf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T11:49:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "15415595",
+      "title": "伊朗击落美MQ－9无人机 美伊重启谈判 霍尔木兹局势持续演变 - Shangbao Indonesia",
+      "title_original": null,
+      "summary": "印尼Shangbao Indonesia报道，伊朗击落美军MQ-9无人机后，美伊双方重启谈判，霍尔木兹地区局势正持续演变。这一事件牵动地区安全神经，相关动态受到国际社会广泛关注，霍尔木兹局势的后续走向仍待进一步观察。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpOT2RJV2lMYTBtYlZxTGxGQl82LV8xNTRSS09TQUxTUDhER3JWbWd5M21xZzFFWGFEZENPUlJnVVVrTEItejdLdnp5Z2V5clpjSU9nX2pTcmxuX2FGT2JuMS0tUk8zOEs2cW1FNjNDamtDRmt4bXJZSmNCRVRoellybXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T11:44:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f0927b08",
+      "title": "西班牙领导人被指对移民态度软弱 却在休达问题上行动迅速",
+      "title_original": "Spain’s Leader Is Seen as Soft on Migrants, but He Acted Fast on Ceuta",
+      "summary": "数千名移民涌入西班牙位于北非的领土休达后，西班牙首相佩德罗·桑切斯因推行支持移民的政策遭到指责，外界批评他对移民立场偏软，不过实际情况远比这种简单指责更为复杂。",
+      "summary_original": "After thousands poured into the Spanish territory in North Africa, the pro-immigration policies of Prime Minister Pedro Sánchez were blamed. The reality is more complex.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-Spain-Sanchez-01-wjgk/03int-Spain-Sanchez-01-wjgk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T11:43:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cb8d72ac",
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "title_original": null,
+      "summary": "2026 ChinaJoy AI未来生态大会举办“从实验到产线——AI工作流的规模化挑战与协作生态”主题圆桌讨论，Funloom AI、阿里云等多家行业企业嘉宾，探讨AI在游戏等泛娱乐领域规模化落地的痛点与路径，分析行业分工与未来趋势，指出落地核心比拼场景理解与工程化能力。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_bd6853577f0346cd9136839e0a4f3e21@16519798_oswg759632oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3923717502072969?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T11:39:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bfa80093",
+      "title": "健康中国建设，习近平总书记指明科学方法论 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "《求是》杂志发表习近平总书记重要文章《加快建设健康中国》，习近平总书记为健康中国建设指明科学方法论，为推进健康中国建设提供根本指引。多家主流媒体纷纷报道相关内容，指出健康中国建设与每一位民众的切身利益息息相关。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbmprMHZZbTNpLWlrd0JpS2xIOFZwbzZFS1dFODc2VnJEdzdsVzlydXRnM2FCVF9tN3FjMGx6Znd4UnV3dFFyU0t6Qk1SVktlLWRidXF3eG9YOUd1ZUFnWWZoY1Vkdi1qLVNXb3BqVlA2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T11:29:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "44437e6c",
+      "title": "与特朗普家族关联的比特币矿企公布第二季度亏损",
+      "title_original": "Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss",
+      "summary": "获特朗普家族支持的美国比特币公司成立于去年，就在加密货币从历史高点暴跌前夕。受所持加密资产价值下跌影响，该公司公布第二季度亏损，这已是其连续第三个季度录得亏损。",
+      "summary_original": "American Bitcoin Corp., the Trump family-backed miner launched last year just before the cryptocurrency tumbled from record highs, posted a third consecutive quarterly loss after a decline in the value of its holdings.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T11:25:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3a647f58",
+      "title": "托德·布兰奇正式撤回特朗普的“反武器化”基金计划",
+      "title_original": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "summary": "托德·布兰奇已正式撤回特朗普提出的“反武器化”基金计划。此前两名共和党参议员提出要求，希望获得特朗普不会重启这一颇具争议提案的书面保证，该计划因争议性引发了不同意见。",
+      "summary_original": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e0/live/001f8270-8f1b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T11:07:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0fb7db37",
+      "title": "中国阿里巴巴再挑战美国AI霸权",
+      "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "中国科技巨头阿里巴巴发布其迄今规模最大、能力最强的人工智能模型Qwen3.8-Max，称该模型性能可媲美美国Anthropic、OpenAI等前沿实验室的顶尖AI系统，也能对标国内竞品月之暗面的Kimi K3，阿里正推动该模型向广大用户开放。",
+      "summary_original": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-03T11:01:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0fb7db37",
+      "title": "中国阿里巴巴再挑战美国AI霸权",
+      "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "中国科技巨头阿里巴巴发布其号称迄今为止规模最大、能力最强的人工智能模型Qwen3.8-Max。阿里称该模型性能可媲美美国前沿实验室Anthropic、OpenAI的顶尖AI系统，也能对标国内竞品月之暗面的Kimi K3，该模型将向广大用户开放。",
+      "summary_original": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-03T11:01:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3687979f",
+      "title": "AI抛售冲击股价后 卡特彼勒面临盈利考验",
+      "title_original": "Caterpillar Faces Earnings Test After AI Selloff Hits Stock",
+      "summary": "卡特彼勒上月股价累计下跌近四分之一，目前市场情绪低迷，公司即将公布最新财报。此次财报结果将成为试金石，用以检验投资者对卡特彼勒作为人工智能概念股的投资热情是否已经过度。",
+      "summary_original": "Caterpillar Inc.’s stock is limping into its earnings report after losing nearly a quarter of its value last month, setting the results up as a test for investors to see if enthusiasm about the company being an artificial intelligence play has gone too far.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/caterpillar-faces-earnings-test-after-ai-selloff-punished-stock",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cdf93514",
+      "title": "帕兰提尔身陷人工智能与软件业务双重窘境",
+      "title_original": "Palantir Is Stuck in Worst-of-Both-Worlds Bind With AI, Software",
+      "summary": "帕兰提尔科技公司的股东近期正经历一段难熬时期，其股票曾涨势迅猛，自去年11月股价触及峰值以来，已累计下跌约40%，目前公司在人工智能与软件业务领域身陷双重不利困境。",
+      "summary_original": "It’s been a sobering stretch for Palantir Technologies Inc. shareholders, who have watched their once high-flying positions lose some 40% of their value since the stock hit a peak in November.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4380dc3a",
+      "title": "面临无休止审视 爱莉安娜·格兰德将暂退公众生活",
+      "title_original": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "summary": "33岁的美国歌手爱莉安娜·格兰德的发言人对外确认，在下个月结束个人世界巡演后，她将暂时淡出公众视野休整，借此从外界无休止的审视中抽身，暂停公开活动给自己留出私人空间。",
+      "summary_original": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T10:59:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "226d472e",
+      "title": "昂山素季时隔两年半首次经确认对外接触 状态良好",
+      "title_original": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "summary": "缅甸军政府最新公布的照片显示，昂山素季会见了一名红十字国际委员会官员，这是昂山素季两年半以来首次得到确认的对外接触，公布的画面显示昂山素季目前身体状态良好。",
+      "summary_original": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T10:58:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7e937b8d",
+      "title": "伊朗称目前未与美国谈判 此前特朗普称霍尔木兹海峡谈判取得进展",
+      "title_original": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "summary": "周末，美国总统特朗普称霍尔木兹海峡问题对伊谈判取得进展，以此为由取消了此前威胁发动的对伊袭击，伊朗随后公开表示目前该国并未与美国开展任何谈判。",
+      "summary_original": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-hormuz-zfjk/03int-iran-hormuz-zfjk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T10:41:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "54b1c55d",
+      "title": "方圆谈丨在承前启后中跑好“接力赛” - 京报网",
+      "title_original": null,
+      "summary": "当前多家媒体平台围绕树立和践行正确政绩观推出相关内容，评论指出领导干部当在承前启后中履职尽责，转作风惠及群众，既要谋事也要干事，不可将基层当作晋升跳板，此外福建省农信联社也召开了相关学习教育专题党课暨警示教育会。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdzNKaU9sY1hMaE9LdVl5RmE0cFNpZ21JS0RlX2J5YlhoV0NFMkJTM194aVE3aVUxR1BTazBJOXRWYWNWcUFaRkdsUmdUeENPdnBYMkhvV2tuS3o3R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T10:37:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8a01c1c2",
+      "title": "人权组织称苏丹军队无人机袭击庭审现场致35人死亡",
+      "title_original": "Sudan army drone strike on court session kills 35, rights group says",
+      "summary": "人权组织发布消息称，苏丹军方对一处位于准军事组织控制村庄内的庭审发动无人机袭击，事件已造成35人死亡。针对此次袭击造成平民死亡的相关说法，苏丹军方目前尚未作出回应。",
+      "summary_original": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T10:29:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "73c399c0",
+      "title": "受油价及贝森特日元承诺影响 美国国债周初上涨",
+      "title_original": "Treasuries Climb to Start Week on Oil, Bessent’s Yen Pledge",
+      "summary": "美国国债本周开局上涨，市场情绪乐观。此番涨势得益于两大支撑因素：一是油价下跌，二是贝森特明确承诺，日本干预日元汇率所需的数百亿美元资金，不会通过抛售美国国债筹措。",
+      "summary_original": "Treasuries are starting the week on an optimistic note, buoyed by tumbling oil prices and assurances that tens of billions of dollars in Japanese currency interventions won’t be funded from sales of US government debt.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T10:18:19+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7754f05",
+      "title": "获马克·贝尼奥夫支持的初创企业称AI可解决AI部署难题",
+      "title_original": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "初创企业June今日正式走出隐身运营阶段，获马克·贝尼奥夫支持的它已完成2000万美元预种子轮融资，计划依托AI技术简化AI部署落地流程，解决AI部署难题，降低企业AI应用门槛。",
+      "summary_original": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7754f05",
+      "title": "马克·贝尼奥夫支持的初创企业认为AI可解决AI部署难题",
+      "title_original": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "获马克·贝尼奥夫支持的初创企业June今日正式走出隐身运营状态，已完成2000万美元预种子轮融资，计划依托人工智能技术简化AI落地流程，解决AI部署难题，降低企业采用人工智能技术的门槛。",
+      "summary_original": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "68096101",
+      "title": "“抗生素牛蛙”冲上热搜！福建广东多地发布情况通报 - 新华报业网",
+      "title_original": null,
+      "summary": "\"抗生素牛蛙\"相关话题冲上网络热搜，针对曝光的牛蛙产品抗生素超标问题，福建东山、广东饶平、江苏无锡等多地已先后发布情况通报，目前各地已启动全面核查，对问题牛蛙采取封存、抽样送检等处置措施，该事件也引发对监管与监督同频发力的讨论。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5raUxQMTc5eW1vTHN5bGlfTlFoZzJGVlVkcDJsQlpOVm1jVzlaaC1GWGFVcFJVVkRuZmJPekpOMnNOWEZYX0E4TWZ2c2lOX3NQcjlHVUpXcEZUczRaZXRKU25nNFhoUUJpeVV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T09:52:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "802492b6",
+      "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+      "title_original": null,
+      "summary": "8月3日A股德明利股价下跌9.56%，短期股价承压。此前7月31日有投资者问询网传德明利第五大股东爆仓等问题，公司回应未直接澄清该传闻，未能打消市场疑虑。36氪企业全情报在本次股价异动前已提前捕捉到相关市场信号。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3923603053686151?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T09:44:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b8bc9bf5",
+      "title": "休达移民危机暴露摩洛哥年轻人的绝望",
+      "title_original": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "休达移民危机背后，不少摩洛哥移民坦言，他们对自身在本国的经济前景深感绝望。正是这种对未来看不到希望的绝望情绪，驱使众多摩洛哥年轻人冒险穿越摩西边境，试图前往西班牙寻求新的发展机会。",
+      "summary_original": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-promo/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T09:05:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "deb5b5b7",
+      "title": "特朗普赦免后，洪都拉斯前总统埃尔南德斯在本国面临指控",
+      "title_original": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
+      "summary": "洪都拉斯前总统胡安·奥兰多·埃尔南德斯曾在美国因贩毒获刑，特朗普出人意料地发布赦免令，推翻了他原本在美国的贩毒判决。目前，埃尔南德斯在本国面临欺诈与洗钱多项指控。",
+      "summary_original": "Juan Orlando Hernández, a former president of Honduras, faces fraud and money laundering charges in his home country after a surprise Trump pardon overturned his drug-trafficking sentence in the U.S.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-honduras-president-bchf/03int-honduras-president-bchf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T09:00:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1c220eaa",
+      "title": "对伊朗而言，特朗普放弃升级冲突彰显谁占上风",
+      "title_original": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+      "summary": "美国前总统特朗普在对伊冲突问题上作出政策逆转，放弃升级对抗。专家指出，伊朗此前通过扩大本地区作战范围，就战争扩大的危险向美方发出警告，这一局势变化清晰表明，当前伊美博弈中伊朗占据上风。",
+      "summary_original": "By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-assess-pcwz/03int-iran-assess-pcwz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T08:50:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "43fe86df",
+      "title": "两名工人奉雇主之命重返日本震后商场 遇爆炸身亡",
+      "title_original": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "summary": "日本发生地震后，两名女性雇员受雇主指令，重返受地震影响的永旺商场取回现金，过程中发生爆炸，两人不幸身亡，涉事雇主已就要求员工重返危险区域一事致歉。",
+      "summary_original": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T08:40:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e4b3c3d5",
+      "title": "人工智能体为何为达成目标撒谎作弊",
+      "title_original": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "麻省理工科技评论推出梳理科技领域复杂问题、帮助公众预判科技发展趋势的系列内容，其中相关内容提到，今年7月两个OpenAI开发的模型入侵了Hugging Face网站，它们并非出于牟利或破坏目的，只是为了寻找问题答案。",
+      "summary_original": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-03T08:30:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bf663034",
+      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+      "title_original": null,
+      "summary": "36氪AI测评围绕原创《霸王别姬·前世今生》脚本，对可灵3.0展开图生视频压力测试。测试显示，可灵3.0在目标明确的短关键镜头中表现突出，可稳定产出构图、光影、人物一致性俱佳的电影感高质量画面，复杂叙事需拆解为单目标短镜头再剪辑，才能获得稳定输出。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_b8a25b6679284399912faee0a8687d02@5284654_oswg431142oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3923465542364545?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T08:12:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "56e4fe30",
+      "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装等，最新消息 - finance.sina.com.cn",
+      "title_original": null,
+      "summary": "美国依据所谓涉疆法案，将洽洽瓜子、思念水饺、七匹狼男装等共计43家中国企业纳入实体清单实施制裁，相关制裁现已生效。针对美方的制裁打压，中国棉花协会发布声明明确反对，中方也对这一错误行径表示强烈谴责，该事件引发网友热议。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80elVYRDVDR3UxbF9uUTRwVUl6LW1lRVdha0lkb2tRZFZWbTVLZmp6TlMzYlRkR0MxYW5yeGVoV3IxTXdlZmp1Q2xGRzh5TThmSm02R2Y4dzFNTmFZbkg4SXZ0SFNpOXJCS0NQdDdHb3RGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T08:04:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "442d6699",
+      "title": "美日罕见联手出手支撑日元",
+      "title_original": "US and Japan take action to prop up yen in rare joint move",
+      "summary": "美日推出罕见联合行动支撑日元汇率，两国明确表态，后续不会犹豫开展联合汇市干预以稳定日元汇价。此次联手是美日近年少有的协同干预汇市的动作，引发全球金融汇市的广泛关注。",
+      "summary_original": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T07:30:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "99e732a6",
+      "title": "伊朗外长与沙特和巴基斯坦高官举行电话会谈 - yicai.com",
+      "title_original": null,
+      "summary": "第一财经发布消息称，伊朗外长与沙特阿拉伯、巴基斯坦两国高官举行了电话会谈，公众可移步谷歌新闻平台，查看更多和此次高层外交互动相关的头条新闻以及各界观点内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HbWRhMGhiNExReDMxTldremQ1T2VPZUdyb3ByM0EwNDE0S2Fad08wdnE4YVdQd0R4SmRVNkpiQ2FsNGc1LS1rNGtldXpZOUxHQXA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T06:42:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "20b5e38e",
+      "title": "阿里巴巴推出价格低于Kimi K3的全新旗舰模型",
+      "title_original": "Alibaba Offers New Flagship Model at Lower Prices Than Kimi K3",
+      "summary": "阿里巴巴推出了一款全新的旗舰模型，该旗舰模型的定价低于Kimi K3，目前可公开获知的信息仅涉及该新品推出与价格对比情况。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/alibaba-offers-new-flagship-model-lower-prices-kimi-k3",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-08-03T06:23:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5440347e",
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+      "title_original": null,
+      "summary": "2024年成立的光芯片企业量引科技，由硅光领域资深从业团队创办，近期完成珠海科技产业集团领投的数千万元天使轮融资，瞄准CPO/OIO下一代高速光互连千亿级赛道，以自研核心器件切入，本轮融资将用于团队扩充、流片迭代与设备补充。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3923374038265217?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T05:43:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "53cf7bd5",
+      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+      "title_original": null,
+      "summary": "前安克3D打印业务负责人王志宇2025年创立B端轻量化制造品牌轻量智造，主打面向中小制造企业及专业个人的桌面级3D打印工具，该品牌近期连续完成两轮共计超2500万元融资，资金将用于产品研发、供应链搭建与全球市场推广，初代产品已在海外开启众筹。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3923371035831684?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T05:40:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b7a17b26",
+      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+      "title_original": null,
+      "summary": "两家从大疆拆分独立的电助力自行车（Ebike）相关企业Amflow（整车）与Avinox（电助力系统），逆势切入高端市场，Amflow售价超4万元的高端车型已售出超3万台，营收突破10亿元，今年定下营收翻四倍的目标；Avinox已拥有60余个客户，打破了海外品牌对高端电助力系统的垄断。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3923367465266824?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T05:36:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "38c09b48",
+      "title": "普睿司曼达成协议收购美国电气制造商阿特科",
+      "title_original": "Prysmian Reaches Deal to Buy US Electrical Maker Atkore",
+      "summary": "意大利普睿司曼公司已达成全现金交易协议，收购美国电气零部件制造商阿特科。此次收购将推进该公司聚焦数据中心建设的在美增长布局，进一步拓展其在美国市场的业务。",
+      "summary_original": "Italy’s Prysmian SpA agreed to buy electrical parts manufacturer Atkore Inc. in an all-cash deal, extending a US growth drive focused on the data-center buildout.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/prysmian-strikes-deal-to-buy-us-electrical-maker-atkore",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-03T05:32:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c0724189",
+      "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+      "title_original": null,
+      "summary": "原中国商飞核心团队创办的电动垂直起降飞行器（eVTOL）研发商亿维特航空，近日完成数亿元A+轮融资。目前该公司已完成关键过渡飞行验证，进入适航取证关键阶段，自研核心电推进系统，累计获890架意向订单，预计明年完成首款产品适航取证。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_41c43f60a4644ac5ac6d2ae7b0688269@5920579_oswg843826oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3923317976526208?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-08-03T04:46:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "93fd3630",
+      "title": "法国老年人受热浪炙烤 邮政工人出手救助",
+      "title_original": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+      "summary": "法国遭遇高温天气，老年群体耐热能力弱，面临较高的高温致死风险。为防范这类事件发生，法国政府已要求邮政工作人员探访老年民众，跟进了解其状况，为受高温困扰的老年人提供救助保障。",
+      "summary_original": "To help prevent heat-related deaths, the French government has asked postal workers to check in on older people.",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30france-post-01-czbk/30france-post-01-czbk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-03T04:01:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3623a241",
+      "title": "“我独子为伸张正义挺身而出遭射杀”——走进巴控克什米尔被致命抗议笼罩的城市",
+      "title_original": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "巴控克什米尔地区城市拉瓦拉考特近期爆发安全部队与抗议者的暴力冲突，该城市目前被致命抗议活动笼罩，有民众称自己的独子为伸张正义挺身而出时遭枪杀，BBC已获得进入该城市采访的独家权限。",
+      "summary_original": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/85553550-8f22-11f1-b8ee-9b3c26ad07bb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T03:32:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3c7f6008",
+      "title": "专家：中方黄岩岛演训震慑相关势力 检验提升实战化能力 - 中华网",
+      "title_original": null,
+      "summary": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，中方外交部已就此发布声明。近日中国海警在黄岩岛海域组织维权执法管控演练，专家表示，此次演训既对相关势力形成震慑，也检验提升了中方的实战化能力，多家媒体对此进行了报道。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BSFZ4QTN0RFM0ZFpWZzdON01WaV9yWnVtTkM0WkdrYW9LeVFNek40X2dqcnhkeUxpeUpFTy1wVzNHSXZOVGpLVWpfaTAwRy1wZXpXNkV3NFpqMTgzMVJtbHZia3M4OHVLNnJJampUcWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-03T01:50:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "820e267e",
+      "title": "因巴勒斯坦相关表态遭新加坡禁演 英国乐队Massive Attack作出回应",
+      "title_original": "Massive Attack respond after Singapore ban over Palestine display",
+      "summary": "英国知名乐队Massive Attack因在新加坡的演唱会上高喊“自由巴勒斯坦”，遭到新加坡方面禁演。乐队近日就此事公开作出回应，称对自身受到的这一处遇感到惊讶与失望。",
+      "summary_original": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/9a26f660-8f01-11f1-a7ab-8b30adf0800a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-03T01:31:05+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "49a737eb",
+      "title": "三星2TB 9100 Pro固态硬盘定价其实相当合理",
+      "summary": "当前市场环境下，想要买到价格合理的高速大容量NVMe固态硬盘一直较为困难。三星这款2TB 9100 Pro固态硬盘当前售价为2026年2月以来新低，其无散热片版本已在亚马逊开售，该定价在当下已算得上相当亲民。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7ac6440b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7ac6440b",
+          "source": "The Verge",
+          "title": "三星2TB 9100 Pro固态硬盘定价其实相当合理",
+          "link": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+          "published_at": "2026-08-03T14:16:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T14:16:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "99a7ca7d",
+      "title": "因纵火担忧 参议员敦促CFTC限制野火预测市场投注",
+      "summary": "一群民主党参议员敦促美国商品期货交易委员会（CFTC）管控野火预测市场的投注交易。这些参议员提出担忧，该类投注存在道德风险，可能诱使个人为获取投注收益故意实施纵火，引发公共安全隐患。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f93b2b8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f93b2b8d",
+          "source": "Bloomberg",
+          "title": "因纵火担忧 参议员敦促CFTC限制野火预测市场投注",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/prediction-market-bets-on-wildfires-draw-scrutiny-from-senators",
+          "published_at": "2026-08-03T14:06:05+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T14:06:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5195b74",
+      "title": "谷歌深度思维高管称，前所未有的资本支出实则是对‘RSI’的押注",
+      "summary": "谷歌深度思维的一名高管对外表示，该企业投入规模前所未有的资本支出，实际上就是针对‘RSI’进行的押注。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "fae1a637"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "fae1a637",
+          "source": "The Information",
+          "title": "谷歌深度思维高管称，前所未有的资本支出实则是对‘RSI’的押注",
+          "link": "https://www.theinformation.com/newsletters/ai-agenda/google-deepmind-exec-says-unprecedented-capex-actually-bet-rsi",
+          "published_at": "2026-08-03T14:01:20+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T14:01:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bea6c531",
+      "title": "杰富瑞评估其对Radiant World的风险敞口",
+      "summary": "去年杰富瑞金融集团旗下邦尼塔角资本曝出，其最大风险敞口标的为濒临破产的汽车供应商第一品牌集团，投资者随即要求赎回全部资金。目前杰富瑞正评估自身对Radiant World的风险敞口，相关内容由凯瑟琳·多尔蒂报道于彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e7982584"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e7982584",
+          "source": "Bloomberg",
+          "title": "杰富瑞评估其对Radiant World的风险敞口",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-03/jefferies-reviews-exposure-to-radiant-world-video",
+          "published_at": "2026-08-03T13:59:42+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:59:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3802187f",
+      "title": "亚马逊跻身市值超3万亿美元精英股票行列",
+      "summary": "亚马逊公司市值首次突破3万亿美元大关，成为有史以来仅有的五家达到这一重要市值里程碑的企业，成功跻身全球超高市值顶级公司行列，创下了自身市值发展的全新纪录。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d9f77656"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d9f77656",
+          "source": "Bloomberg",
+          "title": "亚马逊跻身市值超3万亿美元精英股票行列",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value",
+          "published_at": "2026-08-03T13:38:54+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:38:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "776d475e",
+      "title": "联想Googlebook新机泄露 曝光笔记本与二合一平板",
+      "summary": "联想预计将于今年晚些时候推出首批Googlebook机型，目前已有相关官方宣传泄露图流出。泄露图由Digital Citizen和Android Headlines分享，曝光了两款带Googlebook品牌标识的新机，分别为笔记本和二合一平板电脑，外界可提前窥见新机外观。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3941b556"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3941b556",
+          "source": "The Verge",
+          "title": "联想Googlebook新机泄露 曝光笔记本与二合一平板",
+          "link": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+          "published_at": "2026-08-03T13:12:03+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:12:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4747b8ef",
+      "title": "缅甸军政府允许昂山素季会见红十字代表 为两年半来首次确认对外接触",
+      "summary": "81岁的缅甸原被罢黜文职领导人昂山素季长期未公开露面，外界此前普遍担忧其健康状况。缅甸军政府允许她会见红十字国际委员会代表，这是她两年半来首次得到确认的对外接触，信息显示其目前身体状态良好。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-kmjf-jkpc/03int-myanmar-suu-kyi-kmjf-jkpc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "204c106d",
+        "226d472e"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "204c106d",
+          "source": "NYTimes World",
+          "title": "缅甸军政府允许昂山素季与外界人士进行罕见接触",
+          "link": "https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html",
+          "published_at": "2026-08-03T13:02:00+00:00"
+        },
+        {
+          "id": "226d472e",
+          "source": "BBC World",
+          "title": "昂山素季时隔两年半首次经确认对外接触 状态良好",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T10:58:48+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:02:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "8f8373af",
+      "title": "苹果iCloud一项政策如何在OpenAI诉讼前助长员工泄密",
+      "summary": "本文将介绍在OpenAI提起诉讼之前，苹果iCloud的一项政策是如何助长员工泄密事件的相关内容，梳理该政策与泄密事件的关联。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "666a68d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "666a68d3",
+          "source": "The Information",
+          "title": "苹果iCloud一项政策如何在OpenAI诉讼前助长员工泄密",
+          "link": "https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit",
+          "published_at": "2026-08-03T13:00:43+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:00:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "26401d7e",
+      "title": "河南重庆湖北等地有大到暴雨 多地发布气象风险预警 - 中华网",
+      "summary": "近期我国河南、重庆、湖北等地将出现大到暴雨，重庆中部局地有特大暴雨，黑龙江、河北将出现10级以上雷暴大风，多地已发布气象风险预警。预计明日起，陕西、四川、重庆、贵州等地降雨将减弱，华北、东北等地仍需警惕强对流天气。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f69055f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f69055f7",
+          "source": "Google News (中国)",
+          "title": "河南重庆湖北等地有大到暴雨 多地发布气象风险预警 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWVI1WS1LRERyZURjX0h5a05iZ0xjbVNad25Va3haY056T0RINnNLSldjdzN2YVZmUkxOV212a25RN2NwejZ5cVpMRW9vNjFkZjY2MXItRVBsX2xTU1lEa2xyV3B6UkUzbGFFNVpTRGo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T13:00:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:00:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "371a1f91",
+      "title": "《大行走》宛若合作版《塞尔达传说：旷野之息》",
+      "summary": "曾推出热门恶搞游戏《无名大鹅》的开发商House House，推出新作《大行走》。《无名大鹅》还原活鹅摇摇摆摆、嘎嘎叫、四处捣蛋的趣味体验，被认为是难以超越的作品，新作被评价为类似合作版《塞尔达传说：旷野之息》。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1429b030"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1429b030",
+          "source": "The Verge",
+          "title": "《大行走》宛若合作版《塞尔达传说：旷野之息》",
+          "link": "https://www.theverge.com/games/973166/big-walk-review",
+          "published_at": "2026-08-03T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30931061",
+      "title": "人工智能威胁升级 Horizon3获2.5亿美元E轮融资 估值达20亿美元",
+      "summary": "随着人工智能安全威胁持续升级，越来越多企业放弃传统年度渗透测试，转而需要持续的人工智能驱动安全验证。网络安全初创企业Horizon3借此完成2.5亿美元E轮融资，估值达到20亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a44655c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a44655c5",
+          "source": "TechCrunch",
+          "title": "人工智能威胁升级 Horizon3获2.5亿美元E轮融资 估值达20亿美元",
+          "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+          "published_at": "2026-08-03T12:50:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:50:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21889d16",
+      "title": "伊朗否认特朗普所称周一将开启新谈判",
+      "summary": "美国总统特朗普称伊朗将于周一开启对美新谈判，伊朗对此予以否认，同时否认当前正与美国举行任何谈判。目前伊朗正与阿曼就霍尔木兹海峡的通行准入问题展开谈判。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "170011fc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "170011fc",
+          "source": "BBC World",
+          "title": "伊朗否认特朗普所称周一将开启新谈判",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T12:44:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:44:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8edd697c",
+      "title": "希腊两架消防直升机相撞致两人死亡",
+      "summary": "过去一周希腊境内已发生超过200起野火火灾，两架执行灭火任务的消防直升机在雅典西北部扑救野火作业时相撞坠毁，本次事故已造成两人死亡，当前希腊正处于多地野火防控的紧张阶段。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03xp-greece-fires-twgc/03xp-greece-fires-twgc-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "2fdf3c17"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2fdf3c17",
+          "source": "NYTimes World",
+          "title": "希腊两架消防直升机相撞致两人死亡",
+          "link": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+          "published_at": "2026-08-03T12:39:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:39:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10edb8b6",
+      "title": "新思想引领新征程丨在党的旗帜下书写强军兴军新荣光 - chinanews.com.cn",
+      "summary": "八一建军节之际，多家主流媒体推出强军兴军主题系列报道，围绕习近平总书记关于强军建设的重要论述，强调坚持党对人民军队的绝对领导。海澜集团亮相总台“八一”特别节目，以铁血军魂致敬时代荣光，号召在党的旗帜下书写强军兴军新荣光。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5b9d670e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5b9d670e",
+          "source": "Google News (中国)",
+          "title": "新思想引领新征程丨在党的旗帜下书写强军兴军新荣光 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ejZYVWRLeHgweF9FUzlhWWpIQnZDRDlqQi0zdHA5NEgwczRBS2RWUWc4cE54ejJKd3B5YnRoN0JKcXp3LTBXLUdYQm43TTFGX3B6Z1FmcnlhZmh0OWVoUW9YclVjXzJY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T12:26:59+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:26:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24b3e5dc",
+      "title": "摩洛哥国王致函确认以特朗普命名一条高速公路",
+      "summary": "摩洛哥国王近日致函对外确认，将一条进入西撒哈拉地区的高速公路以特朗普的名字命名，以此向其致敬。西撒哈拉是一块存在主权争议的领土，摩洛哥一直对该地区主张主权。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg",
+      "article_ids": [
+        "de2a5c18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "de2a5c18",
+          "source": "BBC World",
+          "title": "摩洛哥国王致函确认以特朗普命名一条高速公路",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T12:20:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:20:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8907a4ea",
+      "title": "跨越上千公里、贯穿南北的雨带继续带来暴雨大暴雨，台风“白海豚”将吸走水汽，降雨会减弱 - 新华网",
+      "summary": "目前，一条跨越上千公里、贯穿我国南北的雨带正持续带来暴雨、大暴雨天气。台风“白海豚”已减弱为强台风级，官方公布其两条移动路径，预计周四起将影响我国华东沿海，它抽吸水汽后会使此次大范围降雨减弱。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0d0f52eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0d0f52eb",
+          "source": "Google News (中国)",
+          "title": "跨越上千公里、贯穿南北的雨带继续带来暴雨大暴雨，台风“白海豚”将吸走水汽，降雨会减弱 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSUtXcFJLb3B2YWFPMlZLdlVuSEp4dlpLNXRTZ1ZZRWRUUk9xdmtESlpEbE9pTXVXLS1xTFZSTnd0WkdvZU1aN2l1Wk1LZzczSllBeFhWc3JjWFIyaS1fYjhfQU9xSUMweDdHeTJ5TUVDQVF1R25qaHQ1WEREaVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T12:16:32+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:16:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f3aeef3",
+      "title": "加拿大西捷航空与空乘达成协议 罢工结束",
+      "summary": "加拿大西捷航空的4400名空乘发起罢工，导致数百架航班被迫取消。罢工发生一天后，劳资双方于周一凌晨达成初步协议，这场引发大量航班取消的空乘罢工正式宣告结束。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-canada-westjet-top-vfcm/03int-canada-westjet-top-vfcm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7b3bcf8b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7b3bcf8b",
+          "source": "NYTimes World",
+          "title": "加拿大西捷航空与空乘达成协议 罢工结束",
+          "link": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html",
+          "published_at": "2026-08-03T12:13:25+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:13:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb3330c5",
+      "title": "三星禁止向陌生人共享用户网络连接的智能电视应用",
+      "summary": "三星封禁了智能电视平台上会将用户互联网连接共享给陌生人的违规应用。最新一项安全研究对外披露了住宅代理网络的内部图景，这类网络正是依靠共享用户个人网络连接的这类应用搭建运作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "34a36d56"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "34a36d56",
+          "source": "TechCrunch",
+          "title": "三星禁止向陌生人共享用户网络连接的智能电视应用",
+          "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+          "published_at": "2026-08-03T12:10:41+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:10:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9fea445f",
+      "title": "《下载：解析奖励黑客与疑似伊朗网络攻击》",
+      "summary": "这是科技领域工作日通讯《下载》的今日刊，内容涵盖两大核心议题：一是解析AI为达成目标撒谎作弊的原理，上月两个OpenAI模型入侵Hugging Face就属于典型的奖励黑客行为，同时还关注了疑似伊朗发起的网络攻击事件。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "72f55c67"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "72f55c67",
+          "source": "MIT Technology Review",
+          "title": "《下载：解析奖励黑客与疑似伊朗网络攻击》",
+          "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+          "published_at": "2026-08-03T12:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T12:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b614012b",
+      "title": "股市反弹：亚马逊市值达3万亿美元 芯片股下挫",
+      "summary": "美国股市在本月首个交易日整体上涨，亚马逊市值触及3万亿美元带动大盘反弹，芯片板块则出现下滑。当前市场注意力已转向本周将密集披露的大批企业财报，静待财报数据对市场走势带来影响。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e1b9aefd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e1b9aefd",
+          "source": "Bloomberg",
+          "title": "股市反弹：亚马逊市值达3万亿美元 芯片股下挫",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/us-futures-climb-as-focus-shifts-back-to-earnings-oil-slides",
+          "published_at": "2026-08-03T11:49:28+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:49:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54f9b947",
+      "title": "新加坡因展示巴勒斯坦旗帜禁英国乐队“大举进攻”",
+      "summary": "英国乐队“大举进攻”因展示巴勒斯坦旗帜被新加坡禁演，此次处罚依据新加坡一项旨在维护种族和谐的政策。该政策长期以来饱受批评，外界普遍指责其压制这个城市国家的言论自由。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-singapore-band-ban-jkmf/03int-singapore-band-ban-jkmf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b2066d5f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b2066d5f",
+          "source": "NYTimes World",
+          "title": "新加坡因展示巴勒斯坦旗帜禁英国乐队“大举进攻”",
+          "link": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+          "published_at": "2026-08-03T11:49:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:49:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5961b35b",
+      "title": "伊朗击落美MQ－9无人机 美伊重启谈判 霍尔木兹局势持续演变 - Shangbao Indonesia",
+      "summary": "印尼Shangbao Indonesia报道，伊朗击落美军MQ-9无人机后，美伊双方重启谈判，霍尔木兹地区局势正持续演变。这一事件牵动地区安全神经，相关动态受到国际社会广泛关注，霍尔木兹局势的后续走向仍待进一步观察。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "15415595"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "15415595",
+          "source": "Google News (中国)",
+          "title": "伊朗击落美MQ－9无人机 美伊重启谈判 霍尔木兹局势持续演变 - Shangbao Indonesia",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpOT2RJV2lMYTBtYlZxTGxGQl82LV8xNTRSS09TQUxTUDhER3JWbWd5M21xZzFFWGFEZENPUlJnVVVrTEItejdLdnp5Z2V5clpjSU9nX2pTcmxuX2FGT2JuMS0tUk8zOEs2cW1FNjNDamtDRmt4bXJZSmNCRVRoellybXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T11:44:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:44:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c5cffd1",
+      "title": "西班牙领导人被指对移民态度软弱 却在休达问题上行动迅速",
+      "summary": "数千名移民涌入西班牙位于北非的领土休达后，西班牙首相佩德罗·桑切斯因推行支持移民的政策遭到指责，外界批评他对移民立场偏软，不过实际情况远比这种简单指责更为复杂。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-Spain-Sanchez-01-wjgk/03int-Spain-Sanchez-01-wjgk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f0927b08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f0927b08",
+          "source": "NYTimes World",
+          "title": "西班牙领导人被指对移民态度软弱 却在休达问题上行动迅速",
+          "link": "https://www.nytimes.com/2026/08/03/world/europe/spain-ceuta-migrants-sanchez.html",
+          "published_at": "2026-08-03T11:43:19+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:43:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "002d0a35",
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "summary": "2026 ChinaJoy AI未来生态大会举办“从实验到产线——AI工作流的规模化挑战与协作生态”主题圆桌讨论，Funloom AI、阿里云等多家行业企业嘉宾，探讨AI在游戏等泛娱乐领域规模化落地的痛点与路径，分析行业分工与未来趋势，指出落地核心比拼场景理解与工程化能力。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_bd6853577f0346cd9136839e0a4f3e21@16519798_oswg759632oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "cb8d72ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "cb8d72ac",
+          "source": "36氪",
+          "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+          "link": "https://36kr.com/p/3923717502072969?f=rss",
+          "published_at": "2026-08-03T11:39:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:39:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3d4f427e",
+      "title": "健康中国建设，习近平总书记指明科学方法论 - politics.people.com.cn",
+      "summary": "《求是》杂志发表习近平总书记重要文章《加快建设健康中国》，习近平总书记为健康中国建设指明科学方法论，为推进健康中国建设提供根本指引。多家主流媒体纷纷报道相关内容，指出健康中国建设与每一位民众的切身利益息息相关。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "bfa80093"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "bfa80093",
+          "source": "Google News (中国)",
+          "title": "健康中国建设，习近平总书记指明科学方法论 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbmprMHZZbTNpLWlrd0JpS2xIOFZwbzZFS1dFODc2VnJEdzdsVzlydXRnM2FCVF9tN3FjMGx6Znd4UnV3dFFyU0t6Qk1SVktlLWRidXF3eG9YOUd1ZUFnWWZoY1Vkdi1qLVNXb3BqVlA2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T11:29:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:29:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cb235d64",
+      "title": "与特朗普家族关联的比特币矿企公布第二季度亏损",
+      "summary": "获特朗普家族支持的美国比特币公司成立于去年，就在加密货币从历史高点暴跌前夕。受所持加密资产价值下跌影响，该公司公布第二季度亏损，这已是其连续第三个季度录得亏损。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "44437e6c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "44437e6c",
+          "source": "Bloomberg",
+          "title": "与特朗普家族关联的比特币矿企公布第二季度亏损",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss",
+          "published_at": "2026-08-03T11:25:36+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:25:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8c0491c",
+      "title": "托德·布兰奇正式撤回特朗普的“反武器化”基金计划",
+      "summary": "托德·布兰奇已正式撤回特朗普提出的“反武器化”基金计划。此前两名共和党参议员提出要求，希望获得特朗普不会重启这一颇具争议提案的书面保证，该计划因争议性引发了不同意见。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e0/live/001f8270-8f1b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "article_ids": [
+        "3a647f58"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3a647f58",
+          "source": "BBC World",
+          "title": "托德·布兰奇正式撤回特朗普的“反武器化”基金计划",
+          "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T11:07:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:07:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fe4f6de",
+      "title": "中国阿里巴巴再挑战美国AI霸权",
+      "summary": "中国科技巨头阿里巴巴发布其迄今规模最大、能力最强的人工智能模型Qwen3.8-Max，称该模型性能可媲美美国Anthropic、OpenAI等前沿实验室的顶尖AI系统，也能对标国内竞品月之暗面的Kimi K3，阿里正推动该模型向广大用户开放。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0fb7db37"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0fb7db37",
+          "source": "The Verge",
+          "title": "中国阿里巴巴再挑战美国AI霸权",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at": "2026-08-03T11:01:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:01:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fe4f6de",
+      "title": "中国阿里巴巴再挑战美国AI霸权",
+      "summary": "中国科技巨头阿里巴巴发布其号称迄今为止规模最大、能力最强的人工智能模型Qwen3.8-Max。阿里称该模型性能可媲美美国前沿实验室Anthropic、OpenAI的顶尖AI系统，也能对标国内竞品月之暗面的Kimi K3，该模型将向广大用户开放。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0fb7db37"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "0fb7db37",
+          "source": "The Verge AI",
+          "title": "中国阿里巴巴再挑战美国AI霸权",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at": "2026-08-03T11:01:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:01:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "96556af8",
+      "title": "AI抛售冲击股价后 卡特彼勒面临盈利考验",
+      "summary": "卡特彼勒上月股价累计下跌近四分之一，目前市场情绪低迷，公司即将公布最新财报。此次财报结果将成为试金石，用以检验投资者对卡特彼勒作为人工智能概念股的投资热情是否已经过度。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "3687979f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3687979f",
+          "source": "Bloomberg",
+          "title": "AI抛售冲击股价后 卡特彼勒面临盈利考验",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/caterpillar-faces-earnings-test-after-ai-selloff-punished-stock",
+          "published_at": "2026-08-03T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c621958e",
+      "title": "帕兰提尔身陷人工智能与软件业务双重窘境",
+      "summary": "帕兰提尔科技公司的股东近期正经历一段难熬时期，其股票曾涨势迅猛，自去年11月股价触及峰值以来，已累计下跌约40%，目前公司在人工智能与软件业务领域身陷双重不利困境。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "cdf93514"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "cdf93514",
+          "source": "Bloomberg",
+          "title": "帕兰提尔身陷人工智能与软件业务双重窘境",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
+          "published_at": "2026-08-03T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf926f01",
+      "title": "面临无休止审视 爱莉安娜·格兰德将暂退公众生活",
+      "summary": "33岁的美国歌手爱莉安娜·格兰德的发言人对外确认，在下个月结束个人世界巡演后，她将暂时淡出公众视野休整，借此从外界无休止的审视中抽身，暂停公开活动给自己留出私人空间。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg",
+      "article_ids": [
+        "4380dc3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4380dc3a",
+          "source": "BBC World",
+          "title": "面临无休止审视 爱莉安娜·格兰德将暂退公众生活",
+          "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T10:59:12+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:59:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce675a6c",
+      "title": "伊朗称目前未与美国谈判 此前特朗普称霍尔木兹海峡谈判取得进展",
+      "summary": "周末，美国总统特朗普称霍尔木兹海峡问题对伊谈判取得进展，以此为由取消了此前威胁发动的对伊袭击，伊朗随后公开表示目前该国并未与美国开展任何谈判。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-hormuz-zfjk/03int-iran-hormuz-zfjk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7e937b8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7e937b8d",
+          "source": "NYTimes World",
+          "title": "伊朗称目前未与美国谈判 此前特朗普称霍尔木兹海峡谈判取得进展",
+          "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+          "published_at": "2026-08-03T10:41:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:41:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2690221",
+      "title": "方圆谈丨在承前启后中跑好“接力赛” - 京报网",
+      "summary": "当前多家媒体平台围绕树立和践行正确政绩观推出相关内容，评论指出领导干部当在承前启后中履职尽责，转作风惠及群众，既要谋事也要干事，不可将基层当作晋升跳板，此外福建省农信联社也召开了相关学习教育专题党课暨警示教育会。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "54b1c55d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "54b1c55d",
+          "source": "Google News (中国)",
+          "title": "方圆谈丨在承前启后中跑好“接力赛” - 京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdzNKaU9sY1hMaE9LdVl5RmE0cFNpZ21JS0RlX2J5YlhoV0NFMkJTM194aVE3aVUxR1BTazBJOXRWYWNWcUFaRkdsUmdUeENPdnBYMkhvV2tuS3o3R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T10:37:05+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:37:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc7f12a5",
+      "title": "人权组织称苏丹军队无人机袭击庭审现场致35人死亡",
+      "summary": "人权组织发布消息称，苏丹军方对一处位于准军事组织控制村庄内的庭审发动无人机袭击，事件已造成35人死亡。针对此次袭击造成平民死亡的相关说法，苏丹军方目前尚未作出回应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
+      "article_ids": [
+        "8a01c1c2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8a01c1c2",
+          "source": "BBC World",
+          "title": "人权组织称苏丹军队无人机袭击庭审现场致35人死亡",
+          "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T10:29:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:29:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "67e82563",
+      "title": "受油价及贝森特日元承诺影响 美国国债周初上涨",
+      "summary": "美国国债本周开局上涨，市场情绪乐观。此番涨势得益于两大支撑因素：一是油价下跌，二是贝森特明确承诺，日本干预日元汇率所需的数百亿美元资金，不会通过抛售美国国债筹措。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "73c399c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "73c399c0",
+          "source": "Bloomberg",
+          "title": "受油价及贝森特日元承诺影响 美国国债周初上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
+          "published_at": "2026-08-03T10:18:19+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:18:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acf11b41",
+      "title": "获马克·贝尼奥夫支持的初创企业称AI可解决AI部署难题",
+      "summary": "初创企业June今日正式走出隐身运营阶段，获马克·贝尼奥夫支持的它已完成2000万美元预种子轮融资，计划依托AI技术简化AI部署落地流程，解决AI部署难题，降低企业AI应用门槛。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a7754f05"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a7754f05",
+          "source": "TechCrunch",
+          "title": "获马克·贝尼奥夫支持的初创企业称AI可解决AI部署难题",
+          "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "published_at": "2026-08-03T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "acf11b41",
+      "title": "马克·贝尼奥夫支持的初创企业认为AI可解决AI部署难题",
+      "summary": "获马克·贝尼奥夫支持的初创企业June今日正式走出隐身运营状态，已完成2000万美元预种子轮融资，计划依托人工智能技术简化AI落地流程，解决AI部署难题，降低企业采用人工智能技术的门槛。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a7754f05"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a7754f05",
+          "source": "TechCrunch AI",
+          "title": "马克·贝尼奥夫支持的初创企业认为AI可解决AI部署难题",
+          "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "published_at": "2026-08-03T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bab843fc",
+      "title": "“抗生素牛蛙”冲上热搜！福建广东多地发布情况通报 - 新华报业网",
+      "summary": "\"抗生素牛蛙\"相关话题冲上网络热搜，针对曝光的牛蛙产品抗生素超标问题，福建东山、广东饶平、江苏无锡等多地已先后发布情况通报，目前各地已启动全面核查，对问题牛蛙采取封存、抽样送检等处置措施，该事件也引发对监管与监督同频发力的讨论。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "68096101"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "68096101",
+          "source": "Google News (中国)",
+          "title": "“抗生素牛蛙”冲上热搜！福建广东多地发布情况通报 - 新华报业网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5raUxQMTc5eW1vTHN5bGlfTlFoZzJGVlVkcDJsQlpOVm1jVzlaaC1GWGFVcFJVVkRuZmJPekpOMnNOWEZYX0E4TWZ2c2lOX3NQcjlHVUpXcEZUczRaZXRKU25nNFhoUUJpeVV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T09:52:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T09:52:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4803690",
+      "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+      "summary": "8月3日A股德明利股价下跌9.56%，短期股价承压。此前7月31日有投资者问询网传德明利第五大股东爆仓等问题，公司回应未直接澄清该传闻，未能打消市场疑虑。36氪企业全情报在本次股价异动前已提前捕捉到相关市场信号。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "802492b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "802492b6",
+          "source": "36氪",
+          "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+          "link": "https://36kr.com/p/3923603053686151?f=rss",
+          "published_at": "2026-08-03T09:44:31+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T09:44:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6fbed0ed",
+      "title": "休达移民危机暴露摩洛哥年轻人的绝望",
+      "summary": "休达移民危机背后，不少摩洛哥移民坦言，他们对自身在本国的经济前景深感绝望。正是这种对未来看不到希望的绝望情绪，驱使众多摩洛哥年轻人冒险穿越摩西边境，试图前往西班牙寻求新的发展机会。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-promo/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b8bc9bf5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b8bc9bf5",
+          "source": "NYTimes World",
+          "title": "休达移民危机暴露摩洛哥年轻人的绝望",
+          "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+          "published_at": "2026-08-03T09:05:12+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T09:05:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a1074a7",
+      "title": "特朗普赦免后，洪都拉斯前总统埃尔南德斯在本国面临指控",
+      "summary": "洪都拉斯前总统胡安·奥兰多·埃尔南德斯曾在美国因贩毒获刑，特朗普出人意料地发布赦免令，推翻了他原本在美国的贩毒判决。目前，埃尔南德斯在本国面临欺诈与洗钱多项指控。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-honduras-president-bchf/03int-honduras-president-bchf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "deb5b5b7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "deb5b5b7",
+          "source": "NYTimes World",
+          "title": "特朗普赦免后，洪都拉斯前总统埃尔南德斯在本国面临指控",
+          "link": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+          "published_at": "2026-08-03T09:00:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T09:00:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "03dc8b74",
+      "title": "对伊朗而言，特朗普放弃升级冲突彰显谁占上风",
+      "summary": "美国前总统特朗普在对伊冲突问题上作出政策逆转，放弃升级对抗。专家指出，伊朗此前通过扩大本地区作战范围，就战争扩大的危险向美方发出警告，这一局势变化清晰表明，当前伊美博弈中伊朗占据上风。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-assess-pcwz/03int-iran-assess-pcwz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1c220eaa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1c220eaa",
+          "source": "NYTimes World",
+          "title": "对伊朗而言，特朗普放弃升级冲突彰显谁占上风",
+          "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+          "published_at": "2026-08-03T08:50:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T08:50:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "81c3c865",
+      "title": "两名工人奉雇主之命重返日本震后商场 遇爆炸身亡",
+      "summary": "日本发生地震后，两名女性雇员受雇主指令，重返受地震影响的永旺商场取回现金，过程中发生爆炸，两人不幸身亡，涉事雇主已就要求员工重返危险区域一事致歉。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg",
+      "article_ids": [
+        "43fe86df"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "43fe86df",
+          "source": "BBC World",
+          "title": "两名工人奉雇主之命重返日本震后商场 遇爆炸身亡",
+          "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T08:40:22+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T08:40:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9bc2f3d",
+      "title": "人工智能体为何为达成目标撒谎作弊",
+      "summary": "麻省理工科技评论推出梳理科技领域复杂问题、帮助公众预判科技发展趋势的系列内容，其中相关内容提到，今年7月两个OpenAI开发的模型入侵了Hugging Face网站，它们并非出于牟利或破坏目的，只是为了寻找问题答案。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e4b3c3d5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "e4b3c3d5",
+          "source": "MIT Technology Review",
+          "title": "人工智能体为何为达成目标撒谎作弊",
+          "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "published_at": "2026-08-03T08:30:05+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T08:30:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "430590c4",
+      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+      "summary": "36氪AI测评围绕原创《霸王别姬·前世今生》脚本，对可灵3.0展开图生视频压力测试。测试显示，可灵3.0在目标明确的短关键镜头中表现突出，可稳定产出构图、光影、人物一致性俱佳的电影感高质量画面，复杂叙事需拆解为单目标短镜头再剪辑，才能获得稳定输出。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_b8a25b6679284399912faee0a8687d02@5284654_oswg431142oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "bf663034"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "bf663034",
+          "source": "36氪",
+          "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+          "link": "https://36kr.com/p/3923465542364545?f=rss",
+          "published_at": "2026-08-03T08:12:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T08:12:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "45eb018e",
+      "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装等，最新消息 - finance.sina.com.cn",
+      "summary": "美国依据所谓涉疆法案，将洽洽瓜子、思念水饺、七匹狼男装等共计43家中国企业纳入实体清单实施制裁，相关制裁现已生效。针对美方的制裁打压，中国棉花协会发布声明明确反对，中方也对这一错误行径表示强烈谴责，该事件引发网友热议。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "56e4fe30"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "56e4fe30",
+          "source": "Google News (中国)",
+          "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装等，最新消息 - finance.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80elVYRDVDR3UxbF9uUTRwVUl6LW1lRVdha0lkb2tRZFZWbTVLZmp6TlMzYlRkR0MxYW5yeGVoV3IxTXdlZmp1Q2xGRzh5TThmSm02R2Y4dzFNTmFZbkg4SXZ0SFNpOXJCS0NQdDdHb3RGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T08:04:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T08:04:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d240ac31",
+      "title": "美日罕见联手出手支撑日元",
+      "summary": "美日推出罕见联合行动支撑日元汇率，两国明确表态，后续不会犹豫开展联合汇市干预以稳定日元汇价。此次联手是美日近年少有的协同干预汇市的动作，引发全球金融汇市的广泛关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
+      "article_ids": [
+        "442d6699"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "442d6699",
+          "source": "BBC World",
+          "title": "美日罕见联手出手支撑日元",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T07:30:52+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T07:30:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b8a23abd",
+      "title": "伊朗外长与沙特和巴基斯坦高官举行电话会谈 - yicai.com",
+      "summary": "第一财经发布消息称，伊朗外长与沙特阿拉伯、巴基斯坦两国高官举行了电话会谈，公众可移步谷歌新闻平台，查看更多和此次高层外交互动相关的头条新闻以及各界观点内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "99e732a6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "99e732a6",
+          "source": "Google News (中国)",
+          "title": "伊朗外长与沙特和巴基斯坦高官举行电话会谈 - yicai.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HbWRhMGhiNExReDMxTldremQ1T2VPZUdyb3ByM0EwNDE0S2Fad08wdnE4YVdQd0R4SmRVNkpiQ2FsNGc1LS1rNGtldXpZOUxHQXA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T06:42:43+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T06:42:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82a1b729",
+      "title": "阿里巴巴推出价格低于Kimi K3的全新旗舰模型",
+      "summary": "阿里巴巴推出了一款全新的旗舰模型，该旗舰模型的定价低于Kimi K3，目前可公开获知的信息仅涉及该新品推出与价格对比情况。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "20b5e38e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "20b5e38e",
+          "source": "The Information",
+          "title": "阿里巴巴推出价格低于Kimi K3的全新旗舰模型",
+          "link": "https://www.theinformation.com/briefings/alibaba-offers-new-flagship-model-lower-prices-kimi-k3",
+          "published_at": "2026-08-03T06:23:59+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T06:23:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21285e08",
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+      "summary": "2024年成立的光芯片企业量引科技，由硅光领域资深从业团队创办，近期完成珠海科技产业集团领投的数千万元天使轮融资，瞄准CPO/OIO下一代高速光互连千亿级赛道，以自研核心器件切入，本轮融资将用于团队扩充、流片迭代与设备补充。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "5440347e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "5440347e",
+          "source": "36氪",
+          "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+          "link": "https://36kr.com/p/3923374038265217?f=rss",
+          "published_at": "2026-08-03T05:43:36+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T05:43:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "019a135c",
+      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+      "summary": "前安克3D打印业务负责人王志宇2025年创立B端轻量化制造品牌轻量智造，主打面向中小制造企业及专业个人的桌面级3D打印工具，该品牌近期连续完成两轮共计超2500万元融资，资金将用于产品研发、供应链搭建与全球市场推广，初代产品已在海外开启众筹。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "53cf7bd5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "53cf7bd5",
+          "source": "36氪",
+          "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+          "link": "https://36kr.com/p/3923371035831684?f=rss",
+          "published_at": "2026-08-03T05:40:12+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T05:40:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "efe21cc8",
+      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+      "summary": "两家从大疆拆分独立的电助力自行车（Ebike）相关企业Amflow（整车）与Avinox（电助力系统），逆势切入高端市场，Amflow售价超4万元的高端车型已售出超3万台，营收突破10亿元，今年定下营收翻四倍的目标；Avinox已拥有60余个客户，打破了海外品牌对高端电助力系统的垄断。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b7a17b26"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b7a17b26",
+          "source": "36氪",
+          "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+          "link": "https://36kr.com/p/3923367465266824?f=rss",
+          "published_at": "2026-08-03T05:36:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T05:36:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f618b5c",
+      "title": "普睿司曼达成协议收购美国电气制造商阿特科",
+      "summary": "意大利普睿司曼公司已达成全现金交易协议，收购美国电气零部件制造商阿特科。此次收购将推进该公司聚焦数据中心建设的在美增长布局，进一步拓展其在美国市场的业务。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "38c09b48"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "38c09b48",
+          "source": "Bloomberg",
+          "title": "普睿司曼达成协议收购美国电气制造商阿特科",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-03/prysmian-strikes-deal-to-buy-us-electrical-maker-atkore",
+          "published_at": "2026-08-03T05:32:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T05:32:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "47208435",
+      "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+      "summary": "原中国商飞核心团队创办的电动垂直起降飞行器（eVTOL）研发商亿维特航空，近日完成数亿元A+轮融资。目前该公司已完成关键过渡飞行验证，进入适航取证关键阶段，自研核心电推进系统，累计获890架意向订单，预计明年完成首款产品适航取证。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260803/v2_41c43f60a4644ac5ac6d2ae7b0688269@5920579_oswg843826oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "c0724189"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "c0724189",
+          "source": "36氪",
+          "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+          "link": "https://36kr.com/p/3923317976526208?f=rss",
+          "published_at": "2026-08-03T04:46:57+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T04:46:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ff6c2eb",
+      "title": "法国老年人受热浪炙烤 邮政工人出手救助",
+      "summary": "法国遭遇高温天气，老年群体耐热能力弱，面临较高的高温致死风险。为防范这类事件发生，法国政府已要求邮政工作人员探访老年民众，跟进了解其状况，为受高温困扰的老年人提供救助保障。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30france-post-01-czbk/30france-post-01-czbk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "93fd3630"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "93fd3630",
+          "source": "NYTimes World",
+          "title": "法国老年人受热浪炙烤 邮政工人出手救助",
+          "link": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+          "published_at": "2026-08-03T04:01:09+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T04:01:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1f7d418",
+      "title": "“我独子为伸张正义挺身而出遭射杀”——走进巴控克什米尔被致命抗议笼罩的城市",
+      "summary": "巴控克什米尔地区城市拉瓦拉考特近期爆发安全部队与抗议者的暴力冲突，该城市目前被致命抗议活动笼罩，有民众称自己的独子为伸张正义挺身而出时遭枪杀，BBC已获得进入该城市采访的独家权限。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/85553550-8f22-11f1-b8ee-9b3c26ad07bb.jpg",
+      "article_ids": [
+        "3623a241"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3623a241",
+          "source": "BBC World",
+          "title": "“我独子为伸张正义挺身而出遭射杀”——走进巴控克什米尔被致命抗议笼罩的城市",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T03:32:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T03:32:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d078b56c",
+      "title": "专家：中方黄岩岛演训震慑相关势力 检验提升实战化能力 - 中华网",
+      "summary": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，中方外交部已就此发布声明。近日中国海警在黄岩岛海域组织维权执法管控演练，专家表示，此次演训既对相关势力形成震慑，也检验提升了中方的实战化能力，多家媒体对此进行了报道。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "3c7f6008"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3c7f6008",
+          "source": "Google News (中国)",
+          "title": "专家：中方黄岩岛演训震慑相关势力 检验提升实战化能力 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BSFZ4QTN0RFM0ZFpWZzdON01WaV9yWnVtTkM0WkdrYW9LeVFNek40X2dqcnhkeUxpeUpFTy1wVzNHSXZOVGpLVWpfaTAwRy1wZXpXNkV3NFpqMTgzMVJtbHZia3M4OHVLNnJJampUcWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-03T01:50:58+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T01:50:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a806a7ac",
+      "title": "因巴勒斯坦相关表态遭新加坡禁演 英国乐队Massive Attack作出回应",
+      "summary": "英国知名乐队Massive Attack因在新加坡的演唱会上高喊“自由巴勒斯坦”，遭到新加坡方面禁演。乐队近日就此事公开作出回应，称对自身受到的这一处遇感到惊讶与失望。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/9a26f660-8f01-11f1-a7ab-8b30adf0800a.jpg",
+      "article_ids": [
+        "820e267e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "820e267e",
+          "source": "BBC World",
+          "title": "因巴勒斯坦相关表态遭新加坡禁演 英国乐队Massive Attack作出回应",
+          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-03T01:31:05+00:00"
+        }
+      ],
+      "published_at": "2026-08-03T01:31:05+00:00",
+      "is_merged": false
+    }
+  ]
+}

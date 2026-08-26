@@ -1,0 +1,2359 @@
+{
+  "date": "2026-06-24",
+  "edition": "evening",
+  "updated_at": "2026-06-24T23:00:23.762865+08:00",
+  "article_count": 60,
+  "cluster_count": 57,
+  "articles": [
+    {
+      "id": "58787191",
+      "title": "飞利浦秀智能灯具迎来连接升级",
+      "title_original": "Philips Hue’s smart lights are getting a connectivity upgrade",
+      "summary": "飞利浦秀宣布将为旗下支持Matter-over-Thread的智能灯泡推出连接升级，升级后产品可同时运行Thread与Zigbee两种协议，兼容灯泡及灯具可直接接入苹果Home、亚马逊Alexa、谷歌Home等Matter生态系统。",
+      "summary_original": "Philips Hue has announced a connectivity upgrade for its Matter-over-Thread-enabled smart bulbs that will allow them to run both Thread and Zigbee at the same time. The change means you can connect compatible Hue bulbs and fixtures directly to a Matter ecosystem - Apple Home, Amazon Alexa, or Google Home - while keeping them linked [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/955767/philips-hue-thread-matter-zigbee-update-silicon-labs",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T14:06:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8900fe23",
+      "title": "想要减少屏幕使用时间，买块“砖头”就够了",
+      "title_original": "If you want to cut your screen time, just get a Brick",
+      "summary": "不少现代人都深受屏幕使用时间过长的问题困扰，尝试多种方法仍难以控制时长。有长期尝试控屏却收效不佳的人士分享，想要减少自身屏幕使用时间，仅需花费59美元购买一块塑料“砖头”即可。",
+      "summary_original": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-24T14:01:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ffe3eb18",
+      "title": "2026 TechCrunch创始人峰会门票优惠倒计时3天 最高省190美元",
+      "title_original": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "summary": "2026年TechCrunch创始人峰会门票的早鸟优惠将于太平洋时间6月26日晚11点59分正式截止，目前距离优惠结束仅剩3天，在此阶段购票最高可节省190美元，有意参会者可注册报名。",
+      "summary_original": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5fb7c9f2",
+      "title": "Prime会员日19款人气充电设备超值优惠",
+      "title_original": "19 great Prime Day deals on our favorite charging gear",
+      "summary": "不少人都遭遇过外出前电子设备提前没电的窘境，Prime会员日正是添置充电宝、充电头这类充电设备的好时机。本次汇总了各类打折充电设备的超值好价，共筛选出19款值得入手的热门充电产品优惠",
+      "summary_original": "If you’re sick of your devices running out of juice early into the evening just as you’re about to go out, Prime Day is a great time to pick up a new power bank or charging brick. We’ve rounded up the best deals on a range of discounted charging equipment, from power banks and wall [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ffe3eb18",
+      "title": "2026 TechCrunch创始人峰会门票早鸟优惠倒计时3天 最高省190美元",
+      "title_original": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "summary": "2026年TechCrunch创始人峰会参会门票的早鸟优惠将于太平洋时间6月26日晚11:59截止，目前优惠仅剩三天，购票最高可减免190美元，有意参会者可及时完成注册，抓住机会锁定优惠。",
+      "summary_original": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "aba866e3",
+      "title": "据彭博社报道，Valor Equity Partners拟筹集25亿美元七号基金",
+      "title_original": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+      "summary": "Valor Equity Partners去年就曾宣布将为旗下最新基金启动募资，但当时并未披露具体募资金额。据彭博社曝出的最新细节，该机构此次计划推出的七号基金，目标募资总规模达25亿美元。",
+      "summary_original": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-24T13:58:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4cd2ea07",
+      "title": "破纪录热浪即将达峰值 法国遭遇大面积停电",
+      "title_original": "Power outages hit France as record heatwave set to peak",
+      "summary": "法国正迎来破纪录高温热浪，本轮高温峰值即将到来，高温引发停电问题，该国布列塔尼地区已有约6.8万户家庭受停电影响，预计供电要到周三晚间才能完全恢复。",
+      "summary_original": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T13:44:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0545de4f",
+      "title": "特朗普下令司法部调查汽油价格",
+      "title_original": "Trump Orders DOJ to Look Into Gasoline Prices",
+      "summary": "美国总统特朗普下令美国司法部调查汽油价格，他在社交平台Truth Social发帖称，油价下跌速度必须远快于当前节奏，要求油价尽快大幅下调。这一消息由泰勒·肯德尔在彭博电视台报道，消息来源为彭博社。",
+      "summary_original": "US President Donald Trump ordered the Department of Justice to look into gasoline prices, saying in a Truth Social post, “Prices better start going down a lot faster than what I’m seeing!” Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLHF5r_CFJrI/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-24/trump-orders-doj-to-look-into-gasoline-prices-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T13:42:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bcd0141c",
+      "title": "欧洲极端高温 学校是否开放引发分歧",
+      "title_original": "Extreme Heat Across Europe Creates Divide Over Leaving Schools Open",
+      "summary": "当前欧洲遭遇极端高温天气，英国与法国绝大多数学校都未配备空调，难以在气温飙升时为学生提供凉爽的学习环境。对于学校是否应当继续开放，家长、教师及官方各持己见，分歧显著。",
+      "summary_original": "Few schools in Britain or France have air-conditioning to keep children cool in soaring temperatures, leaving parents, teachers and officials divided about what to do.",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-heat-schools-01-ckqw/24int-heat-schools-01-ckqw-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T13:34:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6116179b",
+      "title": "法国发现首例埃博拉病例",
+      "title_original": "France Identifies First Case of Ebola",
+      "summary": "法国卫生部公布，该国发现首例埃博拉病例，患者是一名曾前往刚果民主共和国的医生。目前相关工作人员正在加紧行动，追踪所有可能与该患者有过接触的人员，排查潜在感染风险，防范疫情扩散。",
+      "summary_original": "The patient is a doctor who had traveled to the Democratic Republic of Congo, the health ministry said. Workers are racing to trace those who may have had contact.",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-france-ebola-wtcq/24int-france-ebola-wtcq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T13:34:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ca2d29d4",
+      "title": "谷歌4K电视流媒体设备直降25美元 达史上最低价",
+      "title_original": "Google’s TV Streamer 4K is $25 off, its best price ever",
+      "summary": "谷歌4K电视流媒体设备不只是出色的流媒体播放设备，还可充当智能家居中枢，支持用户直接通过电视控制所有主流智能家居设备。适逢亚马逊Prime会员日，Prime会员可在亚马逊以74.99美元购入，该价格达产品史上最低。",
+      "summary_original": "The Google TV Streamer 4K is more than just a terrific streaming device. It can also act as a smart home hub, letting you control all major smart home devices directly from your TV. Thanks to Prime Day, it&#8217;s now on sale for $74.99 at Amazon for Prime members, matching its best price to date. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T13:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "35af484b",
+      "title": "卢比奥拟就伊朗协议安抚波斯湾盟国",
+      "title_original": "Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal",
+      "summary": "美国国务卿马尔科·卢比奥计划出访波斯湾地区，会晤阿布扎比、科威特、巴林三国领导人。上述三国曾在冲突中遭遇伊朗袭击，卢比奥此行旨在就伊朗相关协议向这些地区盟国作出安抚保证。",
+      "summary_original": "Secretary of State Marco Rubio was scheduled to meet with leaders in Abu Dhabi, Kuwait and Bahrain, which were targeted by Iranian attacks during the war.",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-mideast-vbkf/24int-mideast-vbkf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T13:12:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8f7c2d57",
+      "title": "温蒂汉堡因红迪网爆火帖子股价暴涨42%",
+      "title_original": "Wendy’s Soars 42% Following Viral Reddit Post",
+      "summary": "迷因股投资者群体正抱团拉涨又一只股价受挫的美国知名品牌，即推出福斯蒂冰饮、戴夫三重汉堡、大划算套餐的知名快餐连锁温蒂公司。受红迪平台爆火帖子带动，温蒂股价暴涨42%。",
+      "summary_original": "The meme-stock crowd is rallying behind another beaten up American icon &mdash; Wendy’s Co., the fast-food chain known for the Frosty, Dave’s Triple burger and the Biggie Deal.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSYdNSq2xg_I/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/wendy-s-surges-37-as-post-rallies-memers-around-burger-chain",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T13:09:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "68e5ce01",
+      "title": "纽约民主党初选：曼达尼支持的候选人大获全胜",
+      "title_original": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "summary": "美国纽约民主党初选落幕，曼达尼支持的候选人取得全面胜利，其中布拉德·兰德击败丹·戈德曼胜选。本次竞选暴露了纽约市内部在以色列-加沙战争议题上的深刻分歧，凸显出当地在此问题上的立场撕裂。",
+      "summary_original": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T13:03:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da0406d0",
+      "title": "亚马逊Prime会员日19款热门Switch 2配件优惠",
+      "title_original": "19 Prime Day deals on our favorite Switch 2 accessories",
+      "summary": "Switch 2售价将于9月1日起上调50美元，上调后起售价为499.99美元。无论是计划在涨价前购入该机型，还是已经拥有Switch 2的消费者，都可趁此时机入手优惠配件，亚马逊Prime会员日此次推出了诸多优惠力度不错的活动。",
+      "summary_original": "The Switch 2’s price is set to increase by $50 on September 1st, starting at $499.99, so if you’re purchasing one before that (or you already own one), now’s a good time to also save on accessories while you can. Amazon’s Prime Day has delivered many great game deals, but some of the best sales [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3a7dd2fd",
+      "title": "谷歌Home智能音箱音质颜值俱佳，却难伺候",
+      "title_original": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "summary": "评测人员对新款谷歌Home智能音箱开展开箱测试，结果显示，即便将音箱音量拉满播放音乐，每次使用者说出唤醒词“Hey Google”，音箱都能迅速降低播放音量响应唤醒指令，两天测试中其三麦克风的唤醒表现良好。",
+      "summary_original": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3a7dd2fd",
+      "title": "谷歌Home音箱音质佳颜值高 但使用挑剔",
+      "title_original": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "summary": "新款谷歌Home音箱开箱后完成多项核心测试，整体表现亮眼。即便将音量拉至100%播放音乐，它每次都能快速调低音频，响应唤醒词“Hey Google”。在两天的测试周期中，音箱搭载的三个麦克风唤醒识别表现始终稳定。",
+      "summary_original": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "117eac4f",
+      "title": "SK海力士拟赴美上市融资290亿美元抢抓内存热潮",
+      "title_original": "SK Hynix $29 Billion US Listing to Seize on Memory Frenzy",
+      "summary": "SK海力士正推进赴美上市计划，拟融资约294亿美元，希望抓住投资者对高增长内存芯片股的投资热潮，尽管本周其股价刚刚遭遇大规模抛售冲击，仍推出这一上市计划。",
+      "summary_original": "SK Hynix Inc. is seeking 45.45 trillion won ($29.4 billion) in a US listing, tapping investor demand for high-flying memory-chip stocks even after a major selloff shook the group this week.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izhOtbLR3r6w/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T12:48:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4040ec42",
+      "title": "赫兹因二手车市场疲软发盈利预警后股价下挫",
+      "title_original": "Hertz Slides After Profit Warning on Used Car ‘Softness’",
+      "summary": "全球租车企业赫兹全球控股发布预警，受二手车市场疲软影响，公司本季度盈利将落于预期区间下限，同时公司宣布将发售股票与票据。受该消息影响，赫兹股价出现两年来最大幅度下跌。",
+      "summary_original": "Hertz Global Holdings Inc. shares tumbled the most in two years after the car renter warned profit this quarter is trending toward the low end of its expectations and announced offerings of shares and notes.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0TnT7wDfuzI/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/hertz-slides-after-warning-used-car-softness-is-hurting-profit",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T12:41:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce403666",
+      "title": "斯莱特汽车极简电动皮卡起售价24950美元",
+      "title_original": "Slate Auto’s radically simple electric truck starts at $24,950",
+      "summary": "获得杰夫·贝佐斯支持的初创企业斯莱特汽车，公布了旗下首款电动汽车的更多定价细节：其电动皮卡起售价为24950美元，SUV版本起售价29950美元，同时已将新车的基础续航里程提升至205英里。",
+      "summary_original": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-24T12:33:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cbc499d4",
+      "title": "联合国核机构负责人称核查人员将访伊朗设施 属协议相关安排",
+      "title_original": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "summary": "国际原子能机构总干事拉斐尔·格罗西表示，该机构正就核查人员访问伊朗相关设施敲定工作方案。伊朗一名部长则称，仅当伊朗与美国达成最终协议后，伊朗才会开放相关访问权限。",
+      "summary_original": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/c4c807c0-6fc5-11f1-8e1d-bbbb1017d210.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T12:32:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "59246da6",
+      "title": "北京的云刷屏，东北冷涡让北京宜居“上分” - 新京报",
+      "title_original": null,
+      "summary": "近期北京上空出现形似棉花糖、花椰菜的巨型云团，这一治愈系天空美景引发网友关注，相关美图刷屏网络。该云团由东北冷涡带来，为北京宜居感“加分”，同时它也预示当地可能出现局地雷雨、短时大风冰雹等强对流天气。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBseDh2ZFFqbVlRbW11enVWQmVWU29jWno5WHBOZ0tuSEtyem1ETVg3ZmktMnJWb0txdHBjWVZKNC1ZeHFsMTBOTDFPMUplSGZsamVRMEQtSHFhYU5JRzBBcEJCdzY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T12:17:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "77540ffe",
+      "title": "《下载通讯：工程特刊推介》",
+      "title_original": "The Download: introducing the Engineering issue",
+      "summary": "本次推出的是工作日科技通讯《下载通讯》今日刊，这份通讯每日为读者带来全球科技领域最新动态。此次正式推出工程特刊，倡导怀抱雄心应对挑战，依托人类才智推动世界变得更好。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenuity. That’s what the new&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-24T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ee2bc09e",
+      "title": "高通将以39亿美元收购Modular 助力人工智能业务推进",
+      "title_original": "Qualcomm to Buy Modular for $3.9 Billion to Help AI Push",
+      "summary": "美国高通公司宣布将以价值约39亿美元的股票交易收购Modular公司，此次交易将为高通补充人工智能软件能力，进一步助力其推进在数据中心领域的业务布局。",
+      "summary_original": "Qualcomm Inc. said it is acquiring Modular Inc., for about $3.9 billion in stock, adding artificial intelligence software capabilities that will aid its push into data centers.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ef1S3Ko01s/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T12:00:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3aac13af",
+      "title": "《星际火狐》成Switch 2迄今为止最惊艳视觉展示作品",
+      "title_original": "Star Fox is the Switch 2’s most impressive visual showcase yet",
+      "summary": "目前Switch 2推出的核心独占作品大多主打大体量设计：有开放超大大陆的竞速作品《马力欧卡丁车世界》、支持全场景破坏的《森喜刚狂潮》，还有宝可梦IP下开放创作的《Pokopia》，重制版《星际火狐》走差异化路线，成为该机迄今视觉效果最出众的展示作品。",
+      "summary_original": "The biggest Switch 2 exclusives so far have largely been about scale. Mario Kart World introduced a wide open continent to race across, Donkey Kong Bananza let you smash basically everything around you, and Pokopia brought an expansive Minecraft-style creative experience to the Pok&#233;mon universe. Star Fox is different. A remake of a Nintendo 64 [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "02cf20a7",
+      "title": "试驾Slate皮卡：不止于电动汽车极简主义",
+      "title_original": "I drove the Slate Truck — there&#8217;s more to it than EV minimalism",
+      "summary": "Slate汽车今日推出全新美国制造电动皮卡，该品牌押注对消费者而言，定价比绝大多数其他因素都重要。这款皮卡起售价为24950美元，符合此前承诺的价位，是目前在售最便宜的皮卡与电动汽车。",
+      "summary_original": "With its new pickup, Slate Auto is making a simple bet: price matters more than almost anything else. The company announced today that the American-made electric truck will start at $24,950, placing it squarely in the mid-$20,000 price range it had originally promised and making it the least expensive pickup truck and EV available today. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "409822fa",
+      "title": "斯莱特汽车皮卡起售价24950美元",
+      "title_original": "The Slate Auto pickup truck starts at $24,950",
+      "summary": "斯莱特汽车美国产平价电动皮卡正式公布售价，起售价为24950美元。近一年前该公司就已坦言，这款皮卡无法达到最初设定的“低于2万美元”的目标，本次定价符合该公司去年修正后的2.5万美元左右的价格预期。",
+      "summary_original": "We now know the price of Slate Auto's affordable American-made electric truck, almost a year after the company warned it wouldn't hit its initial \"under $20,000\" target price. The no-frills pickup starts at $24,950 - matching the revised mid-$20,000 price range it promised last year, after the Trump administration announced it was putting an end [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/955738/slate-auto-truck-ev-price-availability",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "63a3868f",
+      "title": "Stripe、Anthropic与OpenAI支持遏制呼吸道感染项目",
+      "title_original": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "summary": "普通感冒是全人群易感的常见呼吸道疾病，多数人每年都会感染多次，目前尚无有效预防手段，仅能通过补充维生素C、避开感染者应对，支付企业Stripe现已联合Anthropic、OpenAI，为这项全新的遏制呼吸道感染项目提供资金支持。",
+      "summary_original": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "abc015d0",
+      "title": "面向人工智能的网络数据基础设施层兴起",
+      "title_original": "The emergence of the web data infrastructure layer for AI",
+      "summary": "当前人工智能行业蓬勃发展，每日都有新应用场景诞生。企业要挖掘AI技术潜力，需要规模化数据支撑，目前大量相关信息或是访问受限，或是处于非结构化状态，限制了AI模型的应用，这一问题需从网络基础层面着手解决。",
+      "summary_original": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-24T11:59:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b41e57b5",
+      "title": "锚定目标任务 助力经济社会高质量发展——全国政协常委会会议热议高质量发展 - 新华网",
+      "title_original": null,
+      "summary": "全国政协十四届常委会第十七次会议召开，王沪宁主持全国政协主席会议，本次常委会会议围绕经济社会高质量发展展开热议，各方锚定目标任务，凝聚共识助力经济社会高质量发展，会议同时撤销了落马半月的魏小东全国政协委员资格。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSThxLS1CMURSR2V0MWN0a1FiR2xRRUhONG5xMDFIa1lCWVVqT3R3NG1vQ2FvLUw2Q3lzSGNKTmdUOGhWNEtfVHhXdGpKVUo3bVZBSE9NcGh2S3pKeXJuMkZUbUZwekpjVUtwbkxGWGdnSnlxMWN4bVpXdFZ4SjdNZHVhSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T11:55:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb5a86db",
+      "title": "中国扣押两名涉嫌走私的日本公民",
+      "title_original": "China Detained 2 Japanese on Suspicion of Smuggling",
+      "summary": "日本政府发布消息称，两名涉嫌走私的日本公民，于今年5月在中国东北部城市大连被中方扣押，该事件发生在当前中日两国关系紧张的背景之下。",
+      "summary_original": "The Japanese nationals were detained in May in the northeastern Chinese city of Dalian, Japan’s government said, amid tensions between the two countries.",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-china-japan-htqp/24int-china-japan-htqp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T11:32:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "53543f07",
+      "title": "戴森PencilWash洗地机Prime会员日降至历史最低价",
+      "title_original": "The Dyson PencilWash is down to its lowest price ever for Prime Day",
+      "summary": "亚马逊Prime会员日促销期间，戴森PencilWash无线硬地板清洁洗地机直降150美元，现价仅199.99美元，创下该产品上市以来最低价，这款产品沿用戴森PencilVac系列的流畅设计，简化为专一功能电动清洁工具。",
+      "summary_original": "Dyson’s PencilWash cordless hard floor cleaner is on sale for $199.99 ($150 off) at Amazon. This is the lowest price yet for the powered wet mop that’s a cousin to the silly-sounding-but-awesome Dyson PencilVac Fluffycones vacuum. The PencilWash basically takes the sleek styling and design of the PencilVac and simplifies it into a single-purpose electric [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T11:31:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0a27d413",
+      "title": "我们最推荐亚马逊Prime会员日次日可购优惠",
+      "title_original": "Our favorite Prime Day deals you can shop on day two",
+      "summary": "亚马逊为期四天的Prime会员日活动现已进入第二天，次日优惠设置和首日大致相近。这对消费者而言是好消息：多数首日的超值优惠仍可选购，同时还新增了一批全新优惠，优惠仅对Prime会员（含免费试用会员）开放。",
+      "summary_original": "Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, because many of the best deals are still around, and some new ones have joined them. If you&#8217;ve got a Prime subscription, whether through a free trial or a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-06-24T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2bedf801",
+      "title": "法国确认首例埃博拉病例",
+      "title_original": "France confirms first Ebola case",
+      "summary": "当前埃博拉疫情正在刚果民主共和国境内蔓延，已知该轮疫情已造成超过260人死亡。近日法国官方对外发布消息，确认该国境内出现首例埃博拉感染病例，这也是法国首次报告埃博拉确诊病例。",
+      "summary_original": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T10:40:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da7fd9cf",
+      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+      "title_original": null,
+      "summary": "本期涵盖多领域行业资讯：豆包专业版正式上线，推出三级阶梯定价；消息称苹果将于7月下旬量产首款可折叠iPhone，按计划9月发布；华泰证券认为海外高成本支撑，远期铝价当前市场定价过于悲观，此外还有企业IPO、投融资、新产品发布及监管新规等动态。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3867032586867972?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T10:35:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "436a40a2",
+      "title": "乌克兰战争截肢者投身尾波滑水与柔术",
+      "title_original": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
+      "summary": "当前乌克兰因战争导致的截肢者人数大幅飙升，许多截肢者通过共同学习新型体育运动凝聚在一起，既挑战自身身体极限，也打破了此前对个人能力的固有认知，重新探索自身潜能。",
+      "summary_original": "As the number of amputees in Ukraine soars, many are bonding by learning new sports, challenging both their bodies and their ideas of what they can do.",
+      "image": "https://static01.nyt.com/images/2026/06/21/multimedia/21vid-ukraine-cover-amputees-gzfk/21vid-ukraine-cover-amputees-gzfk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T10:25:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "95a5c644",
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "title_original": null,
+      "summary": "2026年6月，出身上海科技大学学术圈的3D生成头部企业影眸科技，宣布完成数亿元新一轮融资，本轮由凯辉基金、上海国投先导领投，老股东跟投。影眸同步发布新一代Hyper3D Rodin Gen-2.5，首次将大语言模型“先思考再生成”模式引入3D生成领域，当前C端收入已反超B端，增长迅猛。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_23605708aefc4d699513588dbbb5eb9c@6162492_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3865060112438533?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T10:06:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "facfbe5e",
+      "title": "中核集团召开党组（扩大）会议暨学习贯彻习近平党建思想会议 - 中国核电网",
+      "title_original": null,
+      "summary": "中核集团召开党组（扩大）会议暨学习贯彻习近平党建思想会议。近期《习近平党建文选》第一卷、第二卷出版发行，多家权威媒体刊发相关内容，阐释习近平党建思想核心内涵，强调要把党的政治建设作为根本性建设，健全上下贯通、执行有力的组织体系。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qSS1GSFR4Y18tSFNDd3lzM3ZfSmZ2amZEVmFseVg2aC0tcFVKV2Jvdkp6dVI3S0pIQ1JJU3NNZlR6RUZBWGlUd3hONXlPckxM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T09:50:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dc4feb54",
+      "title": "习近平在山东德州考察 - 新华网",
+      "title_original": null,
+      "summary": "中共中央总书记、国家主席、中央军委主席习近平在山东德州开展考察，相关新闻由新华网发布，感兴趣的用户可前往Google新闻平台，查看新华网推出的更多头条新闻与相关观点内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDl5NEVMZlp4aXRKckQ1NThkbGZjRWFUbjd2RVV2UmV4ME5qa251ZkVmUEJlYldUQ3lsX0kxbEE3cFprMFlrZnlsT2dtNnVDT1J5YXB5M2hkb01sTmdTUFVpWUpBXzVPQk1DTHduUmhOakt3YWRXeG80OXJxdklicnY1bGZ1Z0NiX0JTcmFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T09:49:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bdfab579",
+      "title": "乌克兰袭击后克里米亚最大城市陷入停电",
+      "title_original": "Biggest city in Crimea without power after Ukraine strikes",
+      "summary": "乌克兰发起袭击后，克里米亚最大城市陷入停电状态。由莫斯科任命的塞瓦斯托波尔州长发出警告，称该市部分区域在当日傍晚之前都无法恢复供电，停电状况将持续至晚间，目前暂无更多相关后续消息披露。",
+      "summary_original": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T09:48:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ea781217",
+      "title": "连续三年护航夏季达沃斯 岚图汽车释放高端新能源发展信号 - 中国基金报",
+      "title_original": null,
+      "summary": "2026年夏季达沃斯论坛在大连举办，论坛以\"确定性汇聚发展新动能\"为主题，聚焦中国发展机遇。岚图汽车已连续三年为该论坛护航，借此释放高端新能源发展信号。论坛期间，外交部欢迎各国企业来华投资，辽宁芭蕾舞团也亮相现场开展文化交流",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRVE3NTU3OTJpcFBMaXNubi0xNllwVkRxRHh1cjgwMUFrbEo4RzlBMWh3X1RUdzA1UkpXQTVJT3FwVWt6RzdMb0NyWlpoS3lJT0pVd3RmdmVFWWNmVG5kakVuMzV5TlB4a21RcWNDbnphMEdlNDdOTmJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T09:24:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d69287a2",
+      "title": "巴西下一位足坛巨星会由AI发掘吗？",
+      "title_original": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
+      "summary": "人工智能驱动的足球球员招募应用正在巴西逐渐普及推广，这类应用宣称可平衡足球选材的竞争环境，打破传统球探选材的诸多限制，帮助发掘更多潜在足球人才，有望为巴西找出下一位顶级足坛新星。",
+      "summary_original": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T09:01:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b8d25285",
+      "title": "这款飞行太阳能平台可从空中提供更优质互联网服务",
+      "title_original": "This flying solar-powered platform could deliver better internet from the air",
+      "summary": "美国新墨西哥州企业Sceye打造的长约200英尺飞行太阳能平台，最快将于今年8月从美国西南部出发，跨太平洋抵达日本海岸后，驻留在太平洋上空约18公里处，拟依托该空中平台提供更优质的互联网服务。",
+      "summary_original": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f78a517c",
+      "title": "大大小小的挑战",
+      "title_original": "All challenges big and small",
+      "summary": "1991年第一次海湾战争结束后，18岁的讲述者未参加高中毕业典礼，便前往局势一片混乱的科威特。当时当地几乎没有常规供电，仅靠发电机供电，废墟、未爆弹药随处可见，大规模油田大火在沙漠中燃烧。",
+      "summary_original": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fd23bae4",
+      "title": "伊朗效忠派推广更广泛民族主义，不戴面纱女性也纳入其中",
+      "title_original": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
+      "summary": "伊朗政府支持者正公开与据称的前异见人士建立新联系，借此推广涵盖不戴面纱女性在内的更广泛民族主义，此举意在展示自身有能力抵御来自国内外的敌对势力。",
+      "summary_original": "Government supporters are showing off new ties with alleged former dissidents in a bid to show that they can withstand enemies at home as well as abroad.",
+      "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08int-iran-nationalism-02-gwhq/08int-iran-nationalism-02-gwhq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T08:39:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ee27f0b2",
+      "title": "献礼建党105周年 载旗C919首次飞抵延安 - 经济参考报",
+      "title_original": null,
+      "summary": "为献礼中国共产党成立105周年，载旗构型的国产C919大飞机首次飞抵延安，相关报道由经济参考报发布，感兴趣的读者可前往Google新闻平台，查看经济参考报更多头条新闻与观点内容",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRS1BWUVEVUtXOW5NeVlJcmJEWk9YQVAwUHBBSzBTUkhCTlduR0R2ZVpYV3N1eHRubF9qOUIzWnVkTkZ4N29WNzljb0RFR1JEdnFqQ1pSNUlZVWNESFZkV241UjQtbERUUHRxZUNwTk5qbmRrd0NRaVIzWmRtVzNRYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T08:31:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "890471a2",
+      "title": "据称遭丈夫囚禁12年的法国女子在巴基斯坦获救",
+      "title_original": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+      "summary": "近日，一名法国女子在巴基斯坦获救。当事人亚斯米娜称，她遭丈夫囚禁长达十二年，被囚期间她的五个孩子也一同被关押，一行人全程与外界切断联系，目前该事件的更多细节仍待进一步披露。",
+      "summary_original": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea0/live/b3378670-6fcf-11f1-8546-8f19e4fe30f4.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-06-24T08:29:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cbcbf5db",
+      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+      "title_original": null,
+      "summary": "36氪WAVES2026新浪潮大会在广州举办，本次“AI这个月、这一年、这五年”主题圆桌对话中，三家头部投资机构的合伙人，围绕AI产业发展节奏、AI Agent投资机会、物理AI落地前景、AI创业者特质等议题，分享了最新的投资思考与判断。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_238ebf0c7c0b42f4844ffa0ffeebda4d@6381723_oswg132679oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3866900608701449?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T08:17:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "53f911c9",
+      "title": "凭借土耳其式“拥抱”，伊斯坦布尔跃升探戈之都",
+      "title_original": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+      "summary": "伊斯坦布尔拥有大量探戈学校、俱乐部，也培育出不少技艺娴熟的专业探戈舞者。如今这座城市已经获得业内认可，即便阿根廷本土的探戈大师，也承认它是全球知名的探戈目的地。",
+      "summary_original": "Istanbul’s many tango schools, clubs and skilled dancers have won the city recognition, even among Argentine maestros, as a global tango destination.",
+      "image": null,
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T07:54:37+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9a8d6b09",
+      "title": "立陶宛叫停与台当局合作 - 观察",
+      "title_original": null,
+      "summary": "立陶宛前总理因推动允许台当局开设所谓“台湾代表处”，坦言此举付出代价后宣布辞职，立陶宛随后进行内阁全面改组。改组后立陶宛叫停与台当局的合作谈判，此前中方因立陶宛错误对华行径已撤回外交人员，此次变动引发外界对其是否纠正错误对华路线的关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jUmZSUUs2cndrcFhGSEI5MG5sdEcxdDZNaDBndnFOSEtxaXJSVkZhWTJWblVGcUVoQklYQW96eDJaM2UyWGdIbzZFZjVNdWp1TjdZNTZGREstR21PY083eDJIWmFCcGhFWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T07:43:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ace5203",
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "title_original": null,
+      "summary": "36氪WAVES2026新浪潮大会举办“生命的新算法——AI+医疗”主题圆桌，AI医疗、AI制药领域的产业创业者与投资人，围绕AI对研发范式的改造、商业化路径、行业发展瓶颈展开探讨，指出AI正重构医疗研发链路，数据与跨学科认知是当前需突破的核心问题。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_55c57425ed5b4581b5aa461fdb50c2d1@6381723_oswg143131oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3866854221698313?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T07:31:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8f7437a2",
+      "title": "【牢记初心使命 奋进复兴征程】弘扬西柏坡精神 走好新时代赶考路 - 光明网",
+      "title_original": null,
+      "summary": "多家国内主流媒体围绕“牢记初心使命 奋进复兴征程”主题，推出聚焦西柏坡的相关报道，内容涵盖西柏坡精神的传承内涵、革命老区振兴发展的新实践，重访“立规矩的地方”，强调中国共产党人赶考初心始终不变，号召弘扬西柏坡精神，走好新时代赶考路。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBeGJEYzJ6WnV1aUFFQTJiN2ZOYmFVZ1FvNmNZSTZqR2p3NnE2eU5qWnFFOVVLdldEN3BiTmpodEY5ajNvLUF6RV94QTc0dXF6UE43TnFLNThKUTR2ZTVLMTZPUmdVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T07:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a81e27e6",
+      "title": "时政微观察丨从一艘小船到一个大党 - politics.people.com.cn",
+      "title_original": null,
+      "summary": "时政微观察丨从一艘小船到一个大党&nbsp;&nbsp;politics.people.com.cn在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85V05ZcUM2ZFBHcjVoanhxcGo1UU9qYnVUX0E4bVo5NkJYVXJ0ZUFYMGMweFRRWmptZUdmcWhMWGs1WjYwR3hmUHZrQVJsTlY0OUthSmFNeEdKV1dqbXhwbjVVRVFNODU5ZjRWak13Yzc0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-06-24T07:21:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "de28c957",
+      "title": "纳斯达克100蒸发1.3万亿美元后 科技股领涨反弹",
+      "title_original": "Tech Stocks Lead Bounce After $1.3 Trillion Rout on Nasdaq 100",
+      "summary": "本周前两个交易日，市场对人工智能驱动的美股上涨行情规模的担忧升温，导致纳斯达克100成分股总市值缩水近1.3万亿美元，随后美国科技股开启反弹，拉动美股主要股指回升。",
+      "summary_original": "US technology stocks rebounded, lifting key indexes, after the latest flareup of concerns about the scale of the artificial-intelligence-fueled rally wiped nearly $1.3 trillion from the market capitalization of Nasdaq 100 companies over the first two days of the week.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inP.56fb5h2k/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T06:48:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "632d1b97",
+      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+      "title_original": null,
+      "summary": "36氪WAVES2026新浪潮举办主题为“2026科技的这一年：少数，即浪潮”的圆桌论坛，来自多家硬科技企业的创始人、高管，围绕具身智能的技术进展、商业化落地、全球竞争格局等议题展开探讨，分析行业机遇与挑战，展望发展方向。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_1bfb748fc2ad4e5cb8c6455bd993f82e@6381723_oswg633088oswg832oswg555_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3866787672773888?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T06:39:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2b7f6348",
+      "title": "市场变动过快时如何投资",
+      "title_original": "How to invest when everything is moving too fast",
+      "summary": "上周末，科技媒体TechCrunch在洛杉矶举办StrictlyVC晚间活动，邀请到两位当前活跃在AI领域、风格直言不讳的投资人，二人在活动中的分享既生动有趣，又富有启发性，能给业内带来不少参考。",
+      "summary_original": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-06-24T06:26:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "796e8408",
+      "title": "特朗普称司法部正在调查汽油价格",
+      "title_original": "Trump Says Justice Department Looking Into Gasoline Prices",
+      "summary": "美国总统唐纳德·特朗普已下令美国司法部对汽油价格相关情况展开调查，特朗普表示，当前美国国内汽油价格的下跌速度过慢，达不到他的预期，因此要求司法部门介入调查此事。",
+      "summary_original": "US President Donald Trump has ordered the Department of Justice to look into gasoline prices, which he says aren’t falling fast enough.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHek8iIU60W0/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/trump-says-justice-department-to-look-into-high-gasoline-prices",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-06-24T04:23:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5e61a93b",
+      "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+      "title_original": null,
+      "summary": "6月24日，仙工智能在港交所上市，其上市前一日暗盘收跌超7%，上市首日股价大幅波动，早盘冲高较发行价涨超38%后回落，收盘仍涨近14%。目前它是港股估值最高的机器人新股，波动源于流通筹码少，其高估值能否支撑有待后续财报验证。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_16a304a6303841b1aee9cfffbc91f7d2@430412560_oswg669681oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3866666733835522?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-06-24T04:17:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e21fd33",
+      "title": "缅甸内战已沦为人间浩劫",
+      "title_original": "Myanmar’s Civil War Has Become an Apocalypse",
+      "summary": "当前全球注意力大多集中在乌克兰、加沙、黎巴嫩的冲突上，缅甸内战长期被外界忽视，该国偏远内陆腹地的战事近来持续恶化，目前冲突的严重程度已经达到前所未有的糟糕境地，演变为一场灾难性危机。",
+      "summary_original": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
+      "image": "https://static01.nyt.com/images/2026/06/23/world/00int-myanmar-rebels-18-promo/00int-myanmar-rebels-18-promo-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T04:01:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5402a8f0",
+      "title": "关于缅甸混乱战事须知",
+      "title_original": "What to Know About Myanmar’s Chaotic War",
+      "summary": "缅甸是东南亚国家，该国自2021年爆发战事以来，近期单月平民死亡人数创下开战以来新高，这一数据反映出当前缅甸境内局势持续动荡，不断升级的冲突正给当地普通民众的生命安全带来愈发严重的威胁。",
+      "summary_original": "The Southeast Asian nation recently experienced its highest monthly civilian death toll since the war began in 2021.",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-myanmar-rebels-wtk-pzvj/24int-myanmar-rebels-wtk-pzvj-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-explained.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-06-24T04:01:06+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "3bae8be8",
+      "title": "飞利浦秀智能灯具迎来连接升级",
+      "summary": "飞利浦秀宣布将为旗下支持Matter-over-Thread的智能灯泡推出连接升级，升级后产品可同时运行Thread与Zigbee两种协议，兼容灯泡及灯具可直接接入苹果Home、亚马逊Alexa、谷歌Home等Matter生态系统。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "58787191"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "58787191",
+          "source": "The Verge",
+          "title": "飞利浦秀智能灯具迎来连接升级",
+          "link": "https://www.theverge.com/tech/955767/philips-hue-thread-matter-zigbee-update-silicon-labs",
+          "published_at": "2026-06-24T14:06:10+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T14:06:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56156b82",
+      "title": "想要减少屏幕使用时间，买块“砖头”就够了",
+      "summary": "不少现代人都深受屏幕使用时间过长的问题困扰，尝试多种方法仍难以控制时长。有长期尝试控屏却收效不佳的人士分享，想要减少自身屏幕使用时间，仅需花费59美元购买一块塑料“砖头”即可。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "8900fe23"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "8900fe23",
+          "source": "TechCrunch",
+          "title": "想要减少屏幕使用时间，买块“砖头”就够了",
+          "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+          "published_at": "2026-06-24T14:01:35+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T14:01:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aebec8e2",
+      "title": "2026 TechCrunch创始人峰会门票优惠倒计时3天 最高省190美元",
+      "summary": "2026年TechCrunch创始人峰会门票的早鸟优惠将于太平洋时间6月26日晚11点59分正式截止，目前距离优惠结束仅剩3天，在此阶段购票最高可节省190美元，有意参会者可注册报名。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ffe3eb18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ffe3eb18",
+          "source": "TechCrunch",
+          "title": "2026 TechCrunch创始人峰会门票优惠倒计时3天 最高省190美元",
+          "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+          "published_at": "2026-06-24T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ff64a27",
+      "title": "Prime会员日19款人气充电设备超值优惠",
+      "summary": "不少人都遭遇过外出前电子设备提前没电的窘境，Prime会员日正是添置充电宝、充电头这类充电设备的好时机。本次汇总了各类打折充电设备的超值好价，共筛选出19款值得入手的热门充电产品优惠",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5fb7c9f2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5fb7c9f2",
+          "source": "The Verge",
+          "title": "Prime会员日19款人气充电设备超值优惠",
+          "link": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
+          "published_at": "2026-06-24T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aebec8e2",
+      "title": "2026 TechCrunch创始人峰会门票早鸟优惠倒计时3天 最高省190美元",
+      "summary": "2026年TechCrunch创始人峰会参会门票的早鸟优惠将于太平洋时间6月26日晚11:59截止，目前优惠仅剩三天，购票最高可减免190美元，有意参会者可及时完成注册，抓住机会锁定优惠。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ffe3eb18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ffe3eb18",
+          "source": "TechCrunch AI",
+          "title": "2026 TechCrunch创始人峰会门票早鸟优惠倒计时3天 最高省190美元",
+          "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+          "published_at": "2026-06-24T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7fe91a82",
+      "title": "据彭博社报道，Valor Equity Partners拟筹集25亿美元七号基金",
+      "summary": "Valor Equity Partners去年就曾宣布将为旗下最新基金启动募资，但当时并未披露具体募资金额。据彭博社曝出的最新细节，该机构此次计划推出的七号基金，目标募资总规模达25亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "aba866e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "aba866e3",
+          "source": "TechCrunch",
+          "title": "据彭博社报道，Valor Equity Partners拟筹集25亿美元七号基金",
+          "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+          "published_at": "2026-06-24T13:58:14+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:58:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30c784ff",
+      "title": "破纪录热浪即将达峰值 法国遭遇大面积停电",
+      "summary": "法国正迎来破纪录高温热浪，本轮高温峰值即将到来，高温引发停电问题，该国布列塔尼地区已有约6.8万户家庭受停电影响，预计供电要到周三晚间才能完全恢复。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg",
+      "article_ids": [
+        "4cd2ea07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4cd2ea07",
+          "source": "BBC World",
+          "title": "破纪录热浪即将达峰值 法国遭遇大面积停电",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T13:44:08+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:44:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a9f6d9f",
+      "title": "美国总统特朗普下令美国司法部调查汽油价格，要求油价尽快大幅下调",
+      "summary": "美国总统特朗普认为当前美国国内汽油价格下跌速度过慢，远达不到他的预期，因此下令美国司法部对汽油价格相关情况展开调查，要求大幅加快油价下跌节奏，推动油价尽快大幅下调。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLHF5r_CFJrI/v3/1200x-1.jpg",
+      "article_ids": [
+        "0545de4f",
+        "796e8408"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0545de4f",
+          "source": "Bloomberg",
+          "title": "特朗普下令司法部调查汽油价格",
+          "link": "https://www.bloomberg.com/news/videos/2026-06-24/trump-orders-doj-to-look-into-gasoline-prices-video",
+          "published_at": "2026-06-24T13:42:41+00:00"
+        },
+        {
+          "id": "796e8408",
+          "source": "Bloomberg",
+          "title": "特朗普称司法部正在调查汽油价格",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/trump-says-justice-department-to-look-into-high-gasoline-prices",
+          "published_at": "2026-06-24T04:23:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:42:41+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "cb7fb858",
+      "title": "欧洲极端高温 学校是否开放引发分歧",
+      "summary": "当前欧洲遭遇极端高温天气，英国与法国绝大多数学校都未配备空调，难以在气温飙升时为学生提供凉爽的学习环境。对于学校是否应当继续开放，家长、教师及官方各持己见，分歧显著。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-heat-schools-01-ckqw/24int-heat-schools-01-ckqw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bcd0141c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bcd0141c",
+          "source": "NYTimes World",
+          "title": "欧洲极端高温 学校是否开放引发分歧",
+          "link": "https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html",
+          "published_at": "2026-06-24T13:34:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:34:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc67a8ad",
+      "title": "法国发现并确认首例埃博拉感染病例 患者曾到访刚果民主共和国",
+      "summary": "当前埃博拉疫情正于刚果民主共和国蔓延，该轮疫情已造成超过260人死亡。法国官方公布该国首例埃博拉确诊病例，患者为曾到访刚果金的医生，目前正追踪接触者排查风险、防范疫情扩散。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-france-ebola-wtcq/24int-france-ebola-wtcq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "6116179b",
+        "2bedf801"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "NYTimes World",
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6116179b",
+          "source": "NYTimes World",
+          "title": "法国发现首例埃博拉病例",
+          "link": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+          "published_at": "2026-06-24T13:34:38+00:00"
+        },
+        {
+          "id": "2bedf801",
+          "source": "BBC World",
+          "title": "法国确认首例埃博拉病例",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T10:40:57+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:34:38+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "4fb5b995",
+      "title": "谷歌4K电视流媒体设备直降25美元 达史上最低价",
+      "summary": "谷歌4K电视流媒体设备不只是出色的流媒体播放设备，还可充当智能家居中枢，支持用户直接通过电视控制所有主流智能家居设备。适逢亚马逊Prime会员日，Prime会员可在亚马逊以74.99美元购入，该价格达产品史上最低。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ca2d29d4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ca2d29d4",
+          "source": "The Verge",
+          "title": "谷歌4K电视流媒体设备直降25美元 达史上最低价",
+          "link": "https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale",
+          "published_at": "2026-06-24T13:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b72dfc67",
+      "title": "卢比奥拟就伊朗协议安抚波斯湾盟国",
+      "summary": "美国国务卿马尔科·卢比奥计划出访波斯湾地区，会晤阿布扎比、科威特、巴林三国领导人。上述三国曾在冲突中遭遇伊朗袭击，卢比奥此行旨在就伊朗相关协议向这些地区盟国作出安抚保证。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-mideast-vbkf/24int-mideast-vbkf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "35af484b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "35af484b",
+          "source": "NYTimes World",
+          "title": "卢比奥拟就伊朗协议安抚波斯湾盟国",
+          "link": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
+          "published_at": "2026-06-24T13:12:22+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:12:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdefe07a",
+      "title": "温蒂汉堡因红迪网爆火帖子股价暴涨42%",
+      "summary": "迷因股投资者群体正抱团拉涨又一只股价受挫的美国知名品牌，即推出福斯蒂冰饮、戴夫三重汉堡、大划算套餐的知名快餐连锁温蒂公司。受红迪平台爆火帖子带动，温蒂股价暴涨42%。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSYdNSq2xg_I/v1/1200x-1.jpg",
+      "article_ids": [
+        "8f7c2d57"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8f7c2d57",
+          "source": "Bloomberg",
+          "title": "温蒂汉堡因红迪网爆火帖子股价暴涨42%",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/wendy-s-surges-37-as-post-rallies-memers-around-burger-chain",
+          "published_at": "2026-06-24T13:09:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:09:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "680ee552",
+      "title": "纽约民主党初选：曼达尼支持的候选人大获全胜",
+      "summary": "美国纽约民主党初选落幕，曼达尼支持的候选人取得全面胜利，其中布拉德·兰德击败丹·戈德曼胜选。本次竞选暴露了纽约市内部在以色列-加沙战争议题上的深刻分歧，凸显出当地在此问题上的立场撕裂。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "68e5ce01"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "68e5ce01",
+          "source": "BBC World",
+          "title": "纽约民主党初选：曼达尼支持的候选人大获全胜",
+          "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T13:03:35+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:03:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1e89578b",
+      "title": "亚马逊Prime会员日19款热门Switch 2配件优惠",
+      "summary": "Switch 2售价将于9月1日起上调50美元，上调后起售价为499.99美元。无论是计划在涨价前购入该机型，还是已经拥有Switch 2的消费者，都可趁此时机入手优惠配件，亚马逊Prime会员日此次推出了诸多优惠力度不错的活动。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "da0406d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "da0406d0",
+          "source": "The Verge",
+          "title": "亚马逊Prime会员日19款热门Switch 2配件优惠",
+          "link": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
+          "published_at": "2026-06-24T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d98d8c16",
+      "title": "谷歌Home智能音箱音质颜值俱佳，却难伺候",
+      "summary": "评测人员对新款谷歌Home智能音箱开展开箱测试，结果显示，即便将音箱音量拉满播放音乐，每次使用者说出唤醒词“Hey Google”，音箱都能迅速降低播放音量响应唤醒指令，两天测试中其三麦克风的唤醒表现良好。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3a7dd2fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3a7dd2fd",
+          "source": "The Verge",
+          "title": "谷歌Home智能音箱音质颜值俱佳，却难伺候",
+          "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+          "published_at": "2026-06-24T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d98d8c16",
+      "title": "谷歌Home音箱音质佳颜值高 但使用挑剔",
+      "summary": "新款谷歌Home音箱开箱后完成多项核心测试，整体表现亮眼。即便将音量拉至100%播放音乐，它每次都能快速调低音频，响应唤醒词“Hey Google”。在两天的测试周期中，音箱搭载的三个麦克风唤醒识别表现始终稳定。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3a7dd2fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "3a7dd2fd",
+          "source": "The Verge AI",
+          "title": "谷歌Home音箱音质佳颜值高 但使用挑剔",
+          "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+          "published_at": "2026-06-24T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f3127145",
+      "title": "SK海力士拟赴美上市融资290亿美元抢抓内存热潮",
+      "summary": "SK海力士正推进赴美上市计划，拟融资约294亿美元，希望抓住投资者对高增长内存芯片股的投资热潮，尽管本周其股价刚刚遭遇大规模抛售冲击，仍推出这一上市计划。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izhOtbLR3r6w/v3/1200x-1.png",
+      "article_ids": [
+        "117eac4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "117eac4f",
+          "source": "Bloomberg",
+          "title": "SK海力士拟赴美上市融资290亿美元抢抓内存热潮",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy",
+          "published_at": "2026-06-24T12:48:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:48:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d82e4bdc",
+      "title": "赫兹因二手车市场疲软发盈利预警后股价下挫",
+      "summary": "全球租车企业赫兹全球控股发布预警，受二手车市场疲软影响，公司本季度盈利将落于预期区间下限，同时公司宣布将发售股票与票据。受该消息影响，赫兹股价出现两年来最大幅度下跌。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0TnT7wDfuzI/v1/1200x-1.jpg",
+      "article_ids": [
+        "4040ec42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4040ec42",
+          "source": "Bloomberg",
+          "title": "赫兹因二手车市场疲软发盈利预警后股价下挫",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/hertz-slides-after-warning-used-car-softness-is-hurting-profit",
+          "published_at": "2026-06-24T12:41:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:41:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "973f4427",
+      "title": "获贝佐斯支持的斯莱特汽车公布旗下平价电动皮卡起售价24950美元",
+      "summary": "获杰夫·贝佐斯支持的美国初创车企斯莱特汽车，公布旗下首款电动汽车相关信息，电动皮卡起售价为24950美元，符合该公司去年修正后的价格预期，同时公布了SUV版本售价，并提升了新车基础续航里程。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ce403666",
+        "409822fa"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "TechCrunch",
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ce403666",
+          "source": "TechCrunch",
+          "title": "斯莱特汽车极简电动皮卡起售价24950美元",
+          "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+          "published_at": "2026-06-24T12:33:34+00:00"
+        },
+        {
+          "id": "409822fa",
+          "source": "The Verge",
+          "title": "斯莱特汽车皮卡起售价24950美元",
+          "link": "https://www.theverge.com/transportation/955738/slate-auto-truck-ev-price-availability",
+          "published_at": "2026-06-24T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:33:34+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "cd282cc2",
+      "title": "联合国核机构负责人称核查人员将访伊朗设施 属协议相关安排",
+      "summary": "国际原子能机构总干事拉斐尔·格罗西表示，该机构正就核查人员访问伊朗相关设施敲定工作方案。伊朗一名部长则称，仅当伊朗与美国达成最终协议后，伊朗才会开放相关访问权限。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/c4c807c0-6fc5-11f1-8e1d-bbbb1017d210.jpg",
+      "article_ids": [
+        "cbc499d4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cbc499d4",
+          "source": "BBC World",
+          "title": "联合国核机构负责人称核查人员将访伊朗设施 属协议相关安排",
+          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T12:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7fc5a442",
+      "title": "北京的云刷屏，东北冷涡让北京宜居“上分” - 新京报",
+      "summary": "近期北京上空出现形似棉花糖、花椰菜的巨型云团，这一治愈系天空美景引发网友关注，相关美图刷屏网络。该云团由东北冷涡带来，为北京宜居感“加分”，同时它也预示当地可能出现局地雷雨、短时大风冰雹等强对流天气。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "59246da6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "59246da6",
+          "source": "Google News (中国)",
+          "title": "北京的云刷屏，东北冷涡让北京宜居“上分” - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBseDh2ZFFqbVlRbW11enVWQmVWU29jWno5WHBOZ0tuSEtyem1ETVg3ZmktMnJWb0txdHBjWVZKNC1ZeHFsMTBOTDFPMUplSGZsamVRMEQtSHFhYU5JRzBBcEJCdzY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T12:17:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:17:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fffbbce8",
+      "title": "《下载通讯：工程特刊推介》",
+      "summary": "本次推出的是工作日科技通讯《下载通讯》今日刊，这份通讯每日为读者带来全球科技领域最新动态。此次正式推出工程特刊，倡导怀抱雄心应对挑战，依托人类才智推动世界变得更好。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "77540ffe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "77540ffe",
+          "source": "MIT Technology Review",
+          "title": "《下载通讯：工程特刊推介》",
+          "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+          "published_at": "2026-06-24T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf292c75",
+      "title": "高通将以39亿美元收购Modular 助力人工智能业务推进",
+      "summary": "美国高通公司宣布将以价值约39亿美元的股票交易收购Modular公司，此次交易将为高通补充人工智能软件能力，进一步助力其推进在数据中心领域的业务布局。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ef1S3Ko01s/v0/1200x-1.jpg",
+      "article_ids": [
+        "ee2bc09e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ee2bc09e",
+          "source": "Bloomberg",
+          "title": "高通将以39亿美元收购Modular 助力人工智能业务推进",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push",
+          "published_at": "2026-06-24T12:00:22+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:00:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce56e891",
+      "title": "《星际火狐》成Switch 2迄今为止最惊艳视觉展示作品",
+      "summary": "目前Switch 2推出的核心独占作品大多主打大体量设计：有开放超大大陆的竞速作品《马力欧卡丁车世界》、支持全场景破坏的《森喜刚狂潮》，还有宝可梦IP下开放创作的《Pokopia》，重制版《星际火狐》走差异化路线，成为该机迄今视觉效果最出众的展示作品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3aac13af"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3aac13af",
+          "source": "The Verge",
+          "title": "《星际火狐》成Switch 2迄今为止最惊艳视觉展示作品",
+          "link": "https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2",
+          "published_at": "2026-06-24T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd5bf736",
+      "title": "试驾Slate皮卡：不止于电动汽车极简主义",
+      "summary": "Slate汽车今日推出全新美国制造电动皮卡，该品牌押注对消费者而言，定价比绝大多数其他因素都重要。这款皮卡起售价为24950美元，符合此前承诺的价位，是目前在售最便宜的皮卡与电动汽车。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "02cf20a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "02cf20a7",
+          "source": "The Verge",
+          "title": "试驾Slate皮卡：不止于电动汽车极简主义",
+          "link": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+          "published_at": "2026-06-24T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3d51ed0c",
+      "title": "Stripe、Anthropic与OpenAI支持遏制呼吸道感染项目",
+      "summary": "普通感冒是全人群易感的常见呼吸道疾病，多数人每年都会感染多次，目前尚无有效预防手段，仅能通过补充维生素C、避开感染者应对，支付企业Stripe现已联合Anthropic、OpenAI，为这项全新的遏制呼吸道感染项目提供资金支持。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "63a3868f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "63a3868f",
+          "source": "MIT Technology Review",
+          "title": "Stripe、Anthropic与OpenAI支持遏制呼吸道感染项目",
+          "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+          "published_at": "2026-06-24T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a6df6c45",
+      "title": "面向人工智能的网络数据基础设施层兴起",
+      "summary": "当前人工智能行业蓬勃发展，每日都有新应用场景诞生。企业要挖掘AI技术潜力，需要规模化数据支撑，目前大量相关信息或是访问受限，或是处于非结构化状态，限制了AI模型的应用，这一问题需从网络基础层面着手解决。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "abc015d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "abc015d0",
+          "source": "MIT Technology Review",
+          "title": "面向人工智能的网络数据基础设施层兴起",
+          "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+          "published_at": "2026-06-24T11:59:54+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T11:59:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e46c9f1",
+      "title": "锚定目标任务 助力经济社会高质量发展——全国政协常委会会议热议高质量发展 - 新华网",
+      "summary": "全国政协十四届常委会第十七次会议召开，王沪宁主持全国政协主席会议，本次常委会会议围绕经济社会高质量发展展开热议，各方锚定目标任务，凝聚共识助力经济社会高质量发展，会议同时撤销了落马半月的魏小东全国政协委员资格。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b41e57b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b41e57b5",
+          "source": "Google News (中国)",
+          "title": "锚定目标任务 助力经济社会高质量发展——全国政协常委会会议热议高质量发展 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSThxLS1CMURSR2V0MWN0a1FiR2xRRUhONG5xMDFIa1lCWVVqT3R3NG1vQ2FvLUw2Q3lzSGNKTmdUOGhWNEtfVHhXdGpKVUo3bVZBSE9NcGh2S3pKeXJuMkZUbUZwekpjVUtwbkxGWGdnSnlxMWN4bVpXdFZ4SjdNZHVhSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T11:55:41+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T11:55:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6b10793f",
+      "title": "中国扣押两名涉嫌走私的日本公民",
+      "summary": "日本政府发布消息称，两名涉嫌走私的日本公民，于今年5月在中国东北部城市大连被中方扣押，该事件发生在当前中日两国关系紧张的背景之下。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-china-japan-htqp/24int-china-japan-htqp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "bb5a86db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "bb5a86db",
+          "source": "NYTimes World",
+          "title": "中国扣押两名涉嫌走私的日本公民",
+          "link": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+          "published_at": "2026-06-24T11:32:56+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T11:32:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b0862c2",
+      "title": "戴森PencilWash洗地机Prime会员日降至历史最低价",
+      "summary": "亚马逊Prime会员日促销期间，戴森PencilWash无线硬地板清洁洗地机直降150美元，现价仅199.99美元，创下该产品上市以来最低价，这款产品沿用戴森PencilVac系列的流畅设计，简化为专一功能电动清洁工具。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "53543f07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "53543f07",
+          "source": "The Verge",
+          "title": "戴森PencilWash洗地机Prime会员日降至历史最低价",
+          "link": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
+          "published_at": "2026-06-24T11:31:42+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T11:31:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "46c8b0ac",
+      "title": "我们最推荐亚马逊Prime会员日次日可购优惠",
+      "summary": "亚马逊为期四天的Prime会员日活动现已进入第二天，次日优惠设置和首日大致相近。这对消费者而言是好消息：多数首日的超值优惠仍可选购，同时还新增了一批全新优惠，优惠仅对Prime会员（含免费试用会员）开放。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0a27d413"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0a27d413",
+          "source": "The Verge",
+          "title": "我们最推荐亚马逊Prime会员日次日可购优惠",
+          "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+          "published_at": "2026-06-24T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b44d60d",
+      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+      "summary": "本期涵盖多领域行业资讯：豆包专业版正式上线，推出三级阶梯定价；消息称苹果将于7月下旬量产首款可折叠iPhone，按计划9月发布；华泰证券认为海外高成本支撑，远期铝价当前市场定价过于悲观，此外还有企业IPO、投融资、新产品发布及监管新规等动态。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "da7fd9cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "da7fd9cf",
+          "source": "36氪",
+          "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+          "link": "https://36kr.com/p/3867032586867972?f=rss",
+          "published_at": "2026-06-24T10:35:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T10:35:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "af574599",
+      "title": "乌克兰战争截肢者投身尾波滑水与柔术",
+      "summary": "当前乌克兰因战争导致的截肢者人数大幅飙升，许多截肢者通过共同学习新型体育运动凝聚在一起，既挑战自身身体极限，也打破了此前对个人能力的固有认知，重新探索自身潜能。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/21/multimedia/21vid-ukraine-cover-amputees-gzfk/21vid-ukraine-cover-amputees-gzfk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "436a40a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "436a40a2",
+          "source": "NYTimes World",
+          "title": "乌克兰战争截肢者投身尾波滑水与柔术",
+          "link": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+          "published_at": "2026-06-24T10:25:30+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T10:25:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "29d32ca3",
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "summary": "2026年6月，出身上海科技大学学术圈的3D生成头部企业影眸科技，宣布完成数亿元新一轮融资，本轮由凯辉基金、上海国投先导领投，老股东跟投。影眸同步发布新一代Hyper3D Rodin Gen-2.5，首次将大语言模型“先思考再生成”模式引入3D生成领域，当前C端收入已反超B端，增长迅猛。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260623/v2_23605708aefc4d699513588dbbb5eb9c@6162492_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "95a5c644"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "95a5c644",
+          "source": "36氪",
+          "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+          "link": "https://36kr.com/p/3865060112438533?f=rss",
+          "published_at": "2026-06-24T10:06:36+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T10:06:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c60a128c",
+      "title": "中核集团召开党组（扩大）会议暨学习贯彻习近平党建思想会议 - 中国核电网",
+      "summary": "中核集团召开党组（扩大）会议暨学习贯彻习近平党建思想会议。近期《习近平党建文选》第一卷、第二卷出版发行，多家权威媒体刊发相关内容，阐释习近平党建思想核心内涵，强调要把党的政治建设作为根本性建设，健全上下贯通、执行有力的组织体系。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "facfbe5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "facfbe5e",
+          "source": "Google News (中国)",
+          "title": "中核集团召开党组（扩大）会议暨学习贯彻习近平党建思想会议 - 中国核电网",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qSS1GSFR4Y18tSFNDd3lzM3ZfSmZ2amZEVmFseVg2aC0tcFVKV2Jvdkp6dVI3S0pIQ1JJU3NNZlR6RUZBWGlUd3hONXlPckxM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T09:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c009159",
+      "title": "习近平在山东德州考察 - 新华网",
+      "summary": "中共中央总书记、国家主席、中央军委主席习近平在山东德州开展考察，相关新闻由新华网发布，感兴趣的用户可前往Google新闻平台，查看新华网推出的更多头条新闻与相关观点内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "dc4feb54"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "dc4feb54",
+          "source": "Google News (中国)",
+          "title": "习近平在山东德州考察 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDl5NEVMZlp4aXRKckQ1NThkbGZjRWFUbjd2RVV2UmV4ME5qa251ZkVmUEJlYldUQ3lsX0kxbEE3cFprMFlrZnlsT2dtNnVDT1J5YXB5M2hkb01sTmdTUFVpWUpBXzVPQk1DTHduUmhOakt3YWRXeG80OXJxdklicnY1bGZ1Z0NiX0JTcmFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T09:49:21+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:49:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "819d5a7d",
+      "title": "乌克兰袭击后克里米亚最大城市陷入停电",
+      "summary": "乌克兰发起袭击后，克里米亚最大城市陷入停电状态。由莫斯科任命的塞瓦斯托波尔州长发出警告，称该市部分区域在当日傍晚之前都无法恢复供电，停电状况将持续至晚间，目前暂无更多相关后续消息披露。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "bdfab579"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bdfab579",
+          "source": "BBC World",
+          "title": "乌克兰袭击后克里米亚最大城市陷入停电",
+          "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T09:48:24+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:48:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "debb0ffd",
+      "title": "连续三年护航夏季达沃斯 岚图汽车释放高端新能源发展信号 - 中国基金报",
+      "summary": "2026年夏季达沃斯论坛在大连举办，论坛以\"确定性汇聚发展新动能\"为主题，聚焦中国发展机遇。岚图汽车已连续三年为该论坛护航，借此释放高端新能源发展信号。论坛期间，外交部欢迎各国企业来华投资，辽宁芭蕾舞团也亮相现场开展文化交流",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ea781217"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ea781217",
+          "source": "Google News (中国)",
+          "title": "连续三年护航夏季达沃斯 岚图汽车释放高端新能源发展信号 - 中国基金报",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRVE3NTU3OTJpcFBMaXNubi0xNllwVkRxRHh1cjgwMUFrbEo4RzlBMWh3X1RUdzA1UkpXQTVJT3FwVWt6RzdMb0NyWlpoS3lJT0pVd3RmdmVFWWNmVG5kakVuMzV5TlB4a21RcWNDbnphMEdlNDdOTmJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T09:24:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:24:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "008e8341",
+      "title": "巴西下一位足坛巨星会由AI发掘吗？",
+      "summary": "人工智能驱动的足球球员招募应用正在巴西逐渐普及推广，这类应用宣称可平衡足球选材的竞争环境，打破传统球探选材的诸多限制，帮助发掘更多潜在足球人才，有望为巴西找出下一位顶级足坛新星。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "d69287a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d69287a2",
+          "source": "NYTimes World",
+          "title": "巴西下一位足坛巨星会由AI发掘吗？",
+          "link": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
+          "published_at": "2026-06-24T09:01:37+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:01:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "73573940",
+      "title": "这款飞行太阳能平台可从空中提供更优质互联网服务",
+      "summary": "美国新墨西哥州企业Sceye打造的长约200英尺飞行太阳能平台，最快将于今年8月从美国西南部出发，跨太平洋抵达日本海岸后，驻留在太平洋上空约18公里处，拟依托该空中平台提供更优质的互联网服务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b8d25285"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "b8d25285",
+          "source": "MIT Technology Review",
+          "title": "这款飞行太阳能平台可从空中提供更优质互联网服务",
+          "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+          "published_at": "2026-06-24T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5607074d",
+      "title": "大大小小的挑战",
+      "summary": "1991年第一次海湾战争结束后，18岁的讲述者未参加高中毕业典礼，便前往局势一片混乱的科威特。当时当地几乎没有常规供电，仅靠发电机供电，废墟、未爆弹药随处可见，大规模油田大火在沙漠中燃烧。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f78a517c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "f78a517c",
+          "source": "MIT Technology Review",
+          "title": "大大小小的挑战",
+          "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+          "published_at": "2026-06-24T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e26ec3fd",
+      "title": "伊朗效忠派推广更广泛民族主义，不戴面纱女性也纳入其中",
+      "summary": "伊朗政府支持者正公开与据称的前异见人士建立新联系，借此推广涵盖不戴面纱女性在内的更广泛民族主义，此举意在展示自身有能力抵御来自国内外的敌对势力。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08int-iran-nationalism-02-gwhq/08int-iran-nationalism-02-gwhq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "fd23bae4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "fd23bae4",
+          "source": "NYTimes World",
+          "title": "伊朗效忠派推广更广泛民族主义，不戴面纱女性也纳入其中",
+          "link": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
+          "published_at": "2026-06-24T08:39:55+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T08:39:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9eff4960",
+      "title": "献礼建党105周年 载旗C919首次飞抵延安 - 经济参考报",
+      "summary": "为献礼中国共产党成立105周年，载旗构型的国产C919大飞机首次飞抵延安，相关报道由经济参考报发布，感兴趣的读者可前往Google新闻平台，查看经济参考报更多头条新闻与观点内容",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "ee27f0b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ee27f0b2",
+          "source": "Google News (中国)",
+          "title": "献礼建党105周年 载旗C919首次飞抵延安 - 经济参考报",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRS1BWUVEVUtXOW5NeVlJcmJEWk9YQVAwUHBBSzBTUkhCTlduR0R2ZVpYV3N1eHRubF9qOUIzWnVkTkZ4N29WNzljb0RFR1JEdnFqQ1pSNUlZVWNESFZkV241UjQtbERUUHRxZUNwTk5qbmRrd0NRaVIzWmRtVzNRYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T08:31:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T08:31:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "203db709",
+      "title": "据称遭丈夫囚禁12年的法国女子在巴基斯坦获救",
+      "summary": "近日，一名法国女子在巴基斯坦获救。当事人亚斯米娜称，她遭丈夫囚禁长达十二年，被囚期间她的五个孩子也一同被关押，一行人全程与外界切断联系，目前该事件的更多细节仍待进一步披露。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea0/live/b3378670-6fcf-11f1-8546-8f19e4fe30f4.jpg",
+      "article_ids": [
+        "890471a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "890471a2",
+          "source": "BBC World",
+          "title": "据称遭丈夫囚禁12年的法国女子在巴基斯坦获救",
+          "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-06-24T08:29:06+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T08:29:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4df8636",
+      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+      "summary": "36氪WAVES2026新浪潮大会在广州举办，本次“AI这个月、这一年、这五年”主题圆桌对话中，三家头部投资机构的合伙人，围绕AI产业发展节奏、AI Agent投资机会、物理AI落地前景、AI创业者特质等议题，分享了最新的投资思考与判断。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_238ebf0c7c0b42f4844ffa0ffeebda4d@6381723_oswg132679oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "cbcbf5db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "cbcbf5db",
+          "source": "36氪",
+          "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3866900608701449?f=rss",
+          "published_at": "2026-06-24T08:17:52+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T08:17:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "200afcd1",
+      "title": "凭借土耳其式“拥抱”，伊斯坦布尔跃升探戈之都",
+      "summary": "伊斯坦布尔拥有大量探戈学校、俱乐部，也培育出不少技艺娴熟的专业探戈舞者。如今这座城市已经获得业内认可，即便阿根廷本土的探戈大师，也承认它是全球知名的探戈目的地。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "53f911c9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "53f911c9",
+          "source": "NYTimes World",
+          "title": "凭借土耳其式“拥抱”，伊斯坦布尔跃升探戈之都",
+          "link": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+          "published_at": "2026-06-24T07:54:37+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T07:54:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ab529ac0",
+      "title": "立陶宛叫停与台当局合作 - 观察",
+      "summary": "立陶宛前总理因推动允许台当局开设所谓“台湾代表处”，坦言此举付出代价后宣布辞职，立陶宛随后进行内阁全面改组。改组后立陶宛叫停与台当局的合作谈判，此前中方因立陶宛错误对华行径已撤回外交人员，此次变动引发外界对其是否纠正错误对华路线的关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "9a8d6b09"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9a8d6b09",
+          "source": "Google News (中国)",
+          "title": "立陶宛叫停与台当局合作 - 观察",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jUmZSUUs2cndrcFhGSEI5MG5sdEcxdDZNaDBndnFOSEtxaXJSVkZhWTJWblVGcUVoQklYQW96eDJaM2UyWGdIbzZFZjVNdWp1TjdZNTZGREstR21PY083eDJIWmFCcGhFWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T07:43:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T07:43:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b59de59f",
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "summary": "36氪WAVES2026新浪潮大会举办“生命的新算法——AI+医疗”主题圆桌，AI医疗、AI制药领域的产业创业者与投资人，围绕AI对研发范式的改造、商业化路径、行业发展瓶颈展开探讨，指出AI正重构医疗研发链路，数据与跨学科认知是当前需突破的核心问题。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_55c57425ed5b4581b5aa461fdb50c2d1@6381723_oswg143131oswg1280oswg853_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "0ace5203"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "0ace5203",
+          "source": "36氪",
+          "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3866854221698313?f=rss",
+          "published_at": "2026-06-24T07:31:56+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T07:31:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "89824e7e",
+      "title": "【牢记初心使命 奋进复兴征程】弘扬西柏坡精神 走好新时代赶考路 - 光明网",
+      "summary": "多家国内主流媒体围绕“牢记初心使命 奋进复兴征程”主题，推出聚焦西柏坡的相关报道，内容涵盖西柏坡精神的传承内涵、革命老区振兴发展的新实践，重访“立规矩的地方”，强调中国共产党人赶考初心始终不变，号召弘扬西柏坡精神，走好新时代赶考路。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8f7437a2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8f7437a2",
+          "source": "Google News (中国)",
+          "title": "【牢记初心使命 奋进复兴征程】弘扬西柏坡精神 走好新时代赶考路 - 光明网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBeGJEYzJ6WnV1aUFFQTJiN2ZOYmFVZ1FvNmNZSTZqR2p3NnE2eU5qWnFFOVVLdldEN3BiTmpodEY5ajNvLUF6RV94QTc0dXF6UE43TnFLNThKUTR2ZTVLMTZPUmdVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T07:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T07:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6ba33d2d",
+      "title": "时政微观察丨从一艘小船到一个大党 - politics.people.com.cn",
+      "summary": "时政微观察丨从一艘小船到一个大党&nbsp;&nbsp;politics.people.com.cn在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a81e27e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a81e27e6",
+          "source": "Google News (中国)",
+          "title": "时政微观察丨从一艘小船到一个大党 - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85V05ZcUM2ZFBHcjVoanhxcGo1UU9qYnVUX0E4bVo5NkJYVXJ0ZUFYMGMweFRRWmptZUdmcWhMWGs1WjYwR3hmUHZrQVJsTlY0OUthSmFNeEdKV1dqbXhwbjVVRVFNODU5ZjRWak13Yzc0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-06-24T07:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T07:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "99e72dc1",
+      "title": "纳斯达克100蒸发1.3万亿美元后 科技股领涨反弹",
+      "summary": "本周前两个交易日，市场对人工智能驱动的美股上涨行情规模的担忧升温，导致纳斯达克100成分股总市值缩水近1.3万亿美元，随后美国科技股开启反弹，拉动美股主要股指回升。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inP.56fb5h2k/v1/1200x-1.jpg",
+      "article_ids": [
+        "de28c957"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "de28c957",
+          "source": "Bloomberg",
+          "title": "纳斯达克100蒸发1.3万亿美元后 科技股领涨反弹",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
+          "published_at": "2026-06-24T06:48:41+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T06:48:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "feb6f3d4",
+      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+      "summary": "36氪WAVES2026新浪潮举办主题为“2026科技的这一年：少数，即浪潮”的圆桌论坛，来自多家硬科技企业的创始人、高管，围绕具身智能的技术进展、商业化落地、全球竞争格局等议题展开探讨，分析行业机遇与挑战，展望发展方向。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_1bfb748fc2ad4e5cb8c6455bd993f82e@6381723_oswg633088oswg832oswg555_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "632d1b97"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "632d1b97",
+          "source": "36氪",
+          "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3866787672773888?f=rss",
+          "published_at": "2026-06-24T06:39:25+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T06:39:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "06e08a83",
+      "title": "市场变动过快时如何投资",
+      "summary": "上周末，科技媒体TechCrunch在洛杉矶举办StrictlyVC晚间活动，邀请到两位当前活跃在AI领域、风格直言不讳的投资人，二人在活动中的分享既生动有趣，又富有启发性，能给业内带来不少参考。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2b7f6348"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2b7f6348",
+          "source": "TechCrunch",
+          "title": "市场变动过快时如何投资",
+          "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+          "published_at": "2026-06-24T06:26:11+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T06:26:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6b3dce6f",
+      "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+      "summary": "6月24日，仙工智能在港交所上市，其上市前一日暗盘收跌超7%，上市首日股价大幅波动，早盘冲高较发行价涨超38%后回落，收盘仍涨近14%。目前它是港股估值最高的机器人新股，波动源于流通筹码少，其高估值能否支撑有待后续财报验证。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260624/v2_16a304a6303841b1aee9cfffbc91f7d2@430412560_oswg669681oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "5e61a93b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "5e61a93b",
+          "source": "36氪",
+          "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+          "link": "https://36kr.com/p/3866666733835522?f=rss",
+          "published_at": "2026-06-24T04:17:53+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T04:17:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4900a84",
+      "title": "缅甸内战已沦为人间浩劫",
+      "summary": "当前全球注意力大多集中在乌克兰、加沙、黎巴嫩的冲突上，缅甸内战长期被外界忽视，该国偏远内陆腹地的战事近来持续恶化，目前冲突的严重程度已经达到前所未有的糟糕境地，演变为一场灾难性危机。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/23/world/00int-myanmar-rebels-18-promo/00int-myanmar-rebels-18-promo-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3e21fd33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3e21fd33",
+          "source": "NYTimes World",
+          "title": "缅甸内战已沦为人间浩劫",
+          "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+          "published_at": "2026-06-24T04:01:21+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T04:01:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0f844ff7",
+      "title": "关于缅甸混乱战事须知",
+      "summary": "缅甸是东南亚国家，该国自2021年爆发战事以来，近期单月平民死亡人数创下开战以来新高，这一数据反映出当前缅甸境内局势持续动荡，不断升级的冲突正给当地普通民众的生命安全带来愈发严重的威胁。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/24int-myanmar-rebels-wtk-pzvj/24int-myanmar-rebels-wtk-pzvj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5402a8f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5402a8f0",
+          "source": "NYTimes World",
+          "title": "关于缅甸混乱战事须知",
+          "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-explained.html",
+          "published_at": "2026-06-24T04:01:06+00:00"
+        }
+      ],
+      "published_at": "2026-06-24T04:01:06+00:00",
+      "is_merged": false
+    }
+  ]
+}

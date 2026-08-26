@@ -1,0 +1,2411 @@
+{
+  "date": "2026-07-20",
+  "edition": "morning",
+  "updated_at": "2026-07-20T12:02:20.161183+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "e02fef91",
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "title_original": null,
+      "summary": "世界人工智能大会（WAIC）上海会场，诸多缺资源、缺人脉的AI初创创业者聚集在主展馆地下一层的初创专区。不少人曾有光鲜履历，如今为了生存发展，或抢展位、或见缝插针推广，拼尽全力争取融资、合作与曝光机会，道出了AI创业浪潮里底层创业者的生存现状。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3903396279125888?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T03:02:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c490ca0c",
+      "title": "伊朗战事实时更新：战事扩大 又一名美军人员阵亡",
+      "title_original": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
+      "summary": "五角大楼通报，一名美军人员在伊拉克北部处置伊朗无人机时身亡。此前约旦发生袭击事件，造成两名美军士兵死亡、一名士兵失踪，目前已在约旦发现身份不明的遗骸，相关战事正持续扩大。",
+      "summary_original": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-4PM/19mideast-live-header-1-bgqp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-20T02:58:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2eb686a1",
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "title_original": null,
+      "summary": "2026世界人工智能大会（WAIC2026）将于7月17日-20日在上海举办，当前AI行业关注点已从模型参数比拼转向落地应用与产业价值创造。36氪作为大会特别支持媒体，将通过直播对话、探展直击形式，带观众直击AI落地产业场景的最新进展。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_e32de2f0c5594d36a095422c0a59723b@6381723_oswg61886oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3903383663478403?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T02:49:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e02cc630",
+      "title": "债券收益率攀升 印度私人银行企业贷款增长",
+      "title_original": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
+      "summary": "随着债券收益率持续攀升，印度私人银行的企业贷款规模出现增长。印度银行业管理层对该国信贷需求前景持乐观态度，相当有信心认为未来一段时间印度的信贷需求将继续保持坚挺态势。",
+      "summary_original": "Managements sounded fairly confident that credit demand will hold up.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T02:44:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3bf18e85",
+      "title": "美伊敌对局势升级 大豆玉米延续涨势",
+      "title_original": "Soybeans and Corn Extend Gains as US-Iran Hostilities Escalate",
+      "summary": "美伊敌对活动升级导致中东局势紧张，推动国际原油价格大幅上涨，原油涨价进一步提升了生物燃料的市场吸引力，受此带动，大豆与玉米期货价格延续了此前的上涨走势。",
+      "summary_original": "Soybeans and corn futures extended gains as crude oil jumped after hostilities in the Middle East escalated, boosting the appeal of biofuels.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/soybeans-and-corn-extend-gains-as-us-iran-hostilities-escalate",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T02:41:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fba9dd3e",
+      "title": "卫生官员称锁定美国暴发性腹泻疫情源头的检测为假阳性",
+      "title_original": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+      "summary": "美国卫生官员表示，此前锁定美国暴发性腹泻疫情源头的检测结果实为假阳性。美国食品药品监督管理局发布最新更新显示，目前引发此次疫情的寄生虫确切来源仍未查明，疫情溯源尚无定论。",
+      "summary_original": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/42509dd0-8383-11f1-8537-c5e158f8690c.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-20T02:35:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5442aa38",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+      "title_original": null,
+      "summary": "中国低轨卫星星座正从试验验证迈向规模化商用，产业链开始探索太空基础设施的变现路径。成立不到半年、聚焦无人系统天基通算融合的初创企业星联天枢，近日完成数千万元首轮融资。其核心团队出自航天领域国家队，主打面向无人系统的通算一体服务，正推进产品研发验证。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3903365398185857?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T02:30:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bf3dc636",
+      "title": "中国交易员以2016年以来最快速度平仓杠杆押注",
+      "title_original": "Chinese Traders Unwind Leveraged Bets at Fastest Pace Since 2016",
+      "summary": "上周五，中国股票交易员平仓杠杆头寸的速度创下2015至2016年股灾以来最快纪录。市场担忧本轮由AI驱动的上涨行情已经过度，这一情绪引发全球股市暴跌，促使交易者快速平仓杠杆仓位。",
+      "summary_original": "Chinese stock traders unwound leveraged positions at the fastest pace since the 2015–2016 market crash on Friday, as fears that the AI-driven rally had become overstretched triggered a global equities rout.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-traders-unwind-leveraged-bets-at-fastest-pace-since-2016",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T02:17:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f75ee97",
+      "title": "中际旭创评估80亿美元香港上市的投资者兴趣",
+      "title_original": "Innolight Gauges Interest for $8 Billion Hong Kong Listing",
+      "summary": "据彭博新闻获取的交易条款显示，中国中际旭创正开始摸排投资者对其香港上市的需求，此次上市预计募资80亿美元，有望成为香港七年来规模最大的首次公开发售，距离上市落地更进一步。",
+      "summary_original": "China’s Zhongji Innolight Co. is starting to gauge investor demand for its Hong Kong listing, according to terms of the deal seen by Bloomberg News, bringing it a step closer to what may be the city’s largest first-time share sale in seven years.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T02:16:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a7c0f202",
+      "title": "伊朗导弹击中约旦美军基地瞬间遭曝光 - 新浪财经",
+      "title_original": null,
+      "summary": "伊朗袭击约旦境内美军基地并打死数十名美军人员，导弹击中基地的瞬间画面已曝光。事发后，美国国务院建议全球范围内美国公民提高警惕，美国前总统特朗普就此发声，称此事令人难过，还称美方正猛烈轰炸伊朗，为身亡美军报仇。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aW12d0pXaUZ6bW83SFhUWk5JakQ1WldZTnpTMDREU2pEbWR2SDQwOTIwYlBoYmVyWnlKT0diMS1mLUI3V2ZXS0NyR2VNQXRZSktXdHhpS1o1c09peGtMQl9yM0RTQ3Zja0hYSUpGcW1ndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T02:03:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "46150bf2",
+      "title": "美军袭击伊朗石油重镇周边区域 - 第一财经",
+      "title_original": null,
+      "summary": "停火失效后美伊冲突重启，美军已连续多晚袭击伊朗石油重镇周边区域。美方一方面称已有5万美军随时准备作战，将继续执行针对伊朗的海上封锁任务，另一方面表态愿意通过外交途径解决当前争端。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KQUQ2RVg1MFB3WE5xRFdDVmoyZTJxVmR4elZxNkowTDFnTkNJbThQVFBweG9rX2ZmdGhZS0RBODNUdWFZclBrOXRGZ0l5RUtxRy1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:59:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f32014e",
+      "title": "亿万富翁福雷斯特收购股权 钨矿商股价大涨",
+      "title_original": "Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake",
+      "summary": "矿业亿万富翁安德鲁·福雷斯特同意从橡树资本管理有限公司手中，收购悉尼上市钨生产商EQ资源16.8%的股权，该部分股权此前为橡树资本持有。收购消息公布后，EQ资源的股价随即迎来大幅上涨。",
+      "summary_original": "EQ Resources Ltd. shares surged after mining billionaire Andrew Forrest agreed to acquire a 16.8% stake in the Sydney-listed tungsten producer from Oaktree Capital Management LP.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T01:36:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6257c097",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "title_original": null,
+      "summary": "7月18日，在2026世界人工智能大会上，腾讯云正式发布企业级智能体开发平台ADP 4.0海外版，完成渠道、交互、生态等多维度国际化适配，目前已有多个海外落地项目，这是腾讯云向全球输出国内成熟企业级智能体能力的关键一步。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_889aa2ddb3f543e0ac25904b96326611@2057308263_oswg883734oswg1268oswg710_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3901396207584902?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:30:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b738479c",
+      "title": "学习贯彻习近平总书记“七一”重要讲话精神·坚定信心、接续奋斗（五） 持之以恒推进全面从严治党 - 南粤清风网",
+      "title_original": null,
+      "summary": "当前多家媒体围绕学习贯彻习近平总书记“七一”重要讲话精神，推出“坚定信心、接续奋斗”主题相关内容，南粤清风网聚焦持之以恒推进全面从严治党，人民日报阐释党的作风建设关乎民心的理念，中国经济网提出要坚持用严明纪律管全党治全党。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNEJHblF5alZtR05FQUF6Z0hkNW11RjNtZy1MSXN4QVYwTlRDaEZCR2UzWmdPUGRZQlhkcUVIM0hmS2Z1ZWd3MWtESHJkM2ZxUXBsRzNPZ1E0N2ZtaG9TV0ZnOGpzTUhT?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:30:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "32f4ea0f",
+      "title": "美刚埃博拉旅行限制或阻碍人道主义援助应对工作",
+      "title_original": "US, Congo Ebola Travel Restrictions May Hamper Humanitarian Aid Response",
+      "summary": "美国与刚果近日出台旨在阻止埃博拉病毒跨境传播的新旅行限制措施，援助组织和医学专家就此发出警告，称相关措施会破坏全球目前扩散速度最快的这轮埃博拉疫情的防控工作。",
+      "summary_original": "New US and Congolese travel restrictions aimed at keeping Ebola from spreading across borders are drawing warnings from aid organizations and medical experts who say the measures could undermine efforts to control the world’s fastest-growing outbreak of the virus.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-congo-ebola-travel-restrictions-may-hamper-humanitarian-aid-response",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T01:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "59643769",
+      "title": "印度卢比兑美元：汇丰为印度侨民提供FCNR(B)存款19倍杠杆",
+      "title_original": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
+      "summary": "汇丰银行推出针对印度侨民的FCNR(B)存款业务，为这款和印度卢比兑美元相关的存款产品提供19倍杠杆，面向海外印度侨民推广。近日一名从澳大利亚抵达迪拜的印度侨民，刚入境就接到了银行的相关业务招揽电话。",
+      "summary_original": "When Moumita Shome landed in Dubai from Australia last month, the calls from bankers started almost immediately.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/inr-usd-hsbc-offers-indian-diaspora-19x-leverage-on-fcnr-b-deposits",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-20T01:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4ab6a0ac",
+      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+      "title_original": null,
+      "summary": "2026年7月17日，世界人工智能大会（WAIC）在上海开幕，本届规模创纪录，展览面积超10万平方米，千余家企业参展，超300款产品全球首发。大会核心趋势为AI从概念走向落地，覆盖芯片、大模型、具身智能、各类消费AI产品，家庭场景成为具身智能落地新热点。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3902007640459145?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:20:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3ea70890",
+      "title": "挪威为2011年大屠杀遇难者开放新建纪念设施",
+      "title_original": "Norway opens new memorial for victims of 2011 massacre",
+      "summary": "在2011年挪威屠杀袭击事件即将迎来15周年纪念之际，为该事件遇难者新建的纪念艺术作品于周日在挪威首都奥斯陆正式揭幕，这一新纪念设施专门用于悼念此次事件中的遇难者。",
+      "summary_original": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-20T01:11:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c2cfff7a",
+      "title": "广西等地强降雨持续局地有大暴雨 四川盆地和新疆多地天气酷热 - 四川在线",
+      "title_original": null,
+      "summary": "四川在线发布天气信息，当前我国多地天气呈现明显分化态势，南方广西等地强降雨天气持续，局部地区将出现大暴雨；与此同时，西南四川盆地以及西北新疆多地出现大范围酷热高温天气，相关地区需做好对应灾害防范工作。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDMVhRTGNkLVAtellETVpHQlhjMENzTG9Fc1FfNU1OYXpkQlFGU3JPN0JzdEFad291WEhmM3lUeFJ6NWFtRmotNlY3Sk9RVmRXX3RZdmZsUUh3VDBlcXk3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:10:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d6942faf",
+      "title": "“黄总请你去包厢”，仅有媒体回应结果，能否完全消解网上疑问？ - 凤凰网",
+      "title_original": null,
+      "summary": "杭州一餐厅内，一名独坐女顾客遭包厢客人“黄总”反复邀约，当事人开直播自保，该事件引发全网热议，多家媒体跟进报道。目前已公布“黄总”身份，相关平台也介入处理，但仅公布结果并未完全消解公众对该事件的疑问。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3ZllfQl9PVkpsT2pINHF2Z2lJdTIwb2pnemFnTFU0MlpLaHdsVmE2cTd0QkFXMjljZVp6SUpYQ0FzT0dzVTlsWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:03:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "da6b1e76",
+      "title": "习近平对重庆彭水县山体崩塌作出重要指示 - 党建网",
+      "title_original": null,
+      "summary": "重庆彭水县发生山体崩塌后，习近平对此次灾害处置作出重要指示。目前搜救工作持续推进，120余名专家抵达现场协助救援处置，当地摩托车队伍穿梭转运救灾物资。受降雨影响，周边群众已连夜转移，多部门下发紧急通知要求排查地质灾害风险隐患。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JS3lOWDN6a0hBTnBlWGQtWGdQLXlzLWh2R19pOEZUdVdycG9GSzRaUURLZUZQUElRNjRhZk1pWklJMzBrVV9pVUVLdXNheVBWcVB3Rno3OFMwTE1uVnNWMFVQRFlLQUx0Vnh2Y1ZldG9Odw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:03:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "566ffc68",
+      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+      "title_original": null,
+      "summary": "AI公司红熊AI宣布完成数亿元人民币A+轮融资，投后估值接近30亿元，这是其创立15个月内完成的第6轮融资。本轮资金将用于AI记忆科学技术研发与市场拓展，目前红熊AI To B端四大应用场景商业化增长显著，即将推出面向C端的相关产品。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260717/v2_fb767a460fe34ffbb9cd741c2bb1c5fc@1849_oswg734318oswg1269oswg935_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3899612612494976?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4c350cee",
+      "title": "以军总参谋长：已做好对伊朗恢复战斗准备 - chinanews.com.cn",
+      "title_original": null,
+      "summary": "以色列国防军总参谋长公开表态，称以军已完成相关部署，做好了随时对伊朗恢复军事战斗的准备。这一表态让本就紧张的伊以关系进一步承压，中东地区局势不确定性大幅上升，引发国际社会对地区和平稳定的普遍担忧。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yOVRLTklWNUdocEFwQ0pXZVRZX3dUbHowbHFHQVRVZTY2WVdGQVV0X3cyb1FzS0dKV04tTUlvSGpxNTl1eUZFSF9sU3k4dzBkMkx4T3RYT2hvcjlXZ1ZoVzBFSDUwM2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T00:18:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7e2ee510",
+      "title": "早安北京0720：最高30℃；雷电、大风预警中，请注意防范 - 新京报",
+      "title_original": null,
+      "summary": "7月20日北京最高气温30℃，目前处于雷电、大风预警中，北京市已发布雷电黄色预警。当日上午北京多分散雷雨，傍晚至夜间为城区主降雨时段，局地短时雨强较大；明日起北京进入“七下八上”主汛期关键时段，下周湿度大、闷热多雨。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYWMtVlI0YnRONHhIUXhKN1JUeXA3YW5zS0hvemZzLTVibk1iYmNVMFlkRHg3WjVmai1Zdk4wRHVFa0pfZEVyOHlpZUc0dU9ObTVlMGhPQ3BJbTJ3YjF6b1dGc04?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T00:13:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aeca5ec7",
+      "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+      "title_original": null,
+      "summary": "近期上海举办2026世界人工智能大会，集中发布AI大模型、数字人、医疗AI、安全治理等多个领域成果；长鑫科技披露A股IPO网上中签号共约770.22万个，西班牙1-0击败阿根廷夺得2026世界杯冠军，AI企业月之暗面筹备最快6个月内赴港上市，另有多起财经产业动态公布。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_d3cfb4a2694940b49479c67af2c28773@5667365_oswg29245oswg1040oswg495_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3903220264404608?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-20T00:05:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0426eb26",
+      "title": "公安机关依法打击网络赌球违法犯罪 - 每日经济新闻",
+      "title_original": null,
+      "summary": "世界杯期间网络赌球涉赌活动频发，出现私设世界杯赛事外围赌博盘口等违法情形，多地公安机关依法开展打击行动，共抓获78名涉案人员，相关方面公布10起典型案例，同时提醒公众警惕赌球伪装下的算法收割违法套路。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QbG1CMC1BM2hwZmstdldGYWpZQUVyN3hCTGVrZXYtWjRMdTZEWEtreGh5dHlSQ0VCVl9BMmtDRk1GQ1BmWDRyclZkbk8xWUlfUEQ0OTI5bkpudXBMTEVwNVNtVl9PQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-20T00:01:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d3765e4d",
+      "title": "荆门石化党委：把“学查改”成果转化为特色攻坚实绩 - sinopecnews.com.cn",
+      "title_original": null,
+      "summary": "近期，荆门石化党委、南京等多地、深圳各区各部门及北京等多主体，纷纷深入开展相关学习教育，围绕树立正确政绩观、回应民生关切，推动将“学查改”等学习教育成果，转化为攻坚突破、高质量发展、为民造福的具体实绩，推动学习教育见行见效。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmV4bnBhVFF5MTJhSGRfZ1F5NzJQRXFGTlpsWWwwcDI4NHdUQVB0Rk9sR0puSlY1cDE3S3p1RkRYVFU3S05KcHJRNXM5cDk0YmIwSENOVnYzeGItaWE1R0RISDJyNmRvTG1kbFZwZ2V0a0lsV18tclZBa1hEcnp5eg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-19T23:47:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bbbe369b",
+      "title": "美伊袭击升级 油价跳涨债市下跌——市场综述",
+      "title_original": "Oil Jumps, Bonds Fall as US-Iran Attacks Escalate: Markets Wrap",
+      "summary": "美伊袭击事件升级，引发市场新一轮通胀担忧，推动油价攀升至一个多月来的最高水平，债券价格出现下跌；在上周科技股领跌的抛售潮震荡市场后，当前股市已趋于稳定。",
+      "summary_original": "Oil climbed to the highest level in more than a month and bonds fell as US and Iranian attacks escalated, renewing inflation concerns. Stocks stabilized after a technology-led selloff rattled markets last week.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-19T22:10:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51f29cbd",
+      "title": "7月20日最新石油市场新闻与分析",
+      "title_original": "Latest Oil Market News and Analysis for July 20",
+      "summary": "7月20日发布的最新石油市场消息显示，美伊两国敌对局势持续升级，周末接连发生针对霍尔木兹海峡过境船只的袭击行动，以及科威特一处关键石油设施遇袭事件，受此影响，布伦特原油价格大幅上涨。",
+      "summary_original": "Brent crude jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait over the weekend.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-19T22:02:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cdf19636",
+      "title": "谷歌与特斯拉领衔本周科技财报",
+      "title_original": "Google and Tesla Headline Tech Earnings This Week",
+      "summary": "本周迎来科技企业财报公布周期，谷歌与特斯拉的财报是本次周期中最受关注的核心内容，位列本周科技财报相关新闻的头条位置。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/newsletters/the-briefing/google-tesla-headline-tech-earnings-week",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-19T22:01:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e44301e6",
+      "title": "网飞斥资5.87亿美元收购本·阿弗莱克的AI电影制作初创公司",
+      "title_original": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "summary": "知名流媒体平台网飞近日对外披露，已出资5.87亿美元现金完成对AI电影制作初创公司InterPositive的收购，该公司由好莱坞知名影人本·阿弗莱克联合创办。",
+      "summary_original": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T21:45:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a06d71f",
+      "title": "黄仁勋访日后值得关注的动向",
+      "title_original": "What to watch for after Jensen Huang’s Japan visit",
+      "summary": "英伟达创始人黄仁勋结束日本东京之行，此行敲定了多项合作，合作范围覆盖日本整个科技生态体系。目前市场及业内都在关注，这些合作落地后将给日本科技产业乃至全球AI领域带来怎样的变化与影响。",
+      "summary_original": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T21:16:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a06d71f",
+      "title": "黄仁勋访日后值得关注的动向",
+      "title_original": "What to watch for after Jensen Huang’s Japan visit",
+      "summary": "英伟达首席执行官黄仁勋结束对日本东京的访问，此次行程中他敲定了覆盖日本整个科技生态体系的多项合作交易，行业目前普遍关注这些合作落地后，将对日本科技产业及全球半导体格局带来何种影响。",
+      "summary_original": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-19T21:16:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "626f8f68",
+      "title": "这套无法发音的字符序列是音乐人基兰·赫本（又名Four Tet）的惊艳副业项目",
+      "title_original": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "summary": "英国知名音乐人基兰·赫本（别名Four Tet）推出了一个特殊副业项目，项目名及艺名都由一系列特殊字符构成，这些字符无法发音、无法搜索，且在不同主流音乐平台上的渲染显示效果各不相同。",
+      "summary_original": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12288;&#1161;&#12288;&#12288;&#12288;&#12288;&#12288;&#865;&#12288;&#862;&#12288;&#862;&#12288;&#862;&#12288;&#1161;&#9679;&#8195;&#4032;&#8195;&#9679;&#8195;&#8195;&#4032;&#8195;&#8195;&#9679;&#12288;&",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T21:02:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "11496eba",
+      "title": "伊朗在伊拉克发动袭击致一名美军死亡一人受伤",
+      "title_original": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "两名美军士兵此前在约旦遇袭身亡，事发一天后，美国军方公布了另一起袭击事件的伤亡情况。伊朗在伊拉克境内发动袭击，造成一名美军士兵死亡，另有一名美军受伤，近期美军在中东接连发生伤亡事件。",
+      "summary_original": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-19T19:45:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e230bd34",
+      "title": "柯达EC35是一款超低价傻瓜胶片相机",
+      "title_original": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "summary": "继售价99美元的柯达联名款Snapic A1取得成功后，Reto Project推出了更亲民的柯达EC35 35mm胶片相机，售价仅34.99美元。这款相机定位入门配置简单，整体水准和普通一次性胶片相机基本相当。",
+      "summary_original": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T19:26:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "87a2e110",
+      "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+      "title_original": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "在播客《Equity》的最新一期节目中，嘉宾围绕相关议题展开辩论，探讨苹果公司的诉讼是否会给OpenAI备受热议的进军硬件领域计划以及上市计划蒙上阴影，阻碍相关计划推进。",
+      "summary_original": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T19:24:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "87a2e110",
+      "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+      "title_original": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "在最新一期财经播客《Equity》节目中，参与讨论的嘉宾围绕苹果提起的相关诉讼展开辩论，探讨该诉讼是否会对OpenAI广受外界关注的进军硬件领域、推进公司上市两大计划造成阻碍。",
+      "summary_original": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-19T19:24:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cb9931d6",
+      "title": "俄军猛攻基辅 发动俄乌战争中规模最大的导弹袭击之一",
+      "title_original": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "summary": "俄军对乌克兰首都基辅发动猛烈导弹袭击，这是俄乌战争爆发以来规模最大的导弹袭击之一。周六乌克兰对俄罗斯境内两处仓库发动打击，此次袭击造成至少八人死亡、六十二人受伤。",
+      "summary_original": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-ukraine-strikes-gpqh/19int-ukraine-strikes-gpqh-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-19T18:26:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bdd53434",
+      "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+      "title_original": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "俄罗斯对乌克兰多座城市发动大规模弹道导弹及无人机袭击，多座城市遭打击，事件目前已造成8人死亡、数十人受伤。与此同时，乌克兰方面仍在继续对俄罗斯境内基础设施发起攻击。",
+      "summary_original": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-19T18:25:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "36a7a62a",
+      "title": "载133名乘客及船员的渡轮在圭亚那沿岸沉没",
+      "title_original": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "summary": "一艘载有133名乘客与船员的渡轮在圭亚那沿岸海域沉没。当地官方消息显示，目前已有包括15名儿童在内的共67人获救，事发后仍有数十人处于失踪状态，相关后续工作正在推进中。",
+      "summary_original": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-19T18:18:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d493fea9",
+      "title": "美国本备迎接世界杯，反倒为之倾心",
+      "title_original": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "summary": "此前美国社会对能否当好世界杯东道主、迎接全球来客存有焦虑，赛事期间，堪萨斯州劳伦斯、波士顿等多座城市敞开怀抱欢迎各方来客，各方缔结下的深厚联结，时至今日仍能在美国街头清晰可见。",
+      "summary_original": "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets.",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-worldcup-assess-bcfh/19int-worldcup-assess-bcfh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-19T18:11:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b76bec5f",
+      "title": "我讨厌自己竟不讨厌这首Suno生成的歌",
+      "title_original": "I hate that I don’t hate this song made with Suno",
+      "summary": "作者并不完全反对AI应用于音乐领域，本身也是AI音乐实践者霍利·赫恩登的粉丝，但他一向认为Suno等生成式AI产出的音乐乏味得令人不适。如今他遇到一首自己不讨厌的Suno生成作品，这种反差让他一时难以消化。",
+      "summary_original": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T17:35:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b76bec5f",
+      "title": "我竟没法讨厌这首Suno生成的歌曲",
+      "title_original": "I hate that I don’t hate this song made with Suno",
+      "summary": "作者称自己并不反对AI在音乐领域应用，向来认为生成式AI创作的音乐，尤其是Suno产出的作品乏味无趣。如今他遇到一首Suno制作的歌曲，自己竟生不出厌恶情绪，对此感到难以适应。",
+      "summary_original": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-19T17:35:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4636ece1",
+      "title": "据报道FBI将不再调查涉及美国移民与海关执法局的相关案件",
+      "title_original": "The FBI reportedly won’t investigate ICE anymore",
+      "summary": "《纽约时报》称，联邦探员已接到通知，FBI将不再调查涉及美国移民与海关执法局探员的冲突事件。该消息出炉前，该局因暴力执法致两人死亡引发新一轮公众审视，美国国土安全部与司法部已向《纽约时报》否认这一政策变动。",
+      "summary_original": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T16:42:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "83117c4b",
+      "title": "TechCrunch出行：机器人出租车规则之争",
+      "title_original": "TechCrunch Mobility: The battle over robotaxi rules",
+      "summary": "TechCrunch出行是聚焦未来交通领域发展的专属内容栏目，当前人工智能在交通领域的作用愈发突出。本次栏目以机器人出租车规则之争为核心主题，关注人工智能赋能交通的背景下，新兴自动驾驶出行业态相关规则的博弈动态。",
+      "summary_original": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T16:05:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7030161f",
+      "title": "Orchid：讨喜复古易于上手的潮款合成器",
+      "title_original": "Orchid is a delightfully retro and approachable hipster synth",
+      "summary": "2017年，作者在分类信息网站克雷格列表上，以10美元的价格购入一台二手Magnus和弦风琴，这是他最喜爱的音乐器材购入之一。电和弦风琴一键即可演奏完整和弦，适合新晋创作歌手或在家休闲弹奏，这类乐器如今已基本不再流行。",
+      "summary_original": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T15:15:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "03a3c821",
+      "title": "Alphabet、SpaceX推动美国股权发售规模创纪录",
+      "title_original": "Alphabet, SpaceX Spur Record U.S. Equity Sales",
+      "summary": "消息显示，Alphabet和SpaceX推动了美国的股权发售活动，此次美国股权发售的交易规模创下了该国股权发售领域的历史新纪录",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/articles/alphabet-spacex-spur-record-u-s-equity-sales",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-07-19T15:00:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba66502f",
+      "title": "Birdfy太阳能智能喂鸟器降至史上最优价格之一",
+      "title_original": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+      "summary": "Birdfy开启年中促销活动，旗下多款智能喂鸟器最高直降四成。其中最划算的单品之一为带摄像头的Birdfy AI智能喂鸟器，当前售价降至149.99美元，为该产品上市以来第二低价格。",
+      "summary_original": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundle, which includes a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f94394e3",
+      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+      "title_original": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "知名导演克里斯托弗·诺兰日前将人工智能称作显而易见的“特洛伊木马”，他以这一经典典故比喻AI暗藏不可忽视的潜在风险，称这类风险早已昭然若揭，业内与公众都清楚AI背后暗藏的相关问题。",
+      "summary_original": "\"Everybody knows the Greeks are inside.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T14:52:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f94394e3",
+      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+      "title_original": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "执导新片《奥德赛》的知名导演克里斯托弗·诺兰，近日公开谈及人工智能议题，将其称作显而易见的“特洛伊木马”，他点明AI暗藏风险，就像藏在木马中的希腊人，所有人都清楚风险就藏在AI的表象之下。",
+      "summary_original": "\"Everybody knows the Greeks are inside.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-19T14:52:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "68dc2cf3",
+      "title": "1975乐队马蒂·希利在洛杉矶与模特加布里埃特·贝克尔完婚",
+      "title_original": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "summary": "英国乐队1975成员马蒂·希利近日在洛杉矶与模特加布里埃特·贝克尔完婚，二人最早于2023年传出恋情，在两人交往前，马蒂·希利曾与美国知名歌手泰勒·斯威夫特有过一段短暂的恋爱关系。",
+      "summary_original": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-19T14:50:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5e878a58",
+      "title": "美国法警在迈阿密逮捕泰特兄弟",
+      "title_original": "US Marshals arrest the Tate brothers in Miami",
+      "summary": "男性圈层网络红人安德鲁·泰特与特里斯坦·泰特兄弟于周六在迈阿密被美国法警逮捕，二人因英国方面提起的强奸、性贩卖新指控被捕，安德鲁·泰特涉嫌多项相关罪名，目前英国当局正寻求将二人引渡回英国。",
+      "summary_original": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing Andrew Tate include seven counts of rape, three of sex trafficking, three counts [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T14:20:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc5e7a06",
+      "title": "非营利组织Current AI争建全民免费的AI万维网",
+      "title_original": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI是一家致力于打造不落下任何一种文化的人工智能的非营利机构，目前正推进相关项目建设，已在跨设备、AI聊天等多个领域取得显著进展，目标是建成可供所有人免费使用的AI万维网。",
+      "summary_original": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-19T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc5e7a06",
+      "title": "非营利组织Current AI加紧打造面向全民免费的AI万维网",
+      "title_original": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI是一家秉持不让任何文化掉队理念的非营利人工智能开发机构，正全力打造面向全民免费开放的AI万维网，目前已在跨设备适配、AI聊天等多个领域取得显著进展。",
+      "summary_original": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-19T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "787ebfcc",
+      "title": "Clapper拍手器：一款糟糕却爆火的智能家居产品",
+      "title_original": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "summary": "主打拍手控制开关的智能家居产品Clapper，宣传中只需拍手即可切换设备通断，实际体验极差，经常识别失灵，用户往往需要调整节奏、反复多次拍手才能成功触发，尽管产品表现糟糕，却一度成为引发热议的网红爆品。",
+      "summary_original": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on. The Clapper didn't always work - and even when it did, it [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T13:28:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "74ad62f8",
+      "title": "泰特兄弟在美国被捕 英国追加指控后累计指控达59项",
+      "title_original": "Tate brothers arrested in US as further UK charges take total to 59",
+      "summary": "泰特兄弟日前在美国被捕，英国对二人追加指控后，累计对其发起的各项指控已达59项。英国皇家检察署称已就该案向美国提出引渡泰特兄弟的请求，泰特兄弟的辩护律师表示二人无罪。",
+      "summary_original": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-19T12:53:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6036ec09",
+      "title": "实体游戏未来前景不容乐观",
+      "title_original": "The future of physical games is not looking great",
+      "summary": "这是科技领域的每周通讯《The Stepback》，每期深度剖析科技圈一则核心议题，通讯于每周日美国东部时间早8点发送至订阅者邮箱，读者可注册订阅，关注作者杰伊·彼得斯可获取更多电子游戏与实体媒体相关内容，本期聚焦实体游戏发展前景。",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a kid, I relished trips to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T12:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dfe2ccfc",
+      "title": "全程630英里 仅以太阳能为动力的艰苦公路赛",
+      "title_original": "The grueling, 630-mile road race where the only fuel is sunlight",
+      "summary": "7月19日，数十支高中生组成的车队将在美国得克萨斯州开启一场为期五天、全程630英里的公路赛，赛道从沃斯堡延伸至斯托克顿堡。这场赛事不同于常规赛事，所有参赛车辆均由学生用现成零件和3D打印材料自行设计建造，仅以太阳能作为动力来源。",
+      "summary_original": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-19T11:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f2aab8ee",
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "title_original": null,
+      "summary": "在2026世界人工智能大会上，安顿健康首发两项核心成果：我国首个生命预警表标准、行业首个七诊合参AI中医机器人。依托自研完整技术体系，生命预警表可提前1至7天预警重大健康风险，中医机器人实现传统中医诊断量化升级，以AI融合中西医探索健康管理新路径。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_85bdc624ce684fc98a9d450b4b2090e5@517825446_oswg7073557oswg3004oswg1684_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3902428274427525?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-19T10:35:30+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "636234de",
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "summary": "世界人工智能大会（WAIC）上海会场，诸多缺资源、缺人脉的AI初创创业者聚集在主展馆地下一层的初创专区。不少人曾有光鲜履历，如今为了生存发展，或抢展位、或见缝插针推广，拼尽全力争取融资、合作与曝光机会，道出了AI创业浪潮里底层创业者的生存现状。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "e02fef91"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e02fef91",
+          "source": "36氪",
+          "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+          "link": "https://36kr.com/p/3903396279125888?f=rss",
+          "published_at": "2026-07-20T03:02:32+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T03:02:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "72abd7fc",
+      "title": "伊朗战事实时更新：战事扩大 又一名美军人员阵亡",
+      "summary": "五角大楼通报，一名美军人员在伊拉克北部处置伊朗无人机时身亡。此前约旦发生袭击事件，造成两名美军士兵死亡、一名士兵失踪，目前已在约旦发现身份不明的遗骸，相关战事正持续扩大。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-4PM/19mideast-live-header-1-bgqp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c490ca0c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c490ca0c",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：战事扩大 又一名美军人员阵亡",
+          "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+          "published_at": "2026-07-20T02:58:22+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:58:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3bf74b9",
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "summary": "2026世界人工智能大会（WAIC2026）将于7月17日-20日在上海举办，当前AI行业关注点已从模型参数比拼转向落地应用与产业价值创造。36氪作为大会特别支持媒体，将通过直播对话、探展直击形式，带观众直击AI落地产业场景的最新进展。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_e32de2f0c5594d36a095422c0a59723b@6381723_oswg61886oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "2eb686a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "2eb686a1",
+          "source": "36氪",
+          "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+          "link": "https://36kr.com/p/3903383663478403?f=rss",
+          "published_at": "2026-07-20T02:49:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:49:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eea455ff",
+      "title": "债券收益率攀升 印度私人银行企业贷款增长",
+      "summary": "随着债券收益率持续攀升，印度私人银行的企业贷款规模出现增长。印度银行业管理层对该国信贷需求前景持乐观态度，相当有信心认为未来一段时间印度的信贷需求将继续保持坚挺态势。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e02cc630"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e02cc630",
+          "source": "Bloomberg",
+          "title": "债券收益率攀升 印度私人银行企业贷款增长",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
+          "published_at": "2026-07-20T02:44:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:44:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e70c829",
+      "title": "美伊敌对局势升级 大豆玉米延续涨势",
+      "summary": "美伊敌对活动升级导致中东局势紧张，推动国际原油价格大幅上涨，原油涨价进一步提升了生物燃料的市场吸引力，受此带动，大豆与玉米期货价格延续了此前的上涨走势。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "3bf18e85"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3bf18e85",
+          "source": "Bloomberg",
+          "title": "美伊敌对局势升级 大豆玉米延续涨势",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/soybeans-and-corn-extend-gains-as-us-iran-hostilities-escalate",
+          "published_at": "2026-07-20T02:41:49+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:41:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "41e918dd",
+      "title": "卫生官员称锁定美国暴发性腹泻疫情源头的检测为假阳性",
+      "summary": "美国卫生官员表示，此前锁定美国暴发性腹泻疫情源头的检测结果实为假阳性。美国食品药品监督管理局发布最新更新显示，目前引发此次疫情的寄生虫确切来源仍未查明，疫情溯源尚无定论。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/42509dd0-8383-11f1-8537-c5e158f8690c.jpg",
+      "article_ids": [
+        "fba9dd3e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fba9dd3e",
+          "source": "BBC World",
+          "title": "卫生官员称锁定美国暴发性腹泻疫情源头的检测为假阳性",
+          "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-20T02:35:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:35:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6f2d43f",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+      "summary": "中国低轨卫星星座正从试验验证迈向规模化商用，产业链开始探索太空基础设施的变现路径。成立不到半年、聚焦无人系统天基通算融合的初创企业星联天枢，近日完成数千万元首轮融资。其核心团队出自航天领域国家队，主打面向无人系统的通算一体服务，正推进产品研发验证。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5442aa38"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "5442aa38",
+          "source": "36氪",
+          "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+          "link": "https://36kr.com/p/3903365398185857?f=rss",
+          "published_at": "2026-07-20T02:30:06+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:30:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "47d639fa",
+      "title": "中国交易员以2016年以来最快速度平仓杠杆押注",
+      "summary": "上周五，中国股票交易员平仓杠杆头寸的速度创下2015至2016年股灾以来最快纪录。市场担忧本轮由AI驱动的上涨行情已经过度，这一情绪引发全球股市暴跌，促使交易者快速平仓杠杆仓位。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "bf3dc636"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bf3dc636",
+          "source": "Bloomberg",
+          "title": "中国交易员以2016年以来最快速度平仓杠杆押注",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-traders-unwind-leveraged-bets-at-fastest-pace-since-2016",
+          "published_at": "2026-07-20T02:17:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:17:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "686549b4",
+      "title": "中际旭创评估80亿美元香港上市的投资者兴趣",
+      "summary": "据彭博新闻获取的交易条款显示，中国中际旭创正开始摸排投资者对其香港上市的需求，此次上市预计募资80亿美元，有望成为香港七年来规模最大的首次公开发售，距离上市落地更进一步。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4f75ee97"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4f75ee97",
+          "source": "Bloomberg",
+          "title": "中际旭创评估80亿美元香港上市的投资者兴趣",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing",
+          "published_at": "2026-07-20T02:16:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:16:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "118fc7e4",
+      "title": "伊朗导弹击中约旦美军基地瞬间遭曝光 - 新浪财经",
+      "summary": "伊朗袭击约旦境内美军基地并打死数十名美军人员，导弹击中基地的瞬间画面已曝光。事发后，美国国务院建议全球范围内美国公民提高警惕，美国前总统特朗普就此发声，称此事令人难过，还称美方正猛烈轰炸伊朗，为身亡美军报仇。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a7c0f202"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a7c0f202",
+          "source": "Google News (中国)",
+          "title": "伊朗导弹击中约旦美军基地瞬间遭曝光 - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aW12d0pXaUZ6bW83SFhUWk5JakQ1WldZTnpTMDREU2pEbWR2SDQwOTIwYlBoYmVyWnlKT0diMS1mLUI3V2ZXS0NyR2VNQXRZSktXdHhpS1o1c09peGtMQl9yM0RTQ3Zja0hYSUpGcW1ndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T02:03:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T02:03:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "43e2282c",
+      "title": "美军袭击伊朗石油重镇周边区域 - 第一财经",
+      "summary": "停火失效后美伊冲突重启，美军已连续多晚袭击伊朗石油重镇周边区域。美方一方面称已有5万美军随时准备作战，将继续执行针对伊朗的海上封锁任务，另一方面表态愿意通过外交途径解决当前争端。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "46150bf2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "46150bf2",
+          "source": "Google News (中国)",
+          "title": "美军袭击伊朗石油重镇周边区域 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KQUQ2RVg1MFB3WE5xRFdDVmoyZTJxVmR4elZxNkowTDFnTkNJbThQVFBweG9rX2ZmdGhZS0RBODNUdWFZclBrOXRGZ0l5RUtxRy1j?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T01:59:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:59:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d7f66c97",
+      "title": "亿万富翁福雷斯特收购股权 钨矿商股价大涨",
+      "summary": "矿业亿万富翁安德鲁·福雷斯特同意从橡树资本管理有限公司手中，收购悉尼上市钨生产商EQ资源16.8%的股权，该部分股权此前为橡树资本持有。收购消息公布后，EQ资源的股价随即迎来大幅上涨。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4f32014e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4f32014e",
+          "source": "Bloomberg",
+          "title": "亿万富翁福雷斯特收购股权 钨矿商股价大涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
+          "published_at": "2026-07-20T01:36:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:36:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "129bd85a",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "summary": "7月18日，在2026世界人工智能大会上，腾讯云正式发布企业级智能体开发平台ADP 4.0海外版，完成渠道、交互、生态等多维度国际化适配，目前已有多个海外落地项目，这是腾讯云向全球输出国内成熟企业级智能体能力的关键一步。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_889aa2ddb3f543e0ac25904b96326611@2057308263_oswg883734oswg1268oswg710_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "6257c097"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "6257c097",
+          "source": "36氪",
+          "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+          "link": "https://36kr.com/p/3901396207584902?f=rss",
+          "published_at": "2026-07-20T01:30:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:30:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "89498382",
+      "title": "学习贯彻习近平总书记“七一”重要讲话精神·坚定信心、接续奋斗（五） 持之以恒推进全面从严治党 - 南粤清风网",
+      "summary": "当前多家媒体围绕学习贯彻习近平总书记“七一”重要讲话精神，推出“坚定信心、接续奋斗”主题相关内容，南粤清风网聚焦持之以恒推进全面从严治党，人民日报阐释党的作风建设关乎民心的理念，中国经济网提出要坚持用严明纪律管全党治全党。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b738479c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b738479c",
+          "source": "Google News (中国)",
+          "title": "学习贯彻习近平总书记“七一”重要讲话精神·坚定信心、接续奋斗（五） 持之以恒推进全面从严治党 - 南粤清风网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNEJHblF5alZtR05FQUF6Z0hkNW11RjNtZy1MSXN4QVYwTlRDaEZCR2UzWmdPUGRZQlhkcUVIM0hmS2Z1ZWd3MWtESHJkM2ZxUXBsRzNPZ1E0N2ZtaG9TV0ZnOGpzTUhT?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T01:30:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:30:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "69b98231",
+      "title": "美刚埃博拉旅行限制或阻碍人道主义援助应对工作",
+      "summary": "美国与刚果近日出台旨在阻止埃博拉病毒跨境传播的新旅行限制措施，援助组织和医学专家就此发出警告，称相关措施会破坏全球目前扩散速度最快的这轮埃博拉疫情的防控工作。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "32f4ea0f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "32f4ea0f",
+          "source": "Bloomberg",
+          "title": "美刚埃博拉旅行限制或阻碍人道主义援助应对工作",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-congo-ebola-travel-restrictions-may-hamper-humanitarian-aid-response",
+          "published_at": "2026-07-20T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "220f5fe0",
+      "title": "印度卢比兑美元：汇丰为印度侨民提供FCNR(B)存款19倍杠杆",
+      "summary": "汇丰银行推出针对印度侨民的FCNR(B)存款业务，为这款和印度卢比兑美元相关的存款产品提供19倍杠杆，面向海外印度侨民推广。近日一名从澳大利亚抵达迪拜的印度侨民，刚入境就接到了银行的相关业务招揽电话。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "59643769"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "59643769",
+          "source": "Bloomberg",
+          "title": "印度卢比兑美元：汇丰为印度侨民提供FCNR(B)存款19倍杠杆",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/inr-usd-hsbc-offers-indian-diaspora-19x-leverage-on-fcnr-b-deposits",
+          "published_at": "2026-07-20T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "28914a79",
+      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+      "summary": "2026年7月17日，世界人工智能大会（WAIC）在上海开幕，本届规模创纪录，展览面积超10万平方米，千余家企业参展，超300款产品全球首发。大会核心趋势为AI从概念走向落地，覆盖芯片、大模型、具身智能、各类消费AI产品，家庭场景成为具身智能落地新热点。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "4ab6a0ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "4ab6a0ac",
+          "source": "36氪",
+          "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+          "link": "https://36kr.com/p/3902007640459145?f=rss",
+          "published_at": "2026-07-20T01:20:44+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:20:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02233ab8",
+      "title": "挪威为2011年大屠杀遇难者开放新建纪念设施",
+      "summary": "在2011年挪威屠杀袭击事件即将迎来15周年纪念之际，为该事件遇难者新建的纪念艺术作品于周日在挪威首都奥斯陆正式揭幕，这一新纪念设施专门用于悼念此次事件中的遇难者。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+      "article_ids": [
+        "3ea70890"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3ea70890",
+          "source": "BBC World",
+          "title": "挪威为2011年大屠杀遇难者开放新建纪念设施",
+          "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-20T01:11:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:11:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e4b0c45e",
+      "title": "广西等地强降雨持续局地有大暴雨 四川盆地和新疆多地天气酷热 - 四川在线",
+      "summary": "四川在线发布天气信息，当前我国多地天气呈现明显分化态势，南方广西等地强降雨天气持续，局部地区将出现大暴雨；与此同时，西南四川盆地以及西北新疆多地出现大范围酷热高温天气，相关地区需做好对应灾害防范工作。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "c2cfff7a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c2cfff7a",
+          "source": "Google News (中国)",
+          "title": "广西等地强降雨持续局地有大暴雨 四川盆地和新疆多地天气酷热 - 四川在线",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDMVhRTGNkLVAtellETVpHQlhjMENzTG9Fc1FfNU1OYXpkQlFGU3JPN0JzdEFad291WEhmM3lUeFJ6NWFtRmotNlY3Sk9RVmRXX3RZdmZsUUh3VDBlcXk3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T01:10:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:10:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "461b88d2",
+      "title": "“黄总请你去包厢”，仅有媒体回应结果，能否完全消解网上疑问？ - 凤凰网",
+      "summary": "杭州一餐厅内，一名独坐女顾客遭包厢客人“黄总”反复邀约，当事人开直播自保，该事件引发全网热议，多家媒体跟进报道。目前已公布“黄总”身份，相关平台也介入处理，但仅公布结果并未完全消解公众对该事件的疑问。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d6942faf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d6942faf",
+          "source": "Google News (中国)",
+          "title": "“黄总请你去包厢”，仅有媒体回应结果，能否完全消解网上疑问？ - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3ZllfQl9PVkpsT2pINHF2Z2lJdTIwb2pnemFnTFU0MlpLaHdsVmE2cTd0QkFXMjljZVp6SUpYQ0FzT0dzVTlsWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T01:03:31+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:03:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "93c9f993",
+      "title": "习近平对重庆彭水县山体崩塌作出重要指示 - 党建网",
+      "summary": "重庆彭水县发生山体崩塌后，习近平对此次灾害处置作出重要指示。目前搜救工作持续推进，120余名专家抵达现场协助救援处置，当地摩托车队伍穿梭转运救灾物资。受降雨影响，周边群众已连夜转移，多部门下发紧急通知要求排查地质灾害风险隐患。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "da6b1e76"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "da6b1e76",
+          "source": "Google News (中国)",
+          "title": "习近平对重庆彭水县山体崩塌作出重要指示 - 党建网",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JS3lOWDN6a0hBTnBlWGQtWGdQLXlzLWh2R19pOEZUdVdycG9GSzRaUURLZUZQUElRNjRhZk1pWklJMzBrVV9pVUVLdXNheVBWcVB3Rno3OFMwTE1uVnNWMFVQRFlLQUx0Vnh2Y1ZldG9Odw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T01:03:01+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:03:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15fb5c05",
+      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+      "summary": "AI公司红熊AI宣布完成数亿元人民币A+轮融资，投后估值接近30亿元，这是其创立15个月内完成的第6轮融资。本轮资金将用于AI记忆科学技术研发与市场拓展，目前红熊AI To B端四大应用场景商业化增长显著，即将推出面向C端的相关产品。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260717/v2_fb767a460fe34ffbb9cd741c2bb1c5fc@1849_oswg734318oswg1269oswg935_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "566ffc68"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "566ffc68",
+          "source": "36氪",
+          "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+          "link": "https://36kr.com/p/3899612612494976?f=rss",
+          "published_at": "2026-07-20T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ed0409b",
+      "title": "以军总参谋长：已做好对伊朗恢复战斗准备 - chinanews.com.cn",
+      "summary": "以色列国防军总参谋长公开表态，称以军已完成相关部署，做好了随时对伊朗恢复军事战斗的准备。这一表态让本就紧张的伊以关系进一步承压，中东地区局势不确定性大幅上升，引发国际社会对地区和平稳定的普遍担忧。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "4c350cee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4c350cee",
+          "source": "Google News (中国)",
+          "title": "以军总参谋长：已做好对伊朗恢复战斗准备 - chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yOVRLTklWNUdocEFwQ0pXZVRZX3dUbHowbHFHQVRVZTY2WVdGQVV0X3cyb1FzS0dKV04tTUlvSGpxNTl1eUZFSF9sU3k4dzBkMkx4T3RYT2hvcjlXZ1ZoVzBFSDUwM2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T00:18:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T00:18:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "af5da53f",
+      "title": "早安北京0720：最高30℃；雷电、大风预警中，请注意防范 - 新京报",
+      "summary": "7月20日北京最高气温30℃，目前处于雷电、大风预警中，北京市已发布雷电黄色预警。当日上午北京多分散雷雨，傍晚至夜间为城区主降雨时段，局地短时雨强较大；明日起北京进入“七下八上”主汛期关键时段，下周湿度大、闷热多雨。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "7e2ee510"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7e2ee510",
+          "source": "Google News (中国)",
+          "title": "早安北京0720：最高30℃；雷电、大风预警中，请注意防范 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYWMtVlI0YnRONHhIUXhKN1JUeXA3YW5zS0hvemZzLTVibk1iYmNVMFlkRHg3WjVmai1Zdk4wRHVFa0pfZEVyOHlpZUc0dU9ObTVlMGhPQ3BJbTJ3YjF6b1dGc04?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T00:13:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T00:13:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f6d6b82",
+      "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+      "summary": "近期上海举办2026世界人工智能大会，集中发布AI大模型、数字人、医疗AI、安全治理等多个领域成果；长鑫科技披露A股IPO网上中签号共约770.22万个，西班牙1-0击败阿根廷夺得2026世界杯冠军，AI企业月之暗面筹备最快6个月内赴港上市，另有多起财经产业动态公布。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260720/v2_d3cfb4a2694940b49479c67af2c28773@5667365_oswg29245oswg1040oswg495_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "aeca5ec7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "aeca5ec7",
+          "source": "36氪",
+          "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+          "link": "https://36kr.com/p/3903220264404608?f=rss",
+          "published_at": "2026-07-20T00:05:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T00:05:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "28d9c16f",
+      "title": "公安机关依法打击网络赌球违法犯罪 - 每日经济新闻",
+      "summary": "世界杯期间网络赌球涉赌活动频发，出现私设世界杯赛事外围赌博盘口等违法情形，多地公安机关依法开展打击行动，共抓获78名涉案人员，相关方面公布10起典型案例，同时提醒公众警惕赌球伪装下的算法收割违法套路。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0426eb26"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0426eb26",
+          "source": "Google News (中国)",
+          "title": "公安机关依法打击网络赌球违法犯罪 - 每日经济新闻",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QbG1CMC1BM2hwZmstdldGYWpZQUVyN3hCTGVrZXYtWjRMdTZEWEtreGh5dHlSQ0VCVl9BMmtDRk1GQ1BmWDRyclZkbk8xWUlfUEQ0OTI5bkpudXBMTEVwNVNtVl9PQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-20T00:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-20T00:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c7052e16",
+      "title": "荆门石化党委：把“学查改”成果转化为特色攻坚实绩 - sinopecnews.com.cn",
+      "summary": "近期，荆门石化党委、南京等多地、深圳各区各部门及北京等多主体，纷纷深入开展相关学习教育，围绕树立正确政绩观、回应民生关切，推动将“学查改”等学习教育成果，转化为攻坚突破、高质量发展、为民造福的具体实绩，推动学习教育见行见效。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "d3765e4d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d3765e4d",
+          "source": "Google News (中国)",
+          "title": "荆门石化党委：把“学查改”成果转化为特色攻坚实绩 - sinopecnews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmV4bnBhVFF5MTJhSGRfZ1F5NzJQRXFGTlpsWWwwcDI4NHdUQVB0Rk9sR0puSlY1cDE3S3p1RkRYVFU3S05KcHJRNXM5cDk0YmIwSENOVnYzeGItaWE1R0RISDJyNmRvTG1kbFZwZ2V0a0lsV18tclZBa1hEcnp5eg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-19T23:47:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T23:47:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "74752644",
+      "title": "美伊袭击升级 油价跳涨债市下跌——市场综述",
+      "summary": "美伊袭击事件升级，引发市场新一轮通胀担忧，推动油价攀升至一个多月来的最高水平，债券价格出现下跌；在上周科技股领跌的抛售潮震荡市场后，当前股市已趋于稳定。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "bbbe369b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bbbe369b",
+          "source": "Bloomberg",
+          "title": "美伊袭击升级 油价跳涨债市下跌——市场综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+          "published_at": "2026-07-19T22:10:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T22:10:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b658ef37",
+      "title": "7月20日最新石油市场新闻与分析",
+      "summary": "7月20日发布的最新石油市场消息显示，美伊两国敌对局势持续升级，周末接连发生针对霍尔木兹海峡过境船只的袭击行动，以及科威特一处关键石油设施遇袭事件，受此影响，布伦特原油价格大幅上涨。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "51f29cbd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "51f29cbd",
+          "source": "Bloomberg",
+          "title": "7月20日最新石油市场新闻与分析",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
+          "published_at": "2026-07-19T22:02:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T22:02:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "00e7d279",
+      "title": "谷歌与特斯拉领衔本周科技财报",
+      "summary": "本周迎来科技企业财报公布周期，谷歌与特斯拉的财报是本次周期中最受关注的核心内容，位列本周科技财报相关新闻的头条位置。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "cdf19636"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "cdf19636",
+          "source": "The Information",
+          "title": "谷歌与特斯拉领衔本周科技财报",
+          "link": "https://www.theinformation.com/newsletters/the-briefing/google-tesla-headline-tech-earnings-week",
+          "published_at": "2026-07-19T22:01:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T22:01:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9b5851be",
+      "title": "网飞斥资5.87亿美元收购本·阿弗莱克的AI电影制作初创公司",
+      "summary": "知名流媒体平台网飞近日对外披露，已出资5.87亿美元现金完成对AI电影制作初创公司InterPositive的收购，该公司由好莱坞知名影人本·阿弗莱克联合创办。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e44301e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e44301e6",
+          "source": "TechCrunch",
+          "title": "网飞斥资5.87亿美元收购本·阿弗莱克的AI电影制作初创公司",
+          "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+          "published_at": "2026-07-19T21:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T21:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d999b194",
+      "title": "黄仁勋访日后值得关注的动向",
+      "summary": "英伟达创始人黄仁勋结束日本东京之行，此行敲定了多项合作，合作范围覆盖日本整个科技生态体系。目前市场及业内都在关注，这些合作落地后将给日本科技产业乃至全球AI领域带来怎样的变化与影响。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3a06d71f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3a06d71f",
+          "source": "TechCrunch",
+          "title": "黄仁勋访日后值得关注的动向",
+          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "published_at": "2026-07-19T21:16:07+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T21:16:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d999b194",
+      "title": "黄仁勋访日后值得关注的动向",
+      "summary": "英伟达首席执行官黄仁勋结束对日本东京的访问，此次行程中他敲定了覆盖日本整个科技生态体系的多项合作交易，行业目前普遍关注这些合作落地后，将对日本科技产业及全球半导体格局带来何种影响。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "3a06d71f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "3a06d71f",
+          "source": "TechCrunch AI",
+          "title": "黄仁勋访日后值得关注的动向",
+          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "published_at": "2026-07-19T21:16:07+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T21:16:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1b50aa7",
+      "title": "这套无法发音的字符序列是音乐人基兰·赫本（又名Four Tet）的惊艳副业项目",
+      "summary": "英国知名音乐人基兰·赫本（别名Four Tet）推出了一个特殊副业项目，项目名及艺名都由一系列特殊字符构成，这些字符无法发音、无法搜索，且在不同主流音乐平台上的渲染显示效果各不相同。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "626f8f68"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "626f8f68",
+          "source": "The Verge",
+          "title": "这套无法发音的字符序列是音乐人基兰·赫本（又名Four Tet）的惊艳副业项目",
+          "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+          "published_at": "2026-07-19T21:02:45+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T21:02:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "892445f8",
+      "title": "伊朗在伊拉克发动袭击致一名美军死亡一人受伤",
+      "summary": "两名美军士兵此前在约旦遇袭身亡，事发一天后，美国军方公布了另一起袭击事件的伤亡情况。伊朗在伊拉克境内发动袭击，造成一名美军士兵死亡，另有一名美军受伤，近期美军在中东接连发生伤亡事件。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+      "article_ids": [
+        "11496eba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "11496eba",
+          "source": "BBC World",
+          "title": "伊朗在伊拉克发动袭击致一名美军死亡一人受伤",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-19T19:45:12+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T19:45:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "81af49a3",
+      "title": "柯达EC35是一款超低价傻瓜胶片相机",
+      "summary": "继售价99美元的柯达联名款Snapic A1取得成功后，Reto Project推出了更亲民的柯达EC35 35mm胶片相机，售价仅34.99美元。这款相机定位入门配置简单，整体水准和普通一次性胶片相机基本相当。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e230bd34"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e230bd34",
+          "source": "The Verge",
+          "title": "柯达EC35是一款超低价傻瓜胶片相机",
+          "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+          "published_at": "2026-07-19T19:26:06+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T19:26:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7afd95ab",
+      "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+      "summary": "在播客《Equity》的最新一期节目中，嘉宾围绕相关议题展开辩论，探讨苹果公司的诉讼是否会给OpenAI备受热议的进军硬件领域计划以及上市计划蒙上阴影，阻碍相关计划推进。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "87a2e110"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "87a2e110",
+          "source": "TechCrunch",
+          "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "published_at": "2026-07-19T19:24:45+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T19:24:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7afd95ab",
+      "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+      "summary": "在最新一期财经播客《Equity》节目中，参与讨论的嘉宾围绕苹果提起的相关诉讼展开辩论，探讨该诉讼是否会对OpenAI广受外界关注的进军硬件领域、推进公司上市两大计划造成阻碍。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "87a2e110"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "87a2e110",
+          "source": "TechCrunch AI",
+          "title": "苹果诉讼会打乱OpenAI的硬件计划吗？",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "published_at": "2026-07-19T19:24:45+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T19:24:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54a6267e",
+      "title": "俄军猛攻基辅 发动俄乌战争中规模最大的导弹袭击之一",
+      "summary": "俄军对乌克兰首都基辅发动猛烈导弹袭击，这是俄乌战争爆发以来规模最大的导弹袭击之一。周六乌克兰对俄罗斯境内两处仓库发动打击，此次袭击造成至少八人死亡、六十二人受伤。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-ukraine-strikes-gpqh/19int-ukraine-strikes-gpqh-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "cb9931d6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "cb9931d6",
+          "source": "NYTimes World",
+          "title": "俄军猛攻基辅 发动俄乌战争中规模最大的导弹袭击之一",
+          "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+          "published_at": "2026-07-19T18:26:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T18:26:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "79ec1bbd",
+      "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+      "summary": "俄罗斯对乌克兰多座城市发动大规模弹道导弹及无人机袭击，多座城市遭打击，事件目前已造成8人死亡、数十人受伤。与此同时，乌克兰方面仍在继续对俄罗斯境内基础设施发起攻击。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "article_ids": [
+        "bdd53434"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bdd53434",
+          "source": "BBC World",
+          "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-19T18:25:40+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T18:25:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7315049f",
+      "title": "载133名乘客及船员的渡轮在圭亚那沿岸沉没",
+      "summary": "一艘载有133名乘客与船员的渡轮在圭亚那沿岸海域沉没。当地官方消息显示，目前已有包括15名儿童在内的共67人获救，事发后仍有数十人处于失踪状态，相关后续工作正在推进中。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg",
+      "article_ids": [
+        "36a7a62a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "36a7a62a",
+          "source": "BBC World",
+          "title": "载133名乘客及船员的渡轮在圭亚那沿岸沉没",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-19T18:18:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T18:18:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7f35e89",
+      "title": "美国本备迎接世界杯，反倒为之倾心",
+      "summary": "此前美国社会对能否当好世界杯东道主、迎接全球来客存有焦虑，赛事期间，堪萨斯州劳伦斯、波士顿等多座城市敞开怀抱欢迎各方来客，各方缔结下的深厚联结，时至今日仍能在美国街头清晰可见。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-worldcup-assess-bcfh/19int-worldcup-assess-bcfh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d493fea9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d493fea9",
+          "source": "NYTimes World",
+          "title": "美国本备迎接世界杯，反倒为之倾心",
+          "link": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+          "published_at": "2026-07-19T18:11:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T18:11:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "125247fb",
+      "title": "我讨厌自己竟不讨厌这首Suno生成的歌",
+      "summary": "作者并不完全反对AI应用于音乐领域，本身也是AI音乐实践者霍利·赫恩登的粉丝，但他一向认为Suno等生成式AI产出的音乐乏味得令人不适。如今他遇到一首自己不讨厌的Suno生成作品，这种反差让他一时难以消化。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b76bec5f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b76bec5f",
+          "source": "The Verge",
+          "title": "我讨厌自己竟不讨厌这首Suno生成的歌",
+          "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+          "published_at": "2026-07-19T17:35:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T17:35:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "125247fb",
+      "title": "我竟没法讨厌这首Suno生成的歌曲",
+      "summary": "作者称自己并不反对AI在音乐领域应用，向来认为生成式AI创作的音乐，尤其是Suno产出的作品乏味无趣。如今他遇到一首Suno制作的歌曲，自己竟生不出厌恶情绪，对此感到难以适应。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b76bec5f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "b76bec5f",
+          "source": "The Verge AI",
+          "title": "我竟没法讨厌这首Suno生成的歌曲",
+          "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+          "published_at": "2026-07-19T17:35:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T17:35:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f5596a5b",
+      "title": "据报道FBI将不再调查涉及美国移民与海关执法局的相关案件",
+      "summary": "《纽约时报》称，联邦探员已接到通知，FBI将不再调查涉及美国移民与海关执法局探员的冲突事件。该消息出炉前，该局因暴力执法致两人死亡引发新一轮公众审视，美国国土安全部与司法部已向《纽约时报》否认这一政策变动。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4636ece1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4636ece1",
+          "source": "The Verge",
+          "title": "据报道FBI将不再调查涉及美国移民与海关执法局的相关案件",
+          "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+          "published_at": "2026-07-19T16:42:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T16:42:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1a5d7686",
+      "title": "TechCrunch出行：机器人出租车规则之争",
+      "summary": "TechCrunch出行是聚焦未来交通领域发展的专属内容栏目，当前人工智能在交通领域的作用愈发突出。本次栏目以机器人出租车规则之争为核心主题，关注人工智能赋能交通的背景下，新兴自动驾驶出行业态相关规则的博弈动态。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "83117c4b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "83117c4b",
+          "source": "TechCrunch",
+          "title": "TechCrunch出行：机器人出租车规则之争",
+          "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+          "published_at": "2026-07-19T16:05:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T16:05:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "51115622",
+      "title": "Orchid：讨喜复古易于上手的潮款合成器",
+      "summary": "2017年，作者在分类信息网站克雷格列表上，以10美元的价格购入一台二手Magnus和弦风琴，这是他最喜爱的音乐器材购入之一。电和弦风琴一键即可演奏完整和弦，适合新晋创作歌手或在家休闲弹奏，这类乐器如今已基本不再流行。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7030161f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7030161f",
+          "source": "The Verge",
+          "title": "Orchid：讨喜复古易于上手的潮款合成器",
+          "link": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+          "published_at": "2026-07-19T15:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T15:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b8e2088",
+      "title": "Alphabet、SpaceX推动美国股权发售规模创纪录",
+      "summary": "消息显示，Alphabet和SpaceX推动了美国的股权发售活动，此次美国股权发售的交易规模创下了该国股权发售领域的历史新纪录",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "03a3c821"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "03a3c821",
+          "source": "The Information",
+          "title": "Alphabet、SpaceX推动美国股权发售规模创纪录",
+          "link": "https://www.theinformation.com/articles/alphabet-spacex-spur-record-u-s-equity-sales",
+          "published_at": "2026-07-19T15:00:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T15:00:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2f19bc5f",
+      "title": "Birdfy太阳能智能喂鸟器降至史上最优价格之一",
+      "summary": "Birdfy开启年中促销活动，旗下多款智能喂鸟器最高直降四成。其中最划算的单品之一为带摄像头的Birdfy AI智能喂鸟器，当前售价降至149.99美元，为该产品上市以来第二低价格。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ba66502f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ba66502f",
+          "source": "The Verge",
+          "title": "Birdfy太阳能智能喂鸟器降至史上最优价格之一",
+          "link": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+          "published_at": "2026-07-19T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a22896e",
+      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+      "summary": "知名导演克里斯托弗·诺兰日前将人工智能称作显而易见的“特洛伊木马”，他以这一经典典故比喻AI暗藏不可忽视的潜在风险，称这类风险早已昭然若揭，业内与公众都清楚AI背后暗藏的相关问题。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f94394e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f94394e3",
+          "source": "TechCrunch",
+          "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+          "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "published_at": "2026-07-19T14:52:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:52:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a22896e",
+      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+      "summary": "执导新片《奥德赛》的知名导演克里斯托弗·诺兰，近日公开谈及人工智能议题，将其称作显而易见的“特洛伊木马”，他点明AI暗藏风险，就像藏在木马中的希腊人，所有人都清楚风险就藏在AI的表象之下。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f94394e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f94394e3",
+          "source": "TechCrunch AI",
+          "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是显而易见的“特洛伊木马”",
+          "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "published_at": "2026-07-19T14:52:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:52:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da6f45d8",
+      "title": "1975乐队马蒂·希利在洛杉矶与模特加布里埃特·贝克尔完婚",
+      "summary": "英国乐队1975成员马蒂·希利近日在洛杉矶与模特加布里埃特·贝克尔完婚，二人最早于2023年传出恋情，在两人交往前，马蒂·希利曾与美国知名歌手泰勒·斯威夫特有过一段短暂的恋爱关系。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
+      "article_ids": [
+        "68dc2cf3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "68dc2cf3",
+          "source": "BBC World",
+          "title": "1975乐队马蒂·希利在洛杉矶与模特加布里埃特·贝克尔完婚",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-19T14:50:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:50:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71d60d14",
+      "title": "美国法警在迈阿密逮捕泰特兄弟",
+      "summary": "男性圈层网络红人安德鲁·泰特与特里斯坦·泰特兄弟于周六在迈阿密被美国法警逮捕，二人因英国方面提起的强奸、性贩卖新指控被捕，安德鲁·泰特涉嫌多项相关罪名，目前英国当局正寻求将二人引渡回英国。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5e878a58"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5e878a58",
+          "source": "The Verge",
+          "title": "美国法警在迈阿密逮捕泰特兄弟",
+          "link": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+          "published_at": "2026-07-19T14:20:48+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:20:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ca81945",
+      "title": "非营利组织Current AI争建全民免费的AI万维网",
+      "summary": "Current AI是一家致力于打造不落下任何一种文化的人工智能的非营利机构，目前正推进相关项目建设，已在跨设备、AI聊天等多个领域取得显著进展，目标是建成可供所有人免费使用的AI万维网。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cc5e7a06"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "cc5e7a06",
+          "source": "TechCrunch",
+          "title": "非营利组织Current AI争建全民免费的AI万维网",
+          "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "published_at": "2026-07-19T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ca81945",
+      "title": "非营利组织Current AI加紧打造面向全民免费的AI万维网",
+      "summary": "Current AI是一家秉持不让任何文化掉队理念的非营利人工智能开发机构，正全力打造面向全民免费开放的AI万维网，目前已在跨设备适配、AI聊天等多个领域取得显著进展。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "cc5e7a06"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "cc5e7a06",
+          "source": "TechCrunch AI",
+          "title": "非营利组织Current AI加紧打造面向全民免费的AI万维网",
+          "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "published_at": "2026-07-19T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "09a07cea",
+      "title": "Clapper拍手器：一款糟糕却爆火的智能家居产品",
+      "summary": "主打拍手控制开关的智能家居产品Clapper，宣传中只需拍手即可切换设备通断，实际体验极差，经常识别失灵，用户往往需要调整节奏、反复多次拍手才能成功触发，尽管产品表现糟糕，却一度成为引发热议的网红爆品。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "787ebfcc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "787ebfcc",
+          "source": "The Verge",
+          "title": "Clapper拍手器：一款糟糕却爆火的智能家居产品",
+          "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+          "published_at": "2026-07-19T13:28:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T13:28:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "350fe223",
+      "title": "泰特兄弟在美国被捕 英国追加指控后累计指控达59项",
+      "summary": "泰特兄弟日前在美国被捕，英国对二人追加指控后，累计对其发起的各项指控已达59项。英国皇家检察署称已就该案向美国提出引渡泰特兄弟的请求，泰特兄弟的辩护律师表示二人无罪。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+      "article_ids": [
+        "74ad62f8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "74ad62f8",
+          "source": "BBC World",
+          "title": "泰特兄弟在美国被捕 英国追加指控后累计指控达59项",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-19T12:53:20+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T12:53:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "072e65c5",
+      "title": "实体游戏未来前景不容乐观",
+      "summary": "这是科技领域的每周通讯《The Stepback》，每期深度剖析科技圈一则核心议题，通讯于每周日美国东部时间早8点发送至订阅者邮箱，读者可注册订阅，关注作者杰伊·彼得斯可获取更多电子游戏与实体媒体相关内容，本期聚焦实体游戏发展前景。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6036ec09"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6036ec09",
+          "source": "The Verge",
+          "title": "实体游戏未来前景不容乐观",
+          "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+          "published_at": "2026-07-19T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "33297150",
+      "title": "全程630英里 仅以太阳能为动力的艰苦公路赛",
+      "summary": "7月19日，数十支高中生组成的车队将在美国得克萨斯州开启一场为期五天、全程630英里的公路赛，赛道从沃斯堡延伸至斯托克顿堡。这场赛事不同于常规赛事，所有参赛车辆均由学生用现成零件和3D打印材料自行设计建造，仅以太阳能作为动力来源。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "dfe2ccfc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dfe2ccfc",
+          "source": "The Verge",
+          "title": "全程630英里 仅以太阳能为动力的艰苦公路赛",
+          "link": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+          "published_at": "2026-07-19T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "537e1c84",
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "summary": "在2026世界人工智能大会上，安顿健康首发两项核心成果：我国首个生命预警表标准、行业首个七诊合参AI中医机器人。依托自研完整技术体系，生命预警表可提前1至7天预警重大健康风险，中医机器人实现传统中医诊断量化升级，以AI融合中西医探索健康管理新路径。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260719/v2_85bdc624ce684fc98a9d450b4b2090e5@517825446_oswg7073557oswg3004oswg1684_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "f2aab8ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f2aab8ee",
+          "source": "36氪",
+          "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+          "link": "https://36kr.com/p/3902428274427525?f=rss",
+          "published_at": "2026-07-19T10:35:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-19T10:35:30+00:00",
+      "is_merged": false
+    }
+  ]
+}

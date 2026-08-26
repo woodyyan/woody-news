@@ -1,0 +1,2393 @@
+{
+  "date": "2026-05-28",
+  "edition": "evening",
+  "updated_at": "2026-05-29T00:06:59.276027+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "1936d901",
+      "title": "Roku成功的秘诀：不玩酷",
+      "title_original": "The secret to Roku’s success: not being cool",
+      "summary": "这是科技作者扬科·勒特格斯推出的Lowpass通讯，聚焦不断发展的科技与娱乐交叉领域，每周同步供The Verge订阅用户阅读。文中提及，约十年前曾有人贬斥Roku只为美国中西部腹地的沃尔玛消费者生产廉价硬件，而这恰恰点明了Roku成功的核心逻辑。",
+      "summary_original": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Roughly 10 years ago, someone told me that Roku was making \"cheap hardware to sell to Walmart customers in flyover states.\" The remark was meant to be an insult, belittling [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T15:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6e3bf285",
+      "title": "伊朗战事实时更新：美伊相互袭击 谈判前景再受威胁",
+      "title_original": "Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations",
+      "summary": "美军称伊朗向科威特发射一枚弹道导弹，伊朗伊斯兰革命卫队表示，此次袭击是针对美方早前打击的报复行动，目标为一处未披露细节的美军基地，本次双方互击进一步威胁美伊相关谈判进程。",
+      "summary_original": "The U.S. military said Iran had launched a ballistic missile toward Kuwait. Iran’s Revolutionary Guards said it had targeted an unspecified U.S. base in retaliation for earlier strikes.",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-blog-promo/28mideast-blog-promo-mediumSquareAt3X-v3.jpg",
+      "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T15:23:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a2e859a0",
+      "title": "城堡证券：市场低估伊朗协议相关信号",
+      "title_original": "Citadel Securities Sees Markets Underpricing Signs of Iran Deal",
+      "summary": "城堡证券指出，当前投资者可能低估了霍尔木兹海峡及时重新开放的可能性。若该海峡顺利重新开放，将触发全球金融市场出现大范围的风险缓解反弹，目前市场定价并未充分反映这一事件的潜在影响。",
+      "summary_original": "Investors may be underestimating the chances of a “timely” reopening of the Strait of Hormuz triggering a broad relief rally across financial markets, according to Citadel Securities.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4X.lR7TXYq4/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/citadel-securities-sees-markets-underpricing-signs-of-iran-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T15:15:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "635e7944",
+      "title": "美伊协议消息传出 美元兑主要货币下跌",
+      "title_original": "Dollar Falls Against Major Peers on Report of US-Iran Deal",
+      "summary": "有消息显示，美国与伊朗已经就延长停火达成协议，这份协议目前正等待美国总统唐纳德·特朗普的最终批准。受这一市场消息影响，美元兑所有主要货币的汇率均出现了下跌。",
+      "summary_original": "The dollar fell against all of its major peers after a report that the US and Iran reached an agreement to extend a ceasefire, pending the approval of President Donald Trump.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDxnEuL_Wl0k/v3/1200x-1.png",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/dollar-falls-against-major-peers-on-report-of-us-iran-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T15:11:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "75551da7",
+      "title": "以色列对黎巴嫩首都发动“定点打击”",
+      "title_original": "Israel hits Lebanese capital in 'targeted strike'",
+      "summary": "上月黎以停火协议生效后，以色列与黎巴嫩真主党一直互相指责对方违反停火约定，在此之前黎巴嫩首都贝鲁特基本未受冲突波及，以色列此次对贝鲁特发动了“定点打击”。",
+      "summary_original": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2412/live/e8e37ed0-5a9b-11f1-9626-f75d5d5577d2.jpg",
+      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T15:07:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3fde392c",
+      "title": "Axios报道：美国与伊朗达成协议延长停火",
+      "title_original": "US and Iran Reach Deal to Extend Truce, Axios Reports",
+      "summary": "据彭博社消息，Axios报道称美国与伊朗已达成协议，双方将延长停火，并致力于达成终止冲突的最终协议。该消息公布后油价随即走低，相关报道由泰勒·肯德尔发布。",
+      "summary_original": "Iran and the US have reached a deal to extend a truce and work toward an agreement to end the war, Axios reported, sending oil prices lower. Tyler Kendall reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaDEPK9ZHXNM/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-28/us-and-iran-reach-deal-to-extend-truce-axios-reports-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T15:03:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ee6cd1ce",
+      "title": "德尔芬即将推进美国首个浮式液化天然气项目",
+      "title_original": "Delfin Is Close to Proceeding With First US Floating LNG Project",
+      "summary": "据知情人士透露，德尔芬中游公司即将批准美国首个浮式液化天然气出口基地建设，这将成为美国首个浮式液化天然气出口项目，目前该项目已临近最终敲定，很快将进入实质推进阶段。",
+      "summary_original": "Delfin Midstream Inc. is close to greenlighting what would be the first floating liquefied natural gas export site in the US, according to people familiar with the matter.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivah3YI1Wx1s/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/delfin-is-close-to-proceeding-with-first-us-floating-lng-project",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T15:01:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "edfb8ce0",
+      "title": "Waymo新型Ojai自动驾驶出租车将开启载客运营",
+      "title_original": "Waymo to begin passenger rides in its new Ojai robotaxi",
+      "summary": "经过数月测试，Waymo即将允许非员工乘客乘坐其重新命名为Ojai的极氪RT新款自动驾驶小巴。该服务将率先在旧金山、洛杉矶、凤凰城向选定乘客开放，行程免费，后续会逐步拓展至更多乘客与更多城市。",
+      "summary_original": "After several months of testing, Waymo is finally ready to invite non-employee passengers into its newest vehicle, the Zeekr RT minivan, which has been rebranded as Ojai. Waymo says it will begin offering \"select riders\" access in San Francisco, Los Angeles, and Phoenix, before \"gradually\" expanding to more riders and cities. Trips will be free [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "37174646",
+      "title": "这款声卡可为游戏玩家带来竞技优势",
+      "title_original": "This sound card could give gamers a competitive edge",
+      "summary": "Fosi Audio近日发布全新C3游戏声卡，该声卡为外置设备，可通过USB-C线连接电脑或笔记本，搭载专属StepSense音频增强技术，该技术由经过大量FPS音频训练的模型驱动，旨在帮助FPS玩家获得竞技优势。",
+      "summary_original": "Fosi Audio announced a new sound card today with a unique feature designed to give FPS players an advantage. The C3 Gaming Sound Card, which sits outside your PC or laptop and connects with a USB-C cable, includes the company's StepSense \"audio enhancement technology\" powered by a model that was \"trained on extensive FPS audio [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T14:55:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3d694262",
+      "title": "欧盟因允许售卖非法产品对Temu罚款2亿欧元",
+      "title_original": "EU fines Temu €200m for allowing sale of illegal products",
+      "summary": "欧盟委员会宣布，对中资在线零售平台Temu处以2亿欧元罚款，处罚原因为Temu未对平台在售的婴儿玩具、不合格充电器等非法产品的相关风险进行有效管控，放任违规商品在平台流通，违反欧盟市场合规要求。",
+      "summary_original": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b44/live/c457e920-5a82-11f1-8b8c-6d33e1d5abb6.jpg",
+      "link": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T14:54:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da6d1202",
+      "title": "安飞士突与供应商解约 重燃信贷业对大型软件的担忧",
+      "title_original": "Avis’ Shock Split With Vendor Revives Credit’s Big Software Fear",
+      "summary": "知名汽车租赁企业安飞士突然与合作供应商终止合作，这一突发变动从多方面印证了投资者对SaaS行业爆发危机的最坏预想，也重燃了信贷领域对大型软件行业信用风险的担忧，引发资本市场关注。",
+      "summary_original": "It in many ways embodies investors’ worst fears of how a SaaSpocalypse might play out.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilB3ZWZaU3xE/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/avis-shock-split-with-vendor-revives-credit-s-big-software-fear",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T14:49:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0a6709ac",
+      "title": "Odd Lots即将登陆香港",
+      "title_original": "Odd Lots Is Coming to Hong Kong",
+      "summary": "主打智力挑战的活动Odd Lots即将正式登陆中国香港地区，活动方向公众发出邀约，欢迎所有对脑力挑战感兴趣的人士前往香港参与活动，亲身参与挑战，测试自身智识水平，体验脑力比拼的乐趣。",
+      "summary_original": "Come test your wits.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL_eDeSCThJU/v12/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/odd-lots-is-coming-to-hong-kong",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T14:47:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c6659ad0",
+      "title": "别墅豪车现金：意大利查封已故黑手党头目数百万资产",
+      "title_original": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "summary": "意大利警方开展专项行动，目标是臭名昭著的已故西西里黑手党头目马泰奥·梅西纳·德纳罗的犯罪网络，本次行动查封了该头目留下的包含别墅、豪车、现金在内的价值数百万资产，有力打击了黑手党残余犯罪势力。",
+      "summary_original": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdae/live/4e668fc0-5a94-11f1-b5ae-83d5964726ad.jpg",
+      "link": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T14:47:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ae8ee80",
+      "title": "新版Siri应用提前曝光 苹果拟对标ChatGPT布局AI",
+      "title_original": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "summary": "最新曝光的渲染图展示了苹果计划为iOS 27进行的AI全面改造，涵盖重新设计的Siri交互体验，苹果还将推出独立的Siri应用，透露出苹果发力通用AI领域、对标ChatGPT的业务发展规划。",
+      "summary_original": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:45:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5ae8ee80",
+      "title": "全新Siri应用曝光：苹果计划对标ChatGPT布局AI",
+      "title_original": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "summary": "最新曝光的渲染图，进一步展示了苹果计划为iOS 27推进的全面AI升级，内容涵盖重新设计的Siri交互体验，以及推出独立的Siri应用，透露出苹果对标ChatGPT发力AI领域的规划。",
+      "summary_original": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:45:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55020e1a",
+      "title": "美媒：美伊代表已就谅解备忘录达成一致 仍需特朗普批准 - 新华网",
+      "title_original": null,
+      "summary": "综合多家媒体消息，美伊代表已就谅解备忘录达成一致，该协议仍需特朗普批准。特朗普曾透露伊朗非常希望达成协议结束冲突，但白宫此前斥协议草案纯属捏造，特朗普也称对谈判进程不满意，相关消息传出后油价直线跳水。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Z1RjOVc4Ti10bW5XR0tPNUx5N3pvYnk5QWpETDROaVo2ZU1FLTBXMUtKUURSWUxaWDhxcmJTUExrLTBwUE1RU1RPME1iMmk0bWpNbHRqRkItRHhhUmxHT0pIenpEWVcwQXF2ajJoZ0VUanRJQmxhSzRwdzNBNEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-28T14:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d8e51293",
+      "title": "美伊临近和平还是滑回战争？",
+      "title_original": "Are US and Iran close to peace or sliding back to war?",
+      "summary": "美国与伊朗近期发生最新一轮互击行动，引发国际社会对双方局势走向的高度关注。目前双方均无意重回全面冲突，但两国关系未来究竟会走向和平还是滑回战争，仍存在不确定性。",
+      "summary_original": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
+      "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T14:42:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b87d30ca",
+      "title": "Rivian因R1车型后悬架故障遭调查",
+      "title_original": "Rivian under investigation over rear suspension failures on R1 models",
+      "summary": "电动汽车品牌Rivian正因旗下R1系列车型后悬架故障接受调查，目前已发生至少两起相关事故，涉事车辆均因悬架关键部件断裂导致车主失控，且两辆涉事车辆此前都接受过维修服务。",
+      "summary_original": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:41:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5dd8b5fd",
+      "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+      "title_original": "These new iOS 27 renders hint at Siri’s big redesign",
+      "summary": "苹果期待已久的Siri改版预计将随iOS 27推出，彭博社基于掌握的相关信息放出iOS 27预览效果图，曝光新版Siri整体风格接近ChatGPT，还融入了液态玻璃设计，同时展示了Siri全新的应用与聊天界面。",
+      "summary_original": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T14:33:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5dd8b5fd",
+      "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+      "title_original": "These new iOS 27 renders hint at Siri’s big redesign",
+      "summary": "苹果筹备已久、广受期待的Siri改版预计将随iOS 27推出，彭博社依据掌握的相关信息发布了iOS 27预览效果图，显示新版Siri或融合ChatGPT风格与液态玻璃设计，配备全新应用及聊天界面。",
+      "summary_original": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:33:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ec483fb",
+      "title": "RSI成为新AGI，同样难以清晰界定",
+      "title_original": "RSI is the new AGI — and it’s just as hard to pin down",
+      "summary": "当前一批新兴人工智能实验室正聚焦研发递归自我改进技术（RSI），这一方向被称作新的通用人工智能（AGI），它和AGI一样难以清晰界定，其研发目标目前也被证明难以把握，难以落地实现。",
+      "summary_original": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:30:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ec483fb",
+      "title": "RSI成为下一个AGI，同样难以准确定义",
+      "title_original": "RSI is the new AGI — and it’s just as hard to pin down",
+      "summary": "一批新兴人工智能实验室正聚焦于递归自我改进（RSI）的研发，这一方向被视作AI领域继通用人工智能（AGI）之后的新热点。和AGI类似，RSI本身难以清晰界定，想要实现这一研发目标也被证明极具挑战性，目前难以落地。",
+      "summary_original": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:30:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7dac4f0c",
+      "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易失败原因",
+      "title_original": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人围绕企业AI议题分享观点。当前企业AI已进入全新发展阶段，企业不再评估AI是否具有吸引力，转而重点评估大规模部署AI的安全性。",
+      "summary_original": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7dac4f0c",
+      "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易败因",
+      "title_original": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人探讨了影响企业AI交易达成的相关问题，指出当前企业AI已进入全新发展阶段，企业不再评估AI是否具有吸引力，转而将评估重点放在大规模部署AI的安全性上。",
+      "summary_original": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0c15b542",
+      "title": "YouTube新增多项播客功能，含AI推荐工具与“自动调速”",
+      "title_original": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "summary": "YouTube推出包含人工智能推荐工具、“自动调速”在内的多项全新播客功能。本次更新是该平台持续发力，抢夺播客受众，与业内其他平台展开竞争的最新布局。",
+      "summary_original": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:28:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0c15b542",
+      "title": "YouTube新增多项播客功能，含AI推荐工具及\"自动调速\"",
+      "title_original": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "summary": "YouTube推出多项全新播客功能，涵盖人工智能推荐工具以及\"自动调速\"功能。此次更新表明，YouTube正持续发力布局播客领域，与其他同类平台争夺播客受众市场。",
+      "summary_original": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:28:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2fb9701b",
+      "title": "需求火爆，创业战场200申请截止日期延至6月8日",
+      "title_original": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
+      "summary": "科技媒体TechCrunch因收到全球各地创始人的大量申请需求，已将创业战场200的申请截止日期延长至6月8日，目前相关方可提名表现突出的初创企业，也可提交自身创业项目参与申请。",
+      "summary_original": "After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:15:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f480aff0",
+      "title": "CNN起诉Perplexity逐字抄袭旗下文章",
+      "title_original": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+      "summary": "CNN周四向美国纽约法院提起诉讼，起诉AI初创企业Perplexity，称该公司旗下AI工具逐字抄袭自身原创报道内容，还向用户提供CNN付费订阅墙后方可解锁的内容，涉嫌侵权，Perplexity主打AI问答引擎服务。",
+      "summary_original": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T14:08:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f480aff0",
+      "title": "CNN起诉Perplexity逐字抄袭其文章",
+      "title_original": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+      "summary": "CNN近日对AI初创公司Perplexity提起诉讼，该案已于周四递交至纽约法院。CNN指控，Perplexity的AI工具逐字抄袭其原创内容，还向普通用户提供原本仅对CNN付费订阅用户开放的受限内容。",
+      "summary_original": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:08:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb47c985",
+      "title": "倒计时2天：2026年TechCrunch Disrupt大会购票最高可省410美元",
+      "title_original": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "summary": "2026年TechCrunch Disrupt大会的购票优惠将于明日（太平洋时间5月29日23:59）截止，目前购票最高可节省410美元。大会将于10月13日至15日在旧金山举办，预计将有超过一万名科技领袖参会。",
+      "summary_original": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ebb7ad59",
+      "title": "维萨投资Replit 为开发者赋能智能代理支付",
+      "title_original": "Visa invests in Replit to power agentic payments for developers",
+      "summary": "全球支付巨头维萨宣布投资开发平台Replit，旨在为开发者提供智能代理支付相关服务。目前维萨已有超过一千名员工长期使用Replit，开展产品原型设计与软件开发工作。",
+      "summary_original": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "156bfc90",
+      "title": "这些是我最喜爱的Switch 2配件",
+      "title_original": "These are my favorite Switch 2 accessories",
+      "summary": "任天堂Switch 2开箱即可使用，但搭配合适配件能获得更好的使用体验。不同配件的重要程度各不相同，用户在新机入手初期选购配件时，部分配件优先级很高，例如保护壳与屏幕保护膜，能够避免主机受到刮擦损伤。",
+      "summary_original": "The Nintendo Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scratches, and [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5a825b3a",
+      "title": "Rivian软件主管认为车主无需CarPlay与物理按键",
+      "title_original": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+      "summary": "本次对话对象为Rivian首席软件官瓦西姆·本赛义德，他同时兼任Rivian与大众汽车合资成立的平台项目RV Tech的联合首席执行官。该合资项目启动于约一年半前，大众汽车已为其投入近60亿美元，瓦西姆负责该项目核心业务。",
+      "summary_original": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bb47c985",
+      "title": "倒计时2天：锁定2026年TechCrunch Disrupt大会门票最高可省410美元",
+      "title_original": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "summary": "2026年TechCrunch Disrupt科技大会的门票优惠将于太平洋时间5月29日23点59分截止，本次优惠最高可省410美元。大会将于10月13日至15日在旧金山举办，将有超一万名科技领袖参会，有意者需尽快注册。",
+      "summary_original": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ebb7ad59",
+      "title": "维萨投资Replit 为开发者赋能智能体支付",
+      "title_original": "Visa invests in Replit to power agentic payments for developers",
+      "summary": "支付巨头维萨投资开发平台Replit，旨在为开发者提供智能体支付相关能力支持。目前已有超一千名维萨员工使用Replit开展产品原型设计与开发工作，双方将合力探索面向开发者群体的支付创新服务。",
+      "summary_original": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5a825b3a",
+      "title": "Rivian软件主管认为用户不需要CarPlay与实体按键",
+      "title_original": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+      "summary": "本次采访对象为Rivian首席软件官瓦西姆·本赛义德，他同时兼任Rivian与大众合资成立的平台企业RV Tech的联合首席执行官。该合资项目约一年半前启动，大众投入近60亿美元，瓦西姆负责该合资平台相关业务。",
+      "summary_original": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "62bc7077",
+      "title": "有报道称美伊达成延长停火协议 美国国债上涨",
+      "title_original": "Treasuries Rise After Reported US-Iran Deal to Extend Truce",
+      "summary": "有报道称美国与伊朗达成协议，双方将延长停火并致力于结束已持续三个月的战事。这场战事已引发由油价驱动的通胀大幅攀升，受该消息影响，美国国债价格出现上涨。",
+      "summary_original": "Treasuries rose after a report that the US and Iran reached an agreement to extend a truce and work toward an end to a three-month war that’s ignited an oil-driven surge in inflation.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0bxXcaUPimM/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/treasuries-oil-driven-selloff-stalls-as-inflation-gauge-slows",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T13:59:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fd83a9b4",
+      "title": "五年改造城镇老旧小区11.5万个，新规划推动城市更新内涵式发展 - 第一财经",
+      "title_original": null,
+      "summary": "国务院印发《城市更新“十五五”规划》，明确到2030年城市更新行动取得重要进展，城市开发建设方式转型初见成效。过去五年我国已改造城镇老旧小区11.5万个，目前今年首批1321个城市更新项目已发布，新规划将推动城市更新实现内涵式发展。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWUhnSXhmbXJBbFJoeE85QzdwSldac19WaTVQRGhJUlByTlhFaFppWnVHTm9NbWRQRm5EQm5GWGZYSl93ekZCYVJIRmlGYzRWUUhz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-28T13:35:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2bc49c96",
+      "title": "俄罗斯油轮改道 古巴错失燃油补给机会",
+      "title_original": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
+      "summary": "一艘原定搭载燃油前往古巴的俄罗斯油轮改变了航行路线。目前古巴正因美国石油封锁陷入燃油紧缺困境，这批燃油对古巴而言是救命补给，此次油轮改道对古巴来说是一次沉重打击。",
+      "summary_original": "A Russian tanker seemingly en route to Cuba with a lifeline of fuel has changed direction, a painful development for the island suffering under a U.S. oil blockade.",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-cuba-tanker-photo-vblm/28int-cuba-tanker-photo-vblm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T13:33:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5d8d02a0",
+      "title": "警方搜查政党办公室后 西班牙首相压力陡增",
+      "title_original": "Pressure Grows on Spain’s Leader After Police Search His Party Office",
+      "summary": "西班牙首相佩德罗·桑切斯所属政党被一名法官指控存在腐败行为，警方随后对该政党的办公场所展开搜查，目前桑切斯遭遇的压力持续攀升，要求他辞职的呼声不断高涨。",
+      "summary_original": "After a judge accused his party of corruption, Prime Minister Pedro Sánchez of Spain has faced mounting calls to resign.",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-spain-sanchez-01-ztpk/28int-spain-sanchez-01-ztpk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/europe/spain-sanchez-socialist-party-raid.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T13:32:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "10a59159",
+      "title": "战争如何塑造乌克兰街头风格",
+      "title_original": "How Ukraine’s Street Style Is Shaped by the War",
+      "summary": "在乌克兰首都基辅，充满军事元素的穿搭如今随处可见。无论是当地军人还是普通平民都表示，这类军旅风街头穿搭并非一时兴起的潮流，而是乌克兰人表达团结意志、展现对国家支持的方式。",
+      "summary_original": "In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/00int-ukraine-clothes-02-promo/00int-ukraine-clothes-02-mght-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T13:30:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c673d6c5",
+      "title": "特朗普呼吁扩大亚伯拉罕协议令中东困惑",
+      "title_original": "The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords",
+      "summary": "特朗普提出，应要求更多国家承认以色列，并将此作为结束与伊朗战事协议的一部分，以此扩大亚伯拉罕协议。中东对这一呼吁困惑不已，分析人士指出，该提议落实的可能性几乎为零。",
+      "summary_original": "The president said more countries should be required to recognize Israel as part of a deal to end the war with Iran. Analysts say the chances of that happening are close to zero.",
+      "image": "https://static01.nyt.com/images/2026/05/27/multimedia/00int-trump-abraham-01-kzlg/00int-trump-abraham-01-kzlg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T13:26:42+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7d6581b5",
+      "title": "美国司法部对指控特朗普的E·让·卡罗尔展开刑事调查",
+      "title_original": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
+      "summary": "E·让·卡罗尔是美国前专栏作家，她曾起诉美国前总统特朗普。美国司法部已对卡罗尔启动刑事调查，本次调查的核心问题是，卡罗尔是否就自己发起该民事诉讼时所获资助一事作了虚假陈述。",
+      "summary_original": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39e/live/f4ac3830-5a8a-11f1-b682-cf91850925ea.jpg",
+      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T13:20:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a6e9475c",
+      "title": "多地宣布中高考考试期间全城禁噪 营造安静迎考环境 - 中华网",
+      "title_original": null,
+      "summary": "临近中高考，南京、阜阳、济南等国内多地发布通告，明确将在中高考考试期间实施全城禁噪管控，以此为考生营造安静舒适的迎考环境，其中济南槐荫区城管局还举办了“守护静夜”执法开放日活动，推进相关禁噪工作落实。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USmZhQVh2Qjhjcy1URXJHcnk3aEtob01DRlFic28xSTl2UFRRaUNoRmp6QTh5VzhqSDFzUzgxQjJrdDBtaFpBb29hT0czdVgteWlWakY1OGp5OWVUeWFOZ1NJZzhVbEV5azVtX0hrbzI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-28T13:20:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88da8815",
+      "title": "视频丨“三夏”抢收正值汛期，如何科学开展“龙口夺粮”？ - 西部网",
+      "title_original": null,
+      "summary": "当前“三夏”大规模小麦机收已全面展开，抢收工作正值汛期，需科学开展“龙口夺粮”。目前多地已推出多项夏收保障举措，升级“麦客之家”为作业人员提供免费食宿、维修、路线规划等服务，部分地区强化气象保障，全力防范强降水影响，保障夏收进度。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RLVlJNUV2dkprV1daSXRWeF9EcGFpVU9yQ09Lak5CSjNINEZUWU4yTEpDN2tWblkyRnlkS3N6eVhKMXJTclBTdHIwbGNYc3hfalkxU0JWLVVwRno3ZkpTdkRxRDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-28T13:02:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "178b4659",
+      "title": "AI算力争夺战是否已挖出下一个思睿博？",
+      "title_original": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "summary": "随着人工智能产业快速发展，全球对AI算力的需求暴涨，资本与产业界都在AI芯片赛道搜寻下一个领军企业。通用计算公司General Compute押注，AI芯片厂商SambaNova将成为下一个成功突围的芯片制造商。",
+      "summary_original": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "85b25c4b",
+      "title": "高通承诺推出搭载新款骁龙C的300美元Windows笔记本",
+      "title_original": "Qualcomm promises $300 Windows laptops with new Snapdragon C",
+      "summary": "在内存荒尚未缓解、PC价格持续上涨的当下，高通宣布今年其Arm架构Windows笔记本售价将下探至300美元，该低价产品将搭载全新入门平台骁龙C，此前该类笔记本售价已从千元级逐步降至600美元。",
+      "summary_original": "They started at $1,000. Then $700. Then $600 budget machines. Now, Qualcomm says the price of its Arm-based Windows laptops will hit $300 this year. Even though RAMageddon has yet to subside and PC prices keep climbing, the company says it's built a new budget laptop platform called Snapdragon C - \"C\" as in \"Compute\" [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e0939584",
+      "title": "英特尔首款掌机游戏芯片Arc G3问世 宏碁将采用该芯片",
+      "title_original": "Intel’s first handheld gaming chip is the Arc G3, and this Acer is using it",
+      "summary": "英特尔此前几乎未涉足掌机游戏PC领域，在首款合作产品微星Claw碰壁、后续推出改良款MSI Claw 8 AI Plus后，英特尔决定打造定制掌机游戏芯片，近日正式对外发布了该系列首款芯片Arc G3。",
+      "summary_original": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today, it's formally announcing them as the Arc G3 [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0c5a7447",
+      "title": "小米17T Pro登场 搭载小米迄今最大电池",
+      "title_original": "Xiaomi 17T Pro arrives with the company’s biggest battery yet",
+      "summary": "小米发布17T与17T Pro两款机型，为小米17系列旗舰的平价衍生机型。延续T系列定位，两款机型侧重性能而非摄影，配备小米目前在海外推出机型中最大的电池，其中17T搭载6500mAh硅碳电池。",
+      "summary_original": "Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries Xiaomi has included on any of its phones outside China yet. The 17T includes a 6,500mAh silicon-carbon battery, while the 17T [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9a8a54cf",
+      "title": "阿根廷各省进军联邦政府避开的全球债券市场",
+      "title_original": "Argentine Provinces Tap Global Markets That Sovereign Avoids",
+      "summary": "受投资者对阿根廷2027年大选的担忧情绪影响，阿根廷联邦政府目前仅在本土市场发行短期债务，未涉足全球债券市场；该国各省份正以近十年来最快的速度进入全球债券市场开展融资活动。",
+      "summary_original": "Argentine provinces are tapping global bond markets at the fastest pace in nearly a decade, even as the federal government sticks to short-term debt in the local market amid investor fears over the 2027 elections.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2y2NR1Lc1N4/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/argentine-provinces-tap-global-markets-that-sovereign-avoids",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "178b4659",
+      "title": "竞逐AI算力，是否发掘出下一个Cerebras？",
+      "title_original": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "summary": "随着人工智能产业快速发展，全球AI算力需求持续攀升，AI芯片赛道成为资本布局的热门领域。投资机构General Compute押注AI芯片企业SambaNova，认为其将成为下一个成功突围的知名芯片制造商，这一布局引发业内广泛关注。",
+      "summary_original": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3f8d1d1f",
+      "title": "肯尼亚一学校火灾致16名小学生死亡",
+      "title_original": "Sixteen pupils killed in Kenya school fire",
+      "summary": "肯尼亚一所学校发生火灾事故，事故造成16名小学生死亡，另有数十人在此次火灾中受伤，目前火灾的具体起因尚不明确，相关方面尚未公布起火原因的相关调查进展。",
+      "summary_original": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444e/live/fe58c650-5a8f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T12:24:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a5d5bcf8",
+      "title": "上海一教师多次猥亵女生，校领导未履行强制报告被处分 - 羊城晚报",
+      "title_original": null,
+      "summary": "最高检发布十起涉未成年人典型案例，涵盖多类侵害未成年人权益案件：上海一中学教师多次猥亵多名女生，该校书记、校长未履行强制报告义务，仅对涉事教师做出口头警告，最终二人也被处分，案例还涉及未成年人组团贩毒、少年黑客非法获利获刑等案件。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jd2lVS1prRXRpRDh4aVlEOG5PVjE1OUx1VG9aal9TdXJYLTd1SlJKd2VzTTBWV2FQZHo1Y3oxMGdRQW9JMS14WXFCWFNSOEo3a2lZM1Z3SzJKSENGR2ltejdLZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-05-28T12:22:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a0ea2adf",
+      "title": "美国科技亿万富翁彼得·蒂尔在阿根廷觅得避居之所",
+      "title_original": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+      "summary": "美国科技亿万富翁彼得·蒂尔已在阿根廷落地扎根，开启新生活。据悉，他选择迁居阿根廷，部分原因是对美国未来发展心存担忧，同时他与阿根廷右翼领导人理念相合，多方面因素促使他做出这一选择。",
+      "summary_original": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/00int-argentina-thiel01-photo-tfzh/00int-argentina-thiel01-photo-tfzh-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T12:22:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "da1f18f7",
+      "title": "肯尼亚一学校宿舍火灾致至少16人死亡",
+      "title_original": "Fire at School Dormitory in Kenya Kills at Least 16",
+      "summary": "肯尼亚一所学校的宿舍突发火灾，事故目前已造成至少16人死亡，另有79名学生受伤。这是近年来肯尼亚国内发生的一系列致命校园火灾中的最新一起，该国近年已多次发生同类恶性校园火灾事故。",
+      "summary_original": "Another 79 students were injured in the blaze, which was the latest in a series of deadly fires at schools in the country in recent years.",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-kenya-school-01-jwqz/28int-kenya-school-01-jwqz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-05-28T12:18:30+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b2046d61",
+      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "title_original": null,
+      "summary": "5月27日，港股快手公布2026年一季度财报，实现营收337亿元同比增长3.4%，平均月活跃用户达7.72亿刷新历史新高；广告、电商业务双位数增长对冲直播收入下滑，旗下可灵AI一季度收入超6.5亿元同比增超300%，商业化提速，成为公司第二增长曲线，基本面韧性凸显。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260528/v2_15fa0461deea48a2a5310cd0613c8ec7@5679941_oswg186275oswg1080oswg567_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3828915666441090?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-28T12:17:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7e0a41b0",
+      "title": "《每日速递》：气候科技上市 AI炒作指数回归",
+      "title_original": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "这是面向工作日推出的科技资讯通讯《每日速递》最新一期，聚焦全球科技领域最新动态。当前多家气候科技企业正集中上市，今年2月太阳能电池企业Solv Energy上市，估值达60亿美元，小型模块化核反应堆开发商X能源也紧随其后上市。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-05-28T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "83c1260e",
+      "title": "Oura推出第五代指环 设计更轻薄 起售价399美元",
+      "title_original": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+      "summary": "可穿戴品牌Oura发布新款第五代指环，新品相较上一代体积缩小40%，整体设计更加轻薄，还搭载了精度更高的传感器，同时优化提升了电池续航能力，该新品起售价为399美元。",
+      "summary_original": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-05-28T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b185be40",
+      "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+      "title_original": null,
+      "summary": "5月28日，雷神联合AMD在北京发布业内首批覆盖塔式、迷你PC、移动三大形态的全场景AI工作站产品矩阵，依托AMD全层级芯片算力支撑，可适配多元场景不同AI算力需求，发布会还联合多家厂商启动AI产业联盟，协同推进AI算力落地。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260528/v2_414fa11d751b413191ef513f785305eb@517825446_oswg7914328oswg6000oswg2160_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3828898785858185?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-05-28T11:57:48+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b891ea32",
+      "title": "伊朗称在美国新一轮空袭后打击美军基地",
+      "title_original": "Iran says it targeted American base after fresh US strikes",
+      "summary": "伊朗宣布在美国发动新一轮空袭后，对一处美军基地实施了打击。此次敌对行动发生之际，美伊双方正处于脆弱停火阶段，同时也在展开长期谈判，以期结束这场已经持续三个月的冲突。",
+      "summary_original": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccc/live/6b387cc0-5a9f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-05-28T11:52:10+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "0e9b3270",
+      "title": "Roku成功的秘诀：不玩酷",
+      "summary": "这是科技作者扬科·勒特格斯推出的Lowpass通讯，聚焦不断发展的科技与娱乐交叉领域，每周同步供The Verge订阅用户阅读。文中提及，约十年前曾有人贬斥Roku只为美国中西部腹地的沃尔玛消费者生产廉价硬件，而这恰恰点明了Roku成功的核心逻辑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "1936d901"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "1936d901",
+          "source": "The Verge",
+          "title": "Roku成功的秘诀：不玩酷",
+          "link": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
+          "published_at": "2026-05-28T15:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3fd2f8fc",
+      "title": "伊朗战事实时更新：美伊相互袭击 谈判前景再受威胁",
+      "summary": "美军称伊朗向科威特发射一枚弹道导弹，伊朗伊斯兰革命卫队表示，此次袭击是针对美方早前打击的报复行动，目标为一处未披露细节的美军基地，本次双方互击进一步威胁美伊相关谈判进程。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-blog-promo/28mideast-blog-promo-mediumSquareAt3X-v3.jpg",
+      "article_ids": [
+        "6e3bf285"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6e3bf285",
+          "source": "NYTimes World",
+          "title": "伊朗战事实时更新：美伊相互袭击 谈判前景再受威胁",
+          "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+          "published_at": "2026-05-28T15:23:03+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:23:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9dae5fa",
+      "title": "城堡证券：市场低估伊朗协议相关信号",
+      "summary": "城堡证券指出，当前投资者可能低估了霍尔木兹海峡及时重新开放的可能性。若该海峡顺利重新开放，将触发全球金融市场出现大范围的风险缓解反弹，目前市场定价并未充分反映这一事件的潜在影响。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4X.lR7TXYq4/v0/1200x-1.jpg",
+      "article_ids": [
+        "a2e859a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a2e859a0",
+          "source": "Bloomberg",
+          "title": "城堡证券：市场低估伊朗协议相关信号",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/citadel-securities-sees-markets-underpricing-signs-of-iran-deal",
+          "published_at": "2026-05-28T15:15:41+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:15:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4230c6fd",
+      "title": "美伊协议消息传出 美元兑主要货币下跌",
+      "summary": "有消息显示，美国与伊朗已经就延长停火达成协议，这份协议目前正等待美国总统唐纳德·特朗普的最终批准。受这一市场消息影响，美元兑所有主要货币的汇率均出现了下跌。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDxnEuL_Wl0k/v3/1200x-1.png",
+      "article_ids": [
+        "635e7944"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "635e7944",
+          "source": "Bloomberg",
+          "title": "美伊协议消息传出 美元兑主要货币下跌",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/dollar-falls-against-major-peers-on-report-of-us-iran-deal",
+          "published_at": "2026-05-28T15:11:35+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:11:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "de40be37",
+      "title": "以色列对黎巴嫩首都发动“定点打击”",
+      "summary": "上月黎以停火协议生效后，以色列与黎巴嫩真主党一直互相指责对方违反停火约定，在此之前黎巴嫩首都贝鲁特基本未受冲突波及，以色列此次对贝鲁特发动了“定点打击”。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2412/live/e8e37ed0-5a9b-11f1-9626-f75d5d5577d2.jpg",
+      "article_ids": [
+        "75551da7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "75551da7",
+          "source": "BBC World",
+          "title": "以色列对黎巴嫩首都发动“定点打击”",
+          "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T15:07:56+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:07:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed5853a0",
+      "title": "有报道称美伊达成延长停火协议 消息推动油价走低美债上涨",
+      "summary": "美伊已达成延长停火协议，双方将致力于达成终止冲突的最终协议。本次冲突已持续三个月，此前已推高油价，引发通胀大幅攀升。该消息公布后，油价随即走低，美国国债价格出现上涨。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaDEPK9ZHXNM/v3/1200x-1.jpg",
+      "article_ids": [
+        "3fde392c",
+        "62bc7077"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3fde392c",
+          "source": "Bloomberg",
+          "title": "Axios报道：美国与伊朗达成协议延长停火",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-28/us-and-iran-reach-deal-to-extend-truce-axios-reports-video",
+          "published_at": "2026-05-28T15:03:21+00:00"
+        },
+        {
+          "id": "62bc7077",
+          "source": "Bloomberg",
+          "title": "有报道称美伊达成延长停火协议 美国国债上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/treasuries-oil-driven-selloff-stalls-as-inflation-gauge-slows",
+          "published_at": "2026-05-28T13:59:55+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:03:21+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "e5f8188a",
+      "title": "德尔芬即将推进美国首个浮式液化天然气项目",
+      "summary": "据知情人士透露，德尔芬中游公司即将批准美国首个浮式液化天然气出口基地建设，这将成为美国首个浮式液化天然气出口项目，目前该项目已临近最终敲定，很快将进入实质推进阶段。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivah3YI1Wx1s/v1/1200x-1.jpg",
+      "article_ids": [
+        "ee6cd1ce"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ee6cd1ce",
+          "source": "Bloomberg",
+          "title": "德尔芬即将推进美国首个浮式液化天然气项目",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/delfin-is-close-to-proceeding-with-first-us-floating-lng-project",
+          "published_at": "2026-05-28T15:01:51+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:01:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b6d75bd",
+      "title": "Waymo新型Ojai自动驾驶出租车将开启载客运营",
+      "summary": "经过数月测试，Waymo即将允许非员工乘客乘坐其重新命名为Ojai的极氪RT新款自动驾驶小巴。该服务将率先在旧金山、洛杉矶、凤凰城向选定乘客开放，行程免费，后续会逐步拓展至更多乘客与更多城市。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "edfb8ce0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "edfb8ce0",
+          "source": "The Verge",
+          "title": "Waymo新型Ojai自动驾驶出租车将开启载客运营",
+          "link": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips",
+          "published_at": "2026-05-28T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c32751d6",
+      "title": "这款声卡可为游戏玩家带来竞技优势",
+      "summary": "Fosi Audio近日发布全新C3游戏声卡，该声卡为外置设备，可通过USB-C线连接电脑或笔记本，搭载专属StepSense音频增强技术，该技术由经过大量FPS音频训练的模型驱动，旨在帮助FPS玩家获得竞技优势。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "37174646"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "37174646",
+          "source": "The Verge",
+          "title": "这款声卡可为游戏玩家带来竞技优势",
+          "link": "https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost",
+          "published_at": "2026-05-28T14:55:23+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:55:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "51ada769",
+      "title": "欧盟因允许售卖非法产品对Temu罚款2亿欧元",
+      "summary": "欧盟委员会宣布，对中资在线零售平台Temu处以2亿欧元罚款，处罚原因为Temu未对平台在售的婴儿玩具、不合格充电器等非法产品的相关风险进行有效管控，放任违规商品在平台流通，违反欧盟市场合规要求。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b44/live/c457e920-5a82-11f1-8b8c-6d33e1d5abb6.jpg",
+      "article_ids": [
+        "3d694262"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3d694262",
+          "source": "BBC World",
+          "title": "欧盟因允许售卖非法产品对Temu罚款2亿欧元",
+          "link": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T14:54:50+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:54:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "508bd146",
+      "title": "安飞士突与供应商解约 重燃信贷业对大型软件的担忧",
+      "summary": "知名汽车租赁企业安飞士突然与合作供应商终止合作，这一突发变动从多方面印证了投资者对SaaS行业爆发危机的最坏预想，也重燃了信贷领域对大型软件行业信用风险的担忧，引发资本市场关注。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilB3ZWZaU3xE/v1/1200x-1.jpg",
+      "article_ids": [
+        "da6d1202"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "da6d1202",
+          "source": "Bloomberg",
+          "title": "安飞士突与供应商解约 重燃信贷业对大型软件的担忧",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/avis-shock-split-with-vendor-revives-credit-s-big-software-fear",
+          "published_at": "2026-05-28T14:49:46+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:49:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b3885972",
+      "title": "Odd Lots即将登陆香港",
+      "summary": "主打智力挑战的活动Odd Lots即将正式登陆中国香港地区，活动方向公众发出邀约，欢迎所有对脑力挑战感兴趣的人士前往香港参与活动，亲身参与挑战，测试自身智识水平，体验脑力比拼的乐趣。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL_eDeSCThJU/v12/1200x-1.jpg",
+      "article_ids": [
+        "0a6709ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0a6709ac",
+          "source": "Bloomberg",
+          "title": "Odd Lots即将登陆香港",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/odd-lots-is-coming-to-hong-kong",
+          "published_at": "2026-05-28T14:47:06+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:47:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d1d106e5",
+      "title": "别墅豪车现金：意大利查封已故黑手党头目数百万资产",
+      "summary": "意大利警方开展专项行动，目标是臭名昭著的已故西西里黑手党头目马泰奥·梅西纳·德纳罗的犯罪网络，本次行动查封了该头目留下的包含别墅、豪车、现金在内的价值数百万资产，有力打击了黑手党残余犯罪势力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdae/live/4e668fc0-5a94-11f1-b5ae-83d5964726ad.jpg",
+      "article_ids": [
+        "c6659ad0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c6659ad0",
+          "source": "BBC World",
+          "title": "别墅豪车现金：意大利查封已故黑手党头目数百万资产",
+          "link": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T14:47:05+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:47:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "527638f4",
+      "title": "新版Siri应用提前曝光 苹果拟对标ChatGPT布局AI",
+      "summary": "最新曝光的渲染图展示了苹果计划为iOS 27进行的AI全面改造，涵盖重新设计的Siri交互体验，苹果还将推出独立的Siri应用，透露出苹果发力通用AI领域、对标ChatGPT的业务发展规划。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5ae8ee80"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5ae8ee80",
+          "source": "TechCrunch",
+          "title": "新版Siri应用提前曝光 苹果拟对标ChatGPT布局AI",
+          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "published_at": "2026-05-28T14:45:13+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:45:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "527638f4",
+      "title": "全新Siri应用曝光：苹果计划对标ChatGPT布局AI",
+      "summary": "最新曝光的渲染图，进一步展示了苹果计划为iOS 27推进的全面AI升级，内容涵盖重新设计的Siri交互体验，以及推出独立的Siri应用，透露出苹果对标ChatGPT发力AI领域的规划。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5ae8ee80"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "5ae8ee80",
+          "source": "TechCrunch AI",
+          "title": "全新Siri应用曝光：苹果计划对标ChatGPT布局AI",
+          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "published_at": "2026-05-28T14:45:13+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:45:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b2a8cc63",
+      "title": "美媒：美伊代表已就谅解备忘录达成一致 仍需特朗普批准 - 新华网",
+      "summary": "综合多家媒体消息，美伊代表已就谅解备忘录达成一致，该协议仍需特朗普批准。特朗普曾透露伊朗非常希望达成协议结束冲突，但白宫此前斥协议草案纯属捏造，特朗普也称对谈判进程不满意，相关消息传出后油价直线跳水。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "55020e1a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "55020e1a",
+          "source": "Google News (中国)",
+          "title": "美媒：美伊代表已就谅解备忘录达成一致 仍需特朗普批准 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Z1RjOVc4Ti10bW5XR0tPNUx5N3pvYnk5QWpETDROaVo2ZU1FLTBXMUtKUURSWUxaWDhxcmJTUExrLTBwUE1RU1RPME1iMmk0bWpNbHRqRkItRHhhUmxHT0pIenpEWVcwQXF2ajJoZ0VUanRJQmxhSzRwdzNBNEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-28T14:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a665589",
+      "title": "美伊临近和平还是滑回战争？",
+      "summary": "美国与伊朗近期发生最新一轮互击行动，引发国际社会对双方局势走向的高度关注。目前双方均无意重回全面冲突，但两国关系未来究竟会走向和平还是滑回战争，仍存在不确定性。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
+      "article_ids": [
+        "d8e51293"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d8e51293",
+          "source": "BBC World",
+          "title": "美伊临近和平还是滑回战争？",
+          "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T14:42:27+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:42:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7265a1e1",
+      "title": "Rivian因R1车型后悬架故障遭调查",
+      "summary": "电动汽车品牌Rivian正因旗下R1系列车型后悬架故障接受调查，目前已发生至少两起相关事故，涉事车辆均因悬架关键部件断裂导致车主失控，且两辆涉事车辆此前都接受过维修服务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b87d30ca"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b87d30ca",
+          "source": "TechCrunch",
+          "title": "Rivian因R1车型后悬架故障遭调查",
+          "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+          "published_at": "2026-05-28T14:41:56+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:41:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4969cc77",
+      "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+      "summary": "苹果期待已久的Siri改版预计将随iOS 27推出，彭博社基于掌握的相关信息放出iOS 27预览效果图，曝光新版Siri整体风格接近ChatGPT，还融入了液态玻璃设计，同时展示了Siri全新的应用与聊天界面。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5dd8b5fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5dd8b5fd",
+          "source": "The Verge",
+          "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+          "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+          "published_at": "2026-05-28T14:33:31+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:33:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4969cc77",
+      "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+      "summary": "苹果筹备已久、广受期待的Siri改版预计将随iOS 27推出，彭博社依据掌握的相关信息发布了iOS 27预览效果图，显示新版Siri或融合ChatGPT风格与液态玻璃设计，配备全新应用及聊天界面。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5dd8b5fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "5dd8b5fd",
+          "source": "The Verge AI",
+          "title": "iOS 27全新效果图暗示Siri将迎重大改版",
+          "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+          "published_at": "2026-05-28T14:33:31+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:33:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d9af3f37",
+      "title": "RSI成为新AGI，同样难以清晰界定",
+      "summary": "当前一批新兴人工智能实验室正聚焦研发递归自我改进技术（RSI），这一方向被称作新的通用人工智能（AGI），它和AGI一样难以清晰界定，其研发目标目前也被证明难以把握，难以落地实现。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0ec483fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0ec483fb",
+          "source": "TechCrunch",
+          "title": "RSI成为新AGI，同样难以清晰界定",
+          "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+          "published_at": "2026-05-28T14:30:17+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:30:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d9af3f37",
+      "title": "RSI成为下一个AGI，同样难以准确定义",
+      "summary": "一批新兴人工智能实验室正聚焦于递归自我改进（RSI）的研发，这一方向被视作AI领域继通用人工智能（AGI）之后的新热点。和AGI类似，RSI本身难以清晰界定，想要实现这一研发目标也被证明极具挑战性，目前难以落地。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0ec483fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0ec483fb",
+          "source": "TechCrunch AI",
+          "title": "RSI成为下一个AGI，同样难以准确定义",
+          "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+          "published_at": "2026-05-28T14:30:17+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:30:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15363d44",
+      "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易失败原因",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人围绕企业AI议题分享观点。当前企业AI已进入全新发展阶段，企业不再评估AI是否具有吸引力，转而重点评估大规模部署AI的安全性。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7dac4f0c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7dac4f0c",
+          "source": "TechCrunch",
+          "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易失败原因",
+          "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "published_at": "2026-05-28T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15363d44",
+      "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易败因",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人探讨了影响企业AI交易达成的相关问题，指出当前企业AI已进入全新发展阶段，企业不再评估AI是否具有吸引力，转而将评估重点放在大规模部署AI的安全性上。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "7dac4f0c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "7dac4f0c",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会：Databricks联合创始人谈企业AI交易败因",
+          "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+          "published_at": "2026-05-28T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ed23208",
+      "title": "YouTube新增多项播客功能，含AI推荐工具与“自动调速”",
+      "summary": "YouTube推出包含人工智能推荐工具、“自动调速”在内的多项全新播客功能。本次更新是该平台持续发力，抢夺播客受众，与业内其他平台展开竞争的最新布局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0c15b542"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0c15b542",
+          "source": "TechCrunch",
+          "title": "YouTube新增多项播客功能，含AI推荐工具与“自动调速”",
+          "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+          "published_at": "2026-05-28T14:28:47+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:28:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ed23208",
+      "title": "YouTube新增多项播客功能，含AI推荐工具及\"自动调速\"",
+      "summary": "YouTube推出多项全新播客功能，涵盖人工智能推荐工具以及\"自动调速\"功能。此次更新表明，YouTube正持续发力布局播客领域，与其他同类平台争夺播客受众市场。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0c15b542"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0c15b542",
+          "source": "TechCrunch AI",
+          "title": "YouTube新增多项播客功能，含AI推荐工具及\"自动调速\"",
+          "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+          "published_at": "2026-05-28T14:28:47+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:28:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35080d8e",
+      "title": "需求火爆，创业战场200申请截止日期延至6月8日",
+      "summary": "科技媒体TechCrunch因收到全球各地创始人的大量申请需求，已将创业战场200的申请截止日期延长至6月8日，目前相关方可提名表现突出的初创企业，也可提交自身创业项目参与申请。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2fb9701b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2fb9701b",
+          "source": "TechCrunch",
+          "title": "需求火爆，创业战场200申请截止日期延至6月8日",
+          "link": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
+          "published_at": "2026-05-28T14:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0649494",
+      "title": "CNN起诉Perplexity逐字抄袭旗下文章",
+      "summary": "CNN周四向美国纽约法院提起诉讼，起诉AI初创企业Perplexity，称该公司旗下AI工具逐字抄袭自身原创报道内容，还向用户提供CNN付费订阅墙后方可解锁的内容，涉嫌侵权，Perplexity主打AI问答引擎服务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f480aff0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f480aff0",
+          "source": "The Verge",
+          "title": "CNN起诉Perplexity逐字抄袭旗下文章",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+          "published_at": "2026-05-28T14:08:36+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:08:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0649494",
+      "title": "CNN起诉Perplexity逐字抄袭其文章",
+      "summary": "CNN近日对AI初创公司Perplexity提起诉讼，该案已于周四递交至纽约法院。CNN指控，Perplexity的AI工具逐字抄袭其原创内容，还向普通用户提供原本仅对CNN付费订阅用户开放的受限内容。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "f480aff0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "f480aff0",
+          "source": "The Verge AI",
+          "title": "CNN起诉Perplexity逐字抄袭其文章",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+          "published_at": "2026-05-28T14:08:36+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:08:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76d5da2a",
+      "title": "倒计时2天：2026年TechCrunch Disrupt大会购票最高可省410美元",
+      "summary": "2026年TechCrunch Disrupt大会的购票优惠将于明日（太平洋时间5月29日23:59）截止，目前购票最高可节省410美元。大会将于10月13日至15日在旧金山举办，预计将有超过一万名科技领袖参会。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "bb47c985"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "bb47c985",
+          "source": "TechCrunch",
+          "title": "倒计时2天：2026年TechCrunch Disrupt大会购票最高可省410美元",
+          "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce00be9a",
+      "title": "维萨投资Replit 为开发者赋能智能代理支付",
+      "summary": "全球支付巨头维萨宣布投资开发平台Replit，旨在为开发者提供智能代理支付相关服务。目前维萨已有超过一千名员工长期使用Replit，开展产品原型设计与软件开发工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ebb7ad59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ebb7ad59",
+          "source": "TechCrunch",
+          "title": "维萨投资Replit 为开发者赋能智能代理支付",
+          "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1083a90",
+      "title": "这些是我最喜爱的Switch 2配件",
+      "summary": "任天堂Switch 2开箱即可使用，但搭配合适配件能获得更好的使用体验。不同配件的重要程度各不相同，用户在新机入手初期选购配件时，部分配件优先级很高，例如保护壳与屏幕保护膜，能够避免主机受到刮擦损伤。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "156bfc90"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "156bfc90",
+          "source": "The Verge",
+          "title": "这些是我最喜爱的Switch 2配件",
+          "link": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01b7039e",
+      "title": "Rivian软件主管认为车主无需CarPlay与物理按键",
+      "summary": "本次对话对象为Rivian首席软件官瓦西姆·本赛义德，他同时兼任Rivian与大众汽车合资成立的平台项目RV Tech的联合首席执行官。该合资项目启动于约一年半前，大众汽车已为其投入近60亿美元，瓦西姆负责该项目核心业务。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5a825b3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5a825b3a",
+          "source": "The Verge",
+          "title": "Rivian软件主管认为车主无需CarPlay与物理按键",
+          "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76d5da2a",
+      "title": "倒计时2天：锁定2026年TechCrunch Disrupt大会门票最高可省410美元",
+      "summary": "2026年TechCrunch Disrupt科技大会的门票优惠将于太平洋时间5月29日23点59分截止，本次优惠最高可省410美元。大会将于10月13日至15日在旧金山举办，将有超一万名科技领袖参会，有意者需尽快注册。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "bb47c985"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "bb47c985",
+          "source": "TechCrunch AI",
+          "title": "倒计时2天：锁定2026年TechCrunch Disrupt大会门票最高可省410美元",
+          "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce00be9a",
+      "title": "维萨投资Replit 为开发者赋能智能体支付",
+      "summary": "支付巨头维萨投资开发平台Replit，旨在为开发者提供智能体支付相关能力支持。目前已有超一千名维萨员工使用Replit开展产品原型设计与开发工作，双方将合力探索面向开发者群体的支付创新服务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "ebb7ad59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ebb7ad59",
+          "source": "TechCrunch AI",
+          "title": "维萨投资Replit 为开发者赋能智能体支付",
+          "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01b7039e",
+      "title": "Rivian软件主管认为用户不需要CarPlay与实体按键",
+      "summary": "本次采访对象为Rivian首席软件官瓦西姆·本赛义德，他同时兼任Rivian与大众合资成立的平台企业RV Tech的联合首席执行官。该合资项目约一年半前启动，大众投入近60亿美元，瓦西姆负责该合资平台相关业务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5a825b3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "5a825b3a",
+          "source": "The Verge AI",
+          "title": "Rivian软件主管认为用户不需要CarPlay与实体按键",
+          "link": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+          "published_at": "2026-05-28T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b0e92e5a",
+      "title": "五年改造城镇老旧小区11.5万个，新规划推动城市更新内涵式发展 - 第一财经",
+      "summary": "国务院印发《城市更新“十五五”规划》，明确到2030年城市更新行动取得重要进展，城市开发建设方式转型初见成效。过去五年我国已改造城镇老旧小区11.5万个，目前今年首批1321个城市更新项目已发布，新规划将推动城市更新实现内涵式发展。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "fd83a9b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "fd83a9b4",
+          "source": "Google News (中国)",
+          "title": "五年改造城镇老旧小区11.5万个，新规划推动城市更新内涵式发展 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWUhnSXhmbXJBbFJoeE85QzdwSldac19WaTVQRGhJUlByTlhFaFppWnVHTm9NbWRQRm5EQm5GWGZYSl93ekZCYVJIRmlGYzRWUUhz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-28T13:35:36+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:35:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2fe4230b",
+      "title": "俄罗斯油轮改道 古巴错失燃油补给机会",
+      "summary": "一艘原定搭载燃油前往古巴的俄罗斯油轮改变了航行路线。目前古巴正因美国石油封锁陷入燃油紧缺困境，这批燃油对古巴而言是救命补给，此次油轮改道对古巴来说是一次沉重打击。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-cuba-tanker-photo-vblm/28int-cuba-tanker-photo-vblm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2bc49c96"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2bc49c96",
+          "source": "NYTimes World",
+          "title": "俄罗斯油轮改道 古巴错失燃油补给机会",
+          "link": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
+          "published_at": "2026-05-28T13:33:41+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:33:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c22d9db",
+      "title": "警方搜查政党办公室后 西班牙首相压力陡增",
+      "summary": "西班牙首相佩德罗·桑切斯所属政党被一名法官指控存在腐败行为，警方随后对该政党的办公场所展开搜查，目前桑切斯遭遇的压力持续攀升，要求他辞职的呼声不断高涨。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-spain-sanchez-01-ztpk/28int-spain-sanchez-01-ztpk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5d8d02a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5d8d02a0",
+          "source": "NYTimes World",
+          "title": "警方搜查政党办公室后 西班牙首相压力陡增",
+          "link": "https://www.nytimes.com/2026/05/28/world/europe/spain-sanchez-socialist-party-raid.html",
+          "published_at": "2026-05-28T13:32:02+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:32:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c208c20",
+      "title": "战争如何塑造乌克兰街头风格",
+      "summary": "在乌克兰首都基辅，充满军事元素的穿搭如今随处可见。无论是当地军人还是普通平民都表示，这类军旅风街头穿搭并非一时兴起的潮流，而是乌克兰人表达团结意志、展现对国家支持的方式。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/00int-ukraine-clothes-02-promo/00int-ukraine-clothes-02-mght-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "10a59159"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "10a59159",
+          "source": "NYTimes World",
+          "title": "战争如何塑造乌克兰街头风格",
+          "link": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
+          "published_at": "2026-05-28T13:30:01+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:30:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a211f2c",
+      "title": "特朗普呼吁扩大亚伯拉罕协议令中东困惑",
+      "summary": "特朗普提出，应要求更多国家承认以色列，并将此作为结束与伊朗战事协议的一部分，以此扩大亚伯拉罕协议。中东对这一呼吁困惑不已，分析人士指出，该提议落实的可能性几乎为零。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/27/multimedia/00int-trump-abraham-01-kzlg/00int-trump-abraham-01-kzlg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c673d6c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c673d6c5",
+          "source": "NYTimes World",
+          "title": "特朗普呼吁扩大亚伯拉罕协议令中东困惑",
+          "link": "https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html",
+          "published_at": "2026-05-28T13:26:42+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:26:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "99551aff",
+      "title": "美国司法部对指控特朗普的E·让·卡罗尔展开刑事调查",
+      "summary": "E·让·卡罗尔是美国前专栏作家，她曾起诉美国前总统特朗普。美国司法部已对卡罗尔启动刑事调查，本次调查的核心问题是，卡罗尔是否就自己发起该民事诉讼时所获资助一事作了虚假陈述。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39e/live/f4ac3830-5a8a-11f1-b682-cf91850925ea.jpg",
+      "article_ids": [
+        "7d6581b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7d6581b5",
+          "source": "BBC World",
+          "title": "美国司法部对指控特朗普的E·让·卡罗尔展开刑事调查",
+          "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T13:20:45+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:20:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4c7bf4ee",
+      "title": "多地宣布中高考考试期间全城禁噪 营造安静迎考环境 - 中华网",
+      "summary": "临近中高考，南京、阜阳、济南等国内多地发布通告，明确将在中高考考试期间实施全城禁噪管控，以此为考生营造安静舒适的迎考环境，其中济南槐荫区城管局还举办了“守护静夜”执法开放日活动，推进相关禁噪工作落实。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a6e9475c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a6e9475c",
+          "source": "Google News (中国)",
+          "title": "多地宣布中高考考试期间全城禁噪 营造安静迎考环境 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USmZhQVh2Qjhjcy1URXJHcnk3aEtob01DRlFic28xSTl2UFRRaUNoRmp6QTh5VzhqSDFzUzgxQjJrdDBtaFpBb29hT0czdVgteWlWakY1OGp5OWVUeWFOZ1NJZzhVbEV5azVtX0hrbzI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-28T13:20:43+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:20:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24947606",
+      "title": "视频丨“三夏”抢收正值汛期，如何科学开展“龙口夺粮”？ - 西部网",
+      "summary": "当前“三夏”大规模小麦机收已全面展开，抢收工作正值汛期，需科学开展“龙口夺粮”。目前多地已推出多项夏收保障举措，升级“麦客之家”为作业人员提供免费食宿、维修、路线规划等服务，部分地区强化气象保障，全力防范强降水影响，保障夏收进度。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "88da8815"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "88da8815",
+          "source": "Google News (中国)",
+          "title": "视频丨“三夏”抢收正值汛期，如何科学开展“龙口夺粮”？ - 西部网",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RLVlJNUV2dkprV1daSXRWeF9EcGFpVU9yQ09Lak5CSjNINEZUWU4yTEpDN2tWblkyRnlkS3N6eVhKMXJTclBTdHIwbGNYc3hfalkxU0JWLVVwRno3ZkpTdkRxRDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-28T13:02:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:02:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "db021a72",
+      "title": "AI算力争夺战是否已挖出下一个思睿博？",
+      "summary": "随着人工智能产业快速发展，全球对AI算力的需求暴涨，资本与产业界都在AI芯片赛道搜寻下一个领军企业。通用计算公司General Compute押注，AI芯片厂商SambaNova将成为下一个成功突围的芯片制造商。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "178b4659"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "178b4659",
+          "source": "TechCrunch",
+          "title": "AI算力争夺战是否已挖出下一个思睿博？",
+          "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "41262357",
+      "title": "高通承诺推出搭载新款骁龙C的300美元Windows笔记本",
+      "summary": "在内存荒尚未缓解、PC价格持续上涨的当下，高通宣布今年其Arm架构Windows笔记本售价将下探至300美元，该低价产品将搭载全新入门平台骁龙C，此前该类笔记本售价已从千元级逐步降至600美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "85b25c4b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "85b25c4b",
+          "source": "The Verge",
+          "title": "高通承诺推出搭载新款骁龙C的300美元Windows笔记本",
+          "link": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dcf7a682",
+      "title": "英特尔首款掌机游戏芯片Arc G3问世 宏碁将采用该芯片",
+      "summary": "英特尔此前几乎未涉足掌机游戏PC领域，在首款合作产品微星Claw碰壁、后续推出改良款MSI Claw 8 AI Plus后，英特尔决定打造定制掌机游戏芯片，近日正式对外发布了该系列首款芯片Arc G3。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e0939584"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e0939584",
+          "source": "The Verge",
+          "title": "英特尔首款掌机游戏芯片Arc G3问世 宏碁将采用该芯片",
+          "link": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "940f6e7a",
+      "title": "小米17T Pro登场 搭载小米迄今最大电池",
+      "summary": "小米发布17T与17T Pro两款机型，为小米17系列旗舰的平价衍生机型。延续T系列定位，两款机型侧重性能而非摄影，配备小米目前在海外推出机型中最大的电池，其中17T搭载6500mAh硅碳电池。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0c5a7447"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0c5a7447",
+          "source": "The Verge",
+          "title": "小米17T Pro登场 搭载小米迄今最大电池",
+          "link": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1a49cb8c",
+      "title": "阿根廷各省进军联邦政府避开的全球债券市场",
+      "summary": "受投资者对阿根廷2027年大选的担忧情绪影响，阿根廷联邦政府目前仅在本土市场发行短期债务，未涉足全球债券市场；该国各省份正以近十年来最快的速度进入全球债券市场开展融资活动。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2y2NR1Lc1N4/v1/1200x-1.jpg",
+      "article_ids": [
+        "9a8a54cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9a8a54cf",
+          "source": "Bloomberg",
+          "title": "阿根廷各省进军联邦政府避开的全球债券市场",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/argentine-provinces-tap-global-markets-that-sovereign-avoids",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "db021a72",
+      "title": "竞逐AI算力，是否发掘出下一个Cerebras？",
+      "summary": "随着人工智能产业快速发展，全球AI算力需求持续攀升，AI芯片赛道成为资本布局的热门领域。投资机构General Compute押注AI芯片企业SambaNova，认为其将成为下一个成功突围的知名芯片制造商，这一布局引发业内广泛关注。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "178b4659"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "178b4659",
+          "source": "TechCrunch AI",
+          "title": "竞逐AI算力，是否发掘出下一个Cerebras？",
+          "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+          "published_at": "2026-05-28T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97d94221",
+      "title": "肯尼亚一学校火灾致16名小学生死亡",
+      "summary": "肯尼亚一所学校发生火灾事故，事故造成16名小学生死亡，另有数十人在此次火灾中受伤，目前火灾的具体起因尚不明确，相关方面尚未公布起火原因的相关调查进展。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444e/live/fe58c650-5a8f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "article_ids": [
+        "3f8d1d1f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3f8d1d1f",
+          "source": "BBC World",
+          "title": "肯尼亚一学校火灾致16名小学生死亡",
+          "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T12:24:11+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:24:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a5fb73a5",
+      "title": "上海一教师多次猥亵女生，校领导未履行强制报告被处分 - 羊城晚报",
+      "summary": "最高检发布十起涉未成年人典型案例，涵盖多类侵害未成年人权益案件：上海一中学教师多次猥亵多名女生，该校书记、校长未履行强制报告义务，仅对涉事教师做出口头警告，最终二人也被处分，案例还涉及未成年人组团贩毒、少年黑客非法获利获刑等案件。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a5d5bcf8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a5d5bcf8",
+          "source": "Google News (中国)",
+          "title": "上海一教师多次猥亵女生，校领导未履行强制报告被处分 - 羊城晚报",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jd2lVS1prRXRpRDh4aVlEOG5PVjE1OUx1VG9aal9TdXJYLTd1SlJKd2VzTTBWV2FQZHo1Y3oxMGdRQW9JMS14WXFCWFNSOEo3a2lZM1Z3SzJKSENGR2ltejdLZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-05-28T12:22:57+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:22:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f08f3097",
+      "title": "美国科技亿万富翁彼得·蒂尔在阿根廷觅得避居之所",
+      "summary": "美国科技亿万富翁彼得·蒂尔已在阿根廷落地扎根，开启新生活。据悉，他选择迁居阿根廷，部分原因是对美国未来发展心存担忧，同时他与阿根廷右翼领导人理念相合，多方面因素促使他做出这一选择。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/00int-argentina-thiel01-photo-tfzh/00int-argentina-thiel01-photo-tfzh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a0ea2adf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a0ea2adf",
+          "source": "NYTimes World",
+          "title": "美国科技亿万富翁彼得·蒂尔在阿根廷觅得避居之所",
+          "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+          "published_at": "2026-05-28T12:22:29+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:22:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fac06896",
+      "title": "肯尼亚一学校宿舍火灾致至少16人死亡",
+      "summary": "肯尼亚一所学校的宿舍突发火灾，事故目前已造成至少16人死亡，另有79名学生受伤。这是近年来肯尼亚国内发生的一系列致命校园火灾中的最新一起，该国近年已多次发生同类恶性校园火灾事故。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28int-kenya-school-01-jwqz/28int-kenya-school-01-jwqz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "da1f18f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "da1f18f7",
+          "source": "NYTimes World",
+          "title": "肯尼亚一学校宿舍火灾致至少16人死亡",
+          "link": "https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html",
+          "published_at": "2026-05-28T12:18:30+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:18:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e0ebc2a",
+      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "summary": "5月27日，港股快手公布2026年一季度财报，实现营收337亿元同比增长3.4%，平均月活跃用户达7.72亿刷新历史新高；广告、电商业务双位数增长对冲直播收入下滑，旗下可灵AI一季度收入超6.5亿元同比增超300%，商业化提速，成为公司第二增长曲线，基本面韧性凸显。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260528/v2_15fa0461deea48a2a5310cd0613c8ec7@5679941_oswg186275oswg1080oswg567_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b2046d61"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b2046d61",
+          "source": "36氪",
+          "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+          "link": "https://36kr.com/p/3828915666441090?f=rss",
+          "published_at": "2026-05-28T12:17:29+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:17:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "89388d24",
+      "title": "《每日速递》：气候科技上市 AI炒作指数回归",
+      "summary": "这是面向工作日推出的科技资讯通讯《每日速递》最新一期，聚焦全球科技领域最新动态。当前多家气候科技企业正集中上市，今年2月太阳能电池企业Solv Energy上市，估值达60亿美元，小型模块化核反应堆开发商X能源也紧随其后上市。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "7e0a41b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "7e0a41b0",
+          "source": "MIT Technology Review",
+          "title": "《每日速递》：气候科技上市 AI炒作指数回归",
+          "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+          "published_at": "2026-05-28T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "18f35181",
+      "title": "Oura推出第五代指环 设计更轻薄 起售价399美元",
+      "summary": "可穿戴品牌Oura发布新款第五代指环，新品相较上一代体积缩小40%，整体设计更加轻薄，还搭载了精度更高的传感器，同时优化提升了电池续航能力，该新品起售价为399美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "83c1260e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "83c1260e",
+          "source": "TechCrunch",
+          "title": "Oura推出第五代指环 设计更轻薄 起售价399美元",
+          "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+          "published_at": "2026-05-28T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "462fe7f9",
+      "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+      "summary": "5月28日，雷神联合AMD在北京发布业内首批覆盖塔式、迷你PC、移动三大形态的全场景AI工作站产品矩阵，依托AMD全层级芯片算力支撑，可适配多元场景不同AI算力需求，发布会还联合多家厂商启动AI产业联盟，协同推进AI算力落地。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260528/v2_414fa11d751b413191ef513f785305eb@517825446_oswg7914328oswg6000oswg2160_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "b185be40"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b185be40",
+          "source": "36氪",
+          "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+          "link": "https://36kr.com/p/3828898785858185?f=rss",
+          "published_at": "2026-05-28T11:57:48+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T11:57:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9967c482",
+      "title": "伊朗称在美国新一轮空袭后打击美军基地",
+      "summary": "伊朗宣布在美国发动新一轮空袭后，对一处美军基地实施了打击。此次敌对行动发生之际，美伊双方正处于脆弱停火阶段，同时也在展开长期谈判，以期结束这场已经持续三个月的冲突。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccc/live/6b387cc0-5a9f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "article_ids": [
+        "b891ea32"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b891ea32",
+          "source": "BBC World",
+          "title": "伊朗称在美国新一轮空袭后打击美军基地",
+          "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-05-28T11:52:10+00:00"
+        }
+      ],
+      "published_at": "2026-05-28T11:52:10+00:00",
+      "is_merged": false
+    }
+  ]
+}

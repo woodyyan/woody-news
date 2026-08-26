@@ -1,0 +1,2357 @@
+{
+  "date": "2026-07-22",
+  "edition": "evening",
+  "updated_at": "2026-07-22T22:05:35.400166+08:00",
+  "article_count": 60,
+  "cluster_count": 57,
+  "articles": [
+    {
+      "id": "a849a55b",
+      "title": "伊朗战事最新动态：特朗普威胁若伊朗袭击霍尔木兹海峡 美国将报复打击民用目标",
+      "title_original": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
+      "summary": "美国总统特朗普表示，若伊朗在霍尔木兹海峡发动袭击，美国将对伊朗首都境内及周边的桥梁、发电厂等民用目标实施报复打击。此前美国国务卿马尔科·鲁比奥称，德黑兰对外交谈判并不认真。",
+      "summary_original": "President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious” about diplomacy.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo1/22mideast-live-header-lftg-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T13:20:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "31ae4b6d",
+      "title": "浏览器大战已不再围绕搜索 盘点可替代Chrome与Safari的最佳浏览器",
+      "title_original": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "目前已有不少新兴浏览器向Chrome、Safari的市场主导地位发起挑战，相关方整理汇总了当前市面上多款顶尖替代浏览器的信息，梳理出了可替换两款主流浏览器的优质选项，供用户按需选择。",
+      "summary_original": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T13:20:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "31ae4b6d",
+      "title": "浏览器大战已不再围绕搜索展开——Chrome与Safari的最佳替代浏览器盘点",
+      "title_original": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "如今浏览器大战的核心已不再是搜索竞争，市场上涌现出不少试图挑战Chrome与Safari地位的替代浏览器，相关方面梳理汇总了目前市面上多款顶级替代浏览器的情况，形成相关概览供用户参考。",
+      "summary_original": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-22T13:20:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "51708d59",
+      "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+      "title_original": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "德国初创企业Passionfroot专注打造连接B2B创作者与品牌的交易平台，完成由Insight Partners领投的1500万美元A轮融资，所得资金将用于把旗下B2B创作者市场业务拓展至美国。",
+      "summary_original": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f5b8b195",
+      "title": "WhatsApp推出苹果CarPlay、安卓Auto升级及iPad注册等多项新功能",
+      "title_original": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more",
+      "summary": "即时通讯应用WhatsApp推出多项功能更新，涵盖苹果CarPlay与安卓Auto适配升级、支持iPad注册账号等。本次车载端升级后，用户可直接在汽车屏幕上，免提完成收听回复消息、拨打电话等多项操作。",
+      "summary_original": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "47f789b2",
+      "title": "三星最新折叠屏终于称得上Ultra旗舰",
+      "title_original": "Samsung’s newest foldable finally feels Ultra",
+      "summary": "在市场等待苹果推出传闻中的折叠iPhone之际，三星正持续优化旗下已面市的折叠屏产品设计。体验者上手试用三星最新Z Fold 8 Ultra三小时后发现，三星通过技术优化终于让这款折叠屏的折痕彻底隐形。",
+      "summary_original": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market. I just spent three hours with my hands on the new Z Fold 8 Ultra, and all I can think about is how Samsung finally made the crease invisible. Samsung says it achieved this thanks to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "924c4c08",
+      "title": "三星更宽版Z Fold 8手感刚刚好",
+      "title_original": "Samsung’s wider Z Fold 8 feels just right",
+      "summary": "去年三星对Z Fold折叠屏手机完成改造，推出设计大幅变薄的新品，今年三星再次调整产品形态，推出的Z Fold 8比三星以往所有折叠屏机型更宽也更短，整体尺寸与形态介于传统Flip和Fold两款机型之间。",
+      "summary_original": "A year after overhauling its Z Fold phone with a radically thinner design, Samsung has changed things up again, this time altering the shape entirely. The Z Fold 8 is wider than any of Samsung's previous foldables, and shorter too, a size and shape somewhere between Samsung's traditional Flip and Fold models. In photos, I [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "24ffd27e",
+      "title": "三星Galaxy Watch 9与Ultra 2主打电池性能升级",
+      "title_original": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery",
+      "summary": "三星今日正式发布新款Galaxy Watch 9与Galaxy Watch Ultra 2智能手表，本次Galaxy Watch系列走优化打磨路线，这一迭代思路已延续多代。三星在原有深受用户喜爱的产品基础上，对各类优势元素调校升级，本次新品核心升级方向为电池性能。",
+      "summary_original": "It's a year of refinement for the Galaxy Watch. With the new Galaxy Watch 9 and Galaxy Watch Ultra 2, which are being announced today, Samsung is more or less taking what people like about its watches and tweaking those elements to be better. The company has been doing this for the past few generations [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b85fb3f4",
+      "title": "我差点忘了三星Z Flip 8是折叠屏",
+      "title_original": "I almost forgot Samsung’s Z Flip 8 was a foldable",
+      "summary": "三星推出新款Galaxy Z Flip 8折叠屏手机，上手体验显示该机相比以往折叠屏产品更接近普通直板手机，机身更纤薄轻巧，外屏可支持几乎所有操作。体验者试用三小时后，暂不确定这种设计方向究竟是好是坏。",
+      "summary_original": "Samsung's new Galaxy Z Flip 8 feels more like a regular phone than ever. It's thinner, lighter, and has a front screen you can do just about anything on. Whether that's a good or bad thing, I'm not quite sure yet. I spent three hours with Samsung's newest flip phone last week, and it doesn't [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ae908eb9",
+      "title": "2026三星Galaxy Unpacked发布会：六大重磅发布",
+      "title_original": "Samsung Galaxy Unpacked 2026: The 6 biggest announcements",
+      "summary": "三星于周三上午开启年度夏季活动，推出全新手表与折叠屏产品阵容。在历经数周传闻与爆料后，三星此次发布了采用全新设计、尺寸更短更宽的Galaxy Z Fold 8，还有全新的Ultra折叠款，以及更新后的Flip机型等产品。",
+      "summary_original": "Samsung's annual summer event kicked off on Wednesday morning with the company unveiling a new lineup of watches and foldables. Following weeks of rumors and leaks, Samsung announced the Galaxy Z Fold 8 with a completely new design that's shorter and wider than last year's Fold, a new \"Ultra\" Fold, an updated Flip model, and [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "51708d59",
+      "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+      "title_original": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "德国初创企业Passionfroot专注打造连接B2B创作者与品牌的交易平台，近日完成由Insight Partners领投的1500万美元A轮融资，计划将自身的B2B创作者市场业务拓展至美国市场。",
+      "summary_original": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a4109472",
+      "title": "因入学人数缩减 穆迪下调洛杉矶学区信用评级",
+      "title_original": "LA School District Downgraded by Moody’s as Enrollment Shrinks",
+      "summary": "穆迪评级于周二将美国洛杉矶联合学区的信用评级下调一个等级。该学区当前入学人数持续下滑，同时运营成本不断增长，财政状况承受较大压力，穆迪因此下调了其信用评级。",
+      "summary_original": "Los Angeles Unified School District’s credit grade was cut one level by Moody’s Ratings on Tuesday, as declining enrollment and growing costs pressure its finances.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/la-school-district-downgraded-by-moody-s-as-enrollment-shrinks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T12:54:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0b7a030e",
+      "title": "乌克兰新任军事主官面临重大考验",
+      "title_original": "Ukraine’s New Military Chief Faces a Monumental Test",
+      "summary": "乌克兰新任军事主官米哈伊洛·德拉帕蒂少将需要完成一项棘手的平衡任务，他既要彰显军事改革派支持的军事自主权，又要接纳政治层对战场战略提出的相关意见，这对他而言是一项巨大考验。",
+      "summary_original": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-military-assess-cmkv/22int-ukraine-military-assess-cmkv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T12:33:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fc21585d",
+      "title": "希特勒出生地开设警察局 消除该址纳粹关联",
+      "title_original": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "summary": "纳粹独裁者希特勒出生于一栋17世纪的原旅馆，多年来，外界围绕这处特殊建筑应当如何处置一直存在不小争议。如今当地正式在希特勒出生地开设警察局，意图消除这一地点与纳粹之间的关联。",
+      "summary_original": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5803/live/7ce1c600-85b2-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T12:32:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5affed56",
+      "title": "三星2026 Unpacked发布会：七月可折叠机型发布全览",
+      "title_original": "Samsung Unpacked 2026: all the news from the July foldable launch",
+      "summary": "三星2026夏季Galaxy Unpacked发布会在伦敦举办，品牌在会上推出了最新系列可折叠手机。产品包括采用更宽护照造型的Galaxy Z Fold 8、折痕几乎不可见的Galaxy Z Fold 8 Ultra，以及经过更新升级的Galaxy Z Flip 8。",
+      "summary_original": "Samsung revealed its newest slate of foldables at this summer&#8217;s Galaxy Unpacked, which took place in London. In addition to a Galaxy Z Fold 8 that adopts a wider, passport-like form factor, Samsung showed off its new Galaxy Z Fold 8 Ultra with a crease you can barely see and a refreshed Z Flip 8, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "618b451d",
+      "title": "谨慎数十年后，德国正革新武器发展方式",
+      "title_original": "After Decades of Caution, Germany Is Shaking Up How It Makes Weapons",
+      "summary": "随着来自俄罗斯的威胁上升，美国对德国的防务支持不断缩减，德国一改此前数十年在防务领域的谨慎姿态，正对21世纪武器的研发、资金投入以及实际运用模式进行全方位重塑革新。",
+      "summary_original": "As threats from Moscow rise and support from Washington dwindles, the German military is reinventing how it researches, funds and wields 21st-century arms.",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-germany-innovation-top-ghjc/09int-germany-innovation-top-ghjc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T12:28:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b030bc34",
+      "title": "《每日下载：NASA新太空望远镜与OpenAI自主黑客》",
+      "title_original": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "summary": "这是科技类工作日通讯《每日下载》的今日刊，栏目每日推送全球科技领域动态。本期内容包括：NASA新型南希·格蕾丝·罗曼太空望远镜最快将于下月底发射，其搭载的变形反射镜有望助力人类发现类木星行星，同时还关注OpenAI研发的自主黑客相关内容。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-07-22T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1a416fd5",
+      "title": "与爱泼斯坦有关联的模特星探被发现死于巴黎郊区",
+      "title_original": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "summary": "与爱泼斯坦存在关联的模特星探丹尼尔·西亚德被发现死于法国巴黎郊区。西亚德的名字在爱泼斯坦相关案件文件中出现多达数千次，此前他曾公开否认自己知晓杰弗里·爱泼斯坦对他人构成的威胁。",
+      "summary_original": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T12:08:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3c3ec976",
+      "title": "预期中的美沙核协议引发以色列对地区军备竞赛的担忧",
+      "title_original": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
+      "summary": "预期美国将与沙特达成核协议，这一可能性引发以色列对地区核军备竞赛的担忧。以色列一名官员试图淡化该协议的影响，但批评人士指出，该协议可能刺激地区其他国家发展核项目，甚至推动相关国家研制核武器。",
+      "summary_original": "An Israeli minister sought to downplay the deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T11:55:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e4b8e9d6",
+      "title": "诺瓦金将收购亿万富翁保尔森持有的阿拉斯加金矿股权",
+      "title_original": "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
+      "summary": "诺瓦金资源公司已达成协议，收购亿万富翁投资者约翰·保尔森持有的阿拉斯加唐林金矿项目40%股权，交易完成后，诺瓦金将获得这座大型未开发黄金矿的全部所有权。",
+      "summary_original": "NovaGold Resources Inc. agreed to acquire billionaire investor John Paulson’s 40% stake in the Donlin Gold project in Alaska, giving the company full ownership of a giant undeveloped bullion mine.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/novagold-to-buy-billionaire-paulson-s-stake-in-alaska-gold-mine",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T11:52:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0119aeb3",
+      "title": "霍尔木兹局势升温引发亚洲液化天然气争夺",
+      "title_original": "Hormuz and Heat Trigger an Asian Scramble for LNG",
+      "summary": "霍尔木兹局势升温引发亚洲各国争抢液化天然气资源，受该局势影响，部分国家被迫采购近年来价格最高的液化天然气船货，相关国家能源采购成本大幅上涨，当前亚洲液化天然气市场供需偏紧，各国采购压力明显增加。",
+      "summary_original": "Some countries are finding themselves forced to buy the most expensive fuel shipments in years.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/hormuz-and-heat-trigger-an-asian-scramble-for-lng",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T11:26:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a480fcc9",
+      "title": "丹格特炼油厂为赚美元出口汽油 尼日利亚汽油进口量增至三倍",
+      "title_original": "Nigeria Gasoline Imports Triple as Dangote Refinery Exports to Earn Dollars",
+      "summary": "尼日利亚上月汽油进口量增至原来的三倍以上，该国主要的丹格特炼油厂为最大化获取外汇收入，削减了面向国内市场的汽油供应，将越来越多的产出转向出口市场，直接推高了该国的汽油进口规模。",
+      "summary_original": "Nigeria’s gasoline imports more than tripled last month as the country’s main refinery cut domestic supply and increasingly directed output toward export markets to maximize foreign-currency earnings.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/nigeria-gasoline-imports-triple-as-dangote-refinery-exports-to-earn-dollars",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T11:18:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "06033171",
+      "title": "墨西哥一生菜产区承受环孢子虫暴发的后果",
+      "title_original": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+      "summary": "墨西哥中部一处生菜种植区被发现可能与美国发生的环孢子虫感染疫情相关，此次疫情已造成美国境内数千人染病，涉事墨西哥生菜产区正承受此次疫情暴发带来的各类后续负面影响。",
+      "summary_original": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-mexico-cyclospora-promo/00int-mexico-cyclospora-bplz-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T11:09:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d822ef4f",
+      "title": "Meta自研AI检测系统，本该直接使用谷歌的",
+      "title_original": "Meta made its own AI detection system. It should have just used Google’s",
+      "summary": "今年3月，Meta监督委员会要求该公司履行公开承诺，动用自有工具遏制平台上欺骗性生成式AI内容的传播。今年7月，Meta推出名为Content Seal的隐形水印技术，用于标记自家新款AI模型生成的图像。",
+      "summary_original": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3a93a4b5",
+      "title": "2026款本田Prelude堪称混动技术杰作",
+      "title_original": "The 2026 Honda Prelude is a marvel of hybrid technology",
+      "summary": "提及本田面向性能爱好者的车型，车迷通常最先想到思域Si、思域Type R、讴歌NSX，它们凭借本田可变气门正时发动机与灵动底盘备受青睐，Prelude此前关注度较低，全新2026款本田Prelude是面向爱好者打造的技术探索项目，堪称混动技术的惊艳之作。",
+      "summary_original": "When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form of variable valve timing) engines and playful chassis dynamics. The Prelude, on the other hand, less so. Instead, the Prelude is a technological study - still aimed at [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d822ef4f",
+      "title": "Meta自研AI检测系统 本该用谷歌的就好",
+      "title_original": "Meta made its own AI detection system. It should have just used Google’s",
+      "summary": "今年3月，Meta监督委员会要求该公司履行公开承诺，运用自有工具遏制虚假生成式AI内容在其平台扩散。今年7月，Meta推出名为Content Seal的隐形水印技术，用于标记自家新AI模型生成的图片。",
+      "summary_original": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "7136c2de",
+      "title": "乌克兰最高将领遭解职 标志一个时代终结",
+      "title_original": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "summary": "乌克兰最高将领亚历山大·瑟尔斯基曾指挥多场关键战役，主导扩大针对俄罗斯的无人机作战，但不少乌克兰民众希望对俄作战能有更大调整，此次他遭解职，标志着乌克兰一个军事时代的终结。",
+      "summary_original": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-ukraine-syrskyi-profile-oonn/22int-ukraine-syrskyi-profile-oonn-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T10:46:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1593d8f3",
+      "title": "美国恢复打击伊朗 特朗普威胁攻击伊朗地下核设施",
+      "title_original": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "summary": "美国重启针对伊朗的打击行动，美国总统特朗普公开威胁，称将攻击伊朗一处关键的地下核设施。这一威胁是在美国准备对伊朗发起连续第十一夜袭击行动的前夕对外发出的。",
+      "summary_original": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T10:15:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "190df8c6",
+      "title": "公用事业公司承诺不会让人工智能推高民众电费",
+      "title_original": "Utility companies promise to spare us from AI’s energy bill",
+      "summary": "人工智能发展热潮将推高消费者电费的担忧引发舆论反弹，美国多家大型公用事业公司及数据中心开发商承诺就此采取应对措施。据《华尔街日报》报道，目前已有近200家机构签署了唐纳德·特朗普提出的缴费用户保护承诺。",
+      "summary_original": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T10:12:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "190df8c6",
+      "title": "公用事业公司承诺不让消费者承担AI带来的额外电费",
+      "title_original": "Utility companies promise to spare us from AI’s energy bill",
+      "summary": "针对AI热潮将推高消费者电费的争议，美国多家大型公用事业企业与数据中心开发商承诺解决这一问题。据《华尔街日报》报道，已有近200家机构签署了唐纳德·特朗普提出的“电费用户保护承诺”。",
+      "summary_original": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-22T10:12:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cbb22621",
+      "title": "乌克兰无人机击中俄罗斯在线零售商野莓多处站点",
+      "title_original": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "summary": "本次袭击于夜间发起，乌克兰无人机击中俄罗斯在线零售商野莓的多处设施，位于俄罗斯克拉斯诺达尔和斯塔夫罗波尔地区的多个野莓旗下物流枢纽在此次袭击中被击中，这是乌方对该零售商俄境内站点发动的打击，击中了更多目标。",
+      "summary_original": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T10:00:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e75398f5",
+      "title": "Glow走出隐身模式 估值12亿美元挑战AI时代端点安全领域",
+      "title_original": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "创业公司Glow正式公开亮相，估值达12亿美元，切入AI时代端点安全赛道。当前企业内部快速普及AI智能体与开发工具，催生了一系列全新端点安全风险，Glow瞄准这类新风险布局，冲击现有端点安全市场格局。",
+      "summary_original": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e75398f5",
+      "title": "Glow走出隐匿模式，以12亿美元估值挑战AI时代终端安全领域",
+      "title_original": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "估值达12亿美元的Glow已结束隐匿运营状态正式亮相，其瞄准企业内部AI智能体、开发工具快速普及催生的全新品类终端风险，入局AI时代终端安全赛道，对该领域现有市场格局发起挑战。",
+      "summary_original": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-22T10:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f66f7e6f",
+      "title": "受益即时零售增长 永恒公司收入超翻倍",
+      "title_original": "Eternal Revenue More Than Doubles on Quick Commerce Growth",
+      "summary": "永恒有限公司公布最新季度业绩，销售额涨幅超出市场预期。尽管当前即时零售行业竞争激烈，行业利润受到挤压，永恒仍实现收入超翻倍的增长，印证了自身在激烈竞争中保持持续增长的能力。",
+      "summary_original": "Eternal Ltd. posted a larger-than-expected increase in quarterly sales, demonstrating its ability to sustain growth despite intense competition in quick commerce that’s sapping margins.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/eternal-profit-falls-short-on-tough-instant-delivery-competition",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T09:50:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "985e4da6",
+      "title": "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告",
+      "title_original": null,
+      "summary": "2026美加墨世界杯落幕后，后浪研究所发布年轻人世界杯消费调查报告。当下年轻人多以刷短视频集锦的碎片化方式观赛，偏好舒适的居家观赛场景，消费多集中在200-300元，追求氛围感，伪球迷消费意愿更强，整体消费理性，更看重产品实用性。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_3a28d7b858854517b7772884ca2aa38e@6385117_oswg17358oswg945oswg771_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3906526848144515?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T09:35:15+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5f87fd42",
+      "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+      "title_original": null,
+      "summary": "本次汇总多条行业热点动态：苹果iPhone18系列已进入量产爬坡阶段；小红书公开辟谣，称市面上流传的相关IPO信息均不属实；明治将以最高3.5亿元把在华牛奶等业务转让给澳亚集团，同时涵盖AI、财经等多领域行业消息。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3906606931907971?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T09:29:03+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "def4f0c1",
+      "title": "NASA新型太空望远镜变形镜有望发现类木星行星",
+      "title_original": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "summary": "NASA南希·格蕾丝·罗曼空间望远镜最早将于下月底发射，它搭载首个进入太空的\"主动\"日冕仪，可消除拍摄时恒星的大部分光线，借助变形镜实现高精度观测，有望发现类似太阳系木星的系外行星。",
+      "summary_original": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-07-22T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e5ef4c85",
+      "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+      "title_original": null,
+      "summary": "2026年7月17日，在上海举办的世界人工智能大会上，超擎数智CEO唐春峰接受36氪专访时表示，当前AI产业竞争已从模型训练转向推理落地。超擎打造软硬一体全栈方案，已在新药研发、金融等多领域落地，可帮企业降低AI落地成本、提升应用效率，未来将推进AI规模化落地。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_aa1873cb3b164c96a3eeeb8a080ec7e4@6381723_oswg4404388oswg4096oswg3072_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3906523265914245?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T08:02:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "34f02bfc",
+      "title": "‘蟑螂’抗议升级 莫迪政府压力持续增大",
+      "title_original": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "summary": "印度“蟑螂”抗议活动不断升级，莫迪领导的印度政府面临的压力持续攀升。本周二，印度反对党国大党在总理官邸外发起示威，为推动抗议的CJP阵营增添声势，进一步加大了政府的执政压力。",
+      "summary_original": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T08:02:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "27421537",
+      "title": "Synthesia人工智能培训平台拓展至实时辅导领域",
+      "title_original": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia推出互动式企业培训产品AI角色扮演环节，支持员工与AI化身练习职场对话，AI将为练习提供反馈、评分与数据分析，可帮助企业衡量培训效果，标志着其AI培训平台从视频领域拓展至实时辅导领域。",
+      "summary_original": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "27421537",
+      "title": "Synthesia AI训练平台突破视频边界，进军实时辅导领域",
+      "title_original": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia推出面向企业的交互式培训产品“AI角色扮演会话”，员工可在此平台与AI化身练习职场对话，AI化身将提供反馈、评分与数据分析，帮助企业衡量培训效果，其AI训练业务由此从视频拓展至实时辅导领域。",
+      "summary_original": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cca8bae2",
+      "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+      "title_original": null,
+      "summary": "2026年7月17日，2026世界人工智能大会在上海开幕，润建股份董事、副总裁丁永在大会现场接受36氪专访时提出，当前AI产业竞争已从模型能力比拼转向从Token到价值创造的闭环能力竞争，润建正打造Token全栈服务，推进企业级AI落地，布局Token出海。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_3ffb76b82697423a8defabe4610f455b@6381723_oswg1569964oswg1420oswg798_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3906499484996742?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T07:38:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3f59a928",
+      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+      "title_original": null,
+      "summary": "由前华为智驾骨干张呈伦创办的智能船艇企业同舟智航，专攻AI赋能休闲艇领域，近日完成数千万种子轮融资，融资将用于研发团队建设与海外市场拓展。该企业产品覆盖休闲艇前装后装市场，目前已锁定总规模过亿元的订单，瞄准千亿级全球休闲艇存量升级市场。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3906468088042886?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T07:06:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "022e5974",
+      "title": "胡塞威胁给石油市场带来‘双瓶颈问题’",
+      "title_original": "Houthi Threats Give Oil Markets a ‘Two Chokepoint Problem’",
+      "summary": "伊朗支持的也门胡塞叛军宣布对经曼德海峡的沙特出口实施禁运，受此影响，大量船只陆续改道避开红海南端。曼德海峡是石油出口关键航道，当前区域冲突背景下，胡塞的这一威胁给国际石油市场带来新的运输梗阻，形成了双瓶颈问题。",
+      "summary_original": "Ships continue to turn away from the southern end of the Red Sea, after Yemen’s Iran-backed Houthi rebels announced an embargo on Saudi exports through the Bab el-Mandeb Strait, a narrow channel that has become a lifeline for oil exports since the beginning of the US-Israeli war with Iran.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/key-oil-chokepoints-in-mideast-face-disruption-as-threats-mount",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T06:50:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b3cc381a",
+      "title": "BW2026结束后，留给了B站什么？",
+      "title_original": null,
+      "summary": "BW2026已落幕，本次展会上B站游戏业务呈现多点开花的发展态势：既覆盖多品类产品、强化了国际化布局，将独立游戏扶持升级为固定栏目，独游试玩参展数量创历届新高，也推出了爆款独游《逃离鸭科夫》、自研IP新作《三国火凤燎原》，走出差异化内容平台游戏路线。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_fb14771cad0e495881f1b41862d752aa@242988687_oswg1446462oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3905618377512065?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T06:36:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "819e0030",
+      "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+      "title_original": null,
+      "summary": "功率半导体企业芯迈第三次向港交所递交IPO招股书，其采用虚拟IDM模式，手机PMIC位列全球第三，2023-2025三年累计亏损近15亿元，目前存在增收不增利、客户供应商集中度较高、现金储备持续缩水等问题，本次IPO结果待观察。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_112e7958250b4c3f88fdb81de93d923f@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3906428262618241?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T06:25:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "18875c23",
+      "title": "首相严苛睡眠作息震惊日本",
+      "title_original": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+      "summary": "日本首相高市早苗称自己每晚仅睡0至3小时，这一极度压缩睡眠时间的高强度工作作息，不仅令不少日本民众感到十分震惊，也在日本国内引发了有关工作与生活平衡的广泛讨论。",
+      "summary_original": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-Japan-Takaichi-sleep-vbzg/22int-Japan-Takaichi-sleep-vbzg-mediumSquareAt3X-v2.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T06:03:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9f4923b5",
+      "title": "泽连斯基在连日抗议后解雇乌克兰陆军最高指挥官",
+      "title_original": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "乌克兰罢免广受民众欢迎的国防部长米哈伊洛·费多罗夫后，引发舆论反弹与连日抗议活动。乌克兰总统泽连斯基随后宣布解雇该国陆军最高指挥官亚历山大·瑟尔斯基，这是此次人事风波发酵后的最新变动。",
+      "summary_original": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T05:37:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "efdec11a",
+      "title": "伊朗邻国盼达成任何协议以结束战争",
+      "title_original": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+      "summary": "伊朗战事持续外溢，对区域经贸造成明显冲击，作为伊朗邻国，巴基斯坦国内的企业主早已失去耐心，迫切盼着能早日达成停战协议，以便恢复两国漫长共同边境线上的商品与石油贸易。",
+      "summary_original": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-pakistan-iran-promo-bgfl/21int-pakistan-iran-promo-bgfl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-22T05:02:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0283a094",
+      "title": "法国通过法律禁止15岁以下未成年人使用社交媒体",
+      "title_original": "France passes law banning under-15s from social media",
+      "summary": "法国通过一项新法律，明确禁止15岁以下未成年人使用社交媒体。根据该法律要求，自1月起，法国境内所有社交媒体平台必须对全部用户进行年龄验证，以此落实这项针对未成年人的使用禁令。",
+      "summary_original": "The law will require social media platforms in France to verify all users age from January.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e36/live/b7c9f5c0-859a-11f1-926f-c90d1bcfbc84.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T03:50:55+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "93e359b6",
+      "title": "黑海紧张局势推升谷物价格 巴黎小麦创两年新高",
+      "title_original": "Paris Wheat Hits Two-Year High as Black Sea Tensions Lift Grains",
+      "summary": "黑海地区局势持续升级，叠加市场对全球作物生长状况的担忧，共同推动国际谷物价格上行，巴黎小麦价格已经攀升至两年来新高，玉米价格延续涨势，触及三年来最高水平。",
+      "summary_original": "Wheat climbed to a two-year high in Paris, as corn extended a rally to the highest level in three years on escalating Black Sea tensions and concerns over crop conditions.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/wheat-gains-on-black-sea-risks-and-corn-hits-two-month-high",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-22T03:33:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3e5a0455",
+      "title": "米其林星级餐馆老板因用蚂蚁作甜点装饰面临监禁",
+      "title_original": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "summary": "官方披露，韩国一家餐厅在四年间，于各类菜品中共使用约4.9万只蚂蚁，该餐厅经营者是一名米其林星级餐馆老板，因违规将蚂蚁用作甜点装饰，目前面临监禁。",
+      "summary_original": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2a/live/c37aad90-8579-11f1-8811-6b329a8b70ce.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T03:32:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0f1ee693",
+      "title": "搅动推特AI圈的Anthropic收购Physical Intelligence传闻",
+      "title_original": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic拟收购Physical Intelligence的传闻近日在推特AI圈引发震动。该传闻诞生于行业收购潮背景下，Anthropic与OpenAI均计划在2026年展开大规模激进收购，这一行业动向为传闻的发酵提供了土壤。",
+      "summary_original": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T03:20:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0f1ee693",
+      "title": "搅动AI推特圈的Anthropic-Physical Intelligence收购传闻",
+      "title_original": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "近日一则AI领域的收购传闻在推特平台引发热议，传闻涉及AI企业Anthropic收购Physical Intelligence。该传闻发酵的背景是，Anthropic与OpenAI计划在2026年展开大规模收购，相关动态引发行业关注。",
+      "summary_original": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-22T03:20:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "017fde03",
+      "title": "赫格塞思称伊朗战争迄今已耗美国375亿美元 五角大楼再求数十亿美元拨款",
+      "title_original": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "summary": "在伊朗战争的关键节点，赫格塞思出席听证会作证，称伊朗战争迄今已耗费美国375亿美元，五角大楼目前正寻求额外数十亿美元拨款，本次听证会因抗议活动引发争吵被迫中断。",
+      "summary_original": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-22T02:15:05+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b869cb0f",
+      "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
+      "title_original": null,
+      "summary": "7月21日，新奥聚变主办的第四届氢硼聚变研讨会在河北廊坊开幕，吸引11个国家上百位专家参会交流最新成果。作为国内最早开展商用聚变开发的民营企业，新奥刚完成Pre-A轮融资，投后估值超106亿元，旗下装置已取得多项全球领先突破，正推进核心装置建设，规划2035年实现氢硼聚变商业化示范发电。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260721/v2_22aff7296b4c4edebad292f111fe4902@6310669_oswg313853oswg1920oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3905241313527687?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-22T01:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3b54eca8",
+      "title": "维度资本第三只8亿美元基金彰显科学与计算融合领域蓬勃发展",
+      "title_original": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "summary": "成立四年的投资机构维度资本推出规模达8亿美元的第三只基金，其规模较该机构18个月前推出的第二只基金高出60%，这一动向反映出当前科学与计算交叉融合领域投资热度提升，行业正蓬勃发展。",
+      "summary_original": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-22T01:27:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "81d76723",
+      "title": "2026年7月三星Galaxy新品发布会：观看指南",
+      "title_original": "Samsung Galaxy Unpacked July 2026: How to watch",
+      "summary": "2026年7月三星Galaxy新品发布会即将到来，三星预计将在本次活动中推出多款全新设备。结合目前流出的传闻与爆料信息，新一代三星折叠屏产品大概率会成为本次发布会的核心主角。",
+      "summary_original": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely be the stars of the show. Samsung is expected to show off a [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-22T01:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "240b8ed8",
+      "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
+      "title_original": null,
+      "summary": "近日，怡颗莓陷草莓含致癌物争议，国内渠道下架后其回应称国内在售云南产草莓与美国涉事批次独立，产品检测合格；美团否认上线按学历分级收费的配送服务；美方要求三星、SK海力士分享半导体业务超额利润，此外还有PICO换帅、AI产业新品发布、国产创新药实现全球首报首发等动态。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_334da9797a1c400b80ce53a94c4675f5@5667365_oswg294312oswg534oswg733_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3906043683296648?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-21T23:55:35+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "86519c5d",
+      "title": "Meta测试面向缺乏想象力人群的AI睡前故事应用",
+      "title_original": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "科技巨头Meta正测试一款全新AI睡前故事应用，服务于缺乏自主创作想象力的用户。如今终于有科技公司找到方法，将运用想象力这项人类最古老的消遣活动，外包给人工智能完成。",
+      "summary_original": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-21T23:55:10+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "3f3e5b0b",
+      "title": "伊朗战事最新动态：特朗普威胁若伊朗袭击霍尔木兹海峡 美国将报复打击民用目标",
+      "summary": "美国总统特朗普表示，若伊朗在霍尔木兹海峡发动袭击，美国将对伊朗首都境内及周边的桥梁、发电厂等民用目标实施报复打击。此前美国国务卿马尔科·鲁比奥称，德黑兰对外交谈判并不认真。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo1/22mideast-live-header-lftg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a849a55b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a849a55b",
+          "source": "NYTimes World",
+          "title": "伊朗战事最新动态：特朗普威胁若伊朗袭击霍尔木兹海峡 美国将报复打击民用目标",
+          "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+          "published_at": "2026-07-22T13:20:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:20:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3b95331",
+      "title": "浏览器大战已不再围绕搜索 盘点可替代Chrome与Safari的最佳浏览器",
+      "summary": "目前已有不少新兴浏览器向Chrome、Safari的市场主导地位发起挑战，相关方整理汇总了当前市面上多款顶尖替代浏览器的信息，梳理出了可替换两款主流浏览器的优质选项，供用户按需选择。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "31ae4b6d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "31ae4b6d",
+          "source": "TechCrunch",
+          "title": "浏览器大战已不再围绕搜索 盘点可替代Chrome与Safari的最佳浏览器",
+          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "published_at": "2026-07-22T13:20:35+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:20:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3b95331",
+      "title": "浏览器大战已不再围绕搜索展开——Chrome与Safari的最佳替代浏览器盘点",
+      "summary": "如今浏览器大战的核心已不再是搜索竞争，市场上涌现出不少试图挑战Chrome与Safari地位的替代浏览器，相关方面梳理汇总了目前市面上多款顶级替代浏览器的情况，形成相关概览供用户参考。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "31ae4b6d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "31ae4b6d",
+          "source": "TechCrunch AI",
+          "title": "浏览器大战已不再围绕搜索展开——Chrome与Safari的最佳替代浏览器盘点",
+          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "published_at": "2026-07-22T13:20:35+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:20:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c3114a2",
+      "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+      "summary": "德国初创企业Passionfroot专注打造连接B2B创作者与品牌的交易平台，完成由Insight Partners领投的1500万美元A轮融资，所得资金将用于把旗下B2B创作者市场业务拓展至美国。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "51708d59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "51708d59",
+          "source": "TechCrunch",
+          "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+          "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35a06a3f",
+      "title": "WhatsApp推出苹果CarPlay、安卓Auto升级及iPad注册等多项新功能",
+      "summary": "即时通讯应用WhatsApp推出多项功能更新，涵盖苹果CarPlay与安卓Auto适配升级、支持iPad注册账号等。本次车载端升级后，用户可直接在汽车屏幕上，免提完成收听回复消息、拨打电话等多项操作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f5b8b195"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f5b8b195",
+          "source": "TechCrunch",
+          "title": "WhatsApp推出苹果CarPlay、安卓Auto升级及iPad注册等多项新功能",
+          "link": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8203a42a",
+      "title": "三星最新折叠屏终于称得上Ultra旗舰",
+      "summary": "在市场等待苹果推出传闻中的折叠iPhone之际，三星正持续优化旗下已面市的折叠屏产品设计。体验者上手试用三星最新Z Fold 8 Ultra三小时后发现，三星通过技术优化终于让这款折叠屏的折痕彻底隐形。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "47f789b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "47f789b2",
+          "source": "The Verge",
+          "title": "三星最新折叠屏终于称得上Ultra旗舰",
+          "link": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78c97e79",
+      "title": "三星更宽版Z Fold 8手感刚刚好",
+      "summary": "去年三星对Z Fold折叠屏手机完成改造，推出设计大幅变薄的新品，今年三星再次调整产品形态，推出的Z Fold 8比三星以往所有折叠屏机型更宽也更短，整体尺寸与形态介于传统Flip和Fold两款机型之间。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "924c4c08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "924c4c08",
+          "source": "The Verge",
+          "title": "三星更宽版Z Fold 8手感刚刚好",
+          "link": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4790d02f",
+      "title": "三星Galaxy Watch 9与Ultra 2主打电池性能升级",
+      "summary": "三星今日正式发布新款Galaxy Watch 9与Galaxy Watch Ultra 2智能手表，本次Galaxy Watch系列走优化打磨路线，这一迭代思路已延续多代。三星在原有深受用户喜爱的产品基础上，对各类优势元素调校升级，本次新品核心升级方向为电池性能。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "24ffd27e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "24ffd27e",
+          "source": "The Verge",
+          "title": "三星Galaxy Watch 9与Ultra 2主打电池性能升级",
+          "link": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0ea025d",
+      "title": "我差点忘了三星Z Flip 8是折叠屏",
+      "summary": "三星推出新款Galaxy Z Flip 8折叠屏手机，上手体验显示该机相比以往折叠屏产品更接近普通直板手机，机身更纤薄轻巧，外屏可支持几乎所有操作。体验者试用三小时后，暂不确定这种设计方向究竟是好是坏。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b85fb3f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b85fb3f4",
+          "source": "The Verge",
+          "title": "我差点忘了三星Z Flip 8是折叠屏",
+          "link": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fc0e2502",
+      "title": "2026年7月三星Galaxy Unpacked夏季发布会推出多款全新折叠屏产品",
+      "summary": "2026年7月，三星在伦敦举办夏季Galaxy Unpacked发布会，本次发布的新品此前已历经数周传闻爆料，会上推出多款新品，涵盖三款不同定位的全新折叠屏手机，还有全新设计的智能手表阵容。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "ae908eb9",
+        "5affed56",
+        "81d76723"
+      ],
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ae908eb9",
+          "source": "The Verge",
+          "title": "2026三星Galaxy Unpacked发布会：六大重磅发布",
+          "link": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        },
+        {
+          "id": "5affed56",
+          "source": "The Verge",
+          "title": "三星2026 Unpacked发布会：七月可折叠机型发布全览",
+          "link": "https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news",
+          "published_at": "2026-07-22T12:30:00+00:00"
+        },
+        {
+          "id": "81d76723",
+          "source": "The Verge",
+          "title": "2026年7月三星Galaxy新品发布会：观看指南",
+          "link": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+          "published_at": "2026-07-22T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "1c3114a2",
+      "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+      "summary": "德国初创企业Passionfroot专注打造连接B2B创作者与品牌的交易平台，近日完成由Insight Partners领投的1500万美元A轮融资，计划将自身的B2B创作者市场业务拓展至美国市场。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "51708d59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "51708d59",
+          "source": "TechCrunch AI",
+          "title": "Passionfroot获1500万美元融资 拟将B2B创作者市场拓展至美国",
+          "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+          "published_at": "2026-07-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cc0bba61",
+      "title": "因入学人数缩减 穆迪下调洛杉矶学区信用评级",
+      "summary": "穆迪评级于周二将美国洛杉矶联合学区的信用评级下调一个等级。该学区当前入学人数持续下滑，同时运营成本不断增长，财政状况承受较大压力，穆迪因此下调了其信用评级。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a4109472"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a4109472",
+          "source": "Bloomberg",
+          "title": "因入学人数缩减 穆迪下调洛杉矶学区信用评级",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/la-school-district-downgraded-by-moody-s-as-enrollment-shrinks",
+          "published_at": "2026-07-22T12:54:34+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:54:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "63a54d0c",
+      "title": "乌克兰新任军事主官面临重大考验",
+      "summary": "乌克兰新任军事主官米哈伊洛·德拉帕蒂少将需要完成一项棘手的平衡任务，他既要彰显军事改革派支持的军事自主权，又要接纳政治层对战场战略提出的相关意见，这对他而言是一项巨大考验。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-military-assess-cmkv/22int-ukraine-military-assess-cmkv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0b7a030e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0b7a030e",
+          "source": "NYTimes World",
+          "title": "乌克兰新任军事主官面临重大考验",
+          "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+          "published_at": "2026-07-22T12:33:29+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:33:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0ed45a33",
+      "title": "希特勒出生地开设警察局 消除该址纳粹关联",
+      "summary": "纳粹独裁者希特勒出生于一栋17世纪的原旅馆，多年来，外界围绕这处特殊建筑应当如何处置一直存在不小争议。如今当地正式在希特勒出生地开设警察局，意图消除这一地点与纳粹之间的关联。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5803/live/7ce1c600-85b2-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "fc21585d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fc21585d",
+          "source": "BBC World",
+          "title": "希特勒出生地开设警察局 消除该址纳粹关联",
+          "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T12:32:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:32:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e708883f",
+      "title": "谨慎数十年后，德国正革新武器发展方式",
+      "summary": "随着来自俄罗斯的威胁上升，美国对德国的防务支持不断缩减，德国一改此前数十年在防务领域的谨慎姿态，正对21世纪武器的研发、资金投入以及实际运用模式进行全方位重塑革新。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-germany-innovation-top-ghjc/09int-germany-innovation-top-ghjc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "618b451d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "618b451d",
+          "source": "NYTimes World",
+          "title": "谨慎数十年后，德国正革新武器发展方式",
+          "link": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
+          "published_at": "2026-07-22T12:28:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:28:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "171aa019",
+      "title": "NASA新型南希·格蕾丝·罗曼太空望远镜下月将发射 变形镜有望发现类木星行星",
+      "summary": "该望远镜最快将于下月底发射，搭载首个进入太空的主动日冕仪与变形反射镜，可消除拍摄时恒星的大部分光线干扰，实现高精度观测，有望助力人类发现类似太阳系木星的系外行星。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b030bc34",
+        "def4f0c1"
+      ],
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "b030bc34",
+          "source": "MIT Technology Review",
+          "title": "《每日下载：NASA新太空望远镜与OpenAI自主黑客》",
+          "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+          "published_at": "2026-07-22T12:10:00+00:00"
+        },
+        {
+          "id": "def4f0c1",
+          "source": "MIT Technology Review",
+          "title": "NASA新型太空望远镜变形镜有望发现类木星行星",
+          "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+          "published_at": "2026-07-22T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:10:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "e76715f9",
+      "title": "与爱泼斯坦有关联的模特星探被发现死于巴黎郊区",
+      "summary": "与爱泼斯坦存在关联的模特星探丹尼尔·西亚德被发现死于法国巴黎郊区。西亚德的名字在爱泼斯坦相关案件文件中出现多达数千次，此前他曾公开否认自己知晓杰弗里·爱泼斯坦对他人构成的威胁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+      "article_ids": [
+        "1a416fd5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1a416fd5",
+          "source": "BBC World",
+          "title": "与爱泼斯坦有关联的模特星探被发现死于巴黎郊区",
+          "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T12:08:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T12:08:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "357a070c",
+      "title": "预期中的美沙核协议引发以色列对地区军备竞赛的担忧",
+      "summary": "预期美国将与沙特达成核协议，这一可能性引发以色列对地区核军备竞赛的担忧。以色列一名官员试图淡化该协议的影响，但批评人士指出，该协议可能刺激地区其他国家发展核项目，甚至推动相关国家研制核武器。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3c3ec976"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3c3ec976",
+          "source": "NYTimes World",
+          "title": "预期中的美沙核协议引发以色列对地区军备竞赛的担忧",
+          "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+          "published_at": "2026-07-22T11:55:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:55:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a12b6725",
+      "title": "诺瓦金将收购亿万富翁保尔森持有的阿拉斯加金矿股权",
+      "summary": "诺瓦金资源公司已达成协议，收购亿万富翁投资者约翰·保尔森持有的阿拉斯加唐林金矿项目40%股权，交易完成后，诺瓦金将获得这座大型未开发黄金矿的全部所有权。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e4b8e9d6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e4b8e9d6",
+          "source": "Bloomberg",
+          "title": "诺瓦金将收购亿万富翁保尔森持有的阿拉斯加金矿股权",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/novagold-to-buy-billionaire-paulson-s-stake-in-alaska-gold-mine",
+          "published_at": "2026-07-22T11:52:14+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:52:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97222e30",
+      "title": "霍尔木兹局势升温引发亚洲液化天然气争夺",
+      "summary": "霍尔木兹局势升温引发亚洲各国争抢液化天然气资源，受该局势影响，部分国家被迫采购近年来价格最高的液化天然气船货，相关国家能源采购成本大幅上涨，当前亚洲液化天然气市场供需偏紧，各国采购压力明显增加。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0119aeb3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0119aeb3",
+          "source": "Bloomberg",
+          "title": "霍尔木兹局势升温引发亚洲液化天然气争夺",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/hormuz-and-heat-trigger-an-asian-scramble-for-lng",
+          "published_at": "2026-07-22T11:26:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:26:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0a9f12b2",
+      "title": "丹格特炼油厂为赚美元出口汽油 尼日利亚汽油进口量增至三倍",
+      "summary": "尼日利亚上月汽油进口量增至原来的三倍以上，该国主要的丹格特炼油厂为最大化获取外汇收入，削减了面向国内市场的汽油供应，将越来越多的产出转向出口市场，直接推高了该国的汽油进口规模。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a480fcc9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a480fcc9",
+          "source": "Bloomberg",
+          "title": "丹格特炼油厂为赚美元出口汽油 尼日利亚汽油进口量增至三倍",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/nigeria-gasoline-imports-triple-as-dangote-refinery-exports-to-earn-dollars",
+          "published_at": "2026-07-22T11:18:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:18:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2bc49119",
+      "title": "墨西哥一生菜产区承受环孢子虫暴发的后果",
+      "summary": "墨西哥中部一处生菜种植区被发现可能与美国发生的环孢子虫感染疫情相关，此次疫情已造成美国境内数千人染病，涉事墨西哥生菜产区正承受此次疫情暴发带来的各类后续负面影响。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-mexico-cyclospora-promo/00int-mexico-cyclospora-bplz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "06033171"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "06033171",
+          "source": "NYTimes World",
+          "title": "墨西哥一生菜产区承受环孢子虫暴发的后果",
+          "link": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+          "published_at": "2026-07-22T11:09:54+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:09:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "18806bbb",
+      "title": "Meta自研AI检测系统，本该直接使用谷歌的",
+      "summary": "今年3月，Meta监督委员会要求该公司履行公开承诺，动用自有工具遏制平台上欺骗性生成式AI内容的传播。今年7月，Meta推出名为Content Seal的隐形水印技术，用于标记自家新款AI模型生成的图像。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d822ef4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d822ef4f",
+          "source": "The Verge",
+          "title": "Meta自研AI检测系统，本该直接使用谷歌的",
+          "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "published_at": "2026-07-22T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a679596d",
+      "title": "2026款本田Prelude堪称混动技术杰作",
+      "summary": "提及本田面向性能爱好者的车型，车迷通常最先想到思域Si、思域Type R、讴歌NSX，它们凭借本田可变气门正时发动机与灵动底盘备受青睐，Prelude此前关注度较低，全新2026款本田Prelude是面向爱好者打造的技术探索项目，堪称混动技术的惊艳之作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3a93a4b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3a93a4b5",
+          "source": "The Verge",
+          "title": "2026款本田Prelude堪称混动技术杰作",
+          "link": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+          "published_at": "2026-07-22T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "18806bbb",
+      "title": "Meta自研AI检测系统 本该用谷歌的就好",
+      "summary": "今年3月，Meta监督委员会要求该公司履行公开承诺，运用自有工具遏制虚假生成式AI内容在其平台扩散。今年7月，Meta推出名为Content Seal的隐形水印技术，用于标记自家新AI模型生成的图片。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d822ef4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "d822ef4f",
+          "source": "The Verge AI",
+          "title": "Meta自研AI检测系统 本该用谷歌的就好",
+          "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "published_at": "2026-07-22T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee9fb7da",
+      "title": "乌克兰最高将领遭解职 标志一个时代终结",
+      "summary": "乌克兰最高将领亚历山大·瑟尔斯基曾指挥多场关键战役，主导扩大针对俄罗斯的无人机作战，但不少乌克兰民众希望对俄作战能有更大调整，此次他遭解职，标志着乌克兰一个军事时代的终结。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-ukraine-syrskyi-profile-oonn/22int-ukraine-syrskyi-profile-oonn-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7136c2de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7136c2de",
+          "source": "NYTimes World",
+          "title": "乌克兰最高将领遭解职 标志一个时代终结",
+          "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+          "published_at": "2026-07-22T10:46:17+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:46:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd04cd46",
+      "title": "美国恢复打击伊朗 特朗普威胁攻击伊朗地下核设施",
+      "summary": "美国重启针对伊朗的打击行动，美国总统特朗普公开威胁，称将攻击伊朗一处关键的地下核设施。这一威胁是在美国准备对伊朗发起连续第十一夜袭击行动的前夕对外发出的。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "1593d8f3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1593d8f3",
+          "source": "BBC World",
+          "title": "美国恢复打击伊朗 特朗普威胁攻击伊朗地下核设施",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T10:15:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:15:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "95d75de2",
+      "title": "公用事业公司承诺不会让人工智能推高民众电费",
+      "summary": "人工智能发展热潮将推高消费者电费的担忧引发舆论反弹，美国多家大型公用事业公司及数据中心开发商承诺就此采取应对措施。据《华尔街日报》报道，目前已有近200家机构签署了唐纳德·特朗普提出的缴费用户保护承诺。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "190df8c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "190df8c6",
+          "source": "The Verge",
+          "title": "公用事业公司承诺不会让人工智能推高民众电费",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+          "published_at": "2026-07-22T10:12:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:12:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "95d75de2",
+      "title": "公用事业公司承诺不让消费者承担AI带来的额外电费",
+      "summary": "针对AI热潮将推高消费者电费的争议，美国多家大型公用事业企业与数据中心开发商承诺解决这一问题。据《华尔街日报》报道，已有近200家机构签署了唐纳德·特朗普提出的“电费用户保护承诺”。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "190df8c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "190df8c6",
+          "source": "The Verge AI",
+          "title": "公用事业公司承诺不让消费者承担AI带来的额外电费",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+          "published_at": "2026-07-22T10:12:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:12:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "389eadd3",
+      "title": "乌克兰无人机击中俄罗斯在线零售商野莓多处站点",
+      "summary": "本次袭击于夜间发起，乌克兰无人机击中俄罗斯在线零售商野莓的多处设施，位于俄罗斯克拉斯诺达尔和斯塔夫罗波尔地区的多个野莓旗下物流枢纽在此次袭击中被击中，这是乌方对该零售商俄境内站点发动的打击，击中了更多目标。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "cbb22621"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cbb22621",
+          "source": "BBC World",
+          "title": "乌克兰无人机击中俄罗斯在线零售商野莓多处站点",
+          "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T10:00:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:00:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba5efcdb",
+      "title": "Glow走出隐身模式 估值12亿美元挑战AI时代端点安全领域",
+      "summary": "创业公司Glow正式公开亮相，估值达12亿美元，切入AI时代端点安全赛道。当前企业内部快速普及AI智能体与开发工具，催生了一系列全新端点安全风险，Glow瞄准这类新风险布局，冲击现有端点安全市场格局。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e75398f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e75398f5",
+          "source": "TechCrunch",
+          "title": "Glow走出隐身模式 估值12亿美元挑战AI时代端点安全领域",
+          "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "published_at": "2026-07-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba5efcdb",
+      "title": "Glow走出隐匿模式，以12亿美元估值挑战AI时代终端安全领域",
+      "summary": "估值达12亿美元的Glow已结束隐匿运营状态正式亮相，其瞄准企业内部AI智能体、开发工具快速普及催生的全新品类终端风险，入局AI时代终端安全赛道，对该领域现有市场格局发起挑战。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "e75398f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "e75398f5",
+          "source": "TechCrunch AI",
+          "title": "Glow走出隐匿模式，以12亿美元估值挑战AI时代终端安全领域",
+          "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "published_at": "2026-07-22T10:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T10:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "740c1990",
+      "title": "受益即时零售增长 永恒公司收入超翻倍",
+      "summary": "永恒有限公司公布最新季度业绩，销售额涨幅超出市场预期。尽管当前即时零售行业竞争激烈，行业利润受到挤压，永恒仍实现收入超翻倍的增长，印证了自身在激烈竞争中保持持续增长的能力。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f66f7e6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f66f7e6f",
+          "source": "Bloomberg",
+          "title": "受益即时零售增长 永恒公司收入超翻倍",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/eternal-profit-falls-short-on-tough-instant-delivery-competition",
+          "published_at": "2026-07-22T09:50:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T09:50:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef895b60",
+      "title": "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告",
+      "summary": "2026美加墨世界杯落幕后，后浪研究所发布年轻人世界杯消费调查报告。当下年轻人多以刷短视频集锦的碎片化方式观赛，偏好舒适的居家观赛场景，消费多集中在200-300元，追求氛围感，伪球迷消费意愿更强，整体消费理性，更看重产品实用性。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_3a28d7b858854517b7772884ca2aa38e@6385117_oswg17358oswg945oswg771_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "985e4da6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "985e4da6",
+          "source": "36氪",
+          "title": "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告",
+          "link": "https://36kr.com/p/3906526848144515?f=rss",
+          "published_at": "2026-07-22T09:35:15+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T09:35:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c30f00b",
+      "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+      "summary": "本次汇总多条行业热点动态：苹果iPhone18系列已进入量产爬坡阶段；小红书公开辟谣，称市面上流传的相关IPO信息均不属实；明治将以最高3.5亿元把在华牛奶等业务转让给澳亚集团，同时涵盖AI、财经等多领域行业消息。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5f87fd42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "5f87fd42",
+          "source": "36氪",
+          "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+          "link": "https://36kr.com/p/3906606931907971?f=rss",
+          "published_at": "2026-07-22T09:29:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T09:29:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b70fcdea",
+      "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+      "summary": "2026年7月17日，在上海举办的世界人工智能大会上，超擎数智CEO唐春峰接受36氪专访时表示，当前AI产业竞争已从模型训练转向推理落地。超擎打造软硬一体全栈方案，已在新药研发、金融等多领域落地，可帮企业降低AI落地成本、提升应用效率，未来将推进AI规模化落地。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_aa1873cb3b164c96a3eeeb8a080ec7e4@6381723_oswg4404388oswg4096oswg3072_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "article_ids": [
+        "e5ef4c85"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "e5ef4c85",
+          "source": "36氪",
+          "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+          "link": "https://36kr.com/p/3906523265914245?f=rss",
+          "published_at": "2026-07-22T08:02:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T08:02:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5703f690",
+      "title": "‘蟑螂’抗议升级 莫迪政府压力持续增大",
+      "summary": "印度“蟑螂”抗议活动不断升级，莫迪领导的印度政府面临的压力持续攀升。本周二，印度反对党国大党在总理官邸外发起示威，为推动抗议的CJP阵营增添声势，进一步加大了政府的执政压力。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "34f02bfc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "34f02bfc",
+          "source": "BBC World",
+          "title": "‘蟑螂’抗议升级 莫迪政府压力持续增大",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T08:02:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T08:02:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bef04a77",
+      "title": "Synthesia人工智能培训平台拓展至实时辅导领域",
+      "summary": "Synthesia推出互动式企业培训产品AI角色扮演环节，支持员工与AI化身练习职场对话，AI将为练习提供反馈、评分与数据分析，可帮助企业衡量培训效果，标志着其AI培训平台从视频领域拓展至实时辅导领域。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "27421537"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "27421537",
+          "source": "TechCrunch",
+          "title": "Synthesia人工智能培训平台拓展至实时辅导领域",
+          "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "published_at": "2026-07-22T08:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bef04a77",
+      "title": "Synthesia AI训练平台突破视频边界，进军实时辅导领域",
+      "summary": "Synthesia推出面向企业的交互式培训产品“AI角色扮演会话”，员工可在此平台与AI化身练习职场对话，AI化身将提供反馈、评分与数据分析，帮助企业衡量培训效果，其AI训练业务由此从视频拓展至实时辅导领域。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "27421537"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "27421537",
+          "source": "TechCrunch AI",
+          "title": "Synthesia AI训练平台突破视频边界，进军实时辅导领域",
+          "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "published_at": "2026-07-22T08:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b187dda8",
+      "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+      "summary": "2026年7月17日，2026世界人工智能大会在上海开幕，润建股份董事、副总裁丁永在大会现场接受36氪专访时提出，当前AI产业竞争已从模型能力比拼转向从Token到价值创造的闭环能力竞争，润建正打造Token全栈服务，推进企业级AI落地，布局Token出海。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_3ffb76b82697423a8defabe4610f455b@6381723_oswg1569964oswg1420oswg798_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+      "article_ids": [
+        "cca8bae2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "cca8bae2",
+          "source": "36氪",
+          "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+          "link": "https://36kr.com/p/3906499484996742?f=rss",
+          "published_at": "2026-07-22T07:38:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T07:38:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "62b88c15",
+      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+      "summary": "由前华为智驾骨干张呈伦创办的智能船艇企业同舟智航，专攻AI赋能休闲艇领域，近日完成数千万种子轮融资，融资将用于研发团队建设与海外市场拓展。该企业产品覆盖休闲艇前装后装市场，目前已锁定总规模过亿元的订单，瞄准千亿级全球休闲艇存量升级市场。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3f59a928"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "3f59a928",
+          "source": "36氪",
+          "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+          "link": "https://36kr.com/p/3906468088042886?f=rss",
+          "published_at": "2026-07-22T07:06:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T07:06:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6918e993",
+      "title": "胡塞威胁给石油市场带来‘双瓶颈问题’",
+      "summary": "伊朗支持的也门胡塞叛军宣布对经曼德海峡的沙特出口实施禁运，受此影响，大量船只陆续改道避开红海南端。曼德海峡是石油出口关键航道，当前区域冲突背景下，胡塞的这一威胁给国际石油市场带来新的运输梗阻，形成了双瓶颈问题。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "022e5974"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "022e5974",
+          "source": "Bloomberg",
+          "title": "胡塞威胁给石油市场带来‘双瓶颈问题’",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/key-oil-chokepoints-in-mideast-face-disruption-as-threats-mount",
+          "published_at": "2026-07-22T06:50:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T06:50:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83898d2a",
+      "title": "BW2026结束后，留给了B站什么？",
+      "summary": "BW2026已落幕，本次展会上B站游戏业务呈现多点开花的发展态势：既覆盖多品类产品、强化了国际化布局，将独立游戏扶持升级为固定栏目，独游试玩参展数量创历届新高，也推出了爆款独游《逃离鸭科夫》、自研IP新作《三国火凤燎原》，走出差异化内容平台游戏路线。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_fb14771cad0e495881f1b41862d752aa@242988687_oswg1446462oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "b3cc381a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b3cc381a",
+          "source": "36氪",
+          "title": "BW2026结束后，留给了B站什么？",
+          "link": "https://36kr.com/p/3905618377512065?f=rss",
+          "published_at": "2026-07-22T06:36:04+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T06:36:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c32244f1",
+      "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+      "summary": "功率半导体企业芯迈第三次向港交所递交IPO招股书，其采用虚拟IDM模式，手机PMIC位列全球第三，2023-2025三年累计亏损近15亿元，目前存在增收不增利、客户供应商集中度较高、现金储备持续缩水等问题，本次IPO结果待观察。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_112e7958250b4c3f88fdb81de93d923f@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "819e0030"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "819e0030",
+          "source": "36氪",
+          "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+          "link": "https://36kr.com/p/3906428262618241?f=rss",
+          "published_at": "2026-07-22T06:25:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T06:25:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c38af301",
+      "title": "首相严苛睡眠作息震惊日本",
+      "summary": "日本首相高市早苗称自己每晚仅睡0至3小时，这一极度压缩睡眠时间的高强度工作作息，不仅令不少日本民众感到十分震惊，也在日本国内引发了有关工作与生活平衡的广泛讨论。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-Japan-Takaichi-sleep-vbzg/22int-Japan-Takaichi-sleep-vbzg-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "18875c23"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "18875c23",
+          "source": "NYTimes World",
+          "title": "首相严苛睡眠作息震惊日本",
+          "link": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+          "published_at": "2026-07-22T06:03:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T06:03:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf5ef168",
+      "title": "泽连斯基在连日抗议后解雇乌克兰陆军最高指挥官",
+      "summary": "乌克兰罢免广受民众欢迎的国防部长米哈伊洛·费多罗夫后，引发舆论反弹与连日抗议活动。乌克兰总统泽连斯基随后宣布解雇该国陆军最高指挥官亚历山大·瑟尔斯基，这是此次人事风波发酵后的最新变动。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+      "article_ids": [
+        "9f4923b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9f4923b5",
+          "source": "BBC World",
+          "title": "泽连斯基在连日抗议后解雇乌克兰陆军最高指挥官",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T05:37:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T05:37:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bb6e0ed2",
+      "title": "伊朗邻国盼达成任何协议以结束战争",
+      "summary": "伊朗战事持续外溢，对区域经贸造成明显冲击，作为伊朗邻国，巴基斯坦国内的企业主早已失去耐心，迫切盼着能早日达成停战协议，以便恢复两国漫长共同边境线上的商品与石油贸易。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-pakistan-iran-promo-bgfl/21int-pakistan-iran-promo-bgfl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "efdec11a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "efdec11a",
+          "source": "NYTimes World",
+          "title": "伊朗邻国盼达成任何协议以结束战争",
+          "link": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
+          "published_at": "2026-07-22T05:02:40+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T05:02:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "238472a3",
+      "title": "法国通过法律禁止15岁以下未成年人使用社交媒体",
+      "summary": "法国通过一项新法律，明确禁止15岁以下未成年人使用社交媒体。根据该法律要求，自1月起，法国境内所有社交媒体平台必须对全部用户进行年龄验证，以此落实这项针对未成年人的使用禁令。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e36/live/b7c9f5c0-859a-11f1-926f-c90d1bcfbc84.jpg",
+      "article_ids": [
+        "0283a094"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0283a094",
+          "source": "BBC World",
+          "title": "法国通过法律禁止15岁以下未成年人使用社交媒体",
+          "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T03:50:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T03:50:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "91fb0da6",
+      "title": "黑海紧张局势推升谷物价格 巴黎小麦创两年新高",
+      "summary": "黑海地区局势持续升级，叠加市场对全球作物生长状况的担忧，共同推动国际谷物价格上行，巴黎小麦价格已经攀升至两年来新高，玉米价格延续涨势，触及三年来最高水平。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "93e359b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "93e359b6",
+          "source": "Bloomberg",
+          "title": "黑海紧张局势推升谷物价格 巴黎小麦创两年新高",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/wheat-gains-on-black-sea-risks-and-corn-hits-two-month-high",
+          "published_at": "2026-07-22T03:33:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T03:33:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dca2c6c4",
+      "title": "米其林星级餐馆老板因用蚂蚁作甜点装饰面临监禁",
+      "summary": "官方披露，韩国一家餐厅在四年间，于各类菜品中共使用约4.9万只蚂蚁，该餐厅经营者是一名米其林星级餐馆老板，因违规将蚂蚁用作甜点装饰，目前面临监禁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2a/live/c37aad90-8579-11f1-8811-6b329a8b70ce.jpg",
+      "article_ids": [
+        "3e5a0455"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3e5a0455",
+          "source": "BBC World",
+          "title": "米其林星级餐馆老板因用蚂蚁作甜点装饰面临监禁",
+          "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T03:32:56+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T03:32:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6aa38055",
+      "title": "搅动推特AI圈的Anthropic收购Physical Intelligence传闻",
+      "summary": "Anthropic拟收购Physical Intelligence的传闻近日在推特AI圈引发震动。该传闻诞生于行业收购潮背景下，Anthropic与OpenAI均计划在2026年展开大规模激进收购，这一行业动向为传闻的发酵提供了土壤。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "0f1ee693"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0f1ee693",
+          "source": "TechCrunch",
+          "title": "搅动推特AI圈的Anthropic收购Physical Intelligence传闻",
+          "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "published_at": "2026-07-22T03:20:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T03:20:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6aa38055",
+      "title": "搅动AI推特圈的Anthropic-Physical Intelligence收购传闻",
+      "summary": "近日一则AI领域的收购传闻在推特平台引发热议，传闻涉及AI企业Anthropic收购Physical Intelligence。该传闻发酵的背景是，Anthropic与OpenAI计划在2026年展开大规模收购，相关动态引发行业关注。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "0f1ee693"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0f1ee693",
+          "source": "TechCrunch AI",
+          "title": "搅动AI推特圈的Anthropic-Physical Intelligence收购传闻",
+          "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "published_at": "2026-07-22T03:20:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T03:20:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6aafebdc",
+      "title": "赫格塞思称伊朗战争迄今已耗美国375亿美元 五角大楼再求数十亿美元拨款",
+      "summary": "在伊朗战争的关键节点，赫格塞思出席听证会作证，称伊朗战争迄今已耗费美国375亿美元，五角大楼目前正寻求额外数十亿美元拨款，本次听证会因抗议活动引发争吵被迫中断。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
+      "article_ids": [
+        "017fde03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "017fde03",
+          "source": "BBC World",
+          "title": "赫格塞思称伊朗战争迄今已耗美国375亿美元 五角大楼再求数十亿美元拨款",
+          "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-22T02:15:05+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T02:15:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea595dc6",
+      "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
+      "summary": "7月21日，新奥聚变主办的第四届氢硼聚变研讨会在河北廊坊开幕，吸引11个国家上百位专家参会交流最新成果。作为国内最早开展商用聚变开发的民营企业，新奥刚完成Pre-A轮融资，投后估值超106亿元，旗下装置已取得多项全球领先突破，正推进核心装置建设，规划2035年实现氢硼聚变商业化示范发电。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260721/v2_22aff7296b4c4edebad292f111fe4902@6310669_oswg313853oswg1920oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "b869cb0f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "b869cb0f",
+          "source": "36氪",
+          "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
+          "link": "https://36kr.com/p/3905241313527687?f=rss",
+          "published_at": "2026-07-22T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bfd248c0",
+      "title": "维度资本第三只8亿美元基金彰显科学与计算融合领域蓬勃发展",
+      "summary": "成立四年的投资机构维度资本推出规模达8亿美元的第三只基金，其规模较该机构18个月前推出的第二只基金高出60%，这一动向反映出当前科学与计算交叉融合领域投资热度提升，行业正蓬勃发展。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3b54eca8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3b54eca8",
+          "source": "TechCrunch",
+          "title": "维度资本第三只8亿美元基金彰显科学与计算融合领域蓬勃发展",
+          "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+          "published_at": "2026-07-22T01:27:58+00:00"
+        }
+      ],
+      "published_at": "2026-07-22T01:27:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21923511",
+      "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
+      "summary": "近日，怡颗莓陷草莓含致癌物争议，国内渠道下架后其回应称国内在售云南产草莓与美国涉事批次独立，产品检测合格；美团否认上线按学历分级收费的配送服务；美方要求三星、SK海力士分享半导体业务超额利润，此外还有PICO换帅、AI产业新品发布、国产创新药实现全球首报首发等动态。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260722/v2_334da9797a1c400b80ce53a94c4675f5@5667365_oswg294312oswg534oswg733_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "article_ids": [
+        "240b8ed8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "240b8ed8",
+          "source": "36氪",
+          "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
+          "link": "https://36kr.com/p/3906043683296648?f=rss",
+          "published_at": "2026-07-21T23:55:35+00:00"
+        }
+      ],
+      "published_at": "2026-07-21T23:55:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ddb4e97",
+      "title": "Meta测试面向缺乏想象力人群的AI睡前故事应用",
+      "summary": "科技巨头Meta正测试一款全新AI睡前故事应用，服务于缺乏自主创作想象力的用户。如今终于有科技公司找到方法，将运用想象力这项人类最古老的消遣活动，外包给人工智能完成。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "86519c5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "86519c5d",
+          "source": "TechCrunch",
+          "title": "Meta测试面向缺乏想象力人群的AI睡前故事应用",
+          "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "published_at": "2026-07-21T23:55:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-21T23:55:10+00:00",
+      "is_merged": false
+    }
+  ]
+}

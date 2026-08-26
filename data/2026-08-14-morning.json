@@ -1,0 +1,2411 @@
+{
+  "date": "2026-08-14",
+  "edition": "morning",
+  "updated_at": "2026-08-14T09:49:39.889113+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "10552dcf",
+      "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+      "title_original": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "美国此前已规定，外国新出口至美国的无人机、路由器、机器人等产品，相关企业需满足美方要求才能获准入境。如今美国总统特朗普拟对现有进口的多款无人机及所有飞机零部件征收100%关税，大幅抬高相关产品进口成本。",
+      "summary_original": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and aircraft parts, too. He's going to try to make them cost a lot more. In a presidential [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-14T01:06:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9683ab5e",
+      "title": "‘蟑螂’抗议威胁后 印度律师理事会撤回决定",
+      "title_original": "India Bar Council Retreats After ‘Cockroach’ Protest Threat",
+      "summary": "印度律师行业全国监管机构曾发布命令，禁止该国一所顶尖法学院的整届毕业生注册成为执业律师。该决定引发快速壮大的青年运动的抗议威胁，出台仅数小时后，该监管机构便撤销了这项命令。",
+      "summary_original": "India’s national regulator for lawyers reversed an order barring an entire graduating class at one of the country’s leading law schools from enrolling as advocates, hours after the move triggered threats of protests from a fast-growing youth movement.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-bar-council-retreats-after-cockroach-protest-threat",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-14T00:11:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d6bfa42b",
+      "title": "新西兰移民数据攀升至17个月新高 但仍显疲软",
+      "title_original": "New Zealand Immigration Edges to 17-Month High Yet Remains Weak",
+      "summary": "新西兰年度移民持续显现初步复苏迹象，受离境人数减少推动，该国6月移民数据攀升至17个月新高，不过当前新西兰整体移民态势仍处于疲软状态。",
+      "summary_original": "New Zealand annual immigration continues to show signs of a tentative recovery, rising to a 17-month high in June as fewer people departed.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/new-zealand-immigration-edges-to-17-month-high-yet-remains-weak",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T23:59:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4a89a873",
+      "title": "交易员权衡美联储利率路径与中东紧张局势 金价持稳",
+      "title_original": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension",
+      "summary": "金价跌破每盎司4400美元后基本持稳，整体变动极小。交易员正评估影响金价走向的多重因素，包括美联储的利率调整路径，以及霍尔木兹海峡达成重新开放协议的前景，中东地缘局势也牵动市场情绪。",
+      "summary_original": "Gold was little changed after retreating below $4,400 an ounce, as traders weighed the Federal Reserve’s interest-rate path and prospects for a deal to reopen the Strait of Hormuz.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T23:24:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b29ef0ae",
+      "title": "苹果与Epic就苹果从App Store外购买的抽成份额产生争议",
+      "title_original": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "苹果与Epic Games的法律纠纷已持续许久，近日苹果在该案最新提交的文件中提出，将对不使用苹果内购系统、通过外部链接完成的数字购买抽取佣金，Epic随即回应称这一要求远远超出了合理边界。",
+      "summary_original": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T23:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7d4982bf",
+      "title": "美国航母出海超250天 舰上状况敲响警钟",
+      "title_original": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "美国“亚伯拉罕·林肯”号航空母舰已出海超过250天，舰上千名水手面临食物短缺、供水管道破损等问题，糟糕处境甚至让部分水手产生跳海想法，该航母的恶劣舰上状况已引发外界警惕。",
+      "summary_original": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5aa6cf89",
+      "title": "日本通胀悖论催生输家与赢家",
+      "title_original": "Japan’s Inflation Paradox Is Creating Winners and Losers",
+      "summary": "日本当前物价持续上涨，这一变化结束了该国多年的通缩局面，预示着经济进入充满活力的新阶段，却也引发民众对政府的不满反弹，这场矛盾的通胀格局分化出不同利益群体，彭博社记者雪莉·安将带来更多相关报道。",
+      "summary_original": "Rising prices are fueling a backlash against the government even as they signal a new era of economic dynamism after years of deflation. Bloomberg's Shery Ahn has more. (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-13/japan-s-inflation-paradox-is-creating-winners-and-losers-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T23:00:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0e3c15da",
+      "title": "普京访问二战夺自日本的岛屿 触怒东京",
+      "title_original": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "summary": "日本首相高市早苗一直公开批评普京，普京此前已就乌克兰战争谴责日本对俄实施制裁。普京此次访问二战时期从日本夺取的争议岛屿，此举直接触怒东京，引发日本方面强烈不满。",
+      "summary_original": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/asia/Putin-Kuril-Islands-Cover-Image/Putin-Kuril-Islands-Cover-Image-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T22:38:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "086ee84e",
+      "title": "高达100%，美国将对进口无人机及零部件征收关税-观察者网 - 观察者",
+      "title_original": null,
+      "summary": "多家媒体报道，美国将对进口无人机及相关零部件征收最高达100%的关税。有观点指出这一贸易举措出台，与俄乌冲突给美国带来的警醒相关，该政策由特朗普推出，相关消息已引发多方关注。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vWEFadVI5RF9MWm5KTXNORWdaNXVZekc3SWRtZDlHU2xCNWtkbURtVmRQRWhIcWR5LTQ4T1lSTTNuMWk4STVBYnVxM2JGZmdkOTREWjNGVWYzU3ZwcmppQlEtd1REeFN1akE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T22:21:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d1c21344",
+      "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+      "title_original": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary": "多名投资者对赛琳娜·戈麦斯提起诉讼，指控其参与的心理健康初创公司存在欺诈行为。原告称他们已向该公司投资近120万美元，赛琳娜并未完成该初创公司的搭建与推广工作。",
+      "summary_original": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T22:12:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "836c0db2",
+      "title": "习近平生态文明思想引领美丽中国建设谱新篇 - 四川日报",
+      "title_original": null,
+      "summary": "四川日报刊发相关报道，指出习近平生态文明思想为新时代我国生态文明建设提供了根本遵循与行动指南。在这一科学思想的引领下，我国持续推进生态文明建设实践，不断破解生态发展难题，美丽中国建设正持续开创新局面、谱写崭新发展篇章。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RWZoY0Y2c2RaTjAybjhtaVdfb3Vtb1AyRllGMTlQZjNkTmd1NFY3dDVZeUhRUkJSZVlkRjYzZXdVZ0dTUTJyOEw0bnE0TGpOeWZISXhaNVVuU3hvNDVDWGpVejhjbVhXYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T22:12:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ce6a267b",
+      "title": "市场综述：美国通胀、科技股推动亚洲股市上涨",
+      "title_original": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap",
+      "summary": "最新多项证据显示美国通胀正逐步放缓，这一趋势强化了市场对美联储将于下月暂停加息的预期，受这一乐观预期提振，叠加科技股集体上涨拉动，亚洲股市整体迎来攀升行情。",
+      "summary_original": "Asian stocks climbed as further evidence of moderating US inflation reinforced bets that the Federal Reserve will refrain from raising interest rates next month. Technology stocks rallied.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:10:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "18309a25",
+      "title": "Reddit因将于本月纳入标普500 股价大涨",
+      "title_original": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
+      "summary": "标普道琼斯指数周四宣布，美国社交平台Reddit将作为非周期调整的一部分，于本月内下周正式纳入标普500指数。该消息公布后，Reddit股价在盘后交易中大幅拉升，涨幅超过10%。",
+      "summary_original": "Reddit Inc. will join the S&amp;P 500 next week as part of an off-cycle change, S&amp;P Dow Jones Indices said Thursday, sending the social networking platform’s shares surging more than 10% after the bell.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/reddit-shares-surge-on-s-p-500-inclusion-later-this-month",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:09:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a58ff28c",
+      "title": "8月14日最新石油市场新闻与分析",
+      "title_original": "Latest Oil Market News and Analysis for Aug. 14",
+      "summary": "当前油价延续跌势，交易员正密切关注一项旨在重新开放霍尔木兹海峡的协议的推进情况。近期油轮与能源基础设施遭遇新袭击，相关局势令石油市场整体维持紧张状态。",
+      "summary_original": "Oil held a decline as traders monitored efforts toward a deal that could reopen the Strait of Hormuz, while fresh attacks on tankers and energy infrastructure kept the market on edge.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:04:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b042f98f",
+      "title": "达龙·阿西莫格鲁：我们正“濒临失去”自由民主",
+      "title_original": "Daron Acemoglu: We are \"at the Cusp of Losing\" Liberal Democracy",
+      "summary": "诺贝尔经济学奖得主达龙·阿西莫格鲁推出新作《自由民主怎么了？》，探讨自由主义的演进，以及AI等技术快速发展背景下自由民主的未来。他做客彭博《商业周刊日报》，分析社交媒体对民主发展的影响，指出算法放大不良言论并非言论自由，而是操纵。",
+      "summary_original": "A new book 'What Happened to Liberal Democracy?' by Nobel Laureate Daron Acemoglu examines the evolution of liberalism, and its future amid rapidly advancing technologies like AI. He joins Buisnessweek Daily to discuss why he wrote this book and how social media and online connections influence what democracy needs to thrive, arguing \"if algorithms take the worst of what we say and amplify that, that's not freedom of speech, that's manipulation.\" (Source: Bloomberg)",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/videos/2026-08-13/are-we-at-the-cusp-of-losing-liberal-democracy-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T22:03:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "21ab0264",
+      "title": "弗洛克称新工具可协助识别警察滥用权力 未说明运作原理",
+      "title_original": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "监控企业弗洛克推出名为“审计协助”的新工具，要求所有客户强制使用。该公司称这款工具已协助发现警察滥用权力行为，但迄今未详细披露其运作机制，引发外界对该工具实际有效性的质疑。",
+      "summary_original": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T22:02:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f1899908",
+      "title": "“这不可接受”:法官要求谷歌简化竞争对手应用商店安装流程",
+      "title_original": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary": "Epic Games与谷歌暂停安卓应用分发争端一个月后，双方再次对簿旧金山法庭。法官詹姆斯·多纳托裁定，要求谷歌简化安卓系统中第三方竞争应用商店的安装流程，该案距离陪审团作出一致裁决已过去近三年。",
+      "summary_original": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:53:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "93b74b54",
+      "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+      "title_original": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary": "当前苹果推出新的安全提醒机制，当苹果检测识别出有政府背景的间谍软件正对用户的iPhone设备发起攻击时，会直接向设备锁屏推送攻击提醒通知，用户接到这类警报后应当予以重视。",
+      "summary_original": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T21:50:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e753a7c9",
+      "title": "“加强新时代廉洁文化建设”（总书记的人民情怀） - politics.people.com.cn",
+      "title_original": null,
+      "summary": "刊发于人民网政治频道的一篇报道，标题为《“加强新时代廉洁文化建设”（总书记的人民情怀）》，该报道围绕总书记的人民情怀展开，聚焦新时代廉洁文化建设相关议题，用户可在谷歌新闻查看这一报道及更多头条新闻与观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95dzIzcW9KSHlXWjliSGNuQWxWZFdSOW9hS193TTVkdjRNazJ5SzNMdzZZOG93LU8zdXFaQkhYdmZXVmgwLWRQSHVKSERBblJJZi00MXdzaW9nbFYwZzIxd3RTbjc5Tk1mSHl6QTM0R1VPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T21:50:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "41a5bb3e",
+      "title": "围绕弗洛克及其他自动车牌识别设备的争议",
+      "title_original": "The fight over Flock and other ALPRs",
+      "summary": "美国目前已安装超过12万台弗洛克公司出品的自动车牌识别摄像头，这类设备依托人工智能，可根据车牌号码、车型、颜色等信息识别追踪车辆，联网后能够全天候跨区域追踪车辆与人员移动轨迹，相关应用引发不小争议。",
+      "summary_original": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people&#8217;s movements throughout the day and across [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:46:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e1e53d14",
+      "title": "报告称瑞安航空发动机部件击碎舷窗 致一名男子头部被吸出",
+      "title_original": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "summary": "美国调查人员公布一份初步报告，上个月一架执飞希腊至德国航线的瑞安航空航班发生故障，一枚发动机风扇叶片断裂，脱落的发动机部件击碎飞机舷窗，造成机上一名男子头部被吸出窗外。",
+      "summary_original": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a202a998",
+      "title": "微软酷似Clippy的Mico虚拟形象不再是Copilot代表",
+      "title_original": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "微软宣布，旗下AI聊天工具Copilot的语音模式将不再启用拟人黄色虚拟形象Mico。微软将把Mico转移至Learn Live平台，为其提供更多可互动的场景，相关变动消息早前已由GeekWire率先报道。",
+      "summary_original": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a202a998",
+      "title": "微软类Clippy的Mico形象不再是Copilot代表形象",
+      "title_original": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "据GeekWire此前报道，微软在官方支持页面宣布，AI聊天机器人Copilot的语音模式将不再显示黄色虚拟形象Mico，这款类似Clippy的形象将转移至微软Learn Live平台，获得更多互动场景，Mico此前才上线Copilot语音模式。",
+      "summary_original": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "33e130b7",
+      "title": "英国东萨塞克斯郡刘易斯镇附近发生火车脱轨事故",
+      "title_original": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "summary": "本周四，英国东萨塞克斯郡刘易斯镇附近发生一起火车脱轨事故，当地应急服务部门已抵达事发现场开展处置工作，此次事故共造成十八人受轻伤，目前相关方面尚未披露事故的更多细节信息。",
+      "summary_original": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-train-mfwl/13int-uk-train-mfwl-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T21:22:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "539d991b",
+      "title": "Writer推出新型AI模型及升级框架，管控令牌成本",
+      "title_original": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "AI厂商Writer推出一款新型人工智能模型，该模型是Z.ai开源模型GLM-5.2训练后得到的衍生变体。Writer称这款新系统具备可直接部署的能力，定价远低于原有方案，能够有效控制令牌使用成本。",
+      "summary_original": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "539d991b",
+      "title": "Writer推出新型AI模型及升级方案 控制Token成本",
+      "title_original": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "AI服务商Writer推出一款新型人工智能模型，该模型是Z.ai开源模型GLM-5.2的训练后变体，配套升级方案用以控制Token使用成本。Writer称该新系统可直接部署投入使用，定价远低于原有方案，能帮助用户大幅削减相关开支。",
+      "summary_original": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a5a20f62",
+      "title": "圆桌会议：剖析影响美国政策的“审查产业复合体”概念",
+      "title_original": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "summary": "“审查产业复合体”是一种声称政府、科技企业与研究机构形成合作网络，共同压制保守派网络言论的说法。这一概念多年来流传于美国右翼信息圈，如今已开始渗透进美国政策，本次圆桌对话探讨其起源与发展。",
+      "summary_original": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "af052eca",
+      "title": "网飞将关闭两家游戏工作室",
+      "title_original": "Netflix is closing two game studios",
+      "summary": "据Game File与《综艺》报道，流媒体平台网飞计划关闭两家内部游戏工作室，此举是网飞调整业务方向，向派对游戏以及电视端串流游戏倾斜布局的举措。其中一家关闭的工作室是2021年被网飞收购的夜校工作室，该工作室曾推出《奥森弗里》系列游戏。",
+      "summary_original": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and it [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T20:52:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c79486a8",
+      "title": "以色列定居者驱逐后恢复约旦河西岸围困",
+      "title_original": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "summary": "以色列定居者完成驱逐行动后，恢复了对约旦河西岸相关区域的围困。以色列军方未能将极端分子隔离开，致使两户巴勒斯坦家庭被困自家住宅中，这一情况清楚表明，这片被以色列占领的领土目前已陷入混乱。",
+      "summary_original": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T20:18:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7261e658",
+      "title": "Databricks原拟融资10亿美元 最终敲定50亿美元融资 估值达1900亿美元",
+      "title_original": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI领域业务成本高昂，Databricks首席执行官阿里·格德西向TechCrunch透露，公司最新一轮融资吸引了大量投资者参投，因此最终接受了远超原计划的融资额，敲定50亿美元融资，公司估值达1900亿美元。",
+      "summary_original": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T20:14:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7261e658",
+      "title": "Databricks拟募资10亿美元投资者欲投150亿 最终敲定融资50亿估值1900亿美元",
+      "title_original": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI领域业务成本高昂，Databricks首席执行官阿里·格德西接受TechCrunch采访时透露，该公司本轮融资原本计划募资10亿美元，因大量投资者踊跃参投，最终敲定融资50亿美元，公司整体估值达1900亿美元。",
+      "summary_original": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T20:14:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f721e2a",
+      "title": "以色列定居者围困民房 巴勒斯坦人被要求撤离村庄住所",
+      "title_original": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "summary": "巴勒斯坦库斯拉村的多处民房被以色列定居者围困，该村市长透露，以色列军队已要求当地家庭撤离自家住所，还将部分撤离后的民房征用，改作军队营房使用。",
+      "summary_original": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T20:12:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6be80d7a",
+      "title": "惠普这款校园适用笔记本直降300美元",
+      "title_original": "This school-friendly laptop from HP is $300 off",
+      "summary": "当前内存价格仍处高位且无下降迹象，内存充足的高性价比设备优惠十分难得。百思买对惠普OmniBook X Flip笔记本给出300美元折扣，折后售价为699.99美元，该机型适配校园使用需求，搭载英特尔酷睿系列处理器。",
+      "summary_original": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to $699.99. This model is equipped with an Intel Core Ultra [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T20:07:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0713eeae",
+      "title": "生态环境法典施行在即 推动绿色循环赛道价值重估 - 东方财富",
+      "title_original": null,
+      "summary": "《生态环境法典》将于8月15日正式施行，将为美丽中国建设提供坚实法治保障。目前江苏常州、浙江多地已多部门联动，开展进企业、进社区、进校园的普及活动，市场观点认为，其施行将推动绿色循环赛道实现价值重估。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbDk4WnVJQ1lZOWpSOFdpaW13N0dKTmZUekFkUkZGdUhhYmpkWWxOMU4xT2NHRnlycjN3bXZTSEcxeGJqSnFtTHozaE00VkJDZEZUdXJpREphLTNHT0x1eg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T20:03:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "997da8e8",
+      "title": "据报多元化能源即将敲定收购艾略特支持的伯奇资源交易",
+      "title_original": "Diversified Said to Near Deal for Elliott-Backed Birch",
+      "summary": "据知情人士透露，多元化能源公司拟以超过17亿美元现金，收购由艾略特投资管理支持的油气企业伯奇资源，目前双方相关收购谈判已进入后期阶段，这笔交易已临近最终敲定。",
+      "summary_original": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-08-13T19:55:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8d5032c8",
+      "title": "首艘国产大型邮轮开启大湾区首航 - 光明网",
+      "title_original": null,
+      "summary": "首艘国产大型邮轮“爱达·魔都号”正式开启大湾区首航，这是该邮轮首次进驻华南市场，在粤港澳大湾区运营国际邮轮航线，开启了中国海岸巡游与大湾区邮轮产业发展新篇章。目前国产大邮轮正趁着暑期档稳步提质运营，锚定“十五五”文旅发展方向推进布局。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rZUVsa25zLVNZcVNyaThZR0F6SzJYT1Zrb0I2a1BkZHBNTXdDMXFCZktmSnFvUXRtMjhJRVNfM2ViVlpacW9sRFEtbWRPMDQxMFJXalYxT0dlNWxxZDRpMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T19:55:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2f3644dd",
+      "title": "高温致多瑙河水位大幅下降 罗马尼亚关闭唯一核电站",
+      "title_original": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "受高温天气影响，多瑙河水位出现大幅下降，罗马尼亚因此关闭本国唯一的切尔纳沃德核电站。该电站发电量占罗马尼亚全国总发电量的20%，目前预计其未来10天内无法重启。",
+      "summary_original": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T19:46:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e25b41ad",
+      "title": "私人安保公司即将获准对境外网络犯罪分子发动黑客攻击",
+      "title_original": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "特朗普签署的相关备忘录，是美国政府首次授权私营部门实施网络攻击行动。根据新规，私人安保公司很快将获准对境外网络犯罪分子发动黑客攻击，这也是美国政府首次将网络攻击权限开放给私营领域机构。",
+      "summary_original": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-08-13T19:38:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "45947aa8",
+      "title": "OpenAI本周第二名高管离职",
+      "title_original": "OpenAI is losing its second executive this week",
+      "summary": "OpenAI发生本周第二起高管离职事件，原Slack首席执行官Denise Dresser于去年12月加入OpenAI担任首席营收官，她在领英发布团队通知称，将于未来几周离职追求其他机会，原Wiz总裁兼首席运营官Dali Rajic将接任该职位。",
+      "summary_original": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T19:28:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "45947aa8",
+      "title": "OpenAI本周流失第二位高管",
+      "title_original": "OpenAI is losing its second executive this week",
+      "summary": "OpenAI本周出现第二位高管离职，原Slack首席执行官丹妮丝·德雷泽于去年12月加入OpenAI担任首席营收官，她通过领英发布团队通知称，将在未来几周离职追寻其他发展机会，原Wiz总裁兼首席运营官达利·拉吉奇将接任该职位。",
+      "summary_original": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-08-13T19:28:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "459413c0",
+      "title": "OpenAI推出\"超快\"新模式 可让GPT-5.6 Sol运行速度达原有14倍",
+      "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI推出了旗下最新、性能最强大模型的提速版本预览，该版本搭载全新\"超快\"模式，可让GPT-5.6 Sol的运行速度提升至原有水平的14倍，推出该预览版意在吸引争夺企业用户市场。",
+      "summary_original": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T19:22:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "459413c0",
+      "title": "OpenAI推出“超快”新模式，使GPT-5.6 Sol运行速度提升14倍",
+      "title_original": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "人工智能企业OpenAI推出其最新、性能最强模型的提速版本预览，该版本新增“超快”新模式，可让GPT-5.6 Sol运行速度提升至原有水平的14倍，OpenAI此举旨在争夺企业用户群体。",
+      "summary_original": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T19:22:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b377fa89",
+      "title": "IBM与OpenAI合作 强化企业AI业务布局",
+      "title_original": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM与OpenAI达成合作，共同发力推进企业AI业务发展。作为本次合作的内容，IBM计划对数万名咨询顾问开展OpenAI相关技术的培训与认证，强化自身服务企业AI转型的能力。",
+      "summary_original": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T19:19:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b377fa89",
+      "title": "IBM携手OpenAI推进企业AI业务布局",
+      "title_original": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM与OpenAI达成合作，共同发力企业人工智能领域。根据双方协议，IBM计划对数万名咨询顾问开展OpenAI相关技术培训并完成认证，以此提升自身企业AI服务能力，进一步拓展企业AI相关业务。",
+      "summary_original": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T19:19:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5089356b",
+      "title": "台风白海豚刷新多项历史纪录 极端风雨影响浙江 - 中华网",
+      "title_original": null,
+      "summary": "台风“白海豚”刷新多项历史纪录，给浙江带来极端风雨影响。它停编后，残余环流影响仍未结束，残涡入海后仍可能持续制造降雨。气象预报显示，未来10天还将有新台风生成，多地暴雨将持续。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5azROTFdFaVljWnA1MkNTU1Rfel85c1c2MFRTVm5yWk1ESXVKSzJ6aUZ4c3lKZDBIOWcwcHhib3FseXA4TDFPWXY3OGJKNGlNM0pEcFBsc19oZzRKbUVJZ3lGTTJCSkdMSlhENWNJdHo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-08-13T19:18:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0803d35a",
+      "title": "爱尔兰空难遇难者家属获2900万美元损害赔偿",
+      "title_original": "Family of Irish plane crash victim awarded $29m in damages",
+      "summary": "爱尔兰空难遇难者迈克尔·瑞安的遗孀妮奥伊斯·康诺利·瑞安对波音公司提起民事诉讼，美国芝加哥的一个陪审团就此案作出裁决，判令向迈克尔·瑞安的家属支付共计2900万美元的损害赔偿。",
+      "summary_original": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82a7/live/6b9bb890-973e-11f1-96db-71945ca8cae7.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T19:08:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cb0c96cd",
+      "title": "特朗普政府将允许私营企业发起国际网络攻击",
+      "title_original": "The Trump admin will start letting private firms launch international cyberattacks",
+      "summary": "据彭博社此前报道，特朗普政府推出一项新计划。根据周三公布的总统备忘录，私营企业可在联邦政府的管控与监督下，针对外国犯罪分子开展网络行动，获得监控并破坏犯罪网络的许可。",
+      "summary_original": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T18:56:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3c556716",
+      "title": "报道称或将达成辩诉交易 曼焦内律师将会见联邦检察官",
+      "title_original": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "summary": "日前有消息称曼焦内一案或将达成辩诉交易，曼焦内的代理律师将会见联邦检察官。曼焦内目前面临两项联邦指控，两项罪名均为跟踪骚扰致人死亡，每项指控的最高量刑均为终身监禁。",
+      "summary_original": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0854/live/f4140030-972d-11f1-bbb3-ebc49f706d46.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T18:45:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "15f1f783",
+      "title": "我终于找到一款可放心用于庭院的割草机器人",
+      "title_original": "I finally found a robot lawnmower I’d trust with my yard",
+      "summary": "当前割草机器人性能已足够出色，能帮人们省去庭院维护的大量工作，不过这类自动割草设备目前还做不到设置完成就无需过问。如果不想它损毁草坪，或是乱跑闯入邻居的庭院，使用者仍需要对它多加留意。",
+      "summary_original": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-08-13T18:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f7a500c",
+      "title": "Anthropic让多AI智能体执行同一任务 竟爆发地盘战",
+      "title_original": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic研究人员开展相关测试发现，多个AI智能体之间会出现冲突、合谋、协调等出人意料的行为，这引发了新的疑问：当前的AI安全测试能否充分捕捉多AI智能体系统存在的相关风险。",
+      "summary_original": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T18:28:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4f7a500c",
+      "title": "Anthropic让AI智能体执行同一任务 竟爆发“地盘争夺战”",
+      "title_original": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic研究人员发现，多个AI智能体互动时会出现冲突、合谋、协作等超出预期的行为，这一发现引出新的疑问：当前的AI安全测试，能否覆盖多AI智能体系统存在的相关风险。",
+      "summary_original": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T18:28:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "031f75f1",
+      "title": "美国一项胜算渺茫的石油钻探项目缘何搅动格陵兰岛",
+      "title_original": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+      "summary": "一家美国石油公司称，其即将在格陵兰岛取得重大石油发现。这个成功概率本就极低的钻探项目推出之时，恰逢这座北极岛屿的敏感时期，当地民众现已集体站出来明确反对该项目。",
+      "summary_original": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T18:22:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bba9e984",
+      "title": "构建后量子密码的实用路径",
+      "title_original": "Building a practical path to post-quantum cryptography",
+      "summary": "量子计算在科技界一直呈现突破与炒作并存的状态，其强大算力可破解现有加密体系，给信息安全带来威胁。企业管理者应当明确，后量子密码（PQC）并非无法应对的危机，而是可管控的技术演进，现有加密体系正面临挑战。",
+      "summary_original": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today&#8217;s encrypted digital transactions may&#8230;",
+      "image": null,
+      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-08-13T18:11:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2a9a659e",
+      "title": "英国的夏天再也不一样了",
+      "title_original": "‘An English Summer Is Not the Same Anymore’",
+      "summary": "英国气象预报机构已发布极端高温预警，目前来看，今年英国夏季正逐步成为当地有史以来最热的夏季之一，一改过往英国夏季凉爽温和的常态，当地夏季气候特征已发生明显改变，和以往大不相同。",
+      "summary_original": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-vqch/13int-uk-heat-vqch-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T17:52:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b8986b9f",
+      "title": "墨西哥志愿救援组织阿兹特克救援队参与哥伦比亚地震后救援工作",
+      "title_original": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
+      "summary": "曾参与美国“9·11”袭击后救援工作、面向全球开展救援行动的墨西哥志愿救援组织阿兹特克救援队，完成在委内瑞拉的幸存者搜寻任务后，已抵达哥伦比亚参与当地地震后的救援工作。",
+      "summary_original": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-08-13T17:16:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9a1de941",
+      "title": "OpenAI管理层改组持续 聘请新任首席营收官",
+      "title_original": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI近日推进管理层改组，替换了上任仅九个月的原首席营收官丹妮丝·德雷瑟，聘请Wiz公司总裁兼首席运营官达利·拉吉奇，接任这家前沿人工智能实验室的最高销售职位。",
+      "summary_original": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T17:07:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9a1de941",
+      "title": "OpenAI高管洗牌持续 聘请新任首席营收官",
+      "title_original": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI正持续推进高管调整，日前替换了上任仅九个月的原首席营收官丹妮丝·德雷瑟，聘请云安全企业Wiz的总裁兼首席运营官达利·拉吉奇，接任这家前沿实验室的最高销售职务，出任首席营收官。",
+      "summary_original": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-08-13T17:07:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "24ffc229",
+      "title": "印度航空将对所有飞行员进行违禁物质检测",
+      "title_original": "Air India to test all pilots for banned substances",
+      "summary": "印度航空一架飞机上周飞行时突发高度骤降，事故造成多名乘客受伤。事发后，印度航空宣布，将对公司旗下所有飞行员开展违禁物质检测，排查飞行员是否存在违规使用违禁物品的行为。",
+      "summary_original": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/c940eb70-9732-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-08-13T16:52:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a73cb0b5",
+      "title": "OpenAI更换首席营收官 由Wiz总裁接任",
+      "title_original": "OpenAI Replaces Its Chief Revenue Officer with Wiz President",
+      "summary": "OpenAI作出核心管理岗位人事调整，更换公司首席营收官，原本担任Wiz公司总裁的人士，将接任OpenAI首席营收官一职。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://www.theinformation.com/briefings/openai-replaces-chief-revenue-officer-wiz-president",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-08-13T16:45:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6d2316ab",
+      "title": "福特将按计划完成20亿美元工厂改造 生产Fathom电动皮卡",
+      "title_original": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "summary": "福特为生产全新Fathom电动皮卡，开展总额20亿美元的工厂改造项目，目前该项目正按计划推进。按照福特公布的计划，Fathom电动皮卡的原型车生产工作，预计将于2027年第一季度正式启动。",
+      "summary_original": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-08-13T16:37:53+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "dd5caabd",
+      "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+      "summary": "美国此前已规定，外国新出口至美国的无人机、路由器、机器人等产品，相关企业需满足美方要求才能获准入境。如今美国总统特朗普拟对现有进口的多款无人机及所有飞机零部件征收100%关税，大幅抬高相关产品进口成本。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "10552dcf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "10552dcf",
+          "source": "The Verge",
+          "title": "特朗普宣布对多款无人机及所有飞机零部件征收100%关税",
+          "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+          "published_at": "2026-08-14T01:06:15+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T01:06:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02793a6a",
+      "title": "‘蟑螂’抗议威胁后 印度律师理事会撤回决定",
+      "summary": "印度律师行业全国监管机构曾发布命令，禁止该国一所顶尖法学院的整届毕业生注册成为执业律师。该决定引发快速壮大的青年运动的抗议威胁，出台仅数小时后，该监管机构便撤销了这项命令。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9683ab5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9683ab5e",
+          "source": "Bloomberg",
+          "title": "‘蟑螂’抗议威胁后 印度律师理事会撤回决定",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-bar-council-retreats-after-cockroach-protest-threat",
+          "published_at": "2026-08-14T00:11:59+00:00"
+        }
+      ],
+      "published_at": "2026-08-14T00:11:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "91591fec",
+      "title": "新西兰移民数据攀升至17个月新高 但仍显疲软",
+      "summary": "新西兰年度移民持续显现初步复苏迹象，受离境人数减少推动，该国6月移民数据攀升至17个月新高，不过当前新西兰整体移民态势仍处于疲软状态。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d6bfa42b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d6bfa42b",
+          "source": "Bloomberg",
+          "title": "新西兰移民数据攀升至17个月新高 但仍显疲软",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/new-zealand-immigration-edges-to-17-month-high-yet-remains-weak",
+          "published_at": "2026-08-13T23:59:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:59:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a44d64b",
+      "title": "交易员权衡美联储利率路径与中东紧张局势 金价持稳",
+      "summary": "金价跌破每盎司4400美元后基本持稳，整体变动极小。交易员正评估影响金价走向的多重因素，包括美联储的利率调整路径，以及霍尔木兹海峡达成重新开放协议的前景，中东地缘局势也牵动市场情绪。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4a89a873"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4a89a873",
+          "source": "Bloomberg",
+          "title": "交易员权衡美联储利率路径与中东紧张局势 金价持稳",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
+          "published_at": "2026-08-13T23:24:16+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:24:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d37b510c",
+      "title": "苹果与Epic就苹果从App Store外购买的抽成份额产生争议",
+      "summary": "苹果与Epic Games的法律纠纷已持续许久，近日苹果在该案最新提交的文件中提出，将对不使用苹果内购系统、通过外部链接完成的数字购买抽取佣金，Epic随即回应称这一要求远远超出了合理边界。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b29ef0ae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "b29ef0ae",
+          "source": "The Verge",
+          "title": "苹果与Epic就苹果从App Store外购买的抽成份额产生争议",
+          "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+          "published_at": "2026-08-13T23:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30ffe94d",
+      "title": "美国航母出海超250天 舰上状况敲响警钟",
+      "summary": "美国“亚伯拉罕·林肯”号航空母舰已出海超过250天，舰上千名水手面临食物短缺、供水管道破损等问题，糟糕处境甚至让部分水手产生跳海想法，该航母的恶劣舰上状况已引发外界警惕。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "article_ids": [
+        "7d4982bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7d4982bf",
+          "source": "BBC World",
+          "title": "美国航母出海超250天 舰上状况敲响警钟",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T23:06:23+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "96b74cca",
+      "title": "日本通胀悖论催生输家与赢家",
+      "summary": "日本当前物价持续上涨，这一变化结束了该国多年的通缩局面，预示着经济进入充满活力的新阶段，却也引发民众对政府的不满反弹，这场矛盾的通胀格局分化出不同利益群体，彭博社记者雪莉·安将带来更多相关报道。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5aa6cf89"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5aa6cf89",
+          "source": "Bloomberg",
+          "title": "日本通胀悖论催生输家与赢家",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-13/japan-s-inflation-paradox-is-creating-winners-and-losers-video",
+          "published_at": "2026-08-13T23:00:16+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T23:00:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f2ce4a52",
+      "title": "普京访问二战夺自日本的岛屿 触怒东京",
+      "summary": "日本首相高市早苗一直公开批评普京，普京此前已就乌克兰战争谴责日本对俄实施制裁。普京此次访问二战时期从日本夺取的争议岛屿，此举直接触怒东京，引发日本方面强烈不满。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/asia/Putin-Kuril-Islands-Cover-Image/Putin-Kuril-Islands-Cover-Image-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0e3c15da"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0e3c15da",
+          "source": "NYTimes World",
+          "title": "普京访问二战夺自日本的岛屿 触怒东京",
+          "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+          "published_at": "2026-08-13T22:38:31+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:38:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "44ae0a14",
+      "title": "高达100%，美国将对进口无人机及零部件征收关税-观察者网 - 观察者",
+      "summary": "多家媒体报道，美国将对进口无人机及相关零部件征收最高达100%的关税。有观点指出这一贸易举措出台，与俄乌冲突给美国带来的警醒相关，该政策由特朗普推出，相关消息已引发多方关注。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "086ee84e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "086ee84e",
+          "source": "Google News (中国)",
+          "title": "高达100%，美国将对进口无人机及零部件征收关税-观察者网 - 观察者",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vWEFadVI5RF9MWm5KTXNORWdaNXVZekc3SWRtZDlHU2xCNWtkbURtVmRQRWhIcWR5LTQ4T1lSTTNuMWk4STVBYnVxM2JGZmdkOTREWjNGVWYzU3ZwcmppQlEtd1REeFN1akE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T22:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b84b42d",
+      "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+      "summary": "多名投资者对赛琳娜·戈麦斯提起诉讼，指控其参与的心理健康初创公司存在欺诈行为。原告称他们已向该公司投资近120万美元，赛琳娜并未完成该初创公司的搭建与推广工作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "d1c21344"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d1c21344",
+          "source": "TechCrunch",
+          "title": "投资者起诉赛琳娜·戈麦斯 指控其心理健康初创公司涉欺诈",
+          "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "published_at": "2026-08-13T22:12:40+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:12:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1adf1466",
+      "title": "习近平生态文明思想引领美丽中国建设谱新篇 - 四川日报",
+      "summary": "四川日报刊发相关报道，指出习近平生态文明思想为新时代我国生态文明建设提供了根本遵循与行动指南。在这一科学思想的引领下，我国持续推进生态文明建设实践，不断破解生态发展难题，美丽中国建设正持续开创新局面、谱写崭新发展篇章。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "836c0db2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "836c0db2",
+          "source": "Google News (中国)",
+          "title": "习近平生态文明思想引领美丽中国建设谱新篇 - 四川日报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RWZoY0Y2c2RaTjAybjhtaVdfb3Vtb1AyRllGMTlQZjNkTmd1NFY3dDVZeUhRUkJSZVlkRjYzZXdVZ0dTUTJyOEw0bnE0TGpOeWZISXhaNVVuU3hvNDVDWGpVejhjbVhXYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T22:12:03+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:12:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0448e449",
+      "title": "市场综述：美国通胀、科技股推动亚洲股市上涨",
+      "summary": "最新多项证据显示美国通胀正逐步放缓，这一趋势强化了市场对美联储将于下月暂停加息的预期，受这一乐观预期提振，叠加科技股集体上涨拉动，亚洲股市整体迎来攀升行情。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ce6a267b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ce6a267b",
+          "source": "Bloomberg",
+          "title": "市场综述：美国通胀、科技股推动亚洲股市上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+          "published_at": "2026-08-13T22:10:41+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:10:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b3d176c3",
+      "title": "Reddit因将于本月纳入标普500 股价大涨",
+      "summary": "标普道琼斯指数周四宣布，美国社交平台Reddit将作为非周期调整的一部分，于本月内下周正式纳入标普500指数。该消息公布后，Reddit股价在盘后交易中大幅拉升，涨幅超过10%。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "18309a25"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "18309a25",
+          "source": "Bloomberg",
+          "title": "Reddit因将于本月纳入标普500 股价大涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/reddit-shares-surge-on-s-p-500-inclusion-later-this-month",
+          "published_at": "2026-08-13T22:09:37+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:09:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b1c6726",
+      "title": "8月14日最新石油市场新闻与分析",
+      "summary": "当前油价延续跌势，交易员正密切关注一项旨在重新开放霍尔木兹海峡的协议的推进情况。近期油轮与能源基础设施遭遇新袭击，相关局势令石油市场整体维持紧张状态。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a58ff28c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a58ff28c",
+          "source": "Bloomberg",
+          "title": "8月14日最新石油市场新闻与分析",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+          "published_at": "2026-08-13T22:04:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:04:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee7262e7",
+      "title": "达龙·阿西莫格鲁：我们正“濒临失去”自由民主",
+      "summary": "诺贝尔经济学奖得主达龙·阿西莫格鲁推出新作《自由民主怎么了？》，探讨自由主义的演进，以及AI等技术快速发展背景下自由民主的未来。他做客彭博《商业周刊日报》，分析社交媒体对民主发展的影响，指出算法放大不良言论并非言论自由，而是操纵。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b042f98f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b042f98f",
+          "source": "Bloomberg",
+          "title": "达龙·阿西莫格鲁：我们正“濒临失去”自由民主",
+          "link": "https://www.bloomberg.com/news/videos/2026-08-13/are-we-at-the-cusp-of-losing-liberal-democracy-video",
+          "published_at": "2026-08-13T22:03:56+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:03:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f55b270d",
+      "title": "弗洛克称新工具可协助识别警察滥用权力 未说明运作原理",
+      "summary": "监控企业弗洛克推出名为“审计协助”的新工具，要求所有客户强制使用。该公司称这款工具已协助发现警察滥用权力行为，但迄今未详细披露其运作机制，引发外界对该工具实际有效性的质疑。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "21ab0264"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "21ab0264",
+          "source": "TechCrunch",
+          "title": "弗洛克称新工具可协助识别警察滥用权力 未说明运作原理",
+          "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "published_at": "2026-08-13T22:02:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T22:02:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "369e3c48",
+      "title": "“这不可接受”:法官要求谷歌简化竞争对手应用商店安装流程",
+      "summary": "Epic Games与谷歌暂停安卓应用分发争端一个月后，双方再次对簿旧金山法庭。法官詹姆斯·多纳托裁定，要求谷歌简化安卓系统中第三方竞争应用商店的安装流程，该案距离陪审团作出一致裁决已过去近三年。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f1899908"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f1899908",
+          "source": "The Verge",
+          "title": "“这不可接受”:法官要求谷歌简化竞争对手应用商店安装流程",
+          "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+          "published_at": "2026-08-13T21:53:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:53:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f17c59f",
+      "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+      "summary": "当前苹果推出新的安全提醒机制，当苹果检测识别出有政府背景的间谍软件正对用户的iPhone设备发起攻击时，会直接向设备锁屏推送攻击提醒通知，用户接到这类警报后应当予以重视。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "93b74b54"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "93b74b54",
+          "source": "TechCrunch",
+          "title": "若苹果向你推送间谍软件攻击警报，请务必重视",
+          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+          "published_at": "2026-08-13T21:50:11+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:50:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "692886db",
+      "title": "“加强新时代廉洁文化建设”（总书记的人民情怀） - politics.people.com.cn",
+      "summary": "刊发于人民网政治频道的一篇报道，标题为《“加强新时代廉洁文化建设”（总书记的人民情怀）》，该报道围绕总书记的人民情怀展开，聚焦新时代廉洁文化建设相关议题，用户可在谷歌新闻查看这一报道及更多头条新闻与观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "e753a7c9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e753a7c9",
+          "source": "Google News (中国)",
+          "title": "“加强新时代廉洁文化建设”（总书记的人民情怀） - politics.people.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95dzIzcW9KSHlXWjliSGNuQWxWZFdSOW9hS193TTVkdjRNazJ5SzNMdzZZOG93LU8zdXFaQkhYdmZXVmgwLWRQSHVKSERBblJJZi00MXdzaW9nbFYwZzIxd3RTbjc5Tk1mSHl6QTM0R1VPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T21:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a8e5417",
+      "title": "围绕弗洛克及其他自动车牌识别设备的争议",
+      "summary": "美国目前已安装超过12万台弗洛克公司出品的自动车牌识别摄像头，这类设备依托人工智能，可根据车牌号码、车型、颜色等信息识别追踪车辆，联网后能够全天候跨区域追踪车辆与人员移动轨迹，相关应用引发不小争议。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "41a5bb3e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "41a5bb3e",
+          "source": "The Verge",
+          "title": "围绕弗洛克及其他自动车牌识别设备的争议",
+          "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+          "published_at": "2026-08-13T21:46:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:46:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0904c32",
+      "title": "报告称瑞安航空发动机部件击碎舷窗 致一名男子头部被吸出",
+      "summary": "美国调查人员公布一份初步报告，上个月一架执飞希腊至德国航线的瑞安航空航班发生故障，一枚发动机风扇叶片断裂，脱落的发动机部件击碎飞机舷窗，造成机上一名男子头部被吸出窗外。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
+      "article_ids": [
+        "e1e53d14"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e1e53d14",
+          "source": "BBC World",
+          "title": "报告称瑞安航空发动机部件击碎舷窗 致一名男子头部被吸出",
+          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T21:43:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32b3bb76",
+      "title": "微软酷似Clippy的Mico虚拟形象不再是Copilot代表",
+      "summary": "微软宣布，旗下AI聊天工具Copilot的语音模式将不再启用拟人黄色虚拟形象Mico。微软将把Mico转移至Learn Live平台，为其提供更多可互动的场景，相关变动消息早前已由GeekWire率先报道。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "a202a998"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a202a998",
+          "source": "The Verge",
+          "title": "微软酷似Clippy的Mico虚拟形象不再是Copilot代表",
+          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "published_at": "2026-08-13T21:42:38+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32b3bb76",
+      "title": "微软类Clippy的Mico形象不再是Copilot代表形象",
+      "summary": "据GeekWire此前报道，微软在官方支持页面宣布，AI聊天机器人Copilot的语音模式将不再显示黄色虚拟形象Mico，这款类似Clippy的形象将转移至微软Learn Live平台，获得更多互动场景，Mico此前才上线Copilot语音模式。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a202a998"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a202a998",
+          "source": "The Verge AI",
+          "title": "微软类Clippy的Mico形象不再是Copilot代表形象",
+          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "published_at": "2026-08-13T21:42:38+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:42:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f15cc213",
+      "title": "英国东萨塞克斯郡刘易斯镇附近发生火车脱轨事故",
+      "summary": "本周四，英国东萨塞克斯郡刘易斯镇附近发生一起火车脱轨事故，当地应急服务部门已抵达事发现场开展处置工作，此次事故共造成十八人受轻伤，目前相关方面尚未披露事故的更多细节信息。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-train-mfwl/13int-uk-train-mfwl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "33e130b7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "33e130b7",
+          "source": "NYTimes World",
+          "title": "英国东萨塞克斯郡刘易斯镇附近发生火车脱轨事故",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+          "published_at": "2026-08-13T21:22:55+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:22:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e205ea4",
+      "title": "Writer推出新型AI模型及升级框架，管控令牌成本",
+      "summary": "AI厂商Writer推出一款新型人工智能模型，该模型是Z.ai开源模型GLM-5.2训练后得到的衍生变体。Writer称这款新系统具备可直接部署的能力，定价远低于原有方案，能够有效控制令牌使用成本。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "539d991b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "539d991b",
+          "source": "TechCrunch",
+          "title": "Writer推出新型AI模型及升级框架，管控令牌成本",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "published_at": "2026-08-13T21:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0e205ea4",
+      "title": "Writer推出新型AI模型及升级方案 控制Token成本",
+      "summary": "AI服务商Writer推出一款新型人工智能模型，该模型是Z.ai开源模型GLM-5.2的训练后变体，配套升级方案用以控制Token使用成本。Writer称该新系统可直接部署投入使用，定价远低于原有方案，能帮助用户大幅削减相关开支。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "539d991b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "539d991b",
+          "source": "TechCrunch AI",
+          "title": "Writer推出新型AI模型及升级方案 控制Token成本",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "published_at": "2026-08-13T21:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "73c9cd46",
+      "title": "圆桌会议：剖析影响美国政策的“审查产业复合体”概念",
+      "summary": "“审查产业复合体”是一种声称政府、科技企业与研究机构形成合作网络，共同压制保守派网络言论的说法。这一概念多年来流传于美国右翼信息圈，如今已开始渗透进美国政策，本次圆桌对话探讨其起源与发展。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a5a20f62"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "a5a20f62",
+          "source": "MIT Technology Review",
+          "title": "圆桌会议：剖析影响美国政策的“审查产业复合体”概念",
+          "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "published_at": "2026-08-13T21:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "335ed6a0",
+      "title": "网飞将关闭两家游戏工作室",
+      "summary": "据Game File与《综艺》报道，流媒体平台网飞计划关闭两家内部游戏工作室，此举是网飞调整业务方向，向派对游戏以及电视端串流游戏倾斜布局的举措。其中一家关闭的工作室是2021年被网飞收购的夜校工作室，该工作室曾推出《奥森弗里》系列游戏。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "af052eca"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "af052eca",
+          "source": "The Verge",
+          "title": "网飞将关闭两家游戏工作室",
+          "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+          "published_at": "2026-08-13T20:52:58+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:52:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c33cc23",
+      "title": "以色列定居者驱逐后恢复约旦河西岸围困",
+      "summary": "以色列定居者完成驱逐行动后，恢复了对约旦河西岸相关区域的围困。以色列军方未能将极端分子隔离开，致使两户巴勒斯坦家庭被困自家住宅中，这一情况清楚表明，这片被以色列占领的领土目前已陷入混乱。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c79486a8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c79486a8",
+          "source": "NYTimes World",
+          "title": "以色列定居者驱逐后恢复约旦河西岸围困",
+          "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+          "published_at": "2026-08-13T20:18:47+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:18:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78e78a4e",
+      "title": "Databricks原拟融资10亿美元 最终敲定50亿美元融资 估值达1900亿美元",
+      "summary": "AI领域业务成本高昂，Databricks首席执行官阿里·格德西向TechCrunch透露，公司最新一轮融资吸引了大量投资者参投，因此最终接受了远超原计划的融资额，敲定50亿美元融资，公司估值达1900亿美元。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7261e658"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7261e658",
+          "source": "TechCrunch",
+          "title": "Databricks原拟融资10亿美元 最终敲定50亿美元融资 估值达1900亿美元",
+          "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "published_at": "2026-08-13T20:14:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:14:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78e78a4e",
+      "title": "Databricks拟募资10亿美元投资者欲投150亿 最终敲定融资50亿估值1900亿美元",
+      "summary": "AI领域业务成本高昂，Databricks首席执行官阿里·格德西接受TechCrunch采访时透露，该公司本轮融资原本计划募资10亿美元，因大量投资者踊跃参投，最终敲定融资50亿美元，公司整体估值达1900亿美元。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "7261e658"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "7261e658",
+          "source": "TechCrunch AI",
+          "title": "Databricks拟募资10亿美元投资者欲投150亿 最终敲定融资50亿估值1900亿美元",
+          "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "published_at": "2026-08-13T20:14:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:14:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d8ec08a",
+      "title": "以色列定居者围困民房 巴勒斯坦人被要求撤离村庄住所",
+      "summary": "巴勒斯坦库斯拉村的多处民房被以色列定居者围困，该村市长透露，以色列军队已要求当地家庭撤离自家住所，还将部分撤离后的民房征用，改作军队营房使用。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
+      "article_ids": [
+        "4f721e2a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4f721e2a",
+          "source": "BBC World",
+          "title": "以色列定居者围困民房 巴勒斯坦人被要求撤离村庄住所",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T20:12:17+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:12:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ccb3de6f",
+      "title": "惠普这款校园适用笔记本直降300美元",
+      "summary": "当前内存价格仍处高位且无下降迹象，内存充足的高性价比设备优惠十分难得。百思买对惠普OmniBook X Flip笔记本给出300美元折扣，折后售价为699.99美元，该机型适配校园使用需求，搭载英特尔酷睿系列处理器。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6be80d7a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6be80d7a",
+          "source": "The Verge",
+          "title": "惠普这款校园适用笔记本直降300美元",
+          "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+          "published_at": "2026-08-13T20:07:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:07:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56881a7d",
+      "title": "生态环境法典施行在即 推动绿色循环赛道价值重估 - 东方财富",
+      "summary": "《生态环境法典》将于8月15日正式施行，将为美丽中国建设提供坚实法治保障。目前江苏常州、浙江多地已多部门联动，开展进企业、进社区、进校园的普及活动，市场观点认为，其施行将推动绿色循环赛道实现价值重估。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "0713eeae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0713eeae",
+          "source": "Google News (中国)",
+          "title": "生态环境法典施行在即 推动绿色循环赛道价值重估 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbDk4WnVJQ1lZOWpSOFdpaW13N0dKTmZUekFkUkZGdUhhYmpkWWxOMU4xT2NHRnlycjN3bXZTSEcxeGJqSnFtTHozaE00VkJDZEZUdXJpREphLTNHT0x1eg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T20:03:59+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T20:03:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8ed87782",
+      "title": "据报多元化能源即将敲定收购艾略特支持的伯奇资源交易",
+      "summary": "据知情人士透露，多元化能源公司拟以超过17亿美元现金，收购由艾略特投资管理支持的油气企业伯奇资源，目前双方相关收购谈判已进入后期阶段，这笔交易已临近最终敲定。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "997da8e8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "997da8e8",
+          "source": "Bloomberg",
+          "title": "据报多元化能源即将敲定收购艾略特支持的伯奇资源交易",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+          "published_at": "2026-08-13T19:55:12+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:55:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5db9e619",
+      "title": "首艘国产大型邮轮开启大湾区首航 - 光明网",
+      "summary": "首艘国产大型邮轮“爱达·魔都号”正式开启大湾区首航，这是该邮轮首次进驻华南市场，在粤港澳大湾区运营国际邮轮航线，开启了中国海岸巡游与大湾区邮轮产业发展新篇章。目前国产大邮轮正趁着暑期档稳步提质运营，锚定“十五五”文旅发展方向推进布局。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "8d5032c8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8d5032c8",
+          "source": "Google News (中国)",
+          "title": "首艘国产大型邮轮开启大湾区首航 - 光明网",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rZUVsa25zLVNZcVNyaThZR0F6SzJYT1Zrb0I2a1BkZHBNTXdDMXFCZktmSnFvUXRtMjhJRVNfM2ViVlpacW9sRFEtbWRPMDQxMFJXalYxT0dlNWxxZDRpMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T19:55:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:55:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "814abdcf",
+      "title": "高温致多瑙河水位大幅下降 罗马尼亚关闭唯一核电站",
+      "summary": "受高温天气影响，多瑙河水位出现大幅下降，罗马尼亚因此关闭本国唯一的切尔纳沃德核电站。该电站发电量占罗马尼亚全国总发电量的20%，目前预计其未来10天内无法重启。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "article_ids": [
+        "2f3644dd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2f3644dd",
+          "source": "BBC World",
+          "title": "高温致多瑙河水位大幅下降 罗马尼亚关闭唯一核电站",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T19:46:27+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:46:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d9406c9",
+      "title": "私人安保公司即将获准对境外网络犯罪分子发动黑客攻击",
+      "summary": "特朗普签署的相关备忘录，是美国政府首次授权私营部门实施网络攻击行动。根据新规，私人安保公司很快将获准对境外网络犯罪分子发动黑客攻击，这也是美国政府首次将网络攻击权限开放给私营领域机构。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "article_ids": [
+        "e25b41ad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "e25b41ad",
+          "source": "Ars Technica",
+          "title": "私人安保公司即将获准对境外网络犯罪分子发动黑客攻击",
+          "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "published_at": "2026-08-13T19:38:58+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:38:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fa0a065",
+      "title": "OpenAI本周第二名高管离职",
+      "summary": "OpenAI发生本周第二起高管离职事件，原Slack首席执行官Denise Dresser于去年12月加入OpenAI担任首席营收官，她在领英发布团队通知称，将于未来几周离职追求其他机会，原Wiz总裁兼首席运营官Dali Rajic将接任该职位。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "45947aa8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "45947aa8",
+          "source": "The Verge",
+          "title": "OpenAI本周第二名高管离职",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "published_at": "2026-08-13T19:28:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:28:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8fa0a065",
+      "title": "OpenAI本周流失第二位高管",
+      "summary": "OpenAI本周出现第二位高管离职，原Slack首席执行官丹妮丝·德雷泽于去年12月加入OpenAI担任首席营收官，她通过领英发布团队通知称，将在未来几周离职追寻其他发展机会，原Wiz总裁兼首席运营官达利·拉吉奇将接任该职位。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "45947aa8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "45947aa8",
+          "source": "The Verge AI",
+          "title": "OpenAI本周流失第二位高管",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "published_at": "2026-08-13T19:28:39+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:28:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fbf229ee",
+      "title": "OpenAI推出\"超快\"新模式 可让GPT-5.6 Sol运行速度达原有14倍",
+      "summary": "OpenAI推出了旗下最新、性能最强大模型的提速版本预览，该版本搭载全新\"超快\"模式，可让GPT-5.6 Sol的运行速度提升至原有水平的14倍，推出该预览版意在吸引争夺企业用户市场。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "459413c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "459413c0",
+          "source": "TechCrunch",
+          "title": "OpenAI推出\"超快\"新模式 可让GPT-5.6 Sol运行速度达原有14倍",
+          "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "published_at": "2026-08-13T19:22:40+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:22:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fbf229ee",
+      "title": "OpenAI推出“超快”新模式，使GPT-5.6 Sol运行速度提升14倍",
+      "summary": "人工智能企业OpenAI推出其最新、性能最强模型的提速版本预览，该版本新增“超快”新模式，可让GPT-5.6 Sol运行速度提升至原有水平的14倍，OpenAI此举旨在争夺企业用户群体。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "459413c0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "459413c0",
+          "source": "TechCrunch AI",
+          "title": "OpenAI推出“超快”新模式，使GPT-5.6 Sol运行速度提升14倍",
+          "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "published_at": "2026-08-13T19:22:40+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:22:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dc169b1c",
+      "title": "IBM与OpenAI合作 强化企业AI业务布局",
+      "summary": "IBM与OpenAI达成合作，共同发力推进企业AI业务发展。作为本次合作的内容，IBM计划对数万名咨询顾问开展OpenAI相关技术的培训与认证，强化自身服务企业AI转型的能力。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b377fa89"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b377fa89",
+          "source": "TechCrunch",
+          "title": "IBM与OpenAI合作 强化企业AI业务布局",
+          "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+          "published_at": "2026-08-13T19:19:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:19:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dc169b1c",
+      "title": "IBM携手OpenAI推进企业AI业务布局",
+      "summary": "IBM与OpenAI达成合作，共同发力企业人工智能领域。根据双方协议，IBM计划对数万名咨询顾问开展OpenAI相关技术培训并完成认证，以此提升自身企业AI服务能力，进一步拓展企业AI相关业务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "b377fa89"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "b377fa89",
+          "source": "TechCrunch AI",
+          "title": "IBM携手OpenAI推进企业AI业务布局",
+          "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+          "published_at": "2026-08-13T19:19:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:19:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d5795124",
+      "title": "台风白海豚刷新多项历史纪录 极端风雨影响浙江 - 中华网",
+      "summary": "台风“白海豚”刷新多项历史纪录，给浙江带来极端风雨影响。它停编后，残余环流影响仍未结束，残涡入海后仍可能持续制造降雨。气象预报显示，未来10天还将有新台风生成，多地暴雨将持续。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "5089356b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5089356b",
+          "source": "Google News (中国)",
+          "title": "台风白海豚刷新多项历史纪录 极端风雨影响浙江 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5azROTFdFaVljWnA1MkNTU1Rfel85c1c2MFRTVm5yWk1ESXVKSzJ6aUZ4c3lKZDBIOWcwcHhib3FseXA4TDFPWXY3OGJKNGlNM0pEcFBsc19oZzRKbUVJZ3lGTTJCSkdMSlhENWNJdHo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-13T19:18:46+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:18:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c98d32a0",
+      "title": "爱尔兰空难遇难者家属获2900万美元损害赔偿",
+      "summary": "爱尔兰空难遇难者迈克尔·瑞安的遗孀妮奥伊斯·康诺利·瑞安对波音公司提起民事诉讼，美国芝加哥的一个陪审团就此案作出裁决，判令向迈克尔·瑞安的家属支付共计2900万美元的损害赔偿。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82a7/live/6b9bb890-973e-11f1-96db-71945ca8cae7.jpg",
+      "article_ids": [
+        "0803d35a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0803d35a",
+          "source": "BBC World",
+          "title": "爱尔兰空难遇难者家属获2900万美元损害赔偿",
+          "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T19:08:49+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T19:08:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "58244523",
+      "title": "特朗普政府将允许私营企业发起国际网络攻击",
+      "summary": "据彭博社此前报道，特朗普政府推出一项新计划。根据周三公布的总统备忘录，私营企业可在联邦政府的管控与监督下，针对外国犯罪分子开展网络行动，获得监控并破坏犯罪网络的许可。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "cb0c96cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "cb0c96cd",
+          "source": "The Verge",
+          "title": "特朗普政府将允许私营企业发起国际网络攻击",
+          "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+          "published_at": "2026-08-13T18:56:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:56:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "61667009",
+      "title": "报道称或将达成辩诉交易 曼焦内律师将会见联邦检察官",
+      "summary": "日前有消息称曼焦内一案或将达成辩诉交易，曼焦内的代理律师将会见联邦检察官。曼焦内目前面临两项联邦指控，两项罪名均为跟踪骚扰致人死亡，每项指控的最高量刑均为终身监禁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0854/live/f4140030-972d-11f1-bbb3-ebc49f706d46.jpg",
+      "article_ids": [
+        "3c556716"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3c556716",
+          "source": "BBC World",
+          "title": "报道称或将达成辩诉交易 曼焦内律师将会见联邦检察官",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T18:45:51+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:45:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "04246078",
+      "title": "我终于找到一款可放心用于庭院的割草机器人",
+      "summary": "当前割草机器人性能已足够出色，能帮人们省去庭院维护的大量工作，不过这类自动割草设备目前还做不到设置完成就无需过问。如果不想它损毁草坪，或是乱跑闯入邻居的庭院，使用者仍需要对它多加留意。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "15f1f783"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "15f1f783",
+          "source": "The Verge",
+          "title": "我终于找到一款可放心用于庭院的割草机器人",
+          "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+          "published_at": "2026-08-13T18:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e64ad5f",
+      "title": "Anthropic让多AI智能体执行同一任务 竟爆发地盘战",
+      "summary": "Anthropic研究人员开展相关测试发现，多个AI智能体之间会出现冲突、合谋、协调等出人意料的行为，这引发了新的疑问：当前的AI安全测试能否充分捕捉多AI智能体系统存在的相关风险。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "4f7a500c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "4f7a500c",
+          "source": "TechCrunch",
+          "title": "Anthropic让多AI智能体执行同一任务 竟爆发地盘战",
+          "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "published_at": "2026-08-13T18:28:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:28:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5e64ad5f",
+      "title": "Anthropic让AI智能体执行同一任务 竟爆发“地盘争夺战”",
+      "summary": "Anthropic研究人员发现，多个AI智能体互动时会出现冲突、合谋、协作等超出预期的行为，这一发现引出新的疑问：当前的AI安全测试，能否覆盖多AI智能体系统存在的相关风险。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "4f7a500c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "4f7a500c",
+          "source": "TechCrunch AI",
+          "title": "Anthropic让AI智能体执行同一任务 竟爆发“地盘争夺战”",
+          "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "published_at": "2026-08-13T18:28:14+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:28:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "09b805a6",
+      "title": "美国一项胜算渺茫的石油钻探项目缘何搅动格陵兰岛",
+      "summary": "一家美国石油公司称，其即将在格陵兰岛取得重大石油发现。这个成功概率本就极低的钻探项目推出之时，恰逢这座北极岛屿的敏感时期，当地民众现已集体站出来明确反对该项目。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "031f75f1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "031f75f1",
+          "source": "NYTimes World",
+          "title": "美国一项胜算渺茫的石油钻探项目缘何搅动格陵兰岛",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+          "published_at": "2026-08-13T18:22:07+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:22:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b247650a",
+      "title": "构建后量子密码的实用路径",
+      "summary": "量子计算在科技界一直呈现突破与炒作并存的状态，其强大算力可破解现有加密体系，给信息安全带来威胁。企业管理者应当明确，后量子密码（PQC）并非无法应对的危机，而是可管控的技术演进，现有加密体系正面临挑战。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "bba9e984"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "bba9e984",
+          "source": "MIT Technology Review",
+          "title": "构建后量子密码的实用路径",
+          "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+          "published_at": "2026-08-13T18:11:42+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T18:11:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff3b63a0",
+      "title": "英国的夏天再也不一样了",
+      "summary": "英国气象预报机构已发布极端高温预警，目前来看，今年英国夏季正逐步成为当地有史以来最热的夏季之一，一改过往英国夏季凉爽温和的常态，当地夏季气候特征已发生明显改变，和以往大不相同。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-vqch/13int-uk-heat-vqch-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "2a9a659e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "2a9a659e",
+          "source": "NYTimes World",
+          "title": "英国的夏天再也不一样了",
+          "link": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+          "published_at": "2026-08-13T17:52:04+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T17:52:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "067fd44b",
+      "title": "墨西哥志愿救援组织阿兹特克救援队参与哥伦比亚地震后救援工作",
+      "summary": "曾参与美国“9·11”袭击后救援工作、面向全球开展救援行动的墨西哥志愿救援组织阿兹特克救援队，完成在委内瑞拉的幸存者搜寻任务后，已抵达哥伦比亚参与当地地震后的救援工作。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b8986b9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b8986b9f",
+          "source": "NYTimes World",
+          "title": "墨西哥志愿救援组织阿兹特克救援队参与哥伦比亚地震后救援工作",
+          "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
+          "published_at": "2026-08-13T17:16:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T17:16:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98fc0c10",
+      "title": "OpenAI管理层改组持续 聘请新任首席营收官",
+      "summary": "OpenAI近日推进管理层改组，替换了上任仅九个月的原首席营收官丹妮丝·德雷瑟，聘请Wiz公司总裁兼首席运营官达利·拉吉奇，接任这家前沿人工智能实验室的最高销售职位。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "9a1de941"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9a1de941",
+          "source": "TechCrunch",
+          "title": "OpenAI管理层改组持续 聘请新任首席营收官",
+          "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "published_at": "2026-08-13T17:07:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T17:07:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98fc0c10",
+      "title": "OpenAI高管洗牌持续 聘请新任首席营收官",
+      "summary": "OpenAI正持续推进高管调整，日前替换了上任仅九个月的原首席营收官丹妮丝·德雷瑟，聘请云安全企业Wiz的总裁兼首席运营官达利·拉吉奇，接任这家前沿实验室的最高销售职务，出任首席营收官。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "9a1de941"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9a1de941",
+          "source": "TechCrunch AI",
+          "title": "OpenAI高管洗牌持续 聘请新任首席营收官",
+          "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "published_at": "2026-08-13T17:07:13+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T17:07:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a90fee10",
+      "title": "印度航空将对所有飞行员进行违禁物质检测",
+      "summary": "印度航空一架飞机上周飞行时突发高度骤降，事故造成多名乘客受伤。事发后，印度航空宣布，将对公司旗下所有飞行员开展违禁物质检测，排查飞行员是否存在违规使用违禁物品的行为。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/c940eb70-9732-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "article_ids": [
+        "24ffc229"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "24ffc229",
+          "source": "BBC World",
+          "title": "印度航空将对所有飞行员进行违禁物质检测",
+          "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-08-13T16:52:15+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T16:52:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5375f74e",
+      "title": "OpenAI更换首席营收官 由Wiz总裁接任",
+      "summary": "OpenAI作出核心管理岗位人事调整，更换公司首席营收官，原本担任Wiz公司总裁的人士，将接任OpenAI首席营收官一职。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "a73cb0b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "a73cb0b5",
+          "source": "The Information",
+          "title": "OpenAI更换首席营收官 由Wiz总裁接任",
+          "link": "https://www.theinformation.com/briefings/openai-replaces-chief-revenue-officer-wiz-president",
+          "published_at": "2026-08-13T16:45:21+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T16:45:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c50cee0",
+      "title": "福特将按计划完成20亿美元工厂改造 生产Fathom电动皮卡",
+      "summary": "福特为生产全新Fathom电动皮卡，开展总额20亿美元的工厂改造项目，目前该项目正按计划推进。按照福特公布的计划，Fathom电动皮卡的原型车生产工作，预计将于2027年第一季度正式启动。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6d2316ab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6d2316ab",
+          "source": "TechCrunch",
+          "title": "福特将按计划完成20亿美元工厂改造 生产Fathom电动皮卡",
+          "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+          "published_at": "2026-08-13T16:37:53+00:00"
+        }
+      ],
+      "published_at": "2026-08-13T16:37:53+00:00",
+      "is_merged": false
+    }
+  ]
+}

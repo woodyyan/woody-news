@@ -1,0 +1,2360 @@
+{
+  "date": "2026-07-11",
+  "edition": "morning",
+  "updated_at": "2026-07-11T10:32:03.900559+08:00",
+  "article_count": 60,
+  "cluster_count": 57,
+  "articles": [
+    {
+      "id": "d30a0e3a",
+      "title": "Meta遭遇连日反对后下线全新AI图像功能",
+      "title_original": "Meta pulls new AI image feature after days of backlash",
+      "summary": "社交媒体企业Meta本周推出一项全新AI功能，允许用户修改Instagram平台内容，该功能推出后迅速引发强烈反对，在承受多日批评抵制后，Meta已正式下线这项AI图像功能。",
+      "summary_original": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89bb/live/90ab13b0-7cbd-11f1-926f-c90d1bcfbc84.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-11T01:45:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7b2c9ca9",
+      "title": "王室关系缓和：哈里梅根罕见探望国王与王后",
+      "title_original": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "summary": "上周五，哈里王子与梅根拜访了英国国王查尔斯与王后卡米拉，此次访问十分罕见。哈里夫妇2020年退出王室公职后移居美国，本次访问标志着二人与英国王室的关系趋向缓和。",
+      "summary_original": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-prince-harry-visit-photo-tbwq/10int-prince-harry-visit-photo-tbwq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-11T01:37:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "565be75f",
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "title_original": null,
+      "summary": "本期科技财经热点汇总显示：“国产存储第一股”长鑫科技公布豪华承销团，将于7月16日开启IPO发行；韩国存储巨头SK海力士登陆美股，上市首日大涨近13%；OpenAI推出可长时间跟进复杂任务的ChatGPT Work智能体，此外德国大众拟大裁员，国内百亿私募数量刷新历史纪录。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://36kr.com/p/3890553690192384?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-11T01:24:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1ce4d2bf",
+      "title": "印度与新西兰计划建立涵盖海事安全的战略伙伴关系",
+      "title_original": "India, NZ Plan Strategic Partnership Including Maritime Security",
+      "summary": "印度与新西兰将把双边关系提升至“战略伙伴关系”层级，两国均希望借助关系升级，促成更紧密的双边贸易往来，同时深化包括海事安全在内的各领域安全合作，契合双方的共同利益需求。",
+      "summary_original": "India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2GcCp_jOGLI/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-11T01:03:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "62b0eb13",
+      "title": "美国网安机构CISA披露：事发时才临时制定安全事件应对预案",
+      "title_original": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "summary": "美国网络安全与基础设施安全局（CISA）承认，该机构事前并未提前制定安全事件响应计划，错失了提前掌控安全事件态势的机会，最终不得不在安全事件处置过程中临时编制应对预案。",
+      "summary_original": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-11T01:01:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f2293e5e",
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "title_original": null,
+      "summary": "上海交大00后博士创办的具身智能仿生扑翼机器人企业鹰瞰智翼，三个月内完成三轮融资，近期获元禾璞华领投的数千万元A轮融资。资金将用于首款消费级产品量产、市场拓展及技术研发，该产品将于今年第三季度在海外开启众筹，企业同步布局产业级产品研发。",
+      "summary_original": null,
+      "image": "https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "link": "https://36kr.com/p/3889516712065799?f=rss",
+      "category": "tech",
+      "source": "36氪",
+      "lang": "zh",
+      "published_at": "2026-07-11T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e6ebabb1",
+      "title": "菲亚被控“Cookie填充” 不当获取未促成交易的联盟佣金",
+      "title_original": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "summary": "彭博社一项调查显示，由比尔·盖茨女儿菲比与友人索菲亚·基安妮共同创立的购物初创企业菲亚，被指通过“Cookie填充”手段，在未实际促成交易的情况下不当获取联盟推广佣金，目前该公司正引发舆论批评。",
+      "summary_original": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-11T00:29:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2703fee8",
+      "title": "台风逼近、局地暴雨大暴雨 中央气象台三预警齐发 - 中国日报网",
+      "title_original": null,
+      "summary": "台风“巴威”逼近并再度增强，中央气象台三预警齐发，预计我国多地将出现大到暴雨，局部地区遭遇大暴雨。目前各地已启动应对措施：江西启动防汛三级应急响应，南航允许受影响航线客票免费退票，湖北多个景区场馆紧急关闭，济南提醒市民非必要不外出。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5taGxHcm54akU3OXRoU3d4cUZWN2FWTWNMbzR5QkR5WDBfZzdKOE1od0dUYjVpTnRXV21Zd0lneVJzZ0FXWWlZcng4NjRORHBhLUF3YUFoUE94V1hiNXU2bWh2RDFWSy1kVS16N3VHdVBIMThLQkpDdXNqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-11T00:27:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fa37f4de",
+      "title": "中方敦促维护中东地区停火止战局面 - 第一财经",
+      "title_original": null,
+      "summary": "中方就中东地区局势作出公开表态，明确敦促各方共同维护中东地区的停火止战局面，避免地区局势进一步升级动荡。这一内容由第一财经发布，感兴趣的公众可前往Google新闻查看第一财经更多头条新闻与相关观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QzJHaDNVZGpPZ1VUWjZtdTFaNm51cENxZnQ0bV9NYmNIXzNfRUVXYjJqWGQyeTQ4djVjbGZZY2NiNUIzUE9icDFGRzN6V2dQcDA4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-11T00:22:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "52444f31",
+      "title": "习近平同金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - 中华人民共和国国防部",
+      "title_original": null,
+      "summary": "《中朝友好合作互助条约》签订65周年之际，中国国家领导人习近平同朝鲜领导人金正恩就此互致贺电，该相关资讯由中华人民共和国国防部发布，受众可前往Google新闻查看更多相关的头条新闻与观点内容。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nd21kam9mbE9hSnJIVWxKcXFBcGdlUHBudW9QdklwTnRoaGZPMmdLMzQ3c3o0b2dGS3d4cnRDVnJReTVGcVB1RS1BVlRkVGRaaDEwZ0YyYzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-11T00:18:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "21e142e0",
+      "title": "不实：Flock并未因讨论监控议题威胁他人",
+      "title_original": "No, Flock isn&#8217;t threatening people for debating surveillance",
+      "summary": "周四，美国加利福尼亚州新港滩一个讲座系列在其Instagram账号发布一张监控技术公司Flock Safety出具的勒令停终信函照片。Flock因自身技术及与执法部门合作早已引发大量反对声音，该事件再度掀起舆论波澜。",
+      "summary_original": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-11T00:10:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ce913bff",
+      "title": "收盘观察（2026年7月10日）：SK海力士在美国创纪录招股后股价上涨",
+      "title_original": "SK Hynix Rises After Record US Offering | The Close 7/10/2026",
+      "summary": "彭博电视推出直击华尔街收盘前后的最新新闻与分析栏目，本期邀请了来自研究机构、评级机构、投资机构、实体企业等领域的九位业内嘉宾，围绕相关市场话题分享专业观点，内容来源为彭博社。",
+      "summary_original": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Winnie Cisar, CreditSights Global Head of Strategy, John Medina, Moody's Ratings SVP, Global Project and Infrastructure Finance, Tom Fitzgerald, TD Cowen VP, Equity Research, Gary Gensler, Former SEC Chair, Jeffrey Sherman, DoubleLine Capital Deputy Chief Investment Officer, Macrae Sykes, Gabelli Funds Portfolio Manager, Cha",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i81iYOd5AHR0/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T23:56:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "312c742d",
+      "title": "遭反对声浪后Meta移除Instagram上颇具争议的AI功能",
+      "title_original": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "Meta旗下社交平台Instagram此前推出一款AI功能，该功能引发争议遭到用户反对。Meta发文称，该功能初衷是提供实用创作工具，允许用户控制公开内容是否可被调用，收到该功能未达预期的反馈后，现已将其下线。",
+      "summary_original": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "312c742d",
+      "title": "Meta遭强烈反对后移除Instagram争议AI功能",
+      "title_original": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "科技公司Meta已下线Instagram平台一款颇具争议的AI功能。Meta表示，该功能初衷是为用户提供实用创作工具，同时允许用户控制自身公开内容是否可被该功能引用，收到该功能未达预期的反馈后，已将其停用。",
+      "summary_original": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c5c58f59",
+      "title": "Meta关闭Instagram可制作公众账号AI深度伪造内容的功能",
+      "title_original": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Meta本周推出一项新功能，允许用户标记Instagram公开账号后，即可未经账号所有者许可，使用账号内容生成AI深度伪造图像。该功能推出后引发强烈反对，Meta现已将这项功能关闭。",
+      "summary_original": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T23:49:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c5c58f59",
+      "title": "Meta关闭Instagram允许用户生成公众账号AI深度伪造内容的功能",
+      "title_original": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Meta本周推出一项新功能，允许用户标注Instagram公开账号后，直接基于账号内容生成AI深度伪造图像，该功能可未经账号所有者同意使用其内容，引发大量反对声浪后，Meta现已关闭这一功能。",
+      "summary_original": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-10T23:49:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f6a4bc37",
+      "title": "全球首次火箭网系回收成功 多家A股公司参与其中 - 证券时报",
+      "title_original": null,
+      "summary": "中国完成全球首创的火箭网系回收任务，成功回收入轨火箭助推器，标志着中国航天正式迈入火箭回收时代。本次任务有多家A股公司参与其中，这一中国航天的新突破，引发了国内外多家媒体的关注与讨论。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oLUpYSFR0YkZaRFdEay03SGFBM01HbkZMQW85YTBXUzhydzdodWE3RFNRcnJFNG1faE5hMDJOdzhwSHpEZVRDMnJhOThTZ3liWE93MFZ0ZEZGREtz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-10T23:31:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "484fb7ea",
+      "title": "纳凉点临时关闭 多部门发布避险指南 - 杭州网",
+      "title_original": null,
+      "summary": "台风“巴威”逼近，多平台多部门发布多项相关提示：杭州临时关闭纳凉点，推出防汛防灾避险自救指南，附上应对相关事宜的法律小贴士，专家提醒需警惕台风过后易发的三类疾病；此外波罗的海干散货指数上涨1.17%，报2944点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajRHa0pFZzY2TnZ2eG1STkFka1owaUZEOUhqX2U4SGREWEs2SjliRkxDUTRpQ3FnbTR3d3BPdUh5Rnk2Y29Pdi02TEsyWmJhVnBLdWFHam1PcTFLakxuY2R0dlhVRDNsc1ZranR5QWhhTEZFUncxTW42RVdGLWVjZlR6dDY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-10T23:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ef14cebb",
+      "title": "认识构建“金钱可买选票”世界的加密亿万富翁",
+      "title_original": "Meet the crypto billionaires building a world where money buys you a vote",
+      "summary": "一批加密领域的亿万富翁认为，现行民主体制已经走到尽头，无法适配他们的需求，因此他们打算另起炉灶，筹建属于自己的独立国家，构建一个金钱可以购买投票权的全新世界，以此替代现有民主体制。",
+      "summary_original": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T23:03:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fbc04936",
+      "title": "被迫等待接班 勒庞副手巴尔德拉退回幕后",
+      "title_original": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "summary": "现年三十岁的乔丹·巴尔德拉是法国极右翼领导人玛丽娜·勒庞的副手，此前已被培养为法国极右翼的下一任接班人，原本有望顺利上位，如今他被迫推迟接班，暂退回幕后等待时机。",
+      "summary_original": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aab/live/b694cdc0-7bad-11f1-9671-6995d20a3bb8.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T23:02:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "df40bee0",
+      "title": "《华尔街日报》称米高梅度假村与迪勒开展交易谈判",
+      "title_original": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
+      "summary": "据《华尔街日报》报道，娱乐大亨巴里·迪勒已提出要约，收购米高梅国际度假村中其尚未持有的剩余股份，目前米高梅正与迪勒旗下的People Inc就该交易展开谈判。",
+      "summary_original": "MGM Resorts International is engaged in deal talks with Barry Diller’s People Inc. after the entertainment mogul offered to acquire the part of the casino company he doesn’t already own, the Wall Street Journal reported.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqMbXbOxKdeA/v0/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T23:02:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0959e36c",
+      "title": "苹果起诉OpenAI及其员工 指控其窃取商业机密",
+      "title_original": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "科技公司苹果于周五正式提起诉讼，被告为人工智能研发企业OpenAI及其员工，苹果指控被告一方窃取了自身的商业机密。苹果在提交的诉讼文件中表示，OpenAI尚处于新兴起步阶段的硬件业务“从根本上就是腐败的”。",
+      "summary_original": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T22:54:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "144a46c9",
+      "title": "标普全球：国际足联将带来短期经济提振",
+      "title_original": "S&P Global: FIFA to Offer Short-Term Economic Boost",
+      "summary": "标普全球政府部门首席分析官诺拉·维特斯特鲁克做客彭博社节目《收盘》，分享对2026年世界杯期间国际足联财务状况的研判。她指出，尽管赛事面临诸多争议，国际足联财务实力反而进一步增强，消息源自彭博社。",
+      "summary_original": "Nora Wittstruck, Chief Analytical Officer for Governments at S&amp;P Global, joined Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close' to provide insights on FIFA's financial position during the 2026 World Cup. She highlights how FIFA has emerged financially stronger despite facing numerous controversies during the tournament. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ3QKODddG7g/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T22:53:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "86b9347f",
+      "title": "交火对峙暂缓，口水战却未停，美伊谈判事宜频现“罗生门” - 京报网",
+      "title_original": null,
+      "summary": "当前美伊交火对峙暂缓，但双方围绕谈判事宜各执一词，陷入“罗生门”。美国方面特朗普称，美方已同意继续与伊朗谈判，还重申停火协议已“终结”；伊朗外交部则明确表示，伊朗从未提出与美谈判的诉求，仅同意调解方访伊。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qczZvX1NWY25YaFdtQUN2VTdoZHc4SnhZZy0wdk9DTjg5NlZINW55WVYxb1RyWk5uMGdqdHRHNk9vSDhWNURXVjQwNVlqNmNYYkljcklWQUVDUlgxenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-10T22:51:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b51dec16",
+      "title": "Pro Shop查德·穆姆谈《全力挥杆》与2026年高尔夫",
+      "title_original": "Pro Shop's Chad Mumm on 'Full Swing,' Golf in 2026",
+      "summary": "Pro Shop联合创始人、网飞系列节目《全力挥杆》制片人查德·穆姆，做客彭博社节目《收盘》，谈及世界排名第一高尔夫球手斯科蒂·舍夫勒无缘苏格兰公开赛晋级线，还讨论了高尔夫人气攀升及各界对《全力挥杆》新一季的期待。",
+      "summary_original": "Chad Mumm, Co-Founder of Pro Shop and Producer of the Netflix series 'Full Swing,' talks about the world's number-one ranked golfer, Scottie Scheffler, missing the cut at the Scottish Open. He also discusses golf's surge in popularity and the anticipation for the upcoming season of 'Full Swing.' Mumm joins Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close.' (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUH0lgXHLXjY/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/pro-shop-s-chad-mumm-on-full-swing-golf-in-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T22:38:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ca49ceed",
+      "title": "美国国土安全部称休斯敦被ICE枪杀男子并非原定目标",
+      "title_original": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "summary": "美国休斯敦发生一起枪击致死事件，美国移民与海关执法局特工在一次交通截停行动中开枪，致男子洛伦佐·萨尔加多·阿劳霍死亡。美国国土安全部官员证实，事发时代理特工搜寻的是另一名人员，遇害男子并非本次行动的原定目标。",
+      "summary_original": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T22:38:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5afbbffc",
+      "title": "美国联邦通信委员会打击大疆规避外国无人机禁令的相关技术",
+      "title_original": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "summary": "此前曝光，Xtra公司可帮助大疆热门相机变相进入美国，Skyrover品牌则伪装销售大疆无人机，已有多家企业被怀疑协助大疆规避美国的外国无人机禁令，目前美国联邦通信委员会正对该违规行为展开打击。",
+      "summary_original": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC is [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T22:35:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4d40519c",
+      "title": "根斯勒：大额交易是“高估值市场”的标志",
+      "title_original": "Gensler: Big Deals a Sign of 'High-Valuation Market'",
+      "summary": "前美国证券交易委员会主席、麻省理工斯隆管理学院教授加里·根斯勒做客彭博社节目《收盘》，讨论近期IPO活动大幅回温，涉及SK海力士美国上市募资265亿美元、谷歌募资850亿美元、SpaceX上市等交易，他指出这些大额交易是“高估值市场”的标志，消息源自彭博社。",
+      "summary_original": "Gary Gensler, Former SEC Chair and professor at MIT Sloan School of Management, joins Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close' and discusses the significant return of IPO activity including SK Hynix, which raised $26.5 billion in the largest foreign debut in the US, Google's $85 billion capital raise and SpaceX going public. He says these big deals are a sign of 'high-valuation market.' (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSylAZln6sAk/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T22:25:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9a8c141e",
+      "title": "《彭博金钱》2026年7月10日",
+      "title_original": "Bloomberg Money 7/10/2026",
+      "summary": "依托彭博全球新闻编辑部报道资源打造、聚焦大众金融生活的《彭博金钱》，本期邀请到两位业内嘉宾，分别是前美联储理事、芝加哥大学布斯商学院经济学教授兰德尔·克罗兹纳，以及NewEdge财富首席投资官卡梅伦·道森，相关信息来源于彭博。",
+      "summary_original": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests are: University of Chicago Booth School Professor of Economics and Former Fed Governor Randall Kroszner and NewEdge Wealth CIO Cameron Dawson. (Source: Bloomberg)",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS59uZiHPQRA/v3/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T22:00:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0bd162a8",
+      "title": "SK海力士上市押注人工智能打破芯片行业盛衰周期",
+      "title_original": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+      "summary": "韩国存储芯片厂商SK海力士完成美国市场史上外国企业规模最大的公开上市，上市首日其股价大涨13%，此次上市是该公司押注人工智能将打破芯片行业一贯的繁荣萧条交替周期。",
+      "summary_original": "South Korean memory chipmaker SK Hynix Inc. just pulled off the largest public listing by a foreign company in US market history. Shares soared 13% on their first day of trading.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ETfVuYnKrU/v1/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T21:52:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b040d389",
+      "title": "Bluesky临时首席执行官托尼·施奈德摘掉“临时”头衔",
+      "title_original": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "summary": "曾任Automattic首席执行官、现任True Ventures合伙人的托尼·施奈德，此前出任非传统社交平台Bluesky的临时首席执行官，如今他正式接任该职位，去掉了“临时”头衔，并称自己将全身心投入该平台发展。",
+      "summary_original": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T21:51:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "060fd23c",
+      "title": "核能服务企业霍尔泰克加入行业IPO热潮",
+      "title_original": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "summary": "霍尔泰克核能公司已提交美国首次公开募股申请，成为当前核能行业IPO热潮中的最新入局者。近年全球数据中心电力需求持续增长，不少核能领域企业趁机筹划上市，希望抓住这波行业增长机遇。",
+      "summary_original": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+      "image": "http://assets.bwbx.io/images/iv6zp2XXnRuI/v2/1200x-1.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T21:40:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8b6753de",
+      "title": "罗德岛州监狱运营商申请破产以削减债券债务",
+      "title_original": "Rhode Island Jail Operator Files Bankruptcy to Cut Bond Debt",
+      "summary": "美国罗德岛州森特勒尔福尔斯拘留设施公司负责关押联邦在押人员，其中包括美国移民与海关执法局逮捕的人员。该公司因无力承担超过1.67亿美元的债券债务，已申请破产以削减相关债务。",
+      "summary_original": "Central Falls Detention Facility Corp., which houses federal detainees including people arrested by the US Immigration and Customs Enforcement agency, filed for bankruptcy saying it cannot afford to keep paying on more than $167 million in bond debt.",
+      "image": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/rhode-island-jail-operator-files-bankruptcy-to-cut-bond-debt",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-07-10T21:37:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "82c4cd26",
+      "title": "苹果起诉OpenAI涉嫌窃取硬件机密",
+      "title_original": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "苹果已对OpenAI提起诉讼，指控这家AI初创企业的工程师窃取苹果商业机密，以推进自身硬件项目。苹果在诉状中指出，多名前苹果员工入职OpenAI后存在窃取苹果商业机密的行为模式，本次诉讼还将乔尼·艾维创立的硬件初创公司IO Products列为被告。",
+      "summary_original": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T21:36:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "82c4cd26",
+      "title": "苹果起诉OpenAI涉嫌窃取硬件机密",
+      "title_original": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "苹果对人工智能初创企业OpenAI提起诉讼，指控多名曾任职苹果的OpenAI员工窃取苹果商业机密，以推进OpenAI的硬件发展计划。本次诉讼除OpenAI外，还将设计师乔尼·艾夫创立的硬件初创公司IO Products列为被告。",
+      "summary_original": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-07-10T21:36:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9f48b5a1",
+      "title": "泰国发现脖子长度堪比板球场的新恐龙物种",
+      "title_original": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "summary": "考古人员近日在泰国发现一种全新的恐龙物种，该恐龙属于植食性恐龙，被命名为Uragasaurus kalasinensis。据推测，这一物种大约生活在1.5亿年前，其最显著特征是脖子长度可与板球场媲美。",
+      "summary_original": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T21:30:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a2dfa543",
+      "title": "古巴一周内再次全国大停电 - 新华网",
+      "title_original": null,
+      "summary": "据新华网报道，古巴一周内再次发生全国性大范围停电事件，这是该国短时间内第二次遭遇全国大停电。相关事件内容已同步上线谷歌新闻平台，感兴趣的用户可前往该平台查看更多相关头条新闻与各方观点。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQ3p4U2JtLXBUSWtwRkFBZHRxeDIyYUgwaUtTd3pIYVRkM1JCYk9jcnl2elIwT1BBS2FQRkh1djQ4bkJ1NXRwQW5pM2lwanNpaURZWFFheUJEdkkzR0VxWWZUS3hHeGRBUkdmbEZpcDRpQWdfcU00Zl9RVjA2LU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-10T21:29:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "80b272bb",
+      "title": "苹果起诉OpenAI涉嫌窃取商业秘密",
+      "title_original": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "科技巨头苹果对人工智能企业OpenAI提起诉讼，指控对方涉嫌窃取自身商业秘密。苹果方面表示，涉案不当行为由OpenAI的高层领导主导，相关人员中还包括一名曾在苹果供职多年的前员工。",
+      "summary_original": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T21:00:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "80b272bb",
+      "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+      "title_original": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "苹果正式对OpenAI提起诉讼，指控其存在窃取商业机密的行为。苹果方面称，涉案不当行为由OpenAI的高层领导主导，相关参与者中还包括一名曾在苹果任职多年的前雇员。",
+      "summary_original": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-10T21:00:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "78eb1b1b",
+      "title": "十年后，《宝可梦Go》终于兑现最初承诺",
+      "title_original": "A decade later, Pokémon Go finally made good on its original promise",
+      "summary": "2015年开发商Niantic发布《宝可梦Go》首支预告时，玩家合作捕捉超梦这类宝可梦的设想令外界难以理解。近日在纽约举办的该游戏十周年活动上，近两千名玩家现场实现了这一玩法，兑现了游戏最初的承诺。",
+      "summary_original": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T19:51:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "91a2ace2",
+      "title": "美国移民与海关执法局威胁驱逐其最新枪击案目击者",
+      "title_original": "ICE is threatening to deport witnesses of its latest shooting",
+      "summary": "本周早些时候，美国移民与海关执法局人员在休斯顿拦检车辆时枪杀墨西哥移民洛伦佐·萨尔加多·阿劳霍，该机构还威胁驱逐这起枪击案的目击者。维权人士要求美国国土安全部公布涉案随身执法录像，国土安全部称涉事人员未佩戴随身摄像头。",
+      "summary_original": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in the shooting weren't wearing body cameras because of the lengthy [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T19:20:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c835ffd5",
+      "title": "Hugging Face克莱姆·德朗格：开源人工智能比以往任何时候都更重要",
+      "title_original": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Hugging Face首席执行官克莱姆·德朗格称，当前开源人工智能正蓬勃发展。该公司近年已成长为人工智能领域类似GitHub的平台，供开发者共享、下载开源模型与数据集，目前约半数财富500强企业都在使用其服务。",
+      "summary_original": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+      "image": null,
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-10T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3d53a14c",
+      "title": "匈牙利大屠杀幸存者能否在美国讨回公道？",
+      "title_original": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
+      "summary": "十多年来，一群匈牙利大屠杀幸存者一直发起法律斗争，希望美国法院受理他们针对匈牙利国家铁路提起的诉讼。该铁路曾在二战大屠杀暴行中发挥推波助澜的作用，幸存者希望通过法律途径为当年遭遇讨回公道。",
+      "summary_original": "For more than a decade, a group of survivors have fought a legal battle to get American courts to hear their suit against Hungary’s national railroad over its role in the atrocities.",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-Hungary-Holocaust-01-mqlp/09int-Hungary-Holocaust-01-mqlp-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-10T18:59:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c83bcd18",
+      "title": "西班牙南部野火已造成至少12人死亡",
+      "title_original": "At Least 12 People Die in Southern Spain Wildfire",
+      "summary": "发生在西班牙安达卢西亚地区的这场野火，是该国现有记录中致命程度最高的野火之一。目前该野火已造成至少12人死亡，另有超过20人失踪，西班牙当局透露多数遇难者为外国游客。",
+      "summary_original": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10spain-wildfire-02-gvtc/10spain-wildfire-02-gvtc-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-10T18:45:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4a98416d",
+      "title": "女童遭性侵遇害引发印度西孟加拉邦多日抗议",
+      "title_original": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
+      "summary": "印度总理纳伦德拉·莫迪领导的政党此前曾承诺改善西孟加拉邦的女性安全状况，近日当地一名11岁女童遭性侵遇害，引发连续多日抗议活动，该政党目前正面临公众的强烈愤怒。",
+      "summary_original": "After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl.",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-india-murder-bkgv/11int-india-murder-bkgv-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-10T17:56:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f902d1db",
+      "title": "诉讼文件：大学生应用Fizz指控风投向竞品Sidechat泄露初创公司机密信息",
+      "title_original": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "summary": "大学生应用领域的初创企业Fizz已扩大针对竞争对手Sidechat的诉讼，Fizz指控风投机构Maveron的一名风投从业人员，在双方融资接洽会议中获取了己方机密信息后，将该信息分享给了竞争对手Sidechat。",
+      "summary_original": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T17:42:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "75ef68ac",
+      "title": "英伟达最大内存供应商在华尔街完成万亿市值首发",
+      "title_original": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+      "summary": "AI热潮带动内存需求上涨，韩国内存芯片厂商SK海力士周五在华尔街上市，首发即达万亿美元市值。本次募资265亿美元，打破阿里巴巴此前纪录，成为美股史上外国企业规模最大的IPO。",
+      "summary_original": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from The [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T17:31:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f7247b52",
+      "title": "赵乐际分别会见纳米比亚总统恩代特瓦、朝鲜内阁总理朴泰成 - 中国网新闻中心",
+      "title_original": null,
+      "summary": "赵乐际分别会见纳米比亚总统恩代特瓦与朝鲜内阁总理朴泰成，相关消息由中国网等多家媒体发布。此前，习近平同纳米比亚总统恩代特瓦举行会谈，中纳两国共同发布了关于构建新时代中纳命运共同体的联合声明。",
+      "summary_original": null,
+      "image": null,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQjcwT2RGVk94NE5ZdXRzelpVUV8wV0NJc3J3SThJYnZRVzVMTnV3cFVPQjBpbEpxZlJSYnk1OW9LRlZxcGp6MWY2M0k2WHJWYmF2YmRSM0NrYXVjaFRhTjV4QjJHSUd2OGF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-07-10T17:25:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2e6f798b",
+      "title": "SK海力士募资265亿美元完成美国史上最大外国IPO 被敦促在美新建晶圆厂",
+      "title_original": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "AI芯片热潮催生华尔街这一重磅募资事件，SK海力士完成美国历史上规模最大的外国企业首次公开募股，募资总额达265亿美元。目前SK海力士与三星已被敦促在美国新建芯片晶圆工厂。",
+      "summary_original": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T17:17:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2e6f798b",
+      "title": "SK海力士募资265亿美元完成美国史上最大外国IPO，被敦促在美新建晶圆厂",
+      "title_original": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "人工智能芯片热潮当下迎来华尔街标志性节点，SK海力士完成美国历史上规模最大的外国首次公开募股，募资达265亿美元，目前SK海力士与三星一同被要求在美国建设新的芯片工厂。",
+      "summary_original": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-07-10T17:17:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3e7690b6",
+      "title": "新应用HyperTexting将开放网络转化为可滚动的类社交媒体信息流",
+      "title_original": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "summary": "全新应用HyperTexting推出，致力于让开放网络拥有更贴近社交媒体的使用体验。它可将网站、博客、新闻通讯、播客等各类开放网络内容整合为可滚动浏览的信息流，同时还能简化用户向个人网站发布内容的操作。",
+      "summary_original": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T17:11:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6624403c",
+      "title": "Spotify将允许用户微调每周新歌雷达播放列表",
+      "title_original": "Spotify will let you fine-tune your weekly Release Radar playlist",
+      "summary": "流媒体平台Spotify将为旗下最受欢迎的每周歌单之一“新歌雷达”新增自定义功能，允许用户微调歌单的推荐内容。用户可按需将歌单限定为特定曲风，或是聚焦未关注过的新艺人，目前最多可选择五种不同的调整选项，满足个性化听歌需求。",
+      "summary_original": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five options like [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T17:02:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "95fe0553",
+      "title": "中国正追赶埃隆·马斯克的可重复使用火箭",
+      "title_original": "China is catching up to Elon Musk’s reusable rockets",
+      "summary": "中国一家国有航天企业完成了首次轨道火箭助推器发射后回收任务，这是中国在可重复使用火箭技术领域取得的重要突破，意味着中国正逐步缩小与埃隆·马斯克引领的可重复使用火箭技术的差距。",
+      "summary_original": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T16:51:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0983b925",
+      "title": "乘客称瑞安航空航班飞行途中一男子险些被吸出窗外",
+      "title_original": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summary": "一架瑞安航空客机飞行途中发生意外，一名男子险些被吸出机舱窗外。相关官员透露，险情发生后，该男子的妻子紧紧抓住他的双腿，坚持约五分钟，成功阻止男子被吸出飞机。",
+      "summary_original": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c20/live/34d39400-7c5d-11f1-802c-e767a91f6051.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T16:42:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0600eba2",
+      "title": "视频拍到对妻子大发雷霆后，祖鲁国王表达悔意",
+      "title_original": "Zulu king expresses regret after video captures tirade against his wife",
+      "summary": "一段记录祖鲁国王米苏祖言行的视频在南非广为流传，视频中米苏祖威胁要对妻子实施人身攻击，并指控妻子不忠。该事件引发关注后，米苏祖就自身此次不当言行表达了懊悔。",
+      "summary_original": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a2/live/4b3f29f0-7c73-11f1-bee8-53ce494e1abc.jpg",
+      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-07-10T16:42:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7e80dc87",
+      "title": "网飞正在变身YouTube",
+      "title_original": "Netflix is turning into YouTube",
+      "summary": "原本主打影视剧的网飞，曾被看好是电视领域的下一个行业巨头，如今已陆续拓展出视频游戏、直播体育、播客等多元业务，据称接下来还要新增YouTube类视频内容，四处扩张的节奏显得忙乱，甚至透露出一丝急切，网飞更将用户睡眠视作自身主要竞争对手。",
+      "summary_original": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it might [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T16:29:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "76672d06",
+      "title": "报道称迪士尼+正考虑推出免费流媒体档位",
+      "title_original": "Disney+ is considering a free streaming tier, report says",
+      "summary": "据相关报道，迪士尼旗下流媒体平台迪士尼+正考虑推出免费内容档位。推出免费内容可帮助其更好同YouTube、Tubi等免费流媒体服务竞争，这类免费服务目前正不断抢占更多消费者的收视时长。",
+      "summary_original": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+      "image": null,
+      "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-07-10T16:29:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0e092c8a",
+      "title": "官员称调停者正努力将美伊拉离冲突边缘",
+      "title_original": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
+      "summary": "卡塔尔调停人员目前已身处伊朗，试图挽救已经破裂的停火协议。美国总统特朗普表态，即便本次停火已经结束，美国仍将继续推进与伊朗的谈判，多方正努力缓和一触即发的美伊局势。",
+      "summary_original": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10iran-diplomacy-pmgb/10iran-diplomacy-pmgb-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-10T16:15:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e7bb3ac5",
+      "title": "伊朗最高领袖缺席 政权高层出现权力真空",
+      "title_original": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+      "summary": "伊朗最高领袖哈梅内伊之子阿亚图拉·穆杰塔巴·哈梅内伊本周未出席父亲的葬礼，这一情况加剧了外界对哈梅内伊身体状况的猜测，也令陷入分裂的伊朗出现高层权力真空。",
+      "summary_original": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-Iran-Supreme-Leader-lpbq/10int-Iran-Supreme-Leader-lpbq-mediumSquareAt3X.jpg",
+      "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-07-10T16:00:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "70b3cee5",
+      "title": "据报道迪士尼+正考虑推出免费流媒体档位",
+      "title_original": "Disney Plus is reportedly looking into a free streaming tier",
+      "summary": "据商业内幕网站报道，迪士尼流媒体平台迪士尼+正考虑开放部分免费内容。迪士尼首席产品与技术官亚当·史密斯在周四公司内部沟通会上提及该免费流媒体档位，目前尚未明确免费内容包含哪些影视节目。",
+      "summary_original": "Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday. It's not clear which shows or movies the purported free [&#8230;]",
+      "image": null,
+      "link": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-07-10T15:33:58+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "4bb9bd82",
+      "title": "Meta遭遇连日反对后下线全新AI图像功能",
+      "summary": "社交媒体企业Meta本周推出一项全新AI功能，允许用户修改Instagram平台内容，该功能推出后迅速引发强烈反对，在承受多日批评抵制后，Meta已正式下线这项AI图像功能。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89bb/live/90ab13b0-7cbd-11f1-926f-c90d1bcfbc84.jpg",
+      "article_ids": [
+        "d30a0e3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d30a0e3a",
+          "source": "BBC World",
+          "title": "Meta遭遇连日反对后下线全新AI图像功能",
+          "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-11T01:45:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:45:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "085f971b",
+      "title": "王室关系缓和：哈里梅根罕见探望国王与王后",
+      "summary": "上周五，哈里王子与梅根拜访了英国国王查尔斯与王后卡米拉，此次访问十分罕见。哈里夫妇2020年退出王室公职后移居美国，本次访问标志着二人与英国王室的关系趋向缓和。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-prince-harry-visit-photo-tbwq/10int-prince-harry-visit-photo-tbwq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "7b2c9ca9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "7b2c9ca9",
+          "source": "NYTimes World",
+          "title": "王室关系缓和：哈里梅根罕见探望国王与王后",
+          "link": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+          "published_at": "2026-07-11T01:37:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:37:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8ad9750",
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "summary": "本期科技财经热点汇总显示：“国产存储第一股”长鑫科技公布豪华承销团，将于7月16日开启IPO发行；韩国存储巨头SK海力士登陆美股，上市首日大涨近13%；OpenAI推出可长时间跟进复杂任务的ChatGPT Work智能体，此外德国大众拟大裁员，国内百亿私募数量刷新历史纪录。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "565be75f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "565be75f",
+          "source": "36氪",
+          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+          "link": "https://36kr.com/p/3890553690192384?f=rss",
+          "published_at": "2026-07-11T01:24:06+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:24:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "304e8b2e",
+      "title": "印度与新西兰计划建立涵盖海事安全的战略伙伴关系",
+      "summary": "印度与新西兰将把双边关系提升至“战略伙伴关系”层级，两国均希望借助关系升级，促成更紧密的双边贸易往来，同时深化包括海事安全在内的各领域安全合作，契合双方的共同利益需求。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2GcCp_jOGLI/v0/1200x-1.jpg",
+      "article_ids": [
+        "1ce4d2bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1ce4d2bf",
+          "source": "Bloomberg",
+          "title": "印度与新西兰计划建立涵盖海事安全的战略伙伴关系",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
+          "published_at": "2026-07-11T01:03:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:03:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "be250859",
+      "title": "美国网安机构CISA披露：事发时才临时制定安全事件应对预案",
+      "summary": "美国网络安全与基础设施安全局（CISA）承认，该机构事前并未提前制定安全事件响应计划，错失了提前掌控安全事件态势的机会，最终不得不在安全事件处置过程中临时编制应对预案。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "62b0eb13"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "62b0eb13",
+          "source": "TechCrunch",
+          "title": "美国网安机构CISA披露：事发时才临时制定安全事件应对预案",
+          "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+          "published_at": "2026-07-11T01:01:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:01:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35521b08",
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "summary": "上海交大00后博士创办的具身智能仿生扑翼机器人企业鹰瞰智翼，三个月内完成三轮融资，近期获元禾璞华领投的数千万元A轮融资。资金将用于首款消费级产品量产、市场拓展及技术研发，该产品将于今年第三季度在海外开启众筹，企业同步布局产业级产品研发。",
+      "category": "tech",
+      "image": "https://img.36krcdn.com/hsossms/20260710/v2_65133adab2b0471884c9250eef7228ae@6221844_oswg362165oswg1269oswg715_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "article_ids": [
+        "f2293e5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "36氪"
+      ],
+      "articles": [
+        {
+          "id": "f2293e5e",
+          "source": "36氪",
+          "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+          "link": "https://36kr.com/p/3889516712065799?f=rss",
+          "published_at": "2026-07-11T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "005fd222",
+      "title": "菲亚被控“Cookie填充” 不当获取未促成交易的联盟佣金",
+      "summary": "彭博社一项调查显示，由比尔·盖茨女儿菲比与友人索菲亚·基安妮共同创立的购物初创企业菲亚，被指通过“Cookie填充”手段，在未实际促成交易的情况下不当获取联盟推广佣金，目前该公司正引发舆论批评。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "e6ebabb1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e6ebabb1",
+          "source": "TechCrunch",
+          "title": "菲亚被控“Cookie填充” 不当获取未促成交易的联盟佣金",
+          "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+          "published_at": "2026-07-11T00:29:25+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T00:29:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98a3dc7d",
+      "title": "台风逼近、局地暴雨大暴雨 中央气象台三预警齐发 - 中国日报网",
+      "summary": "台风“巴威”逼近并再度增强，中央气象台三预警齐发，预计我国多地将出现大到暴雨，局部地区遭遇大暴雨。目前各地已启动应对措施：江西启动防汛三级应急响应，南航允许受影响航线客票免费退票，湖北多个景区场馆紧急关闭，济南提醒市民非必要不外出。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "2703fee8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2703fee8",
+          "source": "Google News (中国)",
+          "title": "台风逼近、局地暴雨大暴雨 中央气象台三预警齐发 - 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5taGxHcm54akU3OXRoU3d4cUZWN2FWTWNMbzR5QkR5WDBfZzdKOE1od0dUYjVpTnRXV21Zd0lneVJzZ0FXWWlZcng4NjRORHBhLUF3YUFoUE94V1hiNXU2bWh2RDFWSy1kVS16N3VHdVBIMThLQkpDdXNqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-11T00:27:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T00:27:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3d1671e0",
+      "title": "中方敦促维护中东地区停火止战局面 - 第一财经",
+      "summary": "中方就中东地区局势作出公开表态，明确敦促各方共同维护中东地区的停火止战局面，避免地区局势进一步升级动荡。这一内容由第一财经发布，感兴趣的公众可前往Google新闻查看第一财经更多头条新闻与相关观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "fa37f4de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "fa37f4de",
+          "source": "Google News (中国)",
+          "title": "中方敦促维护中东地区停火止战局面 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QzJHaDNVZGpPZ1VUWjZtdTFaNm51cENxZnQ0bV9NYmNIXzNfRUVXYjJqWGQyeTQ4djVjbGZZY2NiNUIzUE9icDFGRzN6V2dQcDA4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-11T00:22:19+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T00:22:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "94b7491c",
+      "title": "习近平同金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - 中华人民共和国国防部",
+      "summary": "《中朝友好合作互助条约》签订65周年之际，中国国家领导人习近平同朝鲜领导人金正恩就此互致贺电，该相关资讯由中华人民共和国国防部发布，受众可前往Google新闻查看更多相关的头条新闻与观点内容。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "52444f31"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "52444f31",
+          "source": "Google News (中国)",
+          "title": "习近平同金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - 中华人民共和国国防部",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nd21kam9mbE9hSnJIVWxKcXFBcGdlUHBudW9QdklwTnRoaGZPMmdLMzQ3c3o0b2dGS3d4cnRDVnJReTVGcVB1RS1BVlRkVGRaaDEwZ0YyYzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-11T00:18:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T00:18:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "85e8ad64",
+      "title": "不实：Flock并未因讨论监控议题威胁他人",
+      "summary": "周四，美国加利福尼亚州新港滩一个讲座系列在其Instagram账号发布一张监控技术公司Flock Safety出具的勒令停终信函照片。Flock因自身技术及与执法部门合作早已引发大量反对声音，该事件再度掀起舆论波澜。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "21e142e0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "21e142e0",
+          "source": "The Verge",
+          "title": "不实：Flock并未因讨论监控议题威胁他人",
+          "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+          "published_at": "2026-07-11T00:10:38+00:00"
+        }
+      ],
+      "published_at": "2026-07-11T00:10:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eecace97",
+      "title": "收盘观察（2026年7月10日）：SK海力士在美国创纪录招股后股价上涨",
+      "summary": "彭博电视推出直击华尔街收盘前后的最新新闻与分析栏目，本期邀请了来自研究机构、评级机构、投资机构、实体企业等领域的九位业内嘉宾，围绕相关市场话题分享专业观点，内容来源为彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i81iYOd5AHR0/v3/1200x-1.jpg",
+      "article_ids": [
+        "ce913bff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ce913bff",
+          "source": "Bloomberg",
+          "title": "收盘观察（2026年7月10日）：SK海力士在美国创纪录招股后股价上涨",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
+          "published_at": "2026-07-10T23:56:41+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:56:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd67a1d7",
+      "title": "遭反对声浪后Meta移除Instagram上颇具争议的AI功能",
+      "summary": "Meta旗下社交平台Instagram此前推出一款AI功能，该功能引发争议遭到用户反对。Meta发文称，该功能初衷是提供实用创作工具，允许用户控制公开内容是否可被调用，收到该功能未达预期的反馈后，现已将其下线。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "312c742d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "312c742d",
+          "source": "TechCrunch",
+          "title": "遭反对声浪后Meta移除Instagram上颇具争议的AI功能",
+          "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "published_at": "2026-07-10T23:55:07+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bd67a1d7",
+      "title": "Meta遭强烈反对后移除Instagram争议AI功能",
+      "summary": "科技公司Meta已下线Instagram平台一款颇具争议的AI功能。Meta表示，该功能初衷是为用户提供实用创作工具，同时允许用户控制自身公开内容是否可被该功能引用，收到该功能未达预期的反馈后，已将其停用。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "312c742d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "312c742d",
+          "source": "TechCrunch AI",
+          "title": "Meta遭强烈反对后移除Instagram争议AI功能",
+          "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "published_at": "2026-07-10T23:55:07+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:55:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "59ee0f27",
+      "title": "Meta关闭Instagram可制作公众账号AI深度伪造内容的功能",
+      "summary": "Meta本周推出一项新功能，允许用户标记Instagram公开账号后，即可未经账号所有者许可，使用账号内容生成AI深度伪造图像。该功能推出后引发强烈反对，Meta现已将这项功能关闭。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "c5c58f59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "c5c58f59",
+          "source": "The Verge",
+          "title": "Meta关闭Instagram可制作公众账号AI深度伪造内容的功能",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "published_at": "2026-07-10T23:49:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:49:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "59ee0f27",
+      "title": "Meta关闭Instagram允许用户生成公众账号AI深度伪造内容的功能",
+      "summary": "Meta本周推出一项新功能，允许用户标注Instagram公开账号后，直接基于账号内容生成AI深度伪造图像，该功能可未经账号所有者同意使用其内容，引发大量反对声浪后，Meta现已关闭这一功能。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c5c58f59"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "c5c58f59",
+          "source": "The Verge AI",
+          "title": "Meta关闭Instagram允许用户生成公众账号AI深度伪造内容的功能",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "published_at": "2026-07-10T23:49:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:49:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e20613b7",
+      "title": "全球首次火箭网系回收成功 多家A股公司参与其中 - 证券时报",
+      "summary": "中国完成全球首创的火箭网系回收任务，成功回收入轨火箭助推器，标志着中国航天正式迈入火箭回收时代。本次任务有多家A股公司参与其中，这一中国航天的新突破，引发了国内外多家媒体的关注与讨论。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f6a4bc37"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f6a4bc37",
+          "source": "Google News (中国)",
+          "title": "全球首次火箭网系回收成功 多家A股公司参与其中 - 证券时报",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oLUpYSFR0YkZaRFdEay03SGFBM01HbkZMQW85YTBXUzhydzdodWE3RFNRcnJFNG1faE5hMDJOdzhwSHpEZVRDMnJhOThTZ3liWE93MFZ0ZEZGREtz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-10T23:31:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:31:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a0fef5f2",
+      "title": "纳凉点临时关闭 多部门发布避险指南 - 杭州网",
+      "summary": "台风“巴威”逼近，多平台多部门发布多项相关提示：杭州临时关闭纳凉点，推出防汛防灾避险自救指南，附上应对相关事宜的法律小贴士，专家提醒需警惕台风过后易发的三类疾病；此外波罗的海干散货指数上涨1.17%，报2944点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "484fb7ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "484fb7ea",
+          "source": "Google News (中国)",
+          "title": "纳凉点临时关闭 多部门发布避险指南 - 杭州网",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajRHa0pFZzY2TnZ2eG1STkFka1owaUZEOUhqX2U4SGREWEs2SjliRkxDUTRpQ3FnbTR3d3BPdUh5Rnk2Y29Pdi02TEsyWmJhVnBLdWFHam1PcTFLakxuY2R0dlhVRDNsc1ZranR5QWhhTEZFUncxTW42RVdGLWVjZlR6dDY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-10T23:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f388c36",
+      "title": "认识构建“金钱可买选票”世界的加密亿万富翁",
+      "summary": "一批加密领域的亿万富翁认为，现行民主体制已经走到尽头，无法适配他们的需求，因此他们打算另起炉灶，筹建属于自己的独立国家，构建一个金钱可以购买投票权的全新世界，以此替代现有民主体制。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
+      "article_ids": [
+        "ef14cebb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ef14cebb",
+          "source": "BBC World",
+          "title": "认识构建“金钱可买选票”世界的加密亿万富翁",
+          "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T23:03:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:03:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6913bf63",
+      "title": "被迫等待接班 勒庞副手巴尔德拉退回幕后",
+      "summary": "现年三十岁的乔丹·巴尔德拉是法国极右翼领导人玛丽娜·勒庞的副手，此前已被培养为法国极右翼的下一任接班人，原本有望顺利上位，如今他被迫推迟接班，暂退回幕后等待时机。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aab/live/b694cdc0-7bad-11f1-9671-6995d20a3bb8.jpg",
+      "article_ids": [
+        "fbc04936"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fbc04936",
+          "source": "BBC World",
+          "title": "被迫等待接班 勒庞副手巴尔德拉退回幕后",
+          "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T23:02:59+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:02:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d6c1f8c",
+      "title": "《华尔街日报》称米高梅度假村与迪勒开展交易谈判",
+      "summary": "据《华尔街日报》报道，娱乐大亨巴里·迪勒已提出要约，收购米高梅国际度假村中其尚未持有的剩余股份，目前米高梅正与迪勒旗下的People Inc就该交易展开谈判。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqMbXbOxKdeA/v0/1200x-1.jpg",
+      "article_ids": [
+        "df40bee0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "df40bee0",
+          "source": "Bloomberg",
+          "title": "《华尔街日报》称米高梅度假村与迪勒开展交易谈判",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
+          "published_at": "2026-07-10T23:02:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T23:02:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3b9a4a53",
+      "title": "苹果起诉OpenAI及其员工 指控其窃取商业机密",
+      "summary": "科技公司苹果于周五正式提起诉讼，被告为人工智能研发企业OpenAI及其员工，苹果指控被告一方窃取了自身的商业机密。苹果在提交的诉讼文件中表示，OpenAI尚处于新兴起步阶段的硬件业务“从根本上就是腐败的”。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
+      "article_ids": [
+        "0959e36c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0959e36c",
+          "source": "BBC World",
+          "title": "苹果起诉OpenAI及其员工 指控其窃取商业机密",
+          "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T22:54:16+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:54:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f3307eb",
+      "title": "标普全球：国际足联将带来短期经济提振",
+      "summary": "标普全球政府部门首席分析官诺拉·维特斯特鲁克做客彭博社节目《收盘》，分享对2026年世界杯期间国际足联财务状况的研判。她指出，尽管赛事面临诸多争议，国际足联财务实力反而进一步增强，消息源自彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ3QKODddG7g/v3/1200x-1.jpg",
+      "article_ids": [
+        "144a46c9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "144a46c9",
+          "source": "Bloomberg",
+          "title": "标普全球：国际足联将带来短期经济提振",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
+          "published_at": "2026-07-10T22:53:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:53:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7af9b5eb",
+      "title": "交火对峙暂缓，口水战却未停，美伊谈判事宜频现“罗生门” - 京报网",
+      "summary": "当前美伊交火对峙暂缓，但双方围绕谈判事宜各执一词，陷入“罗生门”。美国方面特朗普称，美方已同意继续与伊朗谈判，还重申停火协议已“终结”；伊朗外交部则明确表示，伊朗从未提出与美谈判的诉求，仅同意调解方访伊。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "86b9347f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "86b9347f",
+          "source": "Google News (中国)",
+          "title": "交火对峙暂缓，口水战却未停，美伊谈判事宜频现“罗生门” - 京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qczZvX1NWY25YaFdtQUN2VTdoZHc4SnhZZy0wdk9DTjg5NlZINW55WVYxb1RyWk5uMGdqdHRHNk9vSDhWNURXVjQwNVlqNmNYYkljcklWQUVDUlgxenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-10T22:51:27+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:51:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "23fae4b6",
+      "title": "Pro Shop查德·穆姆谈《全力挥杆》与2026年高尔夫",
+      "summary": "Pro Shop联合创始人、网飞系列节目《全力挥杆》制片人查德·穆姆，做客彭博社节目《收盘》，谈及世界排名第一高尔夫球手斯科蒂·舍夫勒无缘苏格兰公开赛晋级线，还讨论了高尔夫人气攀升及各界对《全力挥杆》新一季的期待。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUH0lgXHLXjY/v3/1200x-1.jpg",
+      "article_ids": [
+        "b51dec16"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b51dec16",
+          "source": "Bloomberg",
+          "title": "Pro Shop查德·穆姆谈《全力挥杆》与2026年高尔夫",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-10/pro-shop-s-chad-mumm-on-full-swing-golf-in-2026-video",
+          "published_at": "2026-07-10T22:38:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:38:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "069eb1b5",
+      "title": "美国国土安全部称休斯敦被ICE枪杀男子并非原定目标",
+      "summary": "美国休斯敦发生一起枪击致死事件，美国移民与海关执法局特工在一次交通截停行动中开枪，致男子洛伦佐·萨尔加多·阿劳霍死亡。美国国土安全部官员证实，事发时代理特工搜寻的是另一名人员，遇害男子并非本次行动的原定目标。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/a2c80e40-7c4a-11f1-b92f-f7be89c06628.jpg",
+      "article_ids": [
+        "ca49ceed"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ca49ceed",
+          "source": "BBC World",
+          "title": "美国国土安全部称休斯敦被ICE枪杀男子并非原定目标",
+          "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T22:38:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:38:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1718910c",
+      "title": "美国联邦通信委员会打击大疆规避外国无人机禁令的相关技术",
+      "summary": "此前曝光，Xtra公司可帮助大疆热门相机变相进入美国，Skyrover品牌则伪装销售大疆无人机，已有多家企业被怀疑协助大疆规避美国的外国无人机禁令，目前美国联邦通信委员会正对该违规行为展开打击。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "5afbbffc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5afbbffc",
+          "source": "The Verge",
+          "title": "美国联邦通信委员会打击大疆规避外国无人机禁令的相关技术",
+          "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+          "published_at": "2026-07-10T22:35:18+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:35:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "739baaa6",
+      "title": "根斯勒：大额交易是“高估值市场”的标志",
+      "summary": "前美国证券交易委员会主席、麻省理工斯隆管理学院教授加里·根斯勒做客彭博社节目《收盘》，讨论近期IPO活动大幅回温，涉及SK海力士美国上市募资265亿美元、谷歌募资850亿美元、SpaceX上市等交易，他指出这些大额交易是“高估值市场”的标志，消息源自彭博社。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSylAZln6sAk/v3/1200x-1.jpg",
+      "article_ids": [
+        "4d40519c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4d40519c",
+          "source": "Bloomberg",
+          "title": "根斯勒：大额交易是“高估值市场”的标志",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video",
+          "published_at": "2026-07-10T22:25:33+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:25:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15360cdd",
+      "title": "《彭博金钱》2026年7月10日",
+      "summary": "依托彭博全球新闻编辑部报道资源打造、聚焦大众金融生活的《彭博金钱》，本期邀请到两位业内嘉宾，分别是前美联储理事、芝加哥大学布斯商学院经济学教授兰德尔·克罗兹纳，以及NewEdge财富首席投资官卡梅伦·道森，相关信息来源于彭博。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS59uZiHPQRA/v3/1200x-1.jpg",
+      "article_ids": [
+        "9a8c141e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9a8c141e",
+          "source": "Bloomberg",
+          "title": "《彭博金钱》2026年7月10日",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video",
+          "published_at": "2026-07-10T22:00:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T22:00:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d021a9d8",
+      "title": "SK海力士上市押注人工智能打破芯片行业盛衰周期",
+      "summary": "韩国存储芯片厂商SK海力士完成美国市场史上外国企业规模最大的公开上市，上市首日其股价大涨13%，此次上市是该公司押注人工智能将打破芯片行业一贯的繁荣萧条交替周期。",
+      "category": "business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ETfVuYnKrU/v1/1200x-1.jpg",
+      "article_ids": [
+        "0bd162a8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0bd162a8",
+          "source": "Bloomberg",
+          "title": "SK海力士上市押注人工智能打破芯片行业盛衰周期",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+          "published_at": "2026-07-10T21:52:56+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:52:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e35c0e0c",
+      "title": "Bluesky临时首席执行官托尼·施奈德摘掉“临时”头衔",
+      "summary": "曾任Automattic首席执行官、现任True Ventures合伙人的托尼·施奈德，此前出任非传统社交平台Bluesky的临时首席执行官，如今他正式接任该职位，去掉了“临时”头衔，并称自己将全身心投入该平台发展。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "b040d389"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b040d389",
+          "source": "TechCrunch",
+          "title": "Bluesky临时首席执行官托尼·施奈德摘掉“临时”头衔",
+          "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+          "published_at": "2026-07-10T21:51:55+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:51:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "419a9f89",
+      "title": "核能服务企业霍尔泰克加入行业IPO热潮",
+      "summary": "霍尔泰克核能公司已提交美国首次公开募股申请，成为当前核能行业IPO热潮中的最新入局者。近年全球数据中心电力需求持续增长，不少核能领域企业趁机筹划上市，希望抓住这波行业增长机遇。",
+      "category": "business",
+      "image": "http://assets.bwbx.io/images/iv6zp2XXnRuI/v2/1200x-1.jpg",
+      "article_ids": [
+        "060fd23c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "060fd23c",
+          "source": "Bloomberg",
+          "title": "核能服务企业霍尔泰克加入行业IPO热潮",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+          "published_at": "2026-07-10T21:40:08+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:40:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92b51c3b",
+      "title": "罗德岛州监狱运营商申请破产以削减债券债务",
+      "summary": "美国罗德岛州森特勒尔福尔斯拘留设施公司负责关押联邦在押人员，其中包括美国移民与海关执法局逮捕的人员。该公司因无力承担超过1.67亿美元的债券债务，已申请破产以削减相关债务。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8b6753de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8b6753de",
+          "source": "Bloomberg",
+          "title": "罗德岛州监狱运营商申请破产以削减债券债务",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-10/rhode-island-jail-operator-files-bankruptcy-to-cut-bond-debt",
+          "published_at": "2026-07-10T21:37:26+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:37:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eab193d8",
+      "title": "苹果起诉OpenAI及IO Products 指控对方涉嫌窃取自身商业机密",
+      "summary": "苹果指控多名前苹果员工入职OpenAI后窃取自身商业机密，用于推进OpenAI的硬件项目，相关不当行为由OpenAI高层领导主导，本次诉讼除OpenAI外，还将乔尼·艾维创立的IO Products列为被告。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "82c4cd26",
+        "80b272bb"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "82c4cd26",
+          "source": "The Verge",
+          "title": "苹果起诉OpenAI涉嫌窃取硬件机密",
+          "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "published_at": "2026-07-10T21:36:51+00:00"
+        },
+        {
+          "id": "80b272bb",
+          "source": "TechCrunch",
+          "title": "苹果起诉OpenAI涉嫌窃取商业秘密",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "published_at": "2026-07-10T21:00:29+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:36:51+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "eab193d8",
+      "title": "苹果起诉OpenAI及乔尼·艾夫创立的硬件公司涉嫌窃取商业机密",
+      "summary": "苹果对OpenAI以及设计师乔尼·艾夫创立的硬件初创公司IO Products提起诉讼，指控被告窃取商业机密，涉案人员包括多名曾任职苹果的前雇员，相关不当行为由OpenAI高层主导，用于推进其硬件发展计划。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "82c4cd26",
+        "80b272bb"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge AI",
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "82c4cd26",
+          "source": "The Verge AI",
+          "title": "苹果起诉OpenAI涉嫌窃取硬件机密",
+          "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "published_at": "2026-07-10T21:36:51+00:00"
+        },
+        {
+          "id": "80b272bb",
+          "source": "TechCrunch AI",
+          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "published_at": "2026-07-10T21:00:29+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:36:51+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "7509bb97",
+      "title": "泰国发现脖子长度堪比板球场的新恐龙物种",
+      "summary": "考古人员近日在泰国发现一种全新的恐龙物种，该恐龙属于植食性恐龙，被命名为Uragasaurus kalasinensis。据推测，这一物种大约生活在1.5亿年前，其最显著特征是脖子长度可与板球场媲美。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
+      "article_ids": [
+        "9f48b5a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9f48b5a1",
+          "source": "BBC World",
+          "title": "泰国发现脖子长度堪比板球场的新恐龙物种",
+          "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T21:30:57+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:30:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f11c5cbd",
+      "title": "古巴一周内再次全国大停电 - 新华网",
+      "summary": "据新华网报道，古巴一周内再次发生全国性大范围停电事件，这是该国短时间内第二次遭遇全国大停电。相关事件内容已同步上线谷歌新闻平台，感兴趣的用户可前往该平台查看更多相关头条新闻与各方观点。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "a2dfa543"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a2dfa543",
+          "source": "Google News (中国)",
+          "title": "古巴一周内再次全国大停电 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQ3p4U2JtLXBUSWtwRkFBZHRxeDIyYUgwaUtTd3pIYVRkM1JCYk9jcnl2elIwT1BBS2FQRkh1djQ4bkJ1NXRwQW5pM2lwanNpaURZWFFheUJEdkkzR0VxWWZUS3hHeGRBUkdmbEZpcDRpQWdfcU00Zl9RVjA2LU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-10T21:29:43+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T21:29:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56b3b9a8",
+      "title": "十年后，《宝可梦Go》终于兑现最初承诺",
+      "summary": "2015年开发商Niantic发布《宝可梦Go》首支预告时，玩家合作捕捉超梦这类宝可梦的设想令外界难以理解。近日在纽约举办的该游戏十周年活动上，近两千名玩家现场实现了这一玩法，兑现了游戏最初的承诺。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "78eb1b1b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "78eb1b1b",
+          "source": "The Verge",
+          "title": "十年后，《宝可梦Go》终于兑现最初承诺",
+          "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+          "published_at": "2026-07-10T19:51:10+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T19:51:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "187e0d1b",
+      "title": "美国移民与海关执法局威胁驱逐其最新枪击案目击者",
+      "summary": "本周早些时候，美国移民与海关执法局人员在休斯顿拦检车辆时枪杀墨西哥移民洛伦佐·萨尔加多·阿劳霍，该机构还威胁驱逐这起枪击案的目击者。维权人士要求美国国土安全部公布涉案随身执法录像，国土安全部称涉事人员未佩戴随身摄像头。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "91a2ace2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "91a2ace2",
+          "source": "The Verge",
+          "title": "美国移民与海关执法局威胁驱逐其最新枪击案目击者",
+          "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+          "published_at": "2026-07-10T19:20:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T19:20:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "370c5168",
+      "title": "Hugging Face克莱姆·德朗格：开源人工智能比以往任何时候都更重要",
+      "summary": "Hugging Face首席执行官克莱姆·德朗格称，当前开源人工智能正蓬勃发展。该公司近年已成长为人工智能领域类似GitHub的平台，供开发者共享、下载开源模型与数据集，目前约半数财富500强企业都在使用其服务。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "c835ffd5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "c835ffd5",
+          "source": "TechCrunch AI",
+          "title": "Hugging Face克莱姆·德朗格：开源人工智能比以往任何时候都更重要",
+          "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "published_at": "2026-07-10T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "defdf8d1",
+      "title": "匈牙利大屠杀幸存者能否在美国讨回公道？",
+      "summary": "十多年来，一群匈牙利大屠杀幸存者一直发起法律斗争，希望美国法院受理他们针对匈牙利国家铁路提起的诉讼。该铁路曾在二战大屠杀暴行中发挥推波助澜的作用，幸存者希望通过法律途径为当年遭遇讨回公道。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-Hungary-Holocaust-01-mqlp/09int-Hungary-Holocaust-01-mqlp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3d53a14c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3d53a14c",
+          "source": "NYTimes World",
+          "title": "匈牙利大屠杀幸存者能否在美国讨回公道？",
+          "link": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
+          "published_at": "2026-07-10T18:59:19+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T18:59:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf09002e",
+      "title": "西班牙南部野火已造成至少12人死亡",
+      "summary": "发生在西班牙安达卢西亚地区的这场野火，是该国现有记录中致命程度最高的野火之一。目前该野火已造成至少12人死亡，另有超过20人失踪，西班牙当局透露多数遇难者为外国游客。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10spain-wildfire-02-gvtc/10spain-wildfire-02-gvtc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c83bcd18"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c83bcd18",
+          "source": "NYTimes World",
+          "title": "西班牙南部野火已造成至少12人死亡",
+          "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+          "published_at": "2026-07-10T18:45:03+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T18:45:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb14bfc9",
+      "title": "女童遭性侵遇害引发印度西孟加拉邦多日抗议",
+      "summary": "印度总理纳伦德拉·莫迪领导的政党此前曾承诺改善西孟加拉邦的女性安全状况，近日当地一名11岁女童遭性侵遇害，引发连续多日抗议活动，该政党目前正面临公众的强烈愤怒。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-india-murder-bkgv/11int-india-murder-bkgv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "4a98416d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "4a98416d",
+          "source": "NYTimes World",
+          "title": "女童遭性侵遇害引发印度西孟加拉邦多日抗议",
+          "link": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
+          "published_at": "2026-07-10T17:56:37+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:56:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9efb8552",
+      "title": "诉讼文件：大学生应用Fizz指控风投向竞品Sidechat泄露初创公司机密信息",
+      "summary": "大学生应用领域的初创企业Fizz已扩大针对竞争对手Sidechat的诉讼，Fizz指控风投机构Maveron的一名风投从业人员，在双方融资接洽会议中获取了己方机密信息后，将该信息分享给了竞争对手Sidechat。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "f902d1db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f902d1db",
+          "source": "TechCrunch",
+          "title": "诉讼文件：大学生应用Fizz指控风投向竞品Sidechat泄露初创公司机密信息",
+          "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+          "published_at": "2026-07-10T17:42:36+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:42:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "30fefa6f",
+      "title": "英伟达最大内存供应商在华尔街完成万亿市值首发",
+      "summary": "AI热潮带动内存需求上涨，韩国内存芯片厂商SK海力士周五在华尔街上市，首发即达万亿美元市值。本次募资265亿美元，打破阿里巴巴此前纪录，成为美股史上外国企业规模最大的IPO。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "75ef68ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "75ef68ac",
+          "source": "The Verge",
+          "title": "英伟达最大内存供应商在华尔街完成万亿市值首发",
+          "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+          "published_at": "2026-07-10T17:31:35+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:31:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ecf65630",
+      "title": "赵乐际分别会见纳米比亚总统恩代特瓦、朝鲜内阁总理朴泰成 - 中国网新闻中心",
+      "summary": "赵乐际分别会见纳米比亚总统恩代特瓦与朝鲜内阁总理朴泰成，相关消息由中国网等多家媒体发布。此前，习近平同纳米比亚总统恩代特瓦举行会谈，中纳两国共同发布了关于构建新时代中纳命运共同体的联合声明。",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "f7247b52"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f7247b52",
+          "source": "Google News (中国)",
+          "title": "赵乐际分别会见纳米比亚总统恩代特瓦、朝鲜内阁总理朴泰成 - 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQjcwT2RGVk94NE5ZdXRzelpVUV8wV0NJc3J3SThJYnZRVzVMTnV3cFVPQjBpbEpxZlJSYnk1OW9LRlZxcGp6MWY2M0k2WHJWYmF2YmRSM0NrYXVjaFRhTjV4QjJHSUd2OGF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-10T17:25:00+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:25:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12c24a5b",
+      "title": "SK海力士募资265亿美元完成美国史上最大外国IPO 被敦促在美新建晶圆厂",
+      "summary": "AI芯片热潮催生华尔街这一重磅募资事件，SK海力士完成美国历史上规模最大的外国企业首次公开募股，募资总额达265亿美元。目前SK海力士与三星已被敦促在美国新建芯片晶圆工厂。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "2e6f798b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2e6f798b",
+          "source": "TechCrunch",
+          "title": "SK海力士募资265亿美元完成美国史上最大外国IPO 被敦促在美新建晶圆厂",
+          "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "published_at": "2026-07-10T17:17:12+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:17:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12c24a5b",
+      "title": "SK海力士募资265亿美元完成美国史上最大外国IPO，被敦促在美新建晶圆厂",
+      "summary": "人工智能芯片热潮当下迎来华尔街标志性节点，SK海力士完成美国历史上规模最大的外国首次公开募股，募资达265亿美元，目前SK海力士与三星一同被要求在美国建设新的芯片工厂。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "2e6f798b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "2e6f798b",
+          "source": "TechCrunch AI",
+          "title": "SK海力士募资265亿美元完成美国史上最大外国IPO，被敦促在美新建晶圆厂",
+          "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "published_at": "2026-07-10T17:17:12+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:17:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "911422b5",
+      "title": "新应用HyperTexting将开放网络转化为可滚动的类社交媒体信息流",
+      "summary": "全新应用HyperTexting推出，致力于让开放网络拥有更贴近社交媒体的使用体验。它可将网站、博客、新闻通讯、播客等各类开放网络内容整合为可滚动浏览的信息流，同时还能简化用户向个人网站发布内容的操作。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "3e7690b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3e7690b6",
+          "source": "TechCrunch",
+          "title": "新应用HyperTexting将开放网络转化为可滚动的类社交媒体信息流",
+          "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+          "published_at": "2026-07-10T17:11:51+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:11:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42cc6f69",
+      "title": "Spotify将允许用户微调每周新歌雷达播放列表",
+      "summary": "流媒体平台Spotify将为旗下最受欢迎的每周歌单之一“新歌雷达”新增自定义功能，允许用户微调歌单的推荐内容。用户可按需将歌单限定为特定曲风，或是聚焦未关注过的新艺人，目前最多可选择五种不同的调整选项，满足个性化听歌需求。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "6624403c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6624403c",
+          "source": "The Verge",
+          "title": "Spotify将允许用户微调每周新歌雷达播放列表",
+          "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+          "published_at": "2026-07-10T17:02:13+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T17:02:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54bf686b",
+      "title": "中国正追赶埃隆·马斯克的可重复使用火箭",
+      "summary": "中国一家国有航天企业完成了首次轨道火箭助推器发射后回收任务，这是中国在可重复使用火箭技术领域取得的重要突破，意味着中国正逐步缩小与埃隆·马斯克引领的可重复使用火箭技术的差距。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "95fe0553"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "95fe0553",
+          "source": "TechCrunch",
+          "title": "中国正追赶埃隆·马斯克的可重复使用火箭",
+          "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+          "published_at": "2026-07-10T16:51:07+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:51:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e76b08f",
+      "title": "乘客称瑞安航空航班飞行途中一男子险些被吸出窗外",
+      "summary": "一架瑞安航空客机飞行途中发生意外，一名男子险些被吸出机舱窗外。相关官员透露，险情发生后，该男子的妻子紧紧抓住他的双腿，坚持约五分钟，成功阻止男子被吸出飞机。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c20/live/34d39400-7c5d-11f1-802c-e767a91f6051.jpg",
+      "article_ids": [
+        "0983b925"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0983b925",
+          "source": "BBC World",
+          "title": "乘客称瑞安航空航班飞行途中一男子险些被吸出窗外",
+          "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T16:42:24+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:42:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ecf9808b",
+      "title": "视频拍到对妻子大发雷霆后，祖鲁国王表达悔意",
+      "summary": "一段记录祖鲁国王米苏祖言行的视频在南非广为流传，视频中米苏祖威胁要对妻子实施人身攻击，并指控妻子不忠。该事件引发关注后，米苏祖就自身此次不当言行表达了懊悔。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a2/live/4b3f29f0-7c73-11f1-bee8-53ce494e1abc.jpg",
+      "article_ids": [
+        "0600eba2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0600eba2",
+          "source": "BBC World",
+          "title": "视频拍到对妻子大发雷霆后，祖鲁国王表达悔意",
+          "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-07-10T16:42:11+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:42:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6f8dd4da",
+      "title": "网飞正在变身YouTube",
+      "summary": "原本主打影视剧的网飞，曾被看好是电视领域的下一个行业巨头，如今已陆续拓展出视频游戏、直播体育、播客等多元业务，据称接下来还要新增YouTube类视频内容，四处扩张的节奏显得忙乱，甚至透露出一丝急切，网飞更将用户睡眠视作自身主要竞争对手。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "7e80dc87"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7e80dc87",
+          "source": "The Verge",
+          "title": "网飞正在变身YouTube",
+          "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+          "published_at": "2026-07-10T16:29:50+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:29:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "70b1d662",
+      "title": "迪士尼旗下流媒体平台迪士尼+正考虑推出免费流媒体档位",
+      "summary": "迪士尼旗下流媒体平台迪士尼+正考虑推出免费流媒体档位，该计划已在公司内部沟通会上被提及，目前暂未明确免费内容包含的影视节目，推出该档位意在争夺用户收视时长，对抗其他免费流媒体服务的竞争。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "76672d06",
+        "70b3cee5"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "TechCrunch",
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "76672d06",
+          "source": "TechCrunch",
+          "title": "报道称迪士尼+正考虑推出免费流媒体档位",
+          "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+          "published_at": "2026-07-10T16:29:05+00:00"
+        },
+        {
+          "id": "70b3cee5",
+          "source": "The Verge",
+          "title": "据报道迪士尼+正考虑推出免费流媒体档位",
+          "link": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
+          "published_at": "2026-07-10T15:33:58+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:29:05+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "0cd016c7",
+      "title": "官员称调停者正努力将美伊拉离冲突边缘",
+      "summary": "卡塔尔调停人员目前已身处伊朗，试图挽救已经破裂的停火协议。美国总统特朗普表态，即便本次停火已经结束，美国仍将继续推进与伊朗的谈判，多方正努力缓和一触即发的美伊局势。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10iran-diplomacy-pmgb/10iran-diplomacy-pmgb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0e092c8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0e092c8a",
+          "source": "NYTimes World",
+          "title": "官员称调停者正努力将美伊拉离冲突边缘",
+          "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+          "published_at": "2026-07-10T16:15:28+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:15:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "196f0642",
+      "title": "伊朗最高领袖缺席 政权高层出现权力真空",
+      "summary": "伊朗最高领袖哈梅内伊之子阿亚图拉·穆杰塔巴·哈梅内伊本周未出席父亲的葬礼，这一情况加剧了外界对哈梅内伊身体状况的猜测，也令陷入分裂的伊朗出现高层权力真空。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-Iran-Supreme-Leader-lpbq/10int-Iran-Supreme-Leader-lpbq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e7bb3ac5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e7bb3ac5",
+          "source": "NYTimes World",
+          "title": "伊朗最高领袖缺席 政权高层出现权力真空",
+          "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+          "published_at": "2026-07-10T16:00:30+00:00"
+        }
+      ],
+      "published_at": "2026-07-10T16:00:30+00:00",
+      "is_merged": false
+    }
+  ]
+}
