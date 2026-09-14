@@ -1,0 +1,2471 @@
+{
+  "date": "2026-09-15",
+  "edition": "morning",
+  "updated_at": "2026-09-15T01:46:37.000383+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "6b89f6f4",
+      "title": "升级iOS 27，我重新用上了Siri",
+      "title_original": "With iOS 27, I’m actually using Siri again",
+      "summary": "苹果拖延已久的Siri全面改版终于随iOS 27推出。本次改版对苹果语音助手Siri进行了全面更新优化，改变了这款助手此前的使用体验，大幅提升了它在日常使用中的实用性，让用户重新愿意在日常生活中使用Siri。",
+      "summary_original": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T17:10:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6b89f6f4",
+      "title": "升级iOS 27后，我重新开始使用Siri了",
+      "title_original": "With iOS 27, I’m actually using Siri again",
+      "summary": "苹果推迟已久的Siri全面改版终于随iOS 27更新推出。此次改版调整了这款语音助手的使用体验，大幅提升了Siri的日常实用性，改变了它此前不好用的使用感受，让不少用户重新开始在日常使用这款苹果语音助手。",
+      "summary_original": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T17:10:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8daef797",
+      "title": "胡塞袭击威胁石油市场 沙特领导人会见美军指挥官",
+      "title_original": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
+      "summary": "受伊朗支持的也门胡塞武装发动大规模进攻后，沙特王储穆罕默德·本·萨勒曼上周向美国提出请求，希望美方提供更多军事援助，当前胡塞武装的袭击已经对全球石油市场构成威胁。",
+      "summary_original": "Crown Prince Mohammed bin Salman asked the United States for more U.S. military help last week after the Iranian-backed Houthi forces in Yemen launched a broad offensive.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14yemen-saudi-01-lgzh/14yemen-saudi-01-lgzh-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T17:10:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "04fb7c79",
+      "title": "macOS 27：全新Siri对标AI生产力应用",
+      "title_original": "macOS 27: new Siri takes on AI productivity apps",
+      "summary": "苹果新一代桌面操作系统macOS 27 Goldgen Gate迎来功能更新，完成了系统自带Spotlight聚焦搜索的升级，新版搜索深度集成全新Siri，将依托升级后的AI能力，对标市面各类第三方AI生产力应用，为用户提供更智能的系统级生产力服务。",
+      "summary_original": "macOS 27 Goldgen Gate gets a new Spotlight Search with Siri integrated",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T17:10:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a047fb9f",
+      "title": "时尚应用Daydream借助苹果智能帮用户购买相册中的穿搭单品",
+      "title_original": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "summary": "iOS 27推出后，时尚应用Daydream新增实用功能，可将用户保存在手机相册中的穿搭照片，转化为可直接购买的商品结果，用户无需打开应用，即可通过Siri完成相关商品搜索，大幅提升了穿搭购物的便捷度。",
+      "summary_original": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a047fb9f",
+      "title": "时尚应用Daydream借助苹果人工智能帮你购买相册存图中的穿搭单品",
+      "title_original": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "summary": "随着iOS 27推出，时尚应用Daydream现已依托苹果人工智能上线新功能。该功能可将用户相册存储的穿搭照片转化为可购买的商品结果，用户无需打开应用，就能通过Siri搜索相关产品，为穿搭购物带来更多便利。",
+      "summary_original": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4240fe24",
+      "title": "战争致运力短缺 油轮日赚百万美元",
+      "title_original": "Oil Tankers Earn $1 Million a Day as War Leaves Ship Shortage",
+      "summary": "受伊朗战事影响，鲜有船只愿意经由霍尔木兹海峡运输货物，全球油轮运力出现短缺。油轮行业基准贸易航线的日租成本近日首次突破100万美元，单艘油轮单日收益可达百万美元。",
+      "summary_original": "The cost of hiring an oil tanker on the industry’s benchmark trade route topped $1 million a day for the first time, as the Iran war leaves too few ships willing to cross the Strait of Hormuz to collect cargoes.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/oil-tankers-earn-1-million-a-day-as-war-leaves-ship-shortage",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T16:52:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dc1d646a",
+      "title": "网飞将打造《疯狂出租车》电影与带“锋芒感”的《索尼克》剧集",
+      "title_original": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
+      "summary": "网飞宣布将推出三款改编自世嘉游戏的影视内容，分别为《疯狂出租车》电影、为想要带点锋芒感的儿童打造的《索尼克》动画剧集，以及改编自《如龙》开发商RGG工作室新作的真人电影，《疯狂出租车》电影将率先推出。",
+      "summary_original": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer RGG Studio. The Crazy Taxi movie will be the first project released, though it [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ss_93b5f62cb675f6473f28767181c29520842a850d.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T16:48:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8ed4beae",
+      "title": "沙特输油管道停运带来新供应风险 油价飙升",
+      "title_original": "Oil Surges as Saudi Pipeline Shutdown Brings Fresh Supply Risk",
+      "summary": "沙特一处主要原油管道遇袭后关闭，该管道是美伊冲突时期绕开霍尔木兹海峡的关键输油线路，此举引发石油市场震荡，推动油价大幅上涨，彭博社将邀请相关人士讨论这一事件。",
+      "summary_original": "Oil surged as Saudi Arabia’s closure of a major crude pipeline following attacks jolted the market, with the move disrupting a route that’s been key to bypassing the Strait of Hormuz during the US-Iran war. Bloomberg's Rob Barnett joins to discuss. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-09-14/saudi-pipeline-shutdown-brings-fresh-supply-risk-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T16:38:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "778a7875",
+      "title": "俄袭击乌波边境附近火车站 被视为对基辅盟友的警告",
+      "title_original": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+      "summary": "俄罗斯袭击乌克兰靠近乌波边境的一处火车站，外界认为此次袭击是俄罗斯向乌克兰基辅盟友发出警告。乌克兰铁路网络是连接该国与西方的关键通道，有官员表示，本次针对铁路网络的袭击实质是对欧洲的抨击。",
+      "summary_original": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14Ukraine-Europe-mpcz/14Ukraine-Europe-mpcz-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T16:34:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "13b1c19e",
+      "title": "普伊格同意以12亿欧元交易取得怡思丁控制权",
+      "title_original": "Puig Agrees to Take Control of Isdin in €1.2 Billion Deal",
+      "summary": "美妆企业普伊格品牌公司将以12亿欧元（约合14亿美元），收购专业护肤品牌怡思丁剩余50%的股份，完成本次交易后，普伊格将获得怡思丁的全部控制权。",
+      "summary_original": "Puig Brands SA is to take full control of Isdin for €1.2 billion ($1.4 billion) after agreeing to buy the remaining 50% of the skincare brand it didn’t already own.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/puig-agrees-to-take-control-of-isdin-in-1-2-billion-deal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T16:33:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c2be321f",
+      "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+      "title_original": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "summary": "微软出台新的人工智能行为准则，准则既明确了微软AI模型应当恪守的总体原则，包括支持而非取代人类、促进人类发展进步，也设定了具体的安全约束条款，用以推动上述原则落地执行。",
+      "summary_original": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c2be321f",
+      "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+      "title_original": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "summary": "微软出台全新AI行为准则，准则既明确了微软旗下AI模型需要恪守的通用原则，包括辅助人类而非取代人类、推动人类发展进步，同时也设定了具体的安全约束，用以保障各项原则落地执行。",
+      "summary_original": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a594000b",
+      "title": "AI恐慌威胁资金流 科技板块吸金力度超市场其余板块13倍",
+      "title_original": "AI Scare Threatens Fund Flows Beating Rest of Market 13-to-1",
+      "summary": "近几个月来，大量投资者追捧AI，向科技股投入数十亿美元，大幅冷落市场其余板块。在行业领袖呼吁放缓AI技术开发节奏后，周一科技板块遭遇暴跌，此次波动提醒市场，多元化投资十分必要。",
+      "summary_original": "For months, AI-obsessed investors have thrown billions of dollars into technology stocks and largely ignored the rest of the stock market. Monday’s rout in the sector following calls by industry leaders to temped the pace of development in the technology was a reminder of the case for diversification.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-scare-threatens-fund-flows-beating-rest-of-market-13-to-1",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T16:26:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "82aa1cbf",
+      "title": "这是一场不同以往的AI抛售",
+      "title_original": "This Is A Different Kind of AI Selloff",
+      "summary": "当前AI领域出现一轮不同于过往的抛售行情，市场围绕人工智能领域相关风险的讨论正逐步汇聚整合，讨论的内容与方向也在发生演变，这体现出市场对于AI赛道发展的认知正出现新的变化。",
+      "summary_original": "The discourse around risks is starting to merge and mutate.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/this-is-a-different-kind-of-ai-selloff",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T16:24:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6c66aa82",
+      "title": "非洲首富启动非洲最大规模股票发售",
+      "title_original": "Africa's richest man launches continent's biggest share sale",
+      "summary": "尼日利亚亿万富豪、非洲首富阿里科·丹格特日前启动了非洲大陆规模最大的股票发售活动。丹格特表示，发起此次售股活动，是希望普通民众也能分享其旗下炼油厂的成功。",
+      "summary_original": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79a0/live/61038fb0-b058-11f1-9902-771b6dd8af6a.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T16:23:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ecdb99b4",
+      "title": "捐献肝脏可实现生物学年轻化",
+      "title_original": "Donated livers can be made biologically younger",
+      "summary": "传统肝脏移植中，捐献肝脏离体后通常经保存液灌洗后冰藏，离体后肝脏会立即开始降解，手术团队必须在数小时内将其移植到受者体内。目前研究人员研发出新方法，可让捐献的肝脏实现生物学年轻化。",
+      "summary_original": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/liver-perfusion.jpg?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-09-14T16:11:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "58a01045",
+      "title": "Waymo在拉斯维加斯开放无人出租车服务",
+      "title_original": "Waymo opens robotaxi service in Las Vegas",
+      "summary": "自动驾驶企业Waymo已在拉斯维加斯开放商业化无人出租车服务，拉斯维加斯成为Waymo全球范围内的第15个商业化无人出租车运营市场，此次布局进一步拓展了该企业的自动驾驶出行业务版图。",
+      "summary_original": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T16:04:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4ca5a8ed",
+      "title": "AI智能体举报作弊同僚",
+      "title_original": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "谷歌DeepMind近期开展一项实验，安排一组AI智能体解决一系列数学问题，过程中AI分化为不同派系，部分AI作弊后，其他AI会主动举报制止。该举报行为尚属首次被观测到，或将为自主AI集群的对齐研究带来启发。",
+      "summary_original": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e1966f68",
+      "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地 - 华尔街见闻",
+      "title_original": null,
+      "summary": "红海局势再度升温，胡塞武装对沙特空军基地发动大规模袭击，同时夺取丕林岛，也门局势进一步升级。胡塞武装称沙特24小时内对也门发动58次空袭，也门已出现流离失所的民众。中方对局势升温深表关切，此次局势升级也令美国陷入两难。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OSVJFalF0SkRDX0NYblFqMmF2UnpCTnBBbW5teHV4Sm82T2laQ3RiQnF6Y3k0WFRqcFpsT1d3X2YwbU5GeWxteWlyNU1XLXJmX1lv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T15:44:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ce63252b",
+      "title": "伊朗和阿曼推迟地区会议 霍尔木兹海峡通航仍难达成共识 - 东方财富",
+      "title_original": null,
+      "summary": "原定于14日举办的讨论霍尔木兹海峡通航问题的地区会议，被伊朗与阿曼宣布推迟，目前各方仍未就该海峡通航问题达成共识。受海湾局势影响，霍尔木兹海峡单日通行量已降至个位数，同时面临政治、军事双重风险，海湾石油供应也受到冲击。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uMEF2M1lsMklpMEpIaFowaFVnM1NfQ0NSU0ZLeFhTN2I0TXJQTlNJVUtFNXlNMTJTLXY3ZUlldmlZZjVZM0RYWWRnbWU4UEFQOVpRSHYyb1VmYWtnYWdUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T15:34:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "55478c46",
+      "title": "消息人士称Automattic董事会罢免CEO马特·穆伦维格失败后全体离任",
+      "title_original": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "summary": "消息人士向科技媒体TechCrunch透露，Automattic董事会此前投票决定让首席执行官马特·穆伦维格休假，试图罢免对方的行动失败后，该董事会全体人员现已离任。",
+      "summary_original": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T15:34:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3faae960",
+      "title": "法国嘲讽美国人权投票后悄悄致歉",
+      "title_original": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+      "summary": "法国曾在本国官方社交媒体账号发文，嘲讽美国的相关人权投票，在特朗普政府否决法国提名的新任驻美大使后，法国就这条引发争议的社交帖子表达歉意，这场外交小风波最终以法国悄悄致歉收尾。",
+      "summary_original": "After the Trump administration blocked a new ambassador to Washington, the country expressed regret for a post from a French official social media account.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14france-ambassador-tfgl/14france-ambassador-tfgl-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T15:25:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "73f9d569",
+      "title": "新莫斯科：既是数字乌托邦，也是监控陷阱",
+      "title_original": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+      "summary": "前沿技术重塑了俄罗斯首都莫斯科，数字技术的落地应用让这座城市变得更加安全便捷，打造出体验优异的数字城市形态。但与此同时，这套支撑城市运行的数字系统，也让民众处处处于严密监控之下，使新莫斯科同时成为一处监控陷阱。",
+      "summary_original": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-russia-digital-01-vchw/14int-russia-digital-01-vchw-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T15:19:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2a1bb3bf",
+      "title": "大众全新低风阻电动汽车打破多项能效纪录",
+      "title_original": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+      "summary": "这并非特斯拉Cybercab，而是大众打造的“效率任务”原型车，是目前全球风阻最低的电动汽车。这款接近量产的2+2座电动轿跑原型基于大众MEB+平台打造，搭载了即将推出的ID. Polo与ID. Cross车型的前驱部件，研发目标为打破能效纪录。",
+      "summary_original": "No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating front-wheel drive components from the upcoming ID. Polo and ID. Cross models. True to its name, the mission of Mission Efficiency is to break records. With [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DB2026AU00679_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T15:12:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7cbd2850",
+      "title": "iPhone 18 Pro发布前夕谷歌Pixel 11降价",
+      "title_original": "Google’s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
+      "summary": "苹果iPhone 18 Pro将于9月18日本周五正式发售，谷歌最新Pixel系列手机恰逢此时开启降价，其中Pixel 11 Pro优惠幅度最大，多款配色在亚马逊售价约1007美元，优惠额几乎抵消了该机今年100美元的涨幅。",
+      "summary_original": "Apple’s iPhone 18 Pro will release this Friday, September 18th, and it’s tough to see it as just a coincidence that Google’s latest Pixel phones are discounted. The Pixel 11 Pro carries the biggest discount, with its fog, olive, and obsidian color schemes selling for around $1,007 at Amazon, almost negating this year’s $100 price [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pixel11pro.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T15:10:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2f204386",
+      "title": "2026 TechCrunch Disrupt大会独家：OpenAI推出你的路线图后会发生什么？",
+      "title_original": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "summary": "对于创办AI企业的从业者而言，当下核心问题已不是基础模型是否会持续进化，而是企业自身能否在模型迭代过程中持续创造价值。这个互动环节将亮相本次大会创作者舞台，诚邀业内人士不要错过。",
+      "summary_original": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "95f7b099",
+      "title": "亚当·康诺弗解释油管如何毁掉一切",
+      "title_original": "Adam Conover explains how YouTube ruined everything",
+      "summary": "本次访谈邀请喜剧演员、播客主播兼油管创作者亚当·康诺弗做客。亚当是互联网受众熟知的内容创作者，早年在CollegeHumor出道成为喜剧编剧，之后先后转战有线电视推出《亚当毁一切》、进驻网飞，本次他将探讨油管如何毁掉一切的相关话题。",
+      "summary_original": "Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers, at CollegeHumor back in the day. That was before transitioning into cable TV with Adam Ruins Everything, then onto Netflix, and [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-14-Conover.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2f204386",
+      "title": "仅2026年TechCrunch Disrupt大会：OpenAI落地你的路线图时会发生什么？",
+      "title_original": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "summary": "对于AI创业者而言，当前核心问题已不再是基础模型能否持续进化，而是自身能否在大模型迭代升级的过程中持续创造价值。聚焦这一议题的互动环节，将在本次大会创业者舞台举办，相关从业者不容错过。",
+      "summary_original": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e02047f1",
+      "title": "南非寻获失踪跑者遗体",
+      "title_original": "Body of missing runner found in South Africa",
+      "summary": "上周，南非女子伊丽莎白·莫塞拉克戈莫失踪后，当地随即发起覆盖全国范围的寻人呼吁。目前已经找到该失踪跑者的遗体，在遗体发现地点的附近区域，还找到了另外四名女性的遗体。",
+      "summary_original": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8cf/live/3f757700-b049-11f1-89e4-0bbff5cb7e23.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T14:58:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e86c3a66",
+      "title": "遭伊朗袭击又遭特朗普回绝，沙特面临“最坏情况”",
+      "title_original": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs",
+      "summary": "分析人士称，态度愈发强硬的伊朗对沙特发动袭击后，沙特试图争取美国更多军事支持却未能如愿，目前沙特陷入战略震荡，原本倚重的美方军事保障落空，正遭遇“最坏情况”的战略困境。",
+      "summary_original": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-saudi-challenge-lpmt/14int-saudi-challenge-lpmt-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T14:46:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d360e52a",
+      "title": "Superhuman收购获YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+      "title_original": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "生产力工具厂商Superhuman已完成对获创业加速器YC投资的笔记工具Fathom的收购，Fathom目前拥有超过40万月度活跃用户，本次收购体现了全球生产力平台布局智能代理办公的行业趋势。",
+      "summary_original": "Fathom said that it has over 400,000 monthly active users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T14:45:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d360e52a",
+      "title": "Superhuman收购YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+      "title_original": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "生产力工具厂商Superhuman完成对笔记应用Fathom的收购，Fathom曾获得知名创业加速器YC的投资。目前Fathom月活跃用户量已超40万，此次收购是全球生产力平台布局智能代理办公赛道的最新动作。",
+      "summary_original": "Fathom said that it has over 400,000 monthly active users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T14:45:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "844d349f",
+      "title": "2026年TechCrunch Disrupt大会：聆听AI如何推动自然复苏",
+      "title_original": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "summary": "复活灭绝物种曾只存在于科幻作品中，如今这已成为一家十亿美元级创业公司的核心使命。2026年TechCrunch Disrupt大会将邀请一位特立独行的科技创始人展开相关对话，目前大会参会门票已开放预订。",
+      "summary_original": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "844d349f",
+      "title": "2026年TechCrunch Disrupt大会：聆听AI如何助力自然复苏",
+      "title_original": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "summary": "复活灭绝物种曾只存在于科幻作品中，如今这已成为一家十亿美元级创业公司的核心使命。2026年TechCrunch Disrupt大会将开设相关对话，邀听众聆听科技圈特立独行的创始人分享相关内容，目前即可预订大会参会通行证。",
+      "summary_original": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "474583c1",
+      "title": "通胀与供应担忧加剧 美国10年期国债收益率突破5%",
+      "title_original": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
+      "summary": "周一，美国10年期国债收益率自2023年以来首次短暂突破5%。随着市场通胀焦虑不断升温，叠加美国政府与企业的借贷需求持续攀升，各类担忧加剧，推动美国10年期国债收益率触及这一关键水平。",
+      "summary_original": "The US 10-year Treasury yield briefly surpassed 5% for the first time since 2023 on Monday, as mounting inflation angst collided with swelling government and corporate borrowing needs.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T14:29:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8ff25b50",
+      "title": "海南五指山24小时降雨672毫米破纪录，万宁出现龙卷风 - 观察者网",
+      "title_original": null,
+      "summary": "受南海热带低压影响，海南出现极端天气：五指山24小时降雨量达672毫米，打破当地降雨纪录；万宁出现龙卷风；五指山因暴雨突发山洪致14人被困，目前全部获救，当地消防救援队伍已进入二级响应全力防汛，广西也将迎来风雨天气。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS2ZRN1pNcUFQZENWQUxZeUtyLWFIalpSVHk4QTdHUS04a1h0X3pFR2QwMjVfRHVWU05lQVI0R0xlUlpGOGFvVnRRR0pzSjNZYVFpZ21NaHhUVVViU3RoZnA5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T14:15:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "237e4773",
+      "title": "野犬为寻配偶穿越赞比亚 跋涉2500英里创纪录",
+      "title_original": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "summary": "三只野犬兄弟为寻找配偶，穿越赞比亚完成了长达2500英里的跋涉，创下野生犬行走距离纪录。科学家表示，这次破纪录旅程，为野生动物在日益增长的生存压力下存续带来了希望。",
+      "summary_original": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T14:08:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9838e600",
+      "title": "距2026年TechCrunch Disrupt大会展位申请截止仅剩5天",
+      "title_original": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "2026年TechCrunch Disrupt大会展位申请将于9月18日截止，目前仅剩5天申请时间。成功获得展位的企业可在大会展厅参展，向一万余名创始人、投资人和科技行业领袖展示自身业务。",
+      "summary_original": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-09-14T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9838e600",
+      "title": "2026年TechCrunch Disrupt大会参展申请仅剩5天",
+      "title_original": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "2026年TechCrunch Disrupt大会参展展位申请截止日期为9月18日，目前仅剩5天申报时间。企业成功锁定展位后，可在展会展厅展示自身业务，面向超一万名创始人、投资者及科技行业领袖曝光。",
+      "summary_original": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4bd849d9",
+      "title": "涩谷黑胶酒吧初创推出无AI提示的趣味音乐应用",
+      "title_original": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "summary": "由前Spotify高管创办的这家初创企业扎根东京涩谷，以黑胶酒吧为经营形态，主打不依托AI提示的趣味音乐应用，目前已推出实验性“单曲”项目，邀请普通用户参与音乐创作，探索互动音乐的全新可能。",
+      "summary_original": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-09-14T13:55:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "883170c9",
+      "title": "时长四小时的埃隆·马斯克纪录片或只是说给拥趸听",
+      "title_original": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+      "summary": "曾拍摄过西拉诺斯、乔布斯相关纪录片的导演亚历克斯·吉布尼推出新作，这是一部时长四小时的埃隆·马斯克纪录片，影片详实全面地回顾了马斯克从早年成为互联网百万富翁到搅动美国核心政府部门的历程。",
+      "summary_original": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to \"taking a wood chipper\" to vital US government departments. In order [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MUSK-_-Still-2-Credit_-Ken-Cedenoupi-UPI-Alamy-News.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T13:50:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f9e3b84b",
+      "title": "为何丑闻再也打不倒政客",
+      "title_original": "Why Scandals Don’t Bring Down Politicians Anymore",
+      "summary": "当今不少政客曝出丑闻后仍能保住政治地位，该现象引发舆论广泛讨论。有分析针对这一情况展开探讨，提出如今丑闻难以扳倒政客，原因不止在于政客本身缺乏廉耻心，背后还存在更为复杂的深层影响因素。",
+      "summary_original": "It’s about more than just shamelessness.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14ideas-deathofscandal-01-tplw/14ideas-deathofscandal-01-tplw-mediumSquareAt3X-v2.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T13:18:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "901c95cb",
+      "title": "广州公安通报：番禺一男子持刀伤人落网 - 联合早报",
+      "title_original": null,
+      "summary": "广州番禺大学城核心区一处商业综合体的火锅店门口发生持刀伤人事件，涉案35岁男子李某已被警方抓获，现场已安全处置，所有伤者经救治均无生命危险，针对网传“多人行凶”的说法，校方已澄清该传闻不实。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSUpKN1hlS0pCS1dEQldXZ2pMa2Q0RmNBU09yeEtlSjBnWld4SF9KT21UZXNtbWhEOHEzWGtxU1pLblhRU3luNE0xMzJsU3pxbjI5dUM2VzA1R0lnclc0cmtfR2ZkZVhWMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T13:06:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4314ae60",
+      "title": "微软加入呼吁AI“控速”行列 承诺为AI产品内置终止开关",
+      "title_original": "Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products",
+      "summary": "微软加入呼吁人工智能发展控速的行列，同时该公司作出承诺，将在其推出的人工智能产品中内置AI终止开关。",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-09-14T13:00:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7f4ba92f",
+      "title": "对Anthropic的数据担忧促使英伟达、帕兰提尔与博思艾伦限制模型使用",
+      "title_original": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use",
+      "summary": "当前出现针对Anthropic的数据相关担忧，该担忧已促使英伟达、帕兰提尔以及博思艾伦对相关模型的使用采取了限制措施。",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-09-14T13:00:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a588dc9",
+      "title": "AI安全担忧浮现后 微软称\"人比AI更重要\"",
+      "title_original": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "近期人工智能发展加速引发安全担忧，有研究者警告，AI技术进步速度可能超出人类对日益复杂系统的安全部署与验证能力。上周末Anthropic首席执行官阿莫迪呼吁协同放缓AI开发，微软今日发布37页\"人文主义AI行为准则\"。",
+      "summary_original": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3a588dc9",
+      "title": "AI安全担忧升温后 微软称“人比AI更重要”",
+      "title_original": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "近期AI模型快速发展引发安全担忧，有研究者警告AI进展速度可能超过人类安全部署、验证日益复杂系统的能力。上周末Anthropic首席执行官阿莫迪呼吁协同放缓AI开发，微软今日发布一份37页的“人本主义AI行为准则”。",
+      "summary_original": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0d200a52",
+      "title": "[中国新闻网]着眼增长与韧性 金砖经贸合作持续深化 - news.ruc.edu.cn",
+      "title_original": null,
+      "summary": "多家媒体聚焦金砖合作发展，关注金砖着眼增长与韧性、持续深化经贸合作的进程。相关报道覆盖印尼巴塘工业园的全球南方合作、金砖打造互联互通贸易通道、从厦门开启“大金砖合作”新征程等内容，展现出金砖合作的活力与温度。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2X1NfM01IRmVESVBBRXlzUnNWdVJuQ01YalhnOWw5X3BZdlg2S1JZVXdzVFFpdWR1eFRhM21pVTFDTzBhWnFzSGMtdGRseDctWm01OEJzNExjZllD?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T12:52:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "46439ade",
+      "title": "鲍里斯·约翰逊与欧洲高官离站后 俄罗斯袭击乌克兰火车",
+      "title_original": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "前英国首相鲍里斯·约翰逊透露，今日上午波兰边境一辆停靠的乌克兰机车遭俄罗斯袭击，这一袭击发生在他与多名欧洲高级官员离开该火车站后不久，约翰逊称自己无法理解普京发动此次袭击的反常逻辑。",
+      "summary_original": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/715d/live/e93baec0-afff-11f1-9713-5de61387c384.png",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T12:18:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "77e5d572",
+      "title": "《每日速递：人工智能的真实灭绝威胁与眼部逆龄技术》",
+      "title_original": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "summary": "这是科技领域工作日日更资讯栏目《每日速递》的今日更新。全球顶尖人工智能实验室的从业者认为，先进人工智能存在毁灭人类的真实可能性，本期就此话题展开圆桌讨论，还谈及了眼部逆龄技术相关内容。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=1456,818",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-09-14T12:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "179d8a9e",
+      "title": "加息临近 垃圾级企业筹划130亿美元债务再融资",
+      "title_original": "Junk Firms Plot $13 Billion Debt Refinancings as Rate Hikes Loom",
+      "summary": "全球范围内垃圾评级借款企业正筹备至少130亿美元的债务再融资交易，此举旨在赶在各国央行可能启动加息前，锁定更窄的信贷利差，应对潜在的融资环境变化。",
+      "summary_original": "Junk-rated borrowers across the globe are lining up at least $13 billion in refinancing deals, in a bid to lock in tighter credit spreads ahead of potential central bank interest-rate hikes.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/junk-firms-are-refinancing-debt-early-on-fear-costs-will-rise",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-09-14T12:00:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "21f1a2f5",
+      "title": "海外华商参与服贸会：拓新兴市场 促互联互通 - qb.gd.gov.cn",
+      "title_original": null,
+      "summary": "2026年服贸会吸引各界参与，海外华商借此拓展新兴市场、促进互联互通；绿色能源领域中企与外企同台展示绿电成果；北京亦庄举办高质量发展推介会，签约合作推动开放发展，北京昌平则以文化为桥向世界递出城市新名片。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5akpGUjRMRXBSVl9fY1MtQm0yWXJJX3ppTXd2aHowN194NDlLOXVZa2ZnZC0wcDREQzZxY3RBYUw0bzlBamtvdG5tZTE3OE1talJnR3JYY0dWWkNJNUhpbHJrajA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T11:42:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "80d08c55",
+      "title": "外交部：新德里会晤是中印领导人对两国关系发展的“再确认” - news.cn",
+      "title_original": null,
+      "summary": "中印领导人在新德里举行会晤，外交部称此次会晤是两国领导人对双边关系发展的“再确认”。访印互动期间，莫迪提及台海问题，中方作出明确回应。中方同时表示，明年中国将担任金砖主席国，愿同各方携手开启金砖合作第三个“金色十年”。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93T0dYQldOaE96dDBlTVMzR2p6V1JhdWVvZlE4MkJEeHl0Vk1FR2REM241WXZwRHVSSl85WkgxNENtVjJ0MWIzaFNKX3FONks3SGtzYk9oWWVDdVN6QmJhWHJhd3JsOHZUMzNLNUYyMVdXTUZ5eFBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T11:38:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51579e4f",
+      "title": "2026年国家网络安全宣传周开幕式在山东济南举行 - news.cn",
+      "title_original": null,
+      "summary": "2026年国家网络安全宣传周开幕式在山东济南举行，国内多地同步开展相关网络安全宣传活动，江苏淮安推出寓教于乐的“网安游园会”，甘肃省网络安全宣传周也在嘉峪关开幕，各地以多元形式普及网安知识，筑牢智能时代网安防线，守护数字民生福祉。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mZXRLVzlnaWpkRjZWUzlVQUFWc0xVUmtkUmtLdEx1dDhsUVJzTld2VTg0UkdaVkxqZVJvUl81Vi1mSVBtemRTY0hVMXlDZDdMSkxDTXBHTEtyakFYb3VDMXdfaFZ0aWR4ekdwc1dyS2lCd3JRZWFv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-09-14T11:35:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "48099a0f",
+      "title": "炭疽致死数十只野生动物 赞比亚警告民众勿食用死亡野生动物",
+      "title_original": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "summary": "赞比亚发生炭疽疫情，已造成数十只野生动物死亡，至少12人因食用受感染的野生动物尸体肉感染炭疽，目前这些感染者正在接受治疗。赞比亚官方已发布警告，提醒民众不要食用死亡野生动物。",
+      "summary_original": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb2/live/3c870970-b024-11f1-95e6-93ee8a80cb38.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T11:35:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f46be79e",
+      "title": "中国驳斥有关其在人工智能领域“恶意竞争”的说法",
+      "title_original": "China criticises idea it is in 'malicious competition' over AI",
+      "summary": "此前人工智能企业Anthropic的首席执行官呼吁放缓人工智能发展，该呼吁的实际意图是阻止中国在全球AI竞赛中取得领先，针对由此衍生出的中国在AI领域开展恶意竞争的说法，中国已作出驳斥。",
+      "summary_original": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T11:31:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1099b3e9",
+      "title": "数千人要求终止墨西哥贩毒集团热点地区暴力活动",
+      "title_original": "Thousands demand end to violence in Mexican cartel hotspot",
+      "summary": "墨西哥锡那罗亚贩毒集团的两个敌对派系爆发内讧后，其核心据点库利亚坎的暴力事件数量大幅飙升。目前已有数千民众发声，要求结束这一贩毒活动高发地区的暴力乱象。",
+      "summary_original": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/906a/live/e4f3e460-b02a-11f1-a8a9-13be82d23441.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T11:28:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eae1521a",
+      "title": "Hyrox就选手失禁后仍允许比赛继续一事致歉",
+      "title_original": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "summary": "Hyrox因一名选手参赛过程中身体失禁后仍允许比赛继续进行而公开致歉，此事引发舆论分歧，一部分公众对该赛事安排的卫生问题提出担忧，另一部分人则称赞这名选手克服逆境、坚持完赛的决心。",
+      "summary_original": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5380/live/fc11c310-b02f-11f1-9ae0-e316eeb4632d.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-09-14T11:20:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "44c5dcff",
+      "title": "中国最高情报首长警告人工智能威胁中共执政",
+      "title_original": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "summary": "在北京敦促美国不要炒作人工智能危险性的同时，中国最高情报负责人将人工智能技术定性为会威胁中国共产党的执政安全，这一表态体现出中国官方对内对外谈及人工智能风险时的不同定位。",
+      "summary_original": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-china-ai-security-clqg/14int-china-ai-security-clqg-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-09-14T11:14:20+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "1c68d30d",
+      "title": "升级iOS 27，我重新用上了Siri",
+      "summary": "苹果拖延已久的Siri全面改版终于随iOS 27推出。本次改版对苹果语音助手Siri进行了全面更新优化，改变了这款助手此前的使用体验，大幅提升了它在日常使用中的实用性，让用户重新愿意在日常生活中使用Siri。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "article_ids": [
+        "6b89f6f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6b89f6f4",
+          "source": "TechCrunch",
+          "title": "升级iOS 27，我重新用上了Siri",
+          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "published_at": "2026-09-14T17:10:30+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:10:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1c68d30d",
+      "title": "升级iOS 27后，我重新开始使用Siri了",
+      "summary": "苹果推迟已久的Siri全面改版终于随iOS 27更新推出。此次改版调整了这款语音助手的使用体验，大幅提升了Siri的日常实用性，改变了它此前不好用的使用感受，让不少用户重新开始在日常使用这款苹果语音助手。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "article_ids": [
+        "6b89f6f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "6b89f6f4",
+          "source": "TechCrunch AI",
+          "title": "升级iOS 27后，我重新开始使用Siri了",
+          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "published_at": "2026-09-14T17:10:30+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:10:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3e91911a",
+      "title": "胡塞袭击威胁石油市场 沙特领导人会见美军指挥官",
+      "summary": "受伊朗支持的也门胡塞武装发动大规模进攻后，沙特王储穆罕默德·本·萨勒曼上周向美国提出请求，希望美方提供更多军事援助，当前胡塞武装的袭击已经对全球石油市场构成威胁。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14yemen-saudi-01-lgzh/14yemen-saudi-01-lgzh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "8daef797"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "8daef797",
+          "source": "NYTimes World",
+          "title": "胡塞袭击威胁石油市场 沙特领导人会见美军指挥官",
+          "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+          "published_at": "2026-09-14T17:10:27+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:10:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce26468f",
+      "title": "macOS 27：全新Siri对标AI生产力应用",
+      "summary": "苹果新一代桌面操作系统macOS 27 Goldgen Gate迎来功能更新，完成了系统自带Spotlight聚焦搜索的升级，新版搜索深度集成全新Siri，将依托升级后的AI能力，对标市面各类第三方AI生产力应用，为用户提供更智能的系统级生产力服务。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
+      "article_ids": [
+        "04fb7c79"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "04fb7c79",
+          "source": "TechCrunch",
+          "title": "macOS 27：全新Siri对标AI生产力应用",
+          "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+          "published_at": "2026-09-14T17:10:09+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:10:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3a804b0",
+      "title": "时尚应用Daydream借助苹果智能帮用户购买相册中的穿搭单品",
+      "summary": "iOS 27推出后，时尚应用Daydream新增实用功能，可将用户保存在手机相册中的穿搭照片，转化为可直接购买的商品结果，用户无需打开应用，即可通过Siri完成相关商品搜索，大幅提升了穿搭购物的便捷度。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "article_ids": [
+        "a047fb9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "a047fb9f",
+          "source": "TechCrunch",
+          "title": "时尚应用Daydream借助苹果智能帮用户购买相册中的穿搭单品",
+          "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+          "published_at": "2026-09-14T17:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3a804b0",
+      "title": "时尚应用Daydream借助苹果人工智能帮你购买相册存图中的穿搭单品",
+      "summary": "随着iOS 27推出，时尚应用Daydream现已依托苹果人工智能上线新功能。该功能可将用户相册存储的穿搭照片转化为可购买的商品结果，用户无需打开应用，就能通过Siri搜索相关产品，为穿搭购物带来更多便利。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "article_ids": [
+        "a047fb9f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a047fb9f",
+          "source": "TechCrunch AI",
+          "title": "时尚应用Daydream借助苹果人工智能帮你购买相册存图中的穿搭单品",
+          "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+          "published_at": "2026-09-14T17:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e2f5a375",
+      "title": "战争致运力短缺 油轮日赚百万美元",
+      "summary": "受伊朗战事影响，鲜有船只愿意经由霍尔木兹海峡运输货物，全球油轮运力出现短缺。油轮行业基准贸易航线的日租成本近日首次突破100万美元，单艘油轮单日收益可达百万美元。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4240fe24"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4240fe24",
+          "source": "Bloomberg",
+          "title": "战争致运力短缺 油轮日赚百万美元",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/oil-tankers-earn-1-million-a-day-as-war-leaves-ship-shortage",
+          "published_at": "2026-09-14T16:52:58+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:52:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "38ffbe34",
+      "title": "网飞将打造《疯狂出租车》电影与带“锋芒感”的《索尼克》剧集",
+      "summary": "网飞宣布将推出三款改编自世嘉游戏的影视内容，分别为《疯狂出租车》电影、为想要带点锋芒感的儿童打造的《索尼克》动画剧集，以及改编自《如龙》开发商RGG工作室新作的真人电影，《疯狂出租车》电影将率先推出。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ss_93b5f62cb675f6473f28767181c29520842a850d.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "dc1d646a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dc1d646a",
+          "source": "The Verge",
+          "title": "网飞将打造《疯狂出租车》电影与带“锋芒感”的《索尼克》剧集",
+          "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven",
+          "published_at": "2026-09-14T16:48:46+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:48:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "347160f7",
+      "title": "沙特输油管道停运带来新供应风险 油价飙升",
+      "summary": "沙特一处主要原油管道遇袭后关闭，该管道是美伊冲突时期绕开霍尔木兹海峡的关键输油线路，此举引发石油市场震荡，推动油价大幅上涨，彭博社将邀请相关人士讨论这一事件。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8ed4beae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8ed4beae",
+          "source": "Bloomberg",
+          "title": "沙特输油管道停运带来新供应风险 油价飙升",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-14/saudi-pipeline-shutdown-brings-fresh-supply-risk-video",
+          "published_at": "2026-09-14T16:38:34+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:38:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c3714eee",
+      "title": "俄袭击乌波边境附近火车站 被视为对基辅盟友的警告",
+      "summary": "俄罗斯袭击乌克兰靠近乌波边境的一处火车站，外界认为此次袭击是俄罗斯向乌克兰基辅盟友发出警告。乌克兰铁路网络是连接该国与西方的关键通道，有官员表示，本次针对铁路网络的袭击实质是对欧洲的抨击。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14Ukraine-Europe-mpcz/14Ukraine-Europe-mpcz-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "778a7875"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "778a7875",
+          "source": "NYTimes World",
+          "title": "俄袭击乌波边境附近火车站 被视为对基辅盟友的警告",
+          "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+          "published_at": "2026-09-14T16:34:19+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:34:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ac37233a",
+      "title": "普伊格同意以12亿欧元交易取得怡思丁控制权",
+      "summary": "美妆企业普伊格品牌公司将以12亿欧元（约合14亿美元），收购专业护肤品牌怡思丁剩余50%的股份，完成本次交易后，普伊格将获得怡思丁的全部控制权。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "13b1c19e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "13b1c19e",
+          "source": "Bloomberg",
+          "title": "普伊格同意以12亿欧元交易取得怡思丁控制权",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/puig-agrees-to-take-control-of-isdin-in-1-2-billion-deal",
+          "published_at": "2026-09-14T16:33:49+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:33:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0bc241ff",
+      "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+      "summary": "微软出台新的人工智能行为准则，准则既明确了微软AI模型应当恪守的总体原则，包括支持而非取代人类、促进人类发展进步，也设定了具体的安全约束条款，用以推动上述原则落地执行。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "article_ids": [
+        "c2be321f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c2be321f",
+          "source": "TechCrunch",
+          "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+          "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "published_at": "2026-09-14T16:27:53+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0bc241ff",
+      "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+      "summary": "微软出台全新AI行为准则，准则既明确了微软旗下AI模型需要恪守的通用原则，包括辅助人类而非取代人类、推动人类发展进步，同时也设定了具体的安全约束，用以保障各项原则落地执行。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "article_ids": [
+        "c2be321f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "c2be321f",
+          "source": "TechCrunch AI",
+          "title": "微软新AI行为准则要求模型不得入侵系统、欺骗人类",
+          "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "published_at": "2026-09-14T16:27:53+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:27:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "282e3ec0",
+      "title": "AI恐慌威胁资金流 科技板块吸金力度超市场其余板块13倍",
+      "summary": "近几个月来，大量投资者追捧AI，向科技股投入数十亿美元，大幅冷落市场其余板块。在行业领袖呼吁放缓AI技术开发节奏后，周一科技板块遭遇暴跌，此次波动提醒市场，多元化投资十分必要。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a594000b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a594000b",
+          "source": "Bloomberg",
+          "title": "AI恐慌威胁资金流 科技板块吸金力度超市场其余板块13倍",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-scare-threatens-fund-flows-beating-rest-of-market-13-to-1",
+          "published_at": "2026-09-14T16:26:55+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:26:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "333f2ffe",
+      "title": "这是一场不同以往的AI抛售",
+      "summary": "当前AI领域出现一轮不同于过往的抛售行情，市场围绕人工智能领域相关风险的讨论正逐步汇聚整合，讨论的内容与方向也在发生演变，这体现出市场对于AI赛道发展的认知正出现新的变化。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "82aa1cbf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "82aa1cbf",
+          "source": "Bloomberg",
+          "title": "这是一场不同以往的AI抛售",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/this-is-a-different-kind-of-ai-selloff",
+          "published_at": "2026-09-14T16:24:23+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:24:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98ff9a66",
+      "title": "非洲首富启动非洲最大规模股票发售",
+      "summary": "尼日利亚亿万富豪、非洲首富阿里科·丹格特日前启动了非洲大陆规模最大的股票发售活动。丹格特表示，发起此次售股活动，是希望普通民众也能分享其旗下炼油厂的成功。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79a0/live/61038fb0-b058-11f1-9902-771b6dd8af6a.jpg",
+      "article_ids": [
+        "6c66aa82"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6c66aa82",
+          "source": "BBC World",
+          "title": "非洲首富启动非洲最大规模股票发售",
+          "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T16:23:42+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:23:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e62548a3",
+      "title": "捐献肝脏可实现生物学年轻化",
+      "summary": "传统肝脏移植中，捐献肝脏离体后通常经保存液灌洗后冰藏，离体后肝脏会立即开始降解，手术团队必须在数小时内将其移植到受者体内。目前研究人员研发出新方法，可让捐献的肝脏实现生物学年轻化。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/liver-perfusion.jpg?resize=1200,600",
+      "article_ids": [
+        "ecdb99b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "ecdb99b4",
+          "source": "MIT Technology Review",
+          "title": "捐献肝脏可实现生物学年轻化",
+          "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+          "published_at": "2026-09-14T16:11:42+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:11:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3736bc7",
+      "title": "Waymo在拉斯维加斯开放无人出租车服务",
+      "summary": "自动驾驶企业Waymo已在拉斯维加斯开放商业化无人出租车服务，拉斯维加斯成为Waymo全球范围内的第15个商业化无人出租车运营市场，此次布局进一步拓展了该企业的自动驾驶出行业务版图。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "article_ids": [
+        "58a01045"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "58a01045",
+          "source": "TechCrunch",
+          "title": "Waymo在拉斯维加斯开放无人出租车服务",
+          "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+          "published_at": "2026-09-14T16:04:16+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:04:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2cba9980",
+      "title": "AI智能体举报作弊同僚",
+      "summary": "谷歌DeepMind近期开展一项实验，安排一组AI智能体解决一系列数学问题，过程中AI分化为不同派系，部分AI作弊后，其他AI会主动举报制止。该举报行为尚属首次被观测到，或将为自主AI集群的对齐研究带来启发。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
+      "article_ids": [
+        "4ca5a8ed"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "4ca5a8ed",
+          "source": "MIT Technology Review",
+          "title": "AI智能体举报作弊同僚",
+          "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "published_at": "2026-09-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e2efe6e",
+      "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地 - 华尔街见闻",
+      "summary": "红海局势再度升温，胡塞武装对沙特空军基地发动大规模袭击，同时夺取丕林岛，也门局势进一步升级。胡塞武装称沙特24小时内对也门发动58次空袭，也门已出现流离失所的民众。中方对局势升温深表关切，此次局势升级也令美国陷入两难。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "e1966f68"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e1966f68",
+          "source": "Google News (中国)",
+          "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地 - 华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OSVJFalF0SkRDX0NYblFqMmF2UnpCTnBBbW5teHV4Sm82T2laQ3RiQnF6Y3k0WFRqcFpsT1d3X2YwbU5GeWxteWlyNU1XLXJmX1lv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T15:44:13+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:44:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9e59b30b",
+      "title": "伊朗和阿曼推迟地区会议 霍尔木兹海峡通航仍难达成共识 - 东方财富",
+      "summary": "原定于14日举办的讨论霍尔木兹海峡通航问题的地区会议，被伊朗与阿曼宣布推迟，目前各方仍未就该海峡通航问题达成共识。受海湾局势影响，霍尔木兹海峡单日通行量已降至个位数，同时面临政治、军事双重风险，海湾石油供应也受到冲击。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ce63252b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ce63252b",
+          "source": "Google News (中国)",
+          "title": "伊朗和阿曼推迟地区会议 霍尔木兹海峡通航仍难达成共识 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uMEF2M1lsMklpMEpIaFowaFVnM1NfQ0NSU0ZLeFhTN2I0TXJQTlNJVUtFNXlNMTJTLXY3ZUlldmlZZjVZM0RYWWRnbWU4UEFQOVpRSHYyb1VmYWtnYWdUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T15:34:57+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:34:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9d99c0f2",
+      "title": "消息人士称Automattic董事会罢免CEO马特·穆伦维格失败后全体离任",
+      "summary": "消息人士向科技媒体TechCrunch透露，Automattic董事会此前投票决定让首席执行官马特·穆伦维格休假，试图罢免对方的行动失败后，该董事会全体人员现已离任。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "article_ids": [
+        "55478c46"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "55478c46",
+          "source": "TechCrunch",
+          "title": "消息人士称Automattic董事会罢免CEO马特·穆伦维格失败后全体离任",
+          "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+          "published_at": "2026-09-14T15:34:31+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:34:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2cf64e04",
+      "title": "法国嘲讽美国人权投票后悄悄致歉",
+      "summary": "法国曾在本国官方社交媒体账号发文，嘲讽美国的相关人权投票，在特朗普政府否决法国提名的新任驻美大使后，法国就这条引发争议的社交帖子表达歉意，这场外交小风波最终以法国悄悄致歉收尾。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14france-ambassador-tfgl/14france-ambassador-tfgl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3faae960"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3faae960",
+          "source": "NYTimes World",
+          "title": "法国嘲讽美国人权投票后悄悄致歉",
+          "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+          "published_at": "2026-09-14T15:25:26+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:25:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0bf32c97",
+      "title": "新莫斯科：既是数字乌托邦，也是监控陷阱",
+      "summary": "前沿技术重塑了俄罗斯首都莫斯科，数字技术的落地应用让这座城市变得更加安全便捷，打造出体验优异的数字城市形态。但与此同时，这套支撑城市运行的数字系统，也让民众处处处于严密监控之下，使新莫斯科同时成为一处监控陷阱。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-russia-digital-01-vchw/14int-russia-digital-01-vchw-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "73f9d569"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "73f9d569",
+          "source": "NYTimes World",
+          "title": "新莫斯科：既是数字乌托邦，也是监控陷阱",
+          "link": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+          "published_at": "2026-09-14T15:19:44+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:19:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83f135b9",
+      "title": "大众全新低风阻电动汽车打破多项能效纪录",
+      "summary": "这并非特斯拉Cybercab，而是大众打造的“效率任务”原型车，是目前全球风阻最低的电动汽车。这款接近量产的2+2座电动轿跑原型基于大众MEB+平台打造，搭载了即将推出的ID. Polo与ID. Cross车型的前驱部件，研发目标为打破能效纪录。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DB2026AU00679_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "2a1bb3bf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2a1bb3bf",
+          "source": "The Verge",
+          "title": "大众全新低风阻电动汽车打破多项能效纪录",
+          "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+          "published_at": "2026-09-14T15:12:09+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:12:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "638f58ac",
+      "title": "iPhone 18 Pro发布前夕谷歌Pixel 11降价",
+      "summary": "苹果iPhone 18 Pro将于9月18日本周五正式发售，谷歌最新Pixel系列手机恰逢此时开启降价，其中Pixel 11 Pro优惠幅度最大，多款配色在亚马逊售价约1007美元，优惠额几乎抵消了该机今年100美元的涨幅。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pixel11pro.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "7cbd2850"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7cbd2850",
+          "source": "The Verge",
+          "title": "iPhone 18 Pro发布前夕谷歌Pixel 11降价",
+          "link": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale",
+          "published_at": "2026-09-14T15:10:27+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:10:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b8833e7b",
+      "title": "2026 TechCrunch Disrupt大会独家：OpenAI推出你的路线图后会发生什么？",
+      "summary": "对于创办AI企业的从业者而言，当下核心问题已不是基础模型是否会持续进化，而是企业自身能否在模型迭代过程中持续创造价值。这个互动环节将亮相本次大会创作者舞台，诚邀业内人士不要错过。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+      "article_ids": [
+        "2f204386"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "2f204386",
+          "source": "TechCrunch",
+          "title": "2026 TechCrunch Disrupt大会独家：OpenAI推出你的路线图后会发生什么？",
+          "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+          "published_at": "2026-09-14T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "664cc93f",
+      "title": "亚当·康诺弗解释油管如何毁掉一切",
+      "summary": "本次访谈邀请喜剧演员、播客主播兼油管创作者亚当·康诺弗做客。亚当是互联网受众熟知的内容创作者，早年在CollegeHumor出道成为喜剧编剧，之后先后转战有线电视推出《亚当毁一切》、进驻网飞，本次他将探讨油管如何毁掉一切的相关话题。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-14-Conover.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "95f7b099"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "95f7b099",
+          "source": "The Verge",
+          "title": "亚当·康诺弗解释油管如何毁掉一切",
+          "link": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
+          "published_at": "2026-09-14T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b8833e7b",
+      "title": "仅2026年TechCrunch Disrupt大会：OpenAI落地你的路线图时会发生什么？",
+      "summary": "对于AI创业者而言，当前核心问题已不再是基础模型能否持续进化，而是自身能否在大模型迭代升级的过程中持续创造价值。聚焦这一议题的互动环节，将在本次大会创业者舞台举办，相关从业者不容错过。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+      "article_ids": [
+        "2f204386"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "2f204386",
+          "source": "TechCrunch AI",
+          "title": "仅2026年TechCrunch Disrupt大会：OpenAI落地你的路线图时会发生什么？",
+          "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+          "published_at": "2026-09-14T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b756f47f",
+      "title": "南非寻获失踪跑者遗体",
+      "summary": "上周，南非女子伊丽莎白·莫塞拉克戈莫失踪后，当地随即发起覆盖全国范围的寻人呼吁。目前已经找到该失踪跑者的遗体，在遗体发现地点的附近区域，还找到了另外四名女性的遗体。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8cf/live/3f757700-b049-11f1-89e4-0bbff5cb7e23.jpg",
+      "article_ids": [
+        "e02047f1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e02047f1",
+          "source": "BBC World",
+          "title": "南非寻获失踪跑者遗体",
+          "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T14:58:48+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:58:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9d040484",
+      "title": "遭伊朗袭击又遭特朗普回绝，沙特面临“最坏情况”",
+      "summary": "分析人士称，态度愈发强硬的伊朗对沙特发动袭击后，沙特试图争取美国更多军事支持却未能如愿，目前沙特陷入战略震荡，原本倚重的美方军事保障落空，正遭遇“最坏情况”的战略困境。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-saudi-challenge-lpmt/14int-saudi-challenge-lpmt-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e86c3a66"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e86c3a66",
+          "source": "NYTimes World",
+          "title": "遭伊朗袭击又遭特朗普回绝，沙特面临“最坏情况”",
+          "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+          "published_at": "2026-09-14T14:46:17+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:46:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c6ae9e52",
+      "title": "Superhuman收购获YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+      "summary": "生产力工具厂商Superhuman已完成对获创业加速器YC投资的笔记工具Fathom的收购，Fathom目前拥有超过40万月度活跃用户，本次收购体现了全球生产力平台布局智能代理办公的行业趋势。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "article_ids": [
+        "d360e52a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d360e52a",
+          "source": "TechCrunch",
+          "title": "Superhuman收购获YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+          "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "published_at": "2026-09-14T14:45:44+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:45:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c6ae9e52",
+      "title": "Superhuman收购YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+      "summary": "生产力工具厂商Superhuman完成对笔记应用Fathom的收购，Fathom曾获得知名创业加速器YC的投资。目前Fathom月活跃用户量已超40万，此次收购是全球生产力平台布局智能代理办公赛道的最新动作。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "article_ids": [
+        "d360e52a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d360e52a",
+          "source": "TechCrunch AI",
+          "title": "Superhuman收购YC投资的笔记工具Fathom 生产力平台发力智能代理办公",
+          "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "published_at": "2026-09-14T14:45:44+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:45:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da57ca24",
+      "title": "2026年TechCrunch Disrupt大会：聆听AI如何推动自然复苏",
+      "summary": "复活灭绝物种曾只存在于科幻作品中，如今这已成为一家十亿美元级创业公司的核心使命。2026年TechCrunch Disrupt大会将邀请一位特立独行的科技创始人展开相关对话，目前大会参会门票已开放预订。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "article_ids": [
+        "844d349f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "844d349f",
+          "source": "TechCrunch",
+          "title": "2026年TechCrunch Disrupt大会：聆听AI如何推动自然复苏",
+          "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-09-14T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da57ca24",
+      "title": "2026年TechCrunch Disrupt大会：聆听AI如何助力自然复苏",
+      "summary": "复活灭绝物种曾只存在于科幻作品中，如今这已成为一家十亿美元级创业公司的核心使命。2026年TechCrunch Disrupt大会将开设相关对话，邀听众聆听科技圈特立独行的创始人分享相关内容，目前即可预订大会参会通行证。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Ben-Lamm_1-Speaker-16x9-Dark.png?resize=1200,675",
+      "article_ids": [
+        "844d349f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "844d349f",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会：聆听AI如何助力自然复苏",
+          "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-09-14T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "643f76a2",
+      "title": "通胀与供应担忧加剧 美国10年期国债收益率突破5%",
+      "summary": "周一，美国10年期国债收益率自2023年以来首次短暂突破5%。随着市场通胀焦虑不断升温，叠加美国政府与企业的借贷需求持续攀升，各类担忧加剧，推动美国10年期国债收益率触及这一关键水平。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "474583c1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "474583c1",
+          "source": "Bloomberg",
+          "title": "通胀与供应担忧加剧 美国10年期国债收益率突破5%",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
+          "published_at": "2026-09-14T14:29:47+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:29:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "295f83f3",
+      "title": "海南五指山24小时降雨672毫米破纪录，万宁出现龙卷风 - 观察者网",
+      "summary": "受南海热带低压影响，海南出现极端天气：五指山24小时降雨量达672毫米，打破当地降雨纪录；万宁出现龙卷风；五指山因暴雨突发山洪致14人被困，目前全部获救，当地消防救援队伍已进入二级响应全力防汛，广西也将迎来风雨天气。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8ff25b50"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8ff25b50",
+          "source": "Google News (中国)",
+          "title": "海南五指山24小时降雨672毫米破纪录，万宁出现龙卷风 - 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS2ZRN1pNcUFQZENWQUxZeUtyLWFIalpSVHk4QTdHUS04a1h0X3pFR2QwMjVfRHVWU05lQVI0R0xlUlpGOGFvVnRRR0pzSjNZYVFpZ21NaHhUVVViU3RoZnA5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T14:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "548aa318",
+      "title": "野犬为寻配偶穿越赞比亚 跋涉2500英里创纪录",
+      "summary": "三只野犬兄弟为寻找配偶，穿越赞比亚完成了长达2500英里的跋涉，创下野生犬行走距离纪录。科学家表示，这次破纪录旅程，为野生动物在日益增长的生存压力下存续带来了希望。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg",
+      "article_ids": [
+        "237e4773"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "237e4773",
+          "source": "BBC World",
+          "title": "野犬为寻配偶穿越赞比亚 跋涉2500英里创纪录",
+          "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T14:08:12+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:08:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6768084",
+      "title": "距2026年TechCrunch Disrupt大会展位申请截止仅剩5天",
+      "summary": "2026年TechCrunch Disrupt大会展位申请将于9月18日截止，目前仅剩5天申请时间。成功获得展位的企业可在大会展厅参展，向一万余名创始人、投资人和科技行业领袖展示自身业务。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
+      "article_ids": [
+        "9838e600"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9838e600",
+          "source": "TechCrunch",
+          "title": "距2026年TechCrunch Disrupt大会展位申请截止仅剩5天",
+          "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+          "published_at": "2026-09-14T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6768084",
+      "title": "2026年TechCrunch Disrupt大会参展申请仅剩5天",
+      "summary": "2026年TechCrunch Disrupt大会参展展位申请截止日期为9月18日，目前仅剩5天申报时间。企业成功锁定展位后，可在展会展厅展示自身业务，面向超一万名创始人、投资者及科技行业领袖曝光。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49206046722_4126352615_k.jpg?resize=1200,800",
+      "article_ids": [
+        "9838e600"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9838e600",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会参展申请仅剩5天",
+          "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+          "published_at": "2026-09-14T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e68784e",
+      "title": "涩谷黑胶酒吧初创推出无AI提示的趣味音乐应用",
+      "summary": "由前Spotify高管创办的这家初创企业扎根东京涩谷，以黑胶酒吧为经营形态，主打不依托AI提示的趣味音乐应用，目前已推出实验性“单曲”项目，邀请普通用户参与音乐创作，探索互动音乐的全新可能。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
+      "article_ids": [
+        "4bd849d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "4bd849d9",
+          "source": "TechCrunch AI",
+          "title": "涩谷黑胶酒吧初创推出无AI提示的趣味音乐应用",
+          "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+          "published_at": "2026-09-14T13:55:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:55:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97d6d585",
+      "title": "时长四小时的埃隆·马斯克纪录片或只是说给拥趸听",
+      "summary": "曾拍摄过西拉诺斯、乔布斯相关纪录片的导演亚历克斯·吉布尼推出新作，这是一部时长四小时的埃隆·马斯克纪录片，影片详实全面地回顾了马斯克从早年成为互联网百万富翁到搅动美国核心政府部门的历程。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MUSK-_-Still-2-Credit_-Ken-Cedenoupi-UPI-Alamy-News.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "883170c9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "883170c9",
+          "source": "The Verge",
+          "title": "时长四小时的埃隆·马斯克纪录片或只是说给拥趸听",
+          "link": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+          "published_at": "2026-09-14T13:50:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:50:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a18e761",
+      "title": "为何丑闻再也打不倒政客",
+      "summary": "当今不少政客曝出丑闻后仍能保住政治地位，该现象引发舆论广泛讨论。有分析针对这一情况展开探讨，提出如今丑闻难以扳倒政客，原因不止在于政客本身缺乏廉耻心，背后还存在更为复杂的深层影响因素。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14ideas-deathofscandal-01-tplw/14ideas-deathofscandal-01-tplw-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "f9e3b84b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f9e3b84b",
+          "source": "NYTimes World",
+          "title": "为何丑闻再也打不倒政客",
+          "link": "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html",
+          "published_at": "2026-09-14T13:18:36+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:18:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8df99d4b",
+      "title": "广州公安通报：番禺一男子持刀伤人落网 - 联合早报",
+      "summary": "广州番禺大学城核心区一处商业综合体的火锅店门口发生持刀伤人事件，涉案35岁男子李某已被警方抓获，现场已安全处置，所有伤者经救治均无生命危险，针对网传“多人行凶”的说法，校方已澄清该传闻不实。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "901c95cb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "901c95cb",
+          "source": "Google News (中国)",
+          "title": "广州公安通报：番禺一男子持刀伤人落网 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSUpKN1hlS0pCS1dEQldXZ2pMa2Q0RmNBU09yeEtlSjBnWld4SF9KT21UZXNtbWhEOHEzWGtxU1pLblhRU3luNE0xMzJsU3pxbjI5dUM2VzA1R0lnclc0cmtfR2ZkZVhWMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T13:06:33+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:06:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "74556739",
+      "title": "微软加入呼吁AI“控速”行列 承诺为AI产品内置终止开关",
+      "summary": "微软加入呼吁人工智能发展控速的行列，同时该公司作出承诺，将在其推出的人工智能产品中内置AI终止开关。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "4314ae60"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "4314ae60",
+          "source": "The Information",
+          "title": "微软加入呼吁AI“控速”行列 承诺为AI产品内置终止开关",
+          "link": "https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products",
+          "published_at": "2026-09-14T13:00:55+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:00:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4d50da18",
+      "title": "对Anthropic的数据担忧促使英伟达、帕兰提尔与博思艾伦限制模型使用",
+      "summary": "当前出现针对Anthropic的数据相关担忧，该担忧已促使英伟达、帕兰提尔以及博思艾伦对相关模型的使用采取了限制措施。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "7f4ba92f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "7f4ba92f",
+          "source": "The Information",
+          "title": "对Anthropic的数据担忧促使英伟达、帕兰提尔与博思艾伦限制模型使用",
+          "link": "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use",
+          "published_at": "2026-09-14T13:00:55+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:00:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f493f34",
+      "title": "AI安全担忧浮现后 微软称\"人比AI更重要\"",
+      "summary": "近期人工智能发展加速引发安全担忧，有研究者警告，AI技术进步速度可能超出人类对日益复杂系统的安全部署与验证能力。上周末Anthropic首席执行官阿莫迪呼吁协同放缓AI开发，微软今日发布37页\"人文主义AI行为准则\"。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "3a588dc9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3a588dc9",
+          "source": "The Verge",
+          "title": "AI安全担忧浮现后 微软称\"人比AI更重要\"",
+          "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+          "published_at": "2026-09-14T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f493f34",
+      "title": "AI安全担忧升温后 微软称“人比AI更重要”",
+      "summary": "近期AI模型快速发展引发安全担忧，有研究者警告AI进展速度可能超过人类安全部署、验证日益复杂系统的能力。上周末Anthropic首席执行官阿莫迪呼吁协同放缓AI开发，微软今日发布一份37页的“人本主义AI行为准则”。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "3a588dc9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "3a588dc9",
+          "source": "The Verge AI",
+          "title": "AI安全担忧升温后 微软称“人比AI更重要”",
+          "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+          "published_at": "2026-09-14T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83d1b4b8",
+      "title": "[中国新闻网]着眼增长与韧性 金砖经贸合作持续深化 - news.ruc.edu.cn",
+      "summary": "多家媒体聚焦金砖合作发展，关注金砖着眼增长与韧性、持续深化经贸合作的进程。相关报道覆盖印尼巴塘工业园的全球南方合作、金砖打造互联互通贸易通道、从厦门开启“大金砖合作”新征程等内容，展现出金砖合作的活力与温度。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "0d200a52"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0d200a52",
+          "source": "Google News (中国)",
+          "title": "[中国新闻网]着眼增长与韧性 金砖经贸合作持续深化 - news.ruc.edu.cn",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2X1NfM01IRmVESVBBRXlzUnNWdVJuQ01YalhnOWw5X3BZdlg2S1JZVXdzVFFpdWR1eFRhM21pVTFDTzBhWnFzSGMtdGRseDctWm01OEJzNExjZllD?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T12:52:30+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T12:52:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1df9c33c",
+      "title": "鲍里斯·约翰逊与欧洲高官离站后 俄罗斯袭击乌克兰火车",
+      "summary": "前英国首相鲍里斯·约翰逊透露，今日上午波兰边境一辆停靠的乌克兰机车遭俄罗斯袭击，这一袭击发生在他与多名欧洲高级官员离开该火车站后不久，约翰逊称自己无法理解普京发动此次袭击的反常逻辑。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/715d/live/e93baec0-afff-11f1-9713-5de61387c384.png",
+      "article_ids": [
+        "46439ade"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "46439ade",
+          "source": "BBC World",
+          "title": "鲍里斯·约翰逊与欧洲高官离站后 俄罗斯袭击乌克兰火车",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T12:18:13+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T12:18:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9db94ff1",
+      "title": "《每日速递：人工智能的真实灭绝威胁与眼部逆龄技术》",
+      "summary": "这是科技领域工作日日更资讯栏目《每日速递》的今日更新。全球顶尖人工智能实验室的从业者认为，先进人工智能存在毁灭人类的真实可能性，本期就此话题展开圆桌讨论，还谈及了眼部逆龄技术相关内容。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=1456,818",
+      "article_ids": [
+        "77e5d572"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "77e5d572",
+          "source": "MIT Technology Review",
+          "title": "《每日速递：人工智能的真实灭绝威胁与眼部逆龄技术》",
+          "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+          "published_at": "2026-09-14T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9f7220b",
+      "title": "加息临近 垃圾级企业筹划130亿美元债务再融资",
+      "summary": "全球范围内垃圾评级借款企业正筹备至少130亿美元的债务再融资交易，此举旨在赶在各国央行可能启动加息前，锁定更窄的信贷利差，应对潜在的融资环境变化。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "179d8a9e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "179d8a9e",
+          "source": "Bloomberg",
+          "title": "加息临近 垃圾级企业筹划130亿美元债务再融资",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/junk-firms-are-refinancing-debt-early-on-fear-costs-will-rise",
+          "published_at": "2026-09-14T12:00:54+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T12:00:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "85eaf474",
+      "title": "海外华商参与服贸会：拓新兴市场 促互联互通 - qb.gd.gov.cn",
+      "summary": "2026年服贸会吸引各界参与，海外华商借此拓展新兴市场、促进互联互通；绿色能源领域中企与外企同台展示绿电成果；北京亦庄举办高质量发展推介会，签约合作推动开放发展，北京昌平则以文化为桥向世界递出城市新名片。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "21f1a2f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "21f1a2f5",
+          "source": "Google News (中国)",
+          "title": "海外华商参与服贸会：拓新兴市场 促互联互通 - qb.gd.gov.cn",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5akpGUjRMRXBSVl9fY1MtQm0yWXJJX3ppTXd2aHowN194NDlLOXVZa2ZnZC0wcDREQzZxY3RBYUw0bzlBamtvdG5tZTE3OE1talJnR3JYY0dWWkNJNUhpbHJrajA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T11:42:57+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:42:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "561c345f",
+      "title": "外交部：新德里会晤是中印领导人对两国关系发展的“再确认” - news.cn",
+      "summary": "中印领导人在新德里举行会晤，外交部称此次会晤是两国领导人对双边关系发展的“再确认”。访印互动期间，莫迪提及台海问题，中方作出明确回应。中方同时表示，明年中国将担任金砖主席国，愿同各方携手开启金砖合作第三个“金色十年”。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "80d08c55"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "80d08c55",
+          "source": "Google News (中国)",
+          "title": "外交部：新德里会晤是中印领导人对两国关系发展的“再确认” - news.cn",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93T0dYQldOaE96dDBlTVMzR2p6V1JhdWVvZlE4MkJEeHl0Vk1FR2REM241WXZwRHVSSl85WkgxNENtVjJ0MWIzaFNKX3FONks3SGtzYk9oWWVDdVN6QmJhWHJhd3JsOHZUMzNLNUYyMVdXTUZ5eFBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T11:38:12+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:38:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "66d95a30",
+      "title": "2026年国家网络安全宣传周开幕式在山东济南举行 - news.cn",
+      "summary": "2026年国家网络安全宣传周开幕式在山东济南举行，国内多地同步开展相关网络安全宣传活动，江苏淮安推出寓教于乐的“网安游园会”，甘肃省网络安全宣传周也在嘉峪关开幕，各地以多元形式普及网安知识，筑牢智能时代网安防线，守护数字民生福祉。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "51579e4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "51579e4f",
+          "source": "Google News (中国)",
+          "title": "2026年国家网络安全宣传周开幕式在山东济南举行 - news.cn",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mZXRLVzlnaWpkRjZWUzlVQUFWc0xVUmtkUmtLdEx1dDhsUVJzTld2VTg0UkdaVkxqZVJvUl81Vi1mSVBtemRTY0hVMXlDZDdMSkxDTXBHTEtyakFYb3VDMXdfaFZ0aWR4ekdwc1dyS2lCd3JRZWFv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-09-14T11:35:12+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:35:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78b6faed",
+      "title": "炭疽致死数十只野生动物 赞比亚警告民众勿食用死亡野生动物",
+      "summary": "赞比亚发生炭疽疫情，已造成数十只野生动物死亡，至少12人因食用受感染的野生动物尸体肉感染炭疽，目前这些感染者正在接受治疗。赞比亚官方已发布警告，提醒民众不要食用死亡野生动物。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb2/live/3c870970-b024-11f1-95e6-93ee8a80cb38.jpg",
+      "article_ids": [
+        "48099a0f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "48099a0f",
+          "source": "BBC World",
+          "title": "炭疽致死数十只野生动物 赞比亚警告民众勿食用死亡野生动物",
+          "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T11:35:08+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:35:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e9ee7ea",
+      "title": "中国驳斥有关其在人工智能领域“恶意竞争”的说法",
+      "summary": "此前人工智能企业Anthropic的首席执行官呼吁放缓人工智能发展，该呼吁的实际意图是阻止中国在全球AI竞赛中取得领先，针对由此衍生出的中国在AI领域开展恶意竞争的说法，中国已作出驳斥。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
+      "article_ids": [
+        "f46be79e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f46be79e",
+          "source": "BBC World",
+          "title": "中国驳斥有关其在人工智能领域“恶意竞争”的说法",
+          "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T11:31:39+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:31:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b645d107",
+      "title": "数千人要求终止墨西哥贩毒集团热点地区暴力活动",
+      "summary": "墨西哥锡那罗亚贩毒集团的两个敌对派系爆发内讧后，其核心据点库利亚坎的暴力事件数量大幅飙升。目前已有数千民众发声，要求结束这一贩毒活动高发地区的暴力乱象。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/906a/live/e4f3e460-b02a-11f1-a8a9-13be82d23441.jpg",
+      "article_ids": [
+        "1099b3e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1099b3e9",
+          "source": "BBC World",
+          "title": "数千人要求终止墨西哥贩毒集团热点地区暴力活动",
+          "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T11:28:36+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:28:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c92996dc",
+      "title": "Hyrox就选手失禁后仍允许比赛继续一事致歉",
+      "summary": "Hyrox因一名选手参赛过程中身体失禁后仍允许比赛继续进行而公开致歉，此事引发舆论分歧，一部分公众对该赛事安排的卫生问题提出担忧，另一部分人则称赞这名选手克服逆境、坚持完赛的决心。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5380/live/fc11c310-b02f-11f1-9ae0-e316eeb4632d.jpg",
+      "article_ids": [
+        "eae1521a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "eae1521a",
+          "source": "BBC World",
+          "title": "Hyrox就选手失禁后仍允许比赛继续一事致歉",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-09-14T11:20:07+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:20:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0f4ad3e",
+      "title": "中国最高情报首长警告人工智能威胁中共执政",
+      "summary": "在北京敦促美国不要炒作人工智能危险性的同时，中国最高情报负责人将人工智能技术定性为会威胁中国共产党的执政安全，这一表态体现出中国官方对内对外谈及人工智能风险时的不同定位。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-china-ai-security-clqg/14int-china-ai-security-clqg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "44c5dcff"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "44c5dcff",
+          "source": "NYTimes World",
+          "title": "中国最高情报首长警告人工智能威胁中共执政",
+          "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+          "published_at": "2026-09-14T11:14:20+00:00"
+        }
+      ],
+      "published_at": "2026-09-14T11:14:20+00:00",
+      "is_merged": false
+    }
+  ]
+}
