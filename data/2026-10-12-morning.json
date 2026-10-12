@@ -1,10 +1,550 @@
 {
   "date": "2026-10-12",
   "edition": "morning",
-  "updated_at": "2026-10-12T01:31:47.306502+08:00",
+  "updated_at": "2026-10-12T11:47:40.251035+08:00",
   "article_count": 60,
-  "cluster_count": 58,
+  "cluster_count": 56,
   "articles": [
+    {
+      "id": "6fa136e6",
+      "title": "东方汇理分支机构称伊朗战争结束将成印度转折点",
+      "title_original": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
+      "summary": "国际知名资管机构东方汇理的研究部门认为，受高油价上涨、持续外资流出影响，印度股市此前遭遇了一轮大幅抛售，伊朗战争结束后，印度股市存在反弹空间。",
+      "summary_original": "Amundi SA’s research arm sees scope for a rebound in Indian equities after a steep selloff fueled by high oil prices and persistent foreign outflows.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T03:18:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d34c695f",
+      "title": "云顶集团因供股计划股价创1998年以来最大跌幅",
+      "title_original": "Genting Shares Tumble Most Since 1998 on Rights Issue Plan",
+      "summary": "由马来西亚亿万富豪林国泰掌控的休闲企业云顶集团，宣布计划通过可弃权供股，筹集约12.5亿林吉特（约合3.06亿美元）资金，消息公布后，云顶集团股价创下28年来最大跌幅。",
+      "summary_original": "Genting Bhd. shares plunged by the most in 28 years after the leisure group controlled by Malaysian billionaire Lim Kok Thay announced plans to raise about 1.25 billion ringgit ($306 million) through a renounceable rights issue.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T03:07:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8f480f8a",
+      "title": "高油价、外资外流冲击下印度储备银行强化卢比防守：美元兑卢比",
+      "title_original": "RBI Tightens Rupee Defense as Pricey Crude, Foreign Outflows Bite: USD/INR",
+      "summary": "受国际原油价格高企、外资持续流出冲击，印度储备银行近期出手强化卢比汇率防守。市场最新预期显示，卢比汇率大概率将于周一出现上涨，但这一涨势后续难以持续。",
+      "summary_original": "The rupee is likely to advance on Monday, but sustaining the gains will be harder.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/rbi-tightens-rupee-defense-as-pricey-crude-foreign-outflows-bite-usd-inr",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T02:30:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0c183f92",
+      "title": "受油价下跌及美元抛售影响 韩元触及两年高位",
+      "title_original": "South Korean Won Hits Two-Year High on Lower Oil, Dollar Sales",
+      "summary": "周一，韩元汇率大幅上涨，触及两年来新高。此次韩元升值主要得益于两方面因素：一是国际油价走低，二是韩国本土企业大举抛售美元，两大因素共同发力，推动韩元升至近两年最高水平。",
+      "summary_original": "South Korea’s won jumped to a two-year high on Monday, supported by lower oil prices and heavy dollar selling by local companies.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/south-korean-won-hits-two-year-high-on-lower-oil-dollar-sales",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T02:20:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6a21795d",
+      "title": "中国同意限制对欧盟混合动力汽车出口",
+      "title_original": "China Agrees to Curb Hybrid Car Exports to EU",
+      "summary": "欧盟称，在涵盖贸易、投资、知识产权领域的会谈后，中国已同意大幅削减对欧盟的混合动力汽车出口规模。这一消息源自彭博社，彭博社记者闵敏·罗将就该安排带来的相关影响展开讨论。",
+      "summary_original": "The EU said China agreed to slash millions of hybrid car exports after talks that spanned trade, investment and intellectual property rights. Bloomberg's Minmin Low discusses the implications. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-12/china-agrees-to-curb-hybrid-car-exports-to-eu-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T02:12:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "19610ba6",
+      "title": "李强将出席第140届广交会开幕式及相关活动 - 新华网",
+      "title_original": null,
+      "summary": "第140届广交会即将开幕，李强将出席本届广交会开幕式及相关活动。本届广交会设置17个新兴未来产业专区，将展示硬核科技；相关部门推出便利通关措施保障展品进出，展会举办期间当地多路段将实施临时交通管制。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3N0cnFqa1UtWkl5Szh5b0FBU1ZMUzFGSzdrUHI0aHUydGZ3RWdKRjNKaWt1eUJGbGkta1VYZ2VLVGhUVjlBQVRSTTVtd3lMdHZ5ZmZsb2lLU1VBa0xLWDJteFpzVWtYak9fNDhPNzZhZl9ydl85RmlSLVBrb09FOXNBVG1adVJm?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-12T02:01:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5a5a6bdc",
+      "title": "印度央行出手后 印度卢比离岸市场上涨",
+      "title_original": "Indian Rupee Rises in Offshore Market After RBI Steps",
+      "summary": "印度储备银行推出了自2013年缩减购债恐慌以来力度最强的一批提振卢比汇率的举措，相关措施落地后，印度卢比在离岸交易中实现上涨，这是印度央行为支撑本币汇率采取的强力动作。",
+      "summary_original": "The Indian rupee advanced in offshore trading after the central bank took some of its strongest measures to bolster the currency since the 2013 taper tantrum.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-12T01:44:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "34a29f33",
+      "title": "中央气象台：冷空气继续影响北方 10月13日起南方有较强降雨过程 - 新京报",
+      "title_original": null,
+      "summary": "2026年10月12日中央气象台发布天气公报，冷空气正持续影响我国北方，北方将出现大范围降温降雨，内蒙古、东北局部降温幅度超10℃，今明天东北华北也将迎降温降雨；目前华南等地气温持续偏高，10月13日起南方将迎来较强降雨过程。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rX1YwREV2M1FydmZSamhZVXdGTTdFallpUzI2SzNGTDE5TTFDZEM1LURhX0xvN2tPb2lWUUs0OWNtcWM2OWw1MEJoTXpoUjgzXzJrdGhuM01NaWx0U19zOHY2VXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-12T01:11:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a48380b8",
+      "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季 - 求是",
+      "title_original": null,
+      "summary": "求是推出《大道致远，笃行不怠——记中国元首外交金秋繁忙季》特稿，光明网于10月12日发布相关推送，人民论坛、香港01、四川日报等多家媒体也陆续刊出该主题相关内容，围绕中国元首外交相关动态展开报道与讨论。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MdGpaVktjYUpmaFFmVjB3YXRWMVBfMFpFZTJUaDBqUUNDYUp3SDFMQ2xGOU82YU9ZaUxMOC1pZTV3d0JIZE4yb1k4S1lHN3hQNGtweW94Z2hMUUt0cnhSWmJtUHQyekd3M0d3ZGpsMnRidGlFX01WVjBQTl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-12T01:06:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d22291b6",
+      "title": "2026年TechCrunch Disrupt大会创始人指南：你需要知道的一切",
+      "title_original": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary": "作为全球知名科技活动，面向创始人的2026年TechCrunch Disrupt大会指南梳理了参会相关全部信息，本次大会以“如何在AI时代打造经久不衰的企业”为核心议题，活动日程与嘉宾阵容均围绕这一核心设置。",
+      "summary_original": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-12T00:59:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2aaf1c76",
+      "title": "土耳其外交部谴责胡塞武装袭击沙特机场--国际 - 人民网",
+      "title_original": null,
+      "summary": "胡塞武装接连袭击沙特境内多处机场，包括利雅得哈立德国王机场、达曼法赫德国王国际机场，袭击已造成至少13人死亡、300余人受伤，沙特公布了袭击现场监控视频，本次袭击引发也门战事升级担忧，土耳其外交部已公开谴责此次袭击行为。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HQlp1aWR0RWpGNjBBa2xGX21lT2g0dG1RY0s2ODk4T05Qd2FLMXZ1VFNrdElObGVCcU9ObkJvb3kzSWFnbUlIN2RCWXN0aVFqWFBTYWhSXzlJbS04eGE5U2hVcnBnSzZxbEdj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-12T00:34:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "55ba8d5a",
+      "title": "王沪宁会见越南国会主席陈青敏 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "王沪宁会见越南国会主席陈青敏，相关活动消息由中国共产党新闻网发布。本次会见有利于进一步巩固中越政治互信，深化两国各领域友好交往与务实合作，推动中越全面战略合作伙伴关系提质升级，助力构建中越命运共同体，更好惠及两国人民。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyb1NHU1RkY2FMaGFGUm1HODNPVWlMZ2c3aUhWMmJzTElTZkJiRlJEbWdPY1Y5TkJwaXZwOW5Md0hfREJWYWdqdVVGcDFDOTNPdFZFRmZSZnFfTVFWd2pGRExVWU56V0RxQ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-12T00:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6ad8966f",
+      "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” - 中国经济网",
+      "title_original": null,
+      "summary": "多家媒体报道，美国前总统特朗普称俄乌进入能源停火，还公开敦促乌克兰更换总统。乌克兰总统泽连斯基回应称，能源停火一说对他而言是新闻，乌克兰选举是本国人民自己的事，另有消息显示泽连斯基称支持能源停火，乌武装部队已收到相关命令。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iUWQ4ODh5QnFJOTVrMUdaSW84YnhxeWZ3VkxXem1KSlFTUHhZXzRyckNXSVBNTE5mdHd3ekZxRHFyRDF2MkFSaUdzTGZVUFFGazBFb2hiYkVFWlJfZGttZ19rcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-11T23:36:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "48a7c499",
+      "title": "深圳新皇岗口岸正式开通运行；特朗普称俄乌双方同意“能源停火”｜21早新闻- 21经济网 - 21财经",
+      "title_original": null,
+      "summary": "这是21财经推出的早新闻，核心内容包含：深圳新皇岗口岸正式开通运行，开通仪式在深圳举行，首位旅客仅20秒完成通关，该口岸将打造粤港澳大湾区跨境通行新枢纽，目前各地重点工程建设提速；特朗普称俄乌双方同意达成“能源停火”。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVcxQno0Wkl4X1NOQXZmZDdqUzV6TWcxaVdOajktb1dpUVNKNXVBYVVJSm5LdER5RUM4cEYzeGNvQy1lX0hkT1RMaURvM2RYanZhSzFUQWdYSGRPQkh0V0ZqcGxYNUloQnZiTkJFSmduOHhORnBjM2VzTkpDQ3FQU01aaVhFZ2tpai1ZdjJ1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-11T23:11:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3b894c11",
+      "title": "长征路上这支“娃娃军”，何以被毛泽东盛赞“立下大功”（留言赠礼） - 京报网",
+      "title_original": null,
+      "summary": "多家主流媒体近期推出多种形式的长征主题内容，京报网聚焦探讨长征路上被毛泽东盛赞“立下大功”的“娃娃军”，其余各平台也分别推出寻迹长征旧址、阐释长征精神、文物见证伟大远征、播出长征主题纪录片等相关内容。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwME9Db3QwOEMtcEkxVDJUQVlzTHNMZUcya0ZOTDVNODUyMWdYMnp1YXI5ZFlYelNzMk9LUWdqZUZ5ZW1QdlBKUXRuOERmQ3hlR3BKRHAtS1VadXlLcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-11T22:55:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4bd1efd2",
+      "title": "原油下跌股债期货走高：市场综述",
+      "title_original": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+      "summary": "沙特遭遇最新袭击，中东局势紧张，战事存在进一步扩大的风险，不过交易员并未过度担忧这一地缘风险的影响。当前原油价格延续下行走势，受此推动，股票期货与债券期货纷纷走高。",
+      "summary_original": "Stock and bond futures advanced as crude oil extended its decline, with traders looking past the latest attacks on Saudi Arabia that threatened to widen the war in the Middle East.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-11T22:09:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "843e2b35",
+      "title": "10月12日最新石油市场消息与分析",
+      "title_original": "Latest Oil Market News and Analysis for Oct. 12",
+      "summary": "本周初石油市场开局震荡，油价下跌。交易商正权衡多重影响油价的因素：目前中东石油供应保持稳定，但地区紧张局势升温，与此同时美国声称俄罗斯与乌克兰已达成所谓能源停火协议。",
+      "summary_original": "Oil declined in a volatile start to the week as traders weighed resilient Middle East flows against rising regional tensions and a US claim that Russia and Ukraine had agreed to a so-called energy ceasefire.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-11T22:08:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7f8d4af8",
+      "title": "亚马逊的便宜货包含其自家股票",
+      "title_original": "Amazon’s Bargains Include Its Stock",
+      "summary": "本新闻仅在标题明确披露，亚马逊的特惠商品当中包含该公司自身的股票，暂未在标题中给出更多与此相关的细节信息。",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/the-briefing/amazons-bargains-include-stock",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-10-11T22:01:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6554d6af",
+      "title": "“半条被子”和“半截皮带” - 人民日报",
+      "title_original": null,
+      "summary": "近期多家主流媒体聚焦湖南红色地标“半条被子”“半截皮带”相关红色资源，这些红色地标借助传播实现“出镜”又“出圈”。相关报道既回望长征初心、传承红色精神，也关注红色旅游带动地方民生发展，展现红色资源如何赋能百姓美好生活。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MUxFTW5KVmtPZ3hiVUxFa05IaDJ3MEhLVE4ydmE1dkp0c3VCX2k4TFUxM1dTNnN4TkpfYWJVYTY5SXBabEUxd3pUeFFnYUhLTFVkN3VZYWFtWXRZOFlKT1FqQ3hJd0oxc3RQQjNORmpZNFBQTTh4Mm42SlV0RmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-11T22:00:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a7255c68",
+      "title": "特朗普“能源停火”主张获泽连斯基欢迎 俄罗斯未作回应",
+      "title_original": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "特朗普提出“能源停火”主张后，乌克兰总统泽连斯基最初对此感到意外，随后明确表态，若俄罗斯同意该停火提议，乌方将予以支持。截至目前，俄罗斯方面尚未就这一主张作出公开回应。",
+      "summary_original": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "26829619",
+      "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+      "title_original": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "过去几年间，已有多份报道称苹果正在研发一款全新的智能家居产品。目前这款备受关注的新品已经确定了产品名称，也明确了发布日期，外界开始关注其能否成为苹果在智能家居领域的首款成功产品。",
+      "summary_original": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-11T21:14:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "26829619",
+      "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+      "title_original": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "过去几年来，已有多份报道称苹果正在研发全新智能家居产品。目前这款产品被曝已经确定了名称与发布时间，这款传闻名为HomeView的新品引发关注，外界热议它能否成为苹果首款成功的智能家居产品。",
+      "summary_original": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-11T21:14:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2b53440d",
+      "title": "人权组织称埃及苏丹边境袭击致数十名淘金者身亡",
+      "title_original": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "summary": "人权组织披露，埃及与苏丹边境一处手工采矿营地于周六遭遇袭击，事件造成数十名淘金者死亡。截至目前，埃及与苏丹两国均未对这起袭击事件作出任何公开回应。",
+      "summary_original": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba0/live/1bc53450-c5b4-11f1-a838-01c3fd7e5e7d.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "14600a1e",
+      "title": "如何让你的数据中心获批？像石油公司一样行事",
+      "title_original": "How to Get Your Data Center Approved? Behave Like An Oil Company",
+      "summary": "本文围绕如何让数据中心获得审批这一问题展开，针对如何顺利通过审批，给出了应当像石油公司一样行事的建议。",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/the-electric/get-data-center-approved-behave-like-oil-company",
+      "category": "tech",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-10-11T21:01:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c97aae4c",
+      "title": "艾伦·索金新作《社会清算》开局疲软",
+      "title_original": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "summary": "知名影人艾伦·索金的新作《社会清算》开局表现疲软，今秋电影市场将集中推出多部以反派科技CEO为主角的影片，《社会清算》正是其中之一，它的不佳开局引发了业界对这批同题材新片整体市场前景的疑问。",
+      "summary_original": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/social-reckoning.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-11T20:51:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "430c908a",
+      "title": "伊利诺伊州一学院试图终止与Flock的合约遭拒",
+      "title_original": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "summary": "2025年4月，美国伊利诺伊州埃尔金社区学院为提升学生安全防护，安装了六台Flock安全摄像头。同年9月，校方因担忧Flock向海关边境保护部门共享数据、摄像头安防不达标，提出终止合作，遭到Flock拒绝。",
+      "summary_original": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-11T20:06:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b01d8120",
+      "title": "习近平总书记引领健康中国建设 - 中国网",
+      "title_original": null,
+      "summary": "中国网推出《习近平总书记引领健康中国建设》相关主题报道，习近平总书记始终把人民健康放在优先发展的战略地位，亲自谋划部署、引领推动健康中国这一重大国家战略建设，持续推动我国卫生健康事业发展，不断增进全体人民的健康福祉。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fbGRwUTU3MG1Dbm1yeFIzdEg5N0hDSnZSQUhyNjhOdy1STUUzbUFmUlNWQUFUSDFwaFJHd3RDT1NKTkJMdDJwbEh1TGVVWGJnRHQxbG1CeGkzR0s3eTZGX1F3TGVpUUsxaldQN0syZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-11T19:17:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31e0d8e3",
+      "title": "婆罗洲毁灭性大火后 红毛猩猩被放归森林",
+      "title_original": "Orangutans released back into Borneo forest after devastating fires",
+      "summary": "今年夏季，婆罗洲爆发强度极高的野火，当地野生红毛猩猩的栖息地受到严重威胁，救援人员提前转移了受影响的红毛猩猩，如今这些红毛猩猩已被重新放归婆罗洲森林。",
+      "summary_original": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-11T19:08:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c99af546",
+      "title": "距2026年TechCrunch Disrupt大会还有48小时 可直面未来科技缔造者",
+      "title_original": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "距离2026年TechCrunch Disrupt大会开幕已不足48小时，活动即将在旧金山莫斯康西中心举办。目前购票可享最高100美元票价减免，第二张票还可享五折优惠，入场现场票价将上调，另有其他优惠可供选择。",
+      "summary_original": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "27762c42",
+      "title": "债券抛售或意味着全球央行加息次数减少",
+      "title_original": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
+      "summary": "债券市场抛售推高了市场借贷成本，已开始为全球各国央行分担抑制通胀的调控工作，这一变化有望减少央行为控制通胀所需要实施的基准利率加息次数，有望放缓全球央行收紧货币政策的节奏。",
+      "summary_original": "Bond markets are starting to do some of the lifting for central banks around the world by pushing up borrowing costs themselves, potentially reducing the number of benchmark interest-rate hikes needed to get inflation under control.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c99af546",
+      "title": "2026年TechCrunch Disrupt大会倒计时48小时：聆听未来构建者分享",
+      "title_original": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "2026年TechCrunch Disrupt大会将于不到48小时后，在美国旧金山莫斯康西中心开幕。当前购票可享最高100美元优惠，购买第二张门票可享五折，还有其他优惠福利，大会现场售票时票价将会上调。",
+      "summary_original": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5e9f78f7",
+      "title": "硅谷配合特朗普给人工智能更名",
+      "title_original": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "美国总统特朗普宣布计划将人工智能更名为\"超级智能\"，外界原本普遍不看好这一更名能推广开来，目前多数普通民众仍沿用AI的原有称呼，但硅谷部分最具影响力的行业巨头已经表态配合特朗普推进这一更名工作。",
+      "summary_original": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5e9f78f7",
+      "title": "硅谷顺应特朗普为人工智能更名的尝试",
+      "title_original": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "美国总统唐纳德·特朗普提出将人工智能更名为\"超级智能\"，外界原本不看好这一叫法能够推广普及。目前多数普通民众仍沿用\"AI\"的称呼，但硅谷部分最具影响力的势力已经顺应特朗普，配合推进这一更名计划。",
+      "summary_original": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f1f724a5",
+      "title": "2026年TechCrunch Disrupt大会投资者指南：你需要知道的一切",
+      "title_original": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary": "TechCrunch Disrupt是全球知名创投行业盛会，多年来，亲临会场逛展馆、对接创始人、向同行交流学习的参与者，都印证了亲身到场参与的价值，2026年大会将于10月13日举办，呼吁投资者亲临参会。",
+      "summary_original": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-11T17:53:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "28f23699",
+      "title": "新款Apple TV或将内置麦克风 升级遥控器将搭载扬声器",
+      "title_original": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "summary": "最新传闻显示，新款Apple TV将内置麦克风，配套升级后的遥控器将新增扬声器功能。内置麦克风可让用户无需对着遥控器或相连的HomePod发话，就能通过Siri控制该机顶盒，Apple TV也可因此拓展新的使用场景。",
+      "summary_original": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-11T17:31:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1fc29638",
+      "title": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "title_original": "Poland detains man suspected of planning assassination of PM Tusk",
+      "summary": "波兰日前拘留一名涉嫌策划暗杀总理唐纳德·图斯克的男子。此前当地警方接到可靠情报，显示有人员计划对图斯克以及波兰国防部长发动袭击，相关事件的更多细节仍待进一步披露。",
+      "summary_original": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "edition": "morning"
+    },
     {
       "id": "8caee84a",
       "title": "教皇利奥将接受手术切除肺部增生物",
@@ -364,564 +904,912 @@
       "lang": "en",
       "published_at": "2026-10-11T14:00:00+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "6d7b9d52",
-      "title": "扎堆押注分散交易的对冲基金面临科技企业财报大考",
-      "title_original": "Tech Earnings Loom Large for Hedge Funds Packed Into Dispersion Trade",
-      "summary": "美股当前陷入盘整惯性，股票期权交易者正期待市场打破僵局。目前科技企业财报披露恰逢美联储货币政策会议与美国中期选举同期举行，扎堆押注分散交易的对冲基金将受到科技财报的重大影响。",
-      "summary_original": "Equity option traders will be looking for the market to break out of its inertia as tech company earnings collide with a Federal Reserve meeting and US midterm elections.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-10-11/tech-earnings-loom-large-for-hedge-funds-packed-into-dispersion-trade",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-10-11T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1b97ced3",
-      "title": "这些高管认为语音人工智能尚未迎来它的ChatGPT时刻",
-      "title_original": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "多名行业高管认为，当前语音人工智能尚未迎来属于它的\"ChatGPT时刻\"，尚未实现质变级的突破性发展。现有语音AI技术存在明显缺陷，常会在上下文处理环节遗漏关键信息，进而导致整条处理流程崩溃。",
-      "summary_original": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-11T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a50f3cc9",
-      "title": "冲突升级：沙特机场遇袭致12人死亡",
-      "title_original": "Saudi Airport Attack Kills 12 as Conflict Escalates",
-      "summary": "彭博社中东记者丹·威廉姆斯在节目中称，伊朗支持的也门胡塞武装袭击沙特利雅得国际机场，造成至少12人死亡、超300人受伤，该事件标志着沙特与胡塞武装的冲突大幅升级。威廉姆斯还就美国可能军事介入、沙特投资计划受威胁等议题展开讨论。",
-      "summary_original": "Bloomberg Middle East reporter Dan Williams tells Bloomberg This Weekend that an attack on Riyadh's international airport that killed at least 12 people and injured more than 300 marks a significant escalation in fighting between Saudi Arabia and Yemen's Iran-backed Houthis. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the possibility of US military intervention, the threat to Saudi Arabia's investment ambitions and Iran's efforts to rebuild its missile arsenal amid u",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-kills-12-as-conflict-escalates-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-10-11T13:46:58+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "03457503",
-      "title": "教皇利奥肺部发现肿块 将接受手术",
-      "title_original": "Pope Leo to have surgery after lump found on lung",
-      "summary": "现年71岁的教皇利奥日前在检查中检出肺部肿块，后续将针对病灶接受手术治疗。教皇本人透露，此次检出的肺部结节处于发病非常早期的阶段，病灶发现及时，整体情况较为乐观。",
-      "summary_original": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-10-11T13:38:55+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c2b4a651",
-      "title": "顺便一提：你可能错过的新闻头条",
-      "title_original": "By The Way: Headlines You May Have Missed",
-      "summary": "彭博推出一档汇总被错过的新闻头条的节目，由丽莎·马泰奥、大卫·古拉、克里斯蒂娜·鲁菲尼主持，内容涵盖顶级金融公司五万美元暑期实习、高盛高管超五亿美元特别奖金、防虫护书的独特方法，以及青少年骑行高速电动车日益凸显的安全隐患。",
-      "summary_original": "$50,000 summer internships at elite financial firms, more than $500 million in special bonuses for Goldman Sachs executives, an unusual method of protecting books from pests and growing safety concerns surrounding teenagers riding high-speed electric bicycles. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/videos/2026-10-11/by-the-way-headlines-you-may-have-missed-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-10-11T13:33:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ba423361",
-      "title": "直接对半砍！欧盟拟限制中国混动车：每年降至40万辆 - 驱动之家",
-      "title_original": null,
-      "summary": "中欧刚完成贸易相关磋商后，传出欧盟拟对中国混动车进口实施年度配额限制，计划将进口量大幅砍半，压缩至每年40万辆。该消息引发各界关注，也凸显出欧盟在对华汽车贸易领域既离不开中国产业又心存戒备的两难处境。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZy1OX0gyTm15WE81d1FlRTVEbTBpa3U5cVVhUXdwdUlVWG1MbXBxZk9xb2VUOV83NGR3TFh4NkJHLXFxMnRvU2VDVm5iRUYyTnpZbERoTmw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T13:32:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "196e57a4",
-      "title": "预测市场的NFL热潮考验体育博彩规则",
-      "title_original": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
-      "summary": "预测市场原本允许用户对美联储决议、流行文化等各类事项进行交易，以此开展业务。今年的橄榄球赛季显示，这类市场的增长很大程度依赖于博彩玩家更为熟悉的体育领域，其借NFL迎来的发展热潮也对现有体育博彩规则形成了考验。",
-      "summary_original": "Prediction markets built their business by letting users trade on everything from Federal Reserve decisions to pop culture. This year’s football season is showing just how much their growth hinges on something more familiar to bettors: sports.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-10-11T13:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c4efcfd3",
-      "title": "胡塞武装直击沙特野心核心 沙特几无应对选项",
-      "title_original": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "summary": "伊朗支持的也门胡塞武装对沙特阿拉伯首都的一处机场发动了三起致命袭击，此次事件凸显了胡塞与沙特之间冲突的不对称属性，面对直指自身核心利益的袭击，沙特目前可用的应对方案十分有限。",
-      "summary_original": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
-      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-saudi-assess-bvtm/11int-saudi-assess-bvtm-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T13:23:37+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e48f358e",
-      "title": "河北省气象台发布大雾黄色预警信号 - 河北广播电视台",
-      "title_original": null,
-      "summary": "河北省气象台发布大雾黄色预警信号，该预警相关资讯由河北广播电视台对外发布，对相关内容感兴趣的用户，可以前往Google新闻平台，查看河北广播电视台更新推出的更多头条新闻以及各类相关观点内容。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50eWItTUF3VFNrc0RXMndTd21DQ3VzQWtEbzZxc1JVR29IeG9uc05CdVg1VkRteFFhT2x3aFU2SEhlNWNyWlR6MGpHU3FxZFJQaU1sOUNBMGNRbEVxbW1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T13:23:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9d371b7e",
-      "title": "面对特朗普压力 泽连斯基指任何缓和局势步骤都须对等 德外长重申支持 - RFI",
-      "title_original": null,
-      "summary": "面对特朗普施加的压力，乌克兰总统泽连斯基明确表态，任何缓和俄乌局势的步骤都必须遵循对等原则。德国外长也在此重申，德国将继续对乌克兰提供支持，该消息来自法国国际广播电台RFI。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPTmMwRnJpRXlUNHJBRnVNTl9FRnlabkF4c2NxNE1najRuZU9xVWtjbUZzOElLTHZpZzQzOU5vUGlVdmFWTjZLaVk2YTc4NWt0U2ZLbDJEaWtFRXoyM0VjdjUyNjM0SW5nQUMwZm9lREU5bFFzU0FJRFFmOVFXaDIxQmVycERxTV9UUGdOYkNvUTdJazNwcWFiYTRuVy1vd3FTWVRUUW8yVnQ0akJmSkItdEpqYUMzTW1pT1J5SzdNT3UwSnFTRmdZOG90cFh3Z2hHaUNWMlRjbkJVT1BYUkt0REh5SDhjUEhqSkdKcHprcHZ3MHhYZmp3dTFuSENaamNHWXBKTXNsa3B4WkZacDNqSDE0dWhMYlQ1TllJOVVTa0lIeHZhX01WaUNSU0ZGZDNPR2x6Q2F1endjbWNqSVFQX3RIencyUnJGT3hqZ19DdUpqZU8wMkowS0pHa2xJWXN6ZV91ZkljbmJoUkRKN25EcWZSZTNGV003M19Sa0p1aWJHek5vQkRkSV9BcHpuLUw1T2hTbWJrSkhxcXdON0tmUzdjNlJJTDdBVWdKY0lHdExnMGtlMEJTbUZ1dExINkZvYnJwRmdJN0gwQlY1dTNlaWVWZkI5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T13:17:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b262e7a8",
-      "title": "沃特呼吁将竖屏视频视作独立视频类型",
-      "title_original": "Vurt wants you to look at vertical videos as a genre of their own",
-      "summary": "迪士尼+、HBO Max等几乎所有主流成熟流媒体平台目前都在试水竖屏内容，这类传统流媒体将TikTok、Instagram等主打视频的社交平台视作生存威胁，业内正展开争夺用户注意力的竞争，机构沃特呼吁将竖屏视频归为独立视频类型。",
-      "summary_original": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt like everyone is trying to find [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0918.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f583f0b7",
-      "title": "苹果“欢迎回家”发布会看点前瞻",
-      "title_original": "What to expect from Apple’s ‘Welcome Home’ event",
-      "summary": "苹果“欢迎回家”新品发布会临近，本次预计推出一系列智能家居相关新品，涵盖更新迭代的Apple TV、HomePod mini，以及一款全新智能家居网关，还有可能首次推出全新的homeOS平台，以及部分合作品牌的相关设备。",
-      "summary_original": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5050f210",
-      "title": "坚持人民至上、生命至上——习近平总书记引领健康中国建设 - 新华网",
-      "title_original": null,
-      "summary": "新华网刊发题为《坚持人民至上、生命至上——习近平总书记引领健康中国建设》的报道，聚焦习近平总书记始终秉持人民至上、生命至上的理念，引领我国持续推进健康中国建设，彰显我国把人民生命健康放在优先发展位置的坚定立场。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RFMzZ0dmWTltNmZFOXF0UW1nbTFaLURkTEZ0SUlyWC13NjVfVkZ6RXBtNUx6a21kNXFlUkdWME1WQmpvY3FqNEFTYTQ1TFNmcEJFeVp0d0t5bGNla2F4Ui1PNTl1a1hTMUV6LXhIZ3RlbEpHNHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T12:56:06+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "972f697a",
-      "title": "透视意大利变革中的政治与教廷",
-      "title_original": "Inside Italy's Changing Politics and Papacy",
-      "summary": "前《纽约时报》罗马分社社长、记者杰森·霍洛维茨做客彭博社《周末》节目，分享其驻意25年报道中亲历梵蒂冈事务、教宗更迭与意大利政治演变的见闻。他结合新回忆录《意大利任务》指出，从贝卢斯科尼到梅洛尼的意大利政治实践，可为观察全球趋势提供参考。",
-      "summary_original": "New York Times Correspondent and Former Rome Bureau Chief Jason Horowitz tells Bloomberg This Weekend how his 25 years reporting from Italy gave him a firsthand view of the Vatican, papal transitions and the country's evolving political landscape. Speaking with hosts David Gura and Christina Ruffini, Horowitz discusses his new memoir, The Italian Job, and how Italy's political experiments, from Silvio Berlusconi to Giorgia Meloni, offer insights into broader global trends. (Source: Bloomberg)",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/videos/2026-10-11/inside-italy-s-changing-politics-and-papacy-video",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-10-11T12:45:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "650a560b",
-      "title": "南京退役老兵19次重走长征路，进校园宣讲用“三个画面”打动孩子 - 紫牛新闻",
-      "title_original": null,
-      "summary": "南京一名退役老兵19次重走长征路，走进校园开展红色宣讲，以结合自身体悟凝练出的“三个画面”打动青少年。当下多家媒体聚焦长征精神传承主题，推出相关报道，讲好长征故事，弘扬革命精神，赓续红色薪火。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjVzhRSkowOHNYVGJOdjlzT05qT21PQ1o4Z2Mzc1g5bVljdzJ4WlpKM012UVhzVkFZVHo0dUJPdHNsRWN4UVZvbUFaU296bnlDUTBpZ0oxWng2QzRXeVRDWmVsZ1pKbXhmNDRuMUFoZ3BnQkR3RW9IT3lR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T12:18:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "30364d9a",
-      "title": "特朗普促乌克兰\"换总统\"　泽连斯基开出对等停火条件 - DW.com",
-      "title_original": null,
-      "summary": "近期汇集多项热点资讯，国际方面，特朗普公开要求乌克兰更换总统，泽连斯基提出对等停火条件；美国财长贝森特称特朗普政府获法律授权落实对俄柴油供应协议，印度不满美国对俄能源交易的双重标准。国内方面，凌卫出任江西省委宣传部副部长、省文旅厅党组书记。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLWJENk1MNERyZzBwTDZNZWZCUHVhOHh3eXZSbkZ3NWtoRnk4RTNRTkVTYS0wMEdvYk82Zjk5cmgwX1NFbkhFZTNHVldzZHpYem00ZkdZSExaaTU3OEktZzhfMk4tZkEzZFRuZ2FOZFV4ckRuMmxVZ1ZMbnQ4Ym5LZDRBRTZkb3dGdmMxY19KR1FCR0FxT1V3SkZrWmxGQXp0TDU0RlprLVRIUFN0clhVMEZPQTN5OGlvWkhsZ2g1VXVXSkZJUXJucW1EUDJjakN6eE1CdVBLSURJQVZoZGt6TkF4NlhJUHJTLW9ueWMycGtPS29oclZHT1JRa0JORGYwQ1hRY2RpbEtOUExkX2o2dDZsTzhMZ2Z5eXpNbGZWMEhLWXRTTnRTOHU2c2puY1p6U0tjZThhMlloN0JveHMyZGc0Z2Njam94MTZEVzUyUV_SAdACQVVfeXFMUEh1bl9HX0tuTU9sb2pWX3dJZDUxY3ctRlVUVm9nRVp2d3EwWXhfeGk0c0JMaGRTNHZFd1hCWUp5M0hrUnI1cDE4UUI0TnhhSjhRWURPOE80V0Y4bjc1TWk2eWZVQnRfRTVPS1hIZklzYy1lUjhqRWhvMmhOLUJxemk3REUwYmtHaF9HMm9RUi1sSmdVUFpLR3JrV09JVkJFSDJxNWdOLWhvaG1yMUpJaEV5ZmhPWXk2X1hfR3YybVo4clFyeWlwSDU5ZzJuUjI4dGdnZjE5UHNhc1VOc3NOSnd0d3o4eFQtaGhkUS13UGFIZ0hHZkI1ZTREV3F6bV9Scnc5QU9mWlVSdHVSQmROYmcyWm1xbzQ4WHJIQV9RUk05SXBMSFlXS0JqdDhpU2trTF9uS2ZuZXIycnhNMk9YQTM5ZWtnSk9xU21WLVd3RHFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T12:10:15+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "99c9e85f",
-      "title": "新一轮洪水袭击尼泊尔 房屋桥梁被冲毁",
-      "title_original": "Homes and bridges swept away as fresh floods hit Nepal",
-      "summary": "尼泊尔近日遭遇新一轮洪水，多地房屋、桥梁被洪水冲毁。不到两个月前，尼泊尔刚刚发生过一场灾难性洪水，已造成数千人死亡或失踪，该国目前仍处于这场灾害的恢复阶段。",
-      "summary_original": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-10-11T12:03:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ae8676b8",
-      "title": "恐怖题材已是一门大生意",
-      "title_original": "Horror is big business",
-      "summary": "科技领域每周通讯《回望》主打深度解析行业核心事件，本期聚焦恐怖题材当下的行业渗透情况，开篇提及《生化危机》系列诞生已满30年。通讯每周日美国东部时间早8点推送至订阅邮箱，读者可自行订阅，关注Andrew Webster即可了解更多内容。",
-      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has been around for 30 [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-11T12:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8a63f4e8",
-      "title": "为何LeapPad没能在iPad冲击下存活",
-      "title_original": "Why the LeapPad couldn&#8217;t survive the iPad",
-      "summary": "LeapPad曾连续多年是美国最热门的产品，它是一款可发声、响应触控，帮助儿童学习阅读的智能学习设备，获得多数家长认可，可这款产品定价偏高，最终没能在iPad的市场竞争中存活下来。",
-      "summary_original": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRH_Leappad_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-11T12:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1e6e0a6a",
-      "title": "加沙废墟中苦寻希望",
-      "title_original": "Wringing Hope From the Rubble of Gaza",
-      "summary": "2023年10月7日哈马斯发动袭击后，以色列对加沙开战，去年10月达成的停火名义上结束了这场战事。停火满一年之际，尽管以色列对加沙的打击频次有所降低，但相关军事行动从未完全停止，加沙仍战火未熄，民众只能在残垣中追寻希望。",
-      "summary_original": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
-      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22Gaza-ceasefire-anniversary-05-hjvz/22Gaza-ceasefire-anniversary-05-hjvz-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T11:25:54+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2182d2cb",
-      "title": "印度抗议活动要点须知",
-      "title_original": "What to Know About the Protests in India",
-      "summary": "针对选民登记册全面修订的分散抗议活动于周日在印度新德里爆发。此前警方应对前期抗议时，已出动规模超乎寻常的警力，此次新抗议的爆发引发各界对印度国内社会局势的关注。",
-      "summary_original": "Scattered protests against sweeping revisions to India’s voter rolls broke out on Sunday in New Delhi. The police met earlier protests with an extraordinary show of force.",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10india-protests-What-We-Know-qhcm/10india-protests-What-We-Know-qhcm-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T11:24:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8e1ef5e7",
-      "title": "德里爆发更多抗议 获释“蟑螂组织”领导人誓言继续抗争",
-      "title_original": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "summary": "德里爆发更多抗议活动，此前获释的“蟑螂”组织领导人誓言将继续抗争。周日当天，数百名抗议者不顾警方的限制禁令走上街头抗议，随后所有参与此次抗议活动的人员都被警方拘留。",
-      "summary_original": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e56a/live/17da0620-c561-11f1-9cae-455625013d45.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-10-11T11:11:42+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d5795612",
-      "title": "王沪宁会见越南国会主席陈青敏 - 人民网",
-      "title_original": null,
-      "summary": "人民网发布时政消息称，王沪宁会见了越南国会主席陈青敏。这是中越两国近期高层交往的一项重要活动，此次会面有利于推动中越双方增进政治互信，深化各领域交流合作，夯实双边友好关系，促进中越关系持续健康稳定向前发展。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOU2J6cF82Q05NaEZ0eXA4RUQxMGVqODRNaDlpWm44c2lueWw4TTFmdVZuQ2dzNk0xSVZKaUU5N0R3SlU3OF91OTNXRUgxRU43LWF5TElnUXd3TUs1SVk3aTJkUkVpTnpjUkkyeFVWYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T11:01:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "90bfa044",
-      "title": "学习使用本地AI：兴奋、无措又挫败",
-      "title_original": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "作者此前一直对日常使用AI持犹豫态度，不愿将个人隐私数据交给云服务是最大阻碍。如今越来越多功能强大的AI模型可支持本地运行，作者终于开启了日常使用本地AI的体验，过程感受复杂，兼具兴奋、无措与挫败感。",
-      "summary_original": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-11T11:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "90bfa044",
-      "title": "学习使用本地AI：兴奋、茫然又挫败",
-      "title_original": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "作者此前始终犹豫，如今正式开启日常使用人工智能的体验。作者因顾虑隐私安全，不愿将个人敏感数据交给云服务，而当前功能强大的AI模型已支持本地运行，此次体验正是为探究这项技术的实际效用。",
-      "summary_original": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-10-11T11:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cd1ed8ee",
-      "title": "花茂人手艺高丨赓续长征精神 奋进复兴征程 - 中国经济网",
-      "title_original": null,
-      "summary": "多家中央主流媒体推出“赓续长征精神 奋进复兴征程”主题报道，聚焦贵州传承红色基因推进高质量发展，围绕花茂手工艺、“红军柚”产业、贵州铁塔数字赋能等内容，展现黔北革命老区依托红色资源推进振兴发展的生动实践。",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84a0trUkRjdGRFalJjeDN5T24tZUxsQmxHRmIwMFRBYm1WTG1GaTVaZlJsQTNZQzV0OWw2ckxjeEdXWDllQW40YnBNVVdXVF9KYndJZ0ZoSlZqUXpSc0o5RERlbGpfM2JkVzFsaEpGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-10-11T10:46:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f65095d5",
-      "title": "加拿大北极地区新一代因纽特创作者以身份为创作动力",
-      "title_original": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-      "summary": "加拿大北极地区唯一城市伊魁特，活跃着新一代因纽特文艺创作者。这群创作者将关于本土语言、土地、族群身份的思考，转化为书籍、电影乃至纹身等多种艺术作品，走出了一条根植于自身文化身份的创作路径。",
-      "summary_original": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-iqaluit-promo/00int-canada-iqaluit-ktbq-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T09:00:31+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ade94661",
-      "title": "一名俄罗斯间谍唯一的遗憾：‘我被抓了’",
-      "title_original": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "summary": "落网的俄罗斯间谍亚历山大出生于乌克兰，他本人支持俄罗斯的相关行动。落网后他坦言自己最大的遗憾就是身份暴露被捕，除此之外，他还十分后悔当初没有删掉手机里留存的一张照片。",
-      "summary_original": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
-      "image": "https://static01.nyt.com/images/2026/09/16/world/00int-ukraine-spy-tnao/00int-ukraine-spy-tnao-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T09:00:28+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "33ef2ae6",
-      "title": "记者重返中国：发现中国更富裕，但也高度偏执",
-      "title_original": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-      "summary": "一名离开中国数十年的记者重返中国后，看到当下中国已拥有便捷的高铁、亮眼的城市天际线，整体远比数十年前更加富裕；但他同时声称，如今中国的监控体系比以往更偏执，渗透范围也更广泛。",
-      "summary_original": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
-      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-china-higgins-01-jqkp/00int-china-higgins-01-jqkp-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-11T09:00:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9f6555df",
-      "title": "美国司法部就特朗普联合采访报道一事调查多家电视台",
-      "title_original": "US justice department investigates TV networks over Trump pool coverage",
-      "summary": "美国司法部正对多家电视台展开调查，调查围绕涉及特朗普的媒体联合采访报道相关事宜展开。此前白宫曾封锁CNN、MS Now及政治新闻网《政客》的采访准入权限，导致相关联合采访安排受到限制。",
-      "summary_original": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-10-11T05:05:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "05298e9b",
-      "title": "萨提亚·纳德拉称应假定所有AI模型都已‘受损’",
-      "title_original": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "微软首席执行官萨提亚·纳德拉在社交平台X发文，谈及高度先进人工智能模型带来的风险，他表示不应再将AI当作一系列嵌套黑箱、被动接受其建议与行动，提出应当假定所有AI模型都已受损，主动应对AI安全威胁。",
-      "summary_original": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-10T22:10:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "05298e9b",
-      "title": "萨提亚·纳德拉称应假定所有人工智能模型都“已遭破坏”",
-      "title_original": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "微软首席执行官萨提亚·纳德拉在社交平台X发布长帖，阐述了高度先进人工智能模型带来的风险，分享了应对相关风险的思路。他提出不应再将人工智能视作可直接接纳其建议行动的“嵌套黑箱”，需重视AI模型的安全问题。",
-      "summary_original": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-10-10T22:10:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a132e850",
-      "title": "微软萨提亚·纳德拉称AI模型需要‘紧急刹车’",
-      "title_original": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "微软首席执行官萨提亚·纳德拉在周六上午发布的帖文中提出，人工智能模型需要“紧急刹车”，同时表示当下应当退一步，对人工智能的信任架构展开评估，引发外界对AI安全发展的关注。",
-      "summary_original": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-10-10T21:47:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a132e850",
-      "title": "微软CEO萨提亚·纳德拉称AI模型需要“紧急刹车”",
-      "title_original": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "微软首席执行官萨提亚·纳德拉周六上午发文，提出人工智能模型需要设置“紧急刹车”。他表示，当下是时候退一步，对人工智能的信任架构进行评估，以更审慎的态度推进AI领域发展。",
-      "summary_original": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-10T21:47:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "719244ff",
-      "title": "苹果披露交易：从个性化播客初创公司Huxe雇佣团队并获取技术许可",
-      "title_original": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "苹果近日披露一项交易，将从个性化播客初创公司Huxe雇佣团队，并获取该公司的技术许可。该举动引发业界猜测，不少观点认为苹果有意进军AI生成播客领域。",
-      "summary_original": "Is Apple hoping to get into the AI-generated podcast business?",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-10-10T19:50:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "719244ff",
-      "title": "苹果披露交易：将从个性化播客初创公司Huxe雇佣团队并许可其技术",
-      "title_original": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "苹果近日披露一项交易，将从个性化播客初创公司Huxe雇佣团队，并获取该公司的技术许可。此举引发外界猜测，苹果有意布局人工智能生成播客领域，相关动向受到业界关注。",
-      "summary_original": "Is Apple hoping to get into the AI-generated podcast business?",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-10T19:50:00+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
     {
-      "id": "04951926",
-      "title": "71岁教皇利奥肺部检出增生物 将于本周接受切除手术",
-      "summary": "现年71岁的教皇利奥近期接受医学检查，在肺部发现增生物，经确认病灶处于发病早期，发现及时，整体情况较为乐观，诊疗医生已确定手术方案，将于本周为他实施增生物切除手术。",
+      "id": "fde67397",
+      "title": "东方汇理分支机构称伊朗战争结束将成印度转折点",
+      "summary": "国际知名资管机构东方汇理的研究部门认为，受高油价上涨、持续外资流出影响，印度股市此前遭遇了一轮大幅抛售，伊朗战争结束后，印度股市存在反弹空间。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "6fa136e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "6fa136e6",
+          "source": "Bloomberg",
+          "title": "东方汇理分支机构称伊朗战争结束将成印度转折点",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says",
+          "published_at": "2026-10-12T03:18:16+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T03:18:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0bbab044",
+      "title": "云顶集团因供股计划股价创1998年以来最大跌幅",
+      "summary": "由马来西亚亿万富豪林国泰掌控的休闲企业云顶集团，宣布计划通过可弃权供股，筹集约12.5亿林吉特（约合3.06亿美元）资金，消息公布后，云顶集团股价创下28年来最大跌幅。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d34c695f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d34c695f",
+          "source": "Bloomberg",
+          "title": "云顶集团因供股计划股价创1998年以来最大跌幅",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-12/genting-shares-tumble-most-since-1998-on-rights-issue-plan",
+          "published_at": "2026-10-12T03:07:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T03:07:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2f8bff36",
+      "title": "高油价、外资外流冲击下印度储备银行强化卢比防守：美元兑卢比",
+      "summary": "受国际原油价格高企、外资持续流出冲击，印度储备银行近期出手强化卢比汇率防守。市场最新预期显示，卢比汇率大概率将于周一出现上涨，但这一涨势后续难以持续。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8f480f8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8f480f8a",
+          "source": "Bloomberg",
+          "title": "高油价、外资外流冲击下印度储备银行强化卢比防守：美元兑卢比",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/rbi-tightens-rupee-defense-as-pricey-crude-foreign-outflows-bite-usd-inr",
+          "published_at": "2026-10-12T02:30:23+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T02:30:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f00e3b80",
+      "title": "受油价下跌及美元抛售影响 韩元触及两年高位",
+      "summary": "周一，韩元汇率大幅上涨，触及两年来新高。此次韩元升值主要得益于两方面因素：一是国际油价走低，二是韩国本土企业大举抛售美元，两大因素共同发力，推动韩元升至近两年最高水平。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0c183f92"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0c183f92",
+          "source": "Bloomberg",
+          "title": "受油价下跌及美元抛售影响 韩元触及两年高位",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-12/south-korean-won-hits-two-year-high-on-lower-oil-dollar-sales",
+          "published_at": "2026-10-12T02:20:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T02:20:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0fb326ae",
+      "title": "中国同意限制对欧盟混合动力汽车出口",
+      "summary": "欧盟称，在涵盖贸易、投资、知识产权领域的会谈后，中国已同意大幅削减对欧盟的混合动力汽车出口规模。这一消息源自彭博社，彭博社记者闵敏·罗将就该安排带来的相关影响展开讨论。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "6a21795d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "6a21795d",
+          "source": "Bloomberg",
+          "title": "中国同意限制对欧盟混合动力汽车出口",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-12/china-agrees-to-curb-hybrid-car-exports-to-eu-video",
+          "published_at": "2026-10-12T02:12:12+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T02:12:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01030fbc",
+      "title": "李强将出席第140届广交会开幕式及相关活动 - 新华网",
+      "summary": "第140届广交会即将开幕，李强将出席本届广交会开幕式及相关活动。本届广交会设置17个新兴未来产业专区，将展示硬核科技；相关部门推出便利通关措施保障展品进出，展会举办期间当地多路段将实施临时交通管制。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "19610ba6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "19610ba6",
+          "source": "Google News (中国)",
+          "title": "李强将出席第140届广交会开幕式及相关活动 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3N0cnFqa1UtWkl5Szh5b0FBU1ZMUzFGSzdrUHI0aHUydGZ3RWdKRjNKaWt1eUJGbGkta1VYZ2VLVGhUVjlBQVRSTTVtd3lMdHZ5ZmZsb2lLU1VBa0xLWDJteFpzVWtYak9fNDhPNzZhZl9ydl85RmlSLVBrb09FOXNBVG1adVJm?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-12T02:01:42+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T02:01:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31f0690d",
+      "title": "印度央行出手后 印度卢比离岸市场上涨",
+      "summary": "印度储备银行推出了自2013年缩减购债恐慌以来力度最强的一批提振卢比汇率的举措，相关措施落地后，印度卢比在离岸交易中实现上涨，这是印度央行为支撑本币汇率采取的强力动作。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5a5a6bdc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5a5a6bdc",
+          "source": "Bloomberg",
+          "title": "印度央行出手后 印度卢比离岸市场上涨",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
+          "published_at": "2026-10-12T01:44:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T01:44:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "25bfcc84",
+      "title": "中央气象台：冷空气继续影响北方 10月13日起南方有较强降雨过程 - 新京报",
+      "summary": "2026年10月12日中央气象台发布天气公报，冷空气正持续影响我国北方，北方将出现大范围降温降雨，内蒙古、东北局部降温幅度超10℃，今明天东北华北也将迎降温降雨；目前华南等地气温持续偏高，10月13日起南方将迎来较强降雨过程。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "34a29f33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "34a29f33",
+          "source": "Google News (中国)",
+          "title": "中央气象台：冷空气继续影响北方 10月13日起南方有较强降雨过程 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rX1YwREV2M1FydmZSamhZVXdGTTdFallpUzI2SzNGTDE5TTFDZEM1LURhX0xvN2tPb2lWUUs0OWNtcWM2OWw1MEJoTXpoUjgzXzJrdGhuM01NaWx0U19zOHY2VXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-12T01:11:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T01:11:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "64a0bdc4",
+      "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季 - 求是",
+      "summary": "求是推出《大道致远，笃行不怠——记中国元首外交金秋繁忙季》特稿，光明网于10月12日发布相关推送，人民论坛、香港01、四川日报等多家媒体也陆续刊出该主题相关内容，围绕中国元首外交相关动态展开报道与讨论。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "a48380b8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a48380b8",
+          "source": "Google News (中国)",
+          "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季 - 求是",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MdGpaVktjYUpmaFFmVjB3YXRWMVBfMFpFZTJUaDBqUUNDYUp3SDFMQ2xGOU82YU9ZaUxMOC1pZTV3d0JIZE4yb1k4S1lHN3hQNGtweW94Z2hMUUt0cnhSWmJtUHQyekd3M0d3ZGpsMnRidGlFX01WVjBQTl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-12T01:06:39+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T01:06:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "daa8f2fe",
+      "title": "2026年TechCrunch Disrupt大会即将开幕 核心议题聚焦AI时代企业打造",
+      "summary": "这场全球知名创投科技盛会将于10月13日在旧金山莫斯康西中心举办，面向创始人和投资者开放，核心议题为如何在AI时代打造经久不衰的企业，目前距开幕不足48小时，现有多重购票优惠，开幕后现场票价将上调。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
+      "article_ids": [
+        "d22291b6",
+        "c99af546",
+        "f1f724a5"
+      ],
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d22291b6",
+          "source": "TechCrunch",
+          "title": "2026年TechCrunch Disrupt大会创始人指南：你需要知道的一切",
+          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published_at": "2026-10-12T00:59:01+00:00"
+        },
+        {
+          "id": "c99af546",
+          "source": "TechCrunch",
+          "title": "距2026年TechCrunch Disrupt大会还有48小时 可直面未来科技缔造者",
+          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "published_at": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "id": "f1f724a5",
+          "source": "TechCrunch",
+          "title": "2026年TechCrunch Disrupt大会投资者指南：你需要知道的一切",
+          "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published_at": "2026-10-11T17:53:37+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T00:59:01+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "aae6d915",
+      "title": "土耳其外交部谴责胡塞武装袭击沙特机场--国际 - 人民网",
+      "summary": "胡塞武装接连袭击沙特境内多处机场，包括利雅得哈立德国王机场、达曼法赫德国王国际机场，袭击已造成至少13人死亡、300余人受伤，沙特公布了袭击现场监控视频，本次袭击引发也门战事升级担忧，土耳其外交部已公开谴责此次袭击行为。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "2aaf1c76"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2aaf1c76",
+          "source": "Google News (中国)",
+          "title": "土耳其外交部谴责胡塞武装袭击沙特机场--国际 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HQlp1aWR0RWpGNjBBa2xGX21lT2g0dG1RY0s2ODk4T05Qd2FLMXZ1VFNrdElObGVCcU9ObkJvb3kzSWFnbUlIN2RCWXN0aVFqWFBTYWhSXzlJbS04eGE5U2hVcnBnSzZxbEdj?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-12T00:34:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T00:34:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "63b879f3",
+      "title": "王沪宁会见越南国会主席陈青敏 - 中国共产党新闻网",
+      "summary": "王沪宁会见越南国会主席陈青敏，相关活动消息由中国共产党新闻网发布。本次会见有利于进一步巩固中越政治互信，深化两国各领域友好交往与务实合作，推动中越全面战略合作伙伴关系提质升级，助力构建中越命运共同体，更好惠及两国人民。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "55ba8d5a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "55ba8d5a",
+          "source": "Google News (中国)",
+          "title": "王沪宁会见越南国会主席陈青敏 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyb1NHU1RkY2FMaGFGUm1HODNPVWlMZ2c3aUhWMmJzTElTZkJiRlJEbWdPY1Y5TkJwaXZwOW5Md0hfREJWYWdqdVVGcDFDOTNPdFZFRmZSZnFfTVFWd2pGRExVWU56V0RxQ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-12T00:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-12T00:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6fd9476",
+      "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应称该说法是新闻",
+      "summary": "美国前总统特朗普宣称俄乌已达成“能源停火”，还公开敦促乌克兰更换总统。乌克兰总统泽连斯基回应称，该说法对自己而言是新闻，乌克兰选举是本国内政，相关言论引发各方分歧，欧洲多国明确表态支持乌克兰。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6ad8966f",
+        "48a7c499",
+        "52f8ce48"
+      ],
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6ad8966f",
+          "source": "Google News (中国)",
+          "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” - 中国经济网",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iUWQ4ODh5QnFJOTVrMUdaSW84YnhxeWZ3VkxXem1KSlFTUHhZXzRyckNXSVBNTE5mdHd3ekZxRHFyRDF2MkFSaUdzTGZVUFFGazBFb2hiYkVFWlJfZGttZ19rcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T23:36:00+00:00"
+        },
+        {
+          "id": "48a7c499",
+          "source": "Google News (中国)",
+          "title": "深圳新皇岗口岸正式开通运行；特朗普称俄乌双方同意“能源停火”｜21早新闻- 21经济网 - 21财经",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVcxQno0Wkl4X1NOQXZmZDdqUzV6TWcxaVdOajktb1dpUVNKNXVBYVVJSm5LdER5RUM4cEYzeGNvQy1lX0hkT1RMaURvM2RYanZhSzFUQWdYSGRPQkh0V0ZqcGxYNUloQnZiTkJFSmduOHhORnBjM2VzTkpDQ3FQU01aaVhFZ2tpai1ZdjJ1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T23:11:03+00:00"
+        },
+        {
+          "id": "52f8ce48",
+          "source": "Google News (中国)",
+          "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” - 新华网客户端",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1VVTFdrUWprejkzZ0c2eXlpSDlBUE9wdzJvNGNxYnZjdzMtVEZpRWFienMtaGo1bTdCcGFDV1pGZlljTTkyelV6aVNlTzJvLXd6bmZmaGJyVWlBUkl6ZTV5aHNJZzBmZTdlaEd4Z2ZJNmhYbW03bEVWX0NfU29vQnM2RFB1dlREOUxwTTNpNm1iUzhjVkYzWjZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T16:17:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T23:36:00+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "c0ced214",
+      "title": "长征路上这支“娃娃军”，何以被毛泽东盛赞“立下大功”（留言赠礼） - 京报网",
+      "summary": "多家主流媒体近期推出多种形式的长征主题内容，京报网聚焦探讨长征路上被毛泽东盛赞“立下大功”的“娃娃军”，其余各平台也分别推出寻迹长征旧址、阐释长征精神、文物见证伟大远征、播出长征主题纪录片等相关内容。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "3b894c11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3b894c11",
+          "source": "Google News (中国)",
+          "title": "长征路上这支“娃娃军”，何以被毛泽东盛赞“立下大功”（留言赠礼） - 京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwME9Db3QwOEMtcEkxVDJUQVlzTHNMZUcya0ZOTDVNODUyMWdYMnp1YXI5ZFlYelNzMk9LUWdqZUZ5ZW1QdlBKUXRuOERmQ3hlR3BKRHAtS1VadXlLcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T22:55:28+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T22:55:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b499dde5",
+      "title": "原油下跌股债期货走高：市场综述",
+      "summary": "沙特遭遇最新袭击，中东局势紧张，战事存在进一步扩大的风险，不过交易员并未过度担忧这一地缘风险的影响。当前原油价格延续下行走势，受此推动，股票期货与债券期货纷纷走高。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4bd1efd2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4bd1efd2",
+          "source": "Bloomberg",
+          "title": "原油下跌股债期货走高：市场综述",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+          "published_at": "2026-10-11T22:09:49+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T22:09:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7c8d533a",
+      "title": "10月12日最新石油市场消息与分析",
+      "summary": "本周初石油市场开局震荡，油价下跌。交易商正权衡多重影响油价的因素：目前中东石油供应保持稳定，但地区紧张局势升温，与此同时美国声称俄罗斯与乌克兰已达成所谓能源停火协议。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "843e2b35"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "843e2b35",
+          "source": "Bloomberg",
+          "title": "10月12日最新石油市场消息与分析",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
+          "published_at": "2026-10-11T22:08:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T22:08:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7a1035f3",
+      "title": "亚马逊的便宜货包含其自家股票",
+      "summary": "本新闻仅在标题明确披露，亚马逊的特惠商品当中包含该公司自身的股票，暂未在标题中给出更多与此相关的细节信息。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "7f8d4af8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "7f8d4af8",
+          "source": "The Information",
+          "title": "亚马逊的便宜货包含其自家股票",
+          "link": "https://www.theinformation.com/newsletters/the-briefing/amazons-bargains-include-stock",
+          "published_at": "2026-10-11T22:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T22:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc025c66",
+      "title": "“半条被子”和“半截皮带” - 人民日报",
+      "summary": "近期多家主流媒体聚焦湖南红色地标“半条被子”“半截皮带”相关红色资源，这些红色地标借助传播实现“出镜”又“出圈”。相关报道既回望长征初心、传承红色精神，也关注红色旅游带动地方民生发展，展现红色资源如何赋能百姓美好生活。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6554d6af"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6554d6af",
+          "source": "Google News (中国)",
+          "title": "“半条被子”和“半截皮带” - 人民日报",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MUxFTW5KVmtPZ3hiVUxFa05IaDJ3MEhLVE4ydmE1dkp0c3VCX2k4TFUxM1dTNnN4TkpfYWJVYTY5SXBabEUxd3pUeFFnYUhLTFVkN3VZYWFtWXRZOFlKT1FqQ3hJd0oxc3RQQjNORmpZNFBQTTh4Mm42SlV0RmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T22:00:38+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T22:00:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dd98ffca",
+      "title": "特朗普“能源停火”主张获泽连斯基欢迎 俄罗斯未作回应",
+      "summary": "特朗普提出“能源停火”主张后，乌克兰总统泽连斯基最初对此感到意外，随后明确表态，若俄罗斯同意该停火提议，乌方将予以支持。截至目前，俄罗斯方面尚未就这一主张作出公开回应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "a7255c68"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a7255c68",
+          "source": "BBC World",
+          "title": "特朗普“能源停火”主张获泽连斯基欢迎 俄罗斯未作回应",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T21:36:40+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a98b4b31",
+      "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+      "summary": "过去几年间，已有多份报道称苹果正在研发一款全新的智能家居产品。目前这款备受关注的新品已经确定了产品名称，也明确了发布日期，外界开始关注其能否成为苹果在智能家居领域的首款成功产品。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+      "article_ids": [
+        "26829619"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "26829619",
+          "source": "TechCrunch",
+          "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "published_at": "2026-10-11T21:14:40+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T21:14:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a98b4b31",
+      "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+      "summary": "过去几年来，已有多份报道称苹果正在研发全新智能家居产品。目前这款产品被曝已经确定了名称与发布时间，这款传闻名为HomeView的新品引发关注，外界热议它能否成为苹果首款成功的智能家居产品。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+      "article_ids": [
+        "26829619"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "26829619",
+          "source": "TechCrunch AI",
+          "title": "HomeView会成为苹果首款成功的智能家居产品吗？",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "published_at": "2026-10-11T21:14:40+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T21:14:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "070d421c",
+      "title": "人权组织称埃及苏丹边境袭击致数十名淘金者身亡",
+      "summary": "人权组织披露，埃及与苏丹边境一处手工采矿营地于周六遭遇袭击，事件造成数十名淘金者死亡。截至目前，埃及与苏丹两国均未对这起袭击事件作出任何公开回应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba0/live/1bc53450-c5b4-11f1-a838-01c3fd7e5e7d.jpg",
+      "article_ids": [
+        "2b53440d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2b53440d",
+          "source": "BBC World",
+          "title": "人权组织称埃及苏丹边境袭击致数十名淘金者身亡",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T21:12:44+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "214d3b0c",
+      "title": "如何让你的数据中心获批？像石油公司一样行事",
+      "summary": "本文围绕如何让数据中心获得审批这一问题展开，针对如何顺利通过审批，给出了应当像石油公司一样行事的建议。",
+      "category": "tech",
+      "image": null,
+      "article_ids": [
+        "14600a1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "14600a1e",
+          "source": "The Information",
+          "title": "如何让你的数据中心获批？像石油公司一样行事",
+          "link": "https://www.theinformation.com/newsletters/the-electric/get-data-center-approved-behave-like-oil-company",
+          "published_at": "2026-10-11T21:01:26+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T21:01:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17b170a3",
+      "title": "艾伦·索金新作《社会清算》开局疲软",
+      "summary": "知名影人艾伦·索金的新作《社会清算》开局表现疲软，今秋电影市场将集中推出多部以反派科技CEO为主角的影片，《社会清算》正是其中之一，它的不佳开局引发了业界对这批同题材新片整体市场前景的疑问。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/social-reckoning.jpg?resize=1200,800",
+      "article_ids": [
+        "c97aae4c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c97aae4c",
+          "source": "TechCrunch",
+          "title": "艾伦·索金新作《社会清算》开局疲软",
+          "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+          "published_at": "2026-10-11T20:51:47+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T20:51:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78d414c3",
+      "title": "伊利诺伊州一学院试图终止与Flock的合约遭拒",
+      "summary": "2025年4月，美国伊利诺伊州埃尔金社区学院为提升学生安全防护，安装了六台Flock安全摄像头。同年9月，校方因担忧Flock向海关边境保护部门共享数据、摄像头安防不达标，提出终止合作，遭到Flock拒绝。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "430c908a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "430c908a",
+          "source": "The Verge",
+          "title": "伊利诺伊州一学院试图终止与Flock的合约遭拒",
+          "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+          "published_at": "2026-10-11T20:06:43+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T20:06:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b397a0c",
+      "title": "习近平总书记引领健康中国建设 - 中国网",
+      "summary": "中国网推出《习近平总书记引领健康中国建设》相关主题报道，习近平总书记始终把人民健康放在优先发展的战略地位，亲自谋划部署、引领推动健康中国这一重大国家战略建设，持续推动我国卫生健康事业发展，不断增进全体人民的健康福祉。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b01d8120"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b01d8120",
+          "source": "Google News (中国)",
+          "title": "习近平总书记引领健康中国建设 - 中国网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fbGRwUTU3MG1Dbm1yeFIzdEg5N0hDSnZSQUhyNjhOdy1STUUzbUFmUlNWQUFUSDFwaFJHd3RDT1NKTkJMdDJwbEh1TGVVWGJnRHQxbG1CeGkzR0s3eTZGX1F3TGVpUUsxaldQN0syZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-11T19:17:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T19:17:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7d3f4e09",
+      "title": "婆罗洲毁灭性大火后 红毛猩猩被放归森林",
+      "summary": "今年夏季，婆罗洲爆发强度极高的野火，当地野生红毛猩猩的栖息地受到严重威胁，救援人员提前转移了受影响的红毛猩猩，如今这些红毛猩猩已被重新放归婆罗洲森林。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
+      "article_ids": [
+        "31e0d8e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "31e0d8e3",
+          "source": "BBC World",
+          "title": "婆罗洲毁灭性大火后 红毛猩猩被放归森林",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T19:08:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T19:08:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "49b6b9b7",
+      "title": "债券抛售或意味着全球央行加息次数减少",
+      "summary": "债券市场抛售推高了市场借贷成本，已开始为全球各国央行分担抑制通胀的调控工作，这一变化有望减少央行为控制通胀所需要实施的基准利率加息次数，有望放缓全球央行收紧货币政策的节奏。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "27762c42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "27762c42",
+          "source": "Bloomberg",
+          "title": "债券抛售或意味着全球央行加息次数减少",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
+          "published_at": "2026-10-11T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fd798485",
+      "title": "2026年TechCrunch Disrupt大会倒计时48小时：聆听未来构建者分享",
+      "summary": "2026年TechCrunch Disrupt大会将于不到48小时后，在美国旧金山莫斯康西中心开幕。当前购票可享最高100美元优惠，购买第二张门票可享五折，还有其他优惠福利，大会现场售票时票价将会上调。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "article_ids": [
+        "c99af546"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "c99af546",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会倒计时48小时：聆听未来构建者分享",
+          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "published_at": "2026-10-11T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0f238f4c",
+      "title": "硅谷配合特朗普给人工智能更名",
+      "summary": "美国总统特朗普宣布计划将人工智能更名为\"超级智能\"，外界原本普遍不看好这一更名能推广开来，目前多数普通民众仍沿用AI的原有称呼，但硅谷部分最具影响力的行业巨头已经表态配合特朗普推进这一更名工作。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "5e9f78f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5e9f78f7",
+          "source": "The Verge",
+          "title": "硅谷配合特朗普给人工智能更名",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "published_at": "2026-10-11T18:33:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0f238f4c",
+      "title": "硅谷顺应特朗普为人工智能更名的尝试",
+      "summary": "美国总统唐纳德·特朗普提出将人工智能更名为\"超级智能\"，外界原本不看好这一叫法能够推广普及。目前多数普通民众仍沿用\"AI\"的称呼，但硅谷部分最具影响力的势力已经顺应特朗普，配合推进这一更名计划。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "5e9f78f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "5e9f78f7",
+          "source": "The Verge AI",
+          "title": "硅谷顺应特朗普为人工智能更名的尝试",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "published_at": "2026-10-11T18:33:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2fe8a299",
+      "title": "新款Apple TV或将内置麦克风 升级遥控器将搭载扬声器",
+      "summary": "最新传闻显示，新款Apple TV将内置麦克风，配套升级后的遥控器将新增扬声器功能。内置麦克风可让用户无需对着遥控器或相连的HomePod发话，就能通过Siri控制该机顶盒，Apple TV也可因此拓展新的使用场景。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "28f23699"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "28f23699",
+          "source": "The Verge",
+          "title": "新款Apple TV或将内置麦克风 升级遥控器将搭载扬声器",
+          "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+          "published_at": "2026-10-11T17:31:07+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T17:31:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c202dc3d",
+      "title": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "summary": "波兰日前拘留一名涉嫌策划暗杀总理唐纳德·图斯克的男子。此前当地警方接到可靠情报，显示有人员计划对图斯克以及波兰国防部长发动袭击，相关事件的更多细节仍待进一步披露。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
+      "article_ids": [
+        "1fc29638"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1fc29638",
+          "source": "BBC World",
+          "title": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T17:27:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bbb19e4d",
+      "title": "教皇利奥将接受手术切除肺部增生物",
+      "summary": "教皇利奥对外公开宣布，近期完成的医学检查在其肺部发现一枚小结节，这就是本次需要切除的增生物，为其诊疗的医生已经确定方案，将于本周为他实施切除该增生物的手术。",
       "category": "world",
       "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-pope-lung-wzkc/11int-pope-lung-wzkc-mediumSquareAt3X.jpg",
       "article_ids": [
-        "8caee84a",
-        "03457503"
+        "8caee84a"
       ],
-      "article_count": 2,
-      "source_count": 2,
+      "article_count": 1,
+      "source_count": 1,
       "sources": [
-        "NYTimes World",
-        "BBC World"
+        "NYTimes World"
       ],
       "articles": [
         {
@@ -930,17 +1818,10 @@
           "title": "教皇利奥将接受手术切除肺部增生物",
           "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
           "published_at": "2026-10-11T16:52:50+00:00"
-        },
-        {
-          "id": "03457503",
-          "source": "BBC World",
-          "title": "教皇利奥肺部发现肿块 将接受手术",
-          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T13:38:55+00:00"
         }
       ],
       "published_at": "2026-10-11T16:52:50+00:00",
-      "is_merged": true
+      "is_merged": false
     },
     {
       "id": "6070d069",
@@ -1073,46 +1954,18 @@
       "is_merged": false
     },
     {
-      "id": "1236dd90",
-      "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” - 新华网客户端",
-      "summary": "美国前总统特朗普宣称俄乌已达成“能源停火”，引发多方分歧。乌克兰总统泽连斯基对这一说法表示质疑，称其是闻所未闻的“新闻”，美乌就此产生分歧。美俄相关柴油协议也遭到欧洲多国反对，英国、德国等明确表态支持乌克兰。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "id": "b8708436",
+      "title": "印度“蟑螂党”领导人获释 德里小规模抗议持续",
+      "summary": "印度青年运动组织“蟑螂人民党”的多名领导人，于周六在准备领导争取投票权的抗议活动前被警方拘留。目前这些领导人已获释，印度首都德里仍有相关小规模抗议活动持续进行。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-india-protests-hjkb/11int-india-protests-hjkb-mediumSquareAt3X.jpg",
       "article_ids": [
-        "52f8ce48"
+        "2d0f3d9f"
       ],
       "article_count": 1,
       "source_count": 1,
       "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "52f8ce48",
-          "source": "Google News (中国)",
-          "title": "特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” - 新华网客户端",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1VVTFdrUWprejkzZ0c2eXlpSDlBUE9wdzJvNGNxYnZjdzMtVEZpRWFienMtaGo1bTdCcGFDV1pGZlljTTkyelV6aVNlTzJvLXd6bmZmaGJyVWlBUkl6ZTV5aHNJZzBmZTdlaEd4Z2ZJNmhYbW03bEVWX0NfU29vQnM2RFB1dlREOUxwTTNpNm1iUzhjVkYzWjZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T16:17:24+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T16:17:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9005432c",
-      "title": "印度“蟑螂人民党”领导人获释 首都德里抗议持续部分人员被拘",
-      "summary": "印度青年运动组织“蟑螂人民党”多名领导人，筹备争取投票权的抗议前被警方拘留，随后获释。目前德里仍有相关抗议持续，获释领导人誓言继续抗争，数百名违反禁令上街的抗议者已全部被警方拘留。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-india-protests-hjkb/11int-india-protests-hjkb-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "2d0f3d9f",
-        "8e1ef5e7"
-      ],
-      "article_count": 2,
-      "source_count": 2,
-      "sources": [
-        "NYTimes World",
-        "BBC World"
+        "NYTimes World"
       ],
       "articles": [
         {
@@ -1121,17 +1974,10 @@
           "title": "印度“蟑螂党”领导人获释 德里小规模抗议持续",
           "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
           "published_at": "2026-10-11T16:16:44+00:00"
-        },
-        {
-          "id": "8e1ef5e7",
-          "source": "BBC World",
-          "title": "德里爆发更多抗议 获释“蟑螂组织”领导人誓言继续抗争",
-          "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T11:11:42+00:00"
         }
       ],
       "published_at": "2026-10-11T16:16:44+00:00",
-      "is_merged": true
+      "is_merged": false
     },
     {
       "id": "9580668b",
@@ -1547,890 +2393,6 @@
         }
       ],
       "published_at": "2026-10-11T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "af0f8592",
-      "title": "扎堆押注分散交易的对冲基金面临科技企业财报大考",
-      "summary": "美股当前陷入盘整惯性，股票期权交易者正期待市场打破僵局。目前科技企业财报披露恰逢美联储货币政策会议与美国中期选举同期举行，扎堆押注分散交易的对冲基金将受到科技财报的重大影响。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "6d7b9d52"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "6d7b9d52",
-          "source": "Bloomberg",
-          "title": "扎堆押注分散交易的对冲基金面临科技企业财报大考",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-11/tech-earnings-loom-large-for-hedge-funds-packed-into-dispersion-trade",
-          "published_at": "2026-10-11T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "fef1c8cd",
-      "title": "这些高管认为语音人工智能尚未迎来它的ChatGPT时刻",
-      "summary": "多名行业高管认为，当前语音人工智能尚未迎来属于它的\"ChatGPT时刻\"，尚未实现质变级的突破性发展。现有语音AI技术存在明显缺陷，常会在上下文处理环节遗漏关键信息，进而导致整条处理流程崩溃。",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-      "article_ids": [
-        "1b97ced3"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "1b97ced3",
-          "source": "TechCrunch AI",
-          "title": "这些高管认为语音人工智能尚未迎来它的ChatGPT时刻",
-          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-          "published_at": "2026-10-11T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "06c60fc2",
-      "title": "冲突升级：沙特机场遇袭致12人死亡",
-      "summary": "彭博社中东记者丹·威廉姆斯在节目中称，伊朗支持的也门胡塞武装袭击沙特利雅得国际机场，造成至少12人死亡、超300人受伤，该事件标志着沙特与胡塞武装的冲突大幅升级。威廉姆斯还就美国可能军事介入、沙特投资计划受威胁等议题展开讨论。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "a50f3cc9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "a50f3cc9",
-          "source": "Bloomberg",
-          "title": "冲突升级：沙特机场遇袭致12人死亡",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-kills-12-as-conflict-escalates-video",
-          "published_at": "2026-10-11T13:46:58+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:46:58+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "65dec22c",
-      "title": "顺便一提：你可能错过的新闻头条",
-      "summary": "彭博推出一档汇总被错过的新闻头条的节目，由丽莎·马泰奥、大卫·古拉、克里斯蒂娜·鲁菲尼主持，内容涵盖顶级金融公司五万美元暑期实习、高盛高管超五亿美元特别奖金、防虫护书的独特方法，以及青少年骑行高速电动车日益凸显的安全隐患。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "c2b4a651"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "c2b4a651",
-          "source": "Bloomberg",
-          "title": "顺便一提：你可能错过的新闻头条",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-11/by-the-way-headlines-you-may-have-missed-video",
-          "published_at": "2026-10-11T13:33:51+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:33:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "30adb2e2",
-      "title": "直接对半砍！欧盟拟限制中国混动车：每年降至40万辆 - 驱动之家",
-      "summary": "中欧刚完成贸易相关磋商后，传出欧盟拟对中国混动车进口实施年度配额限制，计划将进口量大幅砍半，压缩至每年40万辆。该消息引发各界关注，也凸显出欧盟在对华汽车贸易领域既离不开中国产业又心存戒备的两难处境。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "ba423361"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "ba423361",
-          "source": "Google News (中国)",
-          "title": "直接对半砍！欧盟拟限制中国混动车：每年降至40万辆 - 驱动之家",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZy1OX0gyTm15WE81d1FlRTVEbTBpa3U5cVVhUXdwdUlVWG1MbXBxZk9xb2VUOV83NGR3TFh4NkJHLXFxMnRvU2VDVm5iRUYyTnpZbERoTmw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T13:32:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:32:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b0024d8a",
-      "title": "预测市场的NFL热潮考验体育博彩规则",
-      "summary": "预测市场原本允许用户对美联储决议、流行文化等各类事项进行交易，以此开展业务。今年的橄榄球赛季显示，这类市场的增长很大程度依赖于博彩玩家更为熟悉的体育领域，其借NFL迎来的发展热潮也对现有体育博彩规则形成了考验。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "196e57a4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "196e57a4",
-          "source": "Bloomberg",
-          "title": "预测市场的NFL热潮考验体育博彩规则",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
-          "published_at": "2026-10-11T13:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3bbab241",
-      "title": "胡塞武装直击沙特野心核心 沙特几无应对选项",
-      "summary": "伊朗支持的也门胡塞武装对沙特阿拉伯首都的一处机场发动了三起致命袭击，此次事件凸显了胡塞与沙特之间冲突的不对称属性，面对直指自身核心利益的袭击，沙特目前可用的应对方案十分有限。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-saudi-assess-bvtm/11int-saudi-assess-bvtm-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "c4efcfd3"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "c4efcfd3",
-          "source": "NYTimes World",
-          "title": "胡塞武装直击沙特野心核心 沙特几无应对选项",
-          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-          "published_at": "2026-10-11T13:23:37+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:23:37+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "448adc80",
-      "title": "河北省气象台发布大雾黄色预警信号 - 河北广播电视台",
-      "summary": "河北省气象台发布大雾黄色预警信号，该预警相关资讯由河北广播电视台对外发布，对相关内容感兴趣的用户，可以前往Google新闻平台，查看河北广播电视台更新推出的更多头条新闻以及各类相关观点内容。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "e48f358e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "e48f358e",
-          "source": "Google News (中国)",
-          "title": "河北省气象台发布大雾黄色预警信号 - 河北广播电视台",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50eWItTUF3VFNrc0RXMndTd21DQ3VzQWtEbzZxc1JVR29IeG9uc05CdVg1VkRteFFhT2x3aFU2SEhlNWNyWlR6MGpHU3FxZFJQaU1sOUNBMGNRbEVxbW1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T13:23:25+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:23:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8925812f",
-      "title": "面对特朗普压力 泽连斯基指任何缓和局势步骤都须对等 德外长重申支持 - RFI",
-      "summary": "面对特朗普施加的压力，乌克兰总统泽连斯基明确表态，任何缓和俄乌局势的步骤都必须遵循对等原则。德国外长也在此重申，德国将继续对乌克兰提供支持，该消息来自法国国际广播电台RFI。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "9d371b7e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "9d371b7e",
-          "source": "Google News (中国)",
-          "title": "面对特朗普压力 泽连斯基指任何缓和局势步骤都须对等 德外长重申支持 - RFI",
-          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPTmMwRnJpRXlUNHJBRnVNTl9FRnlabkF4c2NxNE1najRuZU9xVWtjbUZzOElLTHZpZzQzOU5vUGlVdmFWTjZLaVk2YTc4NWt0U2ZLbDJEaWtFRXoyM0VjdjUyNjM0SW5nQUMwZm9lREU5bFFzU0FJRFFmOVFXaDIxQmVycERxTV9UUGdOYkNvUTdJazNwcWFiYTRuVy1vd3FTWVRUUW8yVnQ0akJmSkItdEpqYUMzTW1pT1J5SzdNT3UwSnFTRmdZOG90cFh3Z2hHaUNWMlRjbkJVT1BYUkt0REh5SDhjUEhqSkdKcHprcHZ3MHhYZmp3dTFuSENaamNHWXBKTXNsa3B4WkZacDNqSDE0dWhMYlQ1TllJOVVTa0lIeHZhX01WaUNSU0ZGZDNPR2x6Q2F1endjbWNqSVFQX3RIencyUnJGT3hqZ19DdUpqZU8wMkowS0pHa2xJWXN6ZV91ZkljbmJoUkRKN25EcWZSZTNGV003M19Sa0p1aWJHek5vQkRkSV9BcHpuLUw1T2hTbWJrSkhxcXdON0tmUzdjNlJJTDdBVWdKY0lHdExnMGtlMEJTbUZ1dExINkZvYnJwRmdJN0gwQlY1dTNlaWVWZkI5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T13:17:07+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:17:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "85cf4a57",
-      "title": "沃特呼吁将竖屏视频视作独立视频类型",
-      "summary": "迪士尼+、HBO Max等几乎所有主流成熟流媒体平台目前都在试水竖屏内容，这类传统流媒体将TikTok、Instagram等主打视频的社交平台视作生存威胁，业内正展开争夺用户注意力的竞争，机构沃特呼吁将竖屏视频归为独立视频类型。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0918.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "b262e7a8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "b262e7a8",
-          "source": "The Verge",
-          "title": "沃特呼吁将竖屏视频视作独立视频类型",
-          "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-          "published_at": "2026-10-11T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "94f392d1",
-      "title": "苹果“欢迎回家”发布会看点前瞻",
-      "summary": "苹果“欢迎回家”新品发布会临近，本次预计推出一系列智能家居相关新品，涵盖更新迭代的Apple TV、HomePod mini，以及一款全新智能家居网关，还有可能首次推出全新的homeOS平台，以及部分合作品牌的相关设备。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/appleevent.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "f583f0b7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "f583f0b7",
-          "source": "The Verge",
-          "title": "苹果“欢迎回家”发布会看点前瞻",
-          "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "published_at": "2026-10-11T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "fc7c04c0",
-      "title": "坚持人民至上、生命至上——习近平总书记引领健康中国建设 - 新华网",
-      "summary": "新华网刊发题为《坚持人民至上、生命至上——习近平总书记引领健康中国建设》的报道，聚焦习近平总书记始终秉持人民至上、生命至上的理念，引领我国持续推进健康中国建设，彰显我国把人民生命健康放在优先发展位置的坚定立场。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "5050f210"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "5050f210",
-          "source": "Google News (中国)",
-          "title": "坚持人民至上、生命至上——习近平总书记引领健康中国建设 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1RFMzZ0dmWTltNmZFOXF0UW1nbTFaLURkTEZ0SUlyWC13NjVfVkZ6RXBtNUx6a21kNXFlUkdWME1WQmpvY3FqNEFTYTQ1TFNmcEJFeVp0d0t5bGNla2F4Ui1PNTl1a1hTMUV6LXhIZ3RlbEpHNHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T12:56:06+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:56:06+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e271bdf6",
-      "title": "透视意大利变革中的政治与教廷",
-      "summary": "前《纽约时报》罗马分社社长、记者杰森·霍洛维茨做客彭博社《周末》节目，分享其驻意25年报道中亲历梵蒂冈事务、教宗更迭与意大利政治演变的见闻。他结合新回忆录《意大利任务》指出，从贝卢斯科尼到梅洛尼的意大利政治实践，可为观察全球趋势提供参考。",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "972f697a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "972f697a",
-          "source": "Bloomberg",
-          "title": "透视意大利变革中的政治与教廷",
-          "link": "https://www.bloomberg.com/news/videos/2026-10-11/inside-italy-s-changing-politics-and-papacy-video",
-          "published_at": "2026-10-11T12:45:11+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:45:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9023d5a7",
-      "title": "南京退役老兵19次重走长征路，进校园宣讲用“三个画面”打动孩子 - 紫牛新闻",
-      "summary": "南京一名退役老兵19次重走长征路，走进校园开展红色宣讲，以结合自身体悟凝练出的“三个画面”打动青少年。当下多家媒体聚焦长征精神传承主题，推出相关报道，讲好长征故事，弘扬革命精神，赓续红色薪火。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "650a560b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "650a560b",
-          "source": "Google News (中国)",
-          "title": "南京退役老兵19次重走长征路，进校园宣讲用“三个画面”打动孩子 - 紫牛新闻",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjVzhRSkowOHNYVGJOdjlzT05qT21PQ1o4Z2Mzc1g5bVljdzJ4WlpKM012UVhzVkFZVHo0dUJPdHNsRWN4UVZvbUFaU296bnlDUTBpZ0oxWng2QzRXeVRDWmVsZ1pKbXhmNDRuMUFoZ3BnQkR3RW9IT3lR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T12:18:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:18:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "36e23207",
-      "title": "特朗普促乌克兰\"换总统\"　泽连斯基开出对等停火条件 - DW.com",
-      "summary": "近期汇集多项热点资讯，国际方面，特朗普公开要求乌克兰更换总统，泽连斯基提出对等停火条件；美国财长贝森特称特朗普政府获法律授权落实对俄柴油供应协议，印度不满美国对俄能源交易的双重标准。国内方面，凌卫出任江西省委宣传部副部长、省文旅厅党组书记。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "30364d9a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "30364d9a",
-          "source": "Google News (中国)",
-          "title": "特朗普促乌克兰\"换总统\"　泽连斯基开出对等停火条件 - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLWJENk1MNERyZzBwTDZNZWZCUHVhOHh3eXZSbkZ3NWtoRnk4RTNRTkVTYS0wMEdvYk82Zjk5cmgwX1NFbkhFZTNHVldzZHpYem00ZkdZSExaaTU3OEktZzhfMk4tZkEzZFRuZ2FOZFV4ckRuMmxVZ1ZMbnQ4Ym5LZDRBRTZkb3dGdmMxY19KR1FCR0FxT1V3SkZrWmxGQXp0TDU0RlprLVRIUFN0clhVMEZPQTN5OGlvWkhsZ2g1VXVXSkZJUXJucW1EUDJjakN6eE1CdVBLSURJQVZoZGt6TkF4NlhJUHJTLW9ueWMycGtPS29oclZHT1JRa0JORGYwQ1hRY2RpbEtOUExkX2o2dDZsTzhMZ2Z5eXpNbGZWMEhLWXRTTnRTOHU2c2puY1p6U0tjZThhMlloN0JveHMyZGc0Z2Njam94MTZEVzUyUV_SAdACQVVfeXFMUEh1bl9HX0tuTU9sb2pWX3dJZDUxY3ctRlVUVm9nRVp2d3EwWXhfeGk0c0JMaGRTNHZFd1hCWUp5M0hrUnI1cDE4UUI0TnhhSjhRWURPOE80V0Y4bjc1TWk2eWZVQnRfRTVPS1hIZklzYy1lUjhqRWhvMmhOLUJxemk3REUwYmtHaF9HMm9RUi1sSmdVUFpLR3JrV09JVkJFSDJxNWdOLWhvaG1yMUpJaEV5ZmhPWXk2X1hfR3YybVo4clFyeWlwSDU5ZzJuUjI4dGdnZjE5UHNhc1VOc3NOSnd0d3o4eFQtaGhkUS13UGFIZ0hHZkI1ZTREV3F6bV9Scnc5QU9mWlVSdHVSQmROYmcyWm1xbzQ4WHJIQV9RUk05SXBMSFlXS0JqdDhpU2trTF9uS2ZuZXIycnhNMk9YQTM5ZWtnSk9xU21WLVd3RHFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T12:10:15+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:10:15+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "abcad215",
-      "title": "新一轮洪水袭击尼泊尔 房屋桥梁被冲毁",
-      "summary": "尼泊尔近日遭遇新一轮洪水，多地房屋、桥梁被洪水冲毁。不到两个月前，尼泊尔刚刚发生过一场灾难性洪水，已造成数千人死亡或失踪，该国目前仍处于这场灾害的恢复阶段。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg",
-      "article_ids": [
-        "99c9e85f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "99c9e85f",
-          "source": "BBC World",
-          "title": "新一轮洪水袭击尼泊尔 房屋桥梁被冲毁",
-          "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T12:03:52+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:03:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7746d922",
-      "title": "恐怖题材已是一门大生意",
-      "summary": "科技领域每周通讯《回望》主打深度解析行业核心事件，本期聚焦恐怖题材当下的行业渗透情况，开篇提及《生化危机》系列诞生已满30年。通讯每周日美国东部时间早8点推送至订阅邮箱，读者可自行订阅，关注Andrew Webster即可了解更多内容。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "ae8676b8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "ae8676b8",
-          "source": "The Verge",
-          "title": "恐怖题材已是一门大生意",
-          "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-          "published_at": "2026-10-11T12:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b93e3202",
-      "title": "为何LeapPad没能在iPad冲击下存活",
-      "summary": "LeapPad曾连续多年是美国最热门的产品，它是一款可发声、响应触控，帮助儿童学习阅读的智能学习设备，获得多数家长认可，可这款产品定价偏高，最终没能在iPad的市场竞争中存活下来。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRH_Leappad_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "8a63f4e8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "8a63f4e8",
-          "source": "The Verge",
-          "title": "为何LeapPad没能在iPad冲击下存活",
-          "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-          "published_at": "2026-10-11T12:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T12:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "53253708",
-      "title": "加沙废墟中苦寻希望",
-      "summary": "2023年10月7日哈马斯发动袭击后，以色列对加沙开战，去年10月达成的停火名义上结束了这场战事。停火满一年之际，尽管以色列对加沙的打击频次有所降低，但相关军事行动从未完全停止，加沙仍战火未熄，民众只能在残垣中追寻希望。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22Gaza-ceasefire-anniversary-05-hjvz/22Gaza-ceasefire-anniversary-05-hjvz-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "1e6e0a6a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "1e6e0a6a",
-          "source": "NYTimes World",
-          "title": "加沙废墟中苦寻希望",
-          "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-          "published_at": "2026-10-11T11:25:54+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T11:25:54+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "05dd3601",
-      "title": "印度抗议活动要点须知",
-      "summary": "针对选民登记册全面修订的分散抗议活动于周日在印度新德里爆发。此前警方应对前期抗议时，已出动规模超乎寻常的警力，此次新抗议的爆发引发各界对印度国内社会局势的关注。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10india-protests-What-We-Know-qhcm/10india-protests-What-We-Know-qhcm-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "2182d2cb"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "2182d2cb",
-          "source": "NYTimes World",
-          "title": "印度抗议活动要点须知",
-          "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-          "published_at": "2026-10-11T11:24:43+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T11:24:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e3f6fd7f",
-      "title": "王沪宁会见越南国会主席陈青敏 - 人民网",
-      "summary": "人民网发布时政消息称，王沪宁会见了越南国会主席陈青敏。这是中越两国近期高层交往的一项重要活动，此次会面有利于推动中越双方增进政治互信，深化各领域交流合作，夯实双边友好关系，促进中越关系持续健康稳定向前发展。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "d5795612"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "d5795612",
-          "source": "Google News (中国)",
-          "title": "王沪宁会见越南国会主席陈青敏 - 人民网",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOU2J6cF82Q05NaEZ0eXA4RUQxMGVqODRNaDlpWm44c2lueWw4TTFmdVZuQ2dzNk0xSVZKaUU5N0R3SlU3OF91OTNXRUgxRU43LWF5TElnUXd3TUs1SVk3aTJkUkVpTnpjUkkyeFVWYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T11:01:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T11:01:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "79e8bba7",
-      "title": "学习使用本地AI：兴奋、无措又挫败",
-      "summary": "作者此前一直对日常使用AI持犹豫态度，不愿将个人隐私数据交给云服务是最大阻碍。如今越来越多功能强大的AI模型可支持本地运行，作者终于开启了日常使用本地AI的体验，过程感受复杂，兼具兴奋、无措与挫败感。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "90bfa044"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "90bfa044",
-          "source": "The Verge",
-          "title": "学习使用本地AI：兴奋、无措又挫败",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "published_at": "2026-10-11T11:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T11:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "79e8bba7",
-      "title": "学习使用本地AI：兴奋、茫然又挫败",
-      "summary": "作者此前始终犹豫，如今正式开启日常使用人工智能的体验。作者因顾虑隐私安全，不愿将个人敏感数据交给云服务，而当前功能强大的AI模型已支持本地运行，此次体验正是为探究这项技术的实际效用。",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "90bfa044"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "90bfa044",
-          "source": "The Verge AI",
-          "title": "学习使用本地AI：兴奋、茫然又挫败",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "published_at": "2026-10-11T11:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T11:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "75ab3bf7",
-      "title": "花茂人手艺高丨赓续长征精神 奋进复兴征程 - 中国经济网",
-      "summary": "多家中央主流媒体推出“赓续长征精神 奋进复兴征程”主题报道，聚焦贵州传承红色基因推进高质量发展，围绕花茂手工艺、“红军柚”产业、贵州铁塔数字赋能等内容，展现黔北革命老区依托红色资源推进振兴发展的生动实践。",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "cd1ed8ee"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "cd1ed8ee",
-          "source": "Google News (中国)",
-          "title": "花茂人手艺高丨赓续长征精神 奋进复兴征程 - 中国经济网",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84a0trUkRjdGRFalJjeDN5T24tZUxsQmxHRmIwMFRBYm1WTG1GaTVaZlJsQTNZQzV0OWw2ckxjeEdXWDllQW40YnBNVVdXVF9KYndJZ0ZoSlZqUXpSc0o5RERlbGpfM2JkVzFsaEpGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-11T10:46:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T10:46:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "032d1a0a",
-      "title": "加拿大北极地区新一代因纽特创作者以身份为创作动力",
-      "summary": "加拿大北极地区唯一城市伊魁特，活跃着新一代因纽特文艺创作者。这群创作者将关于本土语言、土地、族群身份的思考，转化为书籍、电影乃至纹身等多种艺术作品，走出了一条根植于自身文化身份的创作路径。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-iqaluit-promo/00int-canada-iqaluit-ktbq-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "f65095d5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "f65095d5",
-          "source": "NYTimes World",
-          "title": "加拿大北极地区新一代因纽特创作者以身份为创作动力",
-          "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-          "published_at": "2026-10-11T09:00:31+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T09:00:31+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "43f80bda",
-      "title": "一名俄罗斯间谍唯一的遗憾：‘我被抓了’",
-      "summary": "落网的俄罗斯间谍亚历山大出生于乌克兰，他本人支持俄罗斯的相关行动。落网后他坦言自己最大的遗憾就是身份暴露被捕，除此之外，他还十分后悔当初没有删掉手机里留存的一张照片。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/09/16/world/00int-ukraine-spy-tnao/00int-ukraine-spy-tnao-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "ade94661"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "ade94661",
-          "source": "NYTimes World",
-          "title": "一名俄罗斯间谍唯一的遗憾：‘我被抓了’",
-          "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-          "published_at": "2026-10-11T09:00:28+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T09:00:28+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9e3ff150",
-      "title": "记者重返中国：发现中国更富裕，但也高度偏执",
-      "summary": "一名离开中国数十年的记者重返中国后，看到当下中国已拥有便捷的高铁、亮眼的城市天际线，整体远比数十年前更加富裕；但他同时声称，如今中国的监控体系比以往更偏执，渗透范围也更广泛。",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-china-higgins-01-jqkp/00int-china-higgins-01-jqkp-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "33ef2ae6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "33ef2ae6",
-          "source": "NYTimes World",
-          "title": "记者重返中国：发现中国更富裕，但也高度偏执",
-          "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-          "published_at": "2026-10-11T09:00:12+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T09:00:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "811365ff",
-      "title": "美国司法部就特朗普联合采访报道一事调查多家电视台",
-      "summary": "美国司法部正对多家电视台展开调查，调查围绕涉及特朗普的媒体联合采访报道相关事宜展开。此前白宫曾封锁CNN、MS Now及政治新闻网《政客》的采访准入权限，导致相关联合采访安排受到限制。",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg",
-      "article_ids": [
-        "9f6555df"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "9f6555df",
-          "source": "BBC World",
-          "title": "美国司法部就特朗普联合采访报道一事调查多家电视台",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T05:05:43+00:00"
-        }
-      ],
-      "published_at": "2026-10-11T05:05:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "99b3296d",
-      "title": "萨提亚·纳德拉称应假定所有AI模型都已‘受损’",
-      "summary": "微软首席执行官萨提亚·纳德拉在社交平台X发文，谈及高度先进人工智能模型带来的风险，他表示不应再将AI当作一系列嵌套黑箱、被动接受其建议与行动，提出应当假定所有AI模型都已受损，主动应对AI安全威胁。",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "05298e9b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "05298e9b",
-          "source": "The Verge",
-          "title": "萨提亚·纳德拉称应假定所有AI模型都已‘受损’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "published_at": "2026-10-10T22:10:17+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T22:10:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "99b3296d",
-      "title": "萨提亚·纳德拉称应假定所有人工智能模型都“已遭破坏”",
-      "summary": "微软首席执行官萨提亚·纳德拉在社交平台X发布长帖，阐述了高度先进人工智能模型带来的风险，分享了应对相关风险的思路。他提出不应再将人工智能视作可直接接纳其建议行动的“嵌套黑箱”，需重视AI模型的安全问题。",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "05298e9b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "05298e9b",
-          "source": "The Verge AI",
-          "title": "萨提亚·纳德拉称应假定所有人工智能模型都“已遭破坏”",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "published_at": "2026-10-10T22:10:17+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T22:10:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "916cb076",
-      "title": "微软萨提亚·纳德拉称AI模型需要‘紧急刹车’",
-      "summary": "微软首席执行官萨提亚·纳德拉在周六上午发布的帖文中提出，人工智能模型需要“紧急刹车”，同时表示当下应当退一步，对人工智能的信任架构展开评估，引发外界对AI安全发展的关注。",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "article_ids": [
-        "a132e850"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "a132e850",
-          "source": "TechCrunch",
-          "title": "微软萨提亚·纳德拉称AI模型需要‘紧急刹车’",
-          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-          "published_at": "2026-10-10T21:47:51+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T21:47:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "916cb076",
-      "title": "微软CEO萨提亚·纳德拉称AI模型需要“紧急刹车”",
-      "summary": "微软首席执行官萨提亚·纳德拉周六上午发文，提出人工智能模型需要设置“紧急刹车”。他表示，当下是时候退一步，对人工智能的信任架构进行评估，以更审慎的态度推进AI领域发展。",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "article_ids": [
-        "a132e850"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "a132e850",
-          "source": "TechCrunch AI",
-          "title": "微软CEO萨提亚·纳德拉称AI模型需要“紧急刹车”",
-          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-          "published_at": "2026-10-10T21:47:51+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T21:47:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e225ef21",
-      "title": "苹果披露交易：从个性化播客初创公司Huxe雇佣团队并获取技术许可",
-      "summary": "苹果近日披露一项交易，将从个性化播客初创公司Huxe雇佣团队，并获取该公司的技术许可。该举动引发业界猜测，不少观点认为苹果有意进军AI生成播客领域。",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "article_ids": [
-        "719244ff"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "719244ff",
-          "source": "TechCrunch",
-          "title": "苹果披露交易：从个性化播客初创公司Huxe雇佣团队并获取技术许可",
-          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "published_at": "2026-10-10T19:50:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T19:50:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e225ef21",
-      "title": "苹果披露交易：将从个性化播客初创公司Huxe雇佣团队并许可其技术",
-      "summary": "苹果近日披露一项交易，将从个性化播客初创公司Huxe雇佣团队，并获取该公司的技术许可。此举引发外界猜测，苹果有意布局人工智能生成播客领域，相关动向受到业界关注。",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-      "article_ids": [
-        "719244ff"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "719244ff",
-          "source": "TechCrunch AI",
-          "title": "苹果披露交易：将从个性化播客初创公司Huxe雇佣团队并许可其技术",
-          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "published_at": "2026-10-10T19:50:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-10T19:50:00+00:00",
       "is_merged": false
     }
   ]
