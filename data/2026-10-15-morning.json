@@ -1,0 +1,2454 @@
+{
+  "date": "2026-10-15",
+  "edition": "morning",
+  "updated_at": "2026-10-15T00:41:53.105074+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "d99057e6",
+      "title": "微软推出可提升天气预报准确率的新型机器学习工具",
+      "title_original": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "summary": "传统基于物理原理的天气预报及现有AI模型，在预报时长超过两周后准确率都会下降。微软称已通过机器学习解决该问题，研发出经济高效的新方法，可提前2至6周做出更准确的天气预报，可为农民、应急响应人员等群体提供支持。",
+      "summary_original": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T16:05:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d99057e6",
+      "title": "微软推出可改进天气预报的新型机器学习工具",
+      "title_original": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "summary": "传统基于物理模型的天气预报及现有AI模型，预报时长超过两周后准确率通常会大幅下降。微软称已通过机器学习解决该问题，研发出经济高效的新方案，可提前2至6周输出更精准预报，能为农户、应急响应人员提供支持。",
+      "summary_original": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-14T16:05:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6d6d1a3f",
+      "title": "如今无需对方拥有WhatsApp，即可通过WhatsApp呼叫任何人",
+      "title_original": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
+      "summary": "Meta旗下通讯工具WhatsApp推出全新访客呼叫功能，用户仅需发送通话链接即可邀请他人通话，受邀者无需提前注册账号，也无需安装应用，今年WhatsApp已新增网页端通话支持功能。",
+      "summary_original": "WhatsApp's new guest calling feature allows you to invite anyone to a call, without needing them to make an account first. They won't need the app, either, since Meta also added support for calls on the web version of WhatsApp earlier this year. You can invite guests just by sending them the call link, and [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T16:03:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ac817819",
+      "title": "麦克奈特：信贷领域，波动即机遇",
+      "title_original": "In Credit, Volatility Is An Opportunity: McKnight",
+      "summary": "福蒂斯投资集团联合首席执行官兼管理合伙人德鲁·麦克奈特，在加州比弗利山举办的CAIS峰会上，做客彭博社《彭博交易》节目，与主持人丹妮·伯格讨论了数据中心所需巨额资金、私募信贷投资表现，以及经济压力下潜在的违约与重组问题。",
+      "summary_original": "Drew McKnight, Co-CEO and managing partner of Fortress Investment Group, joins Dani Burger on \"Bloomberg Deals.\" They speak CAIS Summit in Beverly Hills, California about the immense capital needed for data centers, the performance of private credit investments, and the potential defaults and restructurings due to stresses in the economy. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-14/in-credit-volatility-is-an-opportunity-mcknight-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5e32e13f",
+      "title": "Prismm助力银行留存继承资金",
+      "title_original": "Prismm helps banks keep inherited money in-house",
+      "summary": "金融工具Prismm支持银行账户持有人提前向指定家庭成员开放自身账户及相关文件的访问权限，可解决户主离世后的继承流程痛点，帮助银行将原本可能外流的客户继承资金保留在本行体系内。",
+      "summary_original": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4a6f042a",
+      "title": "斯奎尔新型点餐亭支持AI语音协助点单",
+      "title_original": "Square’s new kiosk lets you talk to AI for help with your order",
+      "summary": "科技企业斯奎尔推出一款名为Square Kiosk的新型自助点餐硬件，设备为药丸造型，配有触摸屏，内置具备会话能力的AI语音层，可完整掌握商家菜单，能实时倾听回应顾客需求，协助完成点单。",
+      "summary_original": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dddc82c4",
+      "title": "安卓将借助AI识别谷歌信息中的诈骗分子",
+      "title_original": "Android is using AI to suss out scammers in Google Messages",
+      "summary": "安卓将推出全新移动端诈骗防御功能，帮助用户规避移动欺诈风险，相关功能涵盖谷歌信息应用的防护升级及新增安全防护工具。在原有诈骗检测功能基础上，依托云端AI技术的全新“增强防护”设置，将于未来几周推送上线。",
+      "summary_original": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4a6f042a",
+      "title": "Square新款自助点餐机支持AI对话协助下单",
+      "title_original": "Square’s new kiosk lets you talk to AI for help with your order",
+      "summary": "支付服务商Square推出全新硬件产品Square Kiosk，这是一款药丸造型的大尺寸自助点餐终端，配有触控屏幕，搭载对话式语音AI，可完整掌握商家菜单，能够实时倾听并响应用户需求，辅助用户完成点餐。",
+      "summary_original": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dddc82c4",
+      "title": "安卓将利用人工智能识别谷歌消息中的诈骗分子",
+      "title_original": "Android is using AI to suss out scammers in Google Messages",
+      "summary": "安卓推出全新移动诈骗防御功能，旨在帮助用户更轻松规避移动诈骗，新功能涵盖谷歌消息的强化防护与额外安全工具，在原有诈骗检测功能基础上，依托云端技术的AI增强保护设置将于未来几周推送上线。",
+      "summary_original": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "af104aea",
+      "title": "星链受限俄方升级行动 乌克兰脆弱性加剧",
+      "title_original": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+      "summary": "俄罗斯升级对乌攻势，发动大规模袭击造成乌克兰首都基辅60万人断电。由美国五角大楼资助的星链卫星互联网项目突然无预警遭到限制，乌克兰处境愈发危险脆弱，防御层面的弱势进一步凸显。",
+      "summary_original": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:52:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d78ca3c2",
+      "title": "土耳其突袭亲反对派电视台",
+      "title_original": "Turkey Raids Pro-Opposition TV Station",
+      "summary": "土耳其政府向该国最后一家反对总统雷杰普·塔伊普·埃尔多安的大型新闻频道指派监管人，对这家亲反对派媒体实施管控。截至目前，土耳其当局已经完成对境内五家主要新闻机构的领导层更换，相关管控动作针对反对派背景媒体。",
+      "summary_original": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-turkey-TV-wcht/14int-turkey-TV-wcht-mediumSquareAt3X-v2.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:48:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31d7e3c5",
+      "title": "利奥教皇术后康复 罗马医院获大量支持寄语",
+      "title_original": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "summary": "71岁的利奥教皇在手术中被查出肺癌，目前正在罗马的医院接受术后康复治疗，预计将住院一周左右，来自世界各地的大量支持寄语正源源不断涌向医院，人们纷纷为教皇送上祝福。",
+      "summary_original": "The pontiff, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer. Messages of support have flooded in from far and wide.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-dispatch-gkmj/14int-pope-dispatch-gkmj-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:42:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5fadc14d",
+      "title": "泽连斯基访问英国 乌克兰就情报共享向盟友施压",
+      "title_original": "Zelensky Visits U.K. as Ukraine Presses Allies on Intelligence Sharing",
+      "summary": "乌克兰正就情报共享问题向盟友施压，在此期间乌总统泽连斯基访问英国。泽连斯基表示，乌克兰并未从合作伙伴处获得关于俄罗斯发动袭击的提前预警，美国前总统特朗普称，美国方面仍在对乌共享情报。",
+      "summary_original": "President Volodymyr Zelensky said Ukraine had received “no early warning from our partners” about Russian attacks. President Trump has said Washington is still “sharing intel.”",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-Europe-Intel-Zelensky-czfh/14int-Europe-Intel-Zelensky-czfh-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:38:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8ffad73d",
+      "title": "CoreWeave债券暴跌陷入困境 引得马斯克喊出“天呐”",
+      "title_original": "CoreWeave Bonds Tumble Into Distress, Drawing ‘Yikes’ From Musk",
+      "summary": "CoreWeave公司的债券大幅跳水，跌至市场通常认为预示债务困境的水平，这一骤变来得十分迅速，引发了包括查马斯·帕里哈皮蒂亚、埃隆·马斯克在内的多位硅谷领军人物的关注。",
+      "summary_original": "CoreWeave Inc.’s bonds have plunged to levels that typically indicate distress, in a swift move that has caught the attention of Silicon Valley leaders including Chamath Palihapitiya and Elon Musk.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T15:29:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5999d605",
+      "title": "国际能源署称阿联酋九月石油产量飙升至历史新高",
+      "title_original": "UAE Oil Production Surged to Records in September, IEA Says",
+      "summary": "国际能源署表示，阿联酋九月份石油产量攀升至历史新高，这既凸显出该国在伊朗冲突局势下的石油供应韧性，也体现出摆脱OPEC+产量限制后，该国石油产能得到进一步释放。",
+      "summary_original": "Oil output from the United Arab Emirates climbed to record levels last month, the International Energy Agency said, underscoring its resilience during the Iran war and liberation from OPEC+ limits.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/uae-oil-production-surged-to-records-in-september-iea-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T15:27:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6f43a6d2",
+      "title": "美国通胀涨幅超预期 当前物价走势分析",
+      "title_original": "US inflation rises more than expected - here's what is happening with prices",
+      "summary": "最新公布的数据显示，截至今年9月，美国通货膨胀同比涨幅升至3.7%，这一涨幅超出市场此前普遍预期。本次美国通胀涨幅超预期主要受机动车燃料成本上升推动，直接拉高了美国整体物价的上涨速度。",
+      "summary_original": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:26:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0436ab56",
+      "title": "Anthropic自我复制AI警告：令人不安的似曾相识",
+      "title_original": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "summary": "人工智能公司Anthropic发出警告，尽管冰箱、电视等各类智能设备不会主动联手控制互联网，但这些设备未来可能无意中成为自我复制AI模型的宿主，这类可在设备间传播的AI模型极难遏制，引发AI安全层面的担忧。",
+      "summary_original": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T15:19:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0436ab56",
+      "title": "Anthropic关于自我复制AI的警告：令人警觉的似曾相识",
+      "title_original": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "summary": "研究机构Anthropic提示，尽管冰箱、电视、安防摄像头等各类智能设备不会合谋控制互联网，但未来它们很可能无意间成为自我复制AI模型的宿主。这类可在设备间传播的AI难以遏制，被称作AI蠕虫，带来全新网络安全威胁。",
+      "summary_original": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-14T15:19:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eee648a4",
+      "title": "Deezer即将允许用户过滤AI生成音乐",
+      "title_original": "Deezer will soon let you filter out AI-generated music",
+      "summary": "知名音乐流媒体平台Deezer宣布，将于今年年底推出全新的功能切换开关，支持用户过滤平台内的AI生成音乐，方便用户根据自身听歌需求，自主选择是否接触AI创作的音乐内容。",
+      "summary_original": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T15:16:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eee648a4",
+      "title": "Deezer即将允许用户过滤AI生成音乐",
+      "title_original": "Deezer will soon let you filter out AI-generated music",
+      "summary": "流媒体音乐平台Deezer宣布，将于今年年底推出全新功能开关，支持用户自主过滤平台内的AI生成音乐，满足不同用户对音乐内容的个性化收听需求。",
+      "summary_original": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T15:16:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea060bd6",
+      "title": "TechCrunch Disrupt 2026门票享五折优惠 可参与旧金山莫斯康西馆最后两日活动",
+      "title_original": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "summary": "2026年TechCrunch Disrupt大会会期为10月14日至25日，举办地点位于旧金山莫斯康西馆，目前活动最后两日参会门票可享五折优惠，本届大会聚焦软硬件人工智能领域，诚邀初创生态从业者尽早注册参与。",
+      "summary_original": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T15:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea060bd6",
+      "title": "2026年TechCrunch Disrupt大会门票享五折 可参会旧金山莫斯康西中心最后两日议程",
+      "title_original": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "summary": "2026年TechCrunch Disrupt大会将于10月14日至25日在美国旧金山莫斯康西中心举办，目前大会最后两日议程的门票推出五折优惠，主办方号召初创生态领域从业者尽快注册参会，本届大会核心围绕实体人工智能与软件人工智能展开。",
+      "summary_original": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T15:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b07e3d7c",
+      "title": "网飞将裁员约1000人",
+      "title_original": "Netflix is laying off around 1,000 employees",
+      "summary": "此前上周有报道称网飞计划裁员5%，该流媒体平台两位联合首席执行官发布内部邮件宣布，本次实际裁员比例为6%，涉及约1000名员工，相关裁员通知邮件的副本已被《综艺》获取。",
+      "summary_original": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T15:12:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "293f47c6",
+      "title": "医生称教皇术后行走、恢复情况“符合预期”",
+      "title_original": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "summary": "现年71岁的教皇于周二接受了时长90分钟的手术，术后被诊断出患有肺癌。负责治疗的医生对外公布消息称，目前教皇已经可以下地行走，整体身体恢复情况符合预期，状况平稳。",
+      "summary_original": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c622/live/69064170-c7e2-11f1-a64c-550be9e3c66b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T15:12:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fbddf569",
+      "title": "独家：英伟达与ChipAgents推出AI驱动芯片设计评估",
+      "title_original": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design",
+      "summary": "本消息为独家披露，英伟达与ChipAgents共同推出了面向人工智能驱动的芯片设计的相关评估项目。",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-10-14T15:10:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d40d170b",
+      "title": "HomeView目前尚未原生支持任何视频应用 苹果自家产品也不例外",
+      "title_original": "HomeView doesn’t natively support any video apps yet — not even Apple’s",
+      "summary": "苹果称HomeView是享用其旗下音视频娱乐应用的绝佳方式，但目前该平台尚未原生支持多款应用，就连Apple TV、Apple Music古典乐、Apple News+等苹果官方产品也不例外，用户使用Apple TV目前仅能通过iPhone隔空播放实现。",
+      "summary_original": "Apple says HomeView is \"the perfect way\" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't natively supported on the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T15:10:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e94f7f5d",
+      "title": "Zenzap获4400万美元融资 其AI聊天应用旨在职场取代WhatsApp",
+      "title_original": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "开发AI聊天应用的Zenzap完成4400万美元融资，该应用主打职场场景，目标是取代职场常用的通讯工具WhatsApp，目前星巴克、塔可贝尔等多家企业已在使用这款应用。",
+      "summary_original": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T15:08:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e94f7f5d",
+      "title": "欲取代职场WhatsApp，Zenzap人工智能聊天应用获4400万美元融资",
+      "title_original": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "Zenzap开发了一款旨在取代职场WhatsApp的人工智能聊天应用，目前已完成4400万美元融资，星巴克、塔可贝尔等多家企业机构已经在使用这款产品。",
+      "summary_original": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T15:08:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "65698a06",
+      "title": "乌克兰称星链突然中断对乌军方的服务",
+      "title_original": "Ukraine claims Starlink is suddenly disrupting service for its military",
+      "summary": "据路透社、英国《金融时报》报道，乌克兰官员称马斯克旗下星链未提前预警，就在乌境内对服务增设新限制，已干扰乌方无人机行动与军事任务。此次服务异常发生前数日，马斯克刚在社交平台X发文称乌总统泽连斯基“做得太过分”。",
+      "summary_original": "Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that Ukrainian President Volodymyr Zelenskyy \"has gone too far,\" in response [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299992780.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T15:06:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "90b3f31b",
+      "title": "坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展 - 健康报",
+      "title_original": null,
+      "summary": "全国卫生与健康大会召开，习近平出席大会并发表重要讲话，明确将卫生健康放在优先发展的战略位置，强调要坚定不移走中国特色卫生与健康发展道路，明确目标为确保“十五五”时期健康中国建设取得决定性进展，多家媒体对相关内容进行了报道解读。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jU2pEU2xwYU5WcEhPbUVTLXZtS2JpbFdFZUpzUEFlQkJBQ3RKU2lzY1Z0dFRBal9PQzFlVS1rb2RHZ1hiLUNPbGd0WDloajZKTlJtNE5wVFpMaXdkaXRvZkFBYkFrWXJlaE10NWxIUEdJemNT?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T15:06:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9337188b",
+      "title": "通胀高企提振美联储加息押注",
+      "title_original": "Hot Inflation Lifts Fed Rate-Hike Bets",
+      "summary": "美国通胀水平高于市场预期，促使交易员加码押注美联储将在本月及明年加息，受此影响美国国债价格下跌。罗森伯格研究创始人罗森伯格、比安科研究创始人比安科正对9月美国CPI数据作出回应，消息来源于彭博社。",
+      "summary_original": "US Treasuries slumped after hotter-than-expected inflation prompted traders to add to wagers that Federal Reserve officials will raise interest rates later this month and next year. David Rosenberg, Founder of Rosenberg Research, and Jim Bianco, Founder of Bianco Research, react to September CPI. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-14/hot-inflation-lifts-fed-rate-hike-bets-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T15:00:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "25b16452",
+      "title": "Floqer AI智能体可代销售团队调研潜在客户",
+      "title_original": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "summary": "科技企业Floqer瞄准销售及营收运营领域的普遍痛点推出AI解决方案，其开发的AI智能体可自动完成潜在销售客户的调研工作，无需销售团队投入人力处理该事务，这一痛点是所有从事过相关工作的人员都十分熟悉的。",
+      "summary_original": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "25b16452",
+      "title": "FloqerAI代理可自动调研潜在客户 解放销售团队",
+      "title_original": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "summary": "针对销售与营收运营领域普遍存在的潜在客户调研负担痛点，Floqer推出相关AI服务，由AI代理自动完成潜在客户调研工作，将销售团队从该繁琐事务中解放出来，使其可投入更多精力到核心业务环节。",
+      "summary_original": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "08ea6eec",
+      "title": "用户争夺加剧 奈飞将裁员1000人",
+      "title_original": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+      "summary": "全球知名流媒体平台奈飞正面临行业内日益激烈的用户注意力竞争，宣布将裁员一千人。此次裁员中，大部分受影响的岗位集中在公司的产品、技术、法务以及人力资源部门。",
+      "summary_original": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Netflix2154.jpg?resize=1200,553",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T14:55:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0b90ddb1",
+      "title": "骚乱发生后毛里求斯将宵禁延长至第二晚",
+      "title_original": "Mauritius Extends Curfew for Second Night After Unrest",
+      "summary": "毛里求斯发生该国1999年以来最严重的骚乱事件，为管控局势稳定秩序，毛里求斯政府决定，在岛内各主要人口聚居区延长宵禁，将宵禁延续至骚乱后的第二个夜晚，覆盖全部核心人口区域。",
+      "summary_original": "The government of Mauritius will impose a curfew for a second night across the island’s main population centers after the worst unrest since 1999.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/mauritius-extends-curfew-for-second-night-after-unrest",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T14:49:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "76702f8f",
+      "title": "个股异动：阿斯麦因扩产计划上涨 贝莱德公布财报",
+      "title_original": "ASML Up on Supply Plans; BlackRock Reports Earnings | Stock Movers",
+      "summary": "据彭博报道，本次个股异动动态覆盖两大机构：贝莱德最新财报显示，其管理资产规模符合分析师平均预期，调整后每股收益与销售额均超出预期；阿斯麦受AI开支激增影响，原有供应无法满足需求，拟进一步扩产推升股价。",
+      "summary_original": "On this episode of Stock Movers: - BlackRock (BLK) shares are responding to this morning's earnings. BlackRock reported assets under management that met the average analyst estimate and adjusted EPS and Sales beat estimates. - ASML (ASML) shares are rising this morning after the company said it's searching for ways to produce more chip-making machines over the next two years due to soaring artificial intelligence spending. ASML said its current supply plans mean it won’t be able to fully meet de",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-up-on-supply-plans-blackrock-reports-earnings-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T14:47:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "999529fe",
+      "title": "15美元即可购得《脑航员2》、最新《如龙》游戏等作品",
+      "title_original": "$15 gets you Psychonauts 2, the latest Like a Dragon game, and more",
+      "summary": "目前推出了多个值得关注的电子游戏及游戏相关科技产品优惠。本月Humble Choice的Steam PC游戏订阅套餐性价比出众，月费仅约15美元，订阅用户可获得《如龙：夏威夷海盗极道》、《波斯王子：失落王冠》、《脑航员2》等多款游戏。",
+      "summary_original": "There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per month service is offering subscribers Like A Dragon: Pirate Yakuza in Hawaii, Price of Persia: The Lost Crown, Psychonauts 2, Deep [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23077163/psychonauts2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T14:45:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "458ed620",
+      "title": "苹果兼容\"查找\"的新款遥控器也可适配旧款Apple TV",
+      "title_original": "Apple&#8217;s new Find My-compatible remote will also work with your old Apple TV",
+      "summary": "苹果推出搭载\"查找\"功能、内置扬声器的新款Siri遥控器。该遥控器无需搭配全新Apple TV 4K使用，可兼容Apple TV HD以来的所有Apple TV型号，目前支持单独购买，售价59美元，此前旧款仅具备基础iOS功能。",
+      "summary_original": "You don't need to buy the new Apple TV 4K just to get the updated Siri Remote with Find My and a built-in speaker, as it works with every model released going back to the Apple TV HD and is available to buy standalone for $59. Previous Siri Remotes had a basic iOS feature to [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K-2026.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-14T14:39:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "11bdabc5",
+      "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 - 联合早报",
+      "title_original": null,
+      "summary": "建成12年的中朝跨鸭绿江新大桥正式通车，该事件引发多家媒体关注报道。新鸭绿江大桥建成后长期未开通，有分析观点认为，此次大桥通车或表明中朝双方就此前存在的经济分歧达成了妥协。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Zk5DME9TZ28wcmVZNzBqN2l4ZGU4S2ZPZmlIcUhKVHA3T0owZjV5YkFHYllMcU44eGR0eE82eUl3a3NTWE9qcWUwOWdoeTJzeE1NNl9uUlB0ZVNmVXNNeGZBNFpUN3V3aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T14:34:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0f16cc2f",
+      "title": "2026 TechCrunch Disrupt大会第二日",
+      "title_original": "TechCrunch Disrupt 2026: Day 2",
+      "summary": "2026年TechCrunch Disrupt科技大会第二日活动内容丰富，议题覆盖人工智能领域，还设置了投资者专属会议、多场圆桌讨论等活动，目前大会开放参会注册，注册购票可享受参会通行证五折优惠。",
+      "summary_original": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0f16cc2f",
+      "title": "2026年TechCrunch Disrupt大会：第二日",
+      "title_original": "TechCrunch Disrupt 2026: Day 2",
+      "summary": "2026年TechCrunch Disrupt大会进入第二日议程，当日活动内容丰富，涵盖人工智能相关主题、投资者专属会议、多场圆桌讨论等，目前大会仍开放参会注册，注册即可享受参会通票五折优惠。",
+      "summary_original": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T14:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4169426b",
+      "title": "美国解除对委内瑞拉最高立法者的制裁",
+      "title_original": "Washington Lifts Sanctions on Venezuela’s Top Lawmaker",
+      "summary": "美国解除对委内瑞拉最高立法者的制裁，这是今年早些时候马杜罗被捕后，美国与委内瑞拉关系回暖的又一信号，表明两国双边关系近期正朝着缓和积极的方向发展。",
+      "summary_original": "The US lifted sanctions on Venezuela’s top lawmaker in another sign of warming relations between Washington and Caracas following the capture of Nicolás Maduro earlier this year.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-lifts-sanctions-on-venezuela-s-top-lawmaker-as-relations-thaw",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T14:20:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f744dfce",
+      "title": "爱尔兰全国数十万工人举行罢工",
+      "title_original": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "summary": "爱尔兰全国范围内爆发大规模罢工行动，共有数十万工人参与其中。此次罢工发生在公共部门工人与爱尔兰政府的薪酬纠纷持续发酵之际，工人通过罢工向政府施压，要求解决薪酬争议，维护自身相关权益。",
+      "summary_original": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10bd/live/7b5c9150-c7b8-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T14:18:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "40d96cc6",
+      "title": "达利创作的书籍封面在法国遭窃",
+      "title_original": "Dalí Book Cover Stolen in France",
+      "summary": "三名窃贼闯入位于法国中部的一家私人博物馆，盗走超现实主义艺术大师萨尔瓦多·达利创作的书籍封面作品。这件被盗作品重达330磅，出自这位享誉全球的超现实主义标志性艺术家之手，相关部门正对这起盗窃案件展开追查。",
+      "summary_original": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/13int-france-dali-photo-cvjf/13int-france-dali-photo-cvjf-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T14:15:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d68853a5",
+      "title": "“他们为何杀他？”——悼念胡塞武装袭击沙特机场遇难者",
+      "title_original": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
+      "summary": "伊朗支持的胡塞武装袭击沙特一座机场，造成人员遇难。这是胡塞武装与沙特陷入长期冲突以来，胡塞武装对沙特发动的迄今为止杀伤力最大的一次袭击，相关人士悼念此次袭击中的遇难者。",
+      "summary_original": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-saudi-airport-vbwm/15int-saudi-airport-vbwm-mediumSquareAt3X-v2.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T14:15:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9e3c30a0",
+      "title": "NTangible押注其可预测运动员压力下的表现",
+      "title_original": "NTangible bets it can predict how athletes will perform under pressure",
+      "summary": "科技公司NTangible正打造一款体育分析平台，面向大学体育机构及各类体育俱乐部推出。该平台可测量运动员的“关键时刻发挥能力”，该公司押注其技术能够准确预判运动员在压力环境下的赛场表现。",
+      "summary_original": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9eae47a0",
+      "title": "Epic新版游戏启动器采用“氛围编码”开发",
+      "title_original": "Epic&#8217;s new games launcher is ‘vibe coded’",
+      "summary": "Epic Games今日宣布推出PC端游戏启动器重大更新的预览版本，称新版启动器速度提升显著，新增对Linux系统的支持。目前Epic正大力推进AI辅助开发，此次更新被官方称为“氛围编码”项目。",
+      "summary_original": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\" \"Programming is hard,\" Epic says in [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-14T13:55:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "202b31c2",
+      "title": "德国开庭审理被控炸毁北溪管道的乌克兰人",
+      "title_original": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "北溪天然气管道爆炸袭击案发四年后，乌克兰人谢尔盖·库兹涅佐夫在德国出庭受审，他被指控策划炸毁这条俄罗斯输往德国的天然气管道，该爆炸事件曾引发国际社会高度关注。",
+      "summary_original": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b7/live/66289890-c7c4-11f1-993a-152cbb068da1.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T13:41:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ced9fb71",
+      "title": "战争冲击财务 磷酸盐巨头寻求外国投资者",
+      "title_original": "Phosphate Giant Seeks Foreign Investors as War Hits Finances",
+      "summary": "摩洛哥国有磷酸盐巨头OCP SA受伊朗战争影响，出现供应链中断，企业利润遭受冲击，财务状况承压。目前该公司正为旗下部分业务招揽外国投资者，以缓解当前经营压力。",
+      "summary_original": "Morocco’s phosphate giant OCP SA is looking to attract foreign investors for some of its businesses, as supply disruptions caused by the Iran war hit profits at the state-owned company.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/phosphate-giant-seeks-foreign-investors-as-war-squeezes-finances",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-14T13:38:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0bb1f920",
+      "title": "澳大利亚首批米其林星花落一州11家餐厅",
+      "title_original": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "澳大利亚评出首批米其林星级餐厅，全部11家获星餐厅均位于南澳大利亚州。据报道，本次所有获星餐厅都集中在该州，是因为南澳大利亚州政府出资聘请米其林匿名暗访检查员赴当地开展餐厅评级工作。",
+      "summary_original": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/825a/live/0bb8ed30-c7db-11f1-9671-5b70c6e774ea.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T13:35:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "945fdcf2",
+      "title": "泽连斯基助手称：乌克兰战争中星链受限与政治局势相关",
+      "title_original": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "summary": "泽连斯基助手表示，俄乌冲突中埃隆·马斯克旗下星链系统的使用受限与政治局势相关。目前星链系统可帮助乌方保护乌克兰领空，还能够有效引导无人机打击俄方目标。",
+      "summary_original": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-14T13:11:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "86df0136",
+      "title": "日本新内阁上任不到一个月，农林水产大臣因丑闻而辞职 - 观察者网",
+      "title_original": null,
+      "summary": "日本高市早苗新内阁上任不到一个月，内阁农林水产大臣就因丑闻宣布辞职，这已是该内阁接连曝出的丑闻之一。此事引发外界广泛质疑，有日本专家表示，若内阁应对该问题迟缓，将导致执政政权遭受重挫，持续消耗自身执政根基。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuR0dURkN3QnhBaWoyclE1c1pjd2lnZmVOdjIyelhWZENsbGNZQXhvOU02aTNFRVE0bFlDNFYzbXdrTWIwYjdyWEd0cmowczZIcVdxSjBFTG1tdm9WaXpsS2FNRnNLcTZXaXd2RmNfbjNXMDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T13:04:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "37f997d5",
+      "title": "中方回应“日方不接受访问争议岛屿” 尊重二战成果 - 中华网",
+      "title_original": null,
+      "summary": "针对日方称无法接受中方代表团访问俄日争议岛屿择捉岛一事，中国外交部作出回应，明确此次黑龙江省代表团是访问俄罗斯萨哈林州首府开展友好交流，中方在相关岛屿问题上立场一贯明确，始终坚持尊重二战成果的原则。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNHlvN2gwRWd5N0M0RnE0Y2g5OHB1WEt5LTNhcWpSWmFBSXVROTNIR0NPaUNnc2c4WFphNHB2VVlNQzdpMW9yQWgwcC0yT2lnRGZmWjVJMzlVeXprdk5qTVAwelVTWU9XZHhzUndQcXY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T12:59:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7968b967",
+      "title": "安思罗普警告小型AI模型可通过物联网设备自我复制",
+      "title_original": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "summary": "AI研发企业安思罗普发出警告，小型人工智能模型能够借助物联网设备实现自我复制，这类基于权重的小型复制型AI模型，还可能催生全新一代的计算机蠕虫，给全球网络安全领域带来新的潜在风险。",
+      "summary_original": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+      "image_validated": true,
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-10-14T12:55:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0ddd7108",
+      "title": "日本外务省就日本记者被拘留事件召见俄罗斯大使 - 新华网客户端",
+      "title_original": null,
+      "summary": "一名日本记者因涉嫌从事间谍活动、非法搜集情报，在俄罗斯远东地区被俄方拘留。日本外务省就此事召见俄罗斯驻日大使提出抗议并交涉，俄罗斯外交部称该记者的相关行为将恶化俄日两国关系，多家媒体对此事件进行了报道。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem1ub0hQRmNkd2J3VDM3dmZabGYzMVVTRUxROTF5U0ZFUXlVZ2NzMWx6QTR4NVgxeUNUaUtkODd2a2dCQzlwRHB1UFZ0WGZLeTcwRFZpVHFvaUlfSDBYQU5mSjVndV9zYWRwS1lZZHZUcHpTZzN6QnVKSmtFN180VTNGcTRWTk52XzluSmxicnlnMU5FbUp6TWlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T12:20:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ad779815",
+      "title": "美对俄柴油制裁“松绑”算盘能成吗 实效存疑引发争议 - 中华网",
+      "title_original": null,
+      "summary": "近期美对俄柴油制裁出现松绑动向，俄美正就对美供应柴油合同进行谈判，普京与特朗普达成相关协议后，俄罗斯已恢复柴油出口装船作业。美方此番操作被指存有保选票、推动俄乌停火谈判等算盘，松绑实际效果存疑，引发各方争议。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KSGZOel9XU19aampfOXBWb2ZCV3FjS0V3T0ctQlJuYkZsYjhuellUam94SzBoXzZ6Rzc2TWw3eFQwdTlKN2VTU0NtNk15amhlVU04SDNDMVBTdTc4UUk1X0tsSWhDRjRROEo4b2RIYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-14T12:19:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "014689cd",
+      "title": "科技速递：人造血液与电池的未来",
+      "title_original": "The Download: faking blood and the future of batteries",
+      "summary": "这是工作日每日推送的科技通讯《The Download》的当日刊，内容提及2007年一架运送血液前往伊拉克战地医院的美军直升机被击落，七名机组人员全部遇难，这起悲剧推动了美军研发人造血液的进程，本期同时关注电池领域的未来发展。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?fit=2128,1196",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-14T12:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f31e172e",
+      "title": "日本抗议俄罗斯拘留被控从事间谍活动的记者",
+      "title_original": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+      "summary": "近日，一名日本记者在俄罗斯远东地区遭俄方逮捕，俄方指控其收集军事情报，涉嫌从事间谍活动。事发后，日本东京召见俄罗斯驻日本大使，就俄方拘留该记者一事正式提出抗议。",
+      "summary_original": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-japan-journalist-pqfl/14int-japan-journalist-pqfl-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-14T11:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7f10a363",
+      "title": "Scimplify融资2500万美元 拟用AI挑战中国在关键材料领域的主导地位",
+      "title_original": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "summary": "企业Scimplify完成2500万美元融资，计划借助人工智能技术，挑战中国在关键材料领域的主导地位。目前其年化收入已较此前翻三倍至2亿美元，正筹备推进美国市场的扩张计划。",
+      "summary_original": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7f10a363",
+      "title": "Scimplify获2500万美元融资 欲借AI挑战中国在关键原材料领域的主导地位",
+      "title_original": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "summary": "Scimplify完成2500万美元融资，目前其年化经营收入已增长两倍至2亿美元。该企业正筹划拓展美国市场，计划借助人工智能技术，挑战中国在全球关键原材料领域的优势地位。",
+      "summary_original": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "d49355cd",
+      "title": "微软推出可提升天气预报准确率的新型机器学习工具",
+      "summary": "传统基于物理原理的天气预报及现有AI模型，在预报时长超过两周后准确率都会下降。微软称已通过机器学习解决该问题，研发出经济高效的新方法，可提前2至6周做出更准确的天气预报，可为农民、应急响应人员等群体提供支持。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "d99057e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d99057e6",
+          "source": "The Verge",
+          "title": "微软推出可提升天气预报准确率的新型机器学习工具",
+          "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "published_at": "2026-10-14T16:05:21+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:05:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d49355cd",
+      "title": "微软推出可改进天气预报的新型机器学习工具",
+      "summary": "传统基于物理模型的天气预报及现有AI模型，预报时长超过两周后准确率通常会大幅下降。微软称已通过机器学习解决该问题，研发出经济高效的新方案，可提前2至6周输出更精准预报，能为农户、应急响应人员提供支持。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "d99057e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "d99057e6",
+          "source": "The Verge AI",
+          "title": "微软推出可改进天气预报的新型机器学习工具",
+          "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "published_at": "2026-10-14T16:05:21+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:05:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e579a802",
+      "title": "如今无需对方拥有WhatsApp，即可通过WhatsApp呼叫任何人",
+      "summary": "Meta旗下通讯工具WhatsApp推出全新访客呼叫功能，用户仅需发送通话链接即可邀请他人通话，受邀者无需提前注册账号，也无需安装应用，今年WhatsApp已新增网页端通话支持功能。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "6d6d1a3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6d6d1a3f",
+          "source": "The Verge",
+          "title": "如今无需对方拥有WhatsApp，即可通过WhatsApp呼叫任何人",
+          "link": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+          "published_at": "2026-10-14T16:03:10+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:03:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d8a26d80",
+      "title": "麦克奈特：信贷领域，波动即机遇",
+      "summary": "福蒂斯投资集团联合首席执行官兼管理合伙人德鲁·麦克奈特，在加州比弗利山举办的CAIS峰会上，做客彭博社《彭博交易》节目，与主持人丹妮·伯格讨论了数据中心所需巨额资金、私募信贷投资表现，以及经济压力下潜在的违约与重组问题。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ac817819"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ac817819",
+          "source": "Bloomberg",
+          "title": "麦克奈特：信贷领域，波动即机遇",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-14/in-credit-volatility-is-an-opportunity-mcknight-video",
+          "published_at": "2026-10-14T16:00:20+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "84d7c263",
+      "title": "Prismm助力银行留存继承资金",
+      "summary": "金融工具Prismm支持银行账户持有人提前向指定家庭成员开放自身账户及相关文件的访问权限，可解决户主离世后的继承流程痛点，帮助银行将原本可能外流的客户继承资金保留在本行体系内。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+      "article_ids": [
+        "5e32e13f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "5e32e13f",
+          "source": "TechCrunch",
+          "title": "Prismm助力银行留存继承资金",
+          "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+          "published_at": "2026-10-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "577da0a6",
+      "title": "斯奎尔新型点餐亭支持AI语音协助点单",
+      "summary": "科技企业斯奎尔推出一款名为Square Kiosk的新型自助点餐硬件，设备为药丸造型，配有触摸屏，内置具备会话能力的AI语音层，可完整掌握商家菜单，能实时倾听回应顾客需求，协助完成点单。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "4a6f042a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4a6f042a",
+          "source": "The Verge",
+          "title": "斯奎尔新型点餐亭支持AI语音协助点单",
+          "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+          "published_at": "2026-10-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7f81eb15",
+      "title": "安卓将借助AI识别谷歌信息中的诈骗分子",
+      "summary": "安卓将推出全新移动端诈骗防御功能，帮助用户规避移动欺诈风险，相关功能涵盖谷歌信息应用的防护升级及新增安全防护工具。在原有诈骗检测功能基础上，依托云端AI技术的全新“增强防护”设置，将于未来几周推送上线。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "dddc82c4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dddc82c4",
+          "source": "The Verge",
+          "title": "安卓将借助AI识别谷歌信息中的诈骗分子",
+          "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+          "published_at": "2026-10-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "577da0a6",
+      "title": "Square新款自助点餐机支持AI对话协助下单",
+      "summary": "支付服务商Square推出全新硬件产品Square Kiosk，这是一款药丸造型的大尺寸自助点餐终端，配有触控屏幕，搭载对话式语音AI，可完整掌握商家菜单，能够实时倾听并响应用户需求，辅助用户完成点餐。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "4a6f042a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "4a6f042a",
+          "source": "The Verge AI",
+          "title": "Square新款自助点餐机支持AI对话协助下单",
+          "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+          "published_at": "2026-10-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7f81eb15",
+      "title": "安卓将利用人工智能识别谷歌消息中的诈骗分子",
+      "summary": "安卓推出全新移动诈骗防御功能，旨在帮助用户更轻松规避移动诈骗，新功能涵盖谷歌消息的强化防护与额外安全工具，在原有诈骗检测功能基础上，依托云端技术的AI增强保护设置将于未来几周推送上线。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "dddc82c4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "dddc82c4",
+          "source": "The Verge AI",
+          "title": "安卓将利用人工智能识别谷歌消息中的诈骗分子",
+          "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+          "published_at": "2026-10-14T16:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T16:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6b86dd90",
+      "title": "星链受限俄方升级行动 乌克兰脆弱性加剧",
+      "summary": "俄罗斯升级对乌攻势，发动大规模袭击造成乌克兰首都基辅60万人断电。由美国五角大楼资助的星链卫星互联网项目突然无预警遭到限制，乌克兰处境愈发危险脆弱，防御层面的弱势进一步凸显。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "af104aea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "af104aea",
+          "source": "NYTimes World",
+          "title": "星链受限俄方升级行动 乌克兰脆弱性加剧",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+          "published_at": "2026-10-14T15:52:14+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:52:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc41b3aa",
+      "title": "土耳其突袭亲反对派电视台",
+      "summary": "土耳其政府向该国最后一家反对总统雷杰普·塔伊普·埃尔多安的大型新闻频道指派监管人，对这家亲反对派媒体实施管控。截至目前，土耳其当局已经完成对境内五家主要新闻机构的领导层更换，相关管控动作针对反对派背景媒体。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-turkey-TV-wcht/14int-turkey-TV-wcht-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "d78ca3c2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d78ca3c2",
+          "source": "NYTimes World",
+          "title": "土耳其突袭亲反对派电视台",
+          "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+          "published_at": "2026-10-14T15:48:42+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:48:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d3e70a04",
+      "title": "利奥教皇术后康复 罗马医院获大量支持寄语",
+      "summary": "71岁的利奥教皇在手术中被查出肺癌，目前正在罗马的医院接受术后康复治疗，预计将住院一周左右，来自世界各地的大量支持寄语正源源不断涌向医院，人们纷纷为教皇送上祝福。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-dispatch-gkmj/14int-pope-dispatch-gkmj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "31d7e3c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "31d7e3c5",
+          "source": "NYTimes World",
+          "title": "利奥教皇术后康复 罗马医院获大量支持寄语",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+          "published_at": "2026-10-14T15:42:26+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:42:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c0d9bb91",
+      "title": "泽连斯基访问英国 乌克兰就情报共享向盟友施压",
+      "summary": "乌克兰正就情报共享问题向盟友施压，在此期间乌总统泽连斯基访问英国。泽连斯基表示，乌克兰并未从合作伙伴处获得关于俄罗斯发动袭击的提前预警，美国前总统特朗普称，美国方面仍在对乌共享情报。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-Europe-Intel-Zelensky-czfh/14int-Europe-Intel-Zelensky-czfh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5fadc14d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5fadc14d",
+          "source": "NYTimes World",
+          "title": "泽连斯基访问英国 乌克兰就情报共享向盟友施压",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
+          "published_at": "2026-10-14T15:38:50+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:38:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f39f3979",
+      "title": "CoreWeave债券暴跌陷入困境 引得马斯克喊出“天呐”",
+      "summary": "CoreWeave公司的债券大幅跳水，跌至市场通常认为预示债务困境的水平，这一骤变来得十分迅速，引发了包括查马斯·帕里哈皮蒂亚、埃隆·马斯克在内的多位硅谷领军人物的关注。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8ffad73d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8ffad73d",
+          "source": "Bloomberg",
+          "title": "CoreWeave债券暴跌陷入困境 引得马斯克喊出“天呐”",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
+          "published_at": "2026-10-14T15:29:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:29:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "543e2743",
+      "title": "国际能源署称阿联酋九月石油产量飙升至历史新高",
+      "summary": "国际能源署表示，阿联酋九月份石油产量攀升至历史新高，这既凸显出该国在伊朗冲突局势下的石油供应韧性，也体现出摆脱OPEC+产量限制后，该国石油产能得到进一步释放。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5999d605"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5999d605",
+          "source": "Bloomberg",
+          "title": "国际能源署称阿联酋九月石油产量飙升至历史新高",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/uae-oil-production-surged-to-records-in-september-iea-says",
+          "published_at": "2026-10-14T15:27:22+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:27:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0efb936",
+      "title": "美国通胀涨幅超预期 当前物价走势分析",
+      "summary": "最新公布的数据显示，截至今年9月，美国通货膨胀同比涨幅升至3.7%，这一涨幅超出市场此前普遍预期。本次美国通胀涨幅超预期主要受机动车燃料成本上升推动，直接拉高了美国整体物价的上涨速度。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+      "article_ids": [
+        "6f43a6d2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6f43a6d2",
+          "source": "BBC World",
+          "title": "美国通胀涨幅超预期 当前物价走势分析",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T15:26:14+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:26:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1ab910f",
+      "title": "Anthropic自我复制AI警告：令人不安的似曾相识",
+      "summary": "人工智能公司Anthropic发出警告，尽管冰箱、电视等各类智能设备不会主动联手控制互联网，但这些设备未来可能无意中成为自我复制AI模型的宿主，这类可在设备间传播的AI模型极难遏制，引发AI安全层面的担忧。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0436ab56"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0436ab56",
+          "source": "The Verge",
+          "title": "Anthropic自我复制AI警告：令人不安的似曾相识",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+          "published_at": "2026-10-14T15:19:02+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:19:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1ab910f",
+      "title": "Anthropic关于自我复制AI的警告：令人警觉的似曾相识",
+      "summary": "研究机构Anthropic提示，尽管冰箱、电视、安防摄像头等各类智能设备不会合谋控制互联网，但未来它们很可能无意间成为自我复制AI模型的宿主。这类可在设备间传播的AI难以遏制，被称作AI蠕虫，带来全新网络安全威胁。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0436ab56"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "0436ab56",
+          "source": "The Verge AI",
+          "title": "Anthropic关于自我复制AI的警告：令人警觉的似曾相识",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+          "published_at": "2026-10-14T15:19:02+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:19:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9d18817",
+      "title": "Deezer即将允许用户过滤AI生成音乐",
+      "summary": "知名音乐流媒体平台Deezer宣布，将于今年年底推出全新的功能切换开关，支持用户过滤平台内的AI生成音乐，方便用户根据自身听歌需求，自主选择是否接触AI创作的音乐内容。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+      "article_ids": [
+        "eee648a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "eee648a4",
+          "source": "TechCrunch",
+          "title": "Deezer即将允许用户过滤AI生成音乐",
+          "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "published_at": "2026-10-14T15:16:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:16:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9d18817",
+      "title": "Deezer即将允许用户过滤AI生成音乐",
+      "summary": "流媒体音乐平台Deezer宣布，将于今年年底推出全新功能开关，支持用户自主过滤平台内的AI生成音乐，满足不同用户对音乐内容的个性化收听需求。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+      "article_ids": [
+        "eee648a4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "eee648a4",
+          "source": "TechCrunch AI",
+          "title": "Deezer即将允许用户过滤AI生成音乐",
+          "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+          "published_at": "2026-10-14T15:16:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:16:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0cd034e2",
+      "title": "TechCrunch Disrupt 2026门票享五折优惠 可参与旧金山莫斯康西馆最后两日活动",
+      "summary": "2026年TechCrunch Disrupt大会会期为10月14日至25日，举办地点位于旧金山莫斯康西馆，目前活动最后两日参会门票可享五折优惠，本届大会聚焦软硬件人工智能领域，诚邀初创生态从业者尽早注册参与。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+      "article_ids": [
+        "ea060bd6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "ea060bd6",
+          "source": "TechCrunch",
+          "title": "TechCrunch Disrupt 2026门票享五折优惠 可参与旧金山莫斯康西馆最后两日活动",
+          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "published_at": "2026-10-14T15:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0cd034e2",
+      "title": "2026年TechCrunch Disrupt大会门票享五折 可参会旧金山莫斯康西中心最后两日议程",
+      "summary": "2026年TechCrunch Disrupt大会将于10月14日至25日在美国旧金山莫斯康西中心举办，目前大会最后两日议程的门票推出五折优惠，主办方号召初创生态领域从业者尽快注册参会，本届大会核心围绕实体人工智能与软件人工智能展开。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+      "article_ids": [
+        "ea060bd6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "ea060bd6",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会门票享五折 可参会旧金山莫斯康西中心最后两日议程",
+          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "published_at": "2026-10-14T15:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "03e03d55",
+      "title": "面临行业用户争夺加剧 全球流媒体平台奈飞宣布裁员约1000人",
+      "summary": "全球知名流媒体平台奈飞面临行业内日益激烈的用户竞争，公司两位联合首席执行官通过内部邮件宣布裁员，本次裁员比例为6%，涉及约1000名员工，多数受影响岗位集中在产品、技术等部门。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "b07e3d7c",
+        "08ea6eec"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b07e3d7c",
+          "source": "The Verge",
+          "title": "网飞将裁员约1000人",
+          "link": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
+          "published_at": "2026-10-14T15:12:58+00:00"
+        },
+        {
+          "id": "08ea6eec",
+          "source": "TechCrunch",
+          "title": "用户争夺加剧 奈飞将裁员1000人",
+          "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+          "published_at": "2026-10-14T14:55:47+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:12:58+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "b7888e21",
+      "title": "医生称教皇术后行走、恢复情况“符合预期”",
+      "summary": "现年71岁的教皇于周二接受了时长90分钟的手术，术后被诊断出患有肺癌。负责治疗的医生对外公布消息称，目前教皇已经可以下地行走，整体身体恢复情况符合预期，状况平稳。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c622/live/69064170-c7e2-11f1-a64c-550be9e3c66b.jpg",
+      "article_ids": [
+        "293f47c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "293f47c6",
+          "source": "BBC World",
+          "title": "医生称教皇术后行走、恢复情况“符合预期”",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T15:12:46+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:12:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef94ce79",
+      "title": "独家：英伟达与ChipAgents推出AI驱动芯片设计评估",
+      "summary": "本消息为独家披露，英伟达与ChipAgents共同推出了面向人工智能驱动的芯片设计的相关评估项目。",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "fbddf569"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "fbddf569",
+          "source": "The Information",
+          "title": "独家：英伟达与ChipAgents推出AI驱动芯片设计评估",
+          "link": "https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design",
+          "published_at": "2026-10-14T15:10:46+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:10:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7398a838",
+      "title": "HomeView目前尚未原生支持任何视频应用 苹果自家产品也不例外",
+      "summary": "苹果称HomeView是享用其旗下音视频娱乐应用的绝佳方式，但目前该平台尚未原生支持多款应用，就连Apple TV、Apple Music古典乐、Apple News+等苹果官方产品也不例外，用户使用Apple TV目前仅能通过iPhone隔空播放实现。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "d40d170b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d40d170b",
+          "source": "The Verge",
+          "title": "HomeView目前尚未原生支持任何视频应用 苹果自家产品也不例外",
+          "link": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
+          "published_at": "2026-10-14T15:10:12+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:10:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1cd8b743",
+      "title": "Zenzap获4400万美元融资 其AI聊天应用旨在职场取代WhatsApp",
+      "summary": "开发AI聊天应用的Zenzap完成4400万美元融资，该应用主打职场场景，目标是取代职场常用的通讯工具WhatsApp，目前星巴克、塔可贝尔等多家企业已在使用这款应用。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+      "article_ids": [
+        "e94f7f5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e94f7f5d",
+          "source": "TechCrunch",
+          "title": "Zenzap获4400万美元融资 其AI聊天应用旨在职场取代WhatsApp",
+          "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "published_at": "2026-10-14T15:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1cd8b743",
+      "title": "欲取代职场WhatsApp，Zenzap人工智能聊天应用获4400万美元融资",
+      "summary": "Zenzap开发了一款旨在取代职场WhatsApp的人工智能聊天应用，目前已完成4400万美元融资，星巴克、塔可贝尔等多家企业机构已经在使用这款产品。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
+      "article_ids": [
+        "e94f7f5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "e94f7f5d",
+          "source": "TechCrunch AI",
+          "title": "欲取代职场WhatsApp，Zenzap人工智能聊天应用获4400万美元融资",
+          "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "published_at": "2026-10-14T15:08:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:08:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f03e201e",
+      "title": "乌克兰称星链突然中断对乌军方的服务",
+      "summary": "据路透社、英国《金融时报》报道，乌克兰官员称马斯克旗下星链未提前预警，就在乌境内对服务增设新限制，已干扰乌方无人机行动与军事任务。此次服务异常发生前数日，马斯克刚在社交平台X发文称乌总统泽连斯基“做得太过分”。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299992780.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "65698a06"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "65698a06",
+          "source": "The Verge",
+          "title": "乌克兰称星链突然中断对乌军方的服务",
+          "link": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
+          "published_at": "2026-10-14T15:06:12+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:06:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d842ac4a",
+      "title": "坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展 - 健康报",
+      "summary": "全国卫生与健康大会召开，习近平出席大会并发表重要讲话，明确将卫生健康放在优先发展的战略位置，强调要坚定不移走中国特色卫生与健康发展道路，明确目标为确保“十五五”时期健康中国建设取得决定性进展，多家媒体对相关内容进行了报道解读。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "90b3f31b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "90b3f31b",
+          "source": "Google News (中国)",
+          "title": "坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展 - 健康报",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jU2pEU2xwYU5WcEhPbUVTLXZtS2JpbFdFZUpzUEFlQkJBQ3RKU2lzY1Z0dFRBal9PQzFlVS1rb2RHZ1hiLUNPbGd0WDloajZKTlJtNE5wVFpMaXdkaXRvZkFBYkFrWXJlaE10NWxIUEdJemNT?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T15:06:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:06:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "941f0a8c",
+      "title": "通胀高企提振美联储加息押注",
+      "summary": "美国通胀水平高于市场预期，促使交易员加码押注美联储将在本月及明年加息，受此影响美国国债价格下跌。罗森伯格研究创始人罗森伯格、比安科研究创始人比安科正对9月美国CPI数据作出回应，消息来源于彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9337188b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9337188b",
+          "source": "Bloomberg",
+          "title": "通胀高企提振美联储加息押注",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-14/hot-inflation-lifts-fed-rate-hike-bets-video",
+          "published_at": "2026-10-14T15:00:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:00:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98180093",
+      "title": "Floqer AI智能体可代销售团队调研潜在客户",
+      "summary": "科技企业Floqer瞄准销售及营收运营领域的普遍痛点推出AI解决方案，其开发的AI智能体可自动完成潜在销售客户的调研工作，无需销售团队投入人力处理该事务，这一痛点是所有从事过相关工作的人员都十分熟悉的。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "article_ids": [
+        "25b16452"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "25b16452",
+          "source": "TechCrunch",
+          "title": "Floqer AI智能体可代销售团队调研潜在客户",
+          "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "published_at": "2026-10-14T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98180093",
+      "title": "FloqerAI代理可自动调研潜在客户 解放销售团队",
+      "summary": "针对销售与营收运营领域普遍存在的潜在客户调研负担痛点，Floqer推出相关AI服务，由AI代理自动完成潜在客户调研工作，将销售团队从该繁琐事务中解放出来，使其可投入更多精力到核心业务环节。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "article_ids": [
+        "25b16452"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "25b16452",
+          "source": "TechCrunch AI",
+          "title": "FloqerAI代理可自动调研潜在客户 解放销售团队",
+          "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "published_at": "2026-10-14T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0653958f",
+      "title": "骚乱发生后毛里求斯将宵禁延长至第二晚",
+      "summary": "毛里求斯发生该国1999年以来最严重的骚乱事件，为管控局势稳定秩序，毛里求斯政府决定，在岛内各主要人口聚居区延长宵禁，将宵禁延续至骚乱后的第二个夜晚，覆盖全部核心人口区域。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0b90ddb1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0b90ddb1",
+          "source": "Bloomberg",
+          "title": "骚乱发生后毛里求斯将宵禁延长至第二晚",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/mauritius-extends-curfew-for-second-night-after-unrest",
+          "published_at": "2026-10-14T14:49:31+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:49:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "edd63191",
+      "title": "个股异动：阿斯麦因扩产计划上涨 贝莱德公布财报",
+      "summary": "据彭博报道，本次个股异动动态覆盖两大机构：贝莱德最新财报显示，其管理资产规模符合分析师平均预期，调整后每股收益与销售额均超出预期；阿斯麦受AI开支激增影响，原有供应无法满足需求，拟进一步扩产推升股价。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "76702f8f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "76702f8f",
+          "source": "Bloomberg",
+          "title": "个股异动：阿斯麦因扩产计划上涨 贝莱德公布财报",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-up-on-supply-plans-blackrock-reports-earnings-video",
+          "published_at": "2026-10-14T14:47:03+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:47:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "331b61e2",
+      "title": "15美元即可购得《脑航员2》、最新《如龙》游戏等作品",
+      "summary": "目前推出了多个值得关注的电子游戏及游戏相关科技产品优惠。本月Humble Choice的Steam PC游戏订阅套餐性价比出众，月费仅约15美元，订阅用户可获得《如龙：夏威夷海盗极道》、《波斯王子：失落王冠》、《脑航员2》等多款游戏。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23077163/psychonauts2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "999529fe"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "999529fe",
+          "source": "The Verge",
+          "title": "15美元即可购得《脑航员2》、最新《如龙》游戏等作品",
+          "link": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale",
+          "published_at": "2026-10-14T14:45:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:45:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "17aa000a",
+      "title": "苹果兼容\"查找\"的新款遥控器也可适配旧款Apple TV",
+      "summary": "苹果推出搭载\"查找\"功能、内置扬声器的新款Siri遥控器。该遥控器无需搭配全新Apple TV 4K使用，可兼容Apple TV HD以来的所有Apple TV型号，目前支持单独购买，售价59美元，此前旧款仅具备基础iOS功能。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K-2026.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "458ed620"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "458ed620",
+          "source": "The Verge",
+          "title": "苹果兼容\"查找\"的新款遥控器也可适配旧款Apple TV",
+          "link": "https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my",
+          "published_at": "2026-10-14T14:39:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:39:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "521de5bd",
+      "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 - 联合早报",
+      "summary": "建成12年的中朝跨鸭绿江新大桥正式通车，该事件引发多家媒体关注报道。新鸭绿江大桥建成后长期未开通，有分析观点认为，此次大桥通车或表明中朝双方就此前存在的经济分歧达成了妥协。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "11bdabc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "11bdabc5",
+          "source": "Google News (中国)",
+          "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Zk5DME9TZ28wcmVZNzBqN2l4ZGU4S2ZPZmlIcUhKVHA3T0owZjV5YkFHYllMcU44eGR0eE82eUl3a3NTWE9qcWUwOWdoeTJzeE1NNl9uUlB0ZVNmVXNNeGZBNFpUN3V3aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T14:34:57+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:34:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "85399069",
+      "title": "2026 TechCrunch Disrupt大会第二日",
+      "summary": "2026年TechCrunch Disrupt科技大会第二日活动内容丰富，议题覆盖人工智能领域，还设置了投资者专属会议、多场圆桌讨论等活动，目前大会开放参会注册，注册购票可享受参会通行证五折优惠。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
+      "article_ids": [
+        "0f16cc2f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0f16cc2f",
+          "source": "TechCrunch",
+          "title": "2026 TechCrunch Disrupt大会第二日",
+          "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "published_at": "2026-10-14T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "85399069",
+      "title": "2026年TechCrunch Disrupt大会：第二日",
+      "summary": "2026年TechCrunch Disrupt大会进入第二日议程，当日活动内容丰富，涵盖人工智能相关主题、投资者专属会议、多场圆桌讨论等，目前大会仍开放参会注册，注册即可享受参会通票五折优惠。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
+      "article_ids": [
+        "0f16cc2f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0f16cc2f",
+          "source": "TechCrunch AI",
+          "title": "2026年TechCrunch Disrupt大会：第二日",
+          "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "published_at": "2026-10-14T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12c12299",
+      "title": "美国解除对委内瑞拉最高立法者的制裁",
+      "summary": "美国解除对委内瑞拉最高立法者的制裁，这是今年早些时候马杜罗被捕后，美国与委内瑞拉关系回暖的又一信号，表明两国双边关系近期正朝着缓和积极的方向发展。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4169426b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4169426b",
+          "source": "Bloomberg",
+          "title": "美国解除对委内瑞拉最高立法者的制裁",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-lifts-sanctions-on-venezuela-s-top-lawmaker-as-relations-thaw",
+          "published_at": "2026-10-14T14:20:42+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:20:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ac011e7",
+      "title": "爱尔兰全国数十万工人举行罢工",
+      "summary": "爱尔兰全国范围内爆发大规模罢工行动，共有数十万工人参与其中。此次罢工发生在公共部门工人与爱尔兰政府的薪酬纠纷持续发酵之际，工人通过罢工向政府施压，要求解决薪酬争议，维护自身相关权益。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10bd/live/7b5c9150-c7b8-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "f744dfce"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "f744dfce",
+          "source": "BBC World",
+          "title": "爱尔兰全国数十万工人举行罢工",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T14:18:18+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:18:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e9420c9",
+      "title": "达利创作的书籍封面在法国遭窃",
+      "summary": "三名窃贼闯入位于法国中部的一家私人博物馆，盗走超现实主义艺术大师萨尔瓦多·达利创作的书籍封面作品。这件被盗作品重达330磅，出自这位享誉全球的超现实主义标志性艺术家之手，相关部门正对这起盗窃案件展开追查。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/13int-france-dali-photo-cvjf/13int-france-dali-photo-cvjf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "40d96cc6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "40d96cc6",
+          "source": "NYTimes World",
+          "title": "达利创作的书籍封面在法国遭窃",
+          "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
+          "published_at": "2026-10-14T14:15:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:15:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "49f95286",
+      "title": "“他们为何杀他？”——悼念胡塞武装袭击沙特机场遇难者",
+      "summary": "伊朗支持的胡塞武装袭击沙特一座机场，造成人员遇难。这是胡塞武装与沙特陷入长期冲突以来，胡塞武装对沙特发动的迄今为止杀伤力最大的一次袭击，相关人士悼念此次袭击中的遇难者。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-saudi-airport-vbwm/15int-saudi-airport-vbwm-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "d68853a5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d68853a5",
+          "source": "NYTimes World",
+          "title": "“他们为何杀他？”——悼念胡塞武装袭击沙特机场遇难者",
+          "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+          "published_at": "2026-10-14T14:15:31+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:15:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "42750611",
+      "title": "NTangible押注其可预测运动员压力下的表现",
+      "summary": "科技公司NTangible正打造一款体育分析平台，面向大学体育机构及各类体育俱乐部推出。该平台可测量运动员的“关键时刻发挥能力”，该公司押注其技术能够准确预判运动员在压力环境下的赛场表现。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NTangible-Stills-11.jpg?resize=1200,675",
+      "article_ids": [
+        "9e3c30a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9e3c30a0",
+          "source": "TechCrunch",
+          "title": "NTangible押注其可预测运动员压力下的表现",
+          "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+          "published_at": "2026-10-14T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d62e637",
+      "title": "Epic新版游戏启动器采用“氛围编码”开发",
+      "summary": "Epic Games今日宣布推出PC端游戏启动器重大更新的预览版本，称新版启动器速度提升显著，新增对Linux系统的支持。目前Epic正大力推进AI辅助开发，此次更新被官方称为“氛围编码”项目。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "9eae47a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "9eae47a0",
+          "source": "The Verge AI",
+          "title": "Epic新版游戏启动器采用“氛围编码”开发",
+          "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+          "published_at": "2026-10-14T13:55:02+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:55:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5ebe5b8a",
+      "title": "德国开庭审理被控炸毁北溪管道的乌克兰人",
+      "summary": "北溪天然气管道爆炸袭击案发四年后，乌克兰人谢尔盖·库兹涅佐夫在德国出庭受审，他被指控策划炸毁这条俄罗斯输往德国的天然气管道，该爆炸事件曾引发国际社会高度关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41b7/live/66289890-c7c4-11f1-993a-152cbb068da1.jpg",
+      "article_ids": [
+        "202b31c2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "202b31c2",
+          "source": "BBC World",
+          "title": "德国开庭审理被控炸毁北溪管道的乌克兰人",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T13:41:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:41:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "899fc458",
+      "title": "战争冲击财务 磷酸盐巨头寻求外国投资者",
+      "summary": "摩洛哥国有磷酸盐巨头OCP SA受伊朗战争影响，出现供应链中断，企业利润遭受冲击，财务状况承压。目前该公司正为旗下部分业务招揽外国投资者，以缓解当前经营压力。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ced9fb71"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ced9fb71",
+          "source": "Bloomberg",
+          "title": "战争冲击财务 磷酸盐巨头寻求外国投资者",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/phosphate-giant-seeks-foreign-investors-as-war-squeezes-finances",
+          "published_at": "2026-10-14T13:38:11+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:38:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d2bcf6cd",
+      "title": "澳大利亚首批米其林星花落一州11家餐厅",
+      "summary": "澳大利亚评出首批米其林星级餐厅，全部11家获星餐厅均位于南澳大利亚州。据报道，本次所有获星餐厅都集中在该州，是因为南澳大利亚州政府出资聘请米其林匿名暗访检查员赴当地开展餐厅评级工作。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/825a/live/0bb8ed30-c7db-11f1-9671-5b70c6e774ea.jpg",
+      "article_ids": [
+        "0bb1f920"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0bb1f920",
+          "source": "BBC World",
+          "title": "澳大利亚首批米其林星花落一州11家餐厅",
+          "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T13:35:29+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:35:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0349aade",
+      "title": "泽连斯基助手称：乌克兰战争中星链受限与政治局势相关",
+      "summary": "泽连斯基助手表示，俄乌冲突中埃隆·马斯克旗下星链系统的使用受限与政治局势相关。目前星链系统可帮助乌方保护乌克兰领空，还能够有效引导无人机打击俄方目标。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
+      "article_ids": [
+        "945fdcf2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "945fdcf2",
+          "source": "BBC World",
+          "title": "泽连斯基助手称：乌克兰战争中星链受限与政治局势相关",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T13:11:17+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:11:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c4a917cb",
+      "title": "日本新内阁上任不到一个月，农林水产大臣因丑闻而辞职 - 观察者网",
+      "summary": "日本高市早苗新内阁上任不到一个月，内阁农林水产大臣就因丑闻宣布辞职，这已是该内阁接连曝出的丑闻之一。此事引发外界广泛质疑，有日本专家表示，若内阁应对该问题迟缓，将导致执政政权遭受重挫，持续消耗自身执政根基。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "86df0136"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "86df0136",
+          "source": "Google News (中国)",
+          "title": "日本新内阁上任不到一个月，农林水产大臣因丑闻而辞职 - 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuR0dURkN3QnhBaWoyclE1c1pjd2lnZmVOdjIyelhWZENsbGNZQXhvOU02aTNFRVE0bFlDNFYzbXdrTWIwYjdyWEd0cmowczZIcVdxSjBFTG1tdm9WaXpsS2FNRnNLcTZXaXd2RmNfbjNXMDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T13:04:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T13:04:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3f5c5ce4",
+      "title": "中方回应“日方不接受访问争议岛屿” 尊重二战成果 - 中华网",
+      "summary": "针对日方称无法接受中方代表团访问俄日争议岛屿择捉岛一事，中国外交部作出回应，明确此次黑龙江省代表团是访问俄罗斯萨哈林州首府开展友好交流，中方在相关岛屿问题上立场一贯明确，始终坚持尊重二战成果的原则。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "37f997d5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "37f997d5",
+          "source": "Google News (中国)",
+          "title": "中方回应“日方不接受访问争议岛屿” 尊重二战成果 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNHlvN2gwRWd5N0M0RnE0Y2g5OHB1WEt5LTNhcWpSWmFBSXVROTNIR0NPaUNnc2c4WFphNHB2VVlNQzdpMW9yQWgwcC0yT2lnRGZmWjVJMzlVeXprdk5qTVAwelVTWU9XZHhzUndQcXY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T12:59:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T12:59:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0a3bd8e0",
+      "title": "安思罗普警告小型AI模型可通过物联网设备自我复制",
+      "summary": "AI研发企业安思罗普发出警告，小型人工智能模型能够借助物联网设备实现自我复制，这类基于权重的小型复制型AI模型，还可能催生全新一代的计算机蠕虫，给全球网络安全领域带来新的潜在风险。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+      "article_ids": [
+        "7968b967"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "7968b967",
+          "source": "Ars Technica",
+          "title": "安思罗普警告小型AI模型可通过物联网设备自我复制",
+          "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "published_at": "2026-10-14T12:55:06+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T12:55:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ad54a8e4",
+      "title": "日本外务省就日本记者被拘留事件召见俄罗斯大使 - 新华网客户端",
+      "summary": "一名日本记者因涉嫌从事间谍活动、非法搜集情报，在俄罗斯远东地区被俄方拘留。日本外务省就此事召见俄罗斯驻日大使提出抗议并交涉，俄罗斯外交部称该记者的相关行为将恶化俄日两国关系，多家媒体对此事件进行了报道。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "0ddd7108"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0ddd7108",
+          "source": "Google News (中国)",
+          "title": "日本外务省就日本记者被拘留事件召见俄罗斯大使 - 新华网客户端",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem1ub0hQRmNkd2J3VDM3dmZabGYzMVVTRUxROTF5U0ZFUXlVZ2NzMWx6QTR4NVgxeUNUaUtkODd2a2dCQzlwRHB1UFZ0WGZLeTcwRFZpVHFvaUlfSDBYQU5mSjVndV9zYWRwS1lZZHZUcHpTZzN6QnVKSmtFN180VTNGcTRWTk52XzluSmxicnlnMU5FbUp6TWlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T12:20:50+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T12:20:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3af6c64b",
+      "title": "美对俄柴油制裁“松绑”算盘能成吗 实效存疑引发争议 - 中华网",
+      "summary": "近期美对俄柴油制裁出现松绑动向，俄美正就对美供应柴油合同进行谈判，普京与特朗普达成相关协议后，俄罗斯已恢复柴油出口装船作业。美方此番操作被指存有保选票、推动俄乌停火谈判等算盘，松绑实际效果存疑，引发各方争议。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ad779815"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ad779815",
+          "source": "Google News (中国)",
+          "title": "美对俄柴油制裁“松绑”算盘能成吗 实效存疑引发争议 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KSGZOel9XU19aampfOXBWb2ZCV3FjS0V3T0ctQlJuYkZsYjhuellUam94SzBoXzZ6Rzc2TWw3eFQwdTlKN2VTU0NtNk15amhlVU04SDNDMVBTdTc4UUk1X0tsSWhDRjRROEo4b2RIYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-14T12:19:14+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T12:19:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "34d83a0b",
+      "title": "科技速递：人造血液与电池的未来",
+      "summary": "这是工作日每日推送的科技通讯《The Download》的当日刊，内容提及2007年一架运送血液前往伊拉克战地医院的美军直升机被击落，七名机组人员全部遇难，这起悲剧推动了美军研发人造血液的进程，本期同时关注电池领域的未来发展。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?fit=2128,1196",
+      "article_ids": [
+        "014689cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "014689cd",
+          "source": "MIT Technology Review",
+          "title": "科技速递：人造血液与电池的未来",
+          "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+          "published_at": "2026-10-14T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d6a5c18",
+      "title": "日本抗议俄罗斯拘留被控从事间谍活动的记者",
+      "summary": "近日，一名日本记者在俄罗斯远东地区遭俄方逮捕，俄方指控其收集军事情报，涉嫌从事间谍活动。事发后，日本东京召见俄罗斯驻日本大使，就俄方拘留该记者一事正式提出抗议。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-japan-journalist-pqfl/14int-japan-journalist-pqfl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f31e172e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f31e172e",
+          "source": "NYTimes World",
+          "title": "日本抗议俄罗斯拘留被控从事间谍活动的记者",
+          "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+          "published_at": "2026-10-14T11:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T11:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec7197b9",
+      "title": "Scimplify融资2500万美元 拟用AI挑战中国在关键材料领域的主导地位",
+      "summary": "企业Scimplify完成2500万美元融资，计划借助人工智能技术，挑战中国在关键材料领域的主导地位。目前其年化收入已较此前翻三倍至2亿美元，正筹备推进美国市场的扩张计划。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+      "article_ids": [
+        "7f10a363"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7f10a363",
+          "source": "TechCrunch",
+          "title": "Scimplify融资2500万美元 拟用AI挑战中国在关键材料领域的主导地位",
+          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "published_at": "2026-10-14T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ec7197b9",
+      "title": "Scimplify获2500万美元融资 欲借AI挑战中国在关键原材料领域的主导地位",
+      "summary": "Scimplify完成2500万美元融资，目前其年化经营收入已增长两倍至2亿美元。该企业正筹划拓展美国市场，计划借助人工智能技术，挑战中国在全球关键原材料领域的优势地位。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+      "article_ids": [
+        "7f10a363"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "7f10a363",
+          "source": "TechCrunch AI",
+          "title": "Scimplify获2500万美元融资 欲借AI挑战中国在关键原材料领域的主导地位",
+          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "published_at": "2026-10-14T11:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
