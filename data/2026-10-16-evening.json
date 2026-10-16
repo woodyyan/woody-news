@@ -1,0 +1,2471 @@
+{
+  "date": "2026-10-16",
+  "edition": "evening",
+  "updated_at": "2026-10-17T00:17:06.150775+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "0b5be752",
+      "title": "苹果HomeView存在应用问题",
+      "title_original": "Apple&#8217;s HomeView has an app problem",
+      "summary": "苹果前不久发布重大智能家居新品，发布数日来，外界已获取新品HomeView的更多相关信息，同时也产生了不少新疑问。该设备算力充足、持续供电，本十分适合运行大量应用，却被发现存在应用相关问题。",
+      "summary_original": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T15:38:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "805c6efc",
+      "title": "Jev成Vercel有史以来采用速度最快的AI模型",
+      "title_original": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "相关统计数据显示，Jev是开发平台Vercel有史以来采用速度最快的AI模型。本次统计所用数据来自Vercel的AI网关，这是一款功能类似OpenRouter的统一API服务。",
+      "summary_original": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "805c6efc",
+      "title": "Jev成为Vercel有史以来采纳速度最快的AI模型",
+      "title_original": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "统计数据显示，Jev是开发平台Vercel有史以来被开发者采纳速度最快的AI模型。相关数据来自Vercel推出的AI网关，这是一款类似OpenRouter的统一API服务，可支持开发者统一接入各类AI模型。",
+      "summary_original": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e22b7796",
+      "title": "玻利维亚筹备新债发售 等待利率条件改善",
+      "title_original": "Bolivia Readies New Bond Sale as It Waits for Rates to Improve",
+      "summary": "玻利维亚财政部长克里斯蒂安·安德烈斯·莫拉莱斯表示，该国正密切监测全球信贷市场走势，等待出现借贷成本更具吸引力的合适时机，目前已筹备就绪，将在利率条件改善后推出新一轮债券发售。",
+      "summary_original": "Bolivia is monitoring global credit markets for an opportunity to issue debt at more attractive borrowing costs, Finance Minister Christian Andrés Morales said.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/bolivia-readies-new-bond-sale-as-it-waits-for-rates-to-improve",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T15:24:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "10878578",
+      "title": "巴基斯坦学校屋顶坍塌致死事件引发监管质疑",
+      "title_original": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "summary": "巴基斯坦西北部发生一起学校屋顶坍塌事故，造成32名儿童与1名教师不幸遇难。这一悲剧引发外界对当地校园建筑安全监管的质疑，目前该地区已启动全域学校安全检查工作。",
+      "summary_original": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T15:22:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e5700e1d",
+      "title": "特朗普称最新打击为“耻辱” 泽连斯基称乌克兰有权自卫",
+      "title_original": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "summary": "唐纳德·特朗普称乌克兰最新打击行动为“耻辱”，还称泽连斯基比普京更难合作。此番批评发表后，欧盟领导人纷纷声援乌克兰总统泽连斯基，泽连斯基则明确强调乌克兰拥有自卫的权利。",
+      "summary_original": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T15:22:12+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "22148739",
+      "title": "胡塞武装称近期沙特军事行动已致也门419人伤亡 - 第一财经",
+      "title_original": null,
+      "summary": "近期也门局势多线升级，本轮冲突中胡塞武装首次袭击亚丁总统府，也门政府称该袭击已造成5人死亡、16人受伤；胡塞武装表示，近期沙特的相关军事行动已造成也门419人伤亡，舆论关注冲突是否会进一步升级以及加剧的人道危机。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWSGpmQnUwYU9tXzVkNllBdWpGZ3RzcGRxT2hpLWNzdjhxRzZWNjNZYUItMng1R2xja1FBUEpyTEZfUUNIOUZDTDcyRUlUUlY5NS00?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T15:18:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7ea00d6",
+      "title": "科技行业AI借贷热潮为何撼动市场",
+      "title_original": "Why Tech’s AI Borrowing Binge Is Rattling Markets",
+      "summary": "信用违约互换是相当于华尔街债务交易保单的金融工具，在市场运行平稳时很少受到关注。但当一家公司的债务保险成本开始攀升，这往往是预警信号，意味着相关担忧情绪正在市场表面之下不断积聚。",
+      "summary_original": "The market for credit-default swaps, financial instruments that function much like insurance policies for Wall Street’s debt trades, rarely attracts attention when everything is going well. But when the cost of insuring a company’s debt starts climbing, more often than not it’s a warning that concerns are building beneath the surface.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/why-tech-s-ai-borrowing-binge-is-rattling-markets",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T15:17:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b4326f06",
+      "title": "印度最新尿素招标获供应量不足需求的25%",
+      "title_original": "India’s Latest Urea Tender Draws Less Than 25% of Volume Sought",
+      "summary": "印度是全球主要尿素进口国之一，该国上月开展的尿素招标中，仅获得不足需求总量25%的货源。这一情况表明，中东地区的冲突局势正持续推高农业生产农资投入成本，影响全球农资供应。",
+      "summary_original": "India, one of the world’s top urea importers, was able to secure less than 25% of the crop nutrient it sought in a tender last month, indicating that hostilities in the Middle East continue to keep farm input costs elevated.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-latest-urea-tender-draws-less-than-25-of-volume-sought",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T15:14:16+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "96438173",
+      "title": "83岁迈克尔·帕林谈仍环游世界",
+      "title_original": "Michael Palin on Still Traveling the World at 83",
+      "summary": "现年83岁的演员迈克尔·帕林近日接受访谈，他坦言自己目前尚不确定未来能否再次开启旅行，同时谈及了83岁高龄前往部分条件艰苦的国家旅行面临的挑战，相关内容源自彭博社。",
+      "summary_original": "\"I'm at the stage of not knowing whether I'm going to travel again.\" Actor Michael Palin opens up to Mishal Husain about the challenges of visiting some of the toughest countries at 83-years-old. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-still-traveling-the-world-at-83-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T15:10:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4dfa0f41",
+      "title": "Analogue将重新推出搭载优质升级的SNES与Genesis复古游戏机",
+      "title_original": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "summary": "Analogue今日发布新版Super Nt Plus与Mega Sg Plus复古游戏机，两款产品分别对应SNES与Genesis平台，重新设计了工业外观，为手柄及配件内置无线连接功能，可通过FPGA处理器运行对应平台的原版游戏卡带。",
+      "summary_original": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T15:08:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7e90198",
+      "title": "秘鲁原住民团体竞购中资铜矿部分矿权",
+      "title_original": "Peru Indigenous Group Bids for Part of China-Owned Copper Mine",
+      "summary": "秘鲁一个原住民社区提出，拟从中资企业MMG有限公司手中收购部分铜矿开采特许权，计划将目前在该区域作业的数千名个体手工矿工，整合转型为这家中资企业的正规供应商。",
+      "summary_original": "An Indigenous community in Peru is proposing to buy part of a copper concession from MMG Ltd. and turn thousands of artisanal miners operating there into formal suppliers to the Chinese-owned company.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T15:03:59+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e7f57c5d",
+      "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及其欧洲盟友",
+      "title_original": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "summary": "特朗普与泽连斯基的口水战目前走向尚不明朗，外界无法预测其最终结局。若双方争端持续发酵，将会威胁乌克兰仍从美国获取的关键作战援助，最终对乌克兰及其欧洲盟友造成不利影响。",
+      "summary_original": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T15:02:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d8cda145",
+      "title": "谷歌Play商店出现仿冒WhatsApp克隆应用 排位排在正版之前",
+      "title_original": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "summary": "本周谷歌Play商店刚被曝出存在仿冒Chrome的克隆应用，近日一名Reddit用户称，该商店的赞助广告位中，一款仿冒WhatsApp的克隆应用排在正版应用之前。据Android Authority此前报道，这款仿冒应用下载量已突破50万次。",
+      "summary_original": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T15:02:23+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ff1bad63",
+      "title": "与RTX Spark相处一周：我们体验英伟达新笔记本的全部发现",
+      "title_original": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "英伟达全新RTX Spark N1X处理器现已正式推出，这是面向笔记本与小型桌面设备的高性能Arm架构片上系统，定位对标苹果、英特尔等厂商的顶尖产品，评测团队已测试多款搭载该“超级芯片”的高性能笔记本，整理出相关体验结论。",
+      "summary_original": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ff1bad63",
+      "title": "与RTX Spark相处一周：试用英伟达新款笔记本的全部发现",
+      "title_original": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "英伟达全新RTX Spark N1X处理器正式推出，这款被称为“超级芯片”的产品是面向笔记本和小型台式机的高性能Arm架构片上系统，对标苹果、英特尔等厂商的顶级产品，评测团队已对搭载该芯片的多款高性能笔记本完成一周测试。",
+      "summary_original": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "43b7b8d3",
+      "title": "南非一疑似非法康复中心救出被锁链束缚的患者",
+      "title_original": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "summary": "南非一处疑似非法运营的康复中心被查处，当局从中营救出被锁链束缚的患者，该中心共关押200名患者，部分被救出的患者浑身布满疮伤，长期关押在过度拥挤的房间内，处境恶劣。",
+      "summary_original": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:57:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "36423aed",
+      "title": "巴西：弗拉维奥·博尔索纳罗热潮掩盖债务危机",
+      "title_original": "Brasil: euforia por Flávio Bolsonaro oculta crisis de deuda",
+      "summary": "巴西当前存在任何一位总统都无法忽视的债务问题，该国已有930万家企业处于债务逾期状态，家庭与农民的债务违约规模也达到历史纪录，这场债务危机是巴西当局必须直面的严峻挑战。",
+      "summary_original": "Brasil tiene un problema de deuda que ningún presidente podrá ignorar: 9,3 millones de empresas están en mora y los impagos de hogares y agricultores alcanzan niveles récord.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/brasil-euforia-por-flavio-bolsonaro-oculta-crisis-de-deuda-mvb38nf8",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T14:53:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5706205e",
+      "title": "胡塞袭击沙特 沙特王国体育及商业活动存疑",
+      "title_original": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "summary": "受伊朗支持的胡塞武装对沙特发动的袭击，已扰乱沙特多项体育赛事，还对当地商业活动构成威胁。沙特长期通过举办这类活动吸引投资、提升自身影响力，目前相关活动前景已充满不确定性。",
+      "summary_original": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-saudi-events-01-kgfc/16int-saudi-events-01-kgfc-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:50:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3229b2cc",
+      "title": "厄尔尼诺威胁全球食糖供应",
+      "title_original": "El Niño Threatens Global Sugar Supply",
+      "summary": "作为全球第二大食糖生产国，印度的甘蔗作物受厄尔尼诺影响干枯减产。这一情况不仅会损害消费者与种植农户的利益，还会冲击印度的能源安全目标，给全球食糖供应带来风险。",
+      "summary_original": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:41:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "74873596",
+      "title": "教皇手术确诊癌症后首次公开出镜",
+      "title_original": "Pope pictured for first time since surgery and cancer diagnosis",
+      "summary": "教皇于本周二在罗马的杰梅利医院接受手术，术后被确诊患有肺癌。此次公开的影像是教皇完成手术、确诊癌症以来的首张公开画面，也是教皇接受相关诊疗后首次出现在公众镜头面前。",
+      "summary_original": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e15/live/049ac9a0-c96c-11f1-a6e6-417671ef62cb.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:36:39+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b186bed1",
+      "title": "阿尔巴尼亚抗议活动演变为暴力：目前已知情况",
+      "title_original": "Albanian protests turn violent: What we know",
+      "summary": "阿尔巴尼亚反政府“火烈鸟”运动已在该国首都地拉那持续举行抗议活动数月，本周二开启的本轮抗议规模异于以往，目前抗议已升级演变为暴力冲突，相关事态引发外界广泛关注。",
+      "summary_original": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62ad/live/a3f113b0-c953-11f1-8879-9d9deeb686e1.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:33:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ce9337c6",
+      "title": "以色列定居者约旦河西岸收获季袭击致巴勒斯坦人与美记者受伤",
+      "title_original": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "近期约旦河西岸同类暴力袭击事件数量激增，BBC现场目睹蒙面以色列定居者袭击正在当地采收橄榄的巴勒斯坦人，本次袭击造成巴勒斯坦人和一名美国记者受伤，属于近期该区域激增的定居者暴力事件之一。",
+      "summary_original": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:31:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "460fbf9a",
+      "title": "马克·沃尔伯格：需正确运用电影AI 对AI克隆延续演艺遗产持开放态度",
+      "title_original": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "演员兼天使投资人马克·沃尔伯格谈及人工智能在电影行业的应用，他表示支持AI在电影制作中运用，前提是AI要用以赋能创作者的现有创作，同时他对用AI克隆技术延续自身演艺遗产持开放态度。",
+      "summary_original": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "460fbf9a",
+      "title": "马克·沃尔伯格谈正确运用电影AI，对AI分身延续其演艺遗产持开放态度",
+      "title_original": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "演员兼天使投资人马克·沃尔伯格表态，他对在电影制作中使用人工智能、打造AI分身延续自身演艺影响力都持开放接受态度，前提是人工智能要用于提升现有创作，遵循正确的应用方向。",
+      "summary_original": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b49f3fde",
+      "title": "两岁男童塞浦路斯酒店坠亡 父亲被罚款",
+      "title_original": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "summary": "近日塞浦路斯发生一起悲剧，一名两岁男童被父亲约书亚·福斯特抱着在酒店窗边看水上乐园风景时，父亲失手没能控制住孩子，导致男童意外坠亡，事后涉事父亲被处以罚款。",
+      "summary_original": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:21:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9e31a10c",
+      "title": "美国参议员要求调查乌克兰星链服务限制问题",
+      "title_original": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "summary": "乌克兰方面称，星链互联网网络的临时限速措施，已经对其在前线战场的作战任务造成了明显干扰。针对这一情况，美国参议员提出要求，将就乌克兰境内星链服务受限一事展开相关调查。",
+      "summary_original": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T14:19:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4823f0a1",
+      "title": "炫酷飞行特斯拉Roadster仅作展示",
+      "title_original": "The incredible flying Tesla Roadster is just for show",
+      "summary": "埃隆·马斯克昨晚对外展示了备受关注的可飞行特斯拉Roadster，该车可垂直爬上多层坡道，冲出坡道后在空中完成“尖翻”动作，越过一排特斯拉后借助冷气推进器成功降落，这款炫酷的飞行汽车目前仅作展示用途。",
+      "summary_original": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T14:15:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a1282aae",
+      "title": "Meta新条款或允许其免费使用新闻网站内容训练AI",
+      "title_original": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "据Nieman Lab报道，Meta将于10月30日生效的新条款，赋予其爬取抓取使用其平台的商家相关网站内容的权限，其中涵盖在线新闻出版商的新闻网站，这些内容可被用于AI开发与训练工作。",
+      "summary_original": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T14:02:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a1282aae",
+      "title": "Meta新条款或允许其免费利用新闻网站训练AI",
+      "title_original": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "据Nieman Lab报道，Meta将于10月30日生效的新条款，赋予该公司抓取使用其平台的商家关联网站（包括在线新闻出版商）内容的权限，这些免费获取的第三方内容可被用于Meta人工智能的开发、改进、研究及训练。",
+      "summary_original": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-16T14:02:40+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6df26837",
+      "title": "Veritas将防伪芯片拓展应用至珠宝、奖杯与香水瓶领域",
+      "title_original": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "summary": "如今造假者技术不断提升，可仿造出足以以假乱真的“超级假货”冒充正品流入市场。初创企业Veritas推出可验证商品真伪的自研芯片用以打击假货，现已将这款防伪芯片的应用范围拓展至珠宝、奖杯及香水瓶领域。",
+      "summary_original": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6df26837",
+      "title": "维里塔斯将防伪芯片拓展应用至珠宝、奖杯与香水瓶",
+      "title_original": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "summary": "当前造假技术不断升级，造假者可制作出能以假乱真的“超仿品”鱼目混珠。初创企业维里塔斯计划依靠自主研发的商品真伪验证芯片解决这一问题，现已将这款防伪芯片的应用范围拓展至珠宝、奖杯与香水瓶领域。",
+      "summary_original": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fd919bda",
+      "title": "这款可拉伸MagSafe收纳袋可为手机提供大容量收纳空间",
+      "title_original": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "summary": "近日推出一款全新手机收纳升级配件，可适配支持无线充电及其他磁吸配件的智能手机，它无法拓展手机内置存储，解决不了应用、照片、视频空间不足的问题。这款MagSafe Flex收纳袋外观类似可放少量信用卡的磁吸卡包，拥有更大收纳容量。",
+      "summary_original": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone, but its storage capacity [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pouch.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T13:33:21+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9c2bdac6",
+      "title": "日本政界领导人称每日耗数小时化妆做家务 引发舆论热议",
+      "title_original": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
+      "summary": "日本政客高市早苗称，自身日程比历任男性前任更为繁忙，她的这一表态暗指日本社会中女性承担着比例严重失衡的家务劳动，相关言论出炉后，随即引发日本各界广泛讨论。",
+      "summary_original": "Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-takaichi-schedule-pkjv/16int-takaichi-schedule-pkjv-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T13:28:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58b93e93",
+      "title": "美国银行拟发行至少60亿美元高评级债券",
+      "title_original": "Bank of America Eyes at Least $6 Billion in High-Grade Bond Deal",
+      "summary": "信贷市场刚经历动荡不安的一周，众多借款人的融资计划都被这场动荡打乱。美国银行选择逆势入市，计划在非常规的周五推出高评级债券发行，此次募资的目标规模至少为60亿美元。",
+      "summary_original": "Bank of America Corp. is seeking to raise at least $6 billion through an unusual Friday high-grade bond offering, braving the market after a turbulent week in credit markets disrupted fundraising plans for numerous borrowers.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/bank-of-america-taps-high-grade-bond-market-after-turbulent-week",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T13:28:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ed818b93",
+      "title": "市场狂热掩盖巴西激增债务问题",
+      "title_original": "Market Euphoria Distracts From Brazil’s Surging Debt Problem",
+      "summary": "弗拉维奥·博索纳罗在巴西总统竞选前期取得领先优势，引发了市场的狂热乐观情绪。受这种氛围影响，投资者正面临忽视严重债务问题的风险，目前激增的债务已经渗透到巴西经济的各个角落。",
+      "summary_original": "Flávio Bolsonaro’s early success in Brazil’s presidential race sparked such euphoria that investors risk overlooking a debt problem running through every corner of the nation’s economy.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/market-euphoria-distracts-from-brazil-s-mounting-debt-problem",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T13:26:43+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f44da52c",
+      "title": "iPhone Duo订单交付已延迟至2027年",
+      "title_original": "iPhone Duo orders are already delayed into 2027",
+      "summary": "苹果于美国东部时间周五早8点开启可折叠机型iPhone Duo的预购，预购开启不到一小时，该机型交付时间就出现推迟。目前苹果官网显示，所有配置机型的交付日期均为1月下旬，该机型原定10月23日在门店正式发售。",
+      "summary_original": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T13:10:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "62c95b03",
+      "title": "Replit首席执行官称职场未来是“自动驾驶公司”",
+      "title_original": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit首席执行官阿姆贾德·马萨德展望了“自动驾驶公司”的未来工作形态，他提出，在这类企业中，人工智能智能体将负责处理各类日常运营事务，人类则可抽身专注于更高层级的战略决策，勾勒出AI变革企业运行模式的新方向。",
+      "summary_original": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "62c95b03",
+      "title": "Replit首席执行官称未来工作形态为“自动驾驶公司”",
+      "title_original": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit首席执行官阿姆贾德·马萨德对未来企业与工作形态提出设想，他认为未来将出现“自动驾驶公司”，这类企业中人工智能代理负责处理各类日常任务，人类可专注于更高层级的决策工作。",
+      "summary_original": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "99efc9ec",
+      "title": "特朗普称泽连斯基比普京更难打交道，泽连斯基用沉默15秒回应‘替罪羊’提问 - 凤凰网",
+      "title_original": null,
+      "summary": "美国前总统特朗普称乌克兰总统泽连斯基比俄罗斯总统普京更难打交道，面对自身是否为相关问题“替罪羊”的提问，泽连斯基以15秒沉默回应，引发双方争议。此外，泽连斯基宣布乌不再遵守能源停火协议后，俄通报炼油厂遇袭，泽连斯基还曾称自己“遭到背叛”。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUlRtaEo2dndPWjF6VERHTmN2a2hnRThkYzBuUUFvSmN2Q3dnbThFSFJRZ3NPcnpUU2ZDT0N3ZlZTbXlFV1p3eXhpSDRpVTl4RkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T12:47:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2a1569c3",
+      "title": "2026年世界粮食日和粮食安全宣传周四川主会场活动举行：国家喊你多吃全谷物啦 - 四川新闻",
+      "title_original": null,
+      "summary": "2026年世界粮食日和粮食安全宣传周四川主会场活动已举办，本次活动呼应国家号召，倡导公众日常多食用全谷物。多家媒体围绕本次粮食安全主题，分别从全谷物融入日常饮食、筑牢大国粮仓、中国粮食安全成色等方面进行了报道与解读。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yS09oMHdpRldKQm4wOWkzaEdnVWtDYXF6aG4tYXkzVUdmSjRWRmhfUW8yMWZrOXhnQm9PYTMxaUd5YlE0cFVMa2xyY0JrWVZxY19QeENmSHlQYml5a2hCbndoaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T12:43:46+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "f6d58b34",
+      "title": "索尼Xperia 10 VI将无法获得此前承诺的Android 17更新",
+      "title_original": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "summary": "两年前发布的中端机型索尼Xperia 10 VI，出厂搭载Android 14，索尼推出该机型时承诺提供三次重大操作系统更新，按计划本该获得今年推出的Android 17更新。近日索尼英国官网支持页面发布通知，该机型无法获得此次承诺更新。",
+      "summary_original": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sonyxperia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T12:36:11+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ace5f392",
+      "title": "全球首款氛围编码枪支问世",
+      "title_original": "The first vibe-coded gun is here",
+      "summary": "持枪权活动人士科迪·威尔逊13年前造出全球首把3D打印枪械，推动了不可追踪“幽灵枪”的无序发展。如今他宣称推出又一项首创成果——全球首款AI制造的枪械，命名为WASP，记者已在现场见证相关操作。",
+      "summary_original": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP. I stood about 20 feet away as Wilson and his sidekick clamped the WASP to [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vibe-coded-ai-made-3d-printed-gun.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T12:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8d308751",
+      "title": "2026年全国“我们的节日·重阳”主题文化示范活动在如皋举办 - 新华报业网",
+      "title_original": null,
+      "summary": "2026年全国“我们的节日·重阳”主题文化示范活动落地江苏如皋。同期多地也开展相关敬老爱老主题活动：河南洛宁推出包含公益摄影等内容的系列敬老活动，福建省也在宁德举办了省级“我们的节日·重阳”主题文化活动。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRUTg1Qk0wYkhYUGwySWM5QUF0NFU0Um1NSHBaQ0xtZzNUMFFYOWxvdmUzUzdUN2MzbWRPVkFxUW9LNE9uLUxGRHhIUUQtc1kxdjFzSVJGZm9xR243ajlMZU5QMHRuQktZaHU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T12:22:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "482e4b85",
+      "title": "《科技速递：社交媒体禁令失效与延长宠物寿命》",
+      "title_original": "The Download: failed social media bans, and extending pets’ lives",
+      "summary": "这是科技领域工作日通讯《科技速递》的今日刊，当前多国接连推出社交媒体禁令，法国也已于今年七月加入推行禁令的行列。调查发现未成年人总能绕开限制使用社交媒体，有学者认为这一问题并不需要专门解决，本期还关注延长宠物寿命相关内容。",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T12:10:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e0e79d8f",
+      "title": "天水幼儿园多名后厨人员被判刑 严惩校园食品安全犯罪 - 中华网",
+      "title_original": null,
+      "summary": "天水幼儿血铅案一审宣判，多家媒体报道了该案件。该案中，涉事天水幼儿园共有包括实际负责人、多名后厨人员在内的六名被告人获刑，其中幼儿园实际负责人被判处无期徒刑，彰显了司法对校园食品安全犯罪的严厉惩处。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZTltZWZCdW1LbWFKYWpnaVBtRTNkdGdmenBpSEcyTmpzTTdJRlFXMGpUaGliOFh5NVRTYzdsVjFCR05uOWlPeExMdlduQlJvV3RDc1RLZEgzQUdPSVpVbFJfMjE0QjFCemg2SjFqNmo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T12:05:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "39d1edb0",
+      "title": "印度“蟑螂党”创始人在抗议活动前被拘留",
+      "title_original": "India's 'cockroach' party founder detained ahead of protest",
+      "summary": "由青年主导的印度“蟑螂党”运动此前已有两名领导人入狱，上周还发生了针对该运动人员的大规模拘捕。该运动原定在首都德里发起新一轮抗议，抗议开始前，其创始人被当局拘留。",
+      "summary_original": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T11:44:31+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "beaed149",
+      "title": "俄罗斯欲将基辅变为无法居住之地，当地民众如今生活如何",
+      "title_original": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+      "summary": "当前俄乌冲突中，俄罗斯试图将乌克兰首都基辅变为无法居住之地。如今基辅已成为一处远离前线的新型战场，在这里的日常生活里，民众每一天都要评估并承受无处不在的致命安全风险。",
+      "summary_original": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T11:25:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b108a896",
+      "title": "冷空气登场拉响“秋裤预警” 南北方温差可达15℃以上 - 中国青年网",
+      "title_original": null,
+      "summary": "新一股冷空气来袭，给我国带来明显降温和大范围雨雪天气，北方大部气温将创下半年新低，南北方温差可达15℃以上，相关气象提示拉响“秋裤预警”。同时局地将出现强降雨，中央气象台已发布暴雨蓝色预警，江苏北部将有暴雨或大暴雨。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcDlGcjJZWWNvZHZaaFY0TGZTSFhSekhRaXBvN0hnZG82STJ6ZUxZeld3OEpaYkl4VjRJUG5rRHNBMnJHMC1sdjF2OG01NjZ6dkpVakd4bWhjakVuVGJFSnhrNjM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T10:58:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "696531d7",
+      "title": "城镇供热“温暖工程”三年行动方案：运行满20年老管网将改造 - 新京报",
+      "title_original": null,
+      "summary": "住建部、国家发改委等六部门联合印发通知，启动城镇供热“温暖工程”三年行动，本次行动将对运行满20年的城镇老旧供热管网实施改造，旨在提升城镇供热保障能力与供热服务水平，保障民众冬季取暖稳定温暖。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85QjFjcEtNbFFWYkJ2UDVQY3Z6SEpSa0toWUxNLTJ0Z2tkak51TzZPTDJ0LTNLZVFBU3ZoOHRmOUxnbVVlMU9QalJDaGU5aDM2aWk5akxDclFDWFhXMlFjeXZsMHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T10:37:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "080a72db",
+      "title": "以色列选举中希望与犹太人合作的阿拉伯造王者",
+      "title_original": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
+      "summary": "原本是牙医的以色列议员曼苏尔·阿巴斯，是此次选举中能左右结果的阿拉伯关键人物，他此前就曾协助罢黜本雅明·内塔尼亚胡。如今他已和一名犹太前警察指挥官结盟，计划再次推动罢黜内塔尼亚胡，他始终主张同犹太人开展合作。",
+      "summary_original": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-israel-mansour-zpch/00int-israel-mansour-zpch-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T09:56:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ed821ad4",
+      "title": "纪念红军长征胜利90周年丨必须坚定共产主义远大理想和中国特色社会主义共同理想 - 中国政协网",
+      "title_original": null,
+      "summary": "红军长征胜利90周年之际，中国政协网、中国日报网、搜狐网、新浪财经等多家媒体推出相关主题报道。报道回望长征征程，缅怀长征历史，号召各界坚定共产主义远大理想和中国特色社会主义共同理想，传承长征精神，走好新时代长征路。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpU1hIbERsRnBIMUlDY0xGX1ZkQ2tIdVFaWld0ckNsWk9Fbk9DTzFRLTNXVnE0UFhGQ1dGOU5fdDZfY1FhcjBESk9RdUhSVG5vQnlEWnF4ZGlMQnhIMENLT2tEU0x3dzdI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-16T09:35:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "950bae43",
+      "title": "采购热潮持续升温 中国增购更多美国大豆",
+      "title_original": "China Buys More US Soybeans as Purchasing Spree Gathers Pace",
+      "summary": "九月底中美两国领导人举行峰会后，中国首次启动对美大豆收购，本周采购热潮持续推进，中方又新增采购多船美国大豆，本轮收购延续了近期不断升温的对美大豆采购热潮。",
+      "summary_original": "China has purchased more cargoes of US soybeans, extending a buying spree this week that marks its first acquisitions since the leaders of the two countries held a summit in late September.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-buys-more-us-soybeans-as-purchasing-spree-gathers-pace",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-16T09:16:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1e907660",
+      "title": "委内瑞拉致命警方突袭致死数千人 加拉加斯现反常安全局面",
+      "title_original": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+      "summary": "委内瑞拉开展的警方清缴犯罪突袭行动已造成数千人死亡，行动后该国首都加拉加斯犯罪率大幅下降。目前国际刑事法院正对这场沾满鲜血的行动展开调查，委内瑞拉正因该调查启动退出该法院的程序。",
+      "summary_original": "Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-venezuela-caracas01a-photo-ghbj/00int-venezuela-caracas01a-photo-ghbj-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T09:00:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c9d6e588",
+      "title": "这种植入物可恢复黄斑变性患者视力",
+      "title_original": "This implant can restore sight for patients with macular degeneration",
+      "summary": "年龄相关性黄斑变性影响全球超过500万人，此前一直没有能够帮助患者恢复视力的治疗方法。Prima系统结合视网膜植入物与带摄像头的眼镜改善患者视力，已于7月获得欧洲批准，目前正等待美国FDA审批。",
+      "summary_original": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "2aaa2b1e",
+      "title": "爱即基建",
+      "title_original": "Love is infrastructure",
+      "summary": "巴纳巴斯与梅因斯普林两地地理位置邻近，交通顺畅时车程仅约一小时，但长期以来关系疏远。两地民众仅偶尔偶遇问好便各自忙碌，双方都和距离更远、更为富裕的其他邻居互动更频繁密切。",
+      "summary_original": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_152590647-thumb.jpg?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "6ae330c3",
+      "title": "不舍与宠物告别？生物技术为你解忧",
+      "title_original": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "summary": "不少宠物主人都难以承受与爱宠离别的伤痛，作者以自身经历举例，称自己对早年饲养的唯一一只宠物猫佩皮，如今仅存零散模糊的记忆，目前已有生物技术推出相关服务，帮助人们留住与爱宠的联结，纾解告别带来的遗憾与伤痛。",
+      "summary_original": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_551902166.jpg?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "72a13b7e",
+      "title": "中国要求以色列停止在约旦河西岸“强行建立”定居点",
+      "title_original": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "summary": "中国外交部长王毅在一场国际会议的活动间隙，与以色列总统艾萨克·赫尔佐格进行交谈。中方在交谈中明确表明自身立场，要求以色列停止在约旦河西岸地区强行建立定居点。",
+      "summary_original": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-16T08:45:54+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a5302380",
+      "title": "巴黎公立学校性虐待危机",
+      "title_original": "The Sexual Abuse Crisis in Paris’s Public Schools",
+      "summary": "近期巴黎曝出大量公立学校性虐待指控，巴黎主管部门已公开承认，当地在防范性犯罪者进入学校从业方面存在“集体失职”，未能有效阻拦性犯罪人员进入校园工作，暴露出巴黎校园从业人员准入管理存在严重疏漏。",
+      "summary_original": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T08:22:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "75b7073c",
+      "title": "孩子总能绕过社交媒体禁令，这并非我们需要解决的问题",
+      "title_original": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "summary": "当前多国陆续出台针对未成年人的社交媒体禁令，今年7月法国效仿澳大利亚推出规定，禁止15岁以下未成年人使用主流社交平台，该禁令随后因人权理由被法国最高法院叫停，英国也计划禁止16岁以下未成年人使用脸书、TikTok等平台。",
+      "summary_original": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T07:56:32+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "941aa947",
+      "title": "苹果HomeView存在应用问题",
+      "summary": "苹果前不久发布重大智能家居新品，发布数日来，外界已获取新品HomeView的更多相关信息，同时也产生了不少新疑问。该设备算力充足、持续供电，本十分适合运行大量应用，却被发现存在应用相关问题。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0b5be752"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0b5be752",
+          "source": "The Verge",
+          "title": "苹果HomeView存在应用问题",
+          "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+          "published_at": "2026-10-16T15:38:17+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:38:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d148be86",
+      "title": "Jev成Vercel有史以来采用速度最快的AI模型",
+      "summary": "相关统计数据显示，Jev是开发平台Vercel有史以来采用速度最快的AI模型。本次统计所用数据来自Vercel的AI网关，这是一款功能类似OpenRouter的统一API服务。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "article_ids": [
+        "805c6efc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "805c6efc",
+          "source": "TechCrunch",
+          "title": "Jev成Vercel有史以来采用速度最快的AI模型",
+          "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "published_at": "2026-10-16T15:33:49+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d148be86",
+      "title": "Jev成为Vercel有史以来采纳速度最快的AI模型",
+      "summary": "统计数据显示，Jev是开发平台Vercel有史以来被开发者采纳速度最快的AI模型。相关数据来自Vercel推出的AI网关，这是一款类似OpenRouter的统一API服务，可支持开发者统一接入各类AI模型。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "article_ids": [
+        "805c6efc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "805c6efc",
+          "source": "TechCrunch AI",
+          "title": "Jev成为Vercel有史以来采纳速度最快的AI模型",
+          "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "published_at": "2026-10-16T15:33:49+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e91e3b05",
+      "title": "玻利维亚筹备新债发售 等待利率条件改善",
+      "summary": "玻利维亚财政部长克里斯蒂安·安德烈斯·莫拉莱斯表示，该国正密切监测全球信贷市场走势，等待出现借贷成本更具吸引力的合适时机，目前已筹备就绪，将在利率条件改善后推出新一轮债券发售。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e22b7796"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e22b7796",
+          "source": "Bloomberg",
+          "title": "玻利维亚筹备新债发售 等待利率条件改善",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/bolivia-readies-new-bond-sale-as-it-waits-for-rates-to-improve",
+          "published_at": "2026-10-16T15:24:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:24:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01c7859d",
+      "title": "巴基斯坦学校屋顶坍塌致死事件引发监管质疑",
+      "summary": "巴基斯坦西北部发生一起学校屋顶坍塌事故，造成32名儿童与1名教师不幸遇难。这一悲剧引发外界对当地校园建筑安全监管的质疑，目前该地区已启动全域学校安全检查工作。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "10878578"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "10878578",
+          "source": "NYTimes World",
+          "title": "巴基斯坦学校屋顶坍塌致死事件引发监管质疑",
+          "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+          "published_at": "2026-10-16T15:22:54+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:22:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "19eb6c9b",
+      "title": "特朗普称最新打击为“耻辱” 泽连斯基称乌克兰有权自卫",
+      "summary": "唐纳德·特朗普称乌克兰最新打击行动为“耻辱”，还称泽连斯基比普京更难合作。此番批评发表后，欧盟领导人纷纷声援乌克兰总统泽连斯基，泽连斯基则明确强调乌克兰拥有自卫的权利。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "e5700e1d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e5700e1d",
+          "source": "BBC World",
+          "title": "特朗普称最新打击为“耻辱” 泽连斯基称乌克兰有权自卫",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T15:22:12+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:22:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1f768718",
+      "title": "胡塞武装称近期沙特军事行动已致也门419人伤亡 - 第一财经",
+      "summary": "近期也门局势多线升级，本轮冲突中胡塞武装首次袭击亚丁总统府，也门政府称该袭击已造成5人死亡、16人受伤；胡塞武装表示，近期沙特的相关军事行动已造成也门419人伤亡，舆论关注冲突是否会进一步升级以及加剧的人道危机。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "22148739"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "22148739",
+          "source": "Google News (中国)",
+          "title": "胡塞武装称近期沙特军事行动已致也门419人伤亡 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWSGpmQnUwYU9tXzVkNllBdWpGZ3RzcGRxT2hpLWNzdjhxRzZWNjNZYUItMng1R2xja1FBUEpyTEZfUUNIOUZDTDcyRUlUUlY5NS00?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T15:18:06+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:18:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35d4f5c3",
+      "title": "科技行业AI借贷热潮为何撼动市场",
+      "summary": "信用违约互换是相当于华尔街债务交易保单的金融工具，在市场运行平稳时很少受到关注。但当一家公司的债务保险成本开始攀升，这往往是预警信号，意味着相关担忧情绪正在市场表面之下不断积聚。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a7ea00d6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a7ea00d6",
+          "source": "Bloomberg",
+          "title": "科技行业AI借贷热潮为何撼动市场",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/why-tech-s-ai-borrowing-binge-is-rattling-markets",
+          "published_at": "2026-10-16T15:17:57+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:17:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "15f07a7b",
+      "title": "印度最新尿素招标获供应量不足需求的25%",
+      "summary": "印度是全球主要尿素进口国之一，该国上月开展的尿素招标中，仅获得不足需求总量25%的货源。这一情况表明，中东地区的冲突局势正持续推高农业生产农资投入成本，影响全球农资供应。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b4326f06"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b4326f06",
+          "source": "Bloomberg",
+          "title": "印度最新尿素招标获供应量不足需求的25%",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-latest-urea-tender-draws-less-than-25-of-volume-sought",
+          "published_at": "2026-10-16T15:14:16+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:14:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6c2680fd",
+      "title": "83岁迈克尔·帕林谈仍环游世界",
+      "summary": "现年83岁的演员迈克尔·帕林近日接受访谈，他坦言自己目前尚不确定未来能否再次开启旅行，同时谈及了83岁高龄前往部分条件艰苦的国家旅行面临的挑战，相关内容源自彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "96438173"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "96438173",
+          "source": "Bloomberg",
+          "title": "83岁迈克尔·帕林谈仍环游世界",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-still-traveling-the-world-at-83-video",
+          "published_at": "2026-10-16T15:10:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:10:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "baaa4adf",
+      "title": "Analogue将重新推出搭载优质升级的SNES与Genesis复古游戏机",
+      "summary": "Analogue今日发布新版Super Nt Plus与Mega Sg Plus复古游戏机，两款产品分别对应SNES与Genesis平台，重新设计了工业外观，为手柄及配件内置无线连接功能，可通过FPGA处理器运行对应平台的原版游戏卡带。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "4dfa0f41"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4dfa0f41",
+          "source": "The Verge",
+          "title": "Analogue将重新推出搭载优质升级的SNES与Genesis复古游戏机",
+          "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+          "published_at": "2026-10-16T15:08:38+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:08:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "da4a9b16",
+      "title": "秘鲁原住民团体竞购中资铜矿部分矿权",
+      "summary": "秘鲁一个原住民社区提出，拟从中资企业MMG有限公司手中收购部分铜矿开采特许权，计划将目前在该区域作业的数千名个体手工矿工，整合转型为这家中资企业的正规供应商。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a7e90198"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a7e90198",
+          "source": "Bloomberg",
+          "title": "秘鲁原住民团体竞购中资铜矿部分矿权",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
+          "published_at": "2026-10-16T15:03:59+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:03:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "adbd9217",
+      "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及其欧洲盟友",
+      "summary": "特朗普与泽连斯基的口水战目前走向尚不明朗，外界无法预测其最终结局。若双方争端持续发酵，将会威胁乌克兰仍从美国获取的关键作战援助，最终对乌克兰及其欧洲盟友造成不利影响。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e7f57c5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e7f57c5d",
+          "source": "NYTimes World",
+          "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及其欧洲盟友",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+          "published_at": "2026-10-16T15:02:53+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:02:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9543db2e",
+      "title": "谷歌Play商店出现仿冒WhatsApp克隆应用 排位排在正版之前",
+      "summary": "本周谷歌Play商店刚被曝出存在仿冒Chrome的克隆应用，近日一名Reddit用户称，该商店的赞助广告位中，一款仿冒WhatsApp的克隆应用排在正版应用之前。据Android Authority此前报道，这款仿冒应用下载量已突破50万次。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "d8cda145"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d8cda145",
+          "source": "The Verge",
+          "title": "谷歌Play商店出现仿冒WhatsApp克隆应用 排位排在正版之前",
+          "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+          "published_at": "2026-10-16T15:02:23+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:02:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21bf8e35",
+      "title": "与RTX Spark相处一周：我们体验英伟达新笔记本的全部发现",
+      "summary": "英伟达全新RTX Spark N1X处理器现已正式推出，这是面向笔记本与小型桌面设备的高性能Arm架构片上系统，定位对标苹果、英特尔等厂商的顶尖产品，评测团队已测试多款搭载该“超级芯片”的高性能笔记本，整理出相关体验结论。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "ff1bad63"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ff1bad63",
+          "source": "The Verge",
+          "title": "与RTX Spark相处一周：我们体验英伟达新笔记本的全部发现",
+          "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+          "published_at": "2026-10-16T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "21bf8e35",
+      "title": "与RTX Spark相处一周：试用英伟达新款笔记本的全部发现",
+      "summary": "英伟达全新RTX Spark N1X处理器正式推出，这款被称为“超级芯片”的产品是面向笔记本和小型台式机的高性能Arm架构片上系统，对标苹果、英特尔等厂商的顶级产品，评测团队已对搭载该芯片的多款高性能笔记本完成一周测试。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "ff1bad63"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "ff1bad63",
+          "source": "The Verge AI",
+          "title": "与RTX Spark相处一周：试用英伟达新款笔记本的全部发现",
+          "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+          "published_at": "2026-10-16T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "96dc1a4a",
+      "title": "南非一疑似非法康复中心救出被锁链束缚的患者",
+      "summary": "南非一处疑似非法运营的康复中心被查处，当局从中营救出被锁链束缚的患者，该中心共关押200名患者，部分被救出的患者浑身布满疮伤，长期关押在过度拥挤的房间内，处境恶劣。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg",
+      "article_ids": [
+        "43b7b8d3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "43b7b8d3",
+          "source": "BBC World",
+          "title": "南非一疑似非法康复中心救出被锁链束缚的患者",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:57:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:57:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d48c0f4",
+      "title": "巴西：弗拉维奥·博尔索纳罗热潮掩盖债务危机",
+      "summary": "巴西当前存在任何一位总统都无法忽视的债务问题，该国已有930万家企业处于债务逾期状态，家庭与农民的债务违约规模也达到历史纪录，这场债务危机是巴西当局必须直面的严峻挑战。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "36423aed"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "36423aed",
+          "source": "Bloomberg",
+          "title": "巴西：弗拉维奥·博尔索纳罗热潮掩盖债务危机",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/brasil-euforia-por-flavio-bolsonaro-oculta-crisis-de-deuda-mvb38nf8",
+          "published_at": "2026-10-16T14:53:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:53:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "73abb6cb",
+      "title": "胡塞袭击沙特 沙特王国体育及商业活动存疑",
+      "summary": "受伊朗支持的胡塞武装对沙特发动的袭击，已扰乱沙特多项体育赛事，还对当地商业活动构成威胁。沙特长期通过举办这类活动吸引投资、提升自身影响力，目前相关活动前景已充满不确定性。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-saudi-events-01-kgfc/16int-saudi-events-01-kgfc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5706205e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5706205e",
+          "source": "NYTimes World",
+          "title": "胡塞袭击沙特 沙特王国体育及商业活动存疑",
+          "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+          "published_at": "2026-10-16T14:50:01+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:50:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "55e0913c",
+      "title": "厄尔尼诺威胁全球食糖供应",
+      "summary": "作为全球第二大食糖生产国，印度的甘蔗作物受厄尔尼诺影响干枯减产。这一情况不仅会损害消费者与种植农户的利益，还会冲击印度的能源安全目标，给全球食糖供应带来风险。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3229b2cc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3229b2cc",
+          "source": "NYTimes World",
+          "title": "厄尔尼诺威胁全球食糖供应",
+          "link": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+          "published_at": "2026-10-16T14:41:01+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:41:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "586f7f20",
+      "title": "教皇手术确诊癌症后首次公开出镜",
+      "summary": "教皇于本周二在罗马的杰梅利医院接受手术，术后被确诊患有肺癌。此次公开的影像是教皇完成手术、确诊癌症以来的首张公开画面，也是教皇接受相关诊疗后首次出现在公众镜头面前。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e15/live/049ac9a0-c96c-11f1-a6e6-417671ef62cb.jpg",
+      "article_ids": [
+        "74873596"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "74873596",
+          "source": "BBC World",
+          "title": "教皇手术确诊癌症后首次公开出镜",
+          "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:36:39+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:36:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b5f7d84",
+      "title": "阿尔巴尼亚抗议活动演变为暴力：目前已知情况",
+      "summary": "阿尔巴尼亚反政府“火烈鸟”运动已在该国首都地拉那持续举行抗议活动数月，本周二开启的本轮抗议规模异于以往，目前抗议已升级演变为暴力冲突，相关事态引发外界广泛关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62ad/live/a3f113b0-c953-11f1-8879-9d9deeb686e1.jpg",
+      "article_ids": [
+        "b186bed1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b186bed1",
+          "source": "BBC World",
+          "title": "阿尔巴尼亚抗议活动演变为暴力：目前已知情况",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:33:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:33:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f8b8b9b8",
+      "title": "以色列定居者约旦河西岸收获季袭击致巴勒斯坦人与美记者受伤",
+      "summary": "近期约旦河西岸同类暴力袭击事件数量激增，BBC现场目睹蒙面以色列定居者袭击正在当地采收橄榄的巴勒斯坦人，本次袭击造成巴勒斯坦人和一名美国记者受伤，属于近期该区域激增的定居者暴力事件之一。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
+      "article_ids": [
+        "ce9337c6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ce9337c6",
+          "source": "BBC World",
+          "title": "以色列定居者约旦河西岸收获季袭击致巴勒斯坦人与美记者受伤",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:31:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:31:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "94e6b05c",
+      "title": "马克·沃尔伯格：需正确运用电影AI 对AI克隆延续演艺遗产持开放态度",
+      "summary": "演员兼天使投资人马克·沃尔伯格谈及人工智能在电影行业的应用，他表示支持AI在电影制作中运用，前提是AI要用以赋能创作者的现有创作，同时他对用AI克隆技术延续自身演艺遗产持开放态度。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "article_ids": [
+        "460fbf9a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "460fbf9a",
+          "source": "TechCrunch",
+          "title": "马克·沃尔伯格：需正确运用电影AI 对AI克隆延续演艺遗产持开放态度",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+          "published_at": "2026-10-16T14:26:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "94e6b05c",
+      "title": "马克·沃尔伯格谈正确运用电影AI，对AI分身延续其演艺遗产持开放态度",
+      "summary": "演员兼天使投资人马克·沃尔伯格表态，他对在电影制作中使用人工智能、打造AI分身延续自身演艺影响力都持开放接受态度，前提是人工智能要用于提升现有创作，遵循正确的应用方向。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+      "article_ids": [
+        "460fbf9a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "460fbf9a",
+          "source": "TechCrunch AI",
+          "title": "马克·沃尔伯格谈正确运用电影AI，对AI分身延续其演艺遗产持开放态度",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+          "published_at": "2026-10-16T14:26:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "76b76556",
+      "title": "两岁男童塞浦路斯酒店坠亡 父亲被罚款",
+      "summary": "近日塞浦路斯发生一起悲剧，一名两岁男童被父亲约书亚·福斯特抱着在酒店窗边看水上乐园风景时，父亲失手没能控制住孩子，导致男童意外坠亡，事后涉事父亲被处以罚款。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg",
+      "article_ids": [
+        "b49f3fde"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b49f3fde",
+          "source": "BBC World",
+          "title": "两岁男童塞浦路斯酒店坠亡 父亲被罚款",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:21:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:21:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "960cbfae",
+      "title": "美国参议员要求调查乌克兰星链服务限制问题",
+      "summary": "乌克兰方面称，星链互联网网络的临时限速措施，已经对其在前线战场的作战任务造成了明显干扰。针对这一情况，美国参议员提出要求，将就乌克兰境内星链服务受限一事展开相关调查。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36aa/live/cac07320-c951-11f1-8879-9d9deeb686e1.jpg",
+      "article_ids": [
+        "9e31a10c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "9e31a10c",
+          "source": "BBC World",
+          "title": "美国参议员要求调查乌克兰星链服务限制问题",
+          "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:19:50+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:19:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3e4c078f",
+      "title": "炫酷飞行特斯拉Roadster仅作展示",
+      "summary": "埃隆·马斯克昨晚对外展示了备受关注的可飞行特斯拉Roadster，该车可垂直爬上多层坡道，冲出坡道后在空中完成“尖翻”动作，越过一排特斯拉后借助冷气推进器成功降落，这款炫酷的飞行汽车目前仅作展示用途。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "4823f0a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4823f0a1",
+          "source": "The Verge",
+          "title": "炫酷飞行特斯拉Roadster仅作展示",
+          "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+          "published_at": "2026-10-16T14:15:29+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:15:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff6106cc",
+      "title": "Meta新条款或允许其免费使用新闻网站内容训练AI",
+      "summary": "据Nieman Lab报道，Meta将于10月30日生效的新条款，赋予其爬取抓取使用其平台的商家相关网站内容的权限，其中涵盖在线新闻出版商的新闻网站，这些内容可被用于AI开发与训练工作。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a1282aae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a1282aae",
+          "source": "The Verge",
+          "title": "Meta新条款或允许其免费使用新闻网站内容训练AI",
+          "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "published_at": "2026-10-16T14:02:40+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:02:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ff6106cc",
+      "title": "Meta新条款或允许其免费利用新闻网站训练AI",
+      "summary": "据Nieman Lab报道，Meta将于10月30日生效的新条款，赋予该公司抓取使用其平台的商家关联网站（包括在线新闻出版商）内容的权限，这些免费获取的第三方内容可被用于Meta人工智能的开发、改进、研究及训练。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a1282aae"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a1282aae",
+          "source": "The Verge AI",
+          "title": "Meta新条款或允许其免费利用新闻网站训练AI",
+          "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "published_at": "2026-10-16T14:02:40+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:02:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "603165ed",
+      "title": "Veritas将防伪芯片拓展应用至珠宝、奖杯与香水瓶领域",
+      "summary": "如今造假者技术不断提升，可仿造出足以以假乱真的“超级假货”冒充正品流入市场。初创企业Veritas推出可验证商品真伪的自研芯片用以打击假货，现已将这款防伪芯片的应用范围拓展至珠宝、奖杯及香水瓶领域。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "article_ids": [
+        "6df26837"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6df26837",
+          "source": "TechCrunch",
+          "title": "Veritas将防伪芯片拓展应用至珠宝、奖杯与香水瓶领域",
+          "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+          "published_at": "2026-10-16T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "603165ed",
+      "title": "维里塔斯将防伪芯片拓展应用至珠宝、奖杯与香水瓶",
+      "summary": "当前造假技术不断升级，造假者可制作出能以假乱真的“超仿品”鱼目混珠。初创企业维里塔斯计划依靠自主研发的商品真伪验证芯片解决这一问题，现已将这款防伪芯片的应用范围拓展至珠宝、奖杯与香水瓶领域。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "article_ids": [
+        "6df26837"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "6df26837",
+          "source": "TechCrunch AI",
+          "title": "维里塔斯将防伪芯片拓展应用至珠宝、奖杯与香水瓶",
+          "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+          "published_at": "2026-10-16T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "59a7423a",
+      "title": "这款可拉伸MagSafe收纳袋可为手机提供大容量收纳空间",
+      "summary": "近日推出一款全新手机收纳升级配件，可适配支持无线充电及其他磁吸配件的智能手机，它无法拓展手机内置存储，解决不了应用、照片、视频空间不足的问题。这款MagSafe Flex收纳袋外观类似可放少量信用卡的磁吸卡包，拥有更大收纳容量。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pouch.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "fd919bda"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "fd919bda",
+          "source": "The Verge",
+          "title": "这款可拉伸MagSafe收纳袋可为手机提供大容量收纳空间",
+          "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+          "published_at": "2026-10-16T13:33:21+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T13:33:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b6a146c0",
+      "title": "日本政界领导人称每日耗数小时化妆做家务 引发舆论热议",
+      "summary": "日本政客高市早苗称，自身日程比历任男性前任更为繁忙，她的这一表态暗指日本社会中女性承担着比例严重失衡的家务劳动，相关言论出炉后，随即引发日本各界广泛讨论。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-takaichi-schedule-pkjv/16int-takaichi-schedule-pkjv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "9c2bdac6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "9c2bdac6",
+          "source": "NYTimes World",
+          "title": "日本政界领导人称每日耗数小时化妆做家务 引发舆论热议",
+          "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
+          "published_at": "2026-10-16T13:28:25+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T13:28:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7345feb7",
+      "title": "美国银行拟发行至少60亿美元高评级债券",
+      "summary": "信贷市场刚经历动荡不安的一周，众多借款人的融资计划都被这场动荡打乱。美国银行选择逆势入市，计划在非常规的周五推出高评级债券发行，此次募资的目标规模至少为60亿美元。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "58b93e93"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "58b93e93",
+          "source": "Bloomberg",
+          "title": "美国银行拟发行至少60亿美元高评级债券",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/bank-of-america-taps-high-grade-bond-market-after-turbulent-week",
+          "published_at": "2026-10-16T13:28:22+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T13:28:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e7b0b62",
+      "title": "市场狂热掩盖巴西激增债务问题",
+      "summary": "弗拉维奥·博索纳罗在巴西总统竞选前期取得领先优势，引发了市场的狂热乐观情绪。受这种氛围影响，投资者正面临忽视严重债务问题的风险，目前激增的债务已经渗透到巴西经济的各个角落。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ed818b93"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ed818b93",
+          "source": "Bloomberg",
+          "title": "市场狂热掩盖巴西激增债务问题",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/market-euphoria-distracts-from-brazil-s-mounting-debt-problem",
+          "published_at": "2026-10-16T13:26:43+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T13:26:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd96524f",
+      "title": "iPhone Duo订单交付已延迟至2027年",
+      "summary": "苹果于美国东部时间周五早8点开启可折叠机型iPhone Duo的预购，预购开启不到一小时，该机型交付时间就出现推迟。目前苹果官网显示，所有配置机型的交付日期均为1月下旬，该机型原定10月23日在门店正式发售。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "f44da52c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f44da52c",
+          "source": "The Verge",
+          "title": "iPhone Duo订单交付已延迟至2027年",
+          "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+          "published_at": "2026-10-16T13:10:11+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T13:10:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "77f8d95a",
+      "title": "Replit首席执行官称职场未来是“自动驾驶公司”",
+      "summary": "Replit首席执行官阿姆贾德·马萨德展望了“自动驾驶公司”的未来工作形态，他提出，在这类企业中，人工智能智能体将负责处理各类日常运营事务，人类则可抽身专注于更高层级的战略决策，勾勒出AI变革企业运行模式的新方向。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
+      "article_ids": [
+        "62c95b03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "62c95b03",
+          "source": "TechCrunch",
+          "title": "Replit首席执行官称职场未来是“自动驾驶公司”",
+          "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+          "published_at": "2026-10-16T12:55:09+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "77f8d95a",
+      "title": "Replit首席执行官称未来工作形态为“自动驾驶公司”",
+      "summary": "Replit首席执行官阿姆贾德·马萨德对未来企业与工作形态提出设想，他认为未来将出现“自动驾驶公司”，这类企业中人工智能代理负责处理各类日常任务，人类可专注于更高层级的决策工作。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
+      "article_ids": [
+        "62c95b03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "62c95b03",
+          "source": "TechCrunch AI",
+          "title": "Replit首席执行官称未来工作形态为“自动驾驶公司”",
+          "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+          "published_at": "2026-10-16T12:55:09+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c8f1bdc5",
+      "title": "特朗普称泽连斯基比普京更难打交道，泽连斯基用沉默15秒回应‘替罪羊’提问 - 凤凰网",
+      "summary": "美国前总统特朗普称乌克兰总统泽连斯基比俄罗斯总统普京更难打交道，面对自身是否为相关问题“替罪羊”的提问，泽连斯基以15秒沉默回应，引发双方争议。此外，泽连斯基宣布乌不再遵守能源停火协议后，俄通报炼油厂遇袭，泽连斯基还曾称自己“遭到背叛”。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "99efc9ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "99efc9ec",
+          "source": "Google News (中国)",
+          "title": "特朗普称泽连斯基比普京更难打交道，泽连斯基用沉默15秒回应‘替罪羊’提问 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUlRtaEo2dndPWjF6VERHTmN2a2hnRThkYzBuUUFvSmN2Q3dnbThFSFJRZ3NPcnpUU2ZDT0N3ZlZTbXlFV1p3eXhpSDRpVTl4RkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T12:47:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:47:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c17796a2",
+      "title": "2026年世界粮食日和粮食安全宣传周四川主会场活动举行：国家喊你多吃全谷物啦 - 四川新闻",
+      "summary": "2026年世界粮食日和粮食安全宣传周四川主会场活动已举办，本次活动呼应国家号召，倡导公众日常多食用全谷物。多家媒体围绕本次粮食安全主题，分别从全谷物融入日常饮食、筑牢大国粮仓、中国粮食安全成色等方面进行了报道与解读。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "2a1569c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2a1569c3",
+          "source": "Google News (中国)",
+          "title": "2026年世界粮食日和粮食安全宣传周四川主会场活动举行：国家喊你多吃全谷物啦 - 四川新闻",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yS09oMHdpRldKQm4wOWkzaEdnVWtDYXF6aG4tYXkzVUdmSjRWRmhfUW8yMWZrOXhnQm9PYTMxaUd5YlE0cFVMa2xyY0JrWVZxY19QeENmSHlQYml5a2hCbndoaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T12:43:46+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:43:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eb066664",
+      "title": "索尼Xperia 10 VI将无法获得此前承诺的Android 17更新",
+      "summary": "两年前发布的中端机型索尼Xperia 10 VI，出厂搭载Android 14，索尼推出该机型时承诺提供三次重大操作系统更新，按计划本该获得今年推出的Android 17更新。近日索尼英国官网支持页面发布通知，该机型无法获得此次承诺更新。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sonyxperia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "f6d58b34"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f6d58b34",
+          "source": "The Verge",
+          "title": "索尼Xperia 10 VI将无法获得此前承诺的Android 17更新",
+          "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+          "published_at": "2026-10-16T12:36:11+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:36:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f7b87f77",
+      "title": "全球首款氛围编码枪支问世",
+      "summary": "持枪权活动人士科迪·威尔逊13年前造出全球首把3D打印枪械，推动了不可追踪“幽灵枪”的无序发展。如今他宣称推出又一项首创成果——全球首款AI制造的枪械，命名为WASP，记者已在现场见证相关操作。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vibe-coded-ai-made-3d-printed-gun.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "ace5f392"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ace5f392",
+          "source": "The Verge",
+          "title": "全球首款氛围编码枪支问世",
+          "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+          "published_at": "2026-10-16T12:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a3b6593a",
+      "title": "2026年全国“我们的节日·重阳”主题文化示范活动在如皋举办 - 新华报业网",
+      "summary": "2026年全国“我们的节日·重阳”主题文化示范活动落地江苏如皋。同期多地也开展相关敬老爱老主题活动：河南洛宁推出包含公益摄影等内容的系列敬老活动，福建省也在宁德举办了省级“我们的节日·重阳”主题文化活动。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8d308751"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8d308751",
+          "source": "Google News (中国)",
+          "title": "2026年全国“我们的节日·重阳”主题文化示范活动在如皋举办 - 新华报业网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRUTg1Qk0wYkhYUGwySWM5QUF0NFU0Um1NSHBaQ0xtZzNUMFFYOWxvdmUzUzdUN2MzbWRPVkFxUW9LNE9uLUxGRHhIUUQtc1kxdjFzSVJGZm9xR243ajlMZU5QMHRuQktZaHU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T12:22:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:22:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f6957bd",
+      "title": "《科技速递：社交媒体禁令失效与延长宠物寿命》",
+      "summary": "这是科技领域工作日通讯《科技速递》的今日刊，当前多国接连推出社交媒体禁令，法国也已于今年七月加入推行禁令的行列。调查发现未成年人总能绕开限制使用社交媒体，有学者认为这一问题并不需要专门解决，本期还关注延长宠物寿命相关内容。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
+      "article_ids": [
+        "482e4b85"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "482e4b85",
+          "source": "MIT Technology Review",
+          "title": "《科技速递：社交媒体禁令失效与延长宠物寿命》",
+          "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+          "published_at": "2026-10-16T12:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d61be5da",
+      "title": "天水幼儿园多名后厨人员被判刑 严惩校园食品安全犯罪 - 中华网",
+      "summary": "天水幼儿血铅案一审宣判，多家媒体报道了该案件。该案中，涉事天水幼儿园共有包括实际负责人、多名后厨人员在内的六名被告人获刑，其中幼儿园实际负责人被判处无期徒刑，彰显了司法对校园食品安全犯罪的严厉惩处。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "e0e79d8f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e0e79d8f",
+          "source": "Google News (中国)",
+          "title": "天水幼儿园多名后厨人员被判刑 严惩校园食品安全犯罪 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZTltZWZCdW1LbWFKYWpnaVBtRTNkdGdmenBpSEcyTmpzTTdJRlFXMGpUaGliOFh5NVRTYzdsVjFCR05uOWlPeExMdlduQlJvV3RDc1RLZEgzQUdPSVpVbFJfMjE0QjFCemg2SjFqNmo?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T12:05:28+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T12:05:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "45be5ad3",
+      "title": "印度“蟑螂党”创始人在抗议活动前被拘留",
+      "summary": "由青年主导的印度“蟑螂党”运动此前已有两名领导人入狱，上周还发生了针对该运动人员的大规模拘捕。该运动原定在首都德里发起新一轮抗议，抗议开始前，其创始人被当局拘留。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg",
+      "article_ids": [
+        "39d1edb0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "39d1edb0",
+          "source": "BBC World",
+          "title": "印度“蟑螂党”创始人在抗议活动前被拘留",
+          "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T11:44:31+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T11:44:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a77f8d8",
+      "title": "俄罗斯欲将基辅变为无法居住之地，当地民众如今生活如何",
+      "summary": "当前俄乌冲突中，俄罗斯试图将乌克兰首都基辅变为无法居住之地。如今基辅已成为一处远离前线的新型战场，在这里的日常生活里，民众每一天都要评估并承受无处不在的致命安全风险。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-kyiv-fklq/16int-ukraine-kyiv-fklq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "beaed149"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "beaed149",
+          "source": "NYTimes World",
+          "title": "俄罗斯欲将基辅变为无法居住之地，当地民众如今生活如何",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+          "published_at": "2026-10-16T11:25:22+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T11:25:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5166b70d",
+      "title": "冷空气登场拉响“秋裤预警” 南北方温差可达15℃以上 - 中国青年网",
+      "summary": "新一股冷空气来袭，给我国带来明显降温和大范围雨雪天气，北方大部气温将创下半年新低，南北方温差可达15℃以上，相关气象提示拉响“秋裤预警”。同时局地将出现强降雨，中央气象台已发布暴雨蓝色预警，江苏北部将有暴雨或大暴雨。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b108a896"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b108a896",
+          "source": "Google News (中国)",
+          "title": "冷空气登场拉响“秋裤预警” 南北方温差可达15℃以上 - 中国青年网",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcDlGcjJZWWNvZHZaaFY0TGZTSFhSekhRaXBvN0hnZG82STJ6ZUxZeld3OEpaYkl4VjRJUG5rRHNBMnJHMC1sdjF2OG01NjZ6dkpVakd4bWhjakVuVGJFSnhrNjM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T10:58:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T10:58:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "01972231",
+      "title": "城镇供热“温暖工程”三年行动方案：运行满20年老管网将改造 - 新京报",
+      "summary": "住建部、国家发改委等六部门联合印发通知，启动城镇供热“温暖工程”三年行动，本次行动将对运行满20年的城镇老旧供热管网实施改造，旨在提升城镇供热保障能力与供热服务水平，保障民众冬季取暖稳定温暖。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "696531d7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "696531d7",
+          "source": "Google News (中国)",
+          "title": "城镇供热“温暖工程”三年行动方案：运行满20年老管网将改造 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85QjFjcEtNbFFWYkJ2UDVQY3Z6SEpSa0toWUxNLTJ0Z2tkak51TzZPTDJ0LTNLZVFBU3ZoOHRmOUxnbVVlMU9QalJDaGU5aDM2aWk5akxDclFDWFhXMlFjeXZsMHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T10:37:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T10:37:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f152e07e",
+      "title": "以色列选举中希望与犹太人合作的阿拉伯造王者",
+      "summary": "原本是牙医的以色列议员曼苏尔·阿巴斯，是此次选举中能左右结果的阿拉伯关键人物，他此前就曾协助罢黜本雅明·内塔尼亚胡。如今他已和一名犹太前警察指挥官结盟，计划再次推动罢黜内塔尼亚胡，他始终主张同犹太人开展合作。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-israel-mansour-zpch/00int-israel-mansour-zpch-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "080a72db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "080a72db",
+          "source": "NYTimes World",
+          "title": "以色列选举中希望与犹太人合作的阿拉伯造王者",
+          "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+          "published_at": "2026-10-16T09:56:26+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:56:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "96adcd50",
+      "title": "纪念红军长征胜利90周年丨必须坚定共产主义远大理想和中国特色社会主义共同理想 - 中国政协网",
+      "summary": "红军长征胜利90周年之际，中国政协网、中国日报网、搜狐网、新浪财经等多家媒体推出相关主题报道。报道回望长征征程，缅怀长征历史，号召各界坚定共产主义远大理想和中国特色社会主义共同理想，传承长征精神，走好新时代长征路。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ed821ad4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ed821ad4",
+          "source": "Google News (中国)",
+          "title": "纪念红军长征胜利90周年丨必须坚定共产主义远大理想和中国特色社会主义共同理想 - 中国政协网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpU1hIbERsRnBIMUlDY0xGX1ZkQ2tIdVFaWld0ckNsWk9Fbk9DTzFRLTNXVnE0UFhGQ1dGOU5fdDZfY1FhcjBESk9RdUhSVG5vQnlEWnF4ZGlMQnhIMENLT2tEU0x3dzdI?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-16T09:35:28+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:35:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "213b9531",
+      "title": "采购热潮持续升温 中国增购更多美国大豆",
+      "summary": "九月底中美两国领导人举行峰会后，中国首次启动对美大豆收购，本周采购热潮持续推进，中方又新增采购多船美国大豆，本轮收购延续了近期不断升温的对美大豆采购热潮。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "950bae43"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "950bae43",
+          "source": "Bloomberg",
+          "title": "采购热潮持续升温 中国增购更多美国大豆",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-buys-more-us-soybeans-as-purchasing-spree-gathers-pace",
+          "published_at": "2026-10-16T09:16:27+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:16:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8096884c",
+      "title": "委内瑞拉致命警方突袭致死数千人 加拉加斯现反常安全局面",
+      "summary": "委内瑞拉开展的警方清缴犯罪突袭行动已造成数千人死亡，行动后该国首都加拉加斯犯罪率大幅下降。目前国际刑事法院正对这场沾满鲜血的行动展开调查，委内瑞拉正因该调查启动退出该法院的程序。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-venezuela-caracas01a-photo-ghbj/00int-venezuela-caracas01a-photo-ghbj-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1e907660"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1e907660",
+          "source": "NYTimes World",
+          "title": "委内瑞拉致命警方突袭致死数千人 加拉加斯现反常安全局面",
+          "link": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+          "published_at": "2026-10-16T09:00:14+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:00:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d3381546",
+      "title": "这种植入物可恢复黄斑变性患者视力",
+      "summary": "年龄相关性黄斑变性影响全球超过500万人，此前一直没有能够帮助患者恢复视力的治疗方法。Prima系统结合视网膜植入物与带摄像头的眼镜改善患者视力，已于7月获得欧洲批准，目前正等待美国FDA审批。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
+      "article_ids": [
+        "c9d6e588"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "c9d6e588",
+          "source": "MIT Technology Review",
+          "title": "这种植入物可恢复黄斑变性患者视力",
+          "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+          "published_at": "2026-10-16T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "16bdf8a6",
+      "title": "爱即基建",
+      "summary": "巴纳巴斯与梅因斯普林两地地理位置邻近，交通顺畅时车程仅约一小时，但长期以来关系疏远。两地民众仅偶尔偶遇问好便各自忙碌，双方都和距离更远、更为富裕的其他邻居互动更频繁密切。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_152590647-thumb.jpg?resize=1200,600",
+      "article_ids": [
+        "2aaa2b1e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "2aaa2b1e",
+          "source": "MIT Technology Review",
+          "title": "爱即基建",
+          "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+          "published_at": "2026-10-16T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6786598",
+      "title": "不舍与宠物告别？生物技术为你解忧",
+      "summary": "不少宠物主人都难以承受与爱宠离别的伤痛，作者以自身经历举例，称自己对早年饲养的唯一一只宠物猫佩皮，如今仅存零散模糊的记忆，目前已有生物技术推出相关服务，帮助人们留住与爱宠的联结，纾解告别带来的遗憾与伤痛。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_551902166.jpg?resize=1200,600",
+      "article_ids": [
+        "6ae330c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "6ae330c3",
+          "source": "MIT Technology Review",
+          "title": "不舍与宠物告别？生物技术为你解忧",
+          "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+          "published_at": "2026-10-16T09:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5fa53e3b",
+      "title": "中国要求以色列停止在约旦河西岸“强行建立”定居点",
+      "summary": "中国外交部长王毅在一场国际会议的活动间隙，与以色列总统艾萨克·赫尔佐格进行交谈。中方在交谈中明确表明自身立场，要求以色列停止在约旦河西岸地区强行建立定居点。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg",
+      "article_ids": [
+        "72a13b7e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "72a13b7e",
+          "source": "BBC World",
+          "title": "中国要求以色列停止在约旦河西岸“强行建立”定居点",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T08:45:54+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T08:45:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "081b51bc",
+      "title": "巴黎公立学校性虐待危机",
+      "summary": "近期巴黎曝出大量公立学校性虐待指控，巴黎主管部门已公开承认，当地在防范性犯罪者进入学校从业方面存在“集体失职”，未能有效阻拦性犯罪人员进入校园工作，暴露出巴黎校园从业人员准入管理存在严重疏漏。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a5302380"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a5302380",
+          "source": "NYTimes World",
+          "title": "巴黎公立学校性虐待危机",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+          "published_at": "2026-10-16T08:22:09+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T08:22:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a301a2d",
+      "title": "孩子总能绕过社交媒体禁令，这并非我们需要解决的问题",
+      "summary": "当前多国陆续出台针对未成年人的社交媒体禁令，今年7月法国效仿澳大利亚推出规定，禁止15岁以下未成年人使用主流社交平台，该禁令随后因人权理由被法国最高法院叫停，英国也计划禁止16岁以下未成年人使用脸书、TikTok等平台。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
+      "article_ids": [
+        "75b7073c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "75b7073c",
+          "source": "MIT Technology Review",
+          "title": "孩子总能绕过社交媒体禁令，这并非我们需要解决的问题",
+          "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+          "published_at": "2026-10-16T07:56:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T07:56:32+00:00",
+      "is_merged": false
+    }
+  ]
+}
