@@ -1,0 +1,2454 @@
+{
+  "date": "2026-10-17",
+  "edition": "evening",
+  "updated_at": "2026-10-17T23:09:42.780389+08:00",
+  "article_count": 60,
+  "cluster_count": 59,
+  "articles": [
+    {
+      "id": "73e40e62",
+      "title": "尖峰挑战！彭博面向冒险者的每周新闻问答",
+      "title_original": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "summary": "彭博推出面向冒险者的全新形式每周新闻问答，对传统问答模式做了策略化调整，不只考察参与者的新闻知识储备，还考验参与者对自身答案的信心。民众可登录彭博官网参与体验，彭博三位主持人将率先示范游玩。",
+      "summary_original": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T14:35:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9ef19a99",
+      "title": "贾德·阿布拉姆拉德偏爱蝴蝶刀与弹力好的枕头",
+      "title_original": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "summary": "贾德·阿布拉姆拉德是播客领域影响力极为深远的创作者，他曾打造实验性播客《Radiolab》，后续推出的《多莉·帕顿的美国》《费拉·库蒂：无畏》斩获皮博迪奖，前所未有地呈现了两位上世纪重量级音乐偶像的人生。",
+      "summary_original": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an experimental [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T14:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "03a4fe24",
+      "title": "《信用周刊：CoreWeave困境恐致AI垃圾债市场停摆》",
+      "title_original": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "summary": "CoreWeave公司陷入困境，引发市场对人工智能企业融资能力的广泛疑问。当前垃圾债买家已越来越多地将寻求融资的科技初创企业拒之门外，AI领域垃圾债市场因此面临停摆风险。",
+      "summary_original": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T14:27:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "bcd8dd8d",
+      "title": "诺斯韦尔首席执行官称医疗保健模式必须变革",
+      "title_original": "Northwell CEO Says Health Care Model Must Change",
+      "summary": "诺斯韦尔健康公司总裁兼首席执行官约翰·丹杰洛接受彭博社周末节目采访时指出，美国传统医疗模式不可持续，需更多聚焦健康、疾病预防与慢性病管理来提升可负担性。他还谈及医护短缺、非营利医院财务压力，以及AI可减轻行政负担、保留医疗决策人文作用。",
+      "summary_original": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prevention and chronic disease. Speaking with hosts David Gura and Lisa Mateo, D’Angelo discusses workforce shortages, the financial pressures facing nonprofit hospitals and how AI could reduce administrative burdens while preserving the human role in consequential medical decisions.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T14:03:47+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b014c397",
+      "title": "美联储抗击通胀能不损害农民利益吗？",
+      "title_original": "Can the Fed Fight Inflation Without Hurting Farmers?",
+      "summary": "芝加哥联储行长奥斯坦·古尔斯比前往伊利诺伊州农村，直接走访面临作物价格下跌、燃料化肥等生产投入成本上涨问题的农民。这类交流能让美联储在通胀压力完全体现于全国数据前，获得贴近实际的观察视角，消息源自彭博。",
+      "summary_original": "Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-level view of inflation pressures that may emerge before they are fully reflected in national data. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T14:03:13+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "74515c47",
+      "title": "SpaceX欲取代AT&T、T-Mobile、威瑞森：一场雄心勃勃代价高昂的豪赌",
+      "title_original": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
+      "summary": "市场分析机构LightShed Partners合伙人、分析师沃尔特·皮奇克近日围绕SpaceX的最新电信布局展开讨论。SpaceX此前宣布计划成为大型无线运营商，上周已同意收购一块用于扩展星链网络的低频频谱，该频段此前曾在电信业内流转。",
+      "summary_original": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T14:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0536caa9",
+      "title": "教皇肺癌手术数日后出院",
+      "title_original": "Pope discharged from hospital days after lung cancer surgery",
+      "summary": "教皇在接受肺癌手术数日后已顺利出院，根据公开行程安排，他将于本周日前往梵蒂冈圣彼得广场，主持传统的天使祈祷仪式，并向到场参与活动的公众赐予祝福。",
+      "summary_original": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T13:51:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b5b339b0",
+      "title": "塞内加尔前总统宣布退出联合国秘书长竞选 - 东方财富",
+      "title_original": null,
+      "summary": "塞内加尔前总统宣布退出联合国秘书长竞选，这一消息由东方财富发布，对联合国秘书长竞选相关资讯感兴趣的用户，可前往Google新闻平台，查看更多相关的头条新闻以及不同视角的相关观点内容。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNE8yZWJwWng1UEdESVB5YUdRd1RMcGxLWk9QUVFmOW1INlc1OHVOOXN2cDdwbXZoa2xzX093VEJ6anJDcmp6M0x4NXp5SndJRnZmVlJOekhlTWtjQXZvM01vdUVEQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T13:46:36+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "afdc6828",
+      "title": "教皇利奥肺部手术数日后出院",
+      "title_original": "Pope Leo Leaves Hospital, Days After Lung Surgery",
+      "summary": "教皇利奥十四世因肺癌在位于罗马的杰梅利医院接受治疗，此次他在接受肺癌相关肺部手术数日后，身体状况恢复良好，达到出院标准，已顺利离开医院，结束了本次阶段的肺癌相关诊疗。",
+      "summary_original": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00int-pope-discharged-photo-blch/00int-pope-discharged-photo-blch-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T13:42:33+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58721235",
+      "title": "教皇健康疑云再掀梵蒂冈坦诚度争议",
+      "title_original": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+      "summary": "教皇利奥自行对外公布了自身肺部病情，态度比此前多位教皇更为坦诚，但目前围绕其健康状况仍存不少谜团，外界纷纷推敲教皇公开声明、解读其中隐藏含义，其健康状况的不确定性，也再度引发关于梵蒂冈信息公开坦诚度的争议。",
+      "summary_original": "By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T13:42:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c1b03782",
+      "title": "弗里兰警告美主导同盟关系正在瓦解",
+      "title_original": "Freeland Warns US Alliances Are Fraying",
+      "summary": "前加拿大副总理克里丝蒂亚·弗里兰接受彭博社周末栏目采访时表示，加拿大等民主国家应降低对美依赖，同时仍对重建西方同盟保持开放。她还谈及阿尔伯塔分离运动、特朗普对俄乌问题的立场，并结合对美谈判经验介绍了自己的新书。",
+      "summary_original": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking with hosts David Gura and Christina Ruffini, Freeland discusses Alberta’s separatist movement, President Donald Trump’s approach to Russia and Ukraine, and lessons from her negotiations with the US that inform her new book, Unreliable Boyfriend. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T13:39:38+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9aba7bf9",
+      "title": "运动时尚吸引越来越多女性受众",
+      "title_original": "Sports Fashion Finds a Growing Female Audience",
+      "summary": "服饰品牌Terez创始人兼首席执行官扎拉·特雷泽·蒂施向彭博社《本周末》表示，当前女性体育迷数量不断增加，催生了对时尚球队服饰的新需求，也为其公司在各职业体育领域拓展业务创造了更多机会，消息源自彭博社。",
+      "summary_original": "Terez founder and CEO Zara Terez Tisch tells Bloomberg This Weekend how the growing number of women sports fans is creating new demand for fashionable team apparel and expanding opportunities for her company across professional sports. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T13:17:32+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c4e3b293",
+      "title": "法国为何爆发抗议活动？",
+      "title_original": "Why Are There Protests in France?",
+      "summary": "周六，法国学生示威游行集体汇入一场范围更广的抗议运动，该运动针对不断上涨的生活成本发起，此次集会进一步升级了抗议声势，推动法国全社会掀起对相关民生问题的全国性反思。",
+      "summary_original": "Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning.",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-fvjg/03int-france-schools-wtk-fvjg-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T13:13:08+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "1ad86e9b",
+      "title": "日本“跳舞上班族”舞不停",
+      "title_original": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
+      "summary": "60岁的内海彻本职是一名管理顾问，他在休息日跳舞的内容走红网络，成为全球知名的网络红人，不过他的这一爱好并没有获得所有人认同，日本国内仍存在一些不认可的声音。",
+      "summary_original": "Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T13:00:51+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "657279cf",
+      "title": "多家网站对AI智能体关闭大门",
+      "title_original": "Websites are closing their doors to AI agents",
+      "summary": "自主AI智能体是当前AI领域的热门方向，OpenAI、Meta、谷歌等多家科技企业都推出相关产品，宣称这类智能体可代替用户上网完成订餐、整理邮箱、购物等事务，近期已有多家网站开始对这类AI智能体关闭访问权限。",
+      "summary_original": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4cefbef1",
+      "title": "Bose新款有线耳机：恰到好处的简约",
+      "title_original": "Bose’s new wired earbuds are simple in the best way",
+      "summary": "2016年苹果去掉iPhone耳机插孔后，多数消费者转用蓝牙无线耳机，有线耳机此前经历连续五年销量下滑，今年却逆势上涨。音响品牌Bose推出主打简约设计的新款有线耳机，有线耳机销量回暖一定程度源于其重新成为潮流选择。",
+      "summary_original": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "657279cf",
+      "title": "多家网站正对AI智能体关闭大门",
+      "title_original": "Websites are closing their doors to AI agents",
+      "summary": "自主智能体是当下AI领域最热门的方向，OpenAI、Meta、谷歌等多家科技企业都推出可代用户完成订餐、整理邮箱、购物等各类线上事务的AI智能体，近期已有不少网站开始对这类AI智能体关闭访问。",
+      "summary_original": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "74204da4",
+      "title": "迷路鲨鱼成韩国网红",
+      "title_original": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "summary": "一头身长10英尺的鲨鱼被困韩国一处港口航道长达数周，已经吸引了超过一百万民众专程前往围观，这头鲨鱼也因此走红，目前当地官方正试图引导它返回开阔远海。",
+      "summary_original": "Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T12:55:52+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c0166154",
+      "title": "顺便一提：你可能错过的新闻头条",
+      "title_original": "By The Way: Headlines You May Have Missed",
+      "summary": "这是彭博社推出的冷门新闻汇总内容，由丽莎·马特奥、戴维·古拉、克里斯蒂娜·鲁菲尼整理，盘点了公众可能错过但值得关注的多条新闻，涵盖特斯拉Roadster、扎克伯格与吉尼斯啤酒相关话题、退休群体不愿娱乐消费、AI产生虚假记忆等内容。",
+      "summary_original": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T12:51:57+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4cbe1ac7",
+      "title": "冷空气两连击！江苏先降4～8℃，再降8～10℃，局地还有大雨 - 紫牛新闻",
+      "title_original": null,
+      "summary": "近期秋台风“蔷琵”已生成并加强为台风级，有观点认为其或成全球风王，路径预计呈抛物线，未来将靠近我国；同时冷空气将“两连击”影响江苏，当地气温先降4～8℃，再降8～10℃，局地有大雨，真正的秋凉将逐步登场。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZ0Y2UUI2b2kxN3V0UkZwTlJPN0RsSVdsdEpVLVVpcmZSYlJkYlJBZnZyakRLdXNSOEdaU05ZMVhyaXg3MGtSaU9kS01DQUZnREczVmtPSEpqaGZ2TmF0SDdDZWV2d3NqYmVOXzVpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T12:45:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "067245b5",
+      "title": "全球援助削减加剧人道主义压力",
+      "title_original": "Global Aid Cuts Deepen Humanitarian Strain",
+      "summary": "国际救援委员会总裁兼首席执行官戴维·米利班德接受彭博社周末节目采访时表示，当前全球冲突及各类危机不断加剧，美欧削减援助正削弱人道主义响应能力。他还谈及乌克兰等多国局势、疾病防控挑战，以及人工智能应用于人道主义工作的利弊。",
+      "summary_original": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises intensify around the world. Speaking with hosts David Gura and Christina Ruffini, Miliband discusses conditions in Ukraine, Yemen and Sudan, the challenge of containing disease outbreaks and the potential benefits and risks of AI in humanitarian work. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T12:44:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "661fb9a9",
+      "title": "泽连斯基称“星链”限速仅针对乌克兰 乌方在欧盟测试证实 - 凤凰网",
+      "title_original": null,
+      "summary": "2026年10月，乌克兰总统泽连斯基称星链仅针对乌克兰实施限速，乌方在欧盟测试后证实了这一说法。针对乌方星盾服务受限一事，美国前总统特朗普否认曾下令对乌限制相关服务，称乌方星盾故障与自己无关。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNFZSM2ZkTmNqcEZLdGZnSS1PaEhSVjNOV1pWaUg5VC1UcXBiNFdiR3ZVdnNOTHFxUDBlQUlJMEh1YkNCUF9MZVlhQW41RHhjZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T12:28:50+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "fbe9b8c3",
+      "title": "53岁市长巴利·巴加约科缘何成为法国青年抗议活动代表人物",
+      "title_original": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+      "summary": "53岁的巴利·巴加约科是法国巴黎近郊一处工人阶级郊区的市长，他频繁现身学生抗议活动现场，成为法国青年抗议活动的标志性人物，这一举动既为他收获了不少掌声，也引发了诸多批评指责。",
+      "summary_original": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-17T12:23:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8b691a90",
+      "title": "R星为开发《GTA VI》重塑自身",
+      "title_original": "Rockstar Rebuilt Itself to Make GTA VI",
+      "summary": "彭博社游戏记者杰森·施赖尔在《彭博周末》节目中透露，备受期待的《GTA VI》开发期间，Rockstar几乎将员工规模翻倍，全面改革开发文化，遏制过度加班。该作拥有极高商业预期，R星认为这款新作整体开发耗时有望缩短。",
+      "summary_original": "Bloomberg News video game reporter Jason Schreier tells Bloomberg This Weekend how Rockstar Games nearly doubled its workforce and overhauled its production culture while building the highly anticipated Grand Theft Auto VI. Speaking with hosts Christina Ruffini and Lisa Mateo, Schreier explains Rockstar’s efforts to curb excessive overtime, the extraordinary commercial expectations for the game and why the company believes its next major release could take less time to develop. (Source: Bloomber",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T12:15:53+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e15a32d1",
+      "title": "致数百名儿童中毒 中国一幼儿园园长被判终身监禁",
+      "title_original": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "summary": "中国某幼儿园发生一起恶性食品安全事件，园长伙同五名工作人员为让餐食外观更具吸引力，擅自在餐食中添加不可食用颜料，最终造成数百名儿童中毒，涉事园长已被依法判处终身监禁。",
+      "summary_original": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T12:11:58+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "22e7dd11",
+      "title": "苹果HomeView成网络菜谱创作者最新威胁",
+      "title_original": "Apple’s HomeView is just the latest threat to online recipe writers",
+      "summary": "苹果推出全新智能显示屏产品HomeView，本次发布一反苹果常规风格，没有展示精致打磨的科技产品与整洁场景，而是用三分钟视频呈现五口之家凌乱忙碌的晨间日常，将产品放在厨房场景中心，这款产品的推出也成为网络菜谱创作者面临的最新威胁。",
+      "summary_original": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "55a06382",
+      "title": "技术文档领域的梦幻一周",
+      "title_original": "It’s a dream week for tech docs",
+      "summary": "这是美国科技媒体The Verge推出的好物指南专栏《Installer》第148期，栏目向新读者表达欢迎，提示所有往期内容均可在专栏主页查阅，编辑称自己本周正在研读风投大佬马克·安德森与科技未来相关的内容。",
+      "summary_original": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "75ef65a0",
+      "title": "特朗普在与泽连斯基争端加剧之际豁免对俄多项制裁",
+      "title_original": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "美国总统特朗普近日以国家安全为由，宣布暂时取消美国国会不久前通过的多项对俄制裁限制。当前特朗普与乌克兰总统泽连斯基之间的争端正不断加剧，此次豁免对俄制裁的举动引发外界关注。",
+      "summary_original": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T11:56:06+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "cc0fbefd",
+      "title": "业余窃案百年后 罕见粉钻在法国展出",
+      "title_original": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "summary": "这枚原属法国王室的罕见粉钻1926年遭窃，失窃后被发现藏在一颗苹果中。时隔整整百年，这颗罕见粉钻在法国对公众开放展出，这也是它失窃一百年来首次与公众见面。",
+      "summary_original": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T10:46:41+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b689222d",
+      "title": "拾光纪·跟着总书记的足迹，寻找内蒙古的中国传统色 - 中国日报网",
+      "title_original": null,
+      "summary": "多家主流媒体围绕习近平总书记的内蒙古之行推出系列报道，循着总书记足迹挖掘内蒙古的中国传统色，关注总书记强调因地制宜推动高质量发展的要求，聚焦当地从“薯都”转型算力产业的新发展，解读考察算力产业的深意，同时展现总书记心系百姓、推动生态保护的理念。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CRjVickdiS3BWNjhRY2JYQTRSeFNGVlMwZEpYSm5rQzA2ZXNaVkVkQ0JLandaQXdTMm9ITnpxa2pMLUM3dVV0MWxIYWRsSnlPY2J1MTI4ajF3bWVOWjhRRTRJMC1HZ1lLNHdIQkJHQm1MOXFzTDVNZFVHbW4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T10:46:14+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "adbb890e",
+      "title": "泽连斯基称乌能源设施遭俄军大规模袭击 - 第一财经",
+      "title_original": null,
+      "summary": "乌克兰总统泽连斯基对外表示，乌克兰境内的能源设施遭到俄罗斯军队发动的大规模袭击。这一消息由第一财经发布，更多相关的头条新闻与各界观点，可前往Google新闻平台进行查看。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfUTVVMEdXY0o5bzBNY0xjSGNvcXBBTUU2Y2dEMlFmTEZ2bU9NOXQ1N3lRTjYzdFA5T2RYOXlxRjZhOHdKMHZqb2txWVd2Vmo2RzQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T10:35:02+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "b5023ce6",
+      "title": "教师与美国校园袭击者搏斗 持枪父亲随后连开数枪击中嫌疑人",
+      "title_original": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "美国发生一起校园袭击事件，警方通报，作案嫌疑人是一名16岁青少年，其此前曾就读于事发小学，本次袭击目标为校内一间接收特殊教育需求学生的教室，事发后教师率先与袭击者搏斗，随后一名持枪父亲连开数枪击中嫌疑人。",
+      "summary_original": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T09:58:17+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ef1b3b08",
+      "title": "西麦食品冯满发：全谷物是确定性消费趋势 透明化重塑消费者信任 - 中国经济网",
+      "title_original": null,
+      "summary": "世界粮食日前后，多家媒体发布涉粮食安全相关报道：西麦食品冯满发提出，全谷物是确定性消费趋势，需以透明化重塑消费者信任；我国智能粮仓建设取得显著成效，相关报道还展现各地粮食产业发展成果，彰显“中国饭碗”的过硬成色。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TZnJmSVN6QUJDYkZOLUZzRmgwSTBTck14cExYUU56M2NTWV9QTjNMcXREZHJVRWZZRjNYcjFYWGt2ZDV3VWVZQXdsV1F2OXc5aDRoUTh0djBEUEE2YklnbnVUakpRc29kcjZVWWZzck1YNUVVV1Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T09:42:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "a7423586",
+      "title": "凯蒂·扎卡里亚上任不到五天即将离开白宫职位",
+      "title_original": "Katie Zacharia leaving White House role less than five days into job",
+      "summary": "凯蒂·扎卡里亚获任白宫新闻秘书职位，上任还不满五天就将离任。此前她以新任新闻秘书身份完成首次公开亮相后，因任职资质不足、履职准备不充分，遭到了媒体的一片批评。",
+      "summary_original": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T09:14:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0710c2fc",
+      "title": "高市早苗向靖国神社奉献供品 是否已遥拜不肯透露 - RFI",
+      "title_original": null,
+      "summary": "日本政客高市早苗今年已第四次向供奉二战甲级战犯的靖国神社奉献供品，且拒绝透露是否进行遥拜。该行径引发日本有识之士坚决反对，韩国政府也敦促日本高层正视侵略历史、反省过去，相关行为遭到国际社会的批评。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZXRZN2UzaTN1U1hzRi1JbjJobFd3UDZESndJQV9kTlhVS1dSeVJ1bmJXTlV5S3NZY2ROWHYtQndwZmQ3c1ZzWmNlam9WWmtBRjdyUnBCaVlGekRxRTFQejB4R1dnS0hMWGI1b21ET1o5cmJjMXJIS0Jka1B6Njh1aXJMd3ZQRkdFY1FkRktGV0xEZzlsOUhMN3JKR0JHcTdxX3VWOVJLdENBRlZ5UVNONmNwZE9ibDJEU2dYc0V3QzU4bTdhWnduMFJmWGtWcm5XaVlnTXNLbS0zQV9oVG9WbXhhWkw3SldoREVyeGtwbzluaHVpRjI0YnV6bFVOaENTUkZCaWJzZmFJVTdvQmh2eEYzRFlqN0E1X25iajFWN2lKUnNGRUs4QXc5bXhCSW0wY1FueXFSallXNlRTVGRuRGk0a2dBWGhoREdVTkVwckkxZmtUZkZ0ZFU3cUFEa3dQY1RMTmNqYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T09:00:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "9991d527",
+      "title": "白宫新闻秘书上任不到一周就“下课” - DW.com",
+      "title_original": null,
+      "summary": "特朗普任命的白宫新闻秘书扎卡里亚在上任仅五天、不到一周时就遭解职“下课”。这一突发人事变动引发舆论关注，DW、BBC、观察者网、新浪财经等多家媒体都对该事件进行了报道，有消息称扎卡里亚是被白宫幕僚长做局解雇。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc2ViQlhtelBMTmMwVlNpbUViRnFFTjBnMkxYdmRJY2NyWm0tbDlibFcwQ21QVlNWYWlOOG40QUVlY3FHaWhpNmdzNFBFUXBCS1pkUF8tNHRrVld5U0hQNEpaa2d1Z3FpYU1XSTU1WDBBaWxxSmRHZzAyWXhxcm02Q1hvc0VRa2lkOFVsRUhreTlfYVJVZ2hFdThCcFFmemdUei04cndWR1pmMkVtbi1zZ1hzSFJLbW9mWGZzdmdiTmxqUkF6SEl4cHBlak96a1hud0tMUk5jOFd0NkZrMTVxNVRjUTRzaDZwLWE0aHN1OEFVdWttRGdVaWJyTmHSAfwBQVVfeXFMUDd2c3hXSnJYTy16WWNmdlNLVHh1dktUeGRGUmVfMEhybTVqbTNSVWJfZ05XRGNRRUdBTGJaVlc4STlVSnBFOGh2bGw0U1dJeFNrTXFvd21idVpJWnltQ1dWdVZCYl9rNnkzT0tGSlIyY29DY2dtejhsbVg2ZVdqYy1XQ0FiLWZ1TTUxUUMwTHJKSXhDZGc0eW90NC1xZC1hbk1HLW5GNU91WUtleHdGWldKSWU5WlV0RG5CUVFZNTAtRzNwOGNYLTlCRXZ3S0M3cUNOVFlEbXM2Rm0tRmpiUzdCR1lYZGlyLVhpalZwLXFQX0owM04xMW1GTkZY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T08:26:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "972df862",
+      "title": "美丽中国行丨黑龙江：两座虎园协同 助力东北虎种群保护 - 新华网",
+      "title_original": null,
+      "summary": "多家媒体推出“美丽中国行”系列报道，聚焦黑龙江东北虎保护工作。当地两座虎园协同发力，助力东北虎种群保护，推动更多濒危野生动物回归野外。报道提及短尾母虎现身东北虎豹国家公园，“完达山一号”或有望“脱单”，还科普了普通人遇东北虎豹的应对方法。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nX3N2UWV5UkVzaWdHcjNHZTdYYjRIOUhiNnNmdWQ1Y29XTDBhOUpSVGJ4TXh4aUsxS0RpX2JGNU51RE5rMERvQUZFelBDMjBkUzF5UmxrQmI5b0x3N2lyTFpDWlIwblktTjVNR2o2ZGkxVTFEeHhSMXN4OGZsMjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T08:01:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4dc7ca7c",
+      "title": "好评中国｜让长征精神在薪火相传中绽放光芒 - 中安在线",
+      "title_original": null,
+      "summary": "多家媒体围绕“好评中国”主题聚焦长征精神展开阐释，分别从答好“长征三问”、长征永远在路上、湘江血战后的遵义抉择等不同角度，解读长征精神作为人类共同财富的深厚内涵，倡导推动长征精神薪火相传，让其在新时代绽放新的光芒。",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aeXg1OEtXcXJZQkR0WFVaSmpwTUh6SEtfakpSSEdIemNxMFA1emdCVllONERyOFF5TjZpZVhEUmE0bGlUNkRaMkYwbUpWdmthSU0telNaTHQwSS1aQjZlRmNxbk5yUXdQWkxpeg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-10-17T06:04:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "58d2130f",
+      "title": "三名男子因在墨西哥谋杀澳美冲浪者 各获刑158年",
+      "title_original": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "summary": "三名凶手因在墨西哥谋杀冲浪者，每人被判处158年监禁。遇害者为罗宾逊兄弟杰克、卡勒姆以及二人的朋友卡特·罗德，三名遇害者当时前往墨西哥开展冲浪旅行，这起谋杀疑似由一场出纰漏的抢劫引发。",
+      "summary_original": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T03:11:10+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "dc4c4d42",
+      "title": "马克·沃尔伯格欲以平价健身概念对阵长寿创业公司",
+      "title_original": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "summary": "曾投资连锁健身品牌、该品牌后续被纽约证券交易所摘牌的马克·沃尔伯格，如今计划打造自有健身品牌，切入长寿创业领域推出平价项目，可为消费者提供冷水浴、血液检测、蛋白松饼等，普通消费者无需大额资产即可体验。",
+      "summary_original": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-17T02:36:18+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "ec7d9193",
+      "title": "选民名单争议升温 印度释放“蟑螂运动”领导人",
+      "title_original": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+      "summary": "印度“蟑螂”抗议运动创始人此前被警方拘留，该组织法务主管对外透露，此人已于周六正式获释。目前围绕印度选民名单的争议不断扩大，局势持续紧张，令新德里当局始终处于高度戒备状态。",
+      "summary_original": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over the country’s voter rolls keeps New Delhi on edge.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-10-17T02:34:29+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "8b2a1b6f",
+      "title": "大选临近 巴西亚马逊雨林砍伐量创纪录下降",
+      "title_original": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "亚马逊雨林是抵御全球气候变化的关键缓冲屏障，巴西前总统雅伊尔·博索纳罗任内，亚马逊森林砍伐规模持续扩大。目前巴西关键大选临近，该国亚马逊雨林砍伐量出现了创纪录的下降。",
+      "summary_original": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T02:33:09+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "d31ce62d",
+      "title": "女演员塞尔玛·布莱尔就飞机争执事件发声 称自己“无意伤害任何人”",
+      "title_original": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "summary": "女演员塞尔玛·布莱尔卷入一起飞机争执事件，她本人称无意伤害任何人。其公关人员表示，该事件源于医疗紧急状况，塞尔玛·布莱尔患有神经性疾病，该疾病可能引发不受控制的行为反应。",
+      "summary_original": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T01:55:45+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "045700ee",
+      "title": "法官驳回针对演员蒂莫西·巴斯菲尔德的儿童性虐待指控",
+      "title_original": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "summary": "周五，该案承办法官作出裁定，驳回针对演员蒂莫西·巴斯菲尔德的儿童性虐待指控。法官明确表示，本案公诉方在案件办理过程中未能秉持公平公正原则行事，因此作出驳回相关指控的决定。",
+      "summary_original": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9d2/live/ddd16cc0-c9b1-11f1-a04a-83cd2533e4f9.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-10-17T00:38:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e8f6ba7b",
+      "title": "关于iPhone Duo的全部新闻",
+      "title_original": "All the news about the iPhone Duo",
+      "summary": "苹果终于发布了传闻已久的折叠屏手机iPhone Duo。该款新机配备5.4英寸外屏与7.6英寸内屏，内屏采用纳米纹理饰面，几乎没有可见折痕，用电源键集成的Touch ID替代Face ID，配备双摄像头。",
+      "summary_original": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T23:36:26+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "5968706b",
+      "title": "苹果更新App Store规则 整治AI“裸化”应用",
+      "title_original": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "summary": "苹果更新App Store规则，明确禁止各类未经他人同意，利用AI工具生成人物私密图像的“裸化”应用。今年早些时候，有X平台用户借助Grok生成包含未成年人在内的非自愿深度伪造色情内容，苹果因未下架相关应用遭大量批评，此次新规正是在此背景下推出。",
+      "summary_original": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T22:51:22+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "13131774",
+      "title": "首席执行官称Replit不再与Anthropic合作",
+      "title_original": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Replit首席执行官马萨德表示，终止与Anthropic的合作出于多重原因，成本是其中一项因素。Replit今年八月已宣布与OpenAI达成合作，但此前从未传出过它终止与Anthropic合作的相关消息。",
+      "summary_original": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "13131774",
+      "title": "首席执行官称Replit已终止与Anthropic的合作",
+      "title_original": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Replit首席执行官马萨德透露，公司终止与Anthropic的合作出于多重原因，成本是其中一项因素。Replit已于今年八月宣布与OpenAI达成合作，但此前从未对外披露过终止与Anthropic合作的相关信息。",
+      "summary_original": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "3813289f",
+      "title": "OpenAI模型攻破加密钱包 入侵更多网站",
+      "title_original": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "近日曝出OpenAI模型可实施攻击行为，攻破加密钱包并入侵多个网站。这类攻击行为性质严重，若相关操作由人类在幕后实施，行为人已经符合追责条件，将可能被依法追究刑事责任。",
+      "summary_original": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+      "image_validated": true,
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-10-16T20:59:01+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "306543b0",
+      "title": "我们终于能听到武当派《少林往事》专辑的部分内容",
+      "title_original": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "summary": "武当派的《少林往事》专辑此前绝大多数内容都极难收听，近日播客《巴勃罗·托雷探秘》推出了一期围绕这张独家专辑的节目，听众如今可通过该节目听到这张专辑的两段片段。",
+      "summary_original": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T20:50:27+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "797fdc4f",
+      "title": "特斯拉司机称撞向高速巡逻车时熟睡且正使用FSD",
+      "title_original": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary": "一名特斯拉司机撞上高速巡逻车后称，事发时自己处于熟睡状态，车辆正使用FSD全自动驾驶辅助功能。加州高速巡警公布了涉事特斯拉超速行驶的相关视频，并提醒公众，FSD并非完全自动驾驶，该技术不能免除驾驶员安全驾驶的责任。",
+      "summary_original": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-10-16T20:49:04+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "88bd67ef",
+      "title": "保时捷电动Macan Turbo折射汽车业生存危机",
+      "title_original": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "summary": "保时捷推出2026款Macan Turbo电动车型，这是一款双排跨界纯电车型，最大输出功率达630马力，搭载容量为100千瓦时的电池。这款全新纯电车型的推出，也折射出传统车企向电动化转型进程中汽车行业面临的生存考验。",
+      "summary_original": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T19:40:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "95214f6e",
+      "title": "以色列定居者在约旦河西岸袭击巴勒斯坦人与《华盛顿邮报》记者",
+      "title_original": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+      "summary": "近期约旦河西岸暴力活动大幅升级，以色列定居者在此发动袭击，目标包括巴勒斯坦民众以及一名《华盛顿邮报》记者。橄榄收获是以色列占领的约旦河西岸地区巴勒斯坦人的核心文化符号，也是当地赖以生存的经济命脉，此次袭击发生在橄榄收获季。",
+      "summary_original": "In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T19:31:34+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "e7f57c5d",
+      "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及欧洲盟友",
+      "title_original": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "summary": "特朗普与泽连斯基的口水战最终走向尚不确定，分析指出，若双方争端持续，可能危及乌克兰当前仍从美国获取的关键作战支持，最终会给乌克兰及其欧洲盟友带来损害。",
+      "summary_original": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T19:12:25+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "c078f243",
+      "title": "教皇请求普京为遭围困的乌克兰城市奥列什基停火",
+      "title_original": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+      "summary": "刚做完肺癌手术处于康复期的教皇利奥十四世，与普京通话，为遭围困的乌克兰城市奥列什基发出停火呼吁。目前该地被水雷、无人机封锁，约2000人受困，正面临饥荒风险。",
+      "summary_original": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation.",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-pope-putin03-photo-pvfb/16int-pope-putin03-photo-pvfb-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-10-16T19:04:56+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "57c41972",
+      "title": "圆桌会谈：对话AI设计病毒创造者",
+      "title_original": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "本次圆桌会谈围绕人工智能能否设计新生命形式展开探讨，受众可在线收听或观看本次活动内容。2025年，斯坦福大学博士生塞缪尔·金利用生成式AI模型得出初步结论，提出了微型病毒的基因蓝图。目前这还不是AI生成生命的实例，但这有可能是下一步发展方向。",
+      "summary_original": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4466435d",
+      "title": "印度成为最新报告发现恶意AI代理活动的国家",
+      "title_original": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "印度成为最新报告发现恶意AI代理活动的国家。此类恶意AI代理可借助多个安全漏洞实现入侵，具体为利用应用配置、公开代码库中暴露的凭据与连接设置，以及云服务角色权限设置过宽的漏洞侵入系统。",
+      "summary_original": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "4466435d",
+      "title": "印度成为最新报告出现恶意AI代理活动的国家",
+      "title_original": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "印度曝出恶意AI代理活动，成为最新报告此类网络安全事件的国家。这类恶意AI代理可通过应用配置、公开代码库中暴露的凭证与连接设置，以及权限过宽的云角色侵入系统，引发安全风险。",
+      "summary_original": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ee63cc5",
+      "title": "从英伟达内部人士转型风投：为何机器人技术尚未迎来ChatGPT时刻",
+      "title_original": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "曾在英伟达领导机器人平台产品营销七年的阿穆利亚·维什瓦纳特，如今转型为风投。他认为当前机器人技术仍处于“乐高时代”，驱动器、机械手、软件、安全标准等基础模块仍在重构，这一观点与看好通用基础模型催生机器人风口的判断相悖。",
+      "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "edition": "evening"
+    },
+    {
+      "id": "0ee63cc5",
+      "title": "转做风投的英伟达前内部人士：为何机器人技术尚未迎来ChatGPT时刻",
+      "title_original": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "曾任英伟达机器人平台产品营销负责人七年的阿穆利亚·维什瓦纳特现已转型风险投资人。他认为当前机器人技术仍处于“乐高时代”，执行器、软件、安全标准等基础模块仍在重构，不认同机器人将凭借通用基础模型迎来爆发的观点。",
+      "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "edition": "evening"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "5ebf4013",
+      "title": "尖峰挑战！彭博面向冒险者的每周新闻问答",
+      "summary": "彭博推出面向冒险者的全新形式每周新闻问答，对传统问答模式做了策略化调整，不只考察参与者的新闻知识储备，还考验参与者对自身答案的信心。民众可登录彭博官网参与体验，彭博三位主持人将率先示范游玩。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "73e40e62"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "73e40e62",
+          "source": "Bloomberg",
+          "title": "尖峰挑战！彭博面向冒险者的每周新闻问答",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+          "published_at": "2026-10-17T14:35:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:35:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c1bd21cc",
+      "title": "贾德·阿布拉姆拉德偏爱蝴蝶刀与弹力好的枕头",
+      "summary": "贾德·阿布拉姆拉德是播客领域影响力极为深远的创作者，他曾打造实验性播客《Radiolab》，后续推出的《多莉·帕顿的美国》《费拉·库蒂：无畏》斩获皮博迪奖，前所未有地呈现了两位上世纪重量级音乐偶像的人生。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "9ef19a99"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9ef19a99",
+          "source": "The Verge",
+          "title": "贾德·阿布拉姆拉德偏爱蝴蝶刀与弹力好的枕头",
+          "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+          "published_at": "2026-10-17T14:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "174a3695",
+      "title": "《信用周刊：CoreWeave困境恐致AI垃圾债市场停摆》",
+      "summary": "CoreWeave公司陷入困境，引发市场对人工智能企业融资能力的广泛疑问。当前垃圾债买家已越来越多地将寻求融资的科技初创企业拒之门外，AI领域垃圾债市场因此面临停摆风险。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "03a4fe24"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "03a4fe24",
+          "source": "Bloomberg",
+          "title": "《信用周刊：CoreWeave困境恐致AI垃圾债市场停摆》",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+          "published_at": "2026-10-17T14:27:13+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:27:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a1f2c8f8",
+      "title": "诺斯韦尔首席执行官称医疗保健模式必须变革",
+      "summary": "诺斯韦尔健康公司总裁兼首席执行官约翰·丹杰洛接受彭博社周末节目采访时指出，美国传统医疗模式不可持续，需更多聚焦健康、疾病预防与慢性病管理来提升可负担性。他还谈及医护短缺、非营利医院财务压力，以及AI可减轻行政负担、保留医疗决策人文作用。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "bcd8dd8d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "bcd8dd8d",
+          "source": "Bloomberg",
+          "title": "诺斯韦尔首席执行官称医疗保健模式必须变革",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
+          "published_at": "2026-10-17T14:03:47+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:03:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "33180cfd",
+      "title": "美联储抗击通胀能不损害农民利益吗？",
+      "summary": "芝加哥联储行长奥斯坦·古尔斯比前往伊利诺伊州农村，直接走访面临作物价格下跌、燃料化肥等生产投入成本上涨问题的农民。这类交流能让美联储在通胀压力完全体现于全国数据前，获得贴近实际的观察视角，消息源自彭博。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b014c397"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b014c397",
+          "source": "Bloomberg",
+          "title": "美联储抗击通胀能不损害农民利益吗？",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
+          "published_at": "2026-10-17T14:03:13+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:03:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "768acc92",
+      "title": "SpaceX欲取代AT&T、T-Mobile、威瑞森：一场雄心勃勃代价高昂的豪赌",
+      "summary": "市场分析机构LightShed Partners合伙人、分析师沃尔特·皮奇克近日围绕SpaceX的最新电信布局展开讨论。SpaceX此前宣布计划成为大型无线运营商，上周已同意收购一块用于扩展星链网络的低频频谱，该频段此前曾在电信业内流转。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "74515c47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "74515c47",
+          "source": "The Verge",
+          "title": "SpaceX欲取代AT&T、T-Mobile、威瑞森：一场雄心勃勃代价高昂的豪赌",
+          "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+          "published_at": "2026-10-17T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ab3c43f",
+      "title": "教皇利奥十四世接受肺癌手术后数日顺利出院 将主持天使祈祷仪式",
+      "summary": "教皇利奥十四世因肺癌在罗马杰梅利医院接受肺部手术，术后恢复良好达到出院标准，于手术数日后顺利出院。根据公开行程，他将于本周日前往梵蒂冈圣彼得广场主持传统天使祈祷仪式，向到场公众赐福。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+      "article_ids": [
+        "0536caa9",
+        "afdc6828"
+      ],
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0536caa9",
+          "source": "BBC World",
+          "title": "教皇肺癌手术数日后出院",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T13:51:36+00:00"
+        },
+        {
+          "id": "afdc6828",
+          "source": "NYTimes World",
+          "title": "教皇利奥肺部手术数日后出院",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+          "published_at": "2026-10-17T13:42:33+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:51:36+00:00",
+      "is_merged": true
+    },
+    {
+      "id": "dedb2433",
+      "title": "塞内加尔前总统宣布退出联合国秘书长竞选 - 东方财富",
+      "summary": "塞内加尔前总统宣布退出联合国秘书长竞选，这一消息由东方财富发布，对联合国秘书长竞选相关资讯感兴趣的用户，可前往Google新闻平台，查看更多相关的头条新闻以及不同视角的相关观点内容。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b5b339b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b5b339b0",
+          "source": "Google News (中国)",
+          "title": "塞内加尔前总统宣布退出联合国秘书长竞选 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNE8yZWJwWng1UEdESVB5YUdRd1RMcGxLWk9QUVFmOW1INlc1OHVOOXN2cDdwbXZoa2xzX093VEJ6anJDcmp6M0x4NXp5SndJRnZmVlJOekhlTWtjQXZvM01vdUVEQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T13:46:36+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:46:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35684b52",
+      "title": "教皇健康疑云再掀梵蒂冈坦诚度争议",
+      "summary": "教皇利奥自行对外公布了自身肺部病情，态度比此前多位教皇更为坦诚，但目前围绕其健康状况仍存不少谜团，外界纷纷推敲教皇公开声明、解读其中隐藏含义，其健康状况的不确定性，也再度引发关于梵蒂冈信息公开坦诚度的争议。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "58721235"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "58721235",
+          "source": "NYTimes World",
+          "title": "教皇健康疑云再掀梵蒂冈坦诚度争议",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+          "published_at": "2026-10-17T13:42:27+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:42:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97054eeb",
+      "title": "弗里兰警告美主导同盟关系正在瓦解",
+      "summary": "前加拿大副总理克里丝蒂亚·弗里兰接受彭博社周末栏目采访时表示，加拿大等民主国家应降低对美依赖，同时仍对重建西方同盟保持开放。她还谈及阿尔伯塔分离运动、特朗普对俄乌问题的立场，并结合对美谈判经验介绍了自己的新书。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "c1b03782"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "c1b03782",
+          "source": "Bloomberg",
+          "title": "弗里兰警告美主导同盟关系正在瓦解",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+          "published_at": "2026-10-17T13:39:38+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:39:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d254fbc",
+      "title": "运动时尚吸引越来越多女性受众",
+      "summary": "服饰品牌Terez创始人兼首席执行官扎拉·特雷泽·蒂施向彭博社《本周末》表示，当前女性体育迷数量不断增加，催生了对时尚球队服饰的新需求，也为其公司在各职业体育领域拓展业务创造了更多机会，消息源自彭博社。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9aba7bf9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9aba7bf9",
+          "source": "Bloomberg",
+          "title": "运动时尚吸引越来越多女性受众",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+          "published_at": "2026-10-17T13:17:32+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:17:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a31e5db4",
+      "title": "法国为何爆发抗议活动？",
+      "summary": "周六，法国学生示威游行集体汇入一场范围更广的抗议运动，该运动针对不断上涨的生活成本发起，此次集会进一步升级了抗议声势，推动法国全社会掀起对相关民生问题的全国性反思。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-fvjg/03int-france-schools-wtk-fvjg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c4e3b293"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c4e3b293",
+          "source": "NYTimes World",
+          "title": "法国为何爆发抗议活动？",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+          "published_at": "2026-10-17T13:13:08+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:13:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "18a572ac",
+      "title": "日本“跳舞上班族”舞不停",
+      "summary": "60岁的内海彻本职是一名管理顾问，他在休息日跳舞的内容走红网络，成为全球知名的网络红人，不过他的这一爱好并没有获得所有人认同，日本国内仍存在一些不认可的声音。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1ad86e9b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1ad86e9b",
+          "source": "NYTimes World",
+          "title": "日本“跳舞上班族”舞不停",
+          "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
+          "published_at": "2026-10-17T13:00:51+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:00:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5248cce8",
+      "title": "多家网站对AI智能体关闭大门",
+      "summary": "自主AI智能体是当前AI领域的热门方向，OpenAI、Meta、谷歌等多家科技企业都推出相关产品，宣称这类智能体可代替用户上网完成订餐、整理邮箱、购物等事务，近期已有多家网站开始对这类AI智能体关闭访问权限。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "657279cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "657279cf",
+          "source": "The Verge",
+          "title": "多家网站对AI智能体关闭大门",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "published_at": "2026-10-17T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "98aea98f",
+      "title": "Bose新款有线耳机：恰到好处的简约",
+      "summary": "2016年苹果去掉iPhone耳机插孔后，多数消费者转用蓝牙无线耳机，有线耳机此前经历连续五年销量下滑，今年却逆势上涨。音响品牌Bose推出主打简约设计的新款有线耳机，有线耳机销量回暖一定程度源于其重新成为潮流选择。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "4cefbef1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "4cefbef1",
+          "source": "The Verge",
+          "title": "Bose新款有线耳机：恰到好处的简约",
+          "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+          "published_at": "2026-10-17T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5248cce8",
+      "title": "多家网站正对AI智能体关闭大门",
+      "summary": "自主智能体是当下AI领域最热门的方向，OpenAI、Meta、谷歌等多家科技企业都推出可代用户完成订餐、整理邮箱、购物等各类线上事务的AI智能体，近期已有不少网站开始对这类AI智能体关闭访问。",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "657279cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "657279cf",
+          "source": "The Verge AI",
+          "title": "多家网站正对AI智能体关闭大门",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "published_at": "2026-10-17T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f181b83",
+      "title": "迷路鲨鱼成韩国网红",
+      "summary": "一头身长10英尺的鲨鱼被困韩国一处港口航道长达数周，已经吸引了超过一百万民众专程前往围观，这头鲨鱼也因此走红，目前当地官方正试图引导它返回开阔远海。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "74204da4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "74204da4",
+          "source": "NYTimes World",
+          "title": "迷路鲨鱼成韩国网红",
+          "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+          "published_at": "2026-10-17T12:55:52+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:55:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02aa5af3",
+      "title": "顺便一提：你可能错过的新闻头条",
+      "summary": "这是彭博社推出的冷门新闻汇总内容，由丽莎·马特奥、戴维·古拉、克里斯蒂娜·鲁菲尼整理，盘点了公众可能错过但值得关注的多条新闻，涵盖特斯拉Roadster、扎克伯格与吉尼斯啤酒相关话题、退休群体不愿娱乐消费、AI产生虚假记忆等内容。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "c0166154"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "c0166154",
+          "source": "Bloomberg",
+          "title": "顺便一提：你可能错过的新闻头条",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
+          "published_at": "2026-10-17T12:51:57+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:51:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5c0bb9d",
+      "title": "冷空气两连击！江苏先降4～8℃，再降8～10℃，局地还有大雨 - 紫牛新闻",
+      "summary": "近期秋台风“蔷琵”已生成并加强为台风级，有观点认为其或成全球风王，路径预计呈抛物线，未来将靠近我国；同时冷空气将“两连击”影响江苏，当地气温先降4～8℃，再降8～10℃，局地有大雨，真正的秋凉将逐步登场。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4cbe1ac7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4cbe1ac7",
+          "source": "Google News (中国)",
+          "title": "冷空气两连击！江苏先降4～8℃，再降8～10℃，局地还有大雨 - 紫牛新闻",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZ0Y2UUI2b2kxN3V0UkZwTlJPN0RsSVdsdEpVLVVpcmZSYlJkYlJBZnZyakRLdXNSOEdaU05ZMVhyaXg3MGtSaU9kS01DQUZnREczVmtPSEpqaGZ2TmF0SDdDZWV2d3NqYmVOXzVpQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T12:45:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:45:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d2fbf56",
+      "title": "全球援助削减加剧人道主义压力",
+      "summary": "国际救援委员会总裁兼首席执行官戴维·米利班德接受彭博社周末节目采访时表示，当前全球冲突及各类危机不断加剧，美欧削减援助正削弱人道主义响应能力。他还谈及乌克兰等多国局势、疾病防控挑战，以及人工智能应用于人道主义工作的利弊。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "067245b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "067245b5",
+          "source": "Bloomberg",
+          "title": "全球援助削减加剧人道主义压力",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+          "published_at": "2026-10-17T12:44:18+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:44:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7f1746b",
+      "title": "泽连斯基称“星链”限速仅针对乌克兰 乌方在欧盟测试证实 - 凤凰网",
+      "summary": "2026年10月，乌克兰总统泽连斯基称星链仅针对乌克兰实施限速，乌方在欧盟测试后证实了这一说法。针对乌方星盾服务受限一事，美国前总统特朗普否认曾下令对乌限制相关服务，称乌方星盾故障与自己无关。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "661fb9a9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "661fb9a9",
+          "source": "Google News (中国)",
+          "title": "泽连斯基称“星链”限速仅针对乌克兰 乌方在欧盟测试证实 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNFZSM2ZkTmNqcEZLdGZnSS1PaEhSVjNOV1pWaUg5VC1UcXBiNFdiR3ZVdnNOTHFxUDBlQUlJMEh1YkNCUF9MZVlhQW41RHhjZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T12:28:50+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:28:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "54f25d48",
+      "title": "53岁市长巴利·巴加约科缘何成为法国青年抗议活动代表人物",
+      "summary": "53岁的巴利·巴加约科是法国巴黎近郊一处工人阶级郊区的市长，他频繁现身学生抗议活动现场，成为法国青年抗议活动的标志性人物，这一举动既为他收获了不少掌声，也引发了诸多批评指责。",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "fbe9b8c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "fbe9b8c3",
+          "source": "NYTimes World",
+          "title": "53岁市长巴利·巴加约科缘何成为法国青年抗议活动代表人物",
+          "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+          "published_at": "2026-10-17T12:23:26+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:23:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d0d1e500",
+      "title": "R星为开发《GTA VI》重塑自身",
+      "summary": "彭博社游戏记者杰森·施赖尔在《彭博周末》节目中透露，备受期待的《GTA VI》开发期间，Rockstar几乎将员工规模翻倍，全面改革开发文化，遏制过度加班。该作拥有极高商业预期，R星认为这款新作整体开发耗时有望缩短。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8b691a90"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8b691a90",
+          "source": "Bloomberg",
+          "title": "R星为开发《GTA VI》重塑自身",
+          "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
+          "published_at": "2026-10-17T12:15:53+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:15:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d3e91bf9",
+      "title": "致数百名儿童中毒 中国一幼儿园园长被判终身监禁",
+      "summary": "中国某幼儿园发生一起恶性食品安全事件，园长伙同五名工作人员为让餐食外观更具吸引力，擅自在餐食中添加不可食用颜料，最终造成数百名儿童中毒，涉事园长已被依法判处终身监禁。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png",
+      "article_ids": [
+        "e15a32d1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e15a32d1",
+          "source": "BBC World",
+          "title": "致数百名儿童中毒 中国一幼儿园园长被判终身监禁",
+          "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T12:11:58+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:11:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4326c180",
+      "title": "苹果HomeView成网络菜谱创作者最新威胁",
+      "summary": "苹果推出全新智能显示屏产品HomeView，本次发布一反苹果常规风格，没有展示精致打磨的科技产品与整洁场景，而是用三分钟视频呈现五口之家凌乱忙碌的晨间日常，将产品放在厨房场景中心，这款产品的推出也成为网络菜谱创作者面临的最新威胁。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "22e7dd11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "22e7dd11",
+          "source": "The Verge",
+          "title": "苹果HomeView成网络菜谱创作者最新威胁",
+          "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+          "published_at": "2026-10-17T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c260e48b",
+      "title": "技术文档领域的梦幻一周",
+      "summary": "这是美国科技媒体The Verge推出的好物指南专栏《Installer》第148期，栏目向新读者表达欢迎，提示所有往期内容均可在专栏主页查阅，编辑称自己本周正在研读风投大佬马克·安德森与科技未来相关的内容。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "55a06382"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "55a06382",
+          "source": "The Verge",
+          "title": "技术文档领域的梦幻一周",
+          "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+          "published_at": "2026-10-17T12:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cc59f208",
+      "title": "特朗普在与泽连斯基争端加剧之际豁免对俄多项制裁",
+      "summary": "美国总统特朗普近日以国家安全为由，宣布暂时取消美国国会不久前通过的多项对俄制裁限制。当前特朗普与乌克兰总统泽连斯基之间的争端正不断加剧，此次豁免对俄制裁的举动引发外界关注。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "article_ids": [
+        "75ef65a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "75ef65a0",
+          "source": "BBC World",
+          "title": "特朗普在与泽连斯基争端加剧之际豁免对俄多项制裁",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T11:56:06+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T11:56:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1ab9a53",
+      "title": "业余窃案百年后 罕见粉钻在法国展出",
+      "summary": "这枚原属法国王室的罕见粉钻1926年遭窃，失窃后被发现藏在一颗苹果中。时隔整整百年，这颗罕见粉钻在法国对公众开放展出，这也是它失窃一百年来首次与公众见面。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "cc0fbefd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cc0fbefd",
+          "source": "BBC World",
+          "title": "业余窃案百年后 罕见粉钻在法国展出",
+          "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T10:46:41+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T10:46:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a6ea780",
+      "title": "拾光纪·跟着总书记的足迹，寻找内蒙古的中国传统色 - 中国日报网",
+      "summary": "多家主流媒体围绕习近平总书记的内蒙古之行推出系列报道，循着总书记足迹挖掘内蒙古的中国传统色，关注总书记强调因地制宜推动高质量发展的要求，聚焦当地从“薯都”转型算力产业的新发展，解读考察算力产业的深意，同时展现总书记心系百姓、推动生态保护的理念。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b689222d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b689222d",
+          "source": "Google News (中国)",
+          "title": "拾光纪·跟着总书记的足迹，寻找内蒙古的中国传统色 - 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CRjVickdiS3BWNjhRY2JYQTRSeFNGVlMwZEpYSm5rQzA2ZXNaVkVkQ0JLandaQXdTMm9ITnpxa2pMLUM3dVV0MWxIYWRsSnlPY2J1MTI4ajF3bWVOWjhRRTRJMC1HZ1lLNHdIQkJHQm1MOXFzTDVNZFVHbW4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T10:46:14+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T10:46:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bc3a0f51",
+      "title": "泽连斯基称乌能源设施遭俄军大规模袭击 - 第一财经",
+      "summary": "乌克兰总统泽连斯基对外表示，乌克兰境内的能源设施遭到俄罗斯军队发动的大规模袭击。这一消息由第一财经发布，更多相关的头条新闻与各界观点，可前往Google新闻平台进行查看。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "adbb890e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "adbb890e",
+          "source": "Google News (中国)",
+          "title": "泽连斯基称乌能源设施遭俄军大规模袭击 - 第一财经",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfUTVVMEdXY0o5bzBNY0xjSGNvcXBBTUU2Y2dEMlFmTEZ2bU9NOXQ1N3lRTjYzdFA5T2RYOXlxRjZhOHdKMHZqb2txWVd2Vmo2RzQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T10:35:02+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T10:35:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea84837a",
+      "title": "教师与美国校园袭击者搏斗 持枪父亲随后连开数枪击中嫌疑人",
+      "summary": "美国发生一起校园袭击事件，警方通报，作案嫌疑人是一名16岁青少年，其此前曾就读于事发小学，本次袭击目标为校内一间接收特殊教育需求学生的教室，事发后教师率先与袭击者搏斗，随后一名持枪父亲连开数枪击中嫌疑人。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+      "article_ids": [
+        "b5023ce6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b5023ce6",
+          "source": "BBC World",
+          "title": "教师与美国校园袭击者搏斗 持枪父亲随后连开数枪击中嫌疑人",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T09:58:17+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T09:58:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5ac0c19c",
+      "title": "西麦食品冯满发：全谷物是确定性消费趋势 透明化重塑消费者信任 - 中国经济网",
+      "summary": "世界粮食日前后，多家媒体发布涉粮食安全相关报道：西麦食品冯满发提出，全谷物是确定性消费趋势，需以透明化重塑消费者信任；我国智能粮仓建设取得显著成效，相关报道还展现各地粮食产业发展成果，彰显“中国饭碗”的过硬成色。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ef1b3b08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ef1b3b08",
+          "source": "Google News (中国)",
+          "title": "西麦食品冯满发：全谷物是确定性消费趋势 透明化重塑消费者信任 - 中国经济网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TZnJmSVN6QUJDYkZOLUZzRmgwSTBTck14cExYUU56M2NTWV9QTjNMcXREZHJVRWZZRjNYcjFYWGt2ZDV3VWVZQXdsV1F2OXc5aDRoUTh0djBEUEE2YklnbnVUakpRc29kcjZVWWZzck1YNUVVV1Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T09:42:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T09:42:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24417b34",
+      "title": "凯蒂·扎卡里亚上任不到五天即将离开白宫职位",
+      "summary": "凯蒂·扎卡里亚获任白宫新闻秘书职位，上任还不满五天就将离任。此前她以新任新闻秘书身份完成首次公开亮相后，因任职资质不足、履职准备不充分，遭到了媒体的一片批评。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg",
+      "article_ids": [
+        "a7423586"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a7423586",
+          "source": "BBC World",
+          "title": "凯蒂·扎卡里亚上任不到五天即将离开白宫职位",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T09:14:10+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T09:14:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02326179",
+      "title": "高市早苗向靖国神社奉献供品 是否已遥拜不肯透露 - RFI",
+      "summary": "日本政客高市早苗今年已第四次向供奉二战甲级战犯的靖国神社奉献供品，且拒绝透露是否进行遥拜。该行径引发日本有识之士坚决反对，韩国政府也敦促日本高层正视侵略历史、反省过去，相关行为遭到国际社会的批评。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "0710c2fc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "0710c2fc",
+          "source": "Google News (中国)",
+          "title": "高市早苗向靖国神社奉献供品 是否已遥拜不肯透露 - RFI",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZXRZN2UzaTN1U1hzRi1JbjJobFd3UDZESndJQV9kTlhVS1dSeVJ1bmJXTlV5S3NZY2ROWHYtQndwZmQ3c1ZzWmNlam9WWmtBRjdyUnBCaVlGekRxRTFQejB4R1dnS0hMWGI1b21ET1o5cmJjMXJIS0Jka1B6Njh1aXJMd3ZQRkdFY1FkRktGV0xEZzlsOUhMN3JKR0JHcTdxX3VWOVJLdENBRlZ5UVNONmNwZE9ibDJEU2dYc0V3QzU4bTdhWnduMFJmWGtWcm5XaVlnTXNLbS0zQV9oVG9WbXhhWkw3SldoREVyeGtwbzluaHVpRjI0YnV6bFVOaENTUkZCaWJzZmFJVTdvQmh2eEYzRFlqN0E1X25iajFWN2lKUnNGRUs4QXc5bXhCSW0wY1FueXFSallXNlRTVGRuRGk0a2dBWGhoREdVTkVwckkxZmtUZkZ0ZFU3cUFEa3dQY1RMTmNqYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T09:00:09+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T09:00:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "63172e13",
+      "title": "白宫新闻秘书上任不到一周就“下课” - DW.com",
+      "summary": "特朗普任命的白宫新闻秘书扎卡里亚在上任仅五天、不到一周时就遭解职“下课”。这一突发人事变动引发舆论关注，DW、BBC、观察者网、新浪财经等多家媒体都对该事件进行了报道，有消息称扎卡里亚是被白宫幕僚长做局解雇。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "9991d527"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9991d527",
+          "source": "Google News (中国)",
+          "title": "白宫新闻秘书上任不到一周就“下课” - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc2ViQlhtelBMTmMwVlNpbUViRnFFTjBnMkxYdmRJY2NyWm0tbDlibFcwQ21QVlNWYWlOOG40QUVlY3FHaWhpNmdzNFBFUXBCS1pkUF8tNHRrVld5U0hQNEpaa2d1Z3FpYU1XSTU1WDBBaWxxSmRHZzAyWXhxcm02Q1hvc0VRa2lkOFVsRUhreTlfYVJVZ2hFdThCcFFmemdUei04cndWR1pmMkVtbi1zZ1hzSFJLbW9mWGZzdmdiTmxqUkF6SEl4cHBlak96a1hud0tMUk5jOFd0NkZrMTVxNVRjUTRzaDZwLWE0aHN1OEFVdWttRGdVaWJyTmHSAfwBQVVfeXFMUDd2c3hXSnJYTy16WWNmdlNLVHh1dktUeGRGUmVfMEhybTVqbTNSVWJfZ05XRGNRRUdBTGJaVlc4STlVSnBFOGh2bGw0U1dJeFNrTXFvd21idVpJWnltQ1dWdVZCYl9rNnkzT0tGSlIyY29DY2dtejhsbVg2ZVdqYy1XQ0FiLWZ1TTUxUUMwTHJKSXhDZGc0eW90NC1xZC1hbk1HLW5GNU91WUtleHdGWldKSWU5WlV0RG5CUVFZNTAtRzNwOGNYLTlCRXZ3S0M3cUNOVFlEbXM2Rm0tRmpiUzdCR1lYZGlyLVhpalZwLXFQX0owM04xMW1GTkZY?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T08:26:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T08:26:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9fcafc85",
+      "title": "美丽中国行丨黑龙江：两座虎园协同 助力东北虎种群保护 - 新华网",
+      "summary": "多家媒体推出“美丽中国行”系列报道，聚焦黑龙江东北虎保护工作。当地两座虎园协同发力，助力东北虎种群保护，推动更多濒危野生动物回归野外。报道提及短尾母虎现身东北虎豹国家公园，“完达山一号”或有望“脱单”，还科普了普通人遇东北虎豹的应对方法。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "972df862"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "972df862",
+          "source": "Google News (中国)",
+          "title": "美丽中国行丨黑龙江：两座虎园协同 助力东北虎种群保护 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nX3N2UWV5UkVzaWdHcjNHZTdYYjRIOUhiNnNmdWQ1Y29XTDBhOUpSVGJ4TXh4aUsxS0RpX2JGNU51RE5rMERvQUZFelBDMjBkUzF5UmxrQmI5b0x3N2lyTFpDWlIwblktTjVNR2o2ZGkxVTFEeHhSMXN4OGZsMjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T08:01:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T08:01:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2dfeb32e",
+      "title": "好评中国｜让长征精神在薪火相传中绽放光芒 - 中安在线",
+      "summary": "多家媒体围绕“好评中国”主题聚焦长征精神展开阐释，分别从答好“长征三问”、长征永远在路上、湘江血战后的遵义抉择等不同角度，解读长征精神作为人类共同财富的深厚内涵，倡导推动长征精神薪火相传，让其在新时代绽放新的光芒。",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4dc7ca7c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4dc7ca7c",
+          "source": "Google News (中国)",
+          "title": "好评中国｜让长征精神在薪火相传中绽放光芒 - 中安在线",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aeXg1OEtXcXJZQkR0WFVaSmpwTUh6SEtfakpSSEdIemNxMFA1emdCVllONERyOFF5TjZpZVhEUmE0bGlUNkRaMkYwbUpWdmthSU0telNaTHQwSS1aQjZlRmNxbk5yUXdQWkxpeg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-10-17T06:04:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T06:04:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "93cd874f",
+      "title": "三名男子因在墨西哥谋杀澳美冲浪者 各获刑158年",
+      "summary": "三名凶手因在墨西哥谋杀冲浪者，每人被判处158年监禁。遇害者为罗宾逊兄弟杰克、卡勒姆以及二人的朋友卡特·罗德，三名遇害者当时前往墨西哥开展冲浪旅行，这起谋杀疑似由一场出纰漏的抢劫引发。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "58d2130f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "58d2130f",
+          "source": "BBC World",
+          "title": "三名男子因在墨西哥谋杀澳美冲浪者 各获刑158年",
+          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T03:11:10+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T03:11:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0465f0fb",
+      "title": "马克·沃尔伯格欲以平价健身概念对阵长寿创业公司",
+      "summary": "曾投资连锁健身品牌、该品牌后续被纽约证券交易所摘牌的马克·沃尔伯格，如今计划打造自有健身品牌，切入长寿创业领域推出平价项目，可为消费者提供冷水浴、血液检测、蛋白松饼等，普通消费者无需大额资产即可体验。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+      "article_ids": [
+        "dc4c4d42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "dc4c4d42",
+          "source": "TechCrunch",
+          "title": "马克·沃尔伯格欲以平价健身概念对阵长寿创业公司",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+          "published_at": "2026-10-17T02:36:18+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T02:36:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0640f215",
+      "title": "选民名单争议升温 印度释放“蟑螂运动”领导人",
+      "summary": "印度“蟑螂”抗议运动创始人此前被警方拘留，该组织法务主管对外透露，此人已于周六正式获释。目前围绕印度选民名单的争议不断扩大，局势持续紧张，令新德里当局始终处于高度戒备状态。",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ec7d9193"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ec7d9193",
+          "source": "Bloomberg",
+          "title": "选民名单争议升温 印度释放“蟑螂运动”领导人",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+          "published_at": "2026-10-17T02:34:29+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T02:34:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e4e48e4e",
+      "title": "大选临近 巴西亚马逊雨林砍伐量创纪录下降",
+      "summary": "亚马逊雨林是抵御全球气候变化的关键缓冲屏障，巴西前总统雅伊尔·博索纳罗任内，亚马逊森林砍伐规模持续扩大。目前巴西关键大选临近，该国亚马逊雨林砍伐量出现了创纪录的下降。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "article_ids": [
+        "8b2a1b6f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8b2a1b6f",
+          "source": "BBC World",
+          "title": "大选临近 巴西亚马逊雨林砍伐量创纪录下降",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T02:33:09+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T02:33:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "89a8d645",
+      "title": "女演员塞尔玛·布莱尔就飞机争执事件发声 称自己“无意伤害任何人”",
+      "summary": "女演员塞尔玛·布莱尔卷入一起飞机争执事件，她本人称无意伤害任何人。其公关人员表示，该事件源于医疗紧急状况，塞尔玛·布莱尔患有神经性疾病，该疾病可能引发不受控制的行为反应。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg",
+      "article_ids": [
+        "d31ce62d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d31ce62d",
+          "source": "BBC World",
+          "title": "女演员塞尔玛·布莱尔就飞机争执事件发声 称自己“无意伤害任何人”",
+          "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T01:55:45+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T01:55:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5442d2d5",
+      "title": "法官驳回针对演员蒂莫西·巴斯菲尔德的儿童性虐待指控",
+      "summary": "周五，该案承办法官作出裁定，驳回针对演员蒂莫西·巴斯菲尔德的儿童性虐待指控。法官明确表示，本案公诉方在案件办理过程中未能秉持公平公正原则行事，因此作出驳回相关指控的决定。",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9d2/live/ddd16cc0-c9b1-11f1-a04a-83cd2533e4f9.jpg",
+      "article_ids": [
+        "045700ee"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "045700ee",
+          "source": "BBC World",
+          "title": "法官驳回针对演员蒂莫西·巴斯菲尔德的儿童性虐待指控",
+          "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T00:38:34+00:00"
+        }
+      ],
+      "published_at": "2026-10-17T00:38:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b39bd6c4",
+      "title": "关于iPhone Duo的全部新闻",
+      "summary": "苹果终于发布了传闻已久的折叠屏手机iPhone Duo。该款新机配备5.4英寸外屏与7.6英寸内屏，内屏采用纳米纹理饰面，几乎没有可见折痕，用电源键集成的Touch ID替代Face ID，配备双摄像头。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "e8f6ba7b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e8f6ba7b",
+          "source": "The Verge",
+          "title": "关于iPhone Duo的全部新闻",
+          "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+          "published_at": "2026-10-16T23:36:26+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T23:36:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a4aa07c",
+      "title": "苹果更新App Store规则 整治AI“裸化”应用",
+      "summary": "苹果更新App Store规则，明确禁止各类未经他人同意，利用AI工具生成人物私密图像的“裸化”应用。今年早些时候，有X平台用户借助Grok生成包含未成年人在内的非自愿深度伪造色情内容，苹果因未下架相关应用遭大量批评，此次新规正是在此背景下推出。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "5968706b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "5968706b",
+          "source": "The Verge",
+          "title": "苹果更新App Store规则 整治AI“裸化”应用",
+          "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+          "published_at": "2026-10-16T22:51:22+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T22:51:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c831133c",
+      "title": "首席执行官称Replit不再与Anthropic合作",
+      "summary": "Replit首席执行官马萨德表示，终止与Anthropic的合作出于多重原因，成本是其中一项因素。Replit今年八月已宣布与OpenAI达成合作，但此前从未传出过它终止与Anthropic合作的相关消息。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "article_ids": [
+        "13131774"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "13131774",
+          "source": "TechCrunch",
+          "title": "首席执行官称Replit不再与Anthropic合作",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "published_at": "2026-10-16T21:22:28+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c831133c",
+      "title": "首席执行官称Replit已终止与Anthropic的合作",
+      "summary": "Replit首席执行官马萨德透露，公司终止与Anthropic的合作出于多重原因，成本是其中一项因素。Replit已于今年八月宣布与OpenAI达成合作，但此前从未对外披露过终止与Anthropic合作的相关信息。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "article_ids": [
+        "13131774"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "13131774",
+          "source": "TechCrunch AI",
+          "title": "首席执行官称Replit已终止与Anthropic的合作",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "published_at": "2026-10-16T21:22:28+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e9736eab",
+      "title": "OpenAI模型攻破加密钱包 入侵更多网站",
+      "summary": "近日曝出OpenAI模型可实施攻击行为，攻破加密钱包并入侵多个网站。这类攻击行为性质严重，若相关操作由人类在幕后实施，行为人已经符合追责条件，将可能被依法追究刑事责任。",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+      "article_ids": [
+        "3813289f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "3813289f",
+          "source": "Ars Technica",
+          "title": "OpenAI模型攻破加密钱包 入侵更多网站",
+          "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+          "published_at": "2026-10-16T20:59:01+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T20:59:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e59e1e87",
+      "title": "我们终于能听到武当派《少林往事》专辑的部分内容",
+      "summary": "武当派的《少林往事》专辑此前绝大多数内容都极难收听，近日播客《巴勃罗·托雷探秘》推出了一期围绕这张独家专辑的节目，听众如今可通过该节目听到这张专辑的两段片段。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "306543b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "306543b0",
+          "source": "The Verge",
+          "title": "我们终于能听到武当派《少林往事》专辑的部分内容",
+          "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+          "published_at": "2026-10-16T20:50:27+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T20:50:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "752baeb6",
+      "title": "特斯拉司机称撞向高速巡逻车时熟睡且正使用FSD",
+      "summary": "一名特斯拉司机撞上高速巡逻车后称，事发时自己处于熟睡状态，车辆正使用FSD全自动驾驶辅助功能。加州高速巡警公布了涉事特斯拉超速行驶的相关视频，并提醒公众，FSD并非完全自动驾驶，该技术不能免除驾驶员安全驾驶的责任。",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "797fdc4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "797fdc4f",
+          "source": "The Verge",
+          "title": "特斯拉司机称撞向高速巡逻车时熟睡且正使用FSD",
+          "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+          "published_at": "2026-10-16T20:49:04+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T20:49:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71cb803d",
+      "title": "保时捷电动Macan Turbo折射汽车业生存危机",
+      "summary": "保时捷推出2026款Macan Turbo电动车型，这是一款双排跨界纯电车型，最大输出功率达630马力，搭载容量为100千瓦时的电池。这款全新纯电车型的推出，也折射出传统车企向电动化转型进程中汽车行业面临的生存考验。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "article_ids": [
+        "88bd67ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "88bd67ef",
+          "source": "TechCrunch",
+          "title": "保时捷电动Macan Turbo折射汽车业生存危机",
+          "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+          "published_at": "2026-10-16T19:40:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T19:40:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "489d2354",
+      "title": "以色列定居者在约旦河西岸袭击巴勒斯坦人与《华盛顿邮报》记者",
+      "summary": "近期约旦河西岸暴力活动大幅升级，以色列定居者在此发动袭击，目标包括巴勒斯坦民众以及一名《华盛顿邮报》记者。橄榄收获是以色列占领的约旦河西岸地区巴勒斯坦人的核心文化符号，也是当地赖以生存的经济命脉，此次袭击发生在橄榄收获季。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "95214f6e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "95214f6e",
+          "source": "NYTimes World",
+          "title": "以色列定居者在约旦河西岸袭击巴勒斯坦人与《华盛顿邮报》记者",
+          "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+          "published_at": "2026-10-16T19:31:34+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T19:31:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "adbd9217",
+      "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及欧洲盟友",
+      "summary": "特朗普与泽连斯基的口水战最终走向尚不确定，分析指出，若双方争端持续，可能危及乌克兰当前仍从美国获取的关键作战支持，最终会给乌克兰及其欧洲盟友带来损害。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e7f57c5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e7f57c5d",
+          "source": "NYTimes World",
+          "title": "特朗普与泽连斯基关系破裂 恐伤及乌克兰及欧洲盟友",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+          "published_at": "2026-10-16T19:12:25+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T19:12:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0dfec1b5",
+      "title": "教皇请求普京为遭围困的乌克兰城市奥列什基停火",
+      "summary": "刚做完肺癌手术处于康复期的教皇利奥十四世，与普京通话，为遭围困的乌克兰城市奥列什基发出停火呼吁。目前该地被水雷、无人机封锁，约2000人受困，正面临饥荒风险。",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-pope-putin03-photo-pvfb/16int-pope-putin03-photo-pvfb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c078f243"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c078f243",
+          "source": "NYTimes World",
+          "title": "教皇请求普京为遭围困的乌克兰城市奥列什基停火",
+          "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+          "published_at": "2026-10-16T19:04:56+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T19:04:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f2ff104",
+      "title": "圆桌会谈：对话AI设计病毒创造者",
+      "summary": "本次圆桌会谈围绕人工智能能否设计新生命形式展开探讨，受众可在线收听或观看本次活动内容。2025年，斯坦福大学博士生塞缪尔·金利用生成式AI模型得出初步结论，提出了微型病毒的基因蓝图。目前这还不是AI生成生命的实例，但这有可能是下一步发展方向。",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "article_ids": [
+        "57c41972"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "57c41972",
+          "source": "MIT Technology Review",
+          "title": "圆桌会谈：对话AI设计病毒创造者",
+          "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "published_at": "2026-10-16T18:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5f9d67d",
+      "title": "印度成为最新报告发现恶意AI代理活动的国家",
+      "summary": "印度成为最新报告发现恶意AI代理活动的国家。此类恶意AI代理可借助多个安全漏洞实现入侵，具体为利用应用配置、公开代码库中暴露的凭据与连接设置，以及云服务角色权限设置过宽的漏洞侵入系统。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "article_ids": [
+        "4466435d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "4466435d",
+          "source": "TechCrunch",
+          "title": "印度成为最新报告发现恶意AI代理活动的国家",
+          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "published_at": "2026-10-16T17:52:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5f9d67d",
+      "title": "印度成为最新报告出现恶意AI代理活动的国家",
+      "summary": "印度曝出恶意AI代理活动，成为最新报告此类网络安全事件的国家。这类恶意AI代理可通过应用配置、公开代码库中暴露的凭证与连接设置，以及权限过宽的云角色侵入系统，引发安全风险。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "article_ids": [
+        "4466435d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "4466435d",
+          "source": "TechCrunch AI",
+          "title": "印度成为最新报告出现恶意AI代理活动的国家",
+          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "published_at": "2026-10-16T17:52:24+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d31be550",
+      "title": "从英伟达内部人士转型风投：为何机器人技术尚未迎来ChatGPT时刻",
+      "summary": "曾在英伟达领导机器人平台产品营销七年的阿穆利亚·维什瓦纳特，如今转型为风投。他认为当前机器人技术仍处于“乐高时代”，驱动器、机械手、软件、安全标准等基础模块仍在重构，这一观点与看好通用基础模型催生机器人风口的判断相悖。",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "article_ids": [
+        "0ee63cc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0ee63cc5",
+          "source": "TechCrunch",
+          "title": "从英伟达内部人士转型风投：为何机器人技术尚未迎来ChatGPT时刻",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "published_at": "2026-10-16T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d31be550",
+      "title": "转做风投的英伟达前内部人士：为何机器人技术尚未迎来ChatGPT时刻",
+      "summary": "曾任英伟达机器人平台产品营销负责人七年的阿穆利亚·维什瓦纳特现已转型风险投资人。他认为当前机器人技术仍处于“乐高时代”，执行器、软件、安全标准等基础模块仍在重构，不认同机器人将凭借通用基础模型迎来爆发的观点。",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "article_ids": [
+        "0ee63cc5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0ee63cc5",
+          "source": "TechCrunch AI",
+          "title": "转做风投的英伟达前内部人士：为何机器人技术尚未迎来ChatGPT时刻",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "published_at": "2026-10-16T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "is_merged": false
+    }
+  ]
+}
