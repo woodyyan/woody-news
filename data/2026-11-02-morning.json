@@ -1,10 +1,535 @@
 {
   "date": "2026-11-02",
   "edition": "morning",
-  "updated_at": "2026-11-02T01:26:51.659746+08:00",
+  "updated_at": "2026-11-02T11:33:51.184448+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "e56761c5",
+      "title": "Weak China PMIs Spark Fresh Stimulus Bets",
+      "title_original": "Weak China PMIs Spark Fresh Stimulus Bets",
+      "summary": "Bloomberg's Minmin Low breaks down why developments in China’s official manufacturing gauge are fueling expectations for another PBOC interest rate cut. (Source: Bloomberg)",
+      "summary_original": "Bloomberg's Minmin Low breaks down why developments in China’s official manufacturing gauge are fueling expectations for another PBOC interest rate cut. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T03:28:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7ac6866a",
+      "title": "快讯：习近平为阿曼苏丹海赛姆举行欢迎仪式 - 中国科技网",
+      "title_original": null,
+      "summary": "快讯：习近平为阿曼苏丹海赛姆举行欢迎仪式&nbsp;&nbsp;中国科技网习近平同阿曼苏丹海赛姆会谈&nbsp;&nbsp;央视网习近平将同阿曼苏丹海赛姆会谈&nbsp;&nbsp;新浪网海赛姆抵达北京&nbsp;&nbsp;腾讯新闻习近平举行仪式欢迎阿曼苏丹海赛姆访华&nbsp;&nbsp;新浪网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84djJINEg1b0xiVC1uLVlaMEhQVjRNSGgyeWpqdWhpUzFQRWNaTXVnbFpvUDlJdnlPRWR4dWJsYVYwUDRoYTQtV1FJMHJrNE1MT3h0R1VORW1YVlJMT1ZKQkxGSHI1YUd0Smc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T03:10:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1636f5eb",
+      "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "title_original": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "summary": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/salesforce-buy-defense-tech-startup-extending-acquisition-streak",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-02T03:07:35+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0bdef6fb",
+      "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+      "title_original": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+      "summary": "Software services exporters claim all five top spots in the large-cap index in October.",
+      "summary_original": "Software services exporters claim all five top spots in the large-cap index in October.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T02:30:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "37b931c7",
+      "title": "从乌镇七子，看县域如何长出AI链 - 人民网财经",
+      "title_original": null,
+      "summary": "从乌镇七子，看县域如何长出AI链&nbsp;&nbsp;人民网财经浙江宣传 | “首次”看峰会&nbsp;&nbsp;浙江新闻“发展新质生产力 强劲增量看AI”论坛将在乌镇举行&nbsp;&nbsp;光明网乌镇“网事”｜让更多国家和人民搭乘信息时代的快车&nbsp;&nbsp;央视网乌镇“网事”|领先科技奖，铺展全球数智创新新图景&nbsp;&nbsp;凤凰网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pdjhHaWY3TU9NVVFBWUh3QUJ5VEVoVl9hVnBrZEJCMVBfbU4zU1YwRXVsMC1TcGNSWVdLa3dQQXBMS1FrNmlnTEF1SjNnY242SzViVVdRUUlJaE9kLURuaDdJelNNQ2VCcFBwUnR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T02:18:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "368f00b6",
+      "title": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质 - 东方财富",
+      "title_original": null,
+      "summary": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质&nbsp;&nbsp;东方财富美国为何怕进入！中国电动汽车产销量连续11年全球第一 院士给两大原因&nbsp;&nbsp;驱动之家大湾区国创中心推进产学研合作 与11家单位签约&nbsp;&nbsp;新浪网两项国际大科学计划在广州南沙启动&nbsp;&nbsp;科学网—新闻促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验&n",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Va1VYeDY1Wk4zbE1kWGtZS093NmU1Nm1PV1UtdDRTWnFsSEJTU2hydHlyWVBpc1pEMWFibURRSXBjLXlOcFF6RkE4QUVvME42QWE0aFptcVp6WS1TOUxqeUp3WUpwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T02:09:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4e366cbd",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "title_original": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "summary_original": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-02T01:45:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0040c9a7",
+      "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+      "title_original": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+      "summary": "China’s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
+      "summary_original": "China’s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T01:39:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fe5259b0",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "title_original": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "summary_original": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-02T01:18:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b5d728e6",
+      "title": "为世界政党探索有效治理贡献中国智慧——国际社会热议中共二十届五中全会的全球启示--国际 - 人民网",
+      "title_original": null,
+      "summary": "为世界政党探索有效治理贡献中国智慧——国际社会热议中共二十届五中全会的全球启示--国际&nbsp;&nbsp;人民网中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？&nbsp;&nbsp;BBC【央视快评】增强党性是全面从严治党的根本性任务&nbsp;&nbsp;央视网习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明&nbsp;&nbsp;北京市人民政府门户",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zLUNNa1dZNXdDTmYzVnFib014MnhWblNRdm9wUnVPMzNRaktWVEYyYVhXRl9xSVJqR0xDUDNZVl84dmNyNVdnOTQ4ZUtTREIxUm5VZ3VMSDNHMnlZcmlGWDI0eFRicVJrUXZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T01:14:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "985d408d",
+      "title": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+      "title_original": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+      "summary": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, ",
+      "summary_original": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, one day before the US holds its midterm elections.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T01:09:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "73cee142",
+      "title": "美媒：美国万圣节周末发生多起大规模枪击事件，致至少6人死亡、数十人受伤 - 欧洲头条",
+      "title_original": null,
+      "summary": "美媒：美国万圣节周末发生多起大规模枪击事件，致至少6人死亡、数十人受伤&nbsp;&nbsp;欧洲头条在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWThMazUtRXdrWGRTSWRUSmhoeU1ONWEyMUVXQzVEdll3aDE1bWZRQ1JjdjVzekx1NUtjd3JMMVJpS1VGeHI5SHlMUENhZ19kUFdBZS1CeUd0MXJISFlGME9zTmZBaWFGWXR3d0tDRXJJdkJuZkVQMnBhcTRTYXI5ZWdZLU03ejhLVlRZQXhtVC12MC1HNmRpUHJxb0hMa2tQc21KYmhuQVFUNGo3ckNWQzlyX094MVdhN3JLSkJHak1KTUwxYWdUNWp4RHp4bmlvYXlvNnNTclVXODdiTGRJdE1hQ09NdnQyTThyb0NqR1F5b05TNDFhVGhkR2cyQWxQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T01:00:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4641c600",
+      "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+      "title_original": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+      "summary": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
+      "summary_original": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T01:00:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eff3a2a7",
+      "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重” - 华尔街见闻",
+      "title_original": null,
+      "summary": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”&nbsp;&nbsp;华尔街见闻美军损失或达150亿美元，鲁比奥：还能打，但特朗普...&nbsp;&nbsp;观察者网鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定&nbsp;&nbsp;凤凰网特朗普谈伊朗：无论以何种方式，我们很快会将其解决。&nbsp;&nbsp;手机新浪网美以伊局势：特朗普称还需“处理”伊朗一两个目标，含镐山核",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xakRoNjd6NWtydmJhNkljWU1hcnF0dVdab0Q5UjdNckNkRVlDb3MxUDh4LXA3a29vOV9hc2wtbkc1UEwwVnNiUUhuMEF3OUtKNktv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T00:34:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1b617e3d",
+      "title": "黄河流域生态保护和高质量发展取得新成效 - 浙江在线",
+      "title_original": null,
+      "summary": "黄河流域生态保护和高质量发展取得新成效&nbsp;&nbsp;浙江在线在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ajVfdDZQQlhjZjlLVzBFcVFDTW5UeWY4ZFA4RUFRbElQRjdyR2ZzTVczQ2lfamJIa0JkUHFfcFBRMGh5VGxsdmNaU1BjZkdieXVFU2l5dF94MUZ3RU5QaFlfc3BQd3h3SlNycFhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T00:33:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c633a56e",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "title_original": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "summary_original": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-02T00:15:30+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "52847065",
+      "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+      "title_original": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+      "summary": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
+      "summary_original": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T00:15:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2bc24f58",
+      "title": "伊朗革命卫队情报机构宣布逮捕一名间谍 - 中国新闻网",
+      "title_original": null,
+      "summary": "伊朗革命卫队情报机构宣布逮捕一名间谍&nbsp;&nbsp;中国新闻网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YSkUwVWU5a3ZpSmYtU1FvbjRRV0RDNWlxT2Z6eUNwWEQxMXdKTUVkbFA3RmNzWkF0SDgxVG90QWt3VlBqcE9QLUhIcHZlZGFvWHdkRGpjWmFCTWJJU0t3Mm93a3VlQy1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-01T23:22:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "566aa8da",
+      "title": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+      "title_original": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+      "summary": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/binance-allows-customers-resume-withdrawals-sees-5-8-billion-net-outflow",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-01T23:18:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9d7ec165",
+      "title": "Latest Oil Market News and Analysis for Nov. 2",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 2",
+      "summary": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
+      "summary_original": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-01T23:11:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7deaa06f",
+      "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "title_original": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "summary": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-01T23:09:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "48988a4b",
+      "title": "Apple, Uber and Elections Headline Week",
+      "title_original": "Apple, Uber and Elections Headline Week",
+      "summary": "Apple, Uber and Elections Headline Week",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/the-briefing/apple-uber-elections-headline-week",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-01T23:00:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f393eec1",
+      "title": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+      "title_original": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+      "summary": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/the-electric/exclusive-embattled-ceo-next-energy-plotted-comeback",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-01T22:00:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cf5e1b5d",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_original": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "summary_original": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cf5e1b5d",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_original": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "summary_original": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7a6c896e",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "title_original": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "summary_original": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-01T21:55:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "13bf872f",
+      "title": "The Information’s WTF Summit in Pictures",
+      "title_original": "The Information’s WTF Summit in Pictures",
+      "summary": "The Information’s WTF Summit in Pictures",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-01T21:52:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8d72d203",
+      "title": "波蘭歐洲議員：共產主義意味著飢餓、死亡和奴役 - 新唐人電視台",
+      "title_original": null,
+      "summary": "波蘭歐洲議員：共產主義意味著飢餓、死亡和奴役&nbsp;&nbsp;新唐人電視台突发：波兰爆发“政变”，总统专机原地掉头，外交官宣布集体辞职&nbsp;&nbsp;凤凰网热点问答丨波兰宪法法院风波将如何牵动政局&nbsp;&nbsp;新浪网波兰政治危机：布鲁塞尔向波兰总统施压&nbsp;&nbsp;RFI抗议持续，总统和法官开打…波兰总统发表电视讲话&nbsp;&nbsp;观察者网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oSXhPUVJnVHU5Rm9ZcHpZTWZFaWZmdWJFMDFzRXk1ay1QVTdkaVBiWi01M1dhTXp4WC1iZnlhSUFpNlBiUmhqVnFSMGhuNUV3bjl3Nnl0UFVUYlZ4bDVNa9IBZkFVX3lxTE93UXU1N1lhX0JITGotNVNCZllCSHlaXzIwSUtyQmMyV3lIMWpuZEJWak12RW1lR25QWmpCOXJuZDhOM0V0cVV2QVAwY0t3d0tQNXlYTm8zYTZ0RE5WYWtjU0ZURThVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-01T21:43:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0d1254a7",
+      "title": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+      "title_original": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+      "summary": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+      "summary_original": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-01T21:28:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc08afba",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "title_original": "NASA hopes the commercial space industry can help save Hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its ti",
+      "summary_original": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-01T21:09:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b3a6357c",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_original": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "summary_original": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b3a6357c",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_original": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "summary_original": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "03d54ce1",
+      "title": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+      "title_original": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+      "summary": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australi",
+      "summary_original": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australia’s economy.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-01T20:41:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8cf788ce",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "title_original": "Flock keeps ignoring requests to cancel its contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its c",
+      "summary_original": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-01T19:58:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "aa9578f0",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title_original": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "summary_original": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-01T17:56:47+00:00",
+      "edition": "morning"
+    },
     {
       "id": "83a842b3",
       "title": "Apple’s HomeView could add security camera features",
@@ -48,6 +573,21 @@
       "source": "BBC World",
       "lang": "en",
       "published_at": "2026-11-01T17:06:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "64fa4253",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "title_original": "University of Cambridge scientist among those who died in Spanish train crash",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "summary_original": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-01T17:05:18+00:00",
       "edition": "morning"
     },
     {
@@ -364,549 +904,919 @@
       "lang": "en",
       "published_at": "2026-11-01T14:00:00+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "1578c555",
-      "title": "法国新一轮示威活动中已有779人被捕 - 中国新闻网",
-      "title_original": null,
-      "summary": "法国新一轮示威活动中已有779人被捕&nbsp;&nbsp;中国新闻网在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldUVyZlR5TC1nWDF4a3lxWU05Ylh1bDlqQXgtNlNtbjdzU1VoUVk0TTFnbUpLVUN2UGtLdDk3TTd1YnpWcjhITGNscVkzd3U5YlVUbnZlWE1CWnZENy0zRUNYc2l1MUZ0?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T13:42:26+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c1bd3a62",
-      "title": "执大象而天下往——推动构建网络空间命运共同体迈向新阶段述评 - 江苏网信办",
-      "title_original": null,
-      "summary": "执大象而天下往——推动构建网络空间命运共同体迈向新阶段述评&nbsp;&nbsp;江苏网信办潮评丨开放融入烟火气，开源成为最强音&nbsp;&nbsp;凤凰网【乌镇视窗】乌镇，细节里的“准备就绪”&nbsp;&nbsp;光明网中国经济说：产业雄厚，浙江做对了什么？&nbsp;&nbsp;中国日报网乌镇“网事”|领先科技奖，铺展全球数智创新新图景&nbsp;&nbsp;中国网新闻中心",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRjJremc4OEttN18tOVVmNzBtZ3FPdkpmaDdsVHFMTXBtOHhEMWRyTzhsRlFqdEg4NjlZTlR2V0tjNlBReDdKUXliMGZ5TDIwX29LWUtlSXJFNXpCeG5CSkJoTlZWcjlS?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T13:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9428defc",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "summary_original": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T13:11:37+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "28cc0d19",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "title_original": "New Zelda and GTA represent a games industry that no longer exists",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our s",
-      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two biggest games of [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cd4d9b44",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "title_original": "Prop 45 in California could be hiding a loophole for data centers",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates ",
-      "summary_original": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4859a820",
-      "title": "“妈祖”海洋预报数值模式2．0版本正式发布 - 搜狐网",
-      "title_original": null,
-      "summary": "“妈祖”海洋预报数值模式2．0版本正式发布&nbsp;&nbsp;搜狐网五年迭代攻关：海洋预报“妈祖”升级2.0&nbsp;&nbsp;新华网发髻是帆 银钗是锚&nbsp;&nbsp;新浪财经青春有爱 共筑未来——妈祖文化青年交流论坛暨全球“Z世代”对话妈祖活动在莆田圆满举办&nbsp;&nbsp;中国日报网妈祖大爱走向五洲四海&nbsp;&nbsp;央视网",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zTVFqejl0VFhCYTNIcXFNSXFmdzBTdk5lRWxBQ2d6aHBNQWtsV3N4NGlScEw3QmhpT3RWbWdUTzB5aW5Wb1k3b3p4R0kyeUZYVEFV?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T12:54:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9db09c9f",
-      "title": "中雨、大雨、暴雨！浙江全省迎来大降温！宁波人做好准备…… - 网易新闻客户端",
-      "title_original": null,
-      "summary": "中雨、大雨、暴雨！浙江全省迎来大降温！宁波人做好准备……&nbsp;&nbsp;网易新闻客户端27℃→1字头！绍兴接下来的天气……&nbsp;&nbsp;新浪网降至13°C！冷空气即将影响杭州，还有阵雨和大风&nbsp;&nbsp;凤凰网“怎么一下雨就这么冷”！冷空气抵达，单日降幅可达10℃以上！下周浙江雨雨雨？&nbsp;&nbsp;搜狐网暴雨、中到大雨，浙江冷空气突袭！台州马上大变脸！超强台风",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmNoY1JhQXVpNTB6TW81TVYzbGJ5eTZQM29ac0RTdFB4S3Z0bnN3OWNqSGI1NnJCTTZyajB2TDBVUm9OX000WmJReG5wczlUUHBtX1JOSk1PdnJzTXBKMUdLZjlxX044NnZfZEdvUXk5RmxsSUpiT2ptME4weVNaLUNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T12:05:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9970edb1",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "title_original": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "summary_original": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T11:57:48+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d7967df5",
-      "title": "让忠魂终归故里，让思念有所寄托——为红军烈士寻亲 - 新华网",
-      "title_original": null,
-      "summary": "让忠魂终归故里，让思念有所寄托——为红军烈士寻亲&nbsp;&nbsp;新华网回望伟大远征 汲取强军力量——万名官兵走进“伟大的远征”主题展览&nbsp;&nbsp;光明网“纪念中国工农红军长征胜利90周年主题展”在广西博物馆开展- 中国日报网&nbsp;&nbsp;China Daily共上一堂跨学段的红色“大思政课”&nbsp;&nbsp;搜狐网希望的火种从未熄灭（征程如画·红军长征故事）&n",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2lGSUZWbTdwWnp1Ty1nMDJ2MFBzdGREMzI2T0dpSzc0dHZSRnVYa2RCOHZOaUxLVU1JekE0cWFGZ3Y5c3ZuVFlmOUJCMEtjVTR5TnNId3VBX2MyN2JxY0M2WEN4VUN6VWw1c0VPMXpiUS1fcDQtTFgzbUIwSGxPZzdwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T10:38:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "01bf2d9e",
-      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-      "title_original": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-      "summary": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-      "summary_original": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-netanyahu-coalition-chmj/31int-netanyahu-coalition-chmj-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-01T10:20:20+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "49957558",
-      "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-      "title_original": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-      "summary": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
-      "summary_original": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-russia-putin-week-cfkh/01int-russia-putin-week-cfkh-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-01T10:04:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "618d38e5",
-      "title": "Where Do Israel’s Arab Parties Stand?",
-      "title_original": "Where Do Israel’s Arab Parties Stand?",
-      "summary": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
-      "summary_original": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-israel-arab-parties-hfkw/01int-israel-arab-parties-hfkw-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-01T10:03:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2ac4304c",
-      "title": "产业发展开新局丨一条鱼串起“蓝色粮仓”产业链 - 中国网",
-      "title_original": null,
-      "summary": "产业发展开新局丨一条鱼串起“蓝色粮仓”产业链&nbsp;&nbsp;中国网在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tYjNDbGFZeklVNE5DYWVZYzN1c3F6bi1DcG9MMUgxYzRHNEUzT203RnMtTHBkazdmMGVkVWZwbU1MSVFwa2FRNnZaWHEtWk1xOVhwRkN1ZkVTOVIwUjBPc19VM2RLRG1yMEZ2blJ4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T09:40:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0d5844ee",
-      "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-      "title_original": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-      "summary": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to people with direct knowl",
-      "summary_original": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to people with direct knowledge of the matter.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-01T09:23:14+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cdd27444",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "title_original": "India's opposition holds mega rally seeking election chief's resignation",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "summary_original": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T07:00:55+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d30c018c",
-      "title": "美国特拉华大学附近发生枪击事件 - 新华网客户端",
-      "title_original": null,
-      "summary": "美国特拉华大学附近发生枪击事件&nbsp;&nbsp;新华网客户端在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmZON09JWDc5YktiMFM4bVlpZVVhUl8zOW9ZdmJITUdLcjRTWm1la3NScklwZGdBZF9IdlFYM0F6QjRXSm1LVGZTQnI5U3RSeFllSTN2SUJ5Y290QVRnaG9ERUZiNDdMOHVHeWtZMFdUZzdDYzNkbXU4UjdhdnZHVW1uYllHZ1M0cWVod08yYU1XSnNGbUhiNDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T06:13:51+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9c220c4e",
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "title_original": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "summary": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-      "summary_original": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-01T04:01:16+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "5850527f",
-      "title": "Korean Language Picks Up in Japan",
-      "title_original": "Korean Language Picks Up in Japan",
-      "summary": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
-      "summary_original": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-01T04:01:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fafed8e0",
-      "title": "新华视点丨从安居到宜居：一座城的民生答卷 - 商洛之窗",
-      "title_original": null,
-      "summary": "新华视点丨从安居到宜居：一座城的民生答卷&nbsp;&nbsp;商洛之窗解码可持续发展的“景德镇样本”&nbsp;&nbsp;凤凰网世界城市日｜你心目中的“美好人居”，长这样吗？&nbsp;&nbsp;新华网中国联通亮相世界城市日全球主场活动‌|城市建设|福建省|展会|数字|分公司_手机新浪网&nbsp;&nbsp;新浪财经2026年世界城市日全球主场活动在福建福州开幕&nbsp;&nbsp;光明",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdDNGbVY3T3dPV292c1djM2QwTDN5TTdadWVoZzUtdFdaa1FZVnlSZmcwb0pDdkk5S19QbTd0TEVPLXAtakNaekhxenhkYXRRWWRxenllZ0FDTV9sV3lrQ3JTNHdna3Vm?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-01T03:43:06+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4876e27e",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "title_original": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "summary_original": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-01T02:22:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2a45aace",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "title_original": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "summary_original": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T00:55:06+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1660ab9e",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "title_original": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "summary_original": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T00:46:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "52940507",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "title_original": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "summary_original": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T00:41:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1f5b5bbc",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "title_original": "Judge orders Trump administration to stop threatening US election officials",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "summary_original": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-01T00:27:33+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "648c300f",
-      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-      "title_original": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-      "summary": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/fbi-says-north-korea-behind-6-3-billion-binance-hack",
-      "category": "business",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-10-31T23:17:05+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "da47b70b",
-      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-      "title_original": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-      "summary": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
-      "summary_original": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-31T23:05:42+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b9e200ac",
-      "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-      "title_original": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-      "summary": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
-      "summary_original": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-10-31T21:43:34+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8462b9fc",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "title_original": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "summary_original": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-10-31T21:41:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8462b9fc",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "title_original": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "summary_original": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-31T21:41:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ec476f3f",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "title_original": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "summary_original": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-10-31T21:36:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ec476f3f",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "title_original": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "summary_original": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-31T21:36:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9a46afb4",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "title_original": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "summary_original": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-10-31T21:17:03+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9a46afb4",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "title_original": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "summary_original": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-10-31T21:17:03+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ea2c6ca7",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "title_original": "Get in the spooky spirit with these horrors from YouTube",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird vide",
-      "summary_original": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-31T21:06:58+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "68e79934",
-      "title": "Keyboards of The Verge",
-      "title_original": "Keyboards of The Verge",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the compu",
-      "summary_original": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-10-31T19:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "003ada5e",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "title_original": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "summary_original": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-10-31T19:22:26+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "789476da",
+      "title": "Weak China PMIs Spark Fresh Stimulus Bets",
+      "summary": "Bloomberg's Minmin Low breaks down why developments in China’s official manufacturing gauge are fueling expectations for another PBOC interest rate cut. (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e56761c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e56761c5",
+          "source": "Bloomberg",
+          "title": "Weak China PMIs Spark Fresh Stimulus Bets",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
+          "published_at": "2026-11-02T03:28:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T03:28:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f852171e",
+      "title": "快讯：习近平为阿曼苏丹海赛姆举行欢迎仪式 - 中国科技网",
+      "summary": "快讯：习近平为阿曼苏丹海赛姆举行欢迎仪式&nbsp;&nbsp;中国科技网习近平同阿曼苏丹海赛姆会谈&nbsp;&nbsp;央视网习近平将同阿曼苏丹海赛姆会谈&nbsp;&nbsp;新浪网海赛姆抵达北京&nbsp;&nbsp;腾讯新闻习近平举行仪式欢迎阿曼苏丹海赛姆访华&nbsp;&nbsp;新浪网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "7ac6866a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "7ac6866a",
+          "source": "Google News (中国)",
+          "title": "快讯：习近平为阿曼苏丹海赛姆举行欢迎仪式 - 中国科技网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84djJINEg1b0xiVC1uLVlaMEhQVjRNSGgyeWpqdWhpUzFQRWNaTXVnbFpvUDlJdnlPRWR4dWJsYVYwUDRoYTQtV1FJMHJrNE1MT3h0R1VORW1YVlJMT1ZKQkxGSHI1YUd0Smc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T03:10:15+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T03:10:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "703128c2",
+      "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "summary": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "1636f5eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "1636f5eb",
+          "source": "The Information",
+          "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+          "link": "https://www.theinformation.com/briefings/salesforce-buy-defense-tech-startup-extending-acquisition-streak",
+          "published_at": "2026-11-02T03:07:35+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T03:07:35+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1c77e92",
+      "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+      "summary": "Software services exporters claim all five top spots in the large-cap index in October.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0bdef6fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0bdef6fb",
+          "source": "Bloomberg",
+          "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
+          "published_at": "2026-11-02T02:30:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T02:30:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3db664a8",
+      "title": "从乌镇七子，看县域如何长出AI链 - 人民网财经",
+      "summary": "从乌镇七子，看县域如何长出AI链&nbsp;&nbsp;人民网财经浙江宣传 | “首次”看峰会&nbsp;&nbsp;浙江新闻“发展新质生产力 强劲增量看AI”论坛将在乌镇举行&nbsp;&nbsp;光明网乌镇“网事”｜让更多国家和人民搭乘信息时代的快车&nbsp;&nbsp;央视网乌镇“网事”|领先科技奖，铺展全球数智创新新图景&nbsp;&nbsp;凤凰网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "37b931c7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "37b931c7",
+          "source": "Google News (中国)",
+          "title": "从乌镇七子，看县域如何长出AI链 - 人民网财经",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pdjhHaWY3TU9NVVFBWUh3QUJ5VEVoVl9hVnBrZEJCMVBfbU4zU1YwRXVsMC1TcGNSWVdLa3dQQXBMS1FrNmlnTEF1SjNnY242SzViVVdRUUlJaE9kLURuaDdJelNNQ2VCcFBwUnR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T02:18:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T02:18:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ddc456b9",
+      "title": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质 - 东方财富",
+      "summary": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质&nbsp;&nbsp;东方财富美国为何怕进入！中国电动汽车产销量连续11年全球第一 院士给两大原因&nbsp;&nbsp;驱动之家大湾区国创中心推进产学研合作 与11家单位签约&nbsp;&nbsp;新浪网两项国际大科学计划在广州南沙启动&nbsp;&nbsp;科学网—新闻促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验&n",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "368f00b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "368f00b6",
+          "source": "Google News (中国)",
+          "title": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Va1VYeDY1Wk4zbE1kWGtZS093NmU1Nm1PV1UtdDRTWnFsSEJTU2hydHlyWVBpc1pEMWFibURRSXBjLXlOcFF6RkE4QUVvME42QWE0aFptcVp6WS1TOUxqeUp3WUpwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T02:09:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T02:09:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "92cd8af2",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+      "article_ids": [
+        "4e366cbd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "4e366cbd",
+          "source": "BBC World",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T01:45:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:45:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "588fc44a",
+      "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+      "summary": "China’s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0040c9a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0040c9a7",
+          "source": "Bloomberg",
+          "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+          "published_at": "2026-11-02T01:39:19+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:39:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "582cebd5",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+      "article_ids": [
+        "fe5259b0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fe5259b0",
+          "source": "BBC World",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T01:18:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:18:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "408f7fca",
+      "title": "为世界政党探索有效治理贡献中国智慧——国际社会热议中共二十届五中全会的全球启示--国际 - 人民网",
+      "summary": "为世界政党探索有效治理贡献中国智慧——国际社会热议中共二十届五中全会的全球启示--国际&nbsp;&nbsp;人民网中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？&nbsp;&nbsp;BBC【央视快评】增强党性是全面从严治党的根本性任务&nbsp;&nbsp;央视网习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明&nbsp;&nbsp;北京市人民政府门户",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b5d728e6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b5d728e6",
+          "source": "Google News (中国)",
+          "title": "为世界政党探索有效治理贡献中国智慧——国际社会热议中共二十届五中全会的全球启示--国际 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zLUNNa1dZNXdDTmYzVnFib014MnhWblNRdm9wUnVPMzNRaktWVEYyYVhXRl9xSVJqR0xDUDNZVl84dmNyNVdnOTQ4ZUtTREIxUm5VZ3VMSDNHMnlZcmlGWDI0eFRicVJrUXZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T01:14:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:14:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "646737bb",
+      "title": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+      "summary": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "985d408d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "985d408d",
+          "source": "Bloomberg",
+          "title": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
+          "published_at": "2026-11-02T01:09:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:09:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "69b59f79",
+      "title": "美媒：美国万圣节周末发生多起大规模枪击事件，致至少6人死亡、数十人受伤 - 欧洲头条",
+      "summary": "美媒：美国万圣节周末发生多起大规模枪击事件，致至少6人死亡、数十人受伤&nbsp;&nbsp;欧洲头条在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "73cee142"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "73cee142",
+          "source": "Google News (中国)",
+          "title": "美媒：美国万圣节周末发生多起大规模枪击事件，致至少6人死亡、数十人受伤 - 欧洲头条",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWThMazUtRXdrWGRTSWRUSmhoeU1ONWEyMUVXQzVEdll3aDE1bWZRQ1JjdjVzekx1NUtjd3JMMVJpS1VGeHI5SHlMUENhZ19kUFdBZS1CeUd0MXJISFlGME9zTmZBaWFGWXR3d0tDRXJJdkJuZkVQMnBhcTRTYXI5ZWdZLU03ejhLVlRZQXhtVC12MC1HNmRpUHJxb0hMa2tQc21KYmhuQVFUNGo3ckNWQzlyX094MVdhN3JLSkJHak1KTUwxYWdUNWp4RHp4bmlvYXlvNnNTclVXODdiTGRJdE1hQ09NdnQyTThyb0NqR1F5b05TNDFhVGhkR2cyQWxQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T01:00:30+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:00:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "509e2abe",
+      "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+      "summary": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4641c600"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "4641c600",
+          "source": "Bloomberg",
+          "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+          "published_at": "2026-11-02T01:00:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T01:00:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ff0d53b",
+      "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重” - 华尔街见闻",
+      "summary": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”&nbsp;&nbsp;华尔街见闻美军损失或达150亿美元，鲁比奥：还能打，但特朗普...&nbsp;&nbsp;观察者网鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定&nbsp;&nbsp;凤凰网特朗普谈伊朗：无论以何种方式，我们很快会将其解决。&nbsp;&nbsp;手机新浪网美以伊局势：特朗普称还需“处理”伊朗一两个目标，含镐山核",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "eff3a2a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "eff3a2a7",
+          "source": "Google News (中国)",
+          "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重” - 华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xakRoNjd6NWtydmJhNkljWU1hcnF0dVdab0Q5UjdNckNkRVlDb3MxUDh4LXA3a29vOV9hc2wtbkc1UEwwVnNiUUhuMEF3OUtKNktv?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T00:34:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T00:34:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "024a14ed",
+      "title": "黄河流域生态保护和高质量发展取得新成效 - 浙江在线",
+      "summary": "黄河流域生态保护和高质量发展取得新成效&nbsp;&nbsp;浙江在线在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "1b617e3d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "1b617e3d",
+          "source": "Google News (中国)",
+          "title": "黄河流域生态保护和高质量发展取得新成效 - 浙江在线",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ajVfdDZQQlhjZjlLVzBFcVFDTW5UeWY4ZFA4RUFRbElQRjdyR2ZzTVczQ2lfamJIa0JkUHFfcFBRMGh5VGxsdmNaU1BjZkdieXVFU2l5dF94MUZ3RU5QaFlfc3BQd3h3SlNycFhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T00:33:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T00:33:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b107910d",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+      "article_ids": [
+        "c633a56e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c633a56e",
+          "source": "BBC World",
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T00:15:30+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T00:15:30+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d14eee7",
+      "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+      "summary": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "52847065"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "52847065",
+          "source": "Bloomberg",
+          "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+          "published_at": "2026-11-02T00:15:20+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T00:15:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40422bbf",
+      "title": "伊朗革命卫队情报机构宣布逮捕一名间谍 - 中国新闻网",
+      "summary": "伊朗革命卫队情报机构宣布逮捕一名间谍&nbsp;&nbsp;中国新闻网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "2bc24f58"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2bc24f58",
+          "source": "Google News (中国)",
+          "title": "伊朗革命卫队情报机构宣布逮捕一名间谍 - 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YSkUwVWU5a3ZpSmYtU1FvbjRRV0RDNWlxT2Z6eUNwWEQxMXdKTUVkbFA3RmNzWkF0SDgxVG90QWt3VlBqcE9QLUhIcHZlZGFvWHdkRGpjWmFCTWJJU0t3Mm93a3VlQy1Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-01T23:22:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T23:22:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e5092fc9",
+      "title": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+      "summary": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "566aa8da"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "566aa8da",
+          "source": "The Information",
+          "title": "Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow",
+          "link": "https://www.theinformation.com/briefings/binance-allows-customers-resume-withdrawals-sees-5-8-billion-net-outflow",
+          "published_at": "2026-11-01T23:18:56+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T23:18:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a8a175f",
+      "title": "Latest Oil Market News and Analysis for Nov. 2",
+      "summary": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9d7ec165"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9d7ec165",
+          "source": "Bloomberg",
+          "title": "Latest Oil Market News and Analysis for Nov. 2",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+          "published_at": "2026-11-01T23:11:50+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T23:11:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d894d7a1",
+      "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "summary": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "7deaa06f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "7deaa06f",
+          "source": "The Information",
+          "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+          "link": "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework",
+          "published_at": "2026-11-01T23:09:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T23:09:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c8537e8",
+      "title": "Apple, Uber and Elections Headline Week",
+      "summary": "Apple, Uber and Elections Headline Week",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "48988a4b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "48988a4b",
+          "source": "The Information",
+          "title": "Apple, Uber and Elections Headline Week",
+          "link": "https://www.theinformation.com/newsletters/the-briefing/apple-uber-elections-headline-week",
+          "published_at": "2026-11-01T23:00:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T23:00:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a694885",
+      "title": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+      "summary": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f393eec1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "f393eec1",
+          "source": "The Information",
+          "title": "Exclusive: How the Embattled CEO of Our Next Energy Plotted a Comeback",
+          "link": "https://www.theinformation.com/newsletters/the-electric/exclusive-embattled-ceo-next-energy-plotted-comeback",
+          "published_at": "2026-11-01T22:00:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T22:00:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5108649c",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "article_ids": [
+        "cf5e1b5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "cf5e1b5d",
+          "source": "TechCrunch",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "published_at": "2026-11-01T21:55:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5108649c",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "article_ids": [
+        "cf5e1b5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "cf5e1b5d",
+          "source": "TechCrunch AI",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "published_at": "2026-11-01T21:55:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "142a5ee9",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+      "article_ids": [
+        "7a6c896e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7a6c896e",
+          "source": "BBC World",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T21:55:01+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:55:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a300a571",
+      "title": "The Information’s WTF Summit in Pictures",
+      "summary": "The Information’s WTF Summit in Pictures",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "13bf872f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "13bf872f",
+          "source": "The Information",
+          "title": "The Information’s WTF Summit in Pictures",
+          "link": "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2",
+          "published_at": "2026-11-01T21:52:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:52:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4958cf74",
+      "title": "波蘭歐洲議員：共產主義意味著飢餓、死亡和奴役 - 新唐人電視台",
+      "summary": "波蘭歐洲議員：共產主義意味著飢餓、死亡和奴役&nbsp;&nbsp;新唐人電視台突发：波兰爆发“政变”，总统专机原地掉头，外交官宣布集体辞职&nbsp;&nbsp;凤凰网热点问答丨波兰宪法法院风波将如何牵动政局&nbsp;&nbsp;新浪网波兰政治危机：布鲁塞尔向波兰总统施压&nbsp;&nbsp;RFI抗议持续，总统和法官开打…波兰总统发表电视讲话&nbsp;&nbsp;观察者网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8d72d203"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8d72d203",
+          "source": "Google News (中国)",
+          "title": "波蘭歐洲議員：共產主義意味著飢餓、死亡和奴役 - 新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oSXhPUVJnVHU5Rm9ZcHpZTWZFaWZmdWJFMDFzRXk1ay1QVTdkaVBiWi01M1dhTXp4WC1iZnlhSUFpNlBiUmhqVnFSMGhuNUV3bjl3Nnl0UFVUYlZ4bDVNa9IBZkFVX3lxTE93UXU1N1lhX0JITGotNVNCZllCSHlaXzIwSUtyQmMyV3lIMWpuZEJWak12RW1lR25QWmpCOXJuZDhOM0V0cVV2QVAwY0t3d0tQNXlYTm8zYTZ0RE5WYWtjU0ZURThVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-01T21:43:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:43:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "630a6665",
+      "title": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+      "summary": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0d1254a7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0d1254a7",
+          "source": "Bloomberg",
+          "title": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+          "published_at": "2026-11-01T21:28:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:28:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97dc0127",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its ti",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "cc08afba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "cc08afba",
+          "source": "The Verge",
+          "title": "NASA hopes the commercial space industry can help save Hubble",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+          "published_at": "2026-11-01T21:09:21+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T21:09:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b014269",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "article_ids": [
+        "b3a6357c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b3a6357c",
+          "source": "TechCrunch",
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "published_at": "2026-11-01T20:57:58+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b014269",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "article_ids": [
+        "b3a6357c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "b3a6357c",
+          "source": "TechCrunch AI",
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "published_at": "2026-11-01T20:57:58+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9860531e",
+      "title": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+      "summary": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australi",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "03d54ce1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "03d54ce1",
+          "source": "Bloomberg",
+          "title": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
+          "published_at": "2026-11-01T20:41:10+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T20:41:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bb6e2fcd",
+      "title": "Flock keeps ignoring requests to cancel its contracts",
+      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its c",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "8cf788ce"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8cf788ce",
+          "source": "The Verge",
+          "title": "Flock keeps ignoring requests to cancel its contracts",
+          "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+          "published_at": "2026-11-01T19:58:02+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T19:58:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee8cad34",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
+      "article_ids": [
+        "aa9578f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "aa9578f0",
+          "source": "BBC World",
+          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T17:56:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T17:56:47+00:00",
+      "is_merged": false
+    },
     {
       "id": "89066752",
       "title": "Apple’s HomeView could add security camera features",
@@ -983,6 +1893,32 @@
         }
       ],
       "published_at": "2026-11-01T17:06:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32c21a20",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg",
+      "article_ids": [
+        "64fa4253"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "64fa4253",
+          "source": "BBC World",
+          "title": "University of Cambridge scientist among those who died in Spanish train crash",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T17:05:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-01T17:05:18+00:00",
       "is_merged": false
     },
     {
@@ -1529,942 +2465,6 @@
         }
       ],
       "published_at": "2026-11-01T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "95be5043",
-      "title": "法国新一轮示威活动中已有779人被捕 - 中国新闻网",
-      "summary": "法国新一轮示威活动中已有779人被捕&nbsp;&nbsp;中国新闻网在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "1578c555"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "1578c555",
-          "source": "Google News (中国)",
-          "title": "法国新一轮示威活动中已有779人被捕 - 中国新闻网",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldUVyZlR5TC1nWDF4a3lxWU05Ylh1bDlqQXgtNlNtbjdzU1VoUVk0TTFnbUpLVUN2UGtLdDk3TTd1YnpWcjhITGNscVkzd3U5YlVUbnZlWE1CWnZENy0zRUNYc2l1MUZ0?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T13:42:26+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T13:42:26+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "79b91edd",
-      "title": "执大象而天下往——推动构建网络空间命运共同体迈向新阶段述评 - 江苏网信办",
-      "summary": "执大象而天下往——推动构建网络空间命运共同体迈向新阶段述评&nbsp;&nbsp;江苏网信办潮评丨开放融入烟火气，开源成为最强音&nbsp;&nbsp;凤凰网【乌镇视窗】乌镇，细节里的“准备就绪”&nbsp;&nbsp;光明网中国经济说：产业雄厚，浙江做对了什么？&nbsp;&nbsp;中国日报网乌镇“网事”|领先科技奖，铺展全球数智创新新图景&nbsp;&nbsp;中国网新闻中心",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "c1bd3a62"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "c1bd3a62",
-          "source": "Google News (中国)",
-          "title": "执大象而天下往——推动构建网络空间命运共同体迈向新阶段述评 - 江苏网信办",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRjJremc4OEttN18tOVVmNzBtZ3FPdkpmaDdsVHFMTXBtOHhEMWRyTzhsRlFqdEg4NjlZTlR2V0tjNlBReDdKUXliMGZ5TDIwX29LWUtlSXJFNXpCeG5CSkJoTlZWcjlS?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T13:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T13:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3aa77393",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "article_ids": [
-        "9428defc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "9428defc",
-          "source": "BBC World",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T13:11:37+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T13:11:37+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "74971958",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our s",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "28cc0d19"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "28cc0d19",
-          "source": "The Verge",
-          "title": "New Zelda and GTA represent a games industry that no longer exists",
-          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-          "published_at": "2026-11-01T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6a229073",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates ",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "cd4d9b44"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "cd4d9b44",
-          "source": "The Verge",
-          "title": "Prop 45 in California could be hiding a loophole for data centers",
-          "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-          "published_at": "2026-11-01T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f0ec2442",
-      "title": "“妈祖”海洋预报数值模式2．0版本正式发布 - 搜狐网",
-      "summary": "“妈祖”海洋预报数值模式2．0版本正式发布&nbsp;&nbsp;搜狐网五年迭代攻关：海洋预报“妈祖”升级2.0&nbsp;&nbsp;新华网发髻是帆 银钗是锚&nbsp;&nbsp;新浪财经青春有爱 共筑未来——妈祖文化青年交流论坛暨全球“Z世代”对话妈祖活动在莆田圆满举办&nbsp;&nbsp;中国日报网妈祖大爱走向五洲四海&nbsp;&nbsp;央视网",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "4859a820"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "4859a820",
-          "source": "Google News (中国)",
-          "title": "“妈祖”海洋预报数值模式2．0版本正式发布 - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zTVFqejl0VFhCYTNIcXFNSXFmdzBTdk5lRWxBQ2d6aHBNQWtsV3N4NGlScEw3QmhpT3RWbWdUTzB5aW5Wb1k3b3p4R0kyeUZYVEFV?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T12:54:45+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T12:54:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "459f599f",
-      "title": "中雨、大雨、暴雨！浙江全省迎来大降温！宁波人做好准备…… - 网易新闻客户端",
-      "summary": "中雨、大雨、暴雨！浙江全省迎来大降温！宁波人做好准备……&nbsp;&nbsp;网易新闻客户端27℃→1字头！绍兴接下来的天气……&nbsp;&nbsp;新浪网降至13°C！冷空气即将影响杭州，还有阵雨和大风&nbsp;&nbsp;凤凰网“怎么一下雨就这么冷”！冷空气抵达，单日降幅可达10℃以上！下周浙江雨雨雨？&nbsp;&nbsp;搜狐网暴雨、中到大雨，浙江冷空气突袭！台州马上大变脸！超强台风",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "9db09c9f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "9db09c9f",
-          "source": "Google News (中国)",
-          "title": "中雨、大雨、暴雨！浙江全省迎来大降温！宁波人做好准备…… - 网易新闻客户端",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmNoY1JhQXVpNTB6TW81TVYzbGJ5eTZQM29ac0RTdFB4S3Z0bnN3OWNqSGI1NnJCTTZyajB2TDBVUm9OX000WmJReG5wczlUUHBtX1JOSk1PdnJzTXBKMUdLZjlxX044NnZfZEdvUXk5RmxsSUpiT2ptME4weVNaLUNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T12:05:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T12:05:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "346014ec",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
-      "article_ids": [
-        "9970edb1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "9970edb1",
-          "source": "BBC World",
-          "title": "Shops looted as German cost-of-living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T11:57:48+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T11:57:48+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "517882b7",
-      "title": "让忠魂终归故里，让思念有所寄托——为红军烈士寻亲 - 新华网",
-      "summary": "让忠魂终归故里，让思念有所寄托——为红军烈士寻亲&nbsp;&nbsp;新华网回望伟大远征 汲取强军力量——万名官兵走进“伟大的远征”主题展览&nbsp;&nbsp;光明网“纪念中国工农红军长征胜利90周年主题展”在广西博物馆开展- 中国日报网&nbsp;&nbsp;China Daily共上一堂跨学段的红色“大思政课”&nbsp;&nbsp;搜狐网希望的火种从未熄灭（征程如画·红军长征故事）&n",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "d7967df5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "d7967df5",
-          "source": "Google News (中国)",
-          "title": "让忠魂终归故里，让思念有所寄托——为红军烈士寻亲 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2lGSUZWbTdwWnp1Ty1nMDJ2MFBzdGREMzI2T0dpSzc0dHZSRnVYa2RCOHZOaUxLVU1JekE0cWFGZ3Y5c3ZuVFlmOUJCMEtjVTR5TnNId3VBX2MyN2JxY0M2WEN4VUN6VWw1c0VPMXpiUS1fcDQtTFgzbUIwSGxPZzdwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T10:38:08+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T10:38:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "37e8590f",
-      "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-      "summary": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-netanyahu-coalition-chmj/31int-netanyahu-coalition-chmj-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "01bf2d9e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "01bf2d9e",
-          "source": "NYTimes World",
-          "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-          "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-          "published_at": "2026-11-01T10:20:20+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T10:20:20+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "604ad509",
-      "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-      "summary": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-russia-putin-week-cfkh/01int-russia-putin-week-cfkh-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "49957558"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "49957558",
-          "source": "NYTimes World",
-          "title": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-          "link": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
-          "published_at": "2026-11-01T10:04:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T10:04:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "df993eba",
-      "title": "Where Do Israel’s Arab Parties Stand?",
-      "summary": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-israel-arab-parties-hfkw/01int-israel-arab-parties-hfkw-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "618d38e5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "618d38e5",
-          "source": "NYTimes World",
-          "title": "Where Do Israel’s Arab Parties Stand?",
-          "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-          "published_at": "2026-11-01T10:03:51+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T10:03:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1ce4e35d",
-      "title": "产业发展开新局丨一条鱼串起“蓝色粮仓”产业链 - 中国网",
-      "summary": "产业发展开新局丨一条鱼串起“蓝色粮仓”产业链&nbsp;&nbsp;中国网在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "2ac4304c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "2ac4304c",
-          "source": "Google News (中国)",
-          "title": "产业发展开新局丨一条鱼串起“蓝色粮仓”产业链 - 中国网",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tYjNDbGFZeklVNE5DYWVZYzN1c3F6bi1DcG9MMUgxYzRHNEUzT203RnMtTHBkazdmMGVkVWZwbU1MSVFwa2FRNnZaWHEtWk1xOVhwRkN1ZkVTOVIwUjBPc19VM2RLRG1yMEZ2blJ4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T09:40:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T09:40:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8ba090a4",
-      "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-      "summary": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to people with direct knowl",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "0d5844ee"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "0d5844ee",
-          "source": "Bloomberg",
-          "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
-          "published_at": "2026-11-01T09:23:14+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T09:23:14+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a3f1d66a",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
-      "article_ids": [
-        "cdd27444"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "cdd27444",
-          "source": "BBC World",
-          "title": "India's opposition holds mega rally seeking election chief's resignation",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T07:00:55+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T07:00:55+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "66d0ffa0",
-      "title": "美国特拉华大学附近发生枪击事件 - 新华网客户端",
-      "summary": "美国特拉华大学附近发生枪击事件&nbsp;&nbsp;新华网客户端在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "d30c018c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "d30c018c",
-          "source": "Google News (中国)",
-          "title": "美国特拉华大学附近发生枪击事件 - 新华网客户端",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmZON09JWDc5YktiMFM4bVlpZVVhUl8zOW9ZdmJITUdLcjRTWm1la3NScklwZGdBZF9IdlFYM0F6QjRXSm1LVGZTQnI5U3RSeFllSTN2SUJ5Y290QVRnaG9ERUZiNDdMOHVHeWtZMFdUZzdDYzNkbXU4UjdhdnZHVW1uYllHZ1M0cWVod08yYU1XSnNGbUhiNDZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T06:13:51+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T06:13:51+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "516fae9d",
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "summary": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "9c220c4e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "9c220c4e",
-          "source": "NYTimes World",
-          "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-          "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-          "published_at": "2026-11-01T04:01:16+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T04:01:16+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "12d4b2d7",
-      "title": "Korean Language Picks Up in Japan",
-      "summary": "The rise of Korean terms in Japanese is a striking reversal from colonial times and a sign of the global appeal of South Korean culture.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00int-japan-korea-slang-01-vzqc/00int-japan-korea-slang-01-vzqc-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "5850527f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "5850527f",
-          "source": "NYTimes World",
-          "title": "Korean Language Picks Up in Japan",
-          "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
-          "published_at": "2026-11-01T04:01:08+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T04:01:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6a5d9974",
-      "title": "新华视点丨从安居到宜居：一座城的民生答卷 - 商洛之窗",
-      "summary": "新华视点丨从安居到宜居：一座城的民生答卷&nbsp;&nbsp;商洛之窗解码可持续发展的“景德镇样本”&nbsp;&nbsp;凤凰网世界城市日｜你心目中的“美好人居”，长这样吗？&nbsp;&nbsp;新华网中国联通亮相世界城市日全球主场活动‌|城市建设|福建省|展会|数字|分公司_手机新浪网&nbsp;&nbsp;新浪财经2026年世界城市日全球主场活动在福建福州开幕&nbsp;&nbsp;光明",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "fafed8e0"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "fafed8e0",
-          "source": "Google News (中国)",
-          "title": "新华视点丨从安居到宜居：一座城的民生答卷 - 商洛之窗",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdDNGbVY3T3dPV292c1djM2QwTDN5TTdadWVoZzUtdFdaa1FZVnlSZmcwb0pDdkk5S19QbTd0TEVPLXAtakNaekhxenhkYXRRWWRxenllZ0FDTV9sV3lrQ3JTNHdna3Vm?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-01T03:43:06+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T03:43:06+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6a988d31",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-      "article_ids": [
-        "4876e27e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "4876e27e",
-          "source": "TechCrunch",
-          "title": "Data centers are now a midterm issue, even in Brooklyn",
-          "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-          "published_at": "2026-11-01T02:22:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T02:22:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8f69882f",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
-      "article_ids": [
-        "2a45aace"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "2a45aace",
-          "source": "BBC World",
-          "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-          "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T00:55:06+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T00:55:06+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "27a7a03a",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
-      "article_ids": [
-        "1660ab9e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "1660ab9e",
-          "source": "BBC World",
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T00:46:12+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T00:46:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2d61c9e5",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
-      "article_ids": [
-        "52940507"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "52940507",
-          "source": "BBC World",
-          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T00:41:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T00:41:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b2528fb4",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
-      "article_ids": [
-        "1f5b5bbc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "1f5b5bbc",
-          "source": "BBC World",
-          "title": "Judge orders Trump administration to stop threatening US election officials",
-          "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-01T00:27:33+00:00"
-        }
-      ],
-      "published_at": "2026-11-01T00:27:33+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5f94408c",
-      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-      "summary": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "648c300f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "648c300f",
-          "source": "The Information",
-          "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
-          "link": "https://www.theinformation.com/briefings/fbi-says-north-korea-behind-6-3-billion-binance-hack",
-          "published_at": "2026-10-31T23:17:05+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T23:17:05+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ed533b5d",
-      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-      "summary": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "da47b70b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "da47b70b",
-          "source": "NYTimes World",
-          "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-          "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-          "published_at": "2026-10-31T23:05:42+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T23:05:42+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "85ef9579",
-      "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-      "summary": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "b9e200ac"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "b9e200ac",
-          "source": "NYTimes World",
-          "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-          "link": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-          "published_at": "2026-10-31T21:43:34+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:43:34+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "babbd126",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "article_ids": [
-        "8462b9fc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "8462b9fc",
-          "source": "TechCrunch",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "published_at": "2026-10-31T21:41:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:41:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "babbd126",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "article_ids": [
-        "8462b9fc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "8462b9fc",
-          "source": "TechCrunch AI",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "published_at": "2026-10-31T21:41:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:41:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "618ea3df",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "article_ids": [
-        "ec476f3f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "ec476f3f",
-          "source": "TechCrunch",
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-          "published_at": "2026-10-31T21:36:07+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:36:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "618ea3df",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "article_ids": [
-        "ec476f3f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "ec476f3f",
-          "source": "TechCrunch AI",
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-          "published_at": "2026-10-31T21:36:07+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:36:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "87b52c5d",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "article_ids": [
-        "9a46afb4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "9a46afb4",
-          "source": "TechCrunch",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-          "published_at": "2026-10-31T21:17:03+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:17:03+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "87b52c5d",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "article_ids": [
-        "9a46afb4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "9a46afb4",
-          "source": "TechCrunch AI",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-          "published_at": "2026-10-31T21:17:03+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:17:03+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "33c8f923",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird vide",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "ea2c6ca7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "ea2c6ca7",
-          "source": "The Verge",
-          "title": "Get in the spooky spirit with these horrors from YouTube",
-          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-          "published_at": "2026-10-31T21:06:58+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T21:06:58+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "559e084d",
-      "title": "Keyboards of The Verge",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the compu",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "68e79934"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "68e79934",
-          "source": "The Verge",
-          "title": "Keyboards of The Verge",
-          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-          "published_at": "2026-10-31T19:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T19:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "08ea73f1",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
-      "article_ids": [
-        "003ada5e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "003ada5e",
-          "source": "BBC World",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-31T19:22:26+00:00"
-        }
-      ],
-      "published_at": "2026-10-31T19:22:26+00:00",
       "is_merged": false
     }
   ]
