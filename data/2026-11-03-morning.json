@@ -1,10 +1,670 @@
 {
   "date": "2026-11-03",
   "edition": "morning",
-  "updated_at": "2026-11-03T05:09:02.240874+08:00",
+  "updated_at": "2026-11-03T12:42:20.978053+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "44f168a8",
+      "title": "China Talks Up Market Openness While Steering Stocks and Yuan",
+      "title_original": "China Talks Up Market Openness While Steering Stocks and Yuan",
+      "summary": "China’s top economic officials are talking up openness in Hong Kong. Back on the mainland, authorities are showing investors just how active they remain in steering financial markets.",
+      "summary_original": "China’s top economic officials are talking up openness in Hong Kong. Back on the mainland, authorities are showing investors just how active they remain in steering financial markets.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-talks-up-market-openness-while-steering-stocks-and-yuan",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T04:32:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "518d1181",
+      "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
+      "title_original": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
+      "summary": "India’s Finance Minister Nirmala Sitharaman said she’ll consider tax changes on stocks as a prolonged equity-market slump intensifies pressure on policymakers to revive investor confidence.",
+      "summary_original": "India’s Finance Minister Nirmala Sitharaman said she’ll consider tax changes on stocks as a prolonged equity-market slump intensifies pressure on policymakers to revive investor confidence.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T04:05:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e3529c97",
+      "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+      "title_original": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+      "summary": "Goldman Sachs Chief Executive Officer David Solomon says a technology supercycle will dominate capital markets and financing activity as deal demand remains robust. (Source: Bloomberg)",
+      "summary_original": "Goldman Sachs Chief Executive Officer David Solomon says a technology supercycle will dominate capital markets and financing activity as deal demand remains robust. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T04:01:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "47321ac3",
+      "title": "US strikes Iran ahead of midterm elections",
+      "title_original": "US strikes Iran ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "summary_original": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-03T03:39:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "531347e9",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "title_original": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "summary_original": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-03T03:32:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8db4c84c",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "title_original": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "summary_original": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-03T03:30:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "36719bfa",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "title_original": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "summary_original": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "36719bfa",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "title_original": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "summary_original": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9c20aa40",
+      "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+      "title_original": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+      "summary": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned firms from financial",
+      "summary_original": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned firms from financial peril.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T03:22:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "30c8ca33",
+      "title": "美国中期选举四类结局剖析：市场会如何走？ - 东方财富",
+      "title_original": null,
+      "summary": "美国中期选举四类结局剖析：市场会如何走？&nbsp;&nbsp;东方财富美国中期选举：民调显示民主党将取得胜利，但预测还准确吗？&nbsp;&nbsp;BBC美国两党最后冲刺中期选举 选民关注经济与丑闻&nbsp;&nbsp;中华网纽时民调：7大战场州6个翻蓝，特朗普基本盘正在瓦解&nbsp;&nbsp;风闻美国中期选举，结果什么时候出？一图看懂时间轴&nbsp;&nbsp;凤凰网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FWjVLanFmendoZEd4cjVCVVFXSnhvSzBxaVdMQjJZeThYM2FOOHU0ejFVcmRSbzdCeGw3N2JPWThJNmxDSnNoN1FuNkowVW01Mzh4WFZzMjN3X1pjZWU3NnUzOExCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T02:45:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "91c91216",
+      "title": "2026年世界互联网大会乌镇峰会今天开幕 - 央视网",
+      "title_original": null,
+      "summary": "2026年世界互联网大会乌镇峰会今天开幕&nbsp;&nbsp;央视网中国互联网：从“走向世界”到“让世界走向未来”&nbsp;&nbsp;新华网乌镇“网事”｜让更多国家和人民搭乘信息时代的快车&nbsp;&nbsp;光明网数智新侠影 | 从意念御物到赛博推拿 智能竞技场里“智者”论道&nbsp;&nbsp;浙江新闻蚂蚁阿福获世界互联网大会领先科技奖 成为首个获得该奖的健康AI应用&nbsp;&n",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb2hFN1Jnem9mdU53UHc2OFJCYThkRXhUOURjVGNwV0VhWWFUdDBORDQxand0Y3QxMC10aXhJRXhhcXdyU01ialcteXAzOElseHpFMXNhazZLSFkxV2pKdm5jR2xqZGhKN2pRNjgtVnVrMXV1dDlXYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T01:57:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dc645454",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "title_original": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "summary_original": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dc645454",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "title_original": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "summary_original": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6b261816",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "title_original": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "summary_original": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-03T01:23:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b6a040c3",
+      "title": "船厂高薪女焊工月薪15000元，当事人称老公在家带娃 - 凤凰网",
+      "title_original": null,
+      "summary": "船厂高薪女焊工月薪15000元，当事人称老公在家带娃&nbsp;&nbsp;凤凰网当事人称老公在家带娃，自己心甘情愿，并表示不建议年轻人只冲高薪来，有人干两三天就扛不住跑路_中华网&nbsp;&nbsp;中华网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYbkdFMnhZQWZxakVNbDQyZmRlNzhpRjBva3JpVk9DOXZrSnU4SHI4OUt6QmltYy0yM3lOS3plaHRjelZQdG5UZFVIYTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T01:18:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "245a9ef2",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "title_original": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul",
+      "summary_original": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-03T01:12:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "616cdce7",
+      "title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+      "title_original": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+      "summary": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
+      "summary_original": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T01:06:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f917c7a0",
+      "title": "把加强党性修养作为终身课题 - 求是",
+      "title_original": null,
+      "summary": "把加强党性修养作为终身课题&nbsp;&nbsp;求是新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记&nbsp;&nbsp;新华网首都党员干部认真学习党的二十届五中全会精神——以风清气正的政治生态护航首都高质量发展&nbsp;&nbsp;北京市人民政府门户网站学习贯彻党的二十届五中全会精神座谈会在北京大学举行&nbsp;&nbsp;光明网理论【央视快",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqbzlLNlNCb3kyUGRuUnNGWkV2ZFlXZW5BZmhNeDAzYnZ6ZTVBNFF5QkZ4RVdvaTdYN1UyYnhGQm5RMGFEMjRFaUVsTzBrZkFJdzBWNjU4NVBXdENJUm9Rdl9xUDFPcmlLRXZGM2wxa3l5a2N4b1BvMTFTcTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2feecb4f",
+      "title": "以坚定理想信念走好新的长征路 - 求是",
+      "title_original": null,
+      "summary": "以坚定理想信念走好新的长征路&nbsp;&nbsp;求是市政府办公厅开展青年理论学习小组学习&nbsp;&nbsp;北京市人民政府门户网站走一条被文物“打开”的长征路|文化中国行&nbsp;&nbsp;光明网参考消息特稿|在陇原，读懂跨越国界的“精神密码”&nbsp;&nbsp;凤凰网“光影忆长征——纪念中国工农红军长征胜利90周年”主题展览在重大举办- 中国日报网&nbsp;&nbsp;Chin",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUTczMlc3WVJVVHRjNGFHQlVkUzVVbktFQm1iSnVObzRlckFDMGJ1dUNtQTdBZHpDMG11Z1l3UTliTWNzQUw3MWNoUk1JNU1nVVVmbDFfMi0xSjlBcDNpeEtUcDJaN3ZPMTVubkNJRXR4dUVyUE1UeUlFWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "059662f4",
+      "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+      "title_original": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+      "summary": "Pakistan’s soaring stock market, record foreign reserves and improving credit ratings are signaling an economy on the mend. Beneath the surface, the recovery remains far less convincing.",
+      "summary_original": "Pakistan’s soaring stock market, record foreign reserves and improving credit ratings are signaling an economy on the mend. Beneath the surface, the recovery remains far less convincing.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "37fe3100",
+      "title": "西班牙高铁事故69名遇难者身份全部确认，15人为外国公民 - 搜狐网",
+      "title_original": null,
+      "summary": "西班牙高铁事故69名遇难者身份全部确认，15人为外国公民&nbsp;&nbsp;搜狐网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HbDJrNXVXQzk2eEtGZFotS2k0VFpQSFVvbkRKSFVIZHktQVRkR0ZmZktnZVRmZ3dUNzJxRXExSXRCRG9URVBPWGRZc2M5N1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T00:56:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "30470ccd",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "title_original": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "summary_original": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "30470ccd",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "title_original": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "summary_original": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d11e37a0",
+      "title": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+      "title_original": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+      "summary": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/openai-hires-ex-army-secretary-senior-advisor",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-03T00:34:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1b2f0949",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "title_original": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "summary_original": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/hinge-app.jpeg?resize=1200,790",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-03T00:14:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e7b3da67",
+      "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "title_original": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "summary": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-03T00:12:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "869da353",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "title_original": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "summary_original": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-03T00:07:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d5b64245",
+      "title": "选举前两天，民主党议员突然“叛变”，支持共和党对手 - 观察者网",
+      "title_original": null,
+      "summary": "选举前两天，民主党议员突然“叛变”，支持共和党对手&nbsp;&nbsp;观察者网民主党议员临阵“跳反”，特朗普：欢迎她改变阵营&nbsp;&nbsp;观察者网民主党众议员史蒂文斯宣布支持共和党人罗杰斯，详述叛变始末&nbsp;&nbsp;凤凰网美国民主党众议员公开支持共和党候选人&nbsp;&nbsp;新浪财经美国中期选举现“十一月惊奇” 党内分歧加剧&nbsp;&nbsp;中华网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dV9wT2RjRjc4QnRTYmZEaTNadnVaSkxtbFc5a1k0eTR3RTI4cHdjSExKUFVTT2Vqcjl5MFFock4zV3I4MU8xZWZuNUNwR2VqeXZ3dGQxOGU4NFZGTUs2VGJLSkVMY2lNUmtvLXhmZUJsZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T00:07:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4b0bace8",
+      "title": "中华人民共和国和阿曼苏丹国关于深化中阿战略伙伴关系的联合声明 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "中华人民共和国和阿曼苏丹国关于深化中阿战略伙伴关系的联合声明&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vUE80UGJxOWZ2MWU0UjNscHdHTWt5RF9sUkEweXRCSTFjYnBKZF9lZUhKcVRBb3ktTVMzc3J6SkhQd3g0aHU2Q3hYX1R1TVpGN3RTMTNYaVpsVFdpUk9naXZFckN5NDZWZkVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-03T00:01:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a927ad08",
+      "title": "Apple Sales Cool",
+      "title_original": "Apple Sales Cool",
+      "summary": "Apple Sales Cool",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/apple-sales-cool",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-02T23:39:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4acf6f47",
+      "title": "九曲安澜万象新——习近平总书记关心推动黄河流域生态保护和高质量发展纪实 - 福建省人民政府",
+      "title_original": null,
+      "summary": "九曲安澜万象新——习近平总书记关心推动黄河流域生态保护和高质量发展纪实&nbsp;&nbsp;福建省人民政府习近平总书记关心推动黄河流域生态保护和高质量发展纪实&nbsp;&nbsp;北京市人民政府门户网站【央视快评】努力让黄河这条母亲河越来越美&nbsp;&nbsp;光明网八十年治理黄河 看得见的民生变迁&nbsp;&nbsp;人民网财经大河铺锦 归鸟临洲&nbsp;&nbsp;搜狐网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dTNYQ2k5QVpKZHZjYXM1R21sUDFlRE5OM2lLY25oeWdHeTVvNTFMZndycEJsMEVWdk14eTd6S0ZLXzVreXBzSVNvYVY2WXo2ZFpqM0ptTHN5NklqLXBFTE9zQUU0QVRzSlpGbVpCdFp0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T23:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3715e03d",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "title_original": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "summary_original": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-02T23:25:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c368c304",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "title_original": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "summary_original": "The one-year-old startup is now valued at $300 million.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c368c304",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "title_original": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "summary_original": "The one-year-old startup is now valued at $300 million.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "08479b99",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "title_original": "Apple’s inventory surges 154% as memory chip costs climb",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "summary_original": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-02T23:04:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e9f0178b",
+      "title": "Latest Oil Market News and Analysis for Nov. 3",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 3",
+      "summary": "Brent oil steadied after plunging almost 8% in the previous session, with the US and Iran signaling a willingness to pursue peace talks as the war in the Middle East enters its ninth month.",
+      "summary_original": "Brent oil steadied after plunging almost 8% in the previous session, with the US and Iran signaling a willingness to pursue peace talks as the war in the Middle East enters its ninth month.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T23:01:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "71139e0d",
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "title_original": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many custome",
+      "summary_original": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this &#8203;point, we're not able to predict when supply and demand will be in [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-02T22:56:11+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eb7d9635",
+      "title": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+      "title_original": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+      "summary": "Asian stocks fell after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices driven by optimism over progress toward ending the war in Iran. The yuan weakened.",
+      "summary_original": "Asian stocks fell after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices driven by optimism over progress toward ending the war in Iran. The yuan weakened.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-02T22:25:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b86b88ec",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "title_original": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "summary_original": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b86b88ec",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "title_original": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "summary_original": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fd2c8164",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "title_original": "Apple set an iPhone sales record even without a new standard iPhone",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned ",
+      "summary_original": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-02T22:02:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d49252b8",
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "title_original": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "summary_original": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-02T21:46:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "37daa2b1",
+      "title": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+      "title_original": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+      "summary": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/spacex-talks-boost-mobile-expand-wireless-coverage",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-02T21:40:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "66cacf99",
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "title_original": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "summary": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "summary_original": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-02T21:26:15+00:00",
+      "edition": "morning"
+    },
     {
       "id": "5a511fe4",
       "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
@@ -141,6 +801,21 @@
       "edition": "morning"
     },
     {
+      "id": "e45e2b95",
+      "title": "伊媒称美伊沟通无进展，特朗普自称“取胜”、不急于中选后打击伊朗 - 华尔街见闻",
+      "title_original": null,
+      "summary": "伊媒称美伊沟通无进展，特朗普自称“取胜”、不急于中选后打击伊朗&nbsp;&nbsp;华尔街见闻美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！&nbsp;&nbsp;财联社伊朗称美落实其诉求后两天内可启动谈判&nbsp;&nbsp;新华网油价暴跌8%，中期选举前谁怕了？&nbsp;&nbsp;同花顺伊朗与美国的信息交流没有新进展&nbsp;&nbsp;新浪网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxWEh0X1EyRERIaDlIeHBpNThLOHhyeGlIYktySmtxZ1I0a3A0TTN1YWxMTHVpLUw0dlBWVE5uOTdTcXd3NnVPb0UyMWZfeXRxU3kw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-02T20:27:24+00:00",
+      "edition": "morning"
+    },
+    {
       "id": "c7c5077a",
       "title": "NYC Marathon Winner Andreas Almgren on Debut Victory",
       "title_original": "NYC Marathon Winner Andreas Almgren on Debut Victory",
@@ -229,684 +904,1153 @@
       "lang": "en",
       "published_at": "2026-11-02T19:58:34+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "cc750342",
-      "title": "特朗普威胁对伊朗“施以重锤”，没有了结伊朗的唯一原因是“想做个好人” - 东方财富",
-      "title_original": null,
-      "summary": "特朗普威胁对伊朗“施以重锤”，没有了结伊朗的唯一原因是“想做个好人”&nbsp;&nbsp;东方财富中期选举前夕，美国伊朗陷入外交僵局&nbsp;&nbsp;美国之音内塔尼亚胡被曝敦促特朗普重启对伊打击，美方仍未作出决定-市场参考&nbsp;&nbsp;金十数据特朗普称不希望以总理干扰美伊谈判&nbsp;&nbsp;ThePaper.cn鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定&nbsp;&",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVldoWjRfS3lwSGRUazlOZVdBbldqcUlyQWNBYjZENkV5SlRvbkFnVm43U1RxeXByOENkdXFiOG5lZ214Nk1JMkNkM1pFV2h5WG52V3ZWWlA0cTZrRUszcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-02T19:54:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3854fe6e",
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "title_original": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "summary_original": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T19:45:54+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8c83412c",
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "title_original": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "summary": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
-      "summary_original": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-02T19:37:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a3cad8ed",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "title_original": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "summary_original": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T19:33:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fb0e372c",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "title_original": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "summary_original": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T19:25:59+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9f6dece6",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "title_original": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "summary": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch",
-      "summary_original": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Powered by [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T19:24:09+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a72f414a",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "title_original": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
-      "summary_original": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T19:19:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a72f414a",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "title_original": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
-      "summary_original": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-02T19:19:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "59d30f5e",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "title_original": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "summary_original": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T19:12:59+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "05dc7d6b",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "title_original": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autopla",
-      "summary_original": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T19:11:49+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "667c4830",
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "title_original": "Russia Senses Opportunity in Polish Political Turmoil",
-      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "summary_original": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-poland-russia01-photo-kjcl/02int-poland-russia01-photo-kjcl-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-02T19:05:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d8eae6c8",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "title_original": "Ford promises not to sell your driving habits to data brokers",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory b",
-      "summary_original": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&strip=all&crop=0%2C9.2765210458939%2C100%2C81.446957908212&w=1200",
-      "image_validated": true,
-      "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T19:05:46+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8531cc51",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "title_original": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A",
-      "summary_original": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T18:56:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8531cc51",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "title_original": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A",
-      "summary_original": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-02T18:56:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3c7ae4d8",
-      "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-      "title_original": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-      "summary": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, ",
-      "summary_original": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-02T18:48:33+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c2c04a8f",
-      "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-      "title_original": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seem",
-      "summary_original": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T18:43:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "465ea47f",
-      "title": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行 - 新华网",
-      "title_original": null,
-      "summary": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行&nbsp;&nbsp;新华网在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqR1dsc3RWUC12cXdXX3RXaHFuLXo1SFIzZ0hoSHRkWWRVTXgwTWJDWjI1VzBlYUx2cFEwaGN1Vl94XzMwTWY4enB1ZWVCMlBnaldMTmxhRkNkbWszSEZpUm9zbGRMR1lDTlY4OVZzNWZUclR0RHVNLWRRRFltUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-02T18:41:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "89fafe83",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "title_original": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "summary_original": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T18:34:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ac94a9ea",
-      "title": "特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查 - RFI",
-      "title_original": null,
-      "summary": "特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查&nbsp;&nbsp;RFI防民主党秋后算账，特朗普考虑提前赦免马斯克等人&nbsp;&nbsp;观察者网特朗普承诺保护马斯克，暗示可能赦免幕僚应对民主党调查&nbsp;&nbsp;凤凰网Coreweave与CrowdStrike达成合作 以保障AI工作负载安全&nbsp;&nbsp;东方财富美国总统特朗普：认为马斯克关于“民主党全面获胜”的警",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQMHBVSF9scFhVdXZsWFRlandKM2tUOXNVV0o5S2NMVWdSSXdrSzhzcFFpRTVZQVo2bFVUUkl2SzZuMEhGMWxXQ19MVzVNaDZOd1ZpSEQxSHhqeVN6ZnNaX3g0WGpXT0d2dzV4UUhxcHFJWFA4ZnlWdS1IanZQQ3NkRzFKMHFMWjk4N2IyV2tYVndIREtOUjBHVm5IT1ViRzVUWEdwSzdYdDhxOW9MU2NGbDB4aXhVNVg4amJiUjZGOUZCZ2w4TkJVZTJzQTdjUW5VdmdPUjgyWWlMQ0JTdW9HOGZmZFl0a1VWeTNkUm1WT3JabktDWjdvSTNfa1BNNnNGdzdtNnhqOVY4MjdCblJXQ3ZJNXpnX0p4ekkyZVhTbWFmWEx2M09OYm5OYXdJdjVHQ2hOTnFoZEhnb2NoNmRGTTNoX0V6YVRaeC1OQWVFY09nOTNGSFp6ZHFEblp4WHN6MEs5X2xmdnVEZEFIaG1hUlF4TDlRMlMybG9WbzZaOERmcFVVVlk0dzFEMW5LX0d0SlN2V0JDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-02T18:14:31+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4abc1285",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "title_original": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts ",
-      "summary_original": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T18:01:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4abc1285",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "title_original": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts ",
-      "summary_original": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-02T18:01:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "94857e28",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "title_original": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "summary_original": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T17:54:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f3c40d8a",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "title_original": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
-      "summary_original": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T17:51:19+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f3c40d8a",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "title_original": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
-      "summary_original": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-02T17:51:19+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "dad3b1fc",
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "title_original": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "summary_original": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T17:49:41+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f9b35bdd",
-      "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
-      "title_original": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
-      "summary": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hik",
-      "summary_original": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-02T17:44:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ab6109d9",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "title_original": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "summary_original": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T17:38:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "59253a7b",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "title_original": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "summary_original": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T17:33:19+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "88036eba",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "title_original": "Dutch police offer record €2m reward in hunt for drug lord",
-      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "summary_original": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/055d/live/20e151f0-d6dd-11f1-b2be-0146bf989691.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-02T17:29:49+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "bb3652bc",
-      "title": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速排位赛第一 - 新京报",
-      "title_original": null,
-      "summary": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速排位赛第一&nbsp;&nbsp;新京报35 分 47 秒！宇泛智能发布最新的自主导航算法成果&nbsp;&nbsp;品玩首届CMG世界机器人登泰山大赛明日进行，央视揭秘机器人如何认路、探路、见招拆招&nbsp;&nbsp;新浪网世界机器人登泰山大赛 宇树夺冠 展现强大自主决策能力&nbsp;&nbsp;中华网43分41秒登顶！首届CMG世界机器人登泰山",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWHFnV3QyZ201SjczUjd4SjcydGl2WVcyWnQ0VzRHdHNGMXhqLTFsVWRWRnBJd3ZLSDUtd21mTDZ0QmpfckcwQmNoYl9JS0lQX1pDbnBDdzdIc1k5RjhVT1N0NHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-02T17:15:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "de0f1dea",
-      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-      "title_original": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been fini",
-      "summary_original": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has reportedly pushed to delay the launch [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-02T17:06:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9d13bb27",
-      "title": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
-      "title_original": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
-      "summary": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.",
-      "summary_original": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "adc599e6",
-      "title": "Raising the quality of insights in agentic analytics",
-      "title_original": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
-      "summary_original": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "31e983e1",
-      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "title_original": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "summary": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-      "summary_original": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-02T16:48:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3f10e140",
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "title_original": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "summary_original": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T16:44:48+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b6e2d454",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "title_original": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "summary_original": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T16:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b6e2d454",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "title_original": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "summary_original": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-02T16:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b7a0e683",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "title_original": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "summary_original": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T16:23:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b7a0e683",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "title_original": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "summary_original": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-02T16:23:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "739ae12c",
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "title_original": "China’s Message to Its Rivals: You Need What We Make",
-      "summary": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-      "summary_original": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-02T16:21:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d9b97981",
-      "title": "第一观察 | 持续推进黄河流域生态保护和高质量发展的重要遵循 - 新华网",
-      "title_original": null,
-      "summary": "第一观察 | 持续推进黄河流域生态保护和高质量发展的重要遵循&nbsp;&nbsp;新华网九曲安澜万象新&nbsp;&nbsp;人民日报每年“调水调沙”，这操作有多厉害？&nbsp;&nbsp;中国日报网学习新语｜习近平总书记的黄河牵挂&nbsp;&nbsp;凤凰网习语丨“让黄河成为造福人民的幸福河”&nbsp;&nbsp;央视网",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjhaUF9MRDE2SzlnT1FyZmZ0M2trV3dWVEpSempIWTBOX29CcXpIbW13TEo4dkdaTkFhd1d4aXJCeTVZVm82M1NiRXJ2eHNuMFF5bGJiYTVhcXcwVWJWZlRDSUZKSy1ZQXRZS0VOa2hieHVNd24tQU5Id2czWDVjcDlWSzlwVDZGTXlXMGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-02T15:52:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9acd8b85",
-      "title": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-      "title_original": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-      "summary": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-02T15:12:33+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "735cfcff",
-      "title": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-      "title_original": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-      "summary": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-02T15:00:48+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d2641740",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "title_original": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "summary_original": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d2641740",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "title_original": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "summary_original": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "3fe9f185",
+      "title": "China Talks Up Market Openness While Steering Stocks and Yuan",
+      "summary": "China’s top economic officials are talking up openness in Hong Kong. Back on the mainland, authorities are showing investors just how active they remain in steering financial markets.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "44f168a8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "44f168a8",
+          "source": "Bloomberg",
+          "title": "China Talks Up Market Openness While Steering Stocks and Yuan",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-talks-up-market-openness-while-steering-stocks-and-yuan",
+          "published_at": "2026-11-03T04:32:48+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T04:32:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "31017259",
+      "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
+      "summary": "India’s Finance Minister Nirmala Sitharaman said she’ll consider tax changes on stocks as a prolonged equity-market slump intensifies pressure on policymakers to revive investor confidence.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "518d1181"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "518d1181",
+          "source": "Bloomberg",
+          "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says",
+          "published_at": "2026-11-03T04:05:56+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T04:05:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "05c8579a",
+      "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+      "summary": "Goldman Sachs Chief Executive Officer David Solomon says a technology supercycle will dominate capital markets and financing activity as deal demand remains robust. (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e3529c97"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e3529c97",
+          "source": "Bloomberg",
+          "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
+          "published_at": "2026-11-03T04:01:49+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T04:01:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7598f024",
+      "title": "US strikes Iran ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg",
+      "article_ids": [
+        "47321ac3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "47321ac3",
+          "source": "BBC World",
+          "title": "US strikes Iran ahead of midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T03:39:08+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:39:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6eb80943",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+      "article_ids": [
+        "531347e9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "531347e9",
+          "source": "BBC World",
+          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T03:32:36+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:32:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5874d0a2",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg",
+      "article_ids": [
+        "8db4c84c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8db4c84c",
+          "source": "BBC World",
+          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+          "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T03:30:16+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:30:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "64e62e4a",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "article_ids": [
+        "36719bfa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "36719bfa",
+          "source": "TechCrunch",
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "published_at": "2026-11-03T03:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "64e62e4a",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "article_ids": [
+        "36719bfa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "36719bfa",
+          "source": "TechCrunch AI",
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "published_at": "2026-11-03T03:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4152c76b",
+      "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+      "summary": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned firms from financial",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9c20aa40"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9c20aa40",
+          "source": "Bloomberg",
+          "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
+          "published_at": "2026-11-03T03:22:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T03:22:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f154d0e1",
+      "title": "美国中期选举四类结局剖析：市场会如何走？ - 东方财富",
+      "summary": "美国中期选举四类结局剖析：市场会如何走？&nbsp;&nbsp;东方财富美国中期选举：民调显示民主党将取得胜利，但预测还准确吗？&nbsp;&nbsp;BBC美国两党最后冲刺中期选举 选民关注经济与丑闻&nbsp;&nbsp;中华网纽时民调：7大战场州6个翻蓝，特朗普基本盘正在瓦解&nbsp;&nbsp;风闻美国中期选举，结果什么时候出？一图看懂时间轴&nbsp;&nbsp;凤凰网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "30c8ca33"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "30c8ca33",
+          "source": "Google News (中国)",
+          "title": "美国中期选举四类结局剖析：市场会如何走？ - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FWjVLanFmendoZEd4cjVCVVFXSnhvSzBxaVdMQjJZeThYM2FOOHU0ejFVcmRSbzdCeGw3N2JPWThJNmxDSnNoN1FuNkowVW01Mzh4WFZzMjN3X1pjZWU3NnUzOExCUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T02:45:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T02:45:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d191af0",
+      "title": "2026年世界互联网大会乌镇峰会今天开幕 - 央视网",
+      "summary": "2026年世界互联网大会乌镇峰会今天开幕&nbsp;&nbsp;央视网中国互联网：从“走向世界”到“让世界走向未来”&nbsp;&nbsp;新华网乌镇“网事”｜让更多国家和人民搭乘信息时代的快车&nbsp;&nbsp;光明网数智新侠影 | 从意念御物到赛博推拿 智能竞技场里“智者”论道&nbsp;&nbsp;浙江新闻蚂蚁阿福获世界互联网大会领先科技奖 成为首个获得该奖的健康AI应用&nbsp;&n",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "91c91216"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "91c91216",
+          "source": "Google News (中国)",
+          "title": "2026年世界互联网大会乌镇峰会今天开幕 - 央视网",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb2hFN1Jnem9mdU53UHc2OFJCYThkRXhUOURjVGNwV0VhWWFUdDBORDQxand0Y3QxMC10aXhJRXhhcXdyU01ialcteXAzOElseHpFMXNhazZLSFkxV2pKdm5jR2xqZGhKN2pRNjgtVnVrMXV1dDlXYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T01:57:54+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:57:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "11b8c19b",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "article_ids": [
+        "dc645454"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "dc645454",
+          "source": "TechCrunch",
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "published_at": "2026-11-03T01:49:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "11b8c19b",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "article_ids": [
+        "dc645454"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "dc645454",
+          "source": "TechCrunch AI",
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "published_at": "2026-11-03T01:49:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ff0c9dc",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+      "article_ids": [
+        "6b261816"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "6b261816",
+          "source": "BBC World",
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T01:23:03+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:23:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e7794c40",
+      "title": "船厂高薪女焊工月薪15000元，当事人称老公在家带娃 - 凤凰网",
+      "summary": "船厂高薪女焊工月薪15000元，当事人称老公在家带娃&nbsp;&nbsp;凤凰网当事人称老公在家带娃，自己心甘情愿，并表示不建议年轻人只冲高薪来，有人干两三天就扛不住跑路_中华网&nbsp;&nbsp;中华网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b6a040c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b6a040c3",
+          "source": "Google News (中国)",
+          "title": "船厂高薪女焊工月薪15000元，当事人称老公在家带娃 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYbkdFMnhZQWZxakVNbDQyZmRlNzhpRjBva3JpVk9DOXZrSnU4SHI4OUt6QmltYy0yM3lOS3plaHRjelZQdG5UZFVIYTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T01:18:59+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:18:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a17252e6",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+      "article_ids": [
+        "245a9ef2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "245a9ef2",
+          "source": "TechCrunch",
+          "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+          "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+          "published_at": "2026-11-03T01:12:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:12:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0b2735e8",
+      "title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+      "summary": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "616cdce7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "616cdce7",
+          "source": "Bloomberg",
+          "title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
+          "published_at": "2026-11-03T01:06:15+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:06:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d6bd14fd",
+      "title": "把加强党性修养作为终身课题 - 求是",
+      "summary": "把加强党性修养作为终身课题&nbsp;&nbsp;求是新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记&nbsp;&nbsp;新华网首都党员干部认真学习党的二十届五中全会精神——以风清气正的政治生态护航首都高质量发展&nbsp;&nbsp;北京市人民政府门户网站学习贯彻党的二十届五中全会精神座谈会在北京大学举行&nbsp;&nbsp;光明网理论【央视快",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "f917c7a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f917c7a0",
+          "source": "Google News (中国)",
+          "title": "把加强党性修养作为终身课题 - 求是",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqbzlLNlNCb3kyUGRuUnNGWkV2ZFlXZW5BZmhNeDAzYnZ6ZTVBNFF5QkZ4RVdvaTdYN1UyYnhGQm5RMGFEMjRFaUVsTzBrZkFJdzBWNjU4NVBXdENJUm9Rdl9xUDFPcmlLRXZGM2wxa3l5a2N4b1BvMTFTcTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b86eb60",
+      "title": "以坚定理想信念走好新的长征路 - 求是",
+      "summary": "以坚定理想信念走好新的长征路&nbsp;&nbsp;求是市政府办公厅开展青年理论学习小组学习&nbsp;&nbsp;北京市人民政府门户网站走一条被文物“打开”的长征路|文化中国行&nbsp;&nbsp;光明网参考消息特稿|在陇原，读懂跨越国界的“精神密码”&nbsp;&nbsp;凤凰网“光影忆长征——纪念中国工农红军长征胜利90周年”主题展览在重大举办- 中国日报网&nbsp;&nbsp;Chin",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "2feecb4f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "2feecb4f",
+          "source": "Google News (中国)",
+          "title": "以坚定理想信念走好新的长征路 - 求是",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUTczMlc3WVJVVHRjNGFHQlVkUzVVbktFQm1iSnVObzRlckFDMGJ1dUNtQTdBZHpDMG11Z1l3UTliTWNzQUw3MWNoUk1JNU1nVVVmbDFfMi0xSjlBcDNpeEtUcDJaN3ZPMTVubkNJRXR4dUVyUE1UeUlFWUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2a16d80a",
+      "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+      "summary": "Pakistan’s soaring stock market, record foreign reserves and improving credit ratings are signaling an economy on the mend. Beneath the surface, the recovery remains far less convincing.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "059662f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "059662f4",
+          "source": "Bloomberg",
+          "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
+          "published_at": "2026-11-03T01:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "09f1598f",
+      "title": "西班牙高铁事故69名遇难者身份全部确认，15人为外国公民 - 搜狐网",
+      "summary": "西班牙高铁事故69名遇难者身份全部确认，15人为外国公民&nbsp;&nbsp;搜狐网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "37fe3100"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "37fe3100",
+          "source": "Google News (中国)",
+          "title": "西班牙高铁事故69名遇难者身份全部确认，15人为外国公民 - 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HbDJrNXVXQzk2eEtGZFotS2k0VFpQSFVvbkRKSFVIZHktQVRkR0ZmZktnZVRmZ3dUNzJxRXExSXRCRG9URVBPWGRZc2M5N1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T00:56:03+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:56:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "713be796",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "article_ids": [
+        "30470ccd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "30470ccd",
+          "source": "TechCrunch",
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "published_at": "2026-11-03T00:35:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "713be796",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "article_ids": [
+        "30470ccd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "30470ccd",
+          "source": "TechCrunch AI",
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "published_at": "2026-11-03T00:35:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "69440a5b",
+      "title": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+      "summary": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "d11e37a0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "d11e37a0",
+          "source": "The Information",
+          "title": "OpenAI Hires Ex-Army Secretary As Senior Advisor",
+          "link": "https://www.theinformation.com/briefings/openai-hires-ex-army-secretary-senior-advisor",
+          "published_at": "2026-11-03T00:34:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:34:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f9ba49ca",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/hinge-app.jpeg?resize=1200,790",
+      "article_ids": [
+        "1b2f0949"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1b2f0949",
+          "source": "TechCrunch",
+          "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+          "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+          "published_at": "2026-11-03T00:14:51+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:14:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9d63eb47",
+      "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "summary": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e7b3da67"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "e7b3da67",
+          "source": "The Information",
+          "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+          "link": "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+          "published_at": "2026-11-03T00:12:26+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:12:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "819b91f9",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
+      "article_ids": [
+        "869da353"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "869da353",
+          "source": "BBC World",
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T00:07:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:07:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "451021a3",
+      "title": "选举前两天，民主党议员突然“叛变”，支持共和党对手 - 观察者网",
+      "summary": "选举前两天，民主党议员突然“叛变”，支持共和党对手&nbsp;&nbsp;观察者网民主党议员临阵“跳反”，特朗普：欢迎她改变阵营&nbsp;&nbsp;观察者网民主党众议员史蒂文斯宣布支持共和党人罗杰斯，详述叛变始末&nbsp;&nbsp;凤凰网美国民主党众议员公开支持共和党候选人&nbsp;&nbsp;新浪财经美国中期选举现“十一月惊奇” 党内分歧加剧&nbsp;&nbsp;中华网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "d5b64245"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d5b64245",
+          "source": "Google News (中国)",
+          "title": "选举前两天，民主党议员突然“叛变”，支持共和党对手 - 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dV9wT2RjRjc4QnRTYmZEaTNadnVaSkxtbFc5a1k0eTR3RTI4cHdjSExKUFVTT2Vqcjl5MFFock4zV3I4MU8xZWZuNUNwR2VqeXZ3dGQxOGU4NFZGTUs2VGJLSkVMY2lNUmtvLXhmZUJsZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T00:07:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:07:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d377a9a",
+      "title": "中华人民共和国和阿曼苏丹国关于深化中阿战略伙伴关系的联合声明 - 中国共产党新闻网",
+      "summary": "中华人民共和国和阿曼苏丹国关于深化中阿战略伙伴关系的联合声明&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4b0bace8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4b0bace8",
+          "source": "Google News (中国)",
+          "title": "中华人民共和国和阿曼苏丹国关于深化中阿战略伙伴关系的联合声明 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vUE80UGJxOWZ2MWU0UjNscHdHTWt5RF9sUkEweXRCSTFjYnBKZF9lZUhKcVRBb3ktTVMzc3J6SkhQd3g0aHU2Q3hYX1R1TVpGN3RTMTNYaVpsVFdpUk9naXZFckN5NDZWZkVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-03T00:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-03T00:01:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4b9b14a",
+      "title": "Apple Sales Cool",
+      "summary": "Apple Sales Cool",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a927ad08"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "a927ad08",
+          "source": "The Information",
+          "title": "Apple Sales Cool",
+          "link": "https://www.theinformation.com/briefings/apple-sales-cool",
+          "published_at": "2026-11-02T23:39:01+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:39:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f4ca96a6",
+      "title": "九曲安澜万象新——习近平总书记关心推动黄河流域生态保护和高质量发展纪实 - 福建省人民政府",
+      "summary": "九曲安澜万象新——习近平总书记关心推动黄河流域生态保护和高质量发展纪实&nbsp;&nbsp;福建省人民政府习近平总书记关心推动黄河流域生态保护和高质量发展纪实&nbsp;&nbsp;北京市人民政府门户网站【央视快评】努力让黄河这条母亲河越来越美&nbsp;&nbsp;光明网八十年治理黄河 看得见的民生变迁&nbsp;&nbsp;人民网财经大河铺锦 归鸟临洲&nbsp;&nbsp;搜狐网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4acf6f47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4acf6f47",
+          "source": "Google News (中国)",
+          "title": "九曲安澜万象新——习近平总书记关心推动黄河流域生态保护和高质量发展纪实 - 福建省人民政府",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dTNYQ2k5QVpKZHZjYXM1R21sUDFlRE5OM2lLY25oeWdHeTVvNTFMZndycEJsMEVWdk14eTd6S0ZLXzVreXBzSVNvYVY2WXo2ZFpqM0ptTHN5NklqLXBFTE9zQUU0QVRzSlpGbVpCdFp0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T23:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dcf5551f",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "article_ids": [
+        "3715e03d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "3715e03d",
+          "source": "TechCrunch",
+          "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+          "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+          "published_at": "2026-11-02T23:25:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:25:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdec4e81",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+      "article_ids": [
+        "c368c304"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c368c304",
+          "source": "TechCrunch",
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+          "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "published_at": "2026-11-02T23:13:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cdec4e81",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+      "article_ids": [
+        "c368c304"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "c368c304",
+          "source": "TechCrunch AI",
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+          "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "published_at": "2026-11-02T23:13:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3997a926",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+      "article_ids": [
+        "08479b99"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "08479b99",
+          "source": "TechCrunch",
+          "title": "Apple’s inventory surges 154% as memory chip costs climb",
+          "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+          "published_at": "2026-11-02T23:04:57+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:04:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "38179e9d",
+      "title": "Latest Oil Market News and Analysis for Nov. 3",
+      "summary": "Brent oil steadied after plunging almost 8% in the previous session, with the US and Iran signaling a willingness to pursue peace talks as the war in the Middle East enters its ninth month.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "e9f0178b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "e9f0178b",
+          "source": "Bloomberg",
+          "title": "Latest Oil Market News and Analysis for Nov. 3",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+          "published_at": "2026-11-02T23:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T23:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c20328ab",
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many custome",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "71139e0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "71139e0d",
+          "source": "The Verge",
+          "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+          "published_at": "2026-11-02T22:56:11+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T22:56:11+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4a5838a0",
+      "title": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+      "summary": "Asian stocks fell after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices driven by optimism over progress toward ending the war in Iran. The yuan weakened.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "eb7d9635"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "eb7d9635",
+          "source": "Bloomberg",
+          "title": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+          "published_at": "2026-11-02T22:25:14+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T22:25:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82d653b1",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+      "article_ids": [
+        "b86b88ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "b86b88ec",
+          "source": "TechCrunch",
+          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+          "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "published_at": "2026-11-02T22:14:50+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "82d653b1",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+      "article_ids": [
+        "b86b88ec"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "b86b88ec",
+          "source": "TechCrunch AI",
+          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+          "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "published_at": "2026-11-02T22:14:50+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4be173c",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned ",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "fd2c8164"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "fd2c8164",
+          "source": "The Verge",
+          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+          "published_at": "2026-11-02T22:02:36+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T22:02:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c200109",
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d49252b8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d49252b8",
+          "source": "NYTimes World",
+          "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+          "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+          "published_at": "2026-11-02T21:46:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T21:46:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b9d24843",
+      "title": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+      "summary": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "37daa2b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "37daa2b1",
+          "source": "The Information",
+          "title": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage",
+          "link": "https://www.theinformation.com/briefings/spacex-talks-boost-mobile-expand-wireless-coverage",
+          "published_at": "2026-11-02T21:40:28+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T21:40:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e0bfd967",
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "summary": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "66cacf99"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "66cacf99",
+          "source": "NYTimes World",
+          "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+          "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+          "published_at": "2026-11-02T21:26:15+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T21:26:15+00:00",
+      "is_merged": false
+    },
     {
       "id": "aac4abb9",
       "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
@@ -1142,6 +2286,32 @@
       "is_merged": false
     },
     {
+      "id": "81e7f70e",
+      "title": "伊媒称美伊沟通无进展，特朗普自称“取胜”、不急于中选后打击伊朗 - 华尔街见闻",
+      "summary": "伊媒称美伊沟通无进展，特朗普自称“取胜”、不急于中选后打击伊朗&nbsp;&nbsp;华尔街见闻美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！&nbsp;&nbsp;财联社伊朗称美落实其诉求后两天内可启动谈判&nbsp;&nbsp;新华网油价暴跌8%，中期选举前谁怕了？&nbsp;&nbsp;同花顺伊朗与美国的信息交流没有新进展&nbsp;&nbsp;新浪网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "e45e2b95"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "e45e2b95",
+          "source": "Google News (中国)",
+          "title": "伊媒称美伊沟通无进展，特朗普自称“取胜”、不急于中选后打击伊朗 - 华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxWEh0X1EyRERIaDlIeHBpNThLOHhyeGlIYktySmtxZ1I0a3A0TTN1YWxMTHVpLUw0dlBWVE5uOTdTcXd3NnVPb0UyMWZfeXRxU3kw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-02T20:27:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-02T20:27:24+00:00",
+      "is_merged": false
+    },
+    {
       "id": "c094d0c1",
       "title": "NYC Marathon Winner Andreas Almgren on Debut Victory",
       "summary": "Following his debut victory in the New York City Marathon, Men's Winner Andreas Almgren sat down with Bloomberg's Randall Williams to discuss his victory, the mindset behind winning the marathon, and ",
@@ -1295,1176 +2465,6 @@
         }
       ],
       "published_at": "2026-11-02T19:58:34+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3205827c",
-      "title": "特朗普威胁对伊朗“施以重锤”，没有了结伊朗的唯一原因是“想做个好人” - 东方财富",
-      "summary": "特朗普威胁对伊朗“施以重锤”，没有了结伊朗的唯一原因是“想做个好人”&nbsp;&nbsp;东方财富中期选举前夕，美国伊朗陷入外交僵局&nbsp;&nbsp;美国之音内塔尼亚胡被曝敦促特朗普重启对伊打击，美方仍未作出决定-市场参考&nbsp;&nbsp;金十数据特朗普称不希望以总理干扰美伊谈判&nbsp;&nbsp;ThePaper.cn鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定&nbsp;&",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "cc750342"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "cc750342",
-          "source": "Google News (中国)",
-          "title": "特朗普威胁对伊朗“施以重锤”，没有了结伊朗的唯一原因是“想做个好人” - 东方财富",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVldoWjRfS3lwSGRUazlOZVdBbldqcUlyQWNBYjZENkV5SlRvbkFnVm43U1RxeXByOENkdXFiOG5lZ214Nk1JMkNkM1pFV2h5WG52V3ZWWlA0cTZrRUszcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-02T19:54:52+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:54:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "af24b978",
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-      "article_ids": [
-        "3854fe6e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "3854fe6e",
-          "source": "TechCrunch",
-          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-          "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-          "published_at": "2026-11-02T19:45:54+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:45:54+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "77763e72",
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "summary": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "8c83412c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "8c83412c",
-          "source": "NYTimes World",
-          "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-          "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-          "published_at": "2026-11-02T19:37:04+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:37:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "09f30007",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
-      "article_ids": [
-        "a3cad8ed"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "a3cad8ed",
-          "source": "BBC World",
-          "title": "Trump to remove Rwanda and South Africa from US trade deal",
-          "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T19:33:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:33:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a691b212",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
-      "article_ids": [
-        "fb0e372c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "fb0e372c",
-          "source": "TechCrunch",
-          "title": "Web host Squarespace lays off 19% of its employees",
-          "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-          "published_at": "2026-11-02T19:25:59+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:25:59+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "44ec92c4",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "summary": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "9f6dece6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "9f6dece6",
-          "source": "The Verge",
-          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-          "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-          "published_at": "2026-11-02T19:24:09+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:24:09+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1e6fb939",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "article_ids": [
-        "a72f414a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "a72f414a",
-          "source": "TechCrunch",
-          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-          "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-          "published_at": "2026-11-02T19:19:17+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:19:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1e6fb939",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "article_ids": [
-        "a72f414a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "a72f414a",
-          "source": "TechCrunch AI",
-          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-          "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-          "published_at": "2026-11-02T19:19:17+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:19:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "65e9c63a",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
-      "article_ids": [
-        "59d30f5e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "59d30f5e",
-          "source": "BBC World",
-          "title": "Legal challenge to Australia's social media ban to start in High Court",
-          "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T19:12:59+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:12:59+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "32e40cfb",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autopla",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "article_ids": [
-        "05dc7d6b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "05dc7d6b",
-          "source": "TechCrunch",
-          "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-          "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-          "published_at": "2026-11-02T19:11:49+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:11:49+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "04c3f1cc",
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-poland-russia01-photo-kjcl/02int-poland-russia01-photo-kjcl-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "667c4830"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "667c4830",
-          "source": "NYTimes World",
-          "title": "Russia Senses Opportunity in Polish Political Turmoil",
-          "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-          "published_at": "2026-11-02T19:05:52+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:05:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "4159b0ff",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory b",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&strip=all&crop=0%2C9.2765210458939%2C100%2C81.446957908212&w=1200",
-      "article_ids": [
-        "d8eae6c8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "d8eae6c8",
-          "source": "The Verge",
-          "title": "Ford promises not to sell your driving habits to data brokers",
-          "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-          "published_at": "2026-11-02T19:05:46+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T19:05:46+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "da4dd504",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "8531cc51"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "8531cc51",
-          "source": "The Verge",
-          "title": "Anthropic clamps down on Claude’s AI video game clones",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-          "published_at": "2026-11-02T18:56:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:56:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "da4dd504",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with A",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "8531cc51"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "8531cc51",
-          "source": "The Verge AI",
-          "title": "Anthropic clamps down on Claude’s AI video game clones",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-          "published_at": "2026-11-02T18:56:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:56:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e3564221",
-      "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-      "summary": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, ",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "3c7ae4d8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "3c7ae4d8",
-          "source": "Bloomberg",
-          "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-          "published_at": "2026-11-02T18:48:33+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:48:33+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9f489f43",
-      "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seem",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "c2c04a8f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "c2c04a8f",
-          "source": "The Verge",
-          "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-          "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-          "published_at": "2026-11-02T18:43:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:43:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b7590ce3",
-      "title": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行 - 新华网",
-      "summary": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行&nbsp;&nbsp;新华网在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "465ea47f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "465ea47f",
-          "source": "Google News (中国)",
-          "title": "国际海事组织：仍不建议船舶在霍尔木兹海峡航行 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqR1dsc3RWUC12cXdXX3RXaHFuLXo1SFIzZ0hoSHRkWWRVTXgwTWJDWjI1VzBlYUx2cFEwaGN1Vl94XzMwTWY4enB1ZWVCMlBnaldMTmxhRkNkbWszSEZpUm9zbGRMR1lDTlY4OVZzNWZUclR0RHVNLWRRRFltUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-02T18:41:44+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:41:44+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "670287d9",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg",
-      "article_ids": [
-        "89fafe83"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "89fafe83",
-          "source": "BBC World",
-          "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T18:34:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:34:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "89db93b0",
-      "title": "特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查 - RFI",
-      "summary": "特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查&nbsp;&nbsp;RFI防民主党秋后算账，特朗普考虑提前赦免马斯克等人&nbsp;&nbsp;观察者网特朗普承诺保护马斯克，暗示可能赦免幕僚应对民主党调查&nbsp;&nbsp;凤凰网Coreweave与CrowdStrike达成合作 以保障AI工作负载安全&nbsp;&nbsp;东方财富美国总统特朗普：认为马斯克关于“民主党全面获胜”的警",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "ac94a9ea"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "ac94a9ea",
-          "source": "Google News (中国)",
-          "title": "特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查 - RFI",
-          "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQMHBVSF9scFhVdXZsWFRlandKM2tUOXNVV0o5S2NMVWdSSXdrSzhzcFFpRTVZQVo2bFVUUkl2SzZuMEhGMWxXQ19MVzVNaDZOd1ZpSEQxSHhqeVN6ZnNaX3g0WGpXT0d2dzV4UUhxcHFJWFA4ZnlWdS1IanZQQ3NkRzFKMHFMWjk4N2IyV2tYVndIREtOUjBHVm5IT1ViRzVUWEdwSzdYdDhxOW9MU2NGbDB4aXhVNVg4amJiUjZGOUZCZ2w4TkJVZTJzQTdjUW5VdmdPUjgyWWlMQ0JTdW9HOGZmZFl0a1VWeTNkUm1WT3JabktDWjdvSTNfa1BNNnNGdzdtNnhqOVY4MjdCblJXQ3ZJNXpnX0p4ekkyZVhTbWFmWEx2M09OYm5OYXdJdjVHQ2hOTnFoZEhnb2NoNmRGTTNoX0V6YVRaeC1OQWVFY09nOTNGSFp6ZHFEblp4WHN6MEs5X2xmdnVEZEFIaG1hUlF4TDlRMlMybG9WbzZaOERmcFVVVlk0dzFEMW5LX0d0SlN2V0JDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-02T18:14:31+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:14:31+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bc519b85",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts ",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "4abc1285"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "4abc1285",
-          "source": "The Verge",
-          "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-          "published_at": "2026-11-02T18:01:30+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:01:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bc519b85",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts ",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "4abc1285"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "4abc1285",
-          "source": "The Verge AI",
-          "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-          "published_at": "2026-11-02T18:01:30+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T18:01:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2757329e",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "article_ids": [
-        "94857e28"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "94857e28",
-          "source": "TechCrunch",
-          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-          "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-          "published_at": "2026-11-02T17:54:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:54:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f960814f",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "f3c40d8a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "f3c40d8a",
-          "source": "The Verge",
-          "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-          "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-          "published_at": "2026-11-02T17:51:19+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:51:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f960814f",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "f3c40d8a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "f3c40d8a",
-          "source": "The Verge AI",
-          "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-          "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-          "published_at": "2026-11-02T17:51:19+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:51:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "aa2cf2c5",
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675",
-      "article_ids": [
-        "dad3b1fc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "dad3b1fc",
-          "source": "TechCrunch",
-          "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-          "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-          "published_at": "2026-11-02T17:49:41+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:49:41+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "84981b7a",
-      "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
-      "summary": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hik",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "f9b35bdd"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "f9b35bdd",
-          "source": "Bloomberg",
-          "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
-          "published_at": "2026-11-02T17:44:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:44:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6647d620",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-      "article_ids": [
-        "ab6109d9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "ab6109d9",
-          "source": "BBC World",
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T17:38:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:38:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2c574003",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
-      "article_ids": [
-        "59253a7b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "59253a7b",
-          "source": "BBC World",
-          "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T17:33:19+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:33:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "588cfc3f",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/055d/live/20e151f0-d6dd-11f1-b2be-0146bf989691.jpg",
-      "article_ids": [
-        "88036eba"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "88036eba",
-          "source": "BBC World",
-          "title": "Dutch police offer record €2m reward in hunt for drug lord",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-02T17:29:49+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:29:49+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a0a70195",
-      "title": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速排位赛第一 - 新京报",
-      "summary": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速排位赛第一&nbsp;&nbsp;新京报35 分 47 秒！宇泛智能发布最新的自主导航算法成果&nbsp;&nbsp;品玩首届CMG世界机器人登泰山大赛明日进行，央视揭秘机器人如何认路、探路、见招拆招&nbsp;&nbsp;新浪网世界机器人登泰山大赛 宇树夺冠 展现强大自主决策能力&nbsp;&nbsp;中华网43分41秒登顶！首届CMG世界机器人登泰山",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "bb3652bc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "bb3652bc",
-          "source": "Google News (中国)",
-          "title": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速排位赛第一 - 新京报",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zWHFnV3QyZ201SjczUjd4SjcydGl2WVcyWnQ0VzRHdHNGMXhqLTFsVWRWRnBJd3ZLSDUtd21mTDZ0QmpfckcwQmNoYl9JS0lQX1pDbnBDdzdIc1k5RjhVT1N0NHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-02T17:15:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:15:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5e68fdcf",
-      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-      "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been fini",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "de0f1dea"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "de0f1dea",
-          "source": "The Verge",
-          "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-          "published_at": "2026-11-02T17:06:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:06:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "19a35be2",
-      "title": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
-      "summary": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "9d13bb27"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "9d13bb27",
-          "source": "Bloomberg",
-          "title": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
-          "published_at": "2026-11-02T17:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bfdad830",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
-      "article_ids": [
-        "adc599e6"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "adc599e6",
-          "source": "MIT Technology Review",
-          "title": "Raising the quality of insights in agentic analytics",
-          "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-          "published_at": "2026-11-02T17:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f1245b56",
-      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "summary": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "31e983e1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "31e983e1",
-          "source": "NYTimes World",
-          "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-          "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-          "published_at": "2026-11-02T16:48:12+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:48:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "876868a2",
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
-      "article_ids": [
-        "3f10e140"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "3f10e140",
-          "source": "TechCrunch",
-          "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-          "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-          "published_at": "2026-11-02T16:44:48+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:44:48+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2d5a85d5",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
-      "article_ids": [
-        "b6e2d454"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "b6e2d454",
-          "source": "TechCrunch",
-          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-          "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-          "published_at": "2026-11-02T16:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2d5a85d5",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
-      "article_ids": [
-        "b6e2d454"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "b6e2d454",
-          "source": "TechCrunch AI",
-          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-          "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-          "published_at": "2026-11-02T16:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bb772171",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "article_ids": [
-        "b7a0e683"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "b7a0e683",
-          "source": "TechCrunch",
-          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-          "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-          "published_at": "2026-11-02T16:23:21+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:23:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bb772171",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "article_ids": [
-        "b7a0e683"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "b7a0e683",
-          "source": "TechCrunch AI",
-          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-          "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-          "published_at": "2026-11-02T16:23:21+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:23:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "665b1e51",
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "summary": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "739ae12c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "739ae12c",
-          "source": "NYTimes World",
-          "title": "China’s Message to Its Rivals: You Need What We Make",
-          "link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-          "published_at": "2026-11-02T16:21:25+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T16:21:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cb90b832",
-      "title": "第一观察 | 持续推进黄河流域生态保护和高质量发展的重要遵循 - 新华网",
-      "summary": "第一观察 | 持续推进黄河流域生态保护和高质量发展的重要遵循&nbsp;&nbsp;新华网九曲安澜万象新&nbsp;&nbsp;人民日报每年“调水调沙”，这操作有多厉害？&nbsp;&nbsp;中国日报网学习新语｜习近平总书记的黄河牵挂&nbsp;&nbsp;凤凰网习语丨“让黄河成为造福人民的幸福河”&nbsp;&nbsp;央视网",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "d9b97981"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "d9b97981",
-          "source": "Google News (中国)",
-          "title": "第一观察 | 持续推进黄河流域生态保护和高质量发展的重要遵循 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjhaUF9MRDE2SzlnT1FyZmZ0M2trV3dWVEpSempIWTBOX29CcXpIbW13TEo4dkdaTkFhd1d4aXJCeTVZVm82M1NiRXJ2eHNuMFF5bGJiYTVhcXcwVWJWZlRDSUZKSy1ZQXRZS0VOa2hieHVNd24tQU5Id2czWDVjcDlWSzlwVDZGTXlXMGZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-02T15:52:44+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T15:52:44+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2461cc44",
-      "title": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-      "summary": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "9acd8b85"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "9acd8b85",
-          "source": "The Information",
-          "title": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
-          "link": "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss",
-          "published_at": "2026-11-02T15:12:33+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T15:12:33+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "81465a38",
-      "title": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-      "summary": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "735cfcff"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "735cfcff",
-          "source": "The Information",
-          "title": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
-          "link": "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space",
-          "published_at": "2026-11-02T15:00:48+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T15:00:48+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ff856263",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-      "article_ids": [
-        "d2641740"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "d2641740",
-          "source": "TechCrunch",
-          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-          "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-          "published_at": "2026-11-02T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T15:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ff856263",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
-      "article_ids": [
-        "d2641740"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "d2641740",
-          "source": "TechCrunch AI",
-          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-          "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-          "published_at": "2026-11-02T15:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-02T15:00:00+00:00",
       "is_merged": false
     }
   ]
