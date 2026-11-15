@@ -1,10 +1,340 @@
 {
   "date": "2026-11-15",
   "edition": "morning",
-  "updated_at": "2026-11-15T01:30:36.725022+08:00",
+  "updated_at": "2026-11-15T11:56:52.648992+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "b1fe230f",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "title_original": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "summary_original": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-15T03:21:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "449a2b47",
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "title_original": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
+      "summary_original": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-15T03:16:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea549458",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "title_original": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "summary_original": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-15T02:49:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "349f874a",
+      "title": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "title_original": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "summary": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-15T01:23:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0cbac1de",
+      "title": "Where was Nvidia’s security team?",
+      "title_original": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
+      "summary_original": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0cbac1de",
+      "title": "Where was Nvidia’s security team?",
+      "title_original": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
+      "summary_original": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "93d077f3",
+      "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+      "title_original": "(Digital) SpaceX Catches Starship in Novel Landing",
+      "summary": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
+      "summary_original": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-14T22:25:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2528919d",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title_original": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "summary_original": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "22131668",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "title_original": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopst",
+      "summary_original": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-14T21:44:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7502b262",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "title_original": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "summary_original": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7502b262",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "title_original": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "summary_original": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "05f1becd",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "title_original": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "summary_original": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-14T20:04:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0e844838",
+      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+      "title_original": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+      "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+      "summary_original": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-14T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "881cd2e7",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "title_original": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series",
+      "summary_original": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-14T19:47:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "42edab51",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title_original": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "summary_original": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-14T19:12:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fad2304e",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "title_original": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "summary_original": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-14T18:17:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ab3b520e",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "title_original": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "summary_original": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6741c7c3",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "title_original": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "summary_original": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-14T18:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0f30e453",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "title_original": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "summary_original": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-14T17:45:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7fea97ad",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "title_original": "Work to replace old copper wire led to the FAA’s ground stop",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line",
+      "summary_original": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-14T17:44:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17dd6d16",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title_original": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17dd6d16",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title_original": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "edition": "morning"
+    },
     {
       "id": "1158eab1",
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
@@ -138,6 +468,21 @@
       "source": "Bloomberg",
       "lang": "en",
       "published_at": "2026-11-14T16:13:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31650ac8",
+      "title": "The Fallout from Jensen’s Downfall",
+      "title_original": "The Fallout from Jensen’s Downfall",
+      "summary": "The Fallout from Jensen’s Downfall",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/the-weekend/fallout-jensens-downfall",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-14T16:00:34+00:00",
       "edition": "morning"
     },
     {
@@ -381,6 +726,21 @@
       "edition": "morning"
     },
     {
+      "id": "09e0cb8a",
+      "title": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+      "title_original": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+      "summary": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/articles/everything-led-nvidia-ceo-jensen-huangs-fall",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-14T14:01:00+00:00",
+      "edition": "morning"
+    },
+    {
       "id": "9bafd29c",
       "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
       "title_original": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
@@ -544,369 +904,581 @@
       "lang": "zh",
       "published_at": "2026-11-14T11:13:40+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "f5b74214",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "title_original": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "summary_original": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b0375d91",
-      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "title_original": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-      "summary_original": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-14T10:10:01+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "56ead6c5",
-      "title": "在川台胞感悟孙中山精神 共盼祖国统一民族复兴 - 四川新闻",
-      "title_original": null,
-      "summary": "在川台胞感悟孙中山精神 共盼祖国统一民族复兴&nbsp;&nbsp;四川新闻在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYXhNakMxRC03VmNReU04RzczWjJqSTVLajBNWHViRlBULWVMRGNxeTljRXRjNG1EWUhfek9aVUdrVzJYV2tPRjhDS1hNZlRLUWUtRTlIZnBqRzNjNDlJTTVzSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-14T08:53:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "51201e7d",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "title_original": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "summary_original": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-14T06:42:27+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6b09d1b7",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "title_original": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-      "summary_original": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-14T05:01:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0c541626",
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "title_original": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "summary": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
-      "summary_original": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-14T05:01:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7b6adead",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "title_original": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than fo",
-      "summary_original": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-14T01:53:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "48affe6a",
-      "title": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲 - 新华社广西分社",
-      "title_original": null,
-      "summary": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲&nbsp;&nbsp;新华社广西分社尹弘会见学习贯彻党的二十届五中全会精神省委宣讲团成员 陈永奇主持&nbsp;&nbsp;凤凰网时政微观察丨用党的优良传统涵养党性&nbsp;&nbsp;凤凰网经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰&nbsp;&nbsp;新浪财经天台街头：针线缝就好日子，理论",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0hJVVBmMlcyRUxPVVd4UmMxY0NMb0ZaNV9RV3FFV2tyN2tiZzRkdG9HbUl2ZVBnUlUyU3FWUWtXekhhVVFfN3h0emNkcmwzQk85Qkx5Umh2dUxUSjhnOTdneFF4NXMyb2h5cXNDNWRsVzN5aGxRdG1MMnM3ZUZHQi1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-14T01:37:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4f9a42ba",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "title_original": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
-      "summary_original": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4f9a42ba",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "title_original": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
-      "summary_original": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7f14d0aa",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "title_original": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "summary_original": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-13T23:40:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2cc6f714",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "title_original": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "summary_original": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-13T23:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8d23e88a",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_original": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "summary_original": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8d23e88a",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "title_original": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "summary_original": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9d7b1958",
-      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "title_original": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-      "summary_original": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-13T21:50:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2fd1b183",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "title_original": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the Un",
-      "summary_original": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-13T21:44:38+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b5d8e3ec",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "title_original": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "summary_original": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-13T20:45:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b5d8e3ec",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "title_original": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "summary_original": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-13T20:45:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "df6357ad",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "title_original": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazo",
-      "summary_original": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-13T20:30:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "84afda2d",
-      "title": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-      "title_original": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-      "summary": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/inside-anthropics-lavish-roadshow-event-j-p-morgans-headquarters",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-13T20:21:23+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2adab2ac",
-      "title": "OpenAI Launches ChatGPT Wallet",
-      "title_original": "OpenAI Launches ChatGPT Wallet",
-      "summary": "OpenAI Launches ChatGPT Wallet",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-13T20:20:27+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d5448dc5",
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "title_original": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-      "summary_original": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-13T20:10:37+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3f072eac",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "title_original": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "summary_original": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-13T20:07:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "26d265ce",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "title_original": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "summary_original": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-13T19:37:57+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "26433dff",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "article_ids": [
+        "b1fe230f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b1fe230f",
+          "source": "BBC World",
+          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T03:21:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T03:21:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "834bb452",
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/01int-Ideas-Meritocracy-01-kgfm/01int-Ideas-Meritocracy-01-kgfm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "449a2b47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "449a2b47",
+          "source": "NYTimes World",
+          "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+          "link": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+          "published_at": "2026-11-15T03:16:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T03:16:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e28e9b5e",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "article_ids": [
+        "ea549458"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ea549458",
+          "source": "BBC World",
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T02:49:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T02:49:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d98ed64",
+      "title": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "summary": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "349f874a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "349f874a",
+          "source": "The Information",
+          "title": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+          "link": "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang",
+          "published_at": "2026-11-15T01:23:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T01:23:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fc9e1cf5",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "article_ids": [
+        "0cbac1de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0cbac1de",
+          "source": "TechCrunch",
+          "title": "Where was Nvidia’s security team?",
+          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "published_at": "2026-11-15T00:08:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fc9e1cf5",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "article_ids": [
+        "0cbac1de"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "0cbac1de",
+          "source": "TechCrunch AI",
+          "title": "Where was Nvidia’s security team?",
+          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "published_at": "2026-11-15T00:08:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4edf6738",
+      "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+      "summary": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "93d077f3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "93d077f3",
+          "source": "Bloomberg",
+          "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+          "published_at": "2026-11-14T22:25:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T22:25:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f2dd9d36",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+      "article_ids": [
+        "2528919d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2528919d",
+          "source": "BBC World",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T22:09:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e2868810",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopst",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "22131668"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "22131668",
+          "source": "The Verge",
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "published_at": "2026-11-14T21:44:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T21:44:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a26fe07c",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "article_ids": [
+        "7502b262"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7502b262",
+          "source": "TechCrunch",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "published_at": "2026-11-14T21:41:22+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a26fe07c",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "article_ids": [
+        "7502b262"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "7502b262",
+          "source": "TechCrunch AI",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "published_at": "2026-11-14T21:41:22+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c77d243c",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "article_ids": [
+        "05f1becd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "05f1becd",
+          "source": "TechCrunch",
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "published_at": "2026-11-14T20:04:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T20:04:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "220f216b",
+      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+      "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "0e844838"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "0e844838",
+          "source": "Bloomberg",
+          "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+          "published_at": "2026-11-14T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a6be5c5e",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "881cd2e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "881cd2e7",
+          "source": "The Verge",
+          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+          "published_at": "2026-11-14T19:47:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T19:47:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "14866091",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+      "article_ids": [
+        "42edab51"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "42edab51",
+          "source": "BBC World",
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T19:12:25+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T19:12:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "480bbd4b",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+      "article_ids": [
+        "fad2304e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "fad2304e",
+          "source": "BBC World",
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T18:17:58+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T18:17:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "449d5f0a",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+      "article_ids": [
+        "ab3b520e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ab3b520e",
+          "source": "BBC World",
+          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T18:00:10+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8e7ba5be",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+      "article_ids": [
+        "6741c7c3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6741c7c3",
+          "source": "TechCrunch",
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "published_at": "2026-11-14T18:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T18:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5fb44b93",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
+      "article_ids": [
+        "0f30e453"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "0f30e453",
+          "source": "TechCrunch",
+          "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+          "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+          "published_at": "2026-11-14T17:45:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T17:45:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a100b6f5",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "7fea97ad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7fea97ad",
+          "source": "The Verge",
+          "title": "Work to replace old copper wire led to the FAA’s ground stop",
+          "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+          "published_at": "2026-11-14T17:44:28+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T17:44:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3cc6222b",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "article_ids": [
+        "17dd6d16"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "17dd6d16",
+          "source": "TechCrunch",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "published_at": "2026-11-14T17:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3cc6222b",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "article_ids": [
+        "17dd6d16"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "17dd6d16",
+          "source": "TechCrunch AI",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "published_at": "2026-11-14T17:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "is_merged": false
+    },
     {
       "id": "eafe777b",
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
@@ -1139,6 +1711,32 @@
         }
       ],
       "published_at": "2026-11-14T16:13:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2c5d3522",
+      "title": "The Fallout from Jensen’s Downfall",
+      "summary": "The Fallout from Jensen’s Downfall",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "31650ac8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "31650ac8",
+          "source": "The Information",
+          "title": "The Fallout from Jensen’s Downfall",
+          "link": "https://www.theinformation.com/newsletters/the-weekend/fallout-jensens-downfall",
+          "published_at": "2026-11-14T16:00:34+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T16:00:34+00:00",
       "is_merged": false
     },
     {
@@ -1558,6 +2156,32 @@
       "is_merged": false
     },
     {
+      "id": "93196323",
+      "title": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+      "summary": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "09e0cb8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "09e0cb8a",
+          "source": "The Information",
+          "title": "Everything That Led to Nvidia CEO Jensen Huang’s Fall",
+          "link": "https://www.theinformation.com/articles/everything-led-nvidia-ceo-jensen-huangs-fall",
+          "published_at": "2026-11-14T14:01:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-14T14:01:00+00:00",
+      "is_merged": false
+    },
+    {
       "id": "75c00c73",
       "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
       "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at le",
@@ -1841,630 +2465,6 @@
         }
       ],
       "published_at": "2026-11-14T11:13:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5151cc45",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-      "article_ids": [
-        "f5b74214"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "f5b74214",
-          "source": "BBC World",
-          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-14T10:42:20+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9bb75e6e",
-      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "b0375d91"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "b0375d91",
-          "source": "NYTimes World",
-          "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-          "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-          "published_at": "2026-11-14T10:10:01+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T10:10:01+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8562a839",
-      "title": "在川台胞感悟孙中山精神 共盼祖国统一民族复兴 - 四川新闻",
-      "summary": "在川台胞感悟孙中山精神 共盼祖国统一民族复兴&nbsp;&nbsp;四川新闻在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "56ead6c5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "56ead6c5",
-          "source": "Google News (中国)",
-          "title": "在川台胞感悟孙中山精神 共盼祖国统一民族复兴 - 四川新闻",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYXhNakMxRC03VmNReU04RzczWjJqSTVLajBNWHViRlBULWVMRGNxeTljRXRjNG1EWUhfek9aVUdrVzJYV2tPRjhDS1hNZlRLUWUtRTlIZnBqRzNjNDlJTTVzSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-14T08:53:30+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T08:53:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "92beae16",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-      "article_ids": [
-        "51201e7d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "51201e7d",
-          "source": "BBC World",
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-14T06:42:27+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T06:42:27+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a6acd8f4",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "6b09d1b7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "6b09d1b7",
-          "source": "NYTimes World",
-          "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-          "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-          "published_at": "2026-11-14T05:01:07+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T05:01:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "22eccac4",
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "summary": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14britain-speech-01-mfpg/14britain-speech-01-mfpg-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "0c541626"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "0c541626",
-          "source": "NYTimes World",
-          "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-          "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-          "published_at": "2026-11-14T05:01:07+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T05:01:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "162b5981",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than fo",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "7b6adead"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "7b6adead",
-          "source": "The Verge",
-          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "published_at": "2026-11-14T01:53:04+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T01:53:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8e283f14",
-      "title": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲 - 新华社广西分社",
-      "summary": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲&nbsp;&nbsp;新华社广西分社尹弘会见学习贯彻党的二十届五中全会精神省委宣讲团成员 陈永奇主持&nbsp;&nbsp;凤凰网时政微观察丨用党的优良传统涵养党性&nbsp;&nbsp;凤凰网经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰&nbsp;&nbsp;新浪财经天台街头：针线缝就好日子，理论",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "48affe6a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "48affe6a",
-          "source": "Google News (中国)",
-          "title": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲 - 新华社广西分社",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0hJVVBmMlcyRUxPVVd4UmMxY0NMb0ZaNV9RV3FFV2tyN2tiZzRkdG9HbUl2ZVBnUlUyU3FWUWtXekhhVVFfN3h0emNkcmwzQk85Qkx5Umh2dUxUSjhnOTdneFF4NXMyb2h5cXNDNWRsVzN5aGxRdG1MMnM3ZUZHQi1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-14T01:37:25+00:00"
-        }
-      ],
-      "published_at": "2026-11-14T01:37:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "dc1c9b38",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "4f9a42ba"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "4f9a42ba",
-          "source": "The Verge",
-          "title": "Amazon has a plan to index the world’s online shopping data",
-          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "published_at": "2026-11-13T23:49:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "dc1c9b38",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "4f9a42ba"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "4f9a42ba",
-          "source": "The Verge AI",
-          "title": "Amazon has a plan to index the world’s online shopping data",
-          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "published_at": "2026-11-13T23:49:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e6975fa4",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-      "article_ids": [
-        "7f14d0aa"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "7f14d0aa",
-          "source": "BBC World",
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-13T23:40:45+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T23:40:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "d47898e0",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "article_ids": [
-        "2cc6f714"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "2cc6f714",
-          "source": "TechCrunch",
-          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-          "published_at": "2026-11-13T23:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T23:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bf12392b",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "article_ids": [
-        "8d23e88a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "8d23e88a",
-          "source": "TechCrunch",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "published_at": "2026-11-13T22:43:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bf12392b",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "article_ids": [
-        "8d23e88a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "8d23e88a",
-          "source": "TechCrunch AI",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "published_at": "2026-11-13T22:43:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f6f1c79c",
-      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "9d7b1958"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "9d7b1958",
-          "source": "NYTimes World",
-          "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-          "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-          "published_at": "2026-11-13T21:50:12+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T21:50:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b544bcd1",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the Un",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
-      "article_ids": [
-        "2fd1b183"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "2fd1b183",
-          "source": "TechCrunch",
-          "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-          "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-          "published_at": "2026-11-13T21:44:38+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T21:44:38+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "578018a0",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "b5d8e3ec"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "b5d8e3ec",
-          "source": "The Verge",
-          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-          "published_at": "2026-11-13T20:45:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:45:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "578018a0",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "b5d8e3ec"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "b5d8e3ec",
-          "source": "The Verge AI",
-          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-          "published_at": "2026-11-13T20:45:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:45:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a0253a4b",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazo",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "df6357ad"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "df6357ad",
-          "source": "The Verge",
-          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-          "published_at": "2026-11-13T20:30:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:30:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e38dcd5b",
-      "title": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-      "summary": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "84afda2d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "84afda2d",
-          "source": "The Information",
-          "title": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
-          "link": "https://www.theinformation.com/briefings/inside-anthropics-lavish-roadshow-event-j-p-morgans-headquarters",
-          "published_at": "2026-11-13T20:21:23+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:21:23+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "01d559b4",
-      "title": "OpenAI Launches ChatGPT Wallet",
-      "summary": "OpenAI Launches ChatGPT Wallet",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "2adab2ac"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "2adab2ac",
-          "source": "The Information",
-          "title": "OpenAI Launches ChatGPT Wallet",
-          "link": "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet",
-          "published_at": "2026-11-13T20:20:27+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:20:27+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ec30775a",
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "d5448dc5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "d5448dc5",
-          "source": "NYTimes World",
-          "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-          "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-          "published_at": "2026-11-13T20:10:37+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:10:37+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1705f70b",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
-      "article_ids": [
-        "3f072eac"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "3f072eac",
-          "source": "TechCrunch",
-          "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-          "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-          "published_at": "2026-11-13T20:07:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T20:07:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f0d6a21a",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-      "article_ids": [
-        "26d265ce"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "26d265ce",
-          "source": "TechCrunch",
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-          "published_at": "2026-11-13T19:37:57+00:00"
-        }
-      ],
-      "published_at": "2026-11-13T19:37:57+00:00",
       "is_merged": false
     }
   ]
