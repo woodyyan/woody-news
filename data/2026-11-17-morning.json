@@ -1,10 +1,565 @@
 {
   "date": "2026-11-17",
   "edition": "morning",
-  "updated_at": "2026-11-17T05:27:52.935924+08:00",
+  "updated_at": "2026-11-17T13:49:34.564840+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "b5199a8a",
+      "title": "习近平会见加拿大总理卡尼 - 新华网",
+      "title_original": null,
+      "summary": "习近平会见加拿大总理卡尼&nbsp;&nbsp;新华网加拿大总理卡尼抵达深圳 将出席APEC领导人非正式会议&nbsp;&nbsp;新浪财经_金融信息服务商详讯 | 习近平会见加拿大总理卡尼&nbsp;&nbsp;Sohu态度不一样了，卡尼表态将参加普京在场的APEC合影：尊重东道主，我们身在亚洲&nbsp;&nbsp;QQ News下周深圳APEC峰会 卡尼拟与习近平讨论中国汽车制造议题&nbs",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGhxTHR1VzQwTlhKTUowalpQbkFYX3haSkg0TVlMaXEtREJPbUZfU3dQaUtha1dkdUEwd1dfb0ZHVVkwUlViazZDRkUzNXRXWW9CZHNhYjI5bVpOR1BjTjRCRFBiNkRUTXAyQVAtSXpqSjRrdFZqbHdmVm5PNFcySEVCVjZkcFRnM05EX2N3?oc=5",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T05:26:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "86030ba0",
+      "title": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
+      "title_original": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
+      "summary": "An aluminum supply squeeze is intensifying, with extreme tightness in near-term contracts leaving traders scrambling for metal.",
+      "summary_original": "An aluminum supply squeeze is intensifying, with extreme tightness in near-term contracts leaving traders scrambling for metal.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T05:24:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a67bbbdf",
+      "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+      "title_original": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+      "summary": "Hungary is set to leave interest rates steady for a third month as central bankers assess an uptick in inflation against the backdrop of higher borrowing costs across the world.",
+      "summary_original": "Hungary is set to leave interest rates steady for a third month as central bankers assess an uptick in inflation against the backdrop of higher borrowing costs across the world.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "15c3f090",
+      "title": "China's AI² Robotics On Business Strategy",
+      "title_original": "China's AI² Robotics On Business Strategy",
+      "summary": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in Shenzhen. (Source: B",
+      "summary_original": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in Shenzhen. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T04:44:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a101639c",
+      "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+      "title_original": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insi",
+      "summary_original": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T04:32:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a9a57f5f",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "title_original": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "summary_original": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-17T04:18:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "57051bab",
+      "title": "Anthropic IPO: What Australian Investors Need to Know",
+      "title_original": "Anthropic IPO: What Australian Investors Need to Know",
+      "summary": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding ",
+      "summary_original": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on \"Bloomberg: The Asia Trade.\" (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T04:10:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "968421eb",
+      "title": "探访深圳机器人示范街区：人工智能走进城市生活 - 中青在线",
+      "title_original": null,
+      "summary": "探访深圳机器人示范街区：人工智能走进城市生活&nbsp;&nbsp;中青在线在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcDdqY195YVB4eWRVcWpXSmE3VHdMNVZuOFo1NHFuRWdCUXI1c19KZklwc2E2ODlMQmFZMFVKclY3Y3U2Q3pGSWc2WnZObnBaUWpWeHRDZXc3LXcyRUd1RHFGMkVRZWg3VUJ4eDZkT19laUFiSWU5YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T03:26:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ed60ad3f",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "title_original": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "summary_original": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-17T03:07:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "43c69222",
+      "title": "张升民：决不允许有“铁帽子王”“丹书铁券” - 联合早报",
+      "title_original": null,
+      "summary": "张升民：决不允许有“铁帽子王”“丹书铁券”&nbsp;&nbsp;联合早报人民日报发表张升民署名文章：保持惩治腐败高压态势&nbsp;&nbsp;凤凰网人民论坛实评| 反腐败斗争岂是“越反越腐”_评论&nbsp;&nbsp;人民论坛网农民日报：五中全会《决定》，为什么点名“白手套”？&nbsp;&nbsp;ThePaper.cn学习领悟《习近平党建文选》㊻保持惩治腐败高压态势&nbsp;&nbsp",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySXR1SHpxZ2hVTGxHLXBOVzFiRWZJRVVVaUxZTUpSSS1jSUxTc185aW1kdThjWGw2cmZuOW9jOEYzcmN5a21GT3plUEwtbUNaUy13SUd5R0xId3dfSUhOZ0JxX1pBemUxRWw0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T03:05:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6ddfb9aa",
+      "title": "习近平总书记引领推动粤港澳大湾区高质量发展 - 中华人民共和国最高人民法院",
+      "title_original": null,
+      "summary": "习近平总书记引领推动粤港澳大湾区高质量发展&nbsp;&nbsp;中华人民共和国最高人民法院潮头观澜丨深中通道：推动珠江口东西两岸融合发展的重要交通枢纽&nbsp;&nbsp;新浪新闻_手机新浪网习近平广东之行，带给我们哪些重要启示？&nbsp;&nbsp;中国网近镜头｜两次眺望，同样的期待&nbsp;&nbsp;光明网习近平广东行丨复兴薪火永相传——走进孙中山故居纪念馆&nbsp;&nbsp;中",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Y1d6VDRXQXZzbWpram9oRWZPbUMzdDV2SGU3MEdMNDE2ckJRMEs1UTlmZnBETmNJWEhuYVBvVWtOYnlTUHNIekxtUFRJbnJNcG5IZW9PZlBzN1dhS0s1M1hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T03:05:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d0a5c353",
+      "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+      "title_original": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+      "summary": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
+      "summary_original": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T02:46:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6cf8642c",
+      "title": "APEC深圳观察：习近平想告诉世界，中国掌握着未来 - BBC",
+      "title_original": null,
+      "summary": "APEC深圳观察：习近平想告诉世界，中国掌握着未来&nbsp;&nbsp;BBCAPEC工商领导人峰会今天开幕，王传福、李东生、雷军、曾毓群、李彦宏、王兴兴等参会&nbsp;&nbsp;凤凰网笃守合作：务实的深圳与亚太携手共赢--国际&nbsp;&nbsp;人民网瞩望深圳APEC会议：创新是亚太经济腾飞的翅膀&nbsp;&nbsp;新浪财经_金融信息服务商APEC“中国年”一系列会议和活动取得丰硕",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNnN0Y3c5VV9KRW1LSDhGaGpvNm9kajE0dVNibWxUYTh3SFFvcGlRRDFNbXB4VV9qdU9GVXM0YklIcUpBZHlMTlBqMWlNOWMtc3R4cDNVUmdrbm9kU2RJTnZBNFlWdWvSAWxBVV95cUxPQTV1ZEYtY2h3cWNySm8wN1R5NGtDaUlCS0lUc3BuUGxfTFJjWmVFTlpERGdjRF9jRzVkQ3lBV0pJOWpKc2Rjcl9XaGROdTRVLTAwSjBpQjBaN2wxTGZDSDI5S3FPcmdEeFloQ1g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T02:30:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3c747ffb",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "title_original": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "summary_original": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-17T01:26:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f8b0590b",
+      "title": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海” - 中国侨网",
+      "title_original": null,
+      "summary": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海”&nbsp;&nbsp;中国侨网时光相册丨百廿暨南，从南洋潮声到五洲四海&nbsp;&nbsp;新华网凝聚四海侨心侨力 砥砺爱国强国之志&nbsp;&nbsp;新浪财经_金融信息服务商习近平致信祝贺暨南大学建校120周年&nbsp;&nbsp;人民日报暨南大学120周年校庆累计获超4.6亿元捐赠&nbsp;&nbsp;科学网—新闻",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MVAwWDJvR1F2c2lHcEpMRzZUTHVLU1FNb085NnYzV2F1eEdSdFRJRHh3R1l2QkdOZVVWZHdweEI0Qi0tUG94S0V3a3VLVGtUMDV6NkJqbkQ3YVc2a2Vraw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T00:59:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4b03542e",
+      "title": "中东部降水依然广泛 寒潮将制造大风降温天气 - 中国日报网",
+      "title_original": null,
+      "summary": "中东部降水依然广泛 寒潮将制造大风降温天气&nbsp;&nbsp;中国日报网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeGN4OWw3NS03a3BzSDFhSmM0eUI2WVpPOElyYkdUbXREOWpTbkNHXzFCazlwX05VZTdwNEU1R1hKdUtFTnJNTXBWNE5HaTBVa1BGUEVBLTlUSDFod3RKbUVqckM5VzBhUHVoZm5EN0ZaclYyV1NTQzJfc0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T00:51:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "043257b5",
+      "title": "中小学幼儿园将聘任健康副校(园)长 医教结合护航成长 - 中华网",
+      "title_original": null,
+      "summary": "中小学幼儿园将聘任健康副校(园)长 医教结合护航成长&nbsp;&nbsp;中华网直通部委｜我国中小学幼儿园将聘任健康副校长 10月一线城市房价环比总体上涨&nbsp;&nbsp;Jiemian.com校园里，将有健康副校长 学生健康全面守护者&nbsp;&nbsp;中华网我国中小学校、幼儿园将聘任健康副校（园）长&nbsp;&nbsp;凤凰网川观早8点丨我国中小学校、幼儿园将聘任健康副校（园）长",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01Z0xPSF81REJlc3hjeWVwWGtjOUFNQm54SHhma2Z4NDQzVmNWUW9Tc0RSS3g2M2ExUmhxTW9yZUpFc05qWnNRaXBFWnlhSGYtTGZKM0Nla0dpTjJGc29SWWxCa29zZi1BaEw3SEEyVXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-17T00:33:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "429d3918",
+      "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+      "title_original": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+      "summary": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardes",
+      "summary_original": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-17T00:22:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "820d0f02",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "title_original": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecu",
+      "summary_original": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-16T23:35:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "10af9707",
+      "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "title_original": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "summary": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-16T23:34:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7517b8cd",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "title_original": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "summary_original": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7517b8cd",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "title_original": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "summary_original": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8ce5d977",
+      "title": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+      "title_original": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+      "summary": "Gold edged higher — after its lowest close since September 2025 — as dip buyers brought some relief from stubborn US inflation and a selloff in technology stocks.",
+      "summary_original": "Gold edged higher — after its lowest close since September 2025 — as dip buyers brought some relief from stubborn US inflation and a selloff in technology stocks.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-16T23:26:48+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e35c13cf",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "title_original": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als",
+      "summary_original": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e35c13cf",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "title_original": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als",
+      "summary_original": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "98d80275",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "title_original": "California sues OpenAI over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "summary_original": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-16T23:12:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8126f6f9",
+      "title": "美军中央司令部证实“西奥多·罗斯福”号航母已抵达中东 - 美国之音",
+      "title_original": null,
+      "summary": "美军中央司令部证实“西奥多·罗斯福”号航母已抵达中东&nbsp;&nbsp;美国之音“罗斯福”号抵达 美军在中东集结三个航空母舰打击群&nbsp;&nbsp;央视网美军在中东地区形成三航母部署&nbsp;&nbsp;新浪财经“西奥多·罗斯福”号现已在中东，“林肯”号最后护航舰终于回家&nbsp;&nbsp;风闻特朗普赶到深圳前，美军三艘航母进入战位，最后的倒计时已开始？&nbsp;&nbsp;16",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzBUOTMtVWlTM3ZtdEE1eUoxaHUtTHY5R0VCUHlNRUxJdnQtQXh1UFI5aU9JMmQ3QTdEYjVFTlBHWnlBN3dZTUYzeU5mcUc4cnlJU01pZVc1YTVRS2s4U3lXdmtPSTA4QWI5QkxKbXVaUlhuaVBhaEp1VEd1SWlUZHFabnR6c3lLeHhjTFRCejJLajI4MC1YLW1QM1VsZnc2RUZkTHRQRVFEV3I3RGFRdlVvbFVlaG50d0k1Y9IBvwFBVV95cUxQQ2wzS0NGVTBUU1otM1lPbXdIX2hDYzU1R1poeXk5dXBnakh0VjhjWmxpeHE3UGtkT2JlYzZIdW9hcFVubHFIRUh2V3BZeVFiM1o1TTBDYnN2S0MxVTBXWTM2WkJwVUpMZnV1UUpYeFE2S0tESWF5alhFSnhVOWpiLXp4UjhXY0NmS3R0NDVBbDFfaDhfLUltQnI0VFRncG1qR0Etb1NSY2xHTGRreWFmbDJzRzBlVTJmaEFBMUdjdw?oc=5",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-16T23:04:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8894c107",
+      "title": "Latest Oil Market News and Analysis for Nov. 17",
+      "title_original": "Latest Oil Market News and Analysis for Nov. 17",
+      "summary": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+      "summary_original": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-16T23:02:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8a55852e",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "title_original": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:1",
+      "summary_original": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-16T22:54:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5851db66",
+      "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "title_original": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "summary": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-16T22:13:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e16af48f",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "title_original": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "summary_original": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-16T22:12:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5d7f3d8f",
+      "title": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+      "title_original": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+      "summary": "Global stock losses deepened as US moves to restrict China’s access to advanced artificial intelligence chips and servers compounded investor caution ahead of Nvidia Corp.’s high-stakes earnings.",
+      "summary_original": "Global stock losses deepened as US moves to restrict China’s access to advanced artificial intelligence chips and servers compounded investor caution ahead of Nvidia Corp.’s high-stakes earnings.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-16T22:06:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6164faa6",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "title_original": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
+      "summary_original": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6164faa6",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "title_original": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
+      "summary_original": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "87e9e71a",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "title_original": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building",
+      "summary_original": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&strip=all&crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-16T21:41:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c0837b61",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "title_original": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "summary_original": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-16T21:40:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "508f41c5",
+      "title": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+      "title_original": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+      "summary": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-16T21:27:07+00:00",
+      "edition": "morning"
+    },
     {
       "id": "f4a84c1e",
       "title": "RBNZ Flags Growing Private Credit Risks in Real Estate Finance",
@@ -349,564 +904,971 @@
       "lang": "en",
       "published_at": "2026-11-16T19:43:53+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "75b8060f",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "title_original": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "summary_original": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-16T19:30:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "33e1c8cd",
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "title_original": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "summary_original": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T19:26:55+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6ca4cdb5",
-      "title": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-      "title_original": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-      "summary": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-16T19:25:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "13db3cf7",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "title_original": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc",
-      "summary_original": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-16T19:24:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "13db3cf7",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "title_original": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc",
-      "summary_original": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-16T19:24:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "365f3b14",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "title_original": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC",
-      "summary_original": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-16T19:23:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "365f3b14",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "title_original": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC",
-      "summary_original": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-16T19:23:45+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "176a4925",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "title_original": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "summary_original": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-16T19:16:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "761b56f1",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "title_original": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "summary_original": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T19:12:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "761b56f1",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "title_original": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "summary_original": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T19:12:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "085b4cae",
-      "title": "PwC on where AI can help drive revenue",
-      "title_original": "PwC on where AI can help drive revenue",
-      "summary": "PwC on where AI can help drive revenue",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/articles/pwc-ai-can-help-drive-revenue",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-16T19:10:57+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "308def0a",
-      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-      "title_original": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-      "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-      "summary_original": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-16T19:05:52+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c3ae65f8",
-      "title": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通 - 新浪财经_金融信息服务商",
-      "title_original": null,
-      "summary": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通&nbsp;&nbsp;新浪财经_金融信息服务商联合国秘书长告诉VOA：如果美中俄能致力于实现无核化议程，那将是一项重大成就&nbsp;&nbsp;美国之音APEC中国时间｜如何找到中俄美三方契合点？俄美问题专家解读&nbsp;&nbsp;ThePaper.cn中方计划在中俄美元首会晤中讨论什么问题？外交部回应&nbsp;&nbsp;凤凰网长平",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90YUZyZXFnRVVrUy1IZjNmZGNmNGR1Y3FnYWlZdE5mR05DTFYtU0NVVWFfejRqXzhsU2l3dERTbG8tUWhGdFNsSWM5YkpHMWFwWGtMdThFMGVpS1NvMjN4MWcxcXZsVnp6S3Q1T1pHaHFwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-16T19:04:59+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "464a9390",
-      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "title_original": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-      "summary_original": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-16T18:58:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "657e2055",
-      "title": "Island is a new screen-time app that turns staying off your phone into a game",
-      "title_original": "Island is a new screen-time app that turns staying off your phone into a game",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "summary_original": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T18:54:18+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0bc7c862",
-      "title": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-      "title_original": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-      "summary": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
-      "summary_original": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
-      "image": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
-      "image_validated": true,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-16T18:51:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fc7c18c5",
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "title_original": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by",
-      "summary_original": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode, which [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-16T18:44:16+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "51595064",
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "title_original": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and ",
-      "summary_original": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-16T18:43:35+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6352fbce",
-      "title": "The open-source movement wants Jensen Huang back",
-      "title_original": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid",
-      "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-16T18:38:47+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e84c3c67",
-      "title": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "title_original": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "summary": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-16T18:38:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ab79edb9",
-      "title": "四名外媒记者眼中的APEC与中国—— 让“深圳之约”成为“亚太共鸣” - 东方财富",
-      "title_original": null,
-      "summary": "四名外媒记者眼中的APEC与中国—— 让“深圳之约”成为“亚太共鸣”&nbsp;&nbsp;东方财富四条主线推动合作 中国与APEC经济体达成近50项经贸成果&nbsp;&nbsp;新浪财经_金融信息服务商二十多年参与经贸工作 他用一个比喻描述对APEC的期待&nbsp;&nbsp;中国日报网商务部：今年中方和APEC其他经济体围绕贸易数字化、人工智能等领域累计达成25项合作成果&nbsp;&nb",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4alVnTTdlR2pKNVkxRmNvekxmRTM3eHJlYUhHZVlHQmdWTmtIWTR1NF9XMFZhYU4wMGtZTTBJX2NVSVdVMGxKQ3ppN25GVXM5Rlp2QzBiOC1NcmlnY0huNFRSdlBNZw?oc=5",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-16T18:26:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "66e57f5c",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "title_original": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "summary_original": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T18:21:14+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ad8d1d34",
-      "title": "Commerce Department Releases Remote Access Rule",
-      "title_original": "Commerce Department Releases Remote Access Rule",
-      "summary": "Commerce Department Releases Remote Access Rule",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/commerce-department-releases-remote-access-rule",
-      "category": "business",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-16T18:13:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7dc80a7e",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "title_original": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "summary_original": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T18:11:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "7dc80a7e",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "title_original": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "summary_original": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T18:11:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "664e6962",
-      "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-      "title_original": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-      "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-      "summary_original": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-16T17:37:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8e371c25",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "title_original": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "summary_original": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T17:36:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "8e371c25",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "title_original": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "summary_original": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T17:36:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "1e9392ee",
-      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "title_original": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-      "summary_original": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-      "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-16T17:36:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cb9cc0ad",
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "title_original": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-      "summary_original": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-      "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-16T17:24:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2b4c9b26",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "title_original": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "summary_original": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-16T17:18:54+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "80d1539b",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "title_original": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "summary_original": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-16T17:10:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "80d1539b",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "title_original": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "summary_original": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T17:10:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f2c3c92b",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "title_original": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "summary_original": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T17:02:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c241de68",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "title_original": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "summary_original": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-16T17:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "02996e1b",
-      "title": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-      "title_original": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-      "summary": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/blackstone-data-center-trust-strikes-5-billion-deal-aws",
-      "category": "tech",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-16T16:57:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "75a9c084",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "title_original": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "summary_original": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-16T16:27:24+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "86234739",
+      "title": "习近平会见加拿大总理卡尼 - 新华网",
+      "summary": "习近平会见加拿大总理卡尼&nbsp;&nbsp;新华网加拿大总理卡尼抵达深圳 将出席APEC领导人非正式会议&nbsp;&nbsp;新浪财经_金融信息服务商详讯 | 习近平会见加拿大总理卡尼&nbsp;&nbsp;Sohu态度不一样了，卡尼表态将参加普京在场的APEC合影：尊重东道主，我们身在亚洲&nbsp;&nbsp;QQ News下周深圳APEC峰会 卡尼拟与习近平讨论中国汽车制造议题&nbs",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "b5199a8a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b5199a8a",
+          "source": "Google News (中国)",
+          "title": "习近平会见加拿大总理卡尼 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGhxTHR1VzQwTlhKTUowalpQbkFYX3haSkg0TVlMaXEtREJPbUZfU3dQaUtha1dkdUEwd1dfb0ZHVVkwUlViazZDRkUzNXRXWW9CZHNhYjI5bVpOR1BjTjRCRFBiNkRUTXAyQVAtSXpqSjRrdFZqbHdmVm5PNFcySEVCVjZkcFRnM05EX2N3?oc=5",
+          "published_at": "2026-11-17T05:26:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T05:26:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "59e46693",
+      "title": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
+      "summary": "An aluminum supply squeeze is intensifying, with extreme tightness in near-term contracts leaving traders scrambling for metal.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "86030ba0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "86030ba0",
+          "source": "Bloomberg",
+          "title": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
+          "published_at": "2026-11-17T05:24:17+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T05:24:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e6ff5fdc",
+      "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+      "summary": "Hungary is set to leave interest rates steady for a third month as central bankers assess an uptick in inflation against the backdrop of higher borrowing costs across the world.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a67bbbdf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a67bbbdf",
+          "source": "Bloomberg",
+          "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
+          "published_at": "2026-11-17T05:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f3b999bb",
+      "title": "China's AI² Robotics On Business Strategy",
+      "summary": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in Shenzhen. (Source: B",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "15c3f090"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "15c3f090",
+          "source": "Bloomberg",
+          "title": "China's AI² Robotics On Business Strategy",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+          "published_at": "2026-11-17T04:44:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T04:44:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "889bf0a8",
+      "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insi",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "a101639c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "a101639c",
+          "source": "Bloomberg",
+          "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
+          "published_at": "2026-11-17T04:32:25+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T04:32:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "32e25ffb",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+      "article_ids": [
+        "a9a57f5f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a9a57f5f",
+          "source": "BBC World",
+          "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T04:18:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T04:18:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1ad77c15",
+      "title": "Anthropic IPO: What Australian Investors Need to Know",
+      "summary": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "57051bab"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "57051bab",
+          "source": "Bloomberg",
+          "title": "Anthropic IPO: What Australian Investors Need to Know",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+          "published_at": "2026-11-17T04:10:08+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T04:10:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "84507ff6",
+      "title": "探访深圳机器人示范街区：人工智能走进城市生活 - 中青在线",
+      "summary": "探访深圳机器人示范街区：人工智能走进城市生活&nbsp;&nbsp;中青在线在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": null,
+      "article_ids": [
+        "968421eb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "968421eb",
+          "source": "Google News (中国)",
+          "title": "探访深圳机器人示范街区：人工智能走进城市生活 - 中青在线",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcDdqY195YVB4eWRVcWpXSmE3VHdMNVZuOFo1NHFuRWdCUXI1c19KZklwc2E2ODlMQmFZMFVKclY3Y3U2Q3pGSWc2WnZObnBaUWpWeHRDZXc3LXcyRUd1RHFGMkVRZWg3VUJ4eDZkT19laUFiSWU5YQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T03:26:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T03:26:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b19b700",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+      "article_ids": [
+        "ed60ad3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "ed60ad3f",
+          "source": "BBC World",
+          "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+          "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T03:07:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T03:07:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8aa73edb",
+      "title": "张升民：决不允许有“铁帽子王”“丹书铁券” - 联合早报",
+      "summary": "张升民：决不允许有“铁帽子王”“丹书铁券”&nbsp;&nbsp;联合早报人民日报发表张升民署名文章：保持惩治腐败高压态势&nbsp;&nbsp;凤凰网人民论坛实评| 反腐败斗争岂是“越反越腐”_评论&nbsp;&nbsp;人民论坛网农民日报：五中全会《决定》，为什么点名“白手套”？&nbsp;&nbsp;ThePaper.cn学习领悟《习近平党建文选》㊻保持惩治腐败高压态势&nbsp;&nbsp",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "43c69222"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "43c69222",
+          "source": "Google News (中国)",
+          "title": "张升民：决不允许有“铁帽子王”“丹书铁券” - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySXR1SHpxZ2hVTGxHLXBOVzFiRWZJRVVVaUxZTUpSSS1jSUxTc185aW1kdThjWGw2cmZuOW9jOEYzcmN5a21GT3plUEwtbUNaUy13SUd5R0xId3dfSUhOZ0JxX1pBemUxRWw0?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T03:05:39+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T03:05:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9af3fc8d",
+      "title": "习近平总书记引领推动粤港澳大湾区高质量发展 - 中华人民共和国最高人民法院",
+      "summary": "习近平总书记引领推动粤港澳大湾区高质量发展&nbsp;&nbsp;中华人民共和国最高人民法院潮头观澜丨深中通道：推动珠江口东西两岸融合发展的重要交通枢纽&nbsp;&nbsp;新浪新闻_手机新浪网习近平广东之行，带给我们哪些重要启示？&nbsp;&nbsp;中国网近镜头｜两次眺望，同样的期待&nbsp;&nbsp;光明网习近平广东行丨复兴薪火永相传——走进孙中山故居纪念馆&nbsp;&nbsp;中",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6ddfb9aa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6ddfb9aa",
+          "source": "Google News (中国)",
+          "title": "习近平总书记引领推动粤港澳大湾区高质量发展 - 中华人民共和国最高人民法院",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Y1d6VDRXQXZzbWpram9oRWZPbUMzdDV2SGU3MEdMNDE2ckJRMEs1UTlmZnBETmNJWEhuYVBvVWtOYnlTUHNIekxtUFRJbnJNcG5IZW9PZlBzN1dhS0s1M1hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T03:05:33+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T03:05:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7e062408",
+      "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+      "summary": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "d0a5c353"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "d0a5c353",
+          "source": "Bloomberg",
+          "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+          "published_at": "2026-11-17T02:46:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T02:46:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5b0273ee",
+      "title": "APEC深圳观察：习近平想告诉世界，中国掌握着未来 - BBC",
+      "summary": "APEC深圳观察：习近平想告诉世界，中国掌握着未来&nbsp;&nbsp;BBCAPEC工商领导人峰会今天开幕，王传福、李东生、雷军、曾毓群、李彦宏、王兴兴等参会&nbsp;&nbsp;凤凰网笃守合作：务实的深圳与亚太携手共赢--国际&nbsp;&nbsp;人民网瞩望深圳APEC会议：创新是亚太经济腾飞的翅膀&nbsp;&nbsp;新浪财经_金融信息服务商APEC“中国年”一系列会议和活动取得丰硕",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6cf8642c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6cf8642c",
+          "source": "Google News (中国)",
+          "title": "APEC深圳观察：习近平想告诉世界，中国掌握着未来 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNnN0Y3c5VV9KRW1LSDhGaGpvNm9kajE0dVNibWxUYTh3SFFvcGlRRDFNbXB4VV9qdU9GVXM0YklIcUpBZHlMTlBqMWlNOWMtc3R4cDNVUmdrbm9kU2RJTnZBNFlWdWvSAWxBVV95cUxPQTV1ZEYtY2h3cWNySm8wN1R5NGtDaUlCS0lUc3BuUGxfTFJjWmVFTlpERGdjRF9jRzVkQ3lBV0pJOWpKc2Rjcl9XaGROdTRVLTAwSjBpQjBaN2wxTGZDSDI5S3FPcmdEeFloQ1g?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T02:30:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T02:30:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c427761a",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+      "article_ids": [
+        "3c747ffb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "3c747ffb",
+          "source": "BBC World",
+          "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+          "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T01:26:01+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T01:26:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9a070af4",
+      "title": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海” - 中国侨网",
+      "summary": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海”&nbsp;&nbsp;中国侨网时光相册丨百廿暨南，从南洋潮声到五洲四海&nbsp;&nbsp;新华网凝聚四海侨心侨力 砥砺爱国强国之志&nbsp;&nbsp;新浪财经_金融信息服务商习近平致信祝贺暨南大学建校120周年&nbsp;&nbsp;人民日报暨南大学120周年校庆累计获超4.6亿元捐赠&nbsp;&nbsp;科学网—新闻",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "f8b0590b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "f8b0590b",
+          "source": "Google News (中国)",
+          "title": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海” - 中国侨网",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MVAwWDJvR1F2c2lHcEpMRzZUTHVLU1FNb085NnYzV2F1eEdSdFRJRHh3R1l2QkdOZVVWZHdweEI0Qi0tUG94S0V3a3VLVGtUMDV6NkJqbkQ3YVc2a2Vraw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T00:59:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T00:59:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "26fcc066",
+      "title": "中东部降水依然广泛 寒潮将制造大风降温天气 - 中国日报网",
+      "summary": "中东部降水依然广泛 寒潮将制造大风降温天气&nbsp;&nbsp;中国日报网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4b03542e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4b03542e",
+          "source": "Google News (中国)",
+          "title": "中东部降水依然广泛 寒潮将制造大风降温天气 - 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeGN4OWw3NS03a3BzSDFhSmM0eUI2WVpPOElyYkdUbXREOWpTbkNHXzFCazlwX05VZTdwNEU1R1hKdUtFTnJNTXBWNE5HaTBVa1BGUEVBLTlUSDFod3RKbUVqckM5VzBhUHVoZm5EN0ZaclYyV1NTQzJfc0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T00:51:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T00:51:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b28f2075",
+      "title": "中小学幼儿园将聘任健康副校(园)长 医教结合护航成长 - 中华网",
+      "summary": "中小学幼儿园将聘任健康副校(园)长 医教结合护航成长&nbsp;&nbsp;中华网直通部委｜我国中小学幼儿园将聘任健康副校长 10月一线城市房价环比总体上涨&nbsp;&nbsp;Jiemian.com校园里，将有健康副校长 学生健康全面守护者&nbsp;&nbsp;中华网我国中小学校、幼儿园将聘任健康副校（园）长&nbsp;&nbsp;凤凰网川观早8点丨我国中小学校、幼儿园将聘任健康副校（园）长",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "043257b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "043257b5",
+          "source": "Google News (中国)",
+          "title": "中小学幼儿园将聘任健康副校(园)长 医教结合护航成长 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01Z0xPSF81REJlc3hjeWVwWGtjOUFNQm54SHhma2Z4NDQzVmNWUW9Tc0RSS3g2M2ExUmhxTW9yZUpFc05qWnNRaXBFWnlhSGYtTGZKM0Nla0dpTjJGc29SWWxCa29zZi1BaEw3SEEyVXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-17T00:33:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T00:33:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ef5e6016",
+      "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+      "summary": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardes",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "429d3918"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "429d3918",
+          "source": "Bloomberg",
+          "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+          "published_at": "2026-11-17T00:22:19+00:00"
+        }
+      ],
+      "published_at": "2026-11-17T00:22:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6a1a403d",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecu",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "820d0f02"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "820d0f02",
+          "source": "The Verge",
+          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+          "published_at": "2026-11-16T23:35:58+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:35:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e6c83656",
+      "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "summary": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "10af9707"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "10af9707",
+          "source": "The Information",
+          "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+          "link": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
+          "published_at": "2026-11-16T23:34:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:34:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24490b92",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "article_ids": [
+        "7517b8cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "7517b8cd",
+          "source": "TechCrunch",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "published_at": "2026-11-16T23:32:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "24490b92",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "article_ids": [
+        "7517b8cd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "7517b8cd",
+          "source": "TechCrunch AI",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "published_at": "2026-11-16T23:32:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2f52be7d",
+      "title": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+      "summary": "Gold edged higher — after its lowest close since September 2025 — as dip buyers brought some relief from stubborn US inflation and a selloff in technology stocks.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8ce5d977"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8ce5d977",
+          "source": "Bloomberg",
+          "title": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+          "published_at": "2026-11-16T23:26:48+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:26:48+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bdcb7b52",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+      "article_ids": [
+        "e35c13cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e35c13cf",
+          "source": "The Verge",
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+          "published_at": "2026-11-16T23:17:34+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bdcb7b52",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+      "article_ids": [
+        "e35c13cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "e35c13cf",
+          "source": "The Verge AI",
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+          "published_at": "2026-11-16T23:17:34+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6ee25a2b",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+      "article_ids": [
+        "98d80275"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "98d80275",
+          "source": "BBC World",
+          "title": "California sues OpenAI over Hugging Face attack",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T23:12:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:12:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ba2cc287",
+      "title": "美军中央司令部证实“西奥多·罗斯福”号航母已抵达中东 - 美国之音",
+      "summary": "美军中央司令部证实“西奥多·罗斯福”号航母已抵达中东&nbsp;&nbsp;美国之音“罗斯福”号抵达 美军在中东集结三个航空母舰打击群&nbsp;&nbsp;央视网美军在中东地区形成三航母部署&nbsp;&nbsp;新浪财经“西奥多·罗斯福”号现已在中东，“林肯”号最后护航舰终于回家&nbsp;&nbsp;风闻特朗普赶到深圳前，美军三艘航母进入战位，最后的倒计时已开始？&nbsp;&nbsp;16",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8126f6f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8126f6f9",
+          "source": "Google News (中国)",
+          "title": "美军中央司令部证实“西奥多·罗斯福”号航母已抵达中东 - 美国之音",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzBUOTMtVWlTM3ZtdEE1eUoxaHUtTHY5R0VCUHlNRUxJdnQtQXh1UFI5aU9JMmQ3QTdEYjVFTlBHWnlBN3dZTUYzeU5mcUc4cnlJU01pZVc1YTVRS2s4U3lXdmtPSTA4QWI5QkxKbXVaUlhuaVBhaEp1VEd1SWlUZHFabnR6c3lLeHhjTFRCejJLajI4MC1YLW1QM1VsZnc2RUZkTHRQRVFEV3I3RGFRdlVvbFVlaG50d0k1Y9IBvwFBVV95cUxQQ2wzS0NGVTBUU1otM1lPbXdIX2hDYzU1R1poeXk5dXBnakh0VjhjWmxpeHE3UGtkT2JlYzZIdW9hcFVubHFIRUh2V3BZeVFiM1o1TTBDYnN2S0MxVTBXWTM2WkJwVUpMZnV1UUpYeFE2S0tESWF5alhFSnhVOWpiLXp4UjhXY0NmS3R0NDVBbDFfaDhfLUltQnI0VFRncG1qR0Etb1NSY2xHTGRreWFmbDJzRzBlVTJmaEFBMUdjdw?oc=5",
+          "published_at": "2026-11-16T23:04:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:04:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "56cacf56",
+      "title": "Latest Oil Market News and Analysis for Nov. 17",
+      "summary": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8894c107"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8894c107",
+          "source": "Bloomberg",
+          "title": "Latest Oil Market News and Analysis for Nov. 17",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+          "published_at": "2026-11-16T23:02:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T23:02:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6e4a743a",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:1",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "8a55852e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8a55852e",
+          "source": "The Verge",
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+          "published_at": "2026-11-16T22:54:59+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:54:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9cde1fdb",
+      "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "summary": "OpenAI Signs Agreements to Embed AI Evaluators",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "5851db66"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "5851db66",
+          "source": "The Information",
+          "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+          "link": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
+          "published_at": "2026-11-16T22:13:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:13:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e59cfc0",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
+      "article_ids": [
+        "e16af48f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e16af48f",
+          "source": "TechCrunch",
+          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+          "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+          "published_at": "2026-11-16T22:12:31+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:12:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a1b3e449",
+      "title": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+      "summary": "Global stock losses deepened as US moves to restrict China’s access to advanced artificial intelligence chips and servers compounded investor caution ahead of Nvidia Corp.’s high-stakes earnings.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5d7f3d8f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5d7f3d8f",
+          "source": "Bloomberg",
+          "title": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+          "published_at": "2026-11-16T22:06:51+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:06:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a7a86c80",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "article_ids": [
+        "6164faa6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6164faa6",
+          "source": "TechCrunch",
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+          "published_at": "2026-11-16T22:03:02+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a7a86c80",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "article_ids": [
+        "6164faa6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "6164faa6",
+          "source": "TechCrunch AI",
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+          "published_at": "2026-11-16T22:03:02+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ed14f870",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&strip=all&crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
+      "article_ids": [
+        "87e9e71a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "87e9e71a",
+          "source": "The Verge",
+          "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+          "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+          "published_at": "2026-11-16T21:41:57+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T21:41:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5cbdce48",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+      "article_ids": [
+        "c0837b61"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "c0837b61",
+          "source": "BBC World",
+          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T21:40:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T21:40:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd937899",
+      "title": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+      "summary": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "508f41c5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "508f41c5",
+          "source": "The Information",
+          "title": "Bill Gates Backs Push to Advance Alzheimer’s Research With AI",
+          "link": "https://www.theinformation.com/briefings/bill-gates-backs-push-advance-alzheimers-research-ai",
+          "published_at": "2026-11-16T21:27:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-16T21:27:07+00:00",
+      "is_merged": false
+    },
     {
       "id": "5b1dfb22",
       "title": "RBNZ Flags Growing Private Credit Risks in Real Estate Finance",
@@ -1503,968 +2465,6 @@
         }
       ],
       "published_at": "2026-11-16T19:43:53+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "bdb96330",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
-      "article_ids": [
-        "75b8060f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "75b8060f",
-          "source": "BBC World",
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-16T19:30:30+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:30:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "db8226fa",
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "article_ids": [
-        "33e1c8cd"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "33e1c8cd",
-          "source": "TechCrunch",
-          "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-          "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-          "published_at": "2026-11-16T19:26:55+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:26:55+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ee14215f",
-      "title": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-      "summary": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "6ca4cdb5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "6ca4cdb5",
-          "source": "The Information",
-          "title": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents",
-          "link": "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents",
-          "published_at": "2026-11-16T19:25:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:25:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "61a3adcd",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "13db3cf7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "13db3cf7",
-          "source": "The Verge",
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-          "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-          "published_at": "2026-11-16T19:24:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:24:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "61a3adcd",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "13db3cf7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "13db3cf7",
-          "source": "The Verge AI",
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-          "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-          "published_at": "2026-11-16T19:24:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:24:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "463d5b5f",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "365f3b14"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "365f3b14",
-          "source": "The Verge",
-          "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-          "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-          "published_at": "2026-11-16T19:23:45+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:23:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "463d5b5f",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "365f3b14"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "365f3b14",
-          "source": "The Verge AI",
-          "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-          "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-          "published_at": "2026-11-16T19:23:45+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:23:45+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7c180675",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "article_ids": [
-        "176a4925"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "176a4925",
-          "source": "BBC World",
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-16T19:16:52+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:16:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "93dd4b4f",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-      "article_ids": [
-        "761b56f1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "761b56f1",
-          "source": "TechCrunch",
-          "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-          "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-          "published_at": "2026-11-16T19:12:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:12:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "93dd4b4f",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-      "article_ids": [
-        "761b56f1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "761b56f1",
-          "source": "TechCrunch AI",
-          "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-          "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-          "published_at": "2026-11-16T19:12:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:12:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b2c62f2f",
-      "title": "PwC on where AI can help drive revenue",
-      "summary": "PwC on where AI can help drive revenue",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "085b4cae"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "085b4cae",
-          "source": "The Information",
-          "title": "PwC on where AI can help drive revenue",
-          "link": "https://www.theinformation.com/articles/pwc-ai-can-help-drive-revenue",
-          "published_at": "2026-11-16T19:10:57+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:10:57+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "068a32ef",
-      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-      "summary": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "308def0a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "308def0a",
-          "source": "NYTimes World",
-          "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-          "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-          "published_at": "2026-11-16T19:05:52+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:05:52+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b02224b1",
-      "title": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通 - 新浪财经_金融信息服务商",
-      "summary": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通&nbsp;&nbsp;新浪财经_金融信息服务商联合国秘书长告诉VOA：如果美中俄能致力于实现无核化议程，那将是一项重大成就&nbsp;&nbsp;美国之音APEC中国时间｜如何找到中俄美三方契合点？俄美问题专家解读&nbsp;&nbsp;ThePaper.cn中方计划在中俄美元首会晤中讨论什么问题？外交部回应&nbsp;&nbsp;凤凰网长平",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "c3ae65f8"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "c3ae65f8",
-          "source": "Google News (中国)",
-          "title": "中俄美元首将举行历史性会晤 专家：重在加强大国战略沟通 - 新浪财经_金融信息服务商",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90YUZyZXFnRVVrUy1IZjNmZGNmNGR1Y3FnYWlZdE5mR05DTFYtU0NVVWFfejRqXzhsU2l3dERTbG8tUWhGdFNsSWM5YkpHMWFwWGtMdThFMGVpS1NvMjN4MWcxcXZsVnp6S3Q1T1pHaHFwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-16T19:04:59+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T19:04:59+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "84a2ee74",
-      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "summary": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "464a9390"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "464a9390",
-          "source": "NYTimes World",
-          "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-          "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-          "published_at": "2026-11-16T18:58:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:58:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ba21e0b6",
-      "title": "Island is a new screen-time app that turns staying off your phone into a game",
-      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586",
-      "article_ids": [
-        "657e2055"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "657e2055",
-          "source": "TechCrunch",
-          "title": "Island is a new screen-time app that turns staying off your phone into a game",
-          "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-          "published_at": "2026-11-16T18:54:18+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:54:18+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a4e72c69",
-      "title": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-      "summary": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
-      "category": "business",
-      "image": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
-      "article_ids": [
-        "0bc7c862"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "0bc7c862",
-          "source": "Bloomberg",
-          "title": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-          "published_at": "2026-11-16T18:51:04+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:51:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9c739e6b",
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "summary": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "fc7c18c5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "fc7c18c5",
-          "source": "The Verge",
-          "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-          "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
-          "published_at": "2026-11-16T18:44:16+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:44:16+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9b281c87",
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and ",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "51595064"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "51595064",
-          "source": "The Verge AI",
-          "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-          "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-          "published_at": "2026-11-16T18:43:35+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:43:35+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8970ce07",
-      "title": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
-      "article_ids": [
-        "6352fbce"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "6352fbce",
-          "source": "MIT Technology Review",
-          "title": "The open-source movement wants Jensen Huang back",
-          "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-          "published_at": "2026-11-16T18:38:47+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:38:47+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "c4fcfb4d",
-      "title": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "summary": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "e84c3c67"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "e84c3c67",
-          "source": "The Information",
-          "title": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-          "link": "https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs",
-          "published_at": "2026-11-16T18:38:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:38:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cb29e3be",
-      "title": "四名外媒记者眼中的APEC与中国—— 让“深圳之约”成为“亚太共鸣” - 东方财富",
-      "summary": "四名外媒记者眼中的APEC与中国—— 让“深圳之约”成为“亚太共鸣”&nbsp;&nbsp;东方财富四条主线推动合作 中国与APEC经济体达成近50项经贸成果&nbsp;&nbsp;新浪财经_金融信息服务商二十多年参与经贸工作 他用一个比喻描述对APEC的期待&nbsp;&nbsp;中国日报网商务部：今年中方和APEC其他经济体围绕贸易数字化、人工智能等领域累计达成25项合作成果&nbsp;&nb",
-      "category": "china",
-      "image": null,
-      "article_ids": [
-        "ab79edb9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "ab79edb9",
-          "source": "Google News (中国)",
-          "title": "四名外媒记者眼中的APEC与中国—— 让“深圳之约”成为“亚太共鸣” - 东方财富",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4alVnTTdlR2pKNVkxRmNvekxmRTM3eHJlYUhHZVlHQmdWTmtIWTR1NF9XMFZhYU4wMGtZTTBJX2NVSVdVMGxKQ3ppN25GVXM5Rlp2QzBiOC1NcmlnY0huNFRSdlBNZw?oc=5",
-          "published_at": "2026-11-16T18:26:21+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:26:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a28da663",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900",
-      "article_ids": [
-        "66e57f5c"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "66e57f5c",
-          "source": "TechCrunch",
-          "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-          "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-          "published_at": "2026-11-16T18:21:14+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:21:14+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7be3b0b9",
-      "title": "Commerce Department Releases Remote Access Rule",
-      "summary": "Commerce Department Releases Remote Access Rule",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "ad8d1d34"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "ad8d1d34",
-          "source": "The Information",
-          "title": "Commerce Department Releases Remote Access Rule",
-          "link": "https://www.theinformation.com/briefings/commerce-department-releases-remote-access-rule",
-          "published_at": "2026-11-16T18:13:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:13:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "53740404",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-      "article_ids": [
-        "7dc80a7e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "7dc80a7e",
-          "source": "TechCrunch",
-          "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-          "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-          "published_at": "2026-11-16T18:11:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:11:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "53740404",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-      "article_ids": [
-        "7dc80a7e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "7dc80a7e",
-          "source": "TechCrunch AI",
-          "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-          "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-          "published_at": "2026-11-16T18:11:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T18:11:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "c6fd2a56",
-      "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-      "summary": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-      "article_ids": [
-        "664e6962"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "664e6962",
-          "source": "NYTimes World",
-          "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-          "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-          "published_at": "2026-11-16T17:37:25+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:37:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9d6ab305",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "article_ids": [
-        "8e371c25"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "8e371c25",
-          "source": "TechCrunch",
-          "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-          "published_at": "2026-11-16T17:36:43+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:36:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9d6ab305",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "article_ids": [
-        "8e371c25"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "8e371c25",
-          "source": "TechCrunch AI",
-          "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-          "published_at": "2026-11-16T17:36:43+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:36:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ce33f6d3",
-      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "1e9392ee"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "1e9392ee",
-          "source": "NYTimes World",
-          "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-          "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-          "published_at": "2026-11-16T17:36:21+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:36:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1fcd75f5",
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "cb9cc0ad"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "cb9cc0ad",
-          "source": "NYTimes World",
-          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-          "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-          "published_at": "2026-11-16T17:24:04+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:24:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "72b77464",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
-      "article_ids": [
-        "2b4c9b26"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "2b4c9b26",
-          "source": "BBC World",
-          "title": "When will we see Robert Pattinson as Bond in cinemas?",
-          "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-16T17:18:54+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:18:54+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a7206f70",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-      "article_ids": [
-        "80d1539b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "80d1539b",
-          "source": "TechCrunch",
-          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-          "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-          "published_at": "2026-11-16T17:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a7206f70",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-      "article_ids": [
-        "80d1539b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "80d1539b",
-          "source": "TechCrunch AI",
-          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-          "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-          "published_at": "2026-11-16T17:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7adcf77b",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "article_ids": [
-        "f2c3c92b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "f2c3c92b",
-          "source": "TechCrunch AI",
-          "title": "OpenAI will embed safety researchers to investigate AI subversion",
-          "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-          "published_at": "2026-11-16T17:02:43+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:02:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "c7823e69",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
-      "article_ids": [
-        "c241de68"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "c241de68",
-          "source": "TechCrunch AI",
-          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-          "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-          "published_at": "2026-11-16T17:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T17:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "18353fed",
-      "title": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-      "summary": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "02996e1b"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "02996e1b",
-          "source": "The Information",
-          "title": "Blackstone Data Center Trust Strikes $5 Billion Deal With AWS",
-          "link": "https://www.theinformation.com/briefings/blackstone-data-center-trust-strikes-5-billion-deal-aws",
-          "published_at": "2026-11-16T16:57:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T16:57:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "99aa0987",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-      "article_ids": [
-        "75a9c084"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "75a9c084",
-          "source": "BBC World",
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-16T16:27:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-16T16:27:24+00:00",
       "is_merged": false
     }
   ]
