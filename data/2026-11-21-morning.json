@@ -1,10 +1,520 @@
 {
   "date": "2026-11-21",
   "edition": "morning",
-  "updated_at": "2026-11-21T03:27:59.794037+08:00",
+  "updated_at": "2026-11-21T12:54:16.653965+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "8ab0570f",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "title_original": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "summary_original": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-21T04:34:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b62083d8",
+      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "title_original": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "summary_original": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-21T04:32:50+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e262e983",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "title_original": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "summary_original": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-21T04:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "65f3eac5",
+      "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死 - 中国新闻网",
+      "title_original": null,
+      "summary": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死&nbsp;&nbsp;中国新闻网阿盟谴责胡塞武装持续袭击沙特&nbsp;&nbsp;凤凰网沙特利雅得最高摩天大楼遭胡塞武装袭击受损&nbsp;&nbsp;观察者网沙特领导的空袭轰炸也门，胡塞武装报告17人死亡&nbsp;&nbsp;美国之音胡塞武装称重创沙特发电站和港口，沙特剑指胡塞弹道导弹能力&nbsp;&nbsp;Sohu",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNzl4U2JzaVJoQ1JOT25kbFJLS1hnV2cwb1BpeFR0SkdxMGhMeGJyWWNLaG14cDA3OEE4bnN0SjgxRlBRRUxNcWFqdXo4aHRZWjd6UHlDQXVXb014QWliWDItZVNMbG10?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T03:31:51+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1e309163",
+      "title": "Peru Rattled by 6.7-Magnitude Quake, With No Casualties Reported",
+      "title_original": "Peru Rattled by 6.7-Magnitude Quake, With No Casualties Reported",
+      "summary": "Peru was shaken by a powerful earthquake late Friday that damaged some houses and disrupted power in a central district.",
+      "summary_original": "Peru was shaken by a powerful earthquake late Friday that damaged some houses and disrupted power in a central district.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-21T03:20:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "abe7f3b4",
+      "title": "特朗普：中俄美元首会晤具有重大历史意义 - 中国新闻网",
+      "title_original": null,
+      "summary": "特朗普：中俄美元首会晤具有重大历史意义&nbsp;&nbsp;中国新闻网中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话&nbsp;&nbsp;BBC美中俄峰会谁是赢家？余茂春分析特朗普应对习、普策略&nbsp;&nbsp;美国之音象征大于实质，却各有斩获？深圳峰会后，习近平、普京、特朗普“三赢”？&nbsp;&nbsp;DW.com特写：大国外交的“深圳时刻”&nbsp;&",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TSXhGSHk1MTNuMmlpVXVKdkdORGNNMndCSlItMV9TY0hQZUhjMTVtQl90ZVB6TUJlRHUzTGJRM25vOGR4YTJqdEZmMF9KYjFwNEtBcHg3al9mRU5PT0hIQkotSkFpUWlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T02:04:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6df97728",
+      "title": "何以中国·和合礼让丨这杯“调解茶”：茶馆坐得下，云端连得上 - 紫牛新闻",
+      "title_original": null,
+      "summary": "何以中国·和合礼让丨这杯“调解茶”：茶馆坐得下，云端连得上&nbsp;&nbsp;紫牛新闻在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKbHg4OVRET0owVGpmNTg0dHBXcEhIMjRzdzlEMUNzcFV5SC1QeWpJMHJJcVpsLXluUGdneDExNS1HbXAyVVd3b04wcUJZN3JxV3lYbTBaTzduaXMyX3FFc1NWcUZ6MWJx?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T02:04:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d23682b1",
+      "title": "特朗普：深圳干净整洁，一尘不染 - 观察者网",
+      "title_original": null,
+      "summary": "特朗普：深圳干净整洁，一尘不染&nbsp;&nbsp;观察者网特朗普点赞深圳：这个城市干净无瑕，而我们有些城市脏得让人恶心&nbsp;&nbsp;凤凰网特朗普在白宫感叹中国行：城市一尘不染，而美国的“又脏又破犯罪率还奇高”&nbsp;&nbsp;ThePaper.cn特朗普点赞深圳，称美国一些城市“脏得让人恶心”&nbsp;&nbsp;Sohu中国基建最佳推销员，川建国同志如实说&nbsp;&nb",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYlZUal9RTXpPSXlJcDdLa2stZDZ5QjYtVFhyX0ZrcGtJc2pHUXk4SmZFMTVqR2Y5eEl3eWFDdG5VNThuM3d6VjJNdkFWVHhWS0VxVDJYUElnNFlzYVFNMHRuYVlyN1dBbXlsV09EN19wYTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T01:32:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5d8ee5bd",
+      "title": "四川泸州花坛藏尸案被告人已上诉，被害人儿子：不意外 - ThePaper.cn",
+      "title_original": null,
+      "summary": "四川泸州花坛藏尸案被告人已上诉，被害人儿子：不意外&nbsp;&nbsp;ThePaper.cn“花坛藏尸案”新进展，受害者儿子：策划者陈某芬被判死刑，不服判决，提起上诉&nbsp;&nbsp;凤凰网“花坛藏尸案”被害人儿子再发声：策划者不服死刑提出上诉&nbsp;&nbsp;新浪财经_金融信息服务商“花坛白骨案”最新进展：被告人陈某芬提起上诉，此前她一审被判死刑&nbsp;&nbsp;Sohu“",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6a1Frb2tPRDJpMkZWYlkwbGVzNTdPQTFmY3N6TlRlVzhqamp2V2hicUhNa0g2Y0NxUG1xb1VnMjRhY3hsSHdxQVdxQUZxS2V4c09OeURaRHpvTG5wcGpFNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T01:00:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "710878f1",
+      "title": "【学习贯彻党的二十届五中全会精神】省委宣讲团在新兴领域、金昌市、白银市宣讲_时政 - 中国甘肃网",
+      "title_original": null,
+      "summary": "【学习贯彻党的二十届五中全会精神】省委宣讲团在新兴领域、金昌市、白银市宣讲_时政&nbsp;&nbsp;中国甘肃网北京市学习贯彻党的二十届五中全会精神宣讲团密云区报告会举行&nbsp;&nbsp;北京市人民政府门户网站中共山东省委十二届十二次全体会议举行&nbsp;&nbsp;凤凰网山东许勤主持黑龙江省委理论学习中心组集体学习&nbsp;&nbsp;人民网黑龙江频道微宣讲︱深学全会精神，勇担时代使",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpaGYyM0NzLWdhQ21sMFFPLWo0d0RLdUsySFNXVkYzZEcyOGlSRnlDd2RhWlp5Y2hiY19vSTFJVmVDc1dfSG5nbkVKODNxQlYtSWdlQm0xaTlZM0dOSXFGTmNkVENSNEYzWDNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T00:37:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6e0c5ab3",
+      "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjeC1BQlVYRDRDWFQyMFRrSjFkeFI3YjA2dVBxU29pZndLRUdUbndqZXNzRGFmZHV1dERscjR1OG5zeFVJTDI1LWJUb0lRRjFCLTlxdF9JUEtPZkVRWU0zMGh3bXRVWlNMdHVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8399ffa0",
+      "title": "习近平会见印度尼西亚总统普拉博沃 - 中国共产党新闻网",
+      "title_original": null,
+      "summary": "习近平会见印度尼西亚总统普拉博沃&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vVFpMR3FwS0hoek04Q203cXl1ZDZub294N0J2UThrbWlYRWdUbFdOVnh3TTI4SVRDa2Q2LTZnajhGT3Fhem5YNTQ4SGU4MFBQLTN1SE9MMm1uNlpxYWhSaWZLQ19UTjNFeUZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0480dec4",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "title_original": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "summary_original": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-21T00:01:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "535765f5",
+      "title": "钧正平：若恪守联合声明 日方该收回涉台言论 - 联合早报",
+      "title_original": null,
+      "summary": "钧正平：若恪守联合声明 日方该收回涉台言论&nbsp;&nbsp;联合早报高市早苗在深圳表示：日本对台立场“完全没有改变”，“充分理解和尊重”中国主张台湾是其领土一部分的立场&nbsp;&nbsp;DW.com外交部回应日方最新表态：在台湾问题上尽快纠正错误言行&nbsp;&nbsp;新浪新闻_手机新浪网钧正平：若日方如表态所言恪守《中日联合声明》，就该公开收回错误言论&nbsp;&nbsp;观察",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TMndRN0Vkc2oxWnVQcWNfcmg3WUpaQkdYNTRPbkxXN0ROcUhFVmN5cE4yMXhIdU1ndUZKN1RfTEhNdWRlcHN4czZ3NW5GTWd5ZUhXbFd0aXNiYm1meW8ta3JXemdYSEMzTFBr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-20T23:57:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8a8fb2fa",
+      "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+      "title_original": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+      "summary": "J&amp;J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expect",
+      "summary_original": "J&amp;J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expected to generate another $5 million by 2027 through distribution and manufacturing improvements. Fachner speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T23:22:36+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2a8893f9",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title_original": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "summary_original": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-20T23:08:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3e7b3a7b",
+      "title": "Salvadoran Troops Killed in Haiti Blast Amid Rescue Mission",
+      "title_original": "Salvadoran Troops Killed in Haiti Blast Amid Rescue Mission",
+      "summary": "Three Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean island nation to find ",
+      "summary_original": "Three Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean island nation to find missing troops.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T23:08:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1c7169b1",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "title_original": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "summary_original": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-20T22:37:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b6f32a47",
+      "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+      "title_original": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+      "summary": "President Trump called for Jensen Huang to make a big apology and return as CEO of Nvidia even as the prospect remains highly unlikely. (Source: Bloomberg)",
+      "summary_original": "President Trump called for Jensen Huang to make a big apology and return as CEO of Nvidia even as the prospect remains highly unlikely. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T22:31:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f83dc546",
+      "title": "‘Always Remain Liquid’: Richards",
+      "title_original": "‘Always Remain Liquid’: Richards",
+      "summary": "Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. ",
+      "summary_original": "Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. Richards warns about irrational markets and also says he’s not a fan of leveraged ETF structures. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T22:30:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b90b1d03",
+      "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+      "title_original": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+      "summary": "Chipmakers led a plunge in US stocks on Friday, with the S&amp;P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)",
+      "summary_original": "Chipmakers led a plunge in US stocks on Friday, with the S&amp;P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T22:25:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5fd4e94a",
+      "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+      "title_original": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+      "summary": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NI",
+      "summary_original": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NISA. They also discuss the risks and benefits of the private credit market, along with the dangers of private credit going into pension funds and 401Ks. They also discuss liability investment strategies for managing over $483 billion in client assets. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-20T22:14:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "54011d0c",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "title_original": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "summary_original": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-20T21:57:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "718dc2db",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "title_original": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "summary_original": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "image_validated": true,
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "category": "ai",
+      "source": "Ars Technica",
+      "lang": "en",
+      "published_at": "2026-11-20T20:59:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e7c0769f",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "title_original": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "summary_original": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-20T20:58:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc3c28b4",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "title_original": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "summary_original": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-20T20:54:12+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "82d061e5",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "title_original": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reac",
+      "summary_original": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-20T20:43:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8c621f5d",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "title_original": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "summary_original": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-20T20:22:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc0a4dad",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title_original": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "summary_original": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cc0a4dad",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title_original": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "summary_original": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5ecbec3f",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "title_original": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "summary_original": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-20T19:45:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6554f650",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "title_original": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million p",
+      "summary_original": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-20T19:35:06+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f509e696",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_original": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "summary_original": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f509e696",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_original": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "summary_original": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "edition": "morning"
+    },
     {
       "id": "14c96c99",
       "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
@@ -153,6 +663,21 @@
       "source": "Bloomberg",
       "lang": "en",
       "published_at": "2026-11-20T18:06:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "30f32bba",
+      "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "title_original": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "summary": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-20T18:00:44+00:00",
       "edition": "morning"
     },
     {
@@ -379,534 +904,893 @@
       "lang": "en",
       "published_at": "2026-11-20T16:34:13+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "e7bc21e4",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "title_original": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has el",
-      "summary_original": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-20T16:34:13+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c7d4d875",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "title_original": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anyth",
-      "summary_original": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Boys-Noize-pls-cr-Ian-Buosi.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-20T16:22:15+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "67605855",
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "title_original": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "summary_original": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T16:18:21+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e3a5bfeb",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "title_original": "Bending Spoons buys Mailchimp for $3.68B",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "summary_original": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-20T16:16:06+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "14229223",
-      "title": "天津大学召开院级团组织书记会议 深入学习党的二十届五中全会精神 - 天津大学新闻网",
-      "title_original": null,
-      "summary": "天津大学召开院级团组织书记会议 深入学习党的二十届五中全会精神&nbsp;&nbsp;天津大学新闻网读懂全会蓝图 奔赴青春主场 聚焦党的二十届五中全会精神 房山青年有话说（二）&nbsp;&nbsp;北京市人民政府门户网站江西省委宣讲团深入省国资系统、省国控集团、宜春学院、江西警察学院宣讲&nbsp;&nbsp;凤凰网陈小江在塔城地区调研&nbsp;&nbsp;新华网园区召开学习贯彻党的二十届五中",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SXA5c21HUlR0SGhFUzVfRFFYcHdEb3RwT3FrUW96eWRhY051MXZDbXhGTXNfb0QtUVk3c0s3cURKRURMLXYyczFWVDc3TXVhVkh4U2xCWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T16:10:34+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cfc50824",
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "title_original": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of f",
-      "summary_original": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T16:05:55+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f68da36e",
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "title_original": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on",
-      "summary_original": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, which we deduce from a scene of her [&#8230;]",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-20T16:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ac7ebd54",
-      "title": "沙特联军称对胡塞武装目标实施军事打击 - 大河财立方",
-      "title_original": null,
-      "summary": "沙特联军称对胡塞武装目标实施军事打击&nbsp;&nbsp;大河财立方激战20公里，也门政府军受挫，胡塞打出非对称战术，沙特进退两难&nbsp;&nbsp;凤凰网沙特利雅得最高摩天大楼遭胡塞武装袭击受损&nbsp;&nbsp;观察者网沙特领导的空袭轰炸也门，胡塞武装报告17人死亡&nbsp;&nbsp;美国之音阿盟谴责胡塞武装持续袭击沙特&nbsp;&nbsp;Sohu",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MW0xanpfbzNpWjNubjJ2NEp1eVRiT2VydVBnNWhYWFc3bnRIVWYyRWFPemdtX3JBVGQtX0sxUXVXZVNXM2xQOFY2NDg4LVBYeGllbmNibXdaaWc4M1RsbWtnQ29PNFo0UEdfN1p4cG03UFkwYkgxdS1mV2w?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T15:56:43+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "40a39232",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "title_original": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "summary_original": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-20T15:55:16+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b2cf68a5",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "title_original": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "summary_original": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-20T15:55:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cee57cec",
-      "title": "The best early Black Friday deals you can already shop",
-      "title_original": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on so",
-      "summary_original": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low price. But [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "category": "tech",
-      "source": "The Verge",
-      "lang": "en",
-      "published_at": "2026-11-20T15:53:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "cfd7eab5",
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "title_original": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "summary_original": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "image": "https://static01.nyt.com/images/2026/11/20/20vid-poland-air-28802-cover/20vid-poland-air-28802-cover-mediumSquareAt3X-v2.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T15:49:30+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0bd18190",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "title_original": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "summary_original": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2150052525.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-20T15:46:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "963d799e",
-      "title": "德语媒体：气味相投的三个好兄弟 - DW.com",
-      "title_original": null,
-      "summary": "德语媒体：气味相投的三个好兄弟&nbsp;&nbsp;DW.com在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdXNrLThVZ1hNbkxqaHVTQWZrTTJmcmpES0VhdnNQdzRSQ1pmbE9qNUp4S1RBNE9xdDZubTA3N1pTbTFDaWk5SmY1eHBOaDBTQnJkdlF1RWt3YmJ0WnNfUVpUS2xGZVJyYlNUVmUzX2JLalFKOWtibnRDcDBUNVZNWWo3MUYwSnM2UzViRThBb3RXak1MVlh3RkUxdHBCb21TLWdDUk1MakJhd3VOZ1Z3cm5KZlJJdFFWc3hEZlAzaGxLMC14c0hFNXA0MkJsTzdIejVvaVF0S0ZEaG5VaHUwV0l5cEh4VzA0QzVQNWVBY3BWSjBzZEQ5eHBNU3hlR1Y2OTdvZWxSVnE5dXhCczlIbU44cGzSAZQCQVVfeXFMTVBCcnVVU2xhMnloTFRTanZSbjdMdjg1OHlRb3dVWFVwczFMQl8wWF9WRENXMHRvMVZYQzJraUR0S2VrZ2NUOXdld2hkSUQzSzFuQjlOeWZFQWgtNTJJWHFWYmdFbURERGprWnJkcndzOVdrYXA5cVN5dnR4TjhocU9CYkdWc0c2TkNWUFU1R05rZkptUU1RVU1SbDRyLVJqaHJuendYaFNRRHZOTC11NnN6eDM5aklYTmVkU3RRYy1Sdlo4Rnh4ZWpZYzh6RXF0WEFnWFJqdlh2eWszZTQ2YmFwcDUwd2ZHa3g3YjJvTVpxMHZNNlZjb2FkNnFFQlVuQ0pVcDRtb3U2ZFdrNXl3MjVKZ2Vv?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T15:14:25+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3293ff1a",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "title_original": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-      "summary_original": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-20T14:55:44+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "f3bb6710",
-      "title": "Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels",
-      "title_original": "Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels",
-      "summary": "Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-      "summary_original": "Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-20T14:36:49+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "0a4dd2c0",
-      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "title_original": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "summary": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
-      "summary_original": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T14:17:02+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "de5ae4f4",
-      "title": "中铁科工首席电工、高级技师连永昌荣获“湖北省技术能手”称号 - Sohu",
-      "title_original": null,
-      "summary": "中铁科工首席电工、高级技师连永昌荣获“湖北省技术能手”称号&nbsp;&nbsp;Sohu湖北省第三届职业技能大赛在武汉开幕&nbsp;&nbsp;新华网楚菜飘香、无人机起飞，荆楚赛场比拼职业技能真功夫&nbsp;&nbsp;凤凰网湖北：一场大赛照见技能人才未来“坐标”&nbsp;&nbsp;人民网－湖北频道这场省级赛事，为何落地襄阳科技职业学院- 湖北日报新闻客户端&nbsp;&nbsp;湖北日",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42YmdoVm1YWXFDX2FPN05ock5iWDRCU0dIemRiaU9kaUJ4NXhxeVdPaFNIaHpIQzVheEpJNjIyRXBZczdSQ0U2S2E4a2E2MmgzV3VB?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T14:12:04+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "47b9ea6e",
-      "title": "The week everything fell apart",
-      "title_original": "The week everything fell apart",
-      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt ",
-      "summary_original": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-20T14:06:59+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a2263c05",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "title_original": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "summary_original": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-20T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a2263c05",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "title_original": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "summary_original": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-20T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3ebae9d4",
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "title_original": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-      "summary_original": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T13:56:56+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d61b5047",
-      "title": "何以中国·和合礼让 | 十字埂，铜陵大地上的农耕版“六尺巷” - 中安在线",
-      "title_original": null,
-      "summary": "何以中国·和合礼让 | 十字埂，铜陵大地上的农耕版“六尺巷”&nbsp;&nbsp;中安在线在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aS3BlY1M1RUEtZTAzQ3dtWWp4bWs4eHh6S01UUFNYRWk3ajBFYmpnOGNiR1FqT2laNWZzZDgxRVloajBlZElKQlVFa0ZUOFR0TjJ0QmxiTmtSNFQ0c1VZa3EyRlAwcFpEblJXRTRsSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T13:47:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "6c738671",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "title_original": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "summary_original": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-20T13:25:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "df90abe9",
-      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "title_original": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "summary_original": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-20T13:21:11+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4079d589",
-      "title": "APEC青年企业家峰会在港举行 APEC秘书处执行主任点赞香港创业活力 - 中国新闻网",
-      "title_original": null,
-      "summary": "APEC青年企业家峰会在港举行 APEC秘书处执行主任点赞香港创业活力&nbsp;&nbsp;中国新闻网和合共生｜以湾为媒：习主席首倡亚太合作新路径&nbsp;&nbsp;央视网习近平以APEC力捧深圳 香港称配合 评论指香港沦深圳发展「提款机」&nbsp;&nbsp;RFI中国落子亚太区域合作先手棋&nbsp;&nbsp;中国网新闻中心APEC峰会的新机会，怎样影响青岛？&nbsp;&nbsp;",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9raE11Nmtvc08tY2xhWFp5a1Z0UlgtZmJGaTRkdHFkc0VBQ1plTVA2cXBGUjZBOHl1bDAzQ0E2VVVHaWdsUk83YWUzSGdhTURJNDQxcUpFYmhHdTYtcFdMX3RXUW5wcUFsaG1oakE2Yl9DYUw2Y2o5blhQTE9XQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T13:20:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "258a0455",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "title_original": "The Download: inside the quest to make our minds immortal",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ",
-      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-20T13:10:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d07cd85e",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "title_original": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "summary_original": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-20T13:01:16+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2cca48a1",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "title_original": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "summary_original": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-20T12:42:37+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "da5d0e94",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "title_original": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into o",
-      "summary_original": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-20T12:30:47+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "86afbadf",
-      "title": "习近平会见泰国总理阿努廷 - 央视网",
-      "title_original": null,
-      "summary": "习近平会见泰国总理阿努廷&nbsp;&nbsp;央视网在Google 新闻上查看更多头条新闻和观点",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtbHI5QVVnQnctMTlkX2NOV1pqRFRxTmVuTXdDelpTS255R25zT0lnMjhtVUdxOHczekVmZjBZNUdwb3ZBOXRCSWIwRkZEMFdqOEFDSzlUR21QQ3ZHcVUyb2RDRWk0RGxHM29WRWd2SENiMUZLM1cyXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T11:31:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "b35510c4",
-      "title": "赵乐际会见澳大利亚总理阿尔巴尼斯 - 中国共产党新闻网",
-      "title_original": null,
-      "summary": "赵乐际会见澳大利亚总理阿尔巴尼斯&nbsp;&nbsp;中国共产党新闻网全球洞察｜中澳商会华南会长：世界湾区经济合作联盟将搭建良好沟通机制&nbsp;&nbsp;凤凰网从深圳APEC到北京会晤：阿尔巴尼斯再访华，澳大利亚如何破解“双重身份之困”&nbsp;&nbsp;ThePaper.cn大国外交进行时丨澳大利亚总理阿尔巴尼斯：见证深圳成长故事 中国发展红利惠及亚太地区&nbsp;&nbsp;光明",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wd2ZEeENUdnpiZl9xa3Y3WWFTRWRBQjdMOXpQdjhQbUVRekh0eEhfN2wxWmFudVNYYmxOWE5sQnhDTldsd2RLQWdzY0dnTHJsY2t6ZmdUUFdoRnJSNDdYTU8tMDFFWWZNY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-20T11:16:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "98562050",
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "title_original": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
-      "summary_original": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T10:38:19+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d5026f9d",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "title_original": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "summary_original": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-20T10:16:19+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "95ee37da",
-      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "title_original": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-      "summary_original": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-20T09:17:27+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "fec1c43d",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+      "article_ids": [
+        "8ab0570f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "8ab0570f",
+          "source": "BBC World",
+          "title": "Man convicted of starting Palisades fire in Los Angeles",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T04:34:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:34:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5c8f65d5",
+      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg",
+      "article_ids": [
+        "b62083d8"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b62083d8",
+          "source": "BBC World",
+          "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T04:32:50+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:32:50+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9858fc75",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "article_ids": [
+        "e262e983"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e262e983",
+          "source": "TechCrunch",
+          "title": "Startup sues Apple in India over tap-to-share contacts feature",
+          "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+          "published_at": "2026-11-21T04:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T04:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35dd1f5c",
+      "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死 - 中国新闻网",
+      "summary": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死&nbsp;&nbsp;中国新闻网阿盟谴责胡塞武装持续袭击沙特&nbsp;&nbsp;凤凰网沙特利雅得最高摩天大楼遭胡塞武装袭击受损&nbsp;&nbsp;观察者网沙特领导的空袭轰炸也门，胡塞武装报告17人死亡&nbsp;&nbsp;美国之音胡塞武装称重创沙特发电站和港口，沙特剑指胡塞弹道导弹能力&nbsp;&nbsp;Sohu",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "65f3eac5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "65f3eac5",
+          "source": "Google News (中国)",
+          "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死 - 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNzl4U2JzaVJoQ1JOT25kbFJLS1hnV2cwb1BpeFR0SkdxMGhMeGJyWWNLaG14cDA3OEE4bnN0SjgxRlBRRUxNcWFqdXo4aHRZWjd6UHlDQXVXb014QWliWDItZVNMbG10?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T03:31:51+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:31:51+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "10666b9f",
+      "title": "Peru Rattled by 6.7-Magnitude Quake, With No Casualties Reported",
+      "summary": "Peru was shaken by a powerful earthquake late Friday that damaged some houses and disrupted power in a central district.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "1e309163"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1e309163",
+          "source": "Bloomberg",
+          "title": "Peru Rattled by 6.7-Magnitude Quake, With No Casualties Reported",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported",
+          "published_at": "2026-11-21T03:20:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T03:20:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d4074c4",
+      "title": "特朗普：中俄美元首会晤具有重大历史意义 - 中国新闻网",
+      "summary": "特朗普：中俄美元首会晤具有重大历史意义&nbsp;&nbsp;中国新闻网中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话&nbsp;&nbsp;BBC美中俄峰会谁是赢家？余茂春分析特朗普应对习、普策略&nbsp;&nbsp;美国之音象征大于实质，却各有斩获？深圳峰会后，习近平、普京、特朗普“三赢”？&nbsp;&nbsp;DW.com特写：大国外交的“深圳时刻”&nbsp;&",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "abe7f3b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "abe7f3b4",
+          "source": "Google News (中国)",
+          "title": "特朗普：中俄美元首会晤具有重大历史意义 - 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TSXhGSHk1MTNuMmlpVXVKdkdORGNNMndCSlItMV9TY0hQZUhjMTVtQl90ZVB6TUJlRHUzTGJRM25vOGR4YTJqdEZmMF9KYjFwNEtBcHg3al9mRU5PT0hIQkotSkFpUWlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T02:04:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:04:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "40446ec5",
+      "title": "何以中国·和合礼让丨这杯“调解茶”：茶馆坐得下，云端连得上 - 紫牛新闻",
+      "summary": "何以中国·和合礼让丨这杯“调解茶”：茶馆坐得下，云端连得上&nbsp;&nbsp;紫牛新闻在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6df97728"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6df97728",
+          "source": "Google News (中国)",
+          "title": "何以中国·和合礼让丨这杯“调解茶”：茶馆坐得下，云端连得上 - 紫牛新闻",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKbHg4OVRET0owVGpmNTg0dHBXcEhIMjRzdzlEMUNzcFV5SC1QeWpJMHJJcVpsLXluUGdneDExNS1HbXAyVVd3b04wcUJZN3JxV3lYbTBaTzduaXMyX3FFc1NWcUZ6MWJx?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T02:04:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T02:04:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b45dbf6e",
+      "title": "特朗普：深圳干净整洁，一尘不染 - 观察者网",
+      "summary": "特朗普：深圳干净整洁，一尘不染&nbsp;&nbsp;观察者网特朗普点赞深圳：这个城市干净无瑕，而我们有些城市脏得让人恶心&nbsp;&nbsp;凤凰网特朗普在白宫感叹中国行：城市一尘不染，而美国的“又脏又破犯罪率还奇高”&nbsp;&nbsp;ThePaper.cn特朗普点赞深圳，称美国一些城市“脏得让人恶心”&nbsp;&nbsp;Sohu中国基建最佳推销员，川建国同志如实说&nbsp;&nb",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "d23682b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d23682b1",
+          "source": "Google News (中国)",
+          "title": "特朗普：深圳干净整洁，一尘不染 - 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYlZUal9RTXpPSXlJcDdLa2stZDZ5QjYtVFhyX0ZrcGtJc2pHUXk4SmZFMTVqR2Y5eEl3eWFDdG5VNThuM3d6VjJNdkFWVHhWS0VxVDJYUElnNFlzYVFNMHRuYVlyN1dBbXlsV09EN19wYTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T01:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T01:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "91c83d55",
+      "title": "四川泸州花坛藏尸案被告人已上诉，被害人儿子：不意外 - ThePaper.cn",
+      "summary": "四川泸州花坛藏尸案被告人已上诉，被害人儿子：不意外&nbsp;&nbsp;ThePaper.cn“花坛藏尸案”新进展，受害者儿子：策划者陈某芬被判死刑，不服判决，提起上诉&nbsp;&nbsp;凤凰网“花坛藏尸案”被害人儿子再发声：策划者不服死刑提出上诉&nbsp;&nbsp;新浪财经_金融信息服务商“花坛白骨案”最新进展：被告人陈某芬提起上诉，此前她一审被判死刑&nbsp;&nbsp;Sohu“",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "5d8ee5bd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "5d8ee5bd",
+          "source": "Google News (中国)",
+          "title": "四川泸州花坛藏尸案被告人已上诉，被害人儿子：不意外 - ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6a1Frb2tPRDJpMkZWYlkwbGVzNTdPQTFmY3N6TlRlVzhqamp2V2hicUhNa0g2Y0NxUG1xb1VnMjRhY3hsSHdxQVdxQUZxS2V4c09OeURaRHpvTG5wcGpFNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T01:00:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T01:00:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f1b36a4b",
+      "title": "【学习贯彻党的二十届五中全会精神】省委宣讲团在新兴领域、金昌市、白银市宣讲_时政 - 中国甘肃网",
+      "summary": "【学习贯彻党的二十届五中全会精神】省委宣讲团在新兴领域、金昌市、白银市宣讲_时政&nbsp;&nbsp;中国甘肃网北京市学习贯彻党的二十届五中全会精神宣讲团密云区报告会举行&nbsp;&nbsp;北京市人民政府门户网站中共山东省委十二届十二次全体会议举行&nbsp;&nbsp;凤凰网山东许勤主持黑龙江省委理论学习中心组集体学习&nbsp;&nbsp;人民网黑龙江频道微宣讲︱深学全会精神，勇担时代使",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "710878f1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "710878f1",
+          "source": "Google News (中国)",
+          "title": "【学习贯彻党的二十届五中全会精神】省委宣讲团在新兴领域、金昌市、白银市宣讲_时政 - 中国甘肃网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpaGYyM0NzLWdhQ21sMFFPLWo0d0RLdUsySFNXVkYzZEcyOGlSRnlDd2RhWlp5Y2hiY19vSTFJVmVDc1dfSG5nbkVKODNxQlYtSWdlQm0xaTlZM0dOSXFGTmNkVENSNEYzWDNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T00:37:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T00:37:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bbf1dc25",
+      "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 中国共产党新闻网",
+      "summary": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6e0c5ab3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6e0c5ab3",
+          "source": "Google News (中国)",
+          "title": "李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjeC1BQlVYRDRDWFQyMFRrSjFkeFI3YjA2dVBxU29pZndLRUdUbndqZXNzRGFmZHV1dERscjR1OG5zeFVJTDI1LWJUb0lRRjFCLTlxdF9JUEtPZkVRWU0zMGh3bXRVWlNMdHVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T00:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7728cc30",
+      "title": "习近平会见印度尼西亚总统普拉博沃 - 中国共产党新闻网",
+      "summary": "习近平会见印度尼西亚总统普拉博沃&nbsp;&nbsp;中国共产党新闻网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8399ffa0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8399ffa0",
+          "source": "Google News (中国)",
+          "title": "习近平会见印度尼西亚总统普拉博沃 - 中国共产党新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vVFpMR3FwS0hoek04Q203cXl1ZDZub294N0J2UThrbWlYRWdUbFdOVnh3TTI4SVRDa2Q2LTZnajhGT3Fhem5YNTQ4SGU4MFBQLTN1SE9MMm1uNlpxYWhSaWZLQ19UTjNFeUZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-21T00:21:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5414c334",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+      "article_ids": [
+        "0480dec4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "0480dec4",
+          "source": "BBC World",
+          "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+          "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T00:01:39+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T00:01:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6bc8985",
+      "title": "钧正平：若恪守联合声明 日方该收回涉台言论 - 联合早报",
+      "summary": "钧正平：若恪守联合声明 日方该收回涉台言论&nbsp;&nbsp;联合早报高市早苗在深圳表示：日本对台立场“完全没有改变”，“充分理解和尊重”中国主张台湾是其领土一部分的立场&nbsp;&nbsp;DW.com外交部回应日方最新表态：在台湾问题上尽快纠正错误言行&nbsp;&nbsp;新浪新闻_手机新浪网钧正平：若日方如表态所言恪守《中日联合声明》，就该公开收回错误言论&nbsp;&nbsp;观察",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "535765f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "535765f5",
+          "source": "Google News (中国)",
+          "title": "钧正平：若恪守联合声明 日方该收回涉台言论 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TMndRN0Vkc2oxWnVQcWNfcmg3WUpaQkdYNTRPbkxXN0ROcUhFVmN5cE4yMXhIdU1ndUZKN1RfTEhNdWRlcHN4czZ3NW5GTWd5ZUhXbFd0aXNiYm1meW8ta3JXemdYSEMzTFBr?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-20T23:57:36+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:57:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2176aa9f",
+      "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+      "summary": "J&amp;J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expect",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "8a8fb2fa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "8a8fb2fa",
+          "source": "Bloomberg",
+          "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
+          "published_at": "2026-11-20T23:22:36+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:22:36+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "02669035",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+      "article_ids": [
+        "2a8893f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2a8893f9",
+          "source": "BBC World",
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T23:08:57+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:08:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2d786c8e",
+      "title": "Salvadoran Troops Killed in Haiti Blast Amid Rescue Mission",
+      "summary": "Three Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean island nation to find ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "3e7b3a7b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "3e7b3a7b",
+          "source": "Bloomberg",
+          "title": "Salvadoran Troops Killed in Haiti Blast Amid Rescue Mission",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+          "published_at": "2026-11-20T23:08:54+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T23:08:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ead15f71",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+      "article_ids": [
+        "1c7169b1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "1c7169b1",
+          "source": "BBC World",
+          "title": "French police officers sentenced for beating of music producer Michel Zecler",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T22:37:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:37:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fd0cefe3",
+      "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+      "summary": "President Trump called for Jensen Huang to make a big apology and return as CEO of Nvidia even as the prospect remains highly unlikely. (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b6f32a47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b6f32a47",
+          "source": "Bloomberg",
+          "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
+          "published_at": "2026-11-20T22:31:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:31:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5038fdfd",
+      "title": "‘Always Remain Liquid’: Richards",
+      "summary": "Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f83dc546"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f83dc546",
+          "source": "Bloomberg",
+          "title": "‘Always Remain Liquid’: Richards",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
+          "published_at": "2026-11-20T22:30:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:30:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea6c1daf",
+      "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+      "summary": "Chipmakers led a plunge in US stocks on Friday, with the S&amp;P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b90b1d03"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b90b1d03",
+          "source": "Bloomberg",
+          "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
+          "published_at": "2026-11-20T22:25:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:25:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c5ccfa4",
+      "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+      "summary": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NI",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5fd4e94a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5fd4e94a",
+          "source": "Bloomberg",
+          "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
+          "published_at": "2026-11-20T22:14:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T22:14:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c1bcd2cd",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+      "article_ids": [
+        "54011d0c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "54011d0c",
+          "source": "BBC World",
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T21:57:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T21:57:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d9854fd",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "category": "ai",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "article_ids": [
+        "718dc2db"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Ars Technica"
+      ],
+      "articles": [
+        {
+          "id": "718dc2db",
+          "source": "Ars Technica",
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "published_at": "2026-11-20T20:59:08+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:59:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a71b7fb0",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+      "article_ids": [
+        "e7c0769f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "e7c0769f",
+          "source": "TechCrunch",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "published_at": "2026-11-20T20:58:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:58:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e736d0f6",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+      "article_ids": [
+        "cc3c28b4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "cc3c28b4",
+          "source": "BBC World",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T20:54:12+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:54:12+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6133d1b1",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reac",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "82d061e5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "82d061e5",
+          "source": "The Verge",
+          "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+          "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+          "published_at": "2026-11-20T20:43:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:43:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "26bfb5d6",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "8c621f5d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "8c621f5d",
+          "source": "NYTimes World",
+          "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+          "published_at": "2026-11-20T20:22:14+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T20:22:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f600b46a",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "article_ids": [
+        "cc0a4dad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "cc0a4dad",
+          "source": "TechCrunch",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "published_at": "2026-11-20T19:53:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f600b46a",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "article_ids": [
+        "cc0a4dad"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "cc0a4dad",
+          "source": "TechCrunch AI",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "published_at": "2026-11-20T19:53:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "eddbbd93",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
+      "article_ids": [
+        "5ecbec3f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "5ecbec3f",
+          "source": "BBC World",
+          "title": "Gérard Depardieu and French author investigated over sexual allegations",
+          "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T19:45:20+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:45:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a33578b",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million p",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "6554f650"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "6554f650",
+          "source": "The Verge",
+          "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+          "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+          "published_at": "2026-11-20T19:35:06+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:35:06+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7de1baac",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "article_ids": [
+        "f509e696"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f509e696",
+          "source": "TechCrunch",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "published_at": "2026-11-20T19:32:08+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7de1baac",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "article_ids": [
+        "f509e696"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f509e696",
+          "source": "TechCrunch AI",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "published_at": "2026-11-20T19:32:08+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "is_merged": false
+    },
     {
       "id": "0fde8e30",
       "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
@@ -1165,6 +2049,32 @@
         }
       ],
       "published_at": "2026-11-20T18:06:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a646b84",
+      "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "summary": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "30f32bba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "30f32bba",
+          "source": "The Information",
+          "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+          "link": "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds",
+          "published_at": "2026-11-20T18:00:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-20T18:00:44+00:00",
       "is_merged": false
     },
     {
@@ -1555,916 +2465,6 @@
         }
       ],
       "published_at": "2026-11-20T16:34:13+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9590ff3a",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has el",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "e7bc21e4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "e7bc21e4",
-          "source": "The Verge AI",
-          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-          "published_at": "2026-11-20T16:34:13+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:34:13+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1fd2aa78",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anyth",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Boys-Noize-pls-cr-Ian-Buosi.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "c7d4d875"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "c7d4d875",
-          "source": "The Verge",
-          "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-          "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-          "published_at": "2026-11-20T16:22:15+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:22:15+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3802bd32",
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "67605855"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "67605855",
-          "source": "NYTimes World",
-          "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-          "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-          "published_at": "2026-11-20T16:18:21+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:18:21+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "d755e1f3",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-      "article_ids": [
-        "e3a5bfeb"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "e3a5bfeb",
-          "source": "TechCrunch",
-          "title": "Bending Spoons buys Mailchimp for $3.68B",
-          "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-          "published_at": "2026-11-20T16:16:06+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:16:06+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "12743b4f",
-      "title": "天津大学召开院级团组织书记会议 深入学习党的二十届五中全会精神 - 天津大学新闻网",
-      "summary": "天津大学召开院级团组织书记会议 深入学习党的二十届五中全会精神&nbsp;&nbsp;天津大学新闻网读懂全会蓝图 奔赴青春主场 聚焦党的二十届五中全会精神 房山青年有话说（二）&nbsp;&nbsp;北京市人民政府门户网站江西省委宣讲团深入省国资系统、省国控集团、宜春学院、江西警察学院宣讲&nbsp;&nbsp;凤凰网陈小江在塔城地区调研&nbsp;&nbsp;新华网园区召开学习贯彻党的二十届五中",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "14229223"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "14229223",
-          "source": "Google News (中国)",
-          "title": "天津大学召开院级团组织书记会议 深入学习党的二十届五中全会精神 - 天津大学新闻网",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SXA5c21HUlR0SGhFUzVfRFFYcHdEb3RwT3FrUW96eWRhY051MXZDbXhGTXNfb0QtUVk3c0s3cURKRURMLXYyczFWVDc3TXVhVkh4U2xCWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T16:10:34+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:10:34+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cdcb4e97",
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of f",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "cfc50824"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "cfc50824",
-          "source": "NYTimes World",
-          "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-          "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-          "published_at": "2026-11-20T16:05:55+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:05:55+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9eda8ab3",
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "f68da36e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "f68da36e",
-          "source": "The Verge",
-          "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-          "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-          "published_at": "2026-11-20T16:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T16:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "be87f135",
-      "title": "沙特联军称对胡塞武装目标实施军事打击 - 大河财立方",
-      "summary": "沙特联军称对胡塞武装目标实施军事打击&nbsp;&nbsp;大河财立方激战20公里，也门政府军受挫，胡塞打出非对称战术，沙特进退两难&nbsp;&nbsp;凤凰网沙特利雅得最高摩天大楼遭胡塞武装袭击受损&nbsp;&nbsp;观察者网沙特领导的空袭轰炸也门，胡塞武装报告17人死亡&nbsp;&nbsp;美国之音阿盟谴责胡塞武装持续袭击沙特&nbsp;&nbsp;Sohu",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "ac7ebd54"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "ac7ebd54",
-          "source": "Google News (中国)",
-          "title": "沙特联军称对胡塞武装目标实施军事打击 - 大河财立方",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MW0xanpfbzNpWjNubjJ2NEp1eVRiT2VydVBnNWhYWFc3bnRIVWYyRWFPemdtX3JBVGQtX0sxUXVXZVNXM2xQOFY2NDg4LVBYeGllbmNibXdaaWc4M1RsbWtnQ29PNFo0UEdfN1p4cG03UFkwYkgxdS1mV2w?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T15:56:43+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:56:43+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cc07f8b4",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
-      "article_ids": [
-        "40a39232"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "40a39232",
-          "source": "BBC World",
-          "title": "Nearly 600 women killed in South Africa within three months",
-          "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-20T15:55:16+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:55:16+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1b512736",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
-      "article_ids": [
-        "b2cf68a5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "b2cf68a5",
-          "source": "BBC World",
-          "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-          "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-20T15:55:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:55:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5c6dee54",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on so",
-      "category": "tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "cee57cec"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ],
-      "articles": [
-        {
-          "id": "cee57cec",
-          "source": "The Verge",
-          "title": "The best early Black Friday deals you can already shop",
-          "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "published_at": "2026-11-20T15:53:25+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:53:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2a64ae3e",
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/20/20vid-poland-air-28802-cover/20vid-poland-air-28802-cover-mediumSquareAt3X-v2.jpg",
-      "article_ids": [
-        "cfd7eab5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "cfd7eab5",
-          "source": "NYTimes World",
-          "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-          "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-          "published_at": "2026-11-20T15:49:30+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:49:30+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "6036bcf1",
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2150052525.jpg?resize=1200,800",
-      "article_ids": [
-        "0bd18190"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "0bd18190",
-          "source": "TechCrunch",
-          "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-          "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-          "published_at": "2026-11-20T15:46:07+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:46:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7d0aa908",
-      "title": "德语媒体：气味相投的三个好兄弟 - DW.com",
-      "summary": "德语媒体：气味相投的三个好兄弟&nbsp;&nbsp;DW.com在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "963d799e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "963d799e",
-          "source": "Google News (中国)",
-          "title": "德语媒体：气味相投的三个好兄弟 - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdXNrLThVZ1hNbkxqaHVTQWZrTTJmcmpES0VhdnNQdzRSQ1pmbE9qNUp4S1RBNE9xdDZubTA3N1pTbTFDaWk5SmY1eHBOaDBTQnJkdlF1RWt3YmJ0WnNfUVpUS2xGZVJyYlNUVmUzX2JLalFKOWtibnRDcDBUNVZNWWo3MUYwSnM2UzViRThBb3RXak1MVlh3RkUxdHBCb21TLWdDUk1MakJhd3VOZ1Z3cm5KZlJJdFFWc3hEZlAzaGxLMC14c0hFNXA0MkJsTzdIejVvaVF0S0ZEaG5VaHUwV0l5cEh4VzA0QzVQNWVBY3BWSjBzZEQ5eHBNU3hlR1Y2OTdvZWxSVnE5dXhCczlIbU44cGzSAZQCQVVfeXFMTVBCcnVVU2xhMnloTFRTanZSbjdMdjg1OHlRb3dVWFVwczFMQl8wWF9WRENXMHRvMVZYQzJraUR0S2VrZ2NUOXdld2hkSUQzSzFuQjlOeWZFQWgtNTJJWHFWYmdFbURERGprWnJkcndzOVdrYXA5cVN5dnR4TjhocU9CYkdWc0c2TkNWUFU1R05rZkptUU1RVU1SbDRyLVJqaHJuendYaFNRRHZOTC11NnN6eDM5aklYTmVkU3RRYy1Sdlo4Rnh4ZWpZYzh6RXF0WEFnWFJqdlh2eWszZTQ2YmFwcDUwd2ZHa3g3YjJvTVpxMHZNNlZjb2FkNnFFQlVuQ0pVcDRtb3U2ZFdrNXl3MjVKZ2Vv?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T15:14:25+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T15:14:25+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3d967c71",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-      "article_ids": [
-        "3293ff1a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "3293ff1a",
-          "source": "TechCrunch AI",
-          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-          "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-          "published_at": "2026-11-20T14:55:44+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:55:44+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0dbf1d47",
-      "title": "Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels",
-      "summary": "Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "f3bb6710"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "f3bb6710",
-          "source": "Bloomberg",
-          "title": "Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-          "published_at": "2026-11-20T14:36:49+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:36:49+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "52aeaed6",
-      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "summary": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "0a4dd2c0"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "0a4dd2c0",
-          "source": "NYTimes World",
-          "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-          "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
-          "published_at": "2026-11-20T14:17:02+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:17:02+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "baed8a90",
-      "title": "中铁科工首席电工、高级技师连永昌荣获“湖北省技术能手”称号 - Sohu",
-      "summary": "中铁科工首席电工、高级技师连永昌荣获“湖北省技术能手”称号&nbsp;&nbsp;Sohu湖北省第三届职业技能大赛在武汉开幕&nbsp;&nbsp;新华网楚菜飘香、无人机起飞，荆楚赛场比拼职业技能真功夫&nbsp;&nbsp;凤凰网湖北：一场大赛照见技能人才未来“坐标”&nbsp;&nbsp;人民网－湖北频道这场省级赛事，为何落地襄阳科技职业学院- 湖北日报新闻客户端&nbsp;&nbsp;湖北日",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "de5ae4f4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "de5ae4f4",
-          "source": "Google News (中国)",
-          "title": "中铁科工首席电工、高级技师连永昌荣获“湖北省技术能手”称号 - Sohu",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42YmdoVm1YWXFDX2FPN05ock5iWDRCU0dIemRiaU9kaUJ4NXhxeVdPaFNIaHpIQzVheEpJNjIyRXBZczdSQ0U2S2E4a2E2MmgzV3VB?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T14:12:04+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:12:04+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "2658f596",
-      "title": "The week everything fell apart",
-      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt ",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "47b9ea6e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "47b9ea6e",
-          "source": "The Verge AI",
-          "title": "The week everything fell apart",
-          "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-          "published_at": "2026-11-20T14:06:59+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:06:59+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cc05af79",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "article_ids": [
-        "a2263c05"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "a2263c05",
-          "source": "TechCrunch",
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-          "published_at": "2026-11-20T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "cc05af79",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "article_ids": [
-        "a2263c05"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "a2263c05",
-          "source": "TechCrunch AI",
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-          "published_at": "2026-11-20T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "be3a61d3",
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "3ebae9d4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "3ebae9d4",
-          "source": "NYTimes World",
-          "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-          "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-          "published_at": "2026-11-20T13:56:56+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:56:56+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3a206256",
-      "title": "何以中国·和合礼让 | 十字埂，铜陵大地上的农耕版“六尺巷” - 中安在线",
-      "summary": "何以中国·和合礼让 | 十字埂，铜陵大地上的农耕版“六尺巷”&nbsp;&nbsp;中安在线在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "d61b5047"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "d61b5047",
-          "source": "Google News (中国)",
-          "title": "何以中国·和合礼让 | 十字埂，铜陵大地上的农耕版“六尺巷” - 中安在线",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aS3BlY1M1RUEtZTAzQ3dtWWp4bWs4eHh6S01UUFNYRWk3ajBFYmpnOGNiR1FqT2laNWZzZDgxRVloajBlZElKQlVFa0ZUOFR0TjJ0QmxiTmtSNFQ0c1VZa3EyRlAwcFpEblJXRTRsSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T13:47:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:47:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "4a90ec64",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-      "article_ids": [
-        "6c738671"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "6c738671",
-          "source": "TechCrunch",
-          "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-          "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-          "published_at": "2026-11-20T13:25:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:25:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "302c03dc",
-      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
-      "article_ids": [
-        "df90abe9"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "df90abe9",
-          "source": "TechCrunch",
-          "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-          "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-          "published_at": "2026-11-20T13:21:11+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:21:11+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "b0ad73f4",
-      "title": "APEC青年企业家峰会在港举行 APEC秘书处执行主任点赞香港创业活力 - 中国新闻网",
-      "summary": "APEC青年企业家峰会在港举行 APEC秘书处执行主任点赞香港创业活力&nbsp;&nbsp;中国新闻网和合共生｜以湾为媒：习主席首倡亚太合作新路径&nbsp;&nbsp;央视网习近平以APEC力捧深圳 香港称配合 评论指香港沦深圳发展「提款机」&nbsp;&nbsp;RFI中国落子亚太区域合作先手棋&nbsp;&nbsp;中国网新闻中心APEC峰会的新机会，怎样影响青岛？&nbsp;&nbsp;",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "4079d589"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "4079d589",
-          "source": "Google News (中国)",
-          "title": "APEC青年企业家峰会在港举行 APEC秘书处执行主任点赞香港创业活力 - 中国新闻网",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9raE11Nmtvc08tY2xhWFp5a1Z0UlgtZmJGaTRkdHFkc0VBQ1plTVA2cXBGUjZBOHl1bDAzQ0E2VVVHaWdsUk83YWUzSGdhTURJNDQxcUpFYmhHdTYtcFdMX3RXUW5wcUFsaG1oakE2Yl9DYUw2Y2o5blhQTE9XQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T13:20:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:20:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "af4fbb5f",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the ",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260524_TechnologyReview_EnhancedGames_276.jpg?fit=2560,1706",
-      "article_ids": [
-        "258a0455"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "258a0455",
-          "source": "MIT Technology Review",
-          "title": "The Download: inside the quest to make our minds immortal",
-          "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-          "published_at": "2026-11-20T13:10:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:10:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8fd94b06",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
-      "article_ids": [
-        "d07cd85e"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "d07cd85e",
-          "source": "BBC World",
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-20T13:01:16+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T13:01:16+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "af2f71c5",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
-      "article_ids": [
-        "2cca48a1"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "2cca48a1",
-          "source": "BBC World",
-          "title": "Texas death-row inmate screams as execution takes more than one hour",
-          "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-20T12:42:37+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T12:42:37+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ac9298de",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into o",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "da5d0e94"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "da5d0e94",
-          "source": "The Verge AI",
-          "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-          "published_at": "2026-11-20T12:30:47+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T12:30:47+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "d790fcb1",
-      "title": "习近平会见泰国总理阿努廷 - 央视网",
-      "summary": "习近平会见泰国总理阿努廷&nbsp;&nbsp;央视网在Google 新闻上查看更多头条新闻和观点",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "86afbadf"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "86afbadf",
-          "source": "Google News (中国)",
-          "title": "习近平会见泰国总理阿努廷 - 央视网",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtbHI5QVVnQnctMTlkX2NOV1pqRFRxTmVuTXdDelpTS255R25zT0lnMjhtVUdxOHczekVmZjBZNUdwb3ZBOXRCSWIwRkZEMFdqOEFDSzlUR21QQ3ZHcVUyb2RDRWk0RGxHM29WRWd2SENiMUZLM1cyXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T11:31:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T11:31:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "0ae49e1a",
-      "title": "赵乐际会见澳大利亚总理阿尔巴尼斯 - 中国共产党新闻网",
-      "summary": "赵乐际会见澳大利亚总理阿尔巴尼斯&nbsp;&nbsp;中国共产党新闻网全球洞察｜中澳商会华南会长：世界湾区经济合作联盟将搭建良好沟通机制&nbsp;&nbsp;凤凰网从深圳APEC到北京会晤：阿尔巴尼斯再访华，澳大利亚如何破解“双重身份之困”&nbsp;&nbsp;ThePaper.cn大国外交进行时丨澳大利亚总理阿尔巴尼斯：见证深圳成长故事 中国发展红利惠及亚太地区&nbsp;&nbsp;光明",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "b35510c4"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "b35510c4",
-          "source": "Google News (中国)",
-          "title": "赵乐际会见澳大利亚总理阿尔巴尼斯 - 中国共产党新闻网",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wd2ZEeENUdnpiZl9xa3Y3WWFTRWRBQjdMOXpQdjhQbUVRekh0eEhfN2wxWmFudVNYYmxOWE5sQnhDTldsd2RLQWdzY0dnTHJsY2t6ZmdUUFdoRnJSNDdYTU8tMDFFWWZNY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-20T11:16:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T11:16:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "41c14e02",
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "98562050"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "98562050",
-          "source": "NYTimes World",
-          "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-          "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-          "published_at": "2026-11-20T10:38:19+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T10:38:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "d4e68b31",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
-      "article_ids": [
-        "d5026f9d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "d5026f9d",
-          "source": "BBC World",
-          "title": "South Korea catches 111 students with new measures against exam cheating",
-          "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-20T10:16:19+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T10:16:19+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "74330167",
-      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "95ee37da"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "95ee37da",
-          "source": "NYTimes World",
-          "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-          "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-          "published_at": "2026-11-20T09:17:27+00:00"
-        }
-      ],
-      "published_at": "2026-11-20T09:17:27+00:00",
       "is_merged": false
     }
   ]
