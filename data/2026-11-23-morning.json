@@ -1,0 +1,2471 @@
+{
+  "date": "2026-11-23",
+  "edition": "morning",
+  "updated_at": "2026-11-23T02:52:22.278762+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "19ac7f49",
+      "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "title_original": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "summary": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/newsletters/ai-infrastructure/amazon-plays-long-expensive-data-center-game-neoclouds",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-22T18:18:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9d8fa306",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "title_original": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "summary_original": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9d8fa306",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "title_original": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "summary_original": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "942be72d",
+      "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+      "title_original": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "summary_original": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shannon Kingston, Maryland Gov. Wes Moore, Indiana Gov. Mike Braun, North Carolina Gov. Josh Stein, Utah Gov. Spencer Cox, Renaissance Macro Research Head of Economics Neil Dutta, Texas Rep. Michael McCaul, Former Mayor of Chicago Rahm Emanuel, The Branch Founder ",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T17:27:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "cf3322b3",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "title_original": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d",
+      "summary_original": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-22T17:25:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2b1585b5",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "title_original": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "summary_original": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T17:18:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "92c612fd",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title_original": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "summary_original": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T17:16:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fcb6aea2",
+      "title": "Compass Plans to Move Main Listing to New York, FT Says",
+      "title_original": "Compass Plans to Move Main Listing to New York, FT Says",
+      "summary": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.",
+      "summary_original": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T17:08:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "290d35fa",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "title_original": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "summary_original": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-22T17:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "23c278f0",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "title_original": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In a",
+      "summary_original": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T17:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a7cdebc3",
+      "title": "2026年香港特区选举委员会界别分组一般选举结果揭晓 - ThePaper.cn",
+      "title_original": null,
+      "summary": "2026年香港特区选举委员会界别分组一般选举结果揭晓&nbsp;&nbsp;ThePaper.cn香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生&nbsp;&nbsp;Sohu香港选委会选举前夕 部分候选人街站宣传活动叫停&nbsp;&nbsp;联合早报姚文：夯实“爱国者治港”的宪制根基 护航香港长治久安&nbsp;&nbsp;紫荆网选委会选举结果陆续公布 多名前高官及现任行会成员胜出&",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kdWdKYXdfNEw4TG00VTZjdHRsT0dqRU1vbDVYLVNzYkxVeVVmdjlmN1FEeUlITWZhWXgyTXhZSU8yVFNyOTNHYm1xZzBNV2FDX09xYUdqc3RpU1ExTHNPMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T16:59:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f9f42c99",
+      "title": "Bookmarked: News Stories On Our Reading List",
+      "title_original": "Bookmarked: News Stories On Our Reading List",
+      "summary": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts Davi",
+      "summary_original": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T16:41:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3e455bf1",
+      "title": "也门胡塞武装称打击沙特炼油厂和雷达 - 凤凰网",
+      "title_original": null,
+      "summary": "也门胡塞武装称打击沙特炼油厂和雷达&nbsp;&nbsp;凤凰网沙特主导的多国联军称拦截并摧毁一架来袭无人机&nbsp;&nbsp;手机新浪网也门：过去24小时沙特空袭造成至少41人死亡&nbsp;&nbsp;凤凰网沙特主导的多国联军称拦截并摧毁3枚弹道导弹&nbsp;&nbsp;央视网胡塞扩大攻势，沙特第一高楼被炸了！&nbsp;&nbsp;风闻",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVWRsOWl5UmlFNFZtTGVqbFo5eWsyeHBnS1JrX3RmaXQwRFNoYl9DelhQbGdVYXUtcjVwR0xtcFBIbHpvTFplT2tQNUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T16:40:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "dd457398",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "title_original": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-n",
+      "summary_original": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T16:33:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "591fa4f2",
+      "title": "By The Way: Headlines You May Have Missed",
+      "title_original": "By The Way: Headlines You May Have Missed",
+      "summary": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Chr",
+      "summary_original": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T16:17:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "efe0c6b2",
+      "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+      "title_original": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+      "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, comb",
+      "summary_original": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the middle class. Speaking with hosts David Gura and Christina Ruffini, Emanuel also criticizes President Donald Trump’s approach to China and Russia, arguing that the US should work more closely with allies to counter Beijing and protect American economic and nati",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T15:52:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "fd15dca1",
+      "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+      "title_original": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+      "summary": "Wall Street strategist Ed Yardeni cut his S&amp;P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical",
+      "summary_original": "Wall Street strategist Ed Yardeni cut his S&amp;P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T15:18:13+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f74977af",
+      "title": "Protesters storm Meta offices in India",
+      "title_original": "Protesters storm Meta offices in India",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are dem",
+      "summary_original": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T15:15:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c55215d9",
+      "title": "Can a TV be too large? An investigation",
+      "title_original": "Can a TV be too large? An investigation",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "summary_original": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-22T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "51017e5e",
+      "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+      "title_original": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+      "summary": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+      "summary_original": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T15:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b91f7d2d",
+      "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+      "title_original": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+      "summary": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agri",
+      "summary_original": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agriculture areas.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T14:41:40+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1ffa5f2a",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "title_original": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "summary_original": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T14:34:02+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ee1c875f",
+      "title": "GTA VI Takes Over Thanksgiving Week",
+      "title_original": "GTA VI Takes Over Thanksgiving Week",
+      "summary": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taki",
+      "summary_original": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taking time off and preparing to play through Thanksgiving week. Joshua explains how the game’s 13-year buildup is driving demand for consoles and gaming gear while potentially competing with family gatherings, football and other holiday entertainment. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T14:25:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "529b57f5",
+      "title": "Fed’s Inflation Fight May Require More Hikes",
+      "title_original": "Fed’s Inflation Fight May Require More Hikes",
+      "summary": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hi",
+      "summary_original": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hikes as inflation remains stubbornly above its 2% target. Speaking with hosts David Gura and Christina Ruffini, Dutta says the recent market selloff does not yet signal broader economic trouble, arguing that AI investment and a resilient labor market continue to support growth even as the Fed has les",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-22T14:19:26+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e0d79e34",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "title_original": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "summary_original": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T14:05:20+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ad3a6c88",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "title_original": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed",
+      "summary_original": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "71591f7e",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "title_original": "‘The show is starting soon. Please turn on your headphones.’",
+      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand eac",
+      "summary_original": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T14:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "efcbe581",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "title_original": "How Tamagotchis got us hooked on digital pets",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensat",
+      "summary_original": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they went [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T13:15:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "370b84aa",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "title_original": "Your questions about Apple HomeView’s audio, answered",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capa",
+      "summary_original": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "564b8081",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "title_original": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "564b8081",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "title_original": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber",
+      "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6b5b10c2",
+      "title": "黎曼猜想被AI证明了？25万页证明“作者栏”该写谁 - 科学网—新闻",
+      "title_original": null,
+      "summary": "黎曼猜想被AI证明了？25万页证明“作者栏”该写谁&nbsp;&nbsp;科学网—新闻AI攻克黎曼猜想，给了人类好几个想不到 | 新京报专栏&nbsp;&nbsp;新浪新闻_手机新浪网“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页&nbsp;&nbsp;华尔街见闻Lean官方认证、马斯克转发！Claude参与的黎曼猜想证明",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJTU05TGEwU2tIZ21BcXdBUVBoc2wzMlk3QmtwbldTSXhxa0lLb0E1WVphU1ZSZWlfeFpxdE50MmprNHNya09uN3hSb2h4UFhIOXpLVkNMLWhCaUo2OW1nekYtbEJpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T12:45:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "44c43912",
+      "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温 - 中国新闻网",
+      "title_original": null,
+      "summary": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温&nbsp;&nbsp;中国新闻网第二艘国产大型邮轮首航 激发海洋消费新活力&nbsp;&nbsp;央视网“爱达·花城号”开启商业首航 释放上下游需求助推本土供应链建设&nbsp;&nbsp;中国日报网今日开启商业首航！“爱达·花城号”最新乘船攻略来了&nbsp;&nbsp;浙江在线14.19万吨海上巨无霸！第二艘国产大型邮轮爱达·花城号今日商业首",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjI0UmFFWW1GYlVwcjNsY3lvNmdyTTgwTHl6cHJ4a2JQdTVCZG5LTHZaRHdvWmlHUVdJeC04N0VST1pXOFhKbDh3bkF3eXFZektjcVNuVmUwWUdCd3cyUThQdWwtU2QyRWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T12:45:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b003428d",
+      "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+      "title_original": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+      "summary": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "summary_original": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T12:29:33+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4b43c1a1",
+      "title": "尹弘当选中共江西省委书记 - 新华网",
+      "title_original": null,
+      "summary": "尹弘当选中共江西省委书记&nbsp;&nbsp;新华网尹弘看望省第十六次党代会工作人员和新闻记者&nbsp;&nbsp;新浪财经_金融信息服务商新一届江西省委常委亮相&nbsp;&nbsp;新浪财经_金融信息服务商以产业之进，筑上高之强&nbsp;&nbsp;人民网－江西频道江西省财政厅厅长许南吉已升任江西省委常委&nbsp;&nbsp;新浪财经_金融信息服务商",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWNUQ1JkODdOQV9uMFNRcEg2OEZMZzZrVGVjSXFhd05PaWF6MXRUNVM0Mkpmc2NGaDVQMVhVVmVKem1LZWNMa0RDMF9SSURhUWRhZjVwWUU3MDVFcG1jQlhOTm1mRDctVmpwSWJhLXR6akdhT05UOGNXcm1EQzk3SVIycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T11:52:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d29d2bea",
+      "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一 - 中国新闻网",
+      "title_original": null,
+      "summary": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一&nbsp;&nbsp;中国新闻网分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利&nbsp;&nbsp;BBC普京扬眉吐气，欧洲妒火中烧&nbsp;&nbsp;凤凰网一见·两个维度看中俄美元首历史性会晤&nbsp;&nbsp;新浪新闻_手机新浪网一周军评：都有原子弹协议不放弹&nbsp;&nbsp;观察者",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQzhzRTVndTV1QjA2cjYwNG1FNjRVZXlhMG84MDBNX3VqdE1iU1lVSWpteG1aNTNMS2RrdUlINjZRRGY3c2VtUmhBVjlwNF8tbVlGamxsb0I4aDlyZ1hYTUVYQk9SXzdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T11:12:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "589136bc",
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "title_original": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+      "summary_original": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T11:03:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "07abf047",
+      "title": "特蕾莎·梅喊话伯纳姆：接受脱欧，翻篇向前 - 观察者网",
+      "title_original": null,
+      "summary": "特蕾莎·梅喊话伯纳姆：接受脱欧，翻篇向前&nbsp;&nbsp;观察者网热点问答丨“脱欧”十年后，英国和欧盟谈了什么--国际&nbsp;&nbsp;人民网国际观察丨英欧峰会：合作升温 “心结”难解&nbsp;&nbsp;新华网英欧重修旧好，卡在一道中国题，脱欧十年，英国发现两头都不讨好&nbsp;&nbsp;凤凰网英国首相放话真心想重回欧盟，可脱欧容易回来难，卡点远不止民意&nbsp;&nbsp;",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZGo2OG9XQm1rV0JtV1R0VDlLX05vSXhfRmdUcER5QVY2eDFkaTJmWHBEWFdIUzlSbXRfVWg0TTFybUZzMUFBZG5fdU5fLVVRdXdXMDU4VlRqaXhTUDVScXBiVFQ1S0hkQnZTVmhXcFktdzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T10:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0c28ce07",
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "title_original": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+      "summary_original": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T10:16:39+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8cd585cf",
+      "title": "2026国际产学研用合作会议在渝开幕 达成19项合作 - Sohu",
+      "title_original": null,
+      "summary": "2026国际产学研用合作会议在渝开幕 达成19项合作&nbsp;&nbsp;Sohu在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkNyQ1JuRmFpRkdNdi11bHBaTFE1Q0dUbzVjd1JVMjd4RkhrZFBNZzMwXzdaTTJMQUFnRndtbFhrX0dJZ0JaZWJkeWFkRXg4TlEzUUhpWmpkclNYT053ajZOc2l2MkRUUnhVN21xRWc0ckNwSmFzWkItZXFGejJNQ2tjWG40eW5w?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T09:52:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7aee7d86",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "title_original": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "summary_original": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T09:20:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c1bec636",
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "title_original": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "summary_original": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T08:35:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "75589a11",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "title_original": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "summary_original": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T07:12:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f207c43f",
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "title_original": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "summary_original": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T06:58:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "abd810e0",
+      "title": "多国领导人表态恪守一个中国原则 国际共识稳固 - 中华军事",
+      "title_original": null,
+      "summary": "多国领导人表态恪守一个中国原则 国际共识稳固&nbsp;&nbsp;中华军事特朗普、李在明、黄循财、阿努廷、藤森庆子、辛鲍姆、阿尔巴尼斯、普拉博沃、马拉佩等多位外国领导人，均公开重申坚持一个中国原则的立场&nbsp;&nbsp;凤凰网时政新闻眼丨“深圳之约”圆满收官，亚太合作留下哪些鲜明印记？&nbsp;&nbsp;新浪新闻_手机新浪网【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zN3JweUpHb1A4SGlVbmdTME03MTVlX1BkeHRVN2NZd29WRWhNSkpkYVVjUFNPWlhudEhwMmZOWVV5WE50Wnh5NjFGMlV1MUprdlFLYTFFVnI5NXBzbi1OM0pUQm1Eal9jY05SNS1mbm4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T01:58:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "28bd4012",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "title_original": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "summary_original": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-22T01:56:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "10e72cb4",
+      "title": "【学习小组】习近平：看五十年的中国就来深圳 - 人民网",
+      "title_original": null,
+      "summary": "【学习小组】习近平：看五十年的中国就来深圳&nbsp;&nbsp;人民网学习进行时｜“深圳的成功，给人们许多启示”&nbsp;&nbsp;新华网中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展&nbsp;&nbsp;中国青年网共享中国式现代化机遇&nbsp;&nbsp;新浪新闻_手机新浪网独家视频丨习近平：看五十年的中国来深圳- 中国日报网&nbsp;&nbsp;China Dai",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNjJwcUUzTTQ1RHVBRTZ4aEF2cWRIRHcySjdqeXdxUjA0M3RrU2xvXzVaVmJGTl9SNUo2SEM5ei1YSjJNM0dZRGpMc2o4MDlBcEhZelE2NVNiN2tJMlNTSTdlcUdoNnF0OHh3aUJ0VkhIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-22T01:40:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "81f00345",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "title_original": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "summary_original": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T01:25:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2cc7b750",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "title_original": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "summary_original": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-22T00:10:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "29c8b902",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "title_original": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "summary_original": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-21T22:01:19+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e32b819c",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "title_original": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add",
+      "summary_original": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-21T21:59:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f8ce89f0",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_original": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "summary_original": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f8ce89f0",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_original": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "summary_original": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "e7fbdfc0",
+      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "title_original": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+      "summary_original": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-21T21:12:24+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6572e082",
+      "title": "A tale of two Nvidias",
+      "title_original": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "summary_original": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6572e082",
+      "title": "A tale of two Nvidias",
+      "title_original": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "summary_original": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "49b742f9",
+      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "title_original": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "summary_original": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-21T20:35:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0a2e9e26",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_original": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "summary_original": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0a2e9e26",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_original": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "summary_original": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6a6fe18f",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "title_original": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "summary_original": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-21T18:44:53+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "d47d881f",
+      "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "summary": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "19ac7f49"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "19ac7f49",
+          "source": "The Information",
+          "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+          "link": "https://www.theinformation.com/newsletters/ai-infrastructure/amazon-plays-long-expensive-data-center-game-neoclouds",
+          "published_at": "2026-11-22T18:18:39+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T18:18:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e44c4e29",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "article_ids": [
+        "9d8fa306"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "9d8fa306",
+          "source": "TechCrunch",
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "published_at": "2026-11-22T18:08:43+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e44c4e29",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "article_ids": [
+        "9d8fa306"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "9d8fa306",
+          "source": "TechCrunch AI",
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "published_at": "2026-11-22T18:08:43+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "95abc848",
+      "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "942be72d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "942be72d",
+          "source": "Bloomberg",
+          "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+          "published_at": "2026-11-22T17:27:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:27:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "91733ed3",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "cf3322b3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "cf3322b3",
+          "source": "The Verge AI",
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "published_at": "2026-11-22T17:25:20+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:25:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c7a88792",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+      "article_ids": [
+        "2b1585b5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2b1585b5",
+          "source": "BBC World",
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T17:18:26+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:18:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2abeda7a",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+      "article_ids": [
+        "92c612fd"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "92c612fd",
+          "source": "BBC World",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T17:16:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:16:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "97bbcf7f",
+      "title": "Compass Plans to Move Main Listing to New York, FT Says",
+      "summary": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "fcb6aea2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "fcb6aea2",
+          "source": "Bloomberg",
+          "title": "Compass Plans to Move Main Listing to New York, FT Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+          "published_at": "2026-11-22T17:08:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:08:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4733af8",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
+      "article_ids": [
+        "290d35fa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "290d35fa",
+          "source": "TechCrunch",
+          "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+          "published_at": "2026-11-22T17:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c06a216c",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In a",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "23c278f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "23c278f0",
+          "source": "The Verge",
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+          "published_at": "2026-11-22T17:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T17:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b3a1a83a",
+      "title": "2026年香港特区选举委员会界别分组一般选举结果揭晓 - ThePaper.cn",
+      "summary": "2026年香港特区选举委员会界别分组一般选举结果揭晓&nbsp;&nbsp;ThePaper.cn香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生&nbsp;&nbsp;Sohu香港选委会选举前夕 部分候选人街站宣传活动叫停&nbsp;&nbsp;联合早报姚文：夯实“爱国者治港”的宪制根基 护航香港长治久安&nbsp;&nbsp;紫荆网选委会选举结果陆续公布 多名前高官及现任行会成员胜出&",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "a7cdebc3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "a7cdebc3",
+          "source": "Google News (中国)",
+          "title": "2026年香港特区选举委员会界别分组一般选举结果揭晓 - ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kdWdKYXdfNEw4TG00VTZjdHRsT0dqRU1vbDVYLVNzYkxVeVVmdjlmN1FEeUlITWZhWXgyTXhZSU8yVFNyOTNHYm1xZzBNV2FDX09xYUdqc3RpU1ExTHNPMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T16:59:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:59:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2a0e8eae",
+      "title": "Bookmarked: News Stories On Our Reading List",
+      "summary": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts Davi",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f9f42c99"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f9f42c99",
+          "source": "Bloomberg",
+          "title": "Bookmarked: News Stories On Our Reading List",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
+          "published_at": "2026-11-22T16:41:22+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:41:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1b865b05",
+      "title": "也门胡塞武装称打击沙特炼油厂和雷达 - 凤凰网",
+      "summary": "也门胡塞武装称打击沙特炼油厂和雷达&nbsp;&nbsp;凤凰网沙特主导的多国联军称拦截并摧毁一架来袭无人机&nbsp;&nbsp;手机新浪网也门：过去24小时沙特空袭造成至少41人死亡&nbsp;&nbsp;凤凰网沙特主导的多国联军称拦截并摧毁3枚弹道导弹&nbsp;&nbsp;央视网胡塞扩大攻势，沙特第一高楼被炸了！&nbsp;&nbsp;风闻",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "3e455bf1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "3e455bf1",
+          "source": "Google News (中国)",
+          "title": "也门胡塞武装称打击沙特炼油厂和雷达 - 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVWRsOWl5UmlFNFZtTGVqbFo5eWsyeHBnS1JrX3RmaXQwRFNoYl9DelhQbGdVYXUtcjVwR0xtcFBIbHpvTFplT2tQNUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T16:40:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:40:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e84c1e50",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-n",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "dd457398"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "dd457398",
+          "source": "The Verge",
+          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+          "published_at": "2026-11-22T16:33:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:33:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "78432caf",
+      "title": "By The Way: Headlines You May Have Missed",
+      "summary": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Chr",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "591fa4f2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "591fa4f2",
+          "source": "Bloomberg",
+          "title": "By The Way: Headlines You May Have Missed",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
+          "published_at": "2026-11-22T16:17:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T16:17:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ea5c2ad9",
+      "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+      "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, comb",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "efe0c6b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "efe0c6b2",
+          "source": "Bloomberg",
+          "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
+          "published_at": "2026-11-22T15:52:02+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T15:52:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "fb23cd7e",
+      "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+      "summary": "Wall Street strategist Ed Yardeni cut his S&amp;P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "fd15dca1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "fd15dca1",
+          "source": "Bloomberg",
+          "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+          "published_at": "2026-11-22T15:18:13+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T15:18:13+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a5a9faa",
+      "title": "Protesters storm Meta offices in India",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are dem",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "f74977af"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "f74977af",
+          "source": "The Verge",
+          "title": "Protesters storm Meta offices in India",
+          "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+          "published_at": "2026-11-22T15:15:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T15:15:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ba251a6",
+      "title": "Can a TV be too large? An investigation",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
+      "article_ids": [
+        "c55215d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "c55215d9",
+          "source": "TechCrunch",
+          "title": "Can a TV be too large? An investigation",
+          "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+          "published_at": "2026-11-22T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "68e8036c",
+      "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+      "summary": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "51017e5e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "51017e5e",
+          "source": "Bloomberg",
+          "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+          "published_at": "2026-11-22T15:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T15:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7eea2422",
+      "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+      "summary": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agri",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b91f7d2d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b91f7d2d",
+          "source": "Bloomberg",
+          "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+          "published_at": "2026-11-22T14:41:40+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:41:40+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e0b5eaf1",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "1ffa5f2a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "1ffa5f2a",
+          "source": "NYTimes World",
+          "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+          "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+          "published_at": "2026-11-22T14:34:02+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:34:02+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "942578c0",
+      "title": "GTA VI Takes Over Thanksgiving Week",
+      "summary": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taki",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "ee1c875f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "ee1c875f",
+          "source": "Bloomberg",
+          "title": "GTA VI Takes Over Thanksgiving Week",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+          "published_at": "2026-11-22T14:25:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:25:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ccceb0f8",
+      "title": "Fed’s Inflation Fight May Require More Hikes",
+      "summary": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hi",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "529b57f5"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "529b57f5",
+          "source": "Bloomberg",
+          "title": "Fed’s Inflation Fight May Require More Hikes",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+          "published_at": "2026-11-22T14:19:26+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:19:26+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d99eb50",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+      "article_ids": [
+        "e0d79e34"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "e0d79e34",
+          "source": "BBC World",
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T14:05:20+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:05:20+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f6f34dad",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "ad3a6c88"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ad3a6c88",
+          "source": "The Verge",
+          "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+          "published_at": "2026-11-22T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9447ebbc",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand eac",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "71591f7e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "71591f7e",
+          "source": "The Verge",
+          "title": "‘The show is starting soon. Please turn on your headphones.’",
+          "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+          "published_at": "2026-11-22T14:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T14:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d3f2b6e0",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensat",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "efcbe581"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "efcbe581",
+          "source": "The Verge",
+          "title": "How Tamagotchis got us hooked on digital pets",
+          "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+          "published_at": "2026-11-22T13:15:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T13:15:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d902f1b7",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capa",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "370b84aa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "370b84aa",
+          "source": "The Verge",
+          "title": "Your questions about Apple HomeView’s audio, answered",
+          "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+          "published_at": "2026-11-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d829cea3",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "564b8081"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "564b8081",
+          "source": "The Verge",
+          "title": "The vibe-coding revolution is coming to all the gadgets",
+          "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "published_at": "2026-11-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d829cea3",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "564b8081"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "564b8081",
+          "source": "The Verge AI",
+          "title": "The vibe-coding revolution is coming to all the gadgets",
+          "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "published_at": "2026-11-22T13:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2e03ef87",
+      "title": "黎曼猜想被AI证明了？25万页证明“作者栏”该写谁 - 科学网—新闻",
+      "summary": "黎曼猜想被AI证明了？25万页证明“作者栏”该写谁&nbsp;&nbsp;科学网—新闻AI攻克黎曼猜想，给了人类好几个想不到 | 新京报专栏&nbsp;&nbsp;新浪新闻_手机新浪网“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页&nbsp;&nbsp;华尔街见闻Lean官方认证、马斯克转发！Claude参与的黎曼猜想证明",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "6b5b10c2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "6b5b10c2",
+          "source": "Google News (中国)",
+          "title": "黎曼猜想被AI证明了？25万页证明“作者栏”该写谁 - 科学网—新闻",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJTU05TGEwU2tIZ21BcXdBUVBoc2wzMlk3QmtwbldTSXhxa0lLb0E1WVphU1ZSZWlfeFpxdE50MmprNHNya09uN3hSb2h4UFhIOXpLVkNMLWhCaUo2OW1nekYtbEJpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T12:45:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T12:45:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "12b3a72d",
+      "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温 - 中国新闻网",
+      "summary": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温&nbsp;&nbsp;中国新闻网第二艘国产大型邮轮首航 激发海洋消费新活力&nbsp;&nbsp;央视网“爱达·花城号”开启商业首航 释放上下游需求助推本土供应链建设&nbsp;&nbsp;中国日报网今日开启商业首航！“爱达·花城号”最新乘船攻略来了&nbsp;&nbsp;浙江在线14.19万吨海上巨无霸！第二艘国产大型邮轮爱达·花城号今日商业首",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "44c43912"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "44c43912",
+          "source": "Google News (中国)",
+          "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温 - 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjI0UmFFWW1GYlVwcjNsY3lvNmdyTTgwTHl6cHJ4a2JQdTVCZG5LTHZaRHdvWmlHUVdJeC04N0VST1pXOFhKbDh3bkF3eXFZektjcVNuVmUwWUdCd3cyUThQdWwtU2QyRWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T12:45:25+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T12:45:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7fcab95b",
+      "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+      "summary": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "b003428d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "b003428d",
+          "source": "NYTimes World",
+          "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+          "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+          "published_at": "2026-11-22T12:29:33+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T12:29:33+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c1906736",
+      "title": "尹弘当选中共江西省委书记 - 新华网",
+      "summary": "尹弘当选中共江西省委书记&nbsp;&nbsp;新华网尹弘看望省第十六次党代会工作人员和新闻记者&nbsp;&nbsp;新浪财经_金融信息服务商新一届江西省委常委亮相&nbsp;&nbsp;新浪财经_金融信息服务商以产业之进，筑上高之强&nbsp;&nbsp;人民网－江西频道江西省财政厅厅长许南吉已升任江西省委常委&nbsp;&nbsp;新浪财经_金融信息服务商",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "4b43c1a1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "4b43c1a1",
+          "source": "Google News (中国)",
+          "title": "尹弘当选中共江西省委书记 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWNUQ1JkODdOQV9uMFNRcEg2OEZMZzZrVGVjSXFhd05PaWF6MXRUNVM0Mkpmc2NGaDVQMVhVVmVKem1LZWNMa0RDMF9SSURhUWRhZjVwWUU3MDVFcG1jQlhOTm1mRDctVmpwSWJhLXR6akdhT05UOGNXcm1EQzk3SVIycw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T11:52:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T11:52:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ff184a2",
+      "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一 - 中国新闻网",
+      "summary": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一&nbsp;&nbsp;中国新闻网分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利&nbsp;&nbsp;BBC普京扬眉吐气，欧洲妒火中烧&nbsp;&nbsp;凤凰网一见·两个维度看中俄美元首历史性会晤&nbsp;&nbsp;新浪新闻_手机新浪网一周军评：都有原子弹协议不放弹&nbsp;&nbsp;观察者",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "d29d2bea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "d29d2bea",
+          "source": "Google News (中国)",
+          "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一 - 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQzhzRTVndTV1QjA2cjYwNG1FNjRVZXlhMG84MDBNX3VqdE1iU1lVSWpteG1aNTNMS2RrdUlINjZRRGY3c2VtUmhBVjlwNF8tbVlGamxsb0I4aDlyZ1hYTUVYQk9SXzdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T11:12:46+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T11:12:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ec1c869",
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+      "article_ids": [
+        "589136bc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "589136bc",
+          "source": "NYTimes World",
+          "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+          "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+          "published_at": "2026-11-22T11:03:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T11:03:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b1eda6c0",
+      "title": "特蕾莎·梅喊话伯纳姆：接受脱欧，翻篇向前 - 观察者网",
+      "summary": "特蕾莎·梅喊话伯纳姆：接受脱欧，翻篇向前&nbsp;&nbsp;观察者网热点问答丨“脱欧”十年后，英国和欧盟谈了什么--国际&nbsp;&nbsp;人民网国际观察丨英欧峰会：合作升温 “心结”难解&nbsp;&nbsp;新华网英欧重修旧好，卡在一道中国题，脱欧十年，英国发现两头都不讨好&nbsp;&nbsp;凤凰网英国首相放话真心想重回欧盟，可脱欧容易回来难，卡点远不止民意&nbsp;&nbsp;",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "07abf047"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "07abf047",
+          "source": "Google News (中国)",
+          "title": "特蕾莎·梅喊话伯纳姆：接受脱欧，翻篇向前 - 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZGo2OG9XQm1rV0JtV1R0VDlLX05vSXhfRmdUcER5QVY2eDFkaTJmWHBEWFdIUzlSbXRfVWg0TTFybUZzMUFBZG5fdU5fLVVRdXdXMDU4VlRqaXhTUDVScXBiVFQ1S0hkQnZTVmhXcFktdzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T10:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T10:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e708c1aa",
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0c28ce07"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0c28ce07",
+          "source": "NYTimes World",
+          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+          "published_at": "2026-11-22T10:16:39+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T10:16:39+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "65f38c9a",
+      "title": "2026国际产学研用合作会议在渝开幕 达成19项合作 - Sohu",
+      "summary": "2026国际产学研用合作会议在渝开幕 达成19项合作&nbsp;&nbsp;Sohu在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8cd585cf"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8cd585cf",
+          "source": "Google News (中国)",
+          "title": "2026国际产学研用合作会议在渝开幕 达成19项合作 - Sohu",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkNyQ1JuRmFpRkdNdi11bHBaTFE1Q0dUbzVjd1JVMjd4RkhrZFBNZzMwXzdaTTJMQUFnRndtbFhrX0dJZ0JaZWJkeWFkRXg4TlEzUUhpWmpkclNYT053ajZOc2l2MkRUUnhVN21xRWc0ckNwSmFzWkItZXFGejJNQ2tjWG40eW5w?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T09:52:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T09:52:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8aab39ce",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "article_ids": [
+        "7aee7d86"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7aee7d86",
+          "source": "BBC World",
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T09:20:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T09:20:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f355f2b4",
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "c1bec636"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "c1bec636",
+          "source": "NYTimes World",
+          "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+          "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+          "published_at": "2026-11-22T08:35:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T08:35:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "825e7e1b",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+      "article_ids": [
+        "75589a11"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "75589a11",
+          "source": "BBC World",
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T07:12:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T07:12:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b45108c8",
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f207c43f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f207c43f",
+          "source": "NYTimes World",
+          "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+          "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+          "published_at": "2026-11-22T06:58:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T06:58:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ca3448c",
+      "title": "多国领导人表态恪守一个中国原则 国际共识稳固 - 中华军事",
+      "summary": "多国领导人表态恪守一个中国原则 国际共识稳固&nbsp;&nbsp;中华军事特朗普、李在明、黄循财、阿努廷、藤森庆子、辛鲍姆、阿尔巴尼斯、普拉博沃、马拉佩等多位外国领导人，均公开重申坚持一个中国原则的立场&nbsp;&nbsp;凤凰网时政新闻眼丨“深圳之约”圆满收官，亚太合作留下哪些鲜明印记？&nbsp;&nbsp;新浪新闻_手机新浪网【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "abd810e0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "abd810e0",
+          "source": "Google News (中国)",
+          "title": "多国领导人表态恪守一个中国原则 国际共识稳固 - 中华军事",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zN3JweUpHb1A4SGlVbmdTME03MTVlX1BkeHRVN2NZd29WRWhNSkpkYVVjUFNPWlhudEhwMmZOWVV5WE50Wnh5NjFGMlV1MUprdlFLYTFFVnI5NXBzbi1OM0pUQm1Eal9jY05SNS1mbm4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T01:58:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T01:58:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "bf1bc508",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "28bd4012"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "28bd4012",
+          "source": "NYTimes World",
+          "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+          "published_at": "2026-11-22T01:56:16+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T01:56:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0d39b880",
+      "title": "【学习小组】习近平：看五十年的中国就来深圳 - 人民网",
+      "summary": "【学习小组】习近平：看五十年的中国就来深圳&nbsp;&nbsp;人民网学习进行时｜“深圳的成功，给人们许多启示”&nbsp;&nbsp;新华网中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展&nbsp;&nbsp;中国青年网共享中国式现代化机遇&nbsp;&nbsp;新浪新闻_手机新浪网独家视频丨习近平：看五十年的中国来深圳- 中国日报网&nbsp;&nbsp;China Dai",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "10e72cb4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "10e72cb4",
+          "source": "Google News (中国)",
+          "title": "【学习小组】习近平：看五十年的中国就来深圳 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNjJwcUUzTTQ1RHVBRTZ4aEF2cWRIRHcySjdqeXdxUjA0M3RrU2xvXzVaVmJGTl9SNUo2SEM5ei1YSjJNM0dZRGpMc2o4MDlBcEhZelE2NVNiN2tJMlNTSTdlcUdoNnF0OHh3aUJ0VkhIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-22T01:40:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T01:40:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c9efe0dc",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "article_ids": [
+        "81f00345"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "81f00345",
+          "source": "BBC World",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T01:25:03+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T01:25:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0720e9e3",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "article_ids": [
+        "2cc7b750"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "2cc7b750",
+          "source": "BBC World",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T00:10:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-22T00:10:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c9ecabe",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+      "article_ids": [
+        "29c8b902"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "29c8b902",
+          "source": "BBC World",
+          "title": "Lock of former US President George Washington's hair sells for $4,000",
+          "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-21T22:01:19+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T22:01:19+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a0c3739",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "e32b819c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "e32b819c",
+          "source": "The Verge",
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "published_at": "2026-11-21T21:59:31+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:59:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c492785",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "article_ids": [
+        "f8ce89f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f8ce89f0",
+          "source": "TechCrunch",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "published_at": "2026-11-21T21:37:10+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3c492785",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "article_ids": [
+        "f8ce89f0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f8ce89f0",
+          "source": "TechCrunch AI",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "published_at": "2026-11-21T21:37:10+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b5df5da5",
+      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "e7fbdfc0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "e7fbdfc0",
+          "source": "NYTimes World",
+          "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+          "published_at": "2026-11-21T21:12:24+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:12:24+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9687c3bc",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "article_ids": [
+        "6572e082"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6572e082",
+          "source": "TechCrunch",
+          "title": "A tale of two Nvidias",
+          "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "published_at": "2026-11-21T21:07:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9687c3bc",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "article_ids": [
+        "6572e082"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "6572e082",
+          "source": "TechCrunch AI",
+          "title": "A tale of two Nvidias",
+          "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "published_at": "2026-11-21T21:07:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8a9f23c1",
+      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "49b742f9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "49b742f9",
+          "source": "NYTimes World",
+          "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+          "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+          "published_at": "2026-11-21T20:35:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T20:35:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "931b87d7",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0a2e9e26"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0a2e9e26",
+          "source": "The Verge",
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "published_at": "2026-11-21T20:03:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "931b87d7",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0a2e9e26"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "0a2e9e26",
+          "source": "The Verge AI",
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "published_at": "2026-11-21T20:03:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9ff09003",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "article_ids": [
+        "6a6fe18f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6a6fe18f",
+          "source": "TechCrunch",
+          "title": "Trump says reported FBI database hack is ‘not good’",
+          "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "published_at": "2026-11-21T18:44:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-21T18:44:53+00:00",
+      "is_merged": false
+    }
+  ]
+}
