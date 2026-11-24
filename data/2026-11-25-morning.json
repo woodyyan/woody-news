@@ -1,0 +1,2471 @@
+{
+  "date": "2026-11-25",
+  "edition": "morning",
+  "updated_at": "2026-11-25T05:46:21.877146+08:00",
+  "article_count": 60,
+  "cluster_count": 60,
+  "articles": [
+    {
+      "id": "a50411e7",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "title_original": "GTA VI PC recompilation project shut down by Take-Two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished a",
+      "summary_original": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T21:39:14+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "da94fa50",
+      "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+      "title_original": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+      "summary": "The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.",
+      "summary_original": "The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T21:36:22+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "84cfd1b9",
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_original": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "summary_original": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "84cfd1b9",
+      "title": "Even the best AI agents struggle with everyday life",
+      "title_original": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "summary_original": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bc914d95",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title_original": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "summary_original": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bc914d95",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title_original": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "summary_original": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d8811f3a",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title_original": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "summary_original": "The verdict follows a months-long trial in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T21:32:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9c24769a",
+      "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+      "title_original": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+      "summary": "Bond traders are racing to hedge the risk that the Federal Reserve’s interest-rate hikes and the stock market’s slide will significantly slow the US economy, forcing the central bank to shift back to ",
+      "summary_original": "Bond traders are racing to hedge the risk that the Federal Reserve’s interest-rate hikes and the stock market’s slide will significantly slow the US economy, forcing the central bank to shift back to easing monetary policy as soon as late next year.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T21:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f0afb8ac",
+      "title": "Escalation in Iran Appears As the Default",
+      "title_original": "Escalation in Iran Appears As the Default",
+      "summary": "The US and Israel assassinated Supreme Leader Ali Khamenei, the only man with the authority to force an unpalatable compromise like a deal with Washington on regime hardliners. That leaves escalation ",
+      "summary_original": "The US and Israel assassinated Supreme Leader Ali Khamenei, the only man with the authority to force an unpalatable compromise like a deal with Washington on regime hardliners. That leaves escalation as the default, Bloomberg Opinion columnist Marc Champion says. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T21:27:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "186bc3b6",
+      "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+      "title_original": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "summary_original": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T21:21:25+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f2826368",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title_original": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "summary_original": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f2826368",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title_original": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "summary_original": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a0fd6f5c",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "title_original": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "summary_original": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T21:19:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "375151ea",
+      "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+      "title_original": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+      "summary": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+      "summary_original": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T21:17:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "17ddb721",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "title_original": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential ",
+      "summary_original": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T21:09:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1d2d0947",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "title_original": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "summary_original": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T21:09:04+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a4c005d0",
+      "title": "TikTok was down",
+      "title_original": "TikTok was down",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my ",
+      "summary_original": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T20:27:27+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "50d13a47",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "title_original": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "summary_original": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T20:12:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a6b90ed4",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "title_original": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+      "summary_original": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T20:02:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a6b90ed4",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "title_original": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+      "summary_original": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-24T20:02:03+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "206d4324",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "title_original": "The clock is running out for America’s most contentious spying law",
+      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass milit",
+      "summary_original": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T20:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "04aa3a87",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "title_original": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "summary_original": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T19:18:15+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "eb757044",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "title_original": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "summary_original": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T19:10:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "658c003c",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "title_original": "Amazon is knocking almost $50 off six months of Apple TV",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US.",
+      "summary_original": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T19:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7364fa19",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "title_original": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN pane",
+      "summary_original": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it manually [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T18:44:57+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "4b3a52f7",
+      "title": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+      "title_original": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+      "summary": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return",
+      "category": "business",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-24T18:35:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d52b76df",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_original": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "summary_original": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d52b76df",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_original": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "summary_original": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ea3da84d",
+      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "title_original": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "summary_original": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T18:25:38+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8c132391",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "title_original": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+      "summary_original": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T18:15:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8c132391",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "title_original": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+      "summary_original": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-24T18:15:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b0bc9e0d",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "title_original": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "summary_original": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T18:07:46+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "281e7b0e",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_original": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "summary_original": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "281e7b0e",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "title_original": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "summary_original": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "56ac4746",
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "title_original": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "summary_original": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-app-store-GettyImages-2262056893.jpg?w=1024",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T17:44:34+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0e2f2977",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "title_original": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you foc",
+      "summary_original": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve tested for up to 60 percent [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/testing-matic-cues-gesture-control.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T17:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "513dfbf7",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "title_original": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "summary_original": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/harbinger.jpeg?resize=1200,799",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T17:29:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31bde7b6",
+      "title": "Tidal will start banning AI-generated music next month",
+      "title_original": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "summary_original": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-24T17:17:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "31bde7b6",
+      "title": "Tidal will start banning AI-generated music next month",
+      "title_original": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "summary_original": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-24T17:17:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6e7150d9",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "title_original": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "summary_original": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6e7150d9",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "title_original": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "summary_original": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bd04b1fb",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "title_original": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "summary_original": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T16:49:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "70e4e668",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_original": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "summary_original": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "category": "tech",
+      "source": "TechCrunch",
+      "lang": "en",
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "70e4e668",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "title_original": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "summary_original": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a3c54143",
+      "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "title_original": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "summary": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
+      "summary_original": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T16:31:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a57e0ea4",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "title_original": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signatur",
+      "summary_original": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-24T16:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a5613aba",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "title_original": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "summary_original": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T16:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "75eb28b2",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an emai",
+      "summary_original": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "category": "ai",
+      "source": "The Verge AI",
+      "lang": "en",
+      "published_at": "2026-11-24T16:09:23+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b6d56875",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "title_original": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "summary_original": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T16:02:37+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "de3bc194",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "summary_original": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+      "image_validated": true,
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "category": "ai",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published_at": "2026-11-24T15:51:07+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "7d8af312",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "title_original": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "summary_original": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T15:35:53+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "302b651a",
+      "title": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+      "title_original": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+      "summary": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+      "summary_original": null,
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump",
+      "category": "ai",
+      "source": "The Information",
+      "lang": "en",
+      "published_at": "2026-11-24T15:30:47+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a690ad61",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "title_original": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "summary_original": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-24T15:17:28+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ba625c17",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "title_original": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
+      "summary_original": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-11-24T15:15:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "240b843b",
+      "title": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+      "title_original": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+      "summary": "The Brazilian real gained on Tuesday on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the cu",
+      "summary_original": "The Brazilian real gained on Tuesday on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the currency down since his surprise re-election.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-24T15:12:01+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "de632a42",
+      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "title_original": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+      "summary_original": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T14:42:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f36f82e3",
+      "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "title_original": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "summary": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "summary_original": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T14:13:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d109fa4e",
+      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "title_original": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+      "summary_original": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-indonesia-fire-02-hwkg/24int-indonesia-fire-02-hwkg-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T13:12:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "22b4aa0d",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "title_original": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow",
+      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/06/MIT_Gamification_Badges-thumb.png?w=840",
+      "image_validated": true,
+      "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "category": "ai",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "6fdf0a6c",
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "title_original": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "summary": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+      "summary_original": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-24T12:34:52+00:00",
+      "edition": "morning"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "da93a530",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished a",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a50411e7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a50411e7",
+          "source": "The Verge",
+          "title": "GTA VI PC recompilation project shut down by Take-Two",
+          "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+          "published_at": "2026-11-24T21:39:14+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:39:14+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a9be88a",
+      "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+      "summary": "The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "da94fa50"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "da94fa50",
+          "source": "Bloomberg",
+          "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+          "published_at": "2026-11-24T21:36:22+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:36:22+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "37029ba1",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "article_ids": [
+        "84cfd1b9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "84cfd1b9",
+          "source": "TechCrunch",
+          "title": "Even the best AI agents struggle with everyday life",
+          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "published_at": "2026-11-24T21:33:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "37029ba1",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "article_ids": [
+        "84cfd1b9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "84cfd1b9",
+          "source": "TechCrunch AI",
+          "title": "Even the best AI agents struggle with everyday life",
+          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "published_at": "2026-11-24T21:33:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "227d2543",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "article_ids": [
+        "bc914d95"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "bc914d95",
+          "source": "TechCrunch",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "published_at": "2026-11-24T21:32:38+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "227d2543",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "article_ids": [
+        "bc914d95"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "bc914d95",
+          "source": "TechCrunch AI",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "published_at": "2026-11-24T21:32:38+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8d6f7287",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "article_ids": [
+        "d8811f3a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "d8811f3a",
+          "source": "BBC World",
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T21:32:34+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:32:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "410efca3",
+      "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+      "summary": "Bond traders are racing to hedge the risk that the Federal Reserve’s interest-rate hikes and the stock market’s slide will significantly slow the US economy, forcing the central bank to shift back to ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "9c24769a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "9c24769a",
+          "source": "Bloomberg",
+          "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
+          "published_at": "2026-11-24T21:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7d01b315",
+      "title": "Escalation in Iran Appears As the Default",
+      "summary": "The US and Israel assassinated Supreme Leader Ali Khamenei, the only man with the authority to force an unpalatable compromise like a deal with Washington on regime hardliners. That leaves escalation ",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f0afb8ac"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f0afb8ac",
+          "source": "Bloomberg",
+          "title": "Escalation in Iran Appears As the Default",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
+          "published_at": "2026-11-24T21:27:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:27:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1df79e66",
+      "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "186bc3b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "186bc3b6",
+          "source": "Bloomberg",
+          "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
+          "published_at": "2026-11-24T21:21:25+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:21:25+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b2307332",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "article_ids": [
+        "f2826368"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "f2826368",
+          "source": "TechCrunch",
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "published_at": "2026-11-24T21:19:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b2307332",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "article_ids": [
+        "f2826368"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "f2826368",
+          "source": "TechCrunch AI",
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "published_at": "2026-11-24T21:19:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5add6864",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "article_ids": [
+        "a0fd6f5c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a0fd6f5c",
+          "source": "BBC World",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T21:19:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:19:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2cf97930",
+      "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+      "summary": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "375151ea"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "375151ea",
+          "source": "Bloomberg",
+          "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
+          "published_at": "2026-11-24T21:17:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:17:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "af146680",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential ",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "17ddb721"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "17ddb721",
+          "source": "The Verge",
+          "title": "The Verge’s 2026 holiday gift guide for moms",
+          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+          "published_at": "2026-11-24T21:09:59+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:09:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "842b7abe",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
+      "article_ids": [
+        "1d2d0947"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "1d2d0947",
+          "source": "TechCrunch",
+          "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+          "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+          "published_at": "2026-11-24T21:09:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T21:09:04+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a8c84d4d",
+      "title": "TikTok was down",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my ",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a4c005d0"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a4c005d0",
+          "source": "The Verge",
+          "title": "TikTok was down",
+          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "published_at": "2026-11-24T20:27:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T20:27:27+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3a2aa50b",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "50d13a47"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "50d13a47",
+          "source": "NYTimes World",
+          "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+          "published_at": "2026-11-24T20:12:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T20:12:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b04cbca",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a6b90ed4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "a6b90ed4",
+          "source": "The Verge",
+          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "published_at": "2026-11-24T20:02:03+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T20:02:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7b04cbca",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a6b90ed4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a6b90ed4",
+          "source": "The Verge AI",
+          "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "published_at": "2026-11-24T20:02:03+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T20:02:03+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7078705c",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass milit",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "206d4324"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "206d4324",
+          "source": "The Verge",
+          "title": "The clock is running out for America’s most contentious spying law",
+          "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+          "published_at": "2026-11-24T20:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T20:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "dfeebe79",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "04aa3a87"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "04aa3a87",
+          "source": "NYTimes World",
+          "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+          "published_at": "2026-11-24T19:18:15+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T19:18:15+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "71206a38",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+      "article_ids": [
+        "eb757044"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "eb757044",
+          "source": "BBC World",
+          "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+          "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T19:10:31+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T19:10:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2ddf47bd",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US.",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "658c003c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "658c003c",
+          "source": "The Verge",
+          "title": "Amazon is knocking almost $50 off six months of Apple TV",
+          "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+          "published_at": "2026-11-24T19:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T19:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7902c757",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN pane",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "7364fa19"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "7364fa19",
+          "source": "The Verge",
+          "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+          "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+          "published_at": "2026-11-24T18:44:57+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:44:57+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a635ce5",
+      "title": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+      "summary": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "4b3a52f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "4b3a52f7",
+          "source": "The Information",
+          "title": "Jensen Huang Apologizes to Employees and Says He’s in Therapy",
+          "link": "https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return",
+          "published_at": "2026-11-24T18:35:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:35:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee8bcd62",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "article_ids": [
+        "d52b76df"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "d52b76df",
+          "source": "TechCrunch",
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "published_at": "2026-11-24T18:30:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ee8bcd62",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "article_ids": [
+        "d52b76df"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "d52b76df",
+          "source": "TechCrunch AI",
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "published_at": "2026-11-24T18:30:42+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "faa5b0bb",
+      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ea3da84d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ea3da84d",
+          "source": "NYTimes World",
+          "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+          "published_at": "2026-11-24T18:25:38+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:25:38+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "908b471f",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "article_ids": [
+        "8c132391"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "8c132391",
+          "source": "The Verge",
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "published_at": "2026-11-24T18:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "908b471f",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.001873779297,0,79.998126220703,100",
+      "article_ids": [
+        "8c132391"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "8c132391",
+          "source": "The Verge AI",
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "published_at": "2026-11-24T18:15:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:15:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5d94e135",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "article_ids": [
+        "b0bc9e0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "b0bc9e0d",
+          "source": "BBC World",
+          "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T18:07:46+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:07:46+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8daab263",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "article_ids": [
+        "281e7b0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "281e7b0e",
+          "source": "TechCrunch",
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "published_at": "2026-11-24T18:02:59+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8daab263",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "article_ids": [
+        "281e7b0e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "281e7b0e",
+          "source": "TechCrunch AI",
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "published_at": "2026-11-24T18:02:59+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "57e35436",
+      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-app-store-GettyImages-2262056893.jpg?w=1024",
+      "article_ids": [
+        "56ac4746"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "56ac4746",
+          "source": "TechCrunch",
+          "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+          "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+          "published_at": "2026-11-24T17:44:34+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:44:34+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5a493cfb",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you foc",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/testing-matic-cues-gesture-control.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "0e2f2977"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "0e2f2977",
+          "source": "The Verge",
+          "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+          "published_at": "2026-11-24T17:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a4457526",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/harbinger.jpeg?resize=1200,799",
+      "article_ids": [
+        "513dfbf7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "513dfbf7",
+          "source": "TechCrunch",
+          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+          "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+          "published_at": "2026-11-24T17:29:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:29:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1431fb6c",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "31bde7b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "31bde7b6",
+          "source": "The Verge",
+          "title": "Tidal will start banning AI-generated music next month",
+          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "published_at": "2026-11-24T17:17:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:17:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "1431fb6c",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "31bde7b6"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "31bde7b6",
+          "source": "The Verge AI",
+          "title": "Tidal will start banning AI-generated music next month",
+          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "published_at": "2026-11-24T17:17:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:17:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ca9df120",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "article_ids": [
+        "6e7150d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "6e7150d9",
+          "source": "TechCrunch",
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "published_at": "2026-11-24T17:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ca9df120",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "article_ids": [
+        "6e7150d9"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "6e7150d9",
+          "source": "TechCrunch AI",
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "published_at": "2026-11-24T17:00:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d2ab63e",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "article_ids": [
+        "bd04b1fb"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bd04b1fb",
+          "source": "BBC World",
+          "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+          "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T16:49:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:49:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce21c10b",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "category": "tech",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "article_ids": [
+        "70e4e668"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "id": "70e4e668",
+          "source": "TechCrunch",
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "published_at": "2026-11-24T16:46:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ce21c10b",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "article_ids": [
+        "70e4e668"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "70e4e668",
+          "source": "TechCrunch AI",
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "published_at": "2026-11-24T16:46:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "91260b30",
+      "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "summary": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-UK-ROYALS-BREAK-IN-bbbb/24int-UK-ROYALS-BREAK-IN-bbbb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "a3c54143"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "a3c54143",
+          "source": "NYTimes World",
+          "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+          "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+          "published_at": "2026-11-24T16:31:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:31:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8b544606",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signatur",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "a57e0ea4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "a57e0ea4",
+          "source": "The Verge AI",
+          "title": "Jensen Huang deepfakes are the hot new AI slop",
+          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+          "published_at": "2026-11-24T16:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "50f52477",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800",
+      "article_ids": [
+        "a5613aba"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "a5613aba",
+          "source": "TechCrunch AI",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "published_at": "2026-11-24T16:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90b692af",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an emai",
+      "category": "ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "75eb28b2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge AI"
+      ],
+      "articles": [
+        {
+          "id": "75eb28b2",
+          "source": "The Verge AI",
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "published_at": "2026-11-24T16:09:23+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:09:23+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "d4d3a6ed",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+      "article_ids": [
+        "b6d56875"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "b6d56875",
+          "source": "TechCrunch AI",
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "published_at": "2026-11-24T16:02:37+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T16:02:37+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "53238f7e",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "category": "ai",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+      "article_ids": [
+        "de3bc194"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "TechCrunch AI"
+      ],
+      "articles": [
+        {
+          "id": "de3bc194",
+          "source": "TechCrunch AI",
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "published_at": "2026-11-24T15:51:07+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:51:07+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "83b76fa2",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+      "article_ids": [
+        "7d8af312"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "7d8af312",
+          "source": "BBC World",
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T15:35:53+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:35:53+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4b5dd305",
+      "title": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+      "summary": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+      "category": "ai",
+      "image": null,
+      "article_ids": [
+        "302b651a"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Information"
+      ],
+      "articles": [
+        {
+          "id": "302b651a",
+          "source": "The Information",
+          "title": "Anthropic Falls Below IPO Price Amid Broader Tech Slump",
+          "link": "https://www.theinformation.com/briefings/anthropic-falls-ipo-price-amid-broader-tech-slump",
+          "published_at": "2026-11-24T15:30:47+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:30:47+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cd62b7d8",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+      "article_ids": [
+        "a690ad61"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a690ad61",
+          "source": "BBC World",
+          "title": "Land mine casualties soar in Syria, two years after war",
+          "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T15:17:28+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:17:28+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4e96bb25",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+      "article_ids": [
+        "ba625c17"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "ba625c17",
+          "source": "MIT Technology Review",
+          "title": "Raising the stakes for enterprise networks with AI modernization",
+          "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+          "published_at": "2026-11-24T15:15:16+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:15:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "312f1111",
+      "title": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+      "summary": "The Brazilian real gained on Tuesday on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the cu",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "240b843b"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "240b843b",
+          "source": "Bloomberg",
+          "title": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+          "published_at": "2026-11-24T15:12:01+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T15:12:01+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "786cd742",
+      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "de632a42"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "de632a42",
+          "source": "NYTimes World",
+          "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+          "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+          "published_at": "2026-11-24T14:42:31+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T14:42:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f0ddf25a",
+      "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "summary": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/world/24int-france-trial-aaa/24int-france-trial-aaa-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "f36f82e3"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "f36f82e3",
+          "source": "NYTimes World",
+          "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+          "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+          "published_at": "2026-11-24T14:13:17+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T14:13:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e113362f",
+      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-indonesia-fire-02-hwkg/24int-indonesia-fire-02-hwkg-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "d109fa4e"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "d109fa4e",
+          "source": "NYTimes World",
+          "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+          "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+          "published_at": "2026-11-24T13:12:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T13:12:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "90021a6c",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas pow",
+      "category": "ai",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/06/MIT_Gamification_Badges-thumb.png?w=840",
+      "article_ids": [
+        "22b4aa0d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "articles": [
+        {
+          "id": "22b4aa0d",
+          "source": "MIT Technology Review",
+          "title": "The Download: AI’s gas power boom and a consciousness reality check",
+          "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+          "published_at": "2026-11-24T13:10:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "a460a9f8",
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "summary": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+      "category": "world",
+      "image": null,
+      "article_ids": [
+        "6fdf0a6c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "6fdf0a6c",
+          "source": "NYTimes World",
+          "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+          "published_at": "2026-11-24T12:34:52+00:00"
+        }
+      ],
+      "published_at": "2026-11-24T12:34:52+00:00",
+      "is_merged": false
+    }
+  ]
+}
