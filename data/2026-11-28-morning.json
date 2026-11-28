@@ -1,10 +1,415 @@
 {
   "date": "2026-11-28",
   "edition": "morning",
-  "updated_at": "2026-11-28T04:29:52.004633+08:00",
+  "updated_at": "2026-11-28T13:38:07.804208+08:00",
   "article_count": 60,
   "cluster_count": 60,
   "articles": [
+    {
+      "id": "ee8595d4",
+      "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+      "title_original": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+      "summary": "Through weeks of antigovernment unrest, hard-right activists have fought with left-wing counterparts in at least 10 towns, according to national and regional leaders.",
+      "summary_original": "Through weeks of antigovernment unrest, hard-right activists have fought with left-wing counterparts in at least 10 towns, according to national and regional leaders.",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-28T05:01:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "0c86633d",
+      "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+      "title_original": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+      "summary": "Prime Minister Pedro Sánchez, a staunch critic of President Trump, faces an uphill task to overcome a right-wing challenge in the national election on Sunday.",
+      "summary_original": "Prime Minister Pedro Sánchez, a staunch critic of President Trump, faces an uphill task to overcome a right-wing challenge in the national election on Sunday.",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-28T05:01:09+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5ba98baa",
+      "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+      "title_original": "FIFA May Scrap the Peace Prize It Gave to Trump",
+      "summary": "Gianni Infantino, the global soccer body’s leader, has stirred concern over his ties to President Trump. Now FIFA is rethinking the award he gave Mr. Trump last year.",
+      "summary_original": "Gianni Infantino, the global soccer body’s leader, has stirred concern over his ties to President Trump. Now FIFA is rethinking the award he gave Mr. Trump last year.",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-trump-fifa-prize-zjpm/28int-trump-fifa-prize-zjpm-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-28T05:01:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "c68f3777",
+      "title": "珠海航展歼-35A将面向观众近距离静态展示 - 联合早报",
+      "title_original": null,
+      "summary": "珠海航展歼-35A将面向观众近距离静态展示&nbsp;&nbsp;联合早报歼-20A将首次亮相中国航展 “A”代表哪些升级？&nbsp;&nbsp;新华网歼-35A将首次真机进馆展出，面向全球观众近距离静态展示_手机新浪网&nbsp;&nbsp;新浪财经_金融信息服务商陆军多款现役主战装备将亮相第十六届中国航展&nbsp;&nbsp;中国网新闻中心以前只能抬头看它飞 这次能凑到跟前看！歼-35A真",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JLTFHTWM4N0lYemR1X2ZhQlI3UjB2cnk0R24wSUdMMVdCLWFvTDEwbloxLTRVeHRaU1h0dzVmWWJkU3RwRzRXN3FHREU4R202RlkzVGNkYnU2WU16c2kyLUE3c0xodUFhTVpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-28T04:47:58+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "a45bd669",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "title_original": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "summary_original": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-28T04:19:16+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "be6b98f7",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "title_original": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "summary_original": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-28T04:13:45+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "d9da6be2",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "title_original": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512G",
+      "summary_original": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-28T03:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "f3410dc4",
+      "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+      "title_original": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+      "summary": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the C",
+      "summary_original": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-28T03:01:44+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9409604c",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "title_original": "We found 60-odd Black Friday deals we love for $100 or less",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take a",
+      "summary_original": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-28T01:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "9184a73c",
+      "title": "省领导宣讲党的二十届五中全会精神 - 辽宁省人民政府",
+      "title_original": null,
+      "summary": "省领导宣讲党的二十届五中全会精神&nbsp;&nbsp;辽宁省人民政府市学习贯彻五中全会精神宣讲团深入各区各系统宣讲&nbsp;&nbsp;北京市人民政府门户网站焦点访谈丨时代答卷——开创管党治党 兴党强党新局面&nbsp;&nbsp;凤凰网江西：以实干实绩推动全会精神落地见效&nbsp;&nbsp;Sohu辅导报告：生动·精彩·解渴&nbsp;&nbsp;最高人民法院知识产权法庭",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDlPNFVSUnIySGZnTWhvdVMzNzljMUxwNkgtaENTUDNweUhISWpCNlBZS2I1dG9KS0xoU3h4SmRpYmZsVnctZlhPc2g2VnpUdU1CWGF5WktoRnQ4d2FEd0lvMzU1M0VmanZ3MjBSVC1ZemtISllWWGtlRDN5bkgzRFV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-28T01:11:54+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "bcd9c26d",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "title_original": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "summary_original": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+      "image_validated": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "category": "world",
+      "source": "BBC World",
+      "lang": "en",
+      "published_at": "2026-11-28T00:56:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "8f72be27",
+      "title": "总书记走进百姓家 | 让伊春老林区焕发青春活力 - 人民网",
+      "title_original": null,
+      "summary": "总书记走进百姓家 | 让伊春老林区焕发青春活力&nbsp;&nbsp;人民网在Google 新闻上查看更多头条新闻和观点",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VUW95czNnTEVNNm5XVUZ2aUNBWVpMWW1Da1JyZjlqejRqR3dUQXpISDk4bFAxc2VUUmlMRFB0UDVIOTBWRDVmbVh5WVdNZXdSRGNNMnl5Vy1iTVg0NERGSUVvdTFqZlBjYVNCOUo4NGh1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-28T00:43:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b318b594",
+      "title": "福建山海协作稳步推进 - 中国经济网",
+      "title_original": null,
+      "summary": "福建山海协作稳步推进&nbsp;&nbsp;中国经济网央媒看福建丨经济日报头版重要位置刊发：福建山海协作稳步推进&nbsp;&nbsp;新浪财经_金融信息服务商奋勇争先！“关键词”里的福建脉动&nbsp;&nbsp;新浪财经_金融信息服务商郭宁宁参加省直第一代表团和漳州市代表团审议&nbsp;&nbsp;央视网福建省第十二次党代会｜福建下五年这样提升民生含“福”量&nbsp;&nbsp;新华网",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uelMyaDdHZTh3dUhuX09BTXBESTB5LVdsMjZlOVFKNnlIYU04RWhlUEZYUTU3NS1tT2FBV1Q0QzRaNEZEUWhUZjctVy1aWF96aFB2bWpBLWFzUXg3LVdJdm1pdnBzR3NjYkJSc3A2bkh3SDdfRDQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-28T00:06:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "32b1b347",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "title_original": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD",
+      "summary_original": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-28T00:02:49+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "310e2a63",
+      "title": "今天白天晴间多云，北风三级左右 - Sohu",
+      "title_original": null,
+      "summary": "今天白天晴间多云，北风三级左右&nbsp;&nbsp;Sohu北京今天风大，明天风也大，周日晴好！下周气温一路下滑_信息提示_首都之窗&nbsp;&nbsp;北京市人民政府门户网站26-11-27 15:15 微博认证：北京市气象局官方微博&nbsp;&nbsp;新浪网北京今日北风相伴，未来两天蓝天续档，冬日暖阳安排上&nbsp;&nbsp;Sohu北京市气象台发布大风蓝色预警信号&nbsp;&n",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnl4eWVoM0ZlU1JNNVhEdEZDTkxuVFpPUm5Odkd5aGhhNlFHVnBsaHc3a0V1dWhqQ1NiWXY5RzA0U2pFT2RNNzhab1Y4ZmVxZlphSmFwWEQ3TTBtWV8wWlZld0ZBb3ZOS1p0WWFEOWxqQVp3dm9URlNSNGQ5OGQ3RG5qYV9QT2o4bUU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-28T00:00:21+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "2a2975f4",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "title_original": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last yea",
+      "summary_original": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-27T23:32:17+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ff65b12f",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "title_original": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4",
+      "summary_original": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-27T23:32:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ca90e78c",
+      "title": "坚定用习近平党建思想统揽指导四川党的建设各项工作 - 四川新闻",
+      "title_original": null,
+      "summary": "坚定用习近平党建思想统揽指导四川党的建设各项工作&nbsp;&nbsp;四川新闻四川部署全面从严治党26项任务 将探索建立群众诉求“一站式”办理平台&nbsp;&nbsp;Sohu中共四川省委十二届十次全会举行&nbsp;&nbsp;人民网－四川频道省委省直机关工委常务副书记彭映梅：守正创新 狠抓落实 全面提高机关党建质量丨全会参会笔记&nbsp;&nbsp;四川新闻全会审议通过《决定》主要有哪些",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hZGppbzQ5aXBXNVFwRUN1aGdJaG5saXl6OXlwX3Rua0pycnhZWUtjTlhGcmNOcVlLYnM5WVVzdFVFZkRtWHFSOTZrTC1JeF9RM0paR2FFM2FKQVRRWjVZSXlFWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-27T23:30:43+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "20f9c73c",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "title_original": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners",
+      "summary_original": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a statement posted on X, Playtronic said that [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/V1-scaled-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-27T23:30:32+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "911c9d76",
+      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "title_original": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding whic",
+      "summary_original": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on your shelf or in a storage binder is so much more fun [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-27T23:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3df5ac78",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "title_original": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable dis",
+      "summary_original": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and [&#8230;]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image_validated": true,
+      "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "category": "tech",
+      "source": "The Verge",
+      "lang": "en",
+      "published_at": "2026-11-27T22:30:00+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "5272b181",
+      "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "title_original": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "summary": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+      "summary_original": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-27T22:29:56+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "b61a3e94",
+      "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+      "title_original": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+      "summary": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring",
+      "summary_original": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family office to a $300 billion enterprise. They also discuss how they navigate building generational wealth and moderating family conflicts. (Source: Bloomberg)",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-27T22:14:41+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "ad10a422",
+      "title": "从河长制看河长治 - 人民日报",
+      "title_original": null,
+      "summary": "从河长制看河长治&nbsp;&nbsp;人民日报多地交出“还水于江河、还景于群众”实践答卷 河湖正成为可感可及的幸福&nbsp;&nbsp;央视网【新思想引领新征程】河湖安澜 碧水长流&nbsp;&nbsp;光明网十年，坚守出来的清澈&nbsp;&nbsp;新浪网全国“民间河湖长”达14万人 全民参与共护河湖&nbsp;&nbsp;Sohu",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51aThsazZjX0kzb2pMMWdnZE1IREVhMlpkRmUybG15MFFRTFpMOEJ1Mm1WT2hJWGY1Y1dhX25EMkpvdWowSnhVdTJKRkRhYVo3UU1Ya1BFcjlxcnMyTXVMNFFkbGxCaGxCUGRhdG1fWHh6Q3piaURpZkJuYVV0bG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-27T21:40:18+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "1bb618f2",
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "title_original": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "summary": "S&amp;P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually ad",
+      "summary_original": "S&amp;P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-27T21:19:31+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "32bd75d4",
+      "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+      "title_original": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+      "summary": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of",
+      "summary_original": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-27T21:05:05+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "3133f982",
+      "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+      "title_original": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+      "summary": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
+      "summary_original": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
+      "image": "https://static01.nyt.com/images/2026/11/27/world/27int-safrica-joburg-mayor/27int-safrica-joburg-mayor-mediumSquareAt3X.jpg",
+      "image_validated": true,
+      "link": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+      "category": "world",
+      "source": "NYTimes World",
+      "lang": "en",
+      "published_at": "2026-11-27T20:51:21+00:00",
+      "edition": "morning"
+    },
     {
       "id": "91c209f1",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
@@ -261,6 +666,21 @@
       "edition": "morning"
     },
     {
+      "id": "afd24ae1",
+      "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+      "title_original": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+      "summary": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+      "summary_original": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+      "image": null,
+      "image_validated": false,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+      "category": "business",
+      "source": "Bloomberg",
+      "lang": "en",
+      "published_at": "2026-11-27T16:37:27+00:00",
+      "edition": "morning"
+    },
+    {
       "id": "f8e8d69c",
       "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
       "title_original": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
@@ -291,6 +711,21 @@
       "edition": "morning"
     },
     {
+      "id": "ac7850ef",
+      "title": "“临甲7号沙龙”聚焦APEC“中国年”成果 - 新华网",
+      "title_original": null,
+      "summary": "“临甲7号沙龙”聚焦APEC“中国年”成果&nbsp;&nbsp;新华网中国为深化亚太合作提供了丰富选择（APEC中国年：开放创新合作） --国际&nbsp;&nbsp;人民网“开放是深圳与生俱来的基因”&nbsp;&nbsp;新浪新闻_手机新浪网为亚太区域合作提供智力支撑&nbsp;&nbsp;中国经济网综研视点｜韦福雷：一批国际合作机构将在深圳设立，“后APEC”时代开启&nbsp;&nbsp",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YnJBcWZjb3kyX3ByNXdNbkdHbTVmS0lPQzZFWjNoY2F0Z0hORE9keXJFandYem5TZk9qSjhGMEVXcHFfM0hBa05XMEV6ekgxWG1uZjA5R01LaXNDTVBRSEd2WjlDMWNVTGw2R0lzMUJOaHhDaUhtMFlvak5IWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-27T15:41:04+00:00",
+      "edition": "morning"
+    },
+    {
       "id": "55a75017",
       "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
       "title_original": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
@@ -318,6 +753,21 @@
       "source": "NYTimes World",
       "lang": "en",
       "published_at": "2026-11-27T15:26:55+00:00",
+      "edition": "morning"
+    },
+    {
+      "id": "10405dfc",
+      "title": "求是网评论员：高举和平利用外层空间旗帜 - 求是",
+      "title_original": null,
+      "summary": "求是网评论员：高举和平利用外层空间旗帜&nbsp;&nbsp;求是巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际&nbsp;&nbsp;人民网外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐&nbsp;&nbsp;央视网神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传&nbsp;&nbsp;中国青年网天宫初体验：48小时，齐尚·阿里经历了什么？&nbsp;&n",
+      "summary_original": null,
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image_validated": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ob1pVelk1dEE0NndUR19nWlBhaDYtZ2JGN2xGWklod2Q5Rjd2OWlxbkdhbktYZ1lhU1RqbnR5XzBVNWZiRHJMakJQRmV6TFNUQ3B1aF8zVnFfWm1CT1FHMkpjekYwNy0wb3pKNlRDTUZXbnFfVDZuQ3BTdTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "category": "china",
+      "source": "Google News (中国)",
+      "lang": "zh",
+      "published_at": "2026-11-27T15:16:29+00:00",
       "edition": "morning"
     },
     {
@@ -454,459 +904,711 @@
       "lang": "en",
       "published_at": "2026-11-27T14:00:00+00:00",
       "edition": "morning"
-    },
-    {
-      "id": "87888e32",
-      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "title_original": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my h",
-      "summary_original": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "image_validated": true,
-      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-      "category": "ai",
-      "source": "The Verge AI",
-      "lang": "en",
-      "published_at": "2026-11-27T14:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "35ea95d7",
-      "title": "大雾黄色预警来袭！合川发布未来一周天气预报 - 凤凰网",
-      "title_original": null,
-      "summary": "大雾黄色预警来袭！合川发布未来一周天气预报&nbsp;&nbsp;凤凰网上游新闻&nbsp;&nbsp;上游新闻重庆发布大雾黄色预警信号&nbsp;&nbsp;Sohu",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBobHlxS2lXTnVpckhrZ1dBb2Z5WVdXcHduTE5ucXVndThnUWoyREtsR3BubVhLNjVGNHBQWmMtcDFYM21EZnFJdWYtZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T13:57:27+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "80a29909",
-      "title": "神舟二十四号丨天宫日记：离开地球的48小时 - 新华网",
-      "title_original": null,
-      "summary": "神舟二十四号丨天宫日记：离开地球的48小时&nbsp;&nbsp;新华网巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际&nbsp;&nbsp;人民网【新思想引领新征程】开放合作推动航天事业造福全人类&nbsp;&nbsp;新浪新闻为什么世界都在关注神舟二十四号&nbsp;&nbsp;中国日报网联播+｜从“深圳时间”到“天宫”迎客&nbsp;&nbsp;央视网",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YbWEyWlZsUEF0YnhLMklwY1c3Wmlrdy04WGxxVE5kT0pjT29mSmxzMFg0aFNnamFZeDVjLXdYaXB4SUxEYVRfR3VXNTM0M3BEU2huanI4LWVSWXFMXy1PUFZQVHJMSlBIMkJvV1VlUmg1aU13ZzZGX2VpVy1XZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T13:43:53+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a061b49a",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "title_original": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "summary_original": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-27T13:38:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2a0e7e03",
-      "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
-      "title_original": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
-      "summary": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
-      "summary_original": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-taiwan-election-bpwl/27int-taiwan-election-bpwl-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-27T13:33:49+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "bb3f88b0",
-      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-      "title_original": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now op",
-      "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=840",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-27T13:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2259e2b5",
-      "title": "时政微观察丨依规治党，永远在路上 - 人民网",
-      "title_original": null,
-      "summary": "时政微观察丨依规治党，永远在路上&nbsp;&nbsp;人民网让制度真正成为带电高压线&nbsp;&nbsp;新浪财经1126头条摘要&nbsp;&nbsp;北京市人民政府门户网站【央视快评】坚持把依规治党当作管党治党基本方式&nbsp;&nbsp;光明网习近平对党内法规工作作出重要指示&nbsp;&nbsp;新华网",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wX2RUZTlKQk9wa3l5UHZMakVfWXZ3bm52a0hpYUlKMWZtVUxNdFBVUTNpcC0xY1RPS2NFSmxwY1E4V25yX0pxTTZKZXJwR3BmOEZSWDVDMFhURm5MM0gwNjY1NTVkd0RUT3I2ZWtwc1lVUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T12:03:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2238f441",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "title_original": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "summary_original": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-27T11:44:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "c7a1b1aa",
-      "title": "中国工商界呼吁美方撤回拟议加税措施 - 新华网",
-      "title_original": null,
-      "summary": "中国工商界呼吁美方撤回拟议加税措施&nbsp;&nbsp;新华网为何特朗普新一轮关税的威胁不如以往？&nbsp;&nbsp;BBC日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出&nbsp;&nbsp;凤凰网鼓吹“产能过剩论”，解不开全球经济失衡症结（国际论坛）&nbsp;&nbsp;新浪新闻_手机新浪网商务部：坚决反对美对中国等经济体加征301关税&nbsp;&nbsp;东方财富",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUJqWC1NcEk5SHBYMG9lTFJ2ZkVrV2FMVnJTOXFQQVZtazB2dWc5amhUVzlZMFJ0QzJnd0ltSVF5elZ0b09QdVJndnBPc3huZVZCbHcxTVNOX1RNcEVsbFlQMkh1SmRnS3NlN3ZlcGlxSWxvNjlFRTF6VUZ6UkV4ODNocGdFOTdq?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T11:00:18+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "ac7ca676",
-      "title": "Our 2027 Innovators Under 35 competition is now open",
-      "title_original": "Our 2027 Innovators Under 35 competition is now open",
-      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, ou",
-      "summary_original": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and founders who are engineering solutions to some of&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-27T10:48:47+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "3e6f07bc",
-      "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-      "title_original": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-      "summary": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content",
-      "category": "tech",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-27T10:27:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fb8b5353",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "title_original": "Clashes mar European games as Macron condemns violence",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "summary_original": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
-      "image_validated": true,
-      "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "category": "world",
-      "source": "BBC World",
-      "lang": "en",
-      "published_at": "2026-11-27T10:24:24+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9def04dc",
-      "title": "Singapore in Talks With U.S. to Keep AI Chip Access",
-      "title_original": "Singapore in Talks With U.S. to Keep AI Chip Access",
-      "summary": "Singapore in Talks With U.S. to Keep AI Chip Access",
-      "summary_original": null,
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.theinformation.com/briefings/singapore-talks-u-s-keep-ai-chip-access",
-      "category": "ai",
-      "source": "The Information",
-      "lang": "en",
-      "published_at": "2026-11-27T10:23:12+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "2e0b33d7",
-      "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "title_original": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "summary": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.",
-      "summary_original": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-27T10:02:40+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "d38672ab",
-      "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
-      "title_original": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
-      "summary": "The Kremlin’s rehabilitation of Stalin, who presided over the brutal labor camps of the Gulag, has accelerated during Russia’s war in Ukraine.",
-      "summary_original": "The Kremlin’s rehabilitation of Stalin, who presided over the brutal labor camps of the Gulag, has accelerated during Russia’s war in Ukraine.",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27russia-memory-01-pkwg/27russia-memory-01-pkwg-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-27T10:00:10+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fdc03894",
-      "title": "How cutting-edge prosthetics can help probe the human mind",
-      "title_original": "How cutting-edge prosthetics can help probe the human mind",
-      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and witho",
-      "summary_original": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking&#8230;",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Avi-and-Leanne.jpeg?resize=1200,600",
-      "image_validated": true,
-      "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
-      "category": "ai",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published_at": "2026-11-27T10:00:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "385d50bb",
-      "title": "三条高铁线路齐发 长三角“同城感”再进一步！ - 新蓝网",
-      "title_original": null,
-      "summary": "三条高铁线路齐发 长三角“同城感”再进一步！&nbsp;&nbsp;新蓝网安徽三条高铁同日开通 区域发展再添动能&nbsp;&nbsp;新华网三线齐发 长三角高铁营业里程突破8500公里&nbsp;&nbsp;中国青年网宿州西站开通运营，迎来“双核驱动”高铁格局&nbsp;&nbsp;人民网－安徽频道一条高铁，重新计算皖北的距离与发展&nbsp;&nbsp;Sohu",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CNTU3YTVtaVl3aHpUNjlROVdKaGlRUTFiRzFNcjZIakQtQ3F0bE0xMDhNSFRYLTVQY2pUeGRqc1hUeGJxeGdmSTd5VUpaRjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T08:19:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "e44a8899",
-      "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
-      "title_original": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
-      "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
-      "summary_original": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-27T07:56:20+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "aae75d50",
-      "title": "中外嘉宾齐聚成都 解码都江堰千年治水智慧 - 中国新闻网",
-      "title_original": null,
-      "summary": "中外嘉宾齐聚成都 解码都江堰千年治水智慧&nbsp;&nbsp;中国新闻网从都江堰读懂江河治理的中国智慧&nbsp;&nbsp;新华网“都江堰·江河战略论坛”在成都举行&nbsp;&nbsp;新浪财经中外嘉宾齐聚蓉城 求解“治水之道”如何通向“治国之道”&nbsp;&nbsp;Sohu“从都江堰看江河治理的中国智慧”智库报告即将发布&nbsp;&nbsp;凤凰网",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bWZwa0RCRFJRMGNfSGFmSG9lVkU5MTdTRnlrb2NTNHF1MEJHc29mejhLUVRnLVhzNWZyaGQySkhLT1Y1aXFCbktGRDhkeXBkQUp3X0JNdVdMQW1kSExraFFOUl9EdHRodjVLYXI4TVRZc3RHbVFBZm5Qcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T07:22:00+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4b62aa40",
-      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
-      "title_original": "The Threat to a Sanctuary for Children of North Korean Defectors",
-      "summary": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
-      "summary_original": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-27T05:00:39+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "9dd50c6f",
-      "title": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
-      "title_original": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
-      "summary": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan.",
-      "summary_original": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan.",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-japan-volleyball-promo-tjhk/25int-japan-volleyball-promo-tjhk-mediumSquareAt3X.jpg",
-      "image_validated": true,
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/rui-takahashi-japan-volleyball-gay-athlete.html",
-      "category": "world",
-      "source": "NYTimes World",
-      "lang": "en",
-      "published_at": "2026-11-27T05:00:17+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "47b3dbec",
-      "title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
-      "title_original": "Copper Surges Most in Seven Months as Risk Appetite Returns",
-      "summary": "Copper climbed the most since April, extending its rebound from an 11-month low earlier this week, as risk appetite returned after a rout fueled by concerns over the artificial intelligence trade.",
-      "summary_original": "Copper climbed the most since April, extending its rebound from an 11-month low earlier this week, as risk appetite returned after a rout fueled by concerns over the artificial intelligence trade.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-27T03:33:07+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "975c04f5",
-      "title": "周汉民委员：续写“亚太奇迹”新篇章 - 中国政协网",
-      "title_original": null,
-      "summary": "周汉民委员：续写“亚太奇迹”新篇章&nbsp;&nbsp;中国政协网中国为深化亚太合作提供了丰富选择（APEC中国年：开放创新合作） --国际&nbsp;&nbsp;人民网中方学者：亚太作为合作高地的基本面没有变&nbsp;&nbsp;新浪财经“临甲7号沙龙”聚焦APEC“中国年”成果&nbsp;&nbsp;新华网高质量共建“一带一路”促亚太共同繁荣&nbsp;&nbsp;新浪财经",
-      "summary_original": null,
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "image_validated": true,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42czVLXzdMQ1FjNzZ4OXFwYkxqQTBUODV3S0hVclNxOWZpaGRUWDVrZXRIbUQxS0ktMzZmeVYyOVRmSWMwOU5rd0JLcjZWQUlCc1FPT0R5ZWZ2MkNXMDZvcGJQaEVvelgyQmNfTENLWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "category": "china",
-      "source": "Google News (中国)",
-      "lang": "zh",
-      "published_at": "2026-11-27T02:56:22+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "08ca971d",
-      "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
-      "title_original": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
-      "summary": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
-      "summary_original": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-27T02:43:08+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "74398ac3",
-      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-      "title_original": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-      "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
-      "summary_original": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-26T23:53:35+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "fbd8facc",
-      "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
-      "title_original": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
-      "summary": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
-      "summary_original": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-26T23:44:27+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "a08beb71",
-      "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
-      "title_original": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
-      "summary": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
-      "summary_original": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
-      "image": null,
-      "image_validated": false,
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-      "category": "business",
-      "source": "Bloomberg",
-      "lang": "en",
-      "published_at": "2026-11-26T21:59:57+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4c9ff179",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "title_original": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "summary_original": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-26T20:03:54+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "4c9ff179",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "title_original": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "summary_original": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "category": "ai",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published_at": "2026-11-26T20:03:54+00:00",
-      "edition": "morning"
-    },
-    {
-      "id": "17e6217a",
-      "title": "Is Alice Huang a spy or not?",
-      "title_original": "Is Alice Huang a spy or not?",
-      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-      "summary_original": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
-      "image_validated": true,
-      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-      "category": "tech",
-      "source": "TechCrunch",
-      "lang": "en",
-      "published_at": "2026-11-26T20:00:00+00:00",
-      "edition": "morning"
     }
   ],
   "clusters": [
+    {
+      "id": "3f2d18cf",
+      "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+      "summary": "Through weeks of antigovernment unrest, hard-right activists have fought with left-wing counterparts in at least 10 towns, according to national and regional leaders.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "ee8595d4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "ee8595d4",
+          "source": "NYTimes World",
+          "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
+          "published_at": "2026-11-28T05:01:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T05:01:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "0935d34b",
+      "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+      "summary": "Prime Minister Pedro Sánchez, a staunch critic of President Trump, faces an uphill task to overcome a right-wing challenge in the national election on Sunday.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "0c86633d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "0c86633d",
+          "source": "NYTimes World",
+          "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+          "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+          "published_at": "2026-11-28T05:01:09+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T05:01:09+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f8bf2f5f",
+      "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+      "summary": "Gianni Infantino, the global soccer body’s leader, has stirred concern over his ties to President Trump. Now FIFA is rethinking the award he gave Mr. Trump last year.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-trump-fifa-prize-zjpm/28int-trump-fifa-prize-zjpm-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "5ba98baa"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "5ba98baa",
+          "source": "NYTimes World",
+          "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+          "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+          "published_at": "2026-11-28T05:01:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T05:01:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "c599838b",
+      "title": "珠海航展歼-35A将面向观众近距离静态展示 - 联合早报",
+      "summary": "珠海航展歼-35A将面向观众近距离静态展示&nbsp;&nbsp;联合早报歼-20A将首次亮相中国航展 “A”代表哪些升级？&nbsp;&nbsp;新华网歼-35A将首次真机进馆展出，面向全球观众近距离静态展示_手机新浪网&nbsp;&nbsp;新浪财经_金融信息服务商陆军多款现役主战装备将亮相第十六届中国航展&nbsp;&nbsp;中国网新闻中心以前只能抬头看它飞 这次能凑到跟前看！歼-35A真",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "c68f3777"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "c68f3777",
+          "source": "Google News (中国)",
+          "title": "珠海航展歼-35A将面向观众近距离静态展示 - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JLTFHTWM4N0lYemR1X2ZhQlI3UjB2cnk0R24wSUdMMVdCLWFvTDEwbloxLTRVeHRaU1h0dzVmWWJkU3RwRzRXN3FHREU4R202RlkzVGNkYnU2WU16c2kyLUE3c0xodUFhTVpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-28T04:47:58+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T04:47:58+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7ec91b54",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+      "article_ids": [
+        "a45bd669"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "a45bd669",
+          "source": "BBC World",
+          "title": "Eight killed in Peruvian military helicopter crash",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T04:19:16+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T04:19:16+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4b0804d9",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+      "article_ids": [
+        "be6b98f7"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "be6b98f7",
+          "source": "BBC World",
+          "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T04:13:45+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T04:13:45+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "3ee577d5",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512G",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "d9da6be2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "d9da6be2",
+          "source": "The Verge",
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "published_at": "2026-11-28T03:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T03:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "7396dd7e",
+      "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+      "summary": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the C",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "f3410dc4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "f3410dc4",
+          "source": "Bloomberg",
+          "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+          "published_at": "2026-11-28T03:01:44+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T03:01:44+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "201a7621",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take a",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "9409604c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "9409604c",
+          "source": "The Verge",
+          "title": "We found 60-odd Black Friday deals we love for $100 or less",
+          "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+          "published_at": "2026-11-28T01:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T01:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "6d93a2bb",
+      "title": "省领导宣讲党的二十届五中全会精神 - 辽宁省人民政府",
+      "summary": "省领导宣讲党的二十届五中全会精神&nbsp;&nbsp;辽宁省人民政府市学习贯彻五中全会精神宣讲团深入各区各系统宣讲&nbsp;&nbsp;北京市人民政府门户网站焦点访谈丨时代答卷——开创管党治党 兴党强党新局面&nbsp;&nbsp;凤凰网江西：以实干实绩推动全会精神落地见效&nbsp;&nbsp;Sohu辅导报告：生动·精彩·解渴&nbsp;&nbsp;最高人民法院知识产权法庭",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "9184a73c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "9184a73c",
+          "source": "Google News (中国)",
+          "title": "省领导宣讲党的二十届五中全会精神 - 辽宁省人民政府",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDlPNFVSUnIySGZnTWhvdVMzNzljMUxwNkgtaENTUDNweUhISWpCNlBZS2I1dG9KS0xoU3h4SmRpYmZsVnctZlhPc2g2VnpUdU1CWGF5WktoRnQ4d2FEd0lvMzU1M0VmanZ3MjBSVC1ZemtISllWWGtlRDN5bkgzRFV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-28T01:11:54+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T01:11:54+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cff6bf51",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "category": "world",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+      "article_ids": [
+        "bcd9c26d"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "articles": [
+        {
+          "id": "bcd9c26d",
+          "source": "BBC World",
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-28T00:56:55+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T00:56:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "2b588238",
+      "title": "总书记走进百姓家 | 让伊春老林区焕发青春活力 - 人民网",
+      "summary": "总书记走进百姓家 | 让伊春老林区焕发青春活力&nbsp;&nbsp;人民网在Google 新闻上查看更多头条新闻和观点",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "8f72be27"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "8f72be27",
+          "source": "Google News (中国)",
+          "title": "总书记走进百姓家 | 让伊春老林区焕发青春活力 - 人民网",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VUW95czNnTEVNNm5XVUZ2aUNBWVpMWW1Da1JyZjlqejRqR3dUQXpISDk4bFAxc2VUUmlMRFB0UDVIOTBWRDVmbVh5WVdNZXdSRGNNMnl5Vy1iTVg0NERGSUVvdTFqZlBjYVNCOUo4NGh1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-28T00:43:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T00:43:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "cf9424d9",
+      "title": "福建山海协作稳步推进 - 中国经济网",
+      "summary": "福建山海协作稳步推进&nbsp;&nbsp;中国经济网央媒看福建丨经济日报头版重要位置刊发：福建山海协作稳步推进&nbsp;&nbsp;新浪财经_金融信息服务商奋勇争先！“关键词”里的福建脉动&nbsp;&nbsp;新浪财经_金融信息服务商郭宁宁参加省直第一代表团和漳州市代表团审议&nbsp;&nbsp;央视网福建省第十二次党代会｜福建下五年这样提升民生含“福”量&nbsp;&nbsp;新华网",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "b318b594"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "b318b594",
+          "source": "Google News (中国)",
+          "title": "福建山海协作稳步推进 - 中国经济网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uelMyaDdHZTh3dUhuX09BTXBESTB5LVdsMjZlOVFKNnlIYU04RWhlUEZYUTU3NS1tT2FBV1Q0QzRaNEZEUWhUZjctVy1aWF96aFB2bWpBLWFzUXg3LVdJdm1pdnBzR3NjYkJSc3A2bkh3SDdfRDQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-28T00:06:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T00:06:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "aa00656f",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "32b1b347"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "32b1b347",
+          "source": "The Verge",
+          "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+          "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+          "published_at": "2026-11-28T00:02:49+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T00:02:49+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f64c4010",
+      "title": "今天白天晴间多云，北风三级左右 - Sohu",
+      "summary": "今天白天晴间多云，北风三级左右&nbsp;&nbsp;Sohu北京今天风大，明天风也大，周日晴好！下周气温一路下滑_信息提示_首都之窗&nbsp;&nbsp;北京市人民政府门户网站26-11-27 15:15 微博认证：北京市气象局官方微博&nbsp;&nbsp;新浪网北京今日北风相伴，未来两天蓝天续档，冬日暖阳安排上&nbsp;&nbsp;Sohu北京市气象台发布大风蓝色预警信号&nbsp;&n",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "310e2a63"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "310e2a63",
+          "source": "Google News (中国)",
+          "title": "今天白天晴间多云，北风三级左右 - Sohu",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnl4eWVoM0ZlU1JNNVhEdEZDTkxuVFpPUm5Odkd5aGhhNlFHVnBsaHc3a0V1dWhqQ1NiWXY5RzA0U2pFT2RNNzhab1Y4ZmVxZlphSmFwWEQ3TTBtWV8wWlZld0ZBb3ZOS1p0WWFEOWxqQVp3dm9URlNSNGQ5OGQ3RG5qYV9QT2o4bUU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-28T00:00:21+00:00"
+        }
+      ],
+      "published_at": "2026-11-28T00:00:21+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "b4fdda78",
+      "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+      "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last yea",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "2a2975f4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "2a2975f4",
+          "source": "The Verge",
+          "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+          "published_at": "2026-11-27T23:32:17+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T23:32:17+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "8f01da3a",
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "ff65b12f"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "ff65b12f",
+          "source": "The Verge",
+          "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+          "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+          "published_at": "2026-11-27T23:32:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T23:32:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4ef47fef",
+      "title": "坚定用习近平党建思想统揽指导四川党的建设各项工作 - 四川新闻",
+      "summary": "坚定用习近平党建思想统揽指导四川党的建设各项工作&nbsp;&nbsp;四川新闻四川部署全面从严治党26项任务 将探索建立群众诉求“一站式”办理平台&nbsp;&nbsp;Sohu中共四川省委十二届十次全会举行&nbsp;&nbsp;人民网－四川频道省委省直机关工委常务副书记彭映梅：守正创新 狠抓落实 全面提高机关党建质量丨全会参会笔记&nbsp;&nbsp;四川新闻全会审议通过《决定》主要有哪些",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ca90e78c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ca90e78c",
+          "source": "Google News (中国)",
+          "title": "坚定用习近平党建思想统揽指导四川党的建设各项工作 - 四川新闻",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hZGppbzQ5aXBXNVFwRUN1aGdJaG5saXl6OXlwX3Rua0pycnhZWUtjTlhGcmNOcVlLYnM5WVVzdFVFZkRtWHFSOTZrTC1JeF9RM0paR2FFM2FKQVRRWjVZSXlFWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-27T23:30:43+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T23:30:43+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9c9bd030",
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/V1-scaled-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "20f9c73c"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "20f9c73c",
+          "source": "The Verge",
+          "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+          "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+          "published_at": "2026-11-27T23:30:32+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T23:30:32+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "35403477",
+      "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+      "summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding whic",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "911c9d76"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "911c9d76",
+          "source": "The Verge",
+          "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+          "published_at": "2026-11-27T23:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T23:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4889be30",
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable dis",
+      "category": "tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "article_ids": [
+        "3df5ac78"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ],
+      "articles": [
+        {
+          "id": "3df5ac78",
+          "source": "The Verge",
+          "title": "The new iPad Mini is getting its first major discount for Black Friday",
+          "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "published_at": "2026-11-27T22:30:00+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T22:30:00+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "5f9ae897",
+      "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "summary": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "5272b181"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "5272b181",
+          "source": "Bloomberg",
+          "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+          "published_at": "2026-11-27T22:29:56+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T22:29:56+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "e1ed5e06",
+      "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+      "summary": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "b61a3e94"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "b61a3e94",
+          "source": "Bloomberg",
+          "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+          "published_at": "2026-11-27T22:14:41+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T22:14:41+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "96e88873",
+      "title": "从河长制看河长治 - 人民日报",
+      "summary": "从河长制看河长治&nbsp;&nbsp;人民日报多地交出“还水于江河、还景于群众”实践答卷 河湖正成为可感可及的幸福&nbsp;&nbsp;央视网【新思想引领新征程】河湖安澜 碧水长流&nbsp;&nbsp;光明网十年，坚守出来的清澈&nbsp;&nbsp;新浪网全国“民间河湖长”达14万人 全民参与共护河湖&nbsp;&nbsp;Sohu",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ad10a422"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ad10a422",
+          "source": "Google News (中国)",
+          "title": "从河长制看河长治 - 人民日报",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51aThsazZjX0kzb2pMMWdnZE1IREVhMlpkRmUybG15MFFRTFpMOEJ1Mm1WT2hJWGY1Y1dhX25EMkpvdWowSnhVdTJKRkRhYVo3UU1Ya1BFcjlxcnMyTXVMNFFkbGxCaGxCUGRhdG1fWHh6Q3piaURpZkJuYVV0bG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-27T21:40:18+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T21:40:18+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "4aea25e4",
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "summary": "S&amp;P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually ad",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "1bb618f2"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "1bb618f2",
+          "source": "Bloomberg",
+          "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+          "published_at": "2026-11-27T21:19:31+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T21:19:31+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "f528e848",
+      "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+      "summary": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "32bd75d4"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "32bd75d4",
+          "source": "Bloomberg",
+          "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+          "published_at": "2026-11-27T21:05:05+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T21:05:05+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "9dfd689c",
+      "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+      "summary": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
+      "category": "world",
+      "image": "https://static01.nyt.com/images/2026/11/27/world/27int-safrica-joburg-mayor/27int-safrica-joburg-mayor-mediumSquareAt3X.jpg",
+      "article_ids": [
+        "3133f982"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "NYTimes World"
+      ],
+      "articles": [
+        {
+          "id": "3133f982",
+          "source": "NYTimes World",
+          "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+          "link": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+          "published_at": "2026-11-27T20:51:21+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T20:51:21+00:00",
+      "is_merged": false
+    },
     {
       "id": "a98578d6",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
@@ -1350,6 +2052,32 @@
       "is_merged": false
     },
     {
+      "id": "a532cb3d",
+      "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+      "summary": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+      "category": "business",
+      "image": null,
+      "article_ids": [
+        "afd24ae1"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "articles": [
+        {
+          "id": "afd24ae1",
+          "source": "Bloomberg",
+          "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+          "published_at": "2026-11-27T16:37:27+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T16:37:27+00:00",
+      "is_merged": false
+    },
+    {
       "id": "7d06387e",
       "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
       "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from ",
@@ -1402,6 +2130,32 @@
       "is_merged": false
     },
     {
+      "id": "360f7a00",
+      "title": "“临甲7号沙龙”聚焦APEC“中国年”成果 - 新华网",
+      "summary": "“临甲7号沙龙”聚焦APEC“中国年”成果&nbsp;&nbsp;新华网中国为深化亚太合作提供了丰富选择（APEC中国年：开放创新合作） --国际&nbsp;&nbsp;人民网“开放是深圳与生俱来的基因”&nbsp;&nbsp;新浪新闻_手机新浪网为亚太区域合作提供智力支撑&nbsp;&nbsp;中国经济网综研视点｜韦福雷：一批国际合作机构将在深圳设立，“后APEC”时代开启&nbsp;&nbsp",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "ac7850ef"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "ac7850ef",
+          "source": "Google News (中国)",
+          "title": "“临甲7号沙龙”聚焦APEC“中国年”成果 - 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YnJBcWZjb3kyX3ByNXdNbkdHbTVmS0lPQzZFWjNoY2F0Z0hORE9keXJFandYem5TZk9qSjhGMEVXcHFfM0hBa05XMEV6ekgxWG1uZjA5R01LaXNDTVBRSEd2WjlDMWNVTGw2R0lzMUJOaHhDaUhtMFlvak5IWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-27T15:41:04+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T15:41:04+00:00",
+      "is_merged": false
+    },
+    {
       "id": "3777d8f1",
       "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
       "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargea",
@@ -1451,6 +2205,32 @@
         }
       ],
       "published_at": "2026-11-27T15:26:55+00:00",
+      "is_merged": false
+    },
+    {
+      "id": "ddb1de7d",
+      "title": "求是网评论员：高举和平利用外层空间旗帜 - 求是",
+      "summary": "求是网评论员：高举和平利用外层空间旗帜&nbsp;&nbsp;求是巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际&nbsp;&nbsp;人民网外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐&nbsp;&nbsp;央视网神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传&nbsp;&nbsp;中国青年网天宫初体验：48小时，齐尚·阿里经历了什么？&nbsp;&n",
+      "category": "china",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "article_ids": [
+        "10405dfc"
+      ],
+      "article_count": 1,
+      "source_count": 1,
+      "sources": [
+        "Google News (中国)"
+      ],
+      "articles": [
+        {
+          "id": "10405dfc",
+          "source": "Google News (中国)",
+          "title": "求是网评论员：高举和平利用外层空间旗帜 - 求是",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ob1pVelk1dEE0NndUR19nWlBhaDYtZ2JGN2xGWklod2Q5Rjd2OWlxbkdhbktYZ1lhU1RqbnR5XzBVNWZiRHJMakJQRmV6TFNUQ3B1aF8zVnFfWm1CT1FHMkpjekYwNy0wb3pKNlRDTUZXbnFfVDZuQ3BTdTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-11-27T15:16:29+00:00"
+        }
+      ],
+      "published_at": "2026-11-27T15:16:29+00:00",
       "is_merged": false
     },
     {
@@ -1685,786 +2465,6 @@
         }
       ],
       "published_at": "2026-11-27T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1b4da113",
-      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my h",
-      "category": "ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "article_ids": [
-        "87888e32"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Verge AI"
-      ],
-      "articles": [
-        {
-          "id": "87888e32",
-          "source": "The Verge AI",
-          "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-          "published_at": "2026-11-27T14:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T14:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f1f0da94",
-      "title": "大雾黄色预警来袭！合川发布未来一周天气预报 - 凤凰网",
-      "summary": "大雾黄色预警来袭！合川发布未来一周天气预报&nbsp;&nbsp;凤凰网上游新闻&nbsp;&nbsp;上游新闻重庆发布大雾黄色预警信号&nbsp;&nbsp;Sohu",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "35ea95d7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "35ea95d7",
-          "source": "Google News (中国)",
-          "title": "大雾黄色预警来袭！合川发布未来一周天气预报 - 凤凰网",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBobHlxS2lXTnVpckhrZ1dBb2Z5WVdXcHduTE5ucXVndThnUWoyREtsR3BubVhLNjVGNHBQWmMtcDFYM21EZnFJdWYtZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T13:57:27+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T13:57:27+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "111317b7",
-      "title": "神舟二十四号丨天宫日记：离开地球的48小时 - 新华网",
-      "summary": "神舟二十四号丨天宫日记：离开地球的48小时&nbsp;&nbsp;新华网巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际&nbsp;&nbsp;人民网【新思想引领新征程】开放合作推动航天事业造福全人类&nbsp;&nbsp;新浪新闻为什么世界都在关注神舟二十四号&nbsp;&nbsp;中国日报网联播+｜从“深圳时间”到“天宫”迎客&nbsp;&nbsp;央视网",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "80a29909"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "80a29909",
-          "source": "Google News (中国)",
-          "title": "神舟二十四号丨天宫日记：离开地球的48小时 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YbWEyWlZsUEF0YnhLMklwY1c3Wmlrdy04WGxxVE5kT0pjT29mSmxzMFg0aFNnamFZeDVjLXdYaXB4SUxEYVRfR3VXNTM0M3BEU2huanI4LWVSWXFMXy1PUFZQVHJMSlBIMkJvV1VlUmg1aU13ZzZGX2VpVy1XZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T13:43:53+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T13:43:53+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "99a8668e",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg",
-      "article_ids": [
-        "a061b49a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "a061b49a",
-          "source": "BBC World",
-          "title": "Rare turtles found inside baggage at Amsterdam airport",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-27T13:38:07+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T13:38:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "7081ae3a",
-      "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
-      "summary": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-taiwan-election-bpwl/27int-taiwan-election-bpwl-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "2a0e7e03"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "2a0e7e03",
-          "source": "NYTimes World",
-          "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
-          "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
-          "published_at": "2026-11-27T13:33:49+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T13:33:49+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a3037e90",
-      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now op",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=840",
-      "article_ids": [
-        "bb3f88b0"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "bb3f88b0",
-          "source": "MIT Technology Review",
-          "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-          "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
-          "published_at": "2026-11-27T13:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T13:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "5b29162a",
-      "title": "时政微观察丨依规治党，永远在路上 - 人民网",
-      "summary": "时政微观察丨依规治党，永远在路上&nbsp;&nbsp;人民网让制度真正成为带电高压线&nbsp;&nbsp;新浪财经1126头条摘要&nbsp;&nbsp;北京市人民政府门户网站【央视快评】坚持把依规治党当作管党治党基本方式&nbsp;&nbsp;光明网习近平对党内法规工作作出重要指示&nbsp;&nbsp;新华网",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "2259e2b5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "2259e2b5",
-          "source": "Google News (中国)",
-          "title": "时政微观察丨依规治党，永远在路上 - 人民网",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wX2RUZTlKQk9wa3l5UHZMakVfWXZ3bm52a0hpYUlKMWZtVUxNdFBVUTNpcC0xY1RPS2NFSmxwY1E4V25yX0pxTTZKZXJwR3BmOEZSWDVDMFhURm5MM0gwNjY1NTVkd0RUT3I2ZWtwc1lVUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T12:03:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T12:03:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a105bcec",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
-      "article_ids": [
-        "2238f441"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "2238f441",
-          "source": "BBC World",
-          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-27T11:44:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T11:44:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9e7dace7",
-      "title": "中国工商界呼吁美方撤回拟议加税措施 - 新华网",
-      "summary": "中国工商界呼吁美方撤回拟议加税措施&nbsp;&nbsp;新华网为何特朗普新一轮关税的威胁不如以往？&nbsp;&nbsp;BBC日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出&nbsp;&nbsp;凤凰网鼓吹“产能过剩论”，解不开全球经济失衡症结（国际论坛）&nbsp;&nbsp;新浪新闻_手机新浪网商务部：坚决反对美对中国等经济体加征301关税&nbsp;&nbsp;东方财富",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "c7a1b1aa"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "c7a1b1aa",
-          "source": "Google News (中国)",
-          "title": "中国工商界呼吁美方撤回拟议加税措施 - 新华网",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUJqWC1NcEk5SHBYMG9lTFJ2ZkVrV2FMVnJTOXFQQVZtazB2dWc5amhUVzlZMFJ0QzJnd0ltSVF5elZ0b09QdVJndnBPc3huZVZCbHcxTVNOX1RNcEVsbFlQMkh1SmRnS3NlN3ZlcGlxSWxvNjlFRTF6VUZ6UkV4ODNocGdFOTdq?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T11:00:18+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T11:00:18+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "591c1acb",
-      "title": "Our 2027 Innovators Under 35 competition is now open",
-      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, ou",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
-      "article_ids": [
-        "ac7ca676"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "ac7ca676",
-          "source": "MIT Technology Review",
-          "title": "Our 2027 Innovators Under 35 competition is now open",
-          "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
-          "published_at": "2026-11-27T10:48:47+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:48:47+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e5a14122",
-      "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-      "summary": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-      "category": "tech",
-      "image": null,
-      "article_ids": [
-        "3e6f07bc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "3e6f07bc",
-          "source": "The Information",
-          "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-          "link": "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content",
-          "published_at": "2026-11-27T10:27:17+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:27:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "41173716",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "category": "world",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
-      "article_ids": [
-        "fb8b5353"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "articles": [
-        {
-          "id": "fb8b5353",
-          "source": "BBC World",
-          "title": "Clashes mar European games as Macron condemns violence",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-27T10:24:24+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:24:24+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "70105fc9",
-      "title": "Singapore in Talks With U.S. to Keep AI Chip Access",
-      "summary": "Singapore in Talks With U.S. to Keep AI Chip Access",
-      "category": "ai",
-      "image": null,
-      "article_ids": [
-        "9def04dc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "The Information"
-      ],
-      "articles": [
-        {
-          "id": "9def04dc",
-          "source": "The Information",
-          "title": "Singapore in Talks With U.S. to Keep AI Chip Access",
-          "link": "https://www.theinformation.com/briefings/singapore-talks-u-s-keep-ai-chip-access",
-          "published_at": "2026-11-27T10:23:12+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:23:12+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "41bda074",
-      "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "summary": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-Eygpt-journalist-vfzk/27int-Eygpt-journalist-vfzk-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "2e0b33d7"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "2e0b33d7",
-          "source": "NYTimes World",
-          "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-          "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
-          "published_at": "2026-11-27T10:02:40+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:02:40+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "46fb69b1",
-      "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
-      "summary": "The Kremlin’s rehabilitation of Stalin, who presided over the brutal labor camps of the Gulag, has accelerated during Russia’s war in Ukraine.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27russia-memory-01-pkwg/27russia-memory-01-pkwg-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "d38672ab"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "d38672ab",
-          "source": "NYTimes World",
-          "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
-          "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
-          "published_at": "2026-11-27T10:00:10+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:00:10+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9ba3d5b9",
-      "title": "How cutting-edge prosthetics can help probe the human mind",
-      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and witho",
-      "category": "ai",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Avi-and-Leanne.jpeg?resize=1200,600",
-      "article_ids": [
-        "fdc03894"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "MIT Technology Review"
-      ],
-      "articles": [
-        {
-          "id": "fdc03894",
-          "source": "MIT Technology Review",
-          "title": "How cutting-edge prosthetics can help probe the human mind",
-          "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
-          "published_at": "2026-11-27T10:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T10:00:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "1f783864",
-      "title": "三条高铁线路齐发 长三角“同城感”再进一步！ - 新蓝网",
-      "summary": "三条高铁线路齐发 长三角“同城感”再进一步！&nbsp;&nbsp;新蓝网安徽三条高铁同日开通 区域发展再添动能&nbsp;&nbsp;新华网三线齐发 长三角高铁营业里程突破8500公里&nbsp;&nbsp;中国青年网宿州西站开通运营，迎来“双核驱动”高铁格局&nbsp;&nbsp;人民网－安徽频道一条高铁，重新计算皖北的距离与发展&nbsp;&nbsp;Sohu",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "385d50bb"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "385d50bb",
-          "source": "Google News (中国)",
-          "title": "三条高铁线路齐发 长三角“同城感”再进一步！ - 新蓝网",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CNTU3YTVtaVl3aHpUNjlROVdKaGlRUTFiRzFNcjZIakQtQ3F0bE0xMDhNSFRYLTVQY2pUeGRqc1hUeGJxeGdmSTd5VUpaRjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T08:19:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T08:19:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "77a40317",
-      "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
-      "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "e44a8899"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "e44a8899",
-          "source": "Bloomberg",
-          "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-          "published_at": "2026-11-27T07:56:20+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T07:56:20+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ea69e5cb",
-      "title": "中外嘉宾齐聚成都 解码都江堰千年治水智慧 - 中国新闻网",
-      "summary": "中外嘉宾齐聚成都 解码都江堰千年治水智慧&nbsp;&nbsp;中国新闻网从都江堰读懂江河治理的中国智慧&nbsp;&nbsp;新华网“都江堰·江河战略论坛”在成都举行&nbsp;&nbsp;新浪财经中外嘉宾齐聚蓉城 求解“治水之道”如何通向“治国之道”&nbsp;&nbsp;Sohu“从都江堰看江河治理的中国智慧”智库报告即将发布&nbsp;&nbsp;凤凰网",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "aae75d50"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "aae75d50",
-          "source": "Google News (中国)",
-          "title": "中外嘉宾齐聚成都 解码都江堰千年治水智慧 - 中国新闻网",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bWZwa0RCRFJRMGNfSGFmSG9lVkU5MTdTRnlrb2NTNHF1MEJHc29mejhLUVRnLVhzNWZyaGQySkhLT1Y1aXFCbktGRDhkeXBkQUp3X0JNdVdMQW1kSExraFFOUl9EdHRodjVLYXI4TVRZc3RHbVFBZm5Qcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T07:22:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T07:22:00+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ac92af72",
-      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
-      "summary": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "4b62aa40"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "4b62aa40",
-          "source": "NYTimes World",
-          "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
-          "link": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
-          "published_at": "2026-11-27T05:00:39+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T05:00:39+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "3e981ff3",
-      "title": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
-      "summary": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan.",
-      "category": "world",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-japan-volleyball-promo-tjhk/25int-japan-volleyball-promo-tjhk-mediumSquareAt3X.jpg",
-      "article_ids": [
-        "9dd50c6f"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "NYTimes World"
-      ],
-      "articles": [
-        {
-          "id": "9dd50c6f",
-          "source": "NYTimes World",
-          "title": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
-          "link": "https://www.nytimes.com/2026/11/27/world/asia/rui-takahashi-japan-volleyball-gay-athlete.html",
-          "published_at": "2026-11-27T05:00:17+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T05:00:17+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "fe960f43",
-      "title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
-      "summary": "Copper climbed the most since April, extending its rebound from an 11-month low earlier this week, as risk appetite returned after a rout fueled by concerns over the artificial intelligence trade.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "47b3dbec"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "47b3dbec",
-          "source": "Bloomberg",
-          "title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
-          "published_at": "2026-11-27T03:33:07+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T03:33:07+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "d076915c",
-      "title": "周汉民委员：续写“亚太奇迹”新篇章 - 中国政协网",
-      "summary": "周汉民委员：续写“亚太奇迹”新篇章&nbsp;&nbsp;中国政协网中国为深化亚太合作提供了丰富选择（APEC中国年：开放创新合作） --国际&nbsp;&nbsp;人民网中方学者：亚太作为合作高地的基本面没有变&nbsp;&nbsp;新浪财经“临甲7号沙龙”聚焦APEC“中国年”成果&nbsp;&nbsp;新华网高质量共建“一带一路”促亚太共同繁荣&nbsp;&nbsp;新浪财经",
-      "category": "china",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "article_ids": [
-        "975c04f5"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Google News (中国)"
-      ],
-      "articles": [
-        {
-          "id": "975c04f5",
-          "source": "Google News (中国)",
-          "title": "周汉民委员：续写“亚太奇迹”新篇章 - 中国政协网",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42czVLXzdMQ1FjNzZ4OXFwYkxqQTBUODV3S0hVclNxOWZpaGRUWDVrZXRIbUQxS0ktMzZmeVYyOVRmSWMwOU5rd0JLcjZWQUlCc1FPT0R5ZWZ2MkNXMDZvcGJQaEVvelgyQmNfTENLWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-11-27T02:56:22+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T02:56:22+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "f1b1762c",
-      "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
-      "summary": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "08ca971d"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "08ca971d",
-          "source": "Bloomberg",
-          "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
-          "published_at": "2026-11-27T02:43:08+00:00"
-        }
-      ],
-      "published_at": "2026-11-27T02:43:08+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "ed6438ed",
-      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-      "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "74398ac3"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "74398ac3",
-          "source": "Bloomberg",
-          "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-          "published_at": "2026-11-26T23:53:35+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T23:53:35+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "8d2f0459",
-      "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
-      "summary": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "fbd8facc"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "fbd8facc",
-          "source": "Bloomberg",
-          "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
-          "published_at": "2026-11-26T23:44:27+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T23:44:27+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "a38116aa",
-      "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
-      "summary": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
-      "category": "business",
-      "image": null,
-      "article_ids": [
-        "a08beb71"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "Bloomberg"
-      ],
-      "articles": [
-        {
-          "id": "a08beb71",
-          "source": "Bloomberg",
-          "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-          "published_at": "2026-11-26T21:59:57+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T21:59:57+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9135f9e8",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-      "article_ids": [
-        "4c9ff179"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "4c9ff179",
-          "source": "TechCrunch",
-          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-          "published_at": "2026-11-26T20:03:54+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T20:03:54+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "9135f9e8",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "category": "ai",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-      "article_ids": [
-        "4c9ff179"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch AI"
-      ],
-      "articles": [
-        {
-          "id": "4c9ff179",
-          "source": "TechCrunch AI",
-          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-          "published_at": "2026-11-26T20:03:54+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T20:03:54+00:00",
-      "is_merged": false
-    },
-    {
-      "id": "e84af985",
-      "title": "Is Alice Huang a spy or not?",
-      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-      "category": "tech",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
-      "article_ids": [
-        "17e6217a"
-      ],
-      "article_count": 1,
-      "source_count": 1,
-      "sources": [
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "id": "17e6217a",
-          "source": "TechCrunch",
-          "title": "Is Alice Huang a spy or not?",
-          "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-          "published_at": "2026-11-26T20:00:00+00:00"
-        }
-      ],
-      "published_at": "2026-11-26T20:00:00+00:00",
       "is_merged": false
     }
   ]
